@@ -20,8 +20,13 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential gcc git \
     && rm -rf /var/lib/apt/lists/*
 
-# Install pyrite from PyPI (or local if needed)
-RUN pip install --no-cache-dir "pyrite[server,ai,cli,semantic]"
+# Clone and install pyrite from source
+RUN git clone --depth=1 https://github.com/markramm/pyrite.git /tmp/pyrite && \
+    cd /tmp/pyrite && \
+    pip install --no-cache-dir ".[server,ai,cli]" && \
+    pip install --no-cache-dir ".[semantic]" && \
+    pip install --no-cache-dir /tmp/pyrite/extensions/cascade && \
+    rm -rf /tmp/pyrite
 
 RUN apt-get purge -y build-essential gcc && \
     apt-get autoremove -y && \
@@ -41,7 +46,6 @@ RUN chmod +x /app/seed.sh
 RUN useradd --create-home --shell /bin/bash pyrite
 
 ENV PYRITE_DATA_DIR=/data
-ENV PYRITE_STATIC_DIR=/app/viewer-dist
 RUN mkdir -p /data && chown pyrite:pyrite /data
 VOLUME /data
 
