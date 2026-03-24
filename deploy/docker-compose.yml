@@ -1,0 +1,40 @@
+services:
+  pyrite:
+    build:
+      context: ../
+      dockerfile: deploy/Dockerfile
+    volumes:
+      - pyrite-data:/data
+    environment:
+      - PYRITE_HOST=0.0.0.0
+      - PYRITE_AUTH_ENABLED=true
+      - PYRITE_AUTH_ANONYMOUS_TIER=read
+      - PYRITE_CORS_ORIGINS=https://capturecascade.org
+      - PYRITE_SEARCH_MODE=hybrid
+      - PYRITE_DATA_DIR=/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8088/health')"]
+      interval: 30s
+      timeout: 5s
+      start_period: 15s
+      retries: 3
+
+  caddy:
+    image: caddy:2-alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      pyrite:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  pyrite-data:
+  caddy-data:
+  caddy-config:

@@ -1,0 +1,7 @@
+capturecascade.org {
+	# Root redirects to the timeline site
+	redir / /site/cascade-timeline/ permanent
+
+	# Everything to Pyrite
+	reverse_proxy pyrite:8088
+}
