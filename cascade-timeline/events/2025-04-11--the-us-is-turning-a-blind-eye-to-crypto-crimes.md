@@ -1,0 +1,43 @@
+---
+type: solidarity_event
+id: 2025-04-11--the-us-is-turning-a-blind-eye-to-crypto-crimes
+date: '2025-04-11'
+title: The US is turning a blind eye to crypto crimes
+description: 'Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges'
+status: confirmed
+importance: 7
+location: 'Washington, D.C.'
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- regulatory-capture
+- ethics-violation
+- justice-weaponization
+capture_type: regulatory_capture
+sources:
+- date: '2025-04-11'
+  outlet: PBS News
+  title: Justice Department will disband its team focused on cryptocurrency crimes
+  url: 'https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes'
+  tier: 1
+- date: '2025-04-11'
+  outlet: The Hill
+  title: Donald Trump administration disbands crypto regulations enforcement unit
+  url: 'https://thehill.com/homenews/administration/5238617-trump-disband-crypto-enforcement-unit/'
+  tier: 2
+- date: '2025-04-11'
+  outlet: Fortune Crypto
+  title: Justice Department scraps crypto unit as Trump further loosens oversight of digital assets
+  url: 'https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/'
+  tier: 2
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Regulatory Capture
+---
+type: solidarity_event
+Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges

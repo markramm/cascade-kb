@@ -1,0 +1,45 @@
+---
+type: solidarity_event
+date: '1978-11-07'
+title: Business Roundtable Coordinates First Major Corporate PAC Election Strategy
+actors:
+- Business Roundtable
+- Reginald Jones
+- Corporate PAC Committee
+- Republican Party
+sources:
+- title: Business Roundtable Political Strategy
+  url: https://www.businessroundtable.org/archive
+  outlet: Business Roundtable
+  tier: 2
+- title: Corporate PACs and the 1978 Elections
+  url: https://www.jstor.org/stable/440562
+  outlet: Journal of Politics
+  tier: 2
+- title: Corporate PAC Development and 1978 Election Strategies
+  url: https://www.opensecrets.org/political-action-committees-pacs/what-is-a-pac
+  outlet: OpenSecrets
+  tier: 1
+- title: Political Action Committee Spending Report - 1978
+  url: https://www.fec.gov/press/resources-journalists/political-action-committees-pacs/
+  outlet: Federal Election Commission
+  tier: 1
+tags:
+- business-roundtable
+- corporate-coordination
+- electoral-interference
+- systematic-corruption
+importance: 7
+status: confirmed
+connections: []
+contradictions: []
+verification_status: verified
+id: 1978-11-07--business-roundtable-coordinates-first-major-corpor
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Electoral Manipulation
+---
+type: solidarity_event
+
+The Business Roundtable, representing Fortune 500 CEOs, coordinated the first systematic corporate PAC strategy for the 1978 midterm elections. Corporate PACs contributed $9.8 million to federal candidates, with 75% going to business-friendly Republicans. This marked the beginning of coordinated corporate electoral interference and the systematic capture of legislative processes through financial influence.

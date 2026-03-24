@@ -1,0 +1,7 @@
+knowledge_bases:
+  - name: cascade-timeline
+    path: ./cascade-timeline
+    type: journalism-investigation
+    description: >-
+      The Capture Cascade Timeline — documenting the systematic erosion of
+      democratic institutions. 4,400+ verified events with source citations.

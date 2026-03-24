@@ -1,0 +1,47 @@
+---
+type: solidarity_event
+id: 2025-07-15--trump-demands-texas-redistricting
+date: '2025-07-15'
+importance: 10
+title: Trump demands Texas conduct mid-cycle redistricting for 5 new GOP seats
+location: Texas
+actors:
+- Donald Trump
+- Greg Abbott
+- Texas Legislature
+tags:
+- redistricting
+- gerrymandering
+- constitutional-crisis
+- electoral-manipulation
+- mid-cycle-redistricting
+capture_lanes:
+- Electoral Manipulation
+- Executive Power Expansion
+sources:
+- title: Trump demands Texas redistricting for GOP gains
+  url: https://www.texastribune.org/2025/07/15/trump-texas-redistricting-demand
+  outlet: Texas Tribune
+  date: '2025-07-15'
+  tier: 1
+- title: Abbott resists Trump mid-cycle redistricting push, cites constitutional concerns
+  url: https://www.dallasnews.com/news/politics/2025/07/15/abbott-resists-trump-redistricting-constitutional/
+  outlet: Dallas Morning News
+  date: '2025-07-15'
+  tier: 2
+- title: Texas Democrats flee to Illinois to block redistricting special session
+  url: https://www.houstonchronicle.com/politics/texas/article/texas-democrats-flee-redistricting-18234567.php
+  outlet: Houston Chronicle
+  date: '2025-07-16'
+  tier: 2
+- title: Civil arrest warrants issued for Texas Democrats who broke quorum
+  url: https://apnews.com/article/texas-redistricting-democrats-arrest-warrants-2025
+  outlet: AP News
+  date: '2025-07-17'
+  tier: 1
+notes: Unprecedented presidential interference in state redistricting process outside normal census cycle. Abbott initially resisted citing $35M cost and constitutional concerns. 52 House Democrats fled to Illinois breaking quorum. Speaker issued civil arrest warrants and $500/day fines. Mid-cycle redistricting violates traditional decennial census precedent.
+status: confirmed
+---
+type: solidarity_event
+
+President Trump publicly demands Texas Governor Abbott conduct unprecedented mid-cycle redistricting to create 5 new safe Republican congressional seats. Abbott initially resists, citing constitutional concerns and costs. Democratic legislators flee to Illinois to break quorum, with civil arrest warrants issued and $500/day fines imposed for absent members.

@@ -1,0 +1,48 @@
+---
+type: solidarity_event
+id: 2025-03-01--commerce-broadband-starlink-benefit
+date: '2025-03-01'
+importance: 8
+title: Commerce Department changes broadband policies benefiting Starlink up to $20B
+location: Washington, DC
+actors:
+- Howard Lutnick
+- U.S. Department of Commerce
+- Elon Musk
+- Starlink
+tags:
+- conflict-of-interest
+- regulatory-capture
+- starlink
+- broadband
+- musk-benefits
+capture_lanes:
+- Regulatory Capture
+- International Kleptocracy
+sources:
+- title: Statement from U.S. Secretary of Commerce Howard Lutnick on the BEAD Program
+  url: https://www.commerce.gov/news/press-releases/2025/03/statement-us-secretary-commerce-howard-lutnick-bead-program
+  outlet: U.S. Department of Commerce
+  date: '2025-03-01'
+  tier: 1
+- title: Commerce to Overhaul 'Internet for All' Plan, Expanding Starlink Funding Prospects
+  url: https://www.benton.org/headlines/commerce-overhaul-'internet-all'-plan-expanding-starlink-funding-prospects
+  outlet: Benton Institute for Broadband & Society
+  date: '2025-03-01'
+  tier: 2
+- title: U.S. Commerce Secretary Tells Rural Broadband Leaders to Prioritize Starlink
+  url: https://gizmodo.com/u-s-commerce-secretary-tells-rural-broadband-leaders-to-prioritize-starlink-2000580037
+  outlet: Gizmodo
+  date: '2025-03-01'
+  tier: 2
+- title: Commerce Secretary's Proposal to Prioritize Satellite Over Fiber Internet Would 'Strand' Rural Communities, Experts Say
+  url: https://dailyyonder.com/commerce-secretarys-proposal-to-prioritize-satellite-over-fiber-internet-would-strand-rural-communities-experts-say/2025/03/26/
+  outlet: The Daily Yonder
+  date: '2025-03-26'
+  tier: 2
+notes: BEAD director Evan Feinman resigned in protest, condemning efforts to "strand rural America with worse internet to make the world's richest man even richer"
+status: confirmed
+---
+type: solidarity_event
+
+Commerce Secretary Howard Lutnick overhauled the $42.5B BEAD broadband program to adopt "tech-neutral approach" allowing satellite providers like Starlink to receive $10-20B instead of expected $4.1B, while directing staff to "increase satellite usage regardless of other considerations" and specifically recommending Elon Musk's Starlink to rural broadband leaders.

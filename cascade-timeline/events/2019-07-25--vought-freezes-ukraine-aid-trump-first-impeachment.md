@@ -1,0 +1,37 @@
+---
+type: solidarity_event
+id: 2019-07-25--vought-freezes-ukraine-aid-trump-first-impeachment
+date: '2019-07-25'
+title: Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
+importance: 9
+actors:
+- Russ Vought
+- Donald Trump
+- Volodymyr Zelenskyy
+tags:
+- russ-vought
+- ukraine
+- trump-impeachment
+- omb
+sources:
+- title: What You Should Know About Russ Vought, Trump's Shadow President
+  url: https://www.propublica.org/article/about-russell-vought-trump-shadow-president
+  outlet: ProPublica
+  tier: 1
+- title: Report sheds light on Ukraine aid freeze at center of Trump's impeachment
+  url: https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html
+  outlet: CNBC
+  tier: 2
+- title: Freeze on Ukraine aid came from Trump appointee
+  url: https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/
+  outlet: CNN
+  tier: 1
+status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Executive Power Expansion
+- Electoral Manipulation
+---
+type: solidarity_event
+
+Acting OMB Director Russell Vought ordered the freeze of $214 million in congressionally approved security assistance to Ukraine in July 2019 after the Trump White House pressured Ukraine's government to investigate then-candidate Joe Biden and his son Hunter. On July 25, 2019, Trump made his infamous phone call to Ukrainian President Volodymyr Zelenskyy, and in mid-June, White House aide Robert Blair had told Vought "we need to hold it up." Vought obliged despite concerns from career officials about the legality of withholding funds Congress had appropriated. The Government Accountability Office later determined the impoundment was illegal, violating the Impoundment Control Act. The aid freeze became central to Trump's first impeachment, with House Democrats seeking to interview Vought as part of their investigation. Vought refused to cooperate, stating: "We will not be participating in a sham process that's designed to relitigate the last election." The Ukraine aid freeze demonstrated Vought's willingness to execute Trump's illegal orders and disregard congressional appropriations authority—tactics he would refine and expand during Trump's second term when freezing hundreds of billions in blue state funding. The episode established Vought's role as Trump's enforcer for undermining congressional power through budget manipulation, a blueprint he would follow systematically in 2025 as "shadow president."

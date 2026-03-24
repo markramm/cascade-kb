@@ -1,0 +1,23 @@
+# Generated exports (rebuilt by pyrite)
+export/
+
+# Node
+viewer/node_modules/
+viewer/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Pyrite index
+*.db
+*.db-shm
+*.db-wal
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

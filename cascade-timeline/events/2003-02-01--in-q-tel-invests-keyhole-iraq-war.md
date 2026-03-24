@@ -1,0 +1,51 @@
+---
+type: solidarity_event
+id: 2003-02-01--in-q-tel-invests-keyhole-iraq-war
+date: '2003-02-01'
+status: confirmed
+title: In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
+importance: 8
+actors:
+- In-Q-Tel
+- Keyhole Inc.
+- National Geospatial-Intelligence Agency
+- CNN
+tags:
+- in-q-tel
+- cia
+- surveillance-technology
+- iraq-war
+- satellite-surveillance
+- geospatial-intelligence
+sources:
+- title: Google buys CIA-backed mapping startup
+  url: https://www.theregister.com/2004/10/28/google_buys_keyhole/
+  outlet: The Register
+  date: '2004-10-28'
+  tier: 2
+- title: The superspy origins of Google Earth
+  url: https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/
+  outlet: SmarterMSP
+  date: '2024-04-02'
+  tier: 3
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
+  date: '2025-07-29'
+  tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Military-Industrial Complex
+- Digital & Tech Capture
+---
+type: solidarity_event
+
+In February 2003, just weeks before the U.S. invasion of Iraq, In-Q-Tel made a strategic investment in Keyhole, Inc., a struggling California startup that had developed EarthViewer, a groundbreaking 3D earth visualization system. The investment, made using funding from the National Imagery and Mapping Agency (NIMA, later renamed National Geospatial-Intelligence Agency), provided Keyhole with critical capital at a moment when the company was running low on resources.
+
+The timing proved transformative. In March 2003, as U.S. forces invaded Iraq, CNN signed a $75,000 contract with Keyhole to use EarthViewer technology for war coverage. Television viewers watching major networks including CNN, ABC, and CBS saw reporters use the software to zoom into Baghdad, displaying downtown streets and military installations with unprecedented detail. The Iraq War coverage brought EarthViewer from obscurity to mainstream public awareness virtually overnight.
+
+The CIA had worked with Keyhole to modify EarthViewer for intelligence applications, allowing analysts to detect changes in Iraqi military installations and camps by comparing satellite imagery over time. This dual-use capability—serving both intelligence operations and public media—demonstrated In-Q-Tel's core strategy of identifying commercial technologies with national security applications.
+
+Before the In-Q-Tel investment, Keyhole had struggled to gain traction with traditional venture capital firms who questioned the market for expensive mapping software (the consumer version cost $69.95). The CIA backing provided not just capital but legitimacy, signaling to both the defense establishment and commercial investors that geospatial intelligence technology represented a strategic investment category.
+
+The investment laid groundwork for what would become Google Earth, fundamentally changing public access to satellite imagery and geographic information. It also established a pattern where In-Q-Tel investments in early-stage surveillance and mapping technologies would later be acquired by major tech companies, spreading intelligence community-developed capabilities throughout the commercial sector.

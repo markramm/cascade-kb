@@ -1,0 +1,45 @@
+---
+type: solidarity_event
+date: '2014-07-16'
+title: EU and US Impose Sectoral Sanctions on Russia
+actors:
+- European Union
+- United States
+- Sberbank
+- VEB
+- Gazprombank
+- Rosneft
+sources:
+- outlet: European Council
+  title: EU Sanctions Timeline Against Russia
+  url: 'https://www.consilium.europa.eu/en/policies/sanctions-against-russia/timeline-sanctions-against-russia/'
+  tier: 1
+- outlet: CNBC
+  title: 'MH17 crisis a wake-up call to Europe over sanctions, says Obama'
+  url: 'https://www.cnbc.com/2014/07/19/mh17-crisis-a-wake-up-call-to-europe-over-sanctions-says-obama.html'
+  tier: 2
+- outlet: France 24
+  title: 'Russia defiant as US, EU unveil ''phase three'' sanctions'
+  url: 'https://www.france24.com/en/20140730-russia-defiant-usa-eu-phase-three-sectoral-sanctions'
+  tier: 2
+- outlet: US Department of Treasury
+  title: Sectoral Sanctions Identifications List (Original July 2014 Release)
+  url: 'https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx'
+  tier: 1
+importance: 9
+tags:
+- sanctions
+- mh17
+- financial-restrictions
+- energy-sector
+- ukraine-conflict
+status: confirmed
+id: 2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia
+priority_id: RT-EXP-D1F3485F-russian-oligarch-nyc-property-boom
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+type: solidarity_event
+Following the downing of Malaysia Airlines Flight MH17 over eastern Ukraine, the European Union and United States imposed comprehensive sectoral sanctions targeting Russian financial, energy, and defense sectors. These sanctions restricted access to EU and US capital markets for major Russian banks and energy companies, and prohibited export of dual-use technologies. The measures marked a significant escalation in Western response to Russian actions in Ukraine.

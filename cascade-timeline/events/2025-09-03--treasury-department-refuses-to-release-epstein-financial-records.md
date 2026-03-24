@@ -1,0 +1,37 @@
+---
+type: solidarity_event
+id: 2025-09-03--treasury-department-refuses-to-release-epstein-financial-records
+date: '2025-09-03'
+title: Treasury Department Refuses to Release $1.5 Billion in Epstein Financial Records
+importance: 9
+tags:
+- obstruction-of-justice
+- institutional-capture
+- elite-impunity
+- financial-corruption
+sources:
+- url: https://www.finance.senate.gov/ranking-members-news/as-bessent-withholds-epstein-files-wyden-expands-investigation-and-demands-financial-records
+  title: As Bessent Withholds Epstein Files, Wyden Expands Investigation and Demands Financial Records
+  date: '2025-09-03'
+  tier: 1
+  outlet: Senate Finance Committee
+- url: https://abcnews.go.com/Politics/sen-wyden-pushes-treasury-department-release-epstein-banking/story?id=125220013
+  title: Sen. Wyden pushes Treasury Department release Epstein banking files to finance committee
+  date: '2025-09-03'
+  tier: 1
+  outlet: ABC News
+actors:
+- Ron Wyden
+- Scott Bessent
+- U.S. Treasury Department
+- U.S. Senate Finance Committee
+- Jeffrey Epstein
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Surveillance Infrastructure
+status: reported
+---
+type: solidarity_event
+
+Senate Finance Committee Ranking Member Ron Wyden pressed Treasury Secretary Scott Bessent to release Epstein-related banking records covering at least $1.5 billion in suspicious transactions between 2003 and 2019. The Treasury files include suspicious activity reports detailing over 4,700 wire transfers worth $1.08 billion, along with names of women and girls Epstein may have trafficked and individuals whose involvement with Epstein could make them vulnerable to blackmail or foreign corruption. Treasury dismissed Wyden's requests twice in 2025 as 'political theater,' despite bipartisan committee staff having already reviewed thousands of pages of records. This stonewalling prevents Congressional oversight of potential elite financial networks connected to sex trafficking and raises questions about whether current or former government officials are being protected from exposure.

@@ -1,0 +1,65 @@
+---
+type: solidarity_event
+actors:
+- Government Accountability Office (GAO)
+- Department of Transportation
+- FHWA
+- Office of Management and Budget
+- Biden Administration
+capture_lanes:
+- Systematic Corruption
+citations:
+- 'https://www.gao.gov/assets/880/877916.pdf'
+- 'https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534'
+- 'https://thehill.com/policy/energy-environment/5316798-gao-watchdog-trump-administration-dot-ev-chargers/'
+- 'https://www.npr.org/2025/02/07/nx-s1-5289922/trump-transportation-department-ev-charging-halt'
+- 'https://enotrans.org/article/gao-ruling-on-nevi-impoundment-could-upend-approvals-of-all-usdot-formula-grant-programs/'
+- 'https://rollcall.com/2025/05/22/gao-finds-dot-funding-pause-on-electric-vehicle-charging-illegal/'
+date: '2025-05-22'
+id: 2025-05-22--gao-nevi-ica
+importance: 7
+sources:
+- date: '2025-05-22'
+  outlet: GAO
+  title: GAO Decision on NEVI Formula Program Funds
+  url: 'https://www.gao.gov/assets/880/877916.pdf'
+  tier: 1
+- date: '2025-05-22'
+  outlet: Government Executive
+  title: 'GAO Says Transportation Department Can''t Withhold Electric Vehicle Infrastructure Program Funds'
+  url: 'https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534'
+  tier: 2
+- date: '2025-05-22'
+  outlet: The Hill
+  title: Watchdog says Trump administration illegally halted EV charger funding
+  url: 'https://thehill.com/policy/energy-environment/5316798-gao-watchdog-trump-administration-dot-ev-chargers/'
+  tier: 2
+- date: '2025-02-07'
+  outlet: NPR
+  title: Trump administration pauses $3 billion marked for new EV charging stations
+  url: 'https://www.npr.org/2025/02/07/nx-s1-5289922/trump-transportation-department-ev-charging-halt'
+  tier: 1
+- date: '2025-05-22'
+  outlet: Roll Call
+  title: GAO finds DOT funding pause on electric vehicle charging illegal
+  url: 'https://rollcall.com/2025/05/22/gao-finds-dot-funding-pause-on-electric-vehicle-charging-illegal/'
+  tier: 2
+- date: '2025-05-22'
+  outlet: Eno Center for Transportation
+  title: GAO Ruling on NEVI Impoundment Could Upend Approvals of All USDOT Formula Grant Programs
+  url: 'https://enotrans.org/article/gao-ruling-on-nevi-impoundment-could-upend-approvals-of-all-usdot-formula-grant-programs/'
+  tier: 2
+status: confirmed
+tags:
+- budget
+- impoundment
+- gao
+- omb
+- electric-vehicles
+- infrastructure
+- legal-violation
+- transportation
+title: GAO finds unlawful withholding of EV charger funds (NEVI)
+---
+type: solidarity_event
+GAO concluded that DOT's actions on NEVI funds violated the Impoundment Control Act, finding $2.74 billion in electric vehicle infrastructure funds were unlawfully withheld. The decision mandates the Transportation Department must continue funding the National Electric Vehicle Infrastructure Formula Program (NEVI) as originally appropriated by Congress. Two key legal violations were identified: incorrect recording of statutory obligations and failure to properly notify Congress of funding withholding.

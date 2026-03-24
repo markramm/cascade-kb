@@ -1,0 +1,36 @@
+---
+type: solidarity_event
+id: 2025-10-13--us-argentina-bailout-extraordinary-intervention
+date: '2025-10-13'
+title: U.S. Executes Extraordinary $20 Billion Argentina Bailout for Political Ally
+importance: 10
+actors:
+- Scott Bessent
+- U.S. Treasury Department
+- Javier Milei
+- Hedge Funds
+sources:
+- title: The U.S. has stepped in with an extraordinary bailout of Argentina
+  url: https://www.cnbc.com/2025/10/13/us-argentina-bailout-extraordinary-intervention.html
+  date: '2025-10-13'
+  tier: 1
+  outlet: CNBC
+- title: What to know about the Trump administration's $20B bailout for Argentina
+  url: https://abcnews.com/Politics/trump-administrations-20b-bailout-argentina/story?id=126513232
+  date: '2025-10-13'
+  tier: 1
+  outlet: ABC News
+tags:
+- systematic-corruption
+- treasury-corruption
+- conflicts-of-interest
+- foreign-policy-corruption
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Electoral Manipulation
+status: reported
+---
+type: solidarity_event
+
+Treasury Secretary Scott Bessent directed $20 billion in U.S. taxpayer funds to purchase Argentine pesos and stabilize markets ahead of elections, representing only the fourth time since 1996 that the United States has purchased another country's currency. The extraordinary intervention primarily benefits major hedge funds holding Argentine debt, including those run by Bessent's former colleagues. The bailout is not an urgent economic necessity but rather a political favor to Trump ally Javier Milei, using American taxpayer dollars to prop up a foreign leader's electoral prospects while enriching administration insiders' financial holdings. This represents systematic corruption at the Treasury Department, where foreign policy decisions are made to benefit the personal financial interests of government officials.
