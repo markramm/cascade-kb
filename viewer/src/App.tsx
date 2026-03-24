@@ -2,11 +2,9 @@ import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { syncEvents, type SyncResult } from './db/loader';
 import { TimelineTable } from './components/visualization/TimelineTable';
-import { EventEditor } from './components/editor/EventEditor';
 import { LayoutDashboard, Clock, Settings as SettingsIcon } from 'lucide-react';
 import { Settings as SettingsView } from './components/Settings';
 import { TimelineView } from './components/visualization/TimelineView';
-import { getConfig } from './config/timeline';
 
 function App() {
   const [init, setInit] = useState<{ initialized: boolean; count: number; error?: string }>({
@@ -46,8 +44,6 @@ function App() {
           <Routes>
             <Route path="/" element={<TimelineTable />} />
             <Route path="/d3" element={<TimelineView />} />
-            <Route path="/events/new" element={<div className="page-padding"><EventEditor /></div>} />
-            <Route path="/events/:id/edit" element={<div className="page-padding"><EventEditor /></div>} />
             <Route path="/settings" element={<div className="page-padding"><SettingsView /></div>} />
           </Routes>
         </main>

@@ -1,8 +1,7 @@
 import { useState, useMemo } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
-import { useNavigate } from 'react-router-dom';
-import { ChevronLeft, ChevronRight, Search, ExternalLink, Edit, Plus } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Search, ExternalLink } from 'lucide-react';
 import type { TimelineEvent } from '../../schemas/events';
 import { useValidations } from '../../hooks/useValidations';
 import { ValidationBadge } from '../common/ValidationBadge';
@@ -10,8 +9,10 @@ import './TimelineTable.css';
 
 const EMPTY_ARRAY: TimelineEvent[] = [];
 
+const GITHUB_BASE = 'https://github.com/markramm/cascade-kb/blob/main/cascade-timeline/events';
+const SITE_BASE = '/site/cascade-timeline';
+
 export function TimelineTable() {
-    const navigate = useNavigate();
     const [page, setPage] = useState(1);
     const [search, setSearch] = useState('');
     const [sortField, setSortField] = useState<keyof TimelineEvent>('date');
@@ -68,9 +69,6 @@ export function TimelineTable() {
             <div className="table-header-controls">
                 <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                     <h2>Timeline Explorer</h2>
-                    <button className="btn btn-primary" onClick={() => navigate('/events/new')}>
-                        <Plus size={16} /> New
-                    </button>
                 </div>
                 <div className="search-box">
                     <Search size={18} />
@@ -103,7 +101,7 @@ export function TimelineTable() {
                                     <ValidationBadge validations={validationsMap.get(event.id)} compact />
                                 </td>
                                 <td className="col-title">
-                                    <div className="event-title">{event.title}</div>
+                                    <a href={`${SITE_BASE}/${encodeURIComponent(event.id)}`} className="event-title">{event.title}</a>
                                     <div className="event-summary">{event.summary.substring(0, 100)}...</div>
                                 </td>
                                 <td><span className="badge badge-type">{event.type || 'Generic'}</span></td>
@@ -116,12 +114,9 @@ export function TimelineTable() {
                                     </div>
                                 </td>
                                 <td className="col-actions">
-                                    <button className="icon-btn" title="View Source">
+                                    <a href={`${SITE_BASE}/${encodeURIComponent(event.id)}`} className="icon-btn" title="View entry">
                                         <ExternalLink size={16} />
-                                    </button>
-                                    <button className="icon-btn" title="Edit Event" onClick={() => navigate(`/events/${event.id}/edit`)}>
-                                        <Edit size={16} />
-                                    </button>
+                                    </a>
                                 </td>
                             </tr>
                         ))}
