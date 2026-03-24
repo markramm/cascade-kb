@@ -41,7 +41,7 @@ export interface TimelineConfig {
 }
 
 const STORAGE_KEY = 'timeline_config';
-const DEFAULT_DATA_URL = '/api/timeline.json';
+const DEFAULT_DATA_URL = '/viewer/api/timeline.json';
 
 /**
  * Parse URL parameters for timeline configuration

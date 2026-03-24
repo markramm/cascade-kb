@@ -1,10 +1,21 @@
 /// <reference types="vitest" />
 import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
+import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/viewer/',
+  server: {
+    proxy: {
+      '/viewer/api': {
+        target: 'http://localhost:8088',
+        changeOrigin: true,
+        rewrite: (p) => p.replace(/^\/viewer\/api/, '/api'),
+      }
+    }
+  },
   test: {
     globals: true,
     environment: 'jsdom',
