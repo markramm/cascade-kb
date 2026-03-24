@@ -1,42 +1,180 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400&display=swap');
+
+:root {
+	--gold: #C9A84C;
+	--gold-dim: #B8942F;
+	--gold-glow: rgba(201, 168, 76, 0.12);
+	--gold-border: rgba(201, 168, 76, 0.25);
+	--surface: #18181b;
+	--surface-raised: #1f1f23;
+	--surface-overlay: #27272a;
+	--ink: #e4e4e7;
+	--ink-soft: #a1a1aa;
+	--ink-muted: #71717a;
+	--ink-faint: #52525b;
+	--border: #2e2e33;
+	--border-light: #3f3f46;
+	--danger: #ef4444;
+	--success: #22c55e;
+	--info: #3b82f6;
+
+	/* Category colors */
+	--cat-legislative: #ef4444;
+	--cat-judicial: #3b82f6;
+	--cat-financial: #22c55e;
+	--cat-corporate: #a855f7;
+	--cat-political: #f59e0b;
+	--cat-cultural: #14b8a6;
+	--cat-other: #6b7280;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+body {
+	font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+	background: var(--surface);
+	color: var(--ink);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
-.card {
-  padding: 2em;
+h1, h2, h3, h4 {
+	margin: 0;
+	font-weight: 600;
+	color: var(--ink);
 }
 
-.read-the-docs {
-  color: #888;
+a {
+	color: var(--gold);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+/* ── Scrollbar ─────────────────────────────────────────────── */
+::-webkit-scrollbar {
+	width: 6px;
+	height: 6px;
+}
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb {
+	background: var(--ink-faint);
+	border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: var(--ink-muted);
+}
+
+/* ── App shell ─────────────────────────────────────────────── */
+.app-shell {
+	display: flex;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.app-main {
+	flex: 1;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: var(--surface);
+}
+
+/* ── Loading / Error ───────────────────────────────────────── */
+.loading-screen,
+.error-screen {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.loading-text {
+	color: var(--ink-muted);
+	font-size: 1rem;
+}
+
+.loading-spinner {
+	width: 24px;
+	height: 24px;
+	border: 2px solid var(--border-light);
+	border-top-color: var(--gold);
+	border-radius: 50%;
+	animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+	to { transform: rotate(360deg); }
+}
+
+.error-screen h2 {
+	color: var(--danger);
+}
+.error-screen p {
+	color: var(--ink-soft);
+}
+.error-screen button {
+	padding: 0.5rem 1rem;
+	background: var(--gold);
+	color: var(--surface);
+	border: none;
+	border-radius: 0.375rem;
+	cursor: pointer;
+	font-weight: 600;
+	font-family: inherit;
+}
+.error-screen button:hover {
+	background: var(--gold-dim);
+}
+
+/* ── Form inputs ───────────────────────────────────────────── */
+input[type='text'],
+input[type='search'] {
+	background: var(--surface-overlay);
+	border: 1px solid var(--border);
+	border-radius: 0.375rem;
+	color: var(--ink);
+	padding: 0.5rem 0.75rem;
+	font-family: inherit;
+	font-size: 0.875rem;
+	outline: none;
+	transition: border-color 0.15s;
+}
+input:focus {
+	border-color: var(--gold-border);
+}
+input::placeholder {
+	color: var(--ink-faint);
+}
+
+/* ── Tags ──────────────────────────────────────────────────── */
+.tag {
+	display: inline-block;
+	background: var(--gold-glow);
+	border: 1px solid var(--gold-border);
+	padding: 0.1rem 0.5rem;
+	border-radius: 1rem;
+	font-size: 0.6875rem;
+	color: var(--gold);
+	font-weight: 500;
+}
+
+.tag-overflow {
+	background: var(--surface-overlay);
+	border-color: var(--border);
+	color: var(--ink-muted);
 }

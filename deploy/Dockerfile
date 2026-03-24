@@ -1,11 +1,11 @@
 # =============================================================================
-# Stage 1: Build React viewer
+# Stage 1: Build Svelte viewer
 # =============================================================================
 FROM node:22-alpine AS viewer-build
 
 WORKDIR /build/viewer
 COPY viewer/package.json viewer/package-lock.json ./
-RUN npm ci
+RUN npm ci --legacy-peer-deps
 COPY viewer/ ./
 RUN npm run build
 
@@ -37,7 +37,7 @@ RUN apt-get purge -y build-essential gcc && \
 COPY cascade-timeline/ /seed/cascade-timeline/
 
 # Copy built viewer
-COPY --from=viewer-build /build/viewer/dist/ /app/viewer-dist/
+COPY --from=viewer-build /build/viewer/build/ /app/viewer-dist/
 
 # Copy deploy scripts
 COPY deploy/seed.sh /app/seed.sh
