@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-13--epstein-letter-to-nassar-sex-offender-network
 date: '2019-08-13'
 title: Jeffrey Epstein Sent Letter to Larry Nassar from Prison Days Before Suicide, Revealing Sex Offender Network
@@ -44,7 +44,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 13, 2019, just days before his death, Jeffrey Epstein sent a letter to Larry Nassar from the Metropolitan Correctional Center in New York—a communication discovered returned to sender in the jail's mail room weeks after Epstein's suicide. The letter, which was submitted to the FBI for handwriting analysis, revealed an apparent connection between two of the most notorious sex offenders in recent American history. According to documents released in December 2025 as part of the Justice Department's Epstein files disclosure, the handwritten letter purportedly stated: 'our president also shares our love of young, nubile girls'—a shocking claim whose authenticity remains unverified as no public findings from the FBI's handwriting analysis have been released.
 

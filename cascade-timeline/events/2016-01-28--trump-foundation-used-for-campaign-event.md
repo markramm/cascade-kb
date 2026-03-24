@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-01-28--trump-foundation-used-for-campaign-event
 date: 2016-01-28
 title: Trump Uses Charity Foundation for Iowa Campaign Event, Violating Tax Law
@@ -36,7 +36,7 @@ capture_lanes:
 - Electoral Manipulation
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump staged a campaign fundraiser in Des Moines, Iowa disguised as a charitable event, using the Trump Foundation in direct violation of federal tax law prohibiting 501(c)(3) charitable organizations from participating in political campaigns. The January 28, 2016 event occurred just days before the Iowa caucuses after Trump boycotted a Republican primary debate. Trump raised approximately $5.6 million in pledged donations, presented oversized novelty checks to veterans organizations on camera for political benefit, and allowed his campaign - led by manager Corey Lewandowski - to control the event and direct foundation activities for campaign purposes.
 

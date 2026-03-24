@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-01-03--epstein-documents-unsealing-order
 date: '2023-01-03'
 title: Federal Court Orders Unsealing of Jeffrey Epstein Case Documents
@@ -40,6 +40,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Loretta Preska orders the unsealing of documents from Virginia Giuffre's 2015 defamation case against Ghislaine Maxwell, including depositions and court filings that had been sealed for years. The order affects approximately 180 individuals mentioned in the documents, though many high-profile names remain redacted or protected by privacy interests.

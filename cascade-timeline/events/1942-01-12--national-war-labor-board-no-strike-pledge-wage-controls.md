@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-01-12--national-war-labor-board-no-strike-pledge-wage-controls
 date: '1942-01-12'
 title: National War Labor Board Established, No-Strike Pledge Constrains Unions
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt establishes the National War Labor Board (NWLB) by executive order on January 12, 1942, creating a tripartite body of labor, industry, and public representatives to arbitrate wartime labor disputes. In exchange for labor's "no-strike pledge" for the duration of the war, the board gains power to set wages, working conditions, and resolve disputes, but the arrangement ultimately favors employers by freezing wages while corporate profits soar.
 

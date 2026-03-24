@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-29--trump-media-launches-fintech-services-brand-amid-crypto-boom
 date: '2025-01-29'
 title: Trump Media Launches Truth.Fi FinTech Brand with $250M Investment Strategy
@@ -45,5 +45,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media & Technology Group (TMTG) announced the launch of Truth.Fi, a new FinTech brand targeting 'America First' investment vehicles, including customized ETFs, separately managed accounts, and cryptocurrency investments. The strategic move involves a $250 million investment custodied by Charles Schwab, focusing on American manufacturing, energy, and cryptocurrency sectors.

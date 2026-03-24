@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -50,5 +50,5 @@ tags:
 - privatization
 title: 'NASA Proposal Shifts $6 Billion, Prioritizing Mars Missions and Commercial Space Interests'
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration proposed a $6 billion cut to NASA's budget in 2025, strategically redirecting $1 billion towards Mars exploration while eliminating multiple ongoing scientific missions. This move aligns with Elon Musk's SpaceX interests and represents a significant shift in space exploration priorities, effectively privatizing and commercializing NASA's traditional scientific research programs.

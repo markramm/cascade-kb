@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1908-01-27--adair-v-united-states-yellow-dog-contracts-upheld
 date: '1908-01-27'
 title: 'Adair v. United States: Supreme Court Strikes Down Federal Ban on Yellow-Dog Contracts'
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court struck down Section 10 of the Erdman Act, which prohibited railroads engaged in interstate commerce from requiring workers to sign "yellow-dog contracts" - agreements not to join labor unions as a condition of employment. Justice John Marshall Harlan, who had dissented in Lochner, wrote for the 6-2 majority that the law violated employers' Fifth Amendment liberty of contract and exceeded Congress's commerce power.
 

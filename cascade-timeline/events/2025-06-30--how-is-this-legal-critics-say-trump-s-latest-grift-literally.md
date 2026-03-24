@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-30--how-is-this-legal-critics-say-trump-s-latest-grift-literally
 date: '2025-06-30'
 title: Trump Launches 'Victory 45-47' Fragrance Line, Sparking Ethical Questions
@@ -43,6 +43,6 @@ notes: Part of a broader pattern of presidential brand monetization. Fragrances 
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump launched a new fragrance line called Victory 45-47, priced at $249 per bottle, as part of his ongoing strategy to monetize his presidential brand. The launch includes both men's and women's fragrances, with White House Press Secretary Karoline Leavitt defending the venture against criticism of presidential profiteering.

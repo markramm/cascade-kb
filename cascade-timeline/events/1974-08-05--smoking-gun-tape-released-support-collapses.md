@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1974-08-05--smoking-gun-tape-released-support-collapses'
 date: '1974-08-05'
 title: 'Nixon Releases Smoking Gun Tape Under Supreme Court Order, Political Support Collapses Completely'
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Under order from the Supreme Court's unanimous July 24 decision in United States v. Nixon, President Nixon released the tape recording of his June 23, 1972 conversation with Chief of Staff H.R. Haldeman on August 5, 1974. The tape provided irrefutable proof that Nixon had ordered the CIA to interfere with the FBI's Watergate investigation just six days after the break-in—direct evidence of obstruction of justice that contradicted two years of presidential denials. The recording captured Nixon instructing Haldeman to tell Deputy CIA Director Vernon Walters to request that FBI Acting Director Pat Gray call off the investigation, falsely claiming it involved national security and CIA operations rather than political crimes.
 

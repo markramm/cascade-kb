@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-13--tiny-company-with-china-ties-announces-big-purchase-of-trump
 date: '2025-05-13'
 title: GD Culture Group Announces $300M Cryptocurrency Investment in Bitcoin and Trump Coin
@@ -43,5 +43,5 @@ notes: Source diversity is limited. No Reuters/AP coverage found. Requires furth
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 GD Culture Group, a small Nasdaq-traded technology company with ties to China, announced plans to purchase up to $300 million in Bitcoin and $TRUMP cryptocurrency. The investment comes amid financial challenges for the company, including a Nasdaq delisting warning and a $14.1 million net loss in 2024. The purchase involves selling common stock to an unnamed British Virgin Islands entity, raising questions about foreign influence and potential conflicts of interest.

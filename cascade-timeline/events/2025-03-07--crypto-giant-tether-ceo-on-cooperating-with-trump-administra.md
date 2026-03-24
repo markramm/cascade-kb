@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-07--crypto-giant-tether-ceo-on-cooperating-with-trump-administra
 date: '2025-03-07'
 title: 'Crypto giant Tether CEO on cooperating with Trump administration: ‘We’ve never been shady’'
@@ -48,5 +48,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Cryptocurrency Tether went from target of government scrutiny to ally of Trump; it's backed by Commerce Secretary Lutnick and now holds $140 billion in US Treasury bonds—making it the 17th-largest holder of US debt

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-04-23--mitchell-jessen-paid-81-million-for-torture-program
 date: '2013-04-23'
 title: CIA Paid Psychologists Mitchell and Jessen $81 Million to Design Torture Program
@@ -42,7 +42,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate Intelligence Committee's investigation reveals that the CIA paid private contractors James Mitchell and Bruce Jessen $81 million to design, implement, and assess the effectiveness of the enhanced interrogation program. The psychologists had no interrogation experience, no background in terrorism or al-Qaeda, and no relevant regional or linguistic expertise. They based their torture methods on a theory of "learned helplessness" derived from experiments on dogs and reverse-engineered from military Survival, Evasion, Resistance, and Escape (SERE) training designed to prepare U.S. soldiers for torture by enemies—not to extract intelligence. The massive payments for pseudoscientific torture demonstrate how the CIA privatized war crimes while enriching contractors who designed techniques proven ineffective and illegal.
 

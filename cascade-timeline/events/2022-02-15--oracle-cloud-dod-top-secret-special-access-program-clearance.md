@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-02-15--oracle-cloud-dod-top-secret-special-access-program-clearance
 date: '2022-02-15'
 title: Pentagon Authorizes Oracle Cloud for Top Secret and Special Access Program Missions
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Department of Defense granted Oracle Cloud Infrastructure (OCI) authority to operate (ATO) for Top Secret/Sensitive Compartmented Information (TS/SCI) and Special Access Program (SAP) missions on February 15, 2022, authorizing Oracle to host and process some of the Pentagon's most highly classified data and operations. This clearance authorization represented a major expansion of Oracle's access to the nation's most sensitive military and intelligence programs, elevating Oracle to the highest level of security clearance available for cloud computing contractors.
 

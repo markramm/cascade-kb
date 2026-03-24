@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1950-09-01--state-loyalty-oaths-spread-california-levering-act
 date: '1950-09-01'
 title: State Loyalty Oaths Spread as California Passes Levering Act, Requires Public Employee Pledges
@@ -41,7 +41,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1950, California passed the Levering Act, requiring all state employees to sign a loyalty oath swearing they did not belong to organizations advocating overthrow of the government. The law followed a bitter fight at the University of California that had already fired 31 faculty members for refusing to sign a university-imposed oath. Similar loyalty oaths spread across the nation, creating a McCarthy-era apparatus that extended political persecution from federal employment to state and local government, universities, and professions.
 

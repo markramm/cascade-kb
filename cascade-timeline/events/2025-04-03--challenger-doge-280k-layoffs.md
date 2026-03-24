@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-03--challenger-doge-280k-layoffs
 date: '2025-04-03'
 importance: 6
@@ -42,6 +42,6 @@ tags:
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Challenger, Gray & Christmas reported DOGE actions caused 280,253 layoff plans across 27 federal agencies in first two months, making March layoffs third-highest ever recorded (275,240 total). Federal government announced 216,670 cuts in March alone, representing 80% of all U.S. layoff announcements and 205% increase over 2024. Impacts included Education (50%), VA (80K), HHS (25%).

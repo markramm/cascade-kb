@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1919-03-03--schenck-v-united-states-clear-present-danger-free-speech
 date: '1919-03-03'
 title: 'Schenck v. United States: Supreme Court Creates ''Clear and Present Danger'' Test, Upholds Espionage Act Convictions'
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court unanimously upheld the Espionage Act conviction of Socialist Party Secretary Charles Schenck for distributing leaflets urging draft resistance. Justice Oliver Wendell Holmes Jr. authored the opinion, creating the "clear and present danger" test for restricting speech and introducing the famous "fire in a crowded theater" analogy. Holmes wrote that "when a nation is at war, many things that might be said in time of peace are such a hindrance to its effort that their utterance will not be endured."
 

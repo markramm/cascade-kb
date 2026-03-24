@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-27--the-cfpb-drops-its-lawsuit-against-capital-one-marking-a-maj
 date: '2025-02-27'
 title: CFPB Drops Major Lawsuits Against Capital One and Other Financial Firms
@@ -53,6 +53,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Consumer Financial Protection Bureau (CFPB), under acting director Russell Vought, abruptly dropped five significant lawsuits, including a $2 billion case against Capital One. The dismissals, which came during Jonathan McKernan's Senate confirmation hearing, represent an unprecedented reversal of previous enforcement actions and suggest a fundamental shift in regulatory approach.

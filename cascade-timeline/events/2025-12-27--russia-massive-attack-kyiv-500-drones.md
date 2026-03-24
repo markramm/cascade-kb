@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-27--russia-massive-attack-kyiv-500-drones
 date: '2025-12-27'
 title: Russia Launches Massive Attack on Kyiv with 500 Drones and 40 Missiles
@@ -29,7 +29,7 @@ sources:
   tier: 1
   verified: true
 ---
-type: solidarity_event
+type: timeline_event
 
 Russia launched one of the largest attacks on Kyiv in months, using approximately 500 drones and 40 missiles, including Kinzhal missiles. The attack killed 2 people and wounded at least 46, including two children. Over 1 million households in and around Kyiv lost power, and more than 40% of residential buildings lost heat as temperatures hovered around 0°C.
 

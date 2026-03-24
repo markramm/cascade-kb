@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1953-01-28--wilson-defense-secretary-gm-good-for-country
 date: '1953-01-28'
 title: Charles Wilson Confirmed Defense Secretary After "Good for General Motors" Controversy Reveals Corporate-State Fusion
@@ -42,7 +42,7 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate Armed Services Committee confirms Charles Erwin "Engine Charlie" Wilson as Secretary of Defense by a vote of 77 to 6, despite controversy over his massive General Motors stockholdings valued at more than $2.5 million (approximately $24 million in 2018 dollars). Wilson had served as president and CEO of General Motors since January 1941, directing the company's enormous World War II defense production that earned him a Medal for Merit in 1946. President Eisenhower's selection of GM's chief executive to run the Pentagon exemplifies the revolving door between major defense contractors and military leadership, as General Motors supplied vast quantities of military vehicles, aircraft engines, and munitions during the war and continues as a major defense contractor.
 

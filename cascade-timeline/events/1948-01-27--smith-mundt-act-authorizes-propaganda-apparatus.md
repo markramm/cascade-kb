@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1948-01-27--smith-mundt-act-authorizes-propaganda-apparatus
 date: '1948-01-27'
 title: Smith-Mundt Act Authorizes State Department Propaganda Apparatus - Voice of America Expands
@@ -40,7 +40,7 @@ capture_lanes:
 - Media Capture & Control
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Harry S. Truman signs the U.S. Information and Educational Exchange Act of 1948 (Public Law 80-402), popularly called the Smith-Mundt Act after sponsor Congressman Karl E. Mundt (R-SD), on January 27, 1948. The Act regulates broadcasting of programs for foreign audiences produced under State Department guidance and creates an information service to disseminate abroad information about the United States, its people, and policies. As a Cold War measure intended to compete with Soviet propaganda primarily in Europe, the legislation authorizes development of Voice of America (VOA) and other international broadcasting capabilities to engage in what Presidents Truman and Eisenhower call a "global struggle for minds and wills."
 

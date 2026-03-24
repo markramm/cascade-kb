@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-09-24--dr-hanna-attisha-reveals-elevated-blood-lead
 date: 2015-09-24
 title: Dr. Mona Hanna-Attisha Reveals Elevated Blood Lead Levels in Flint Children
@@ -35,7 +35,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Dr. Mona Hanna-Attisha, a pediatrician at Flint's Hurley Medical Center, publicly releases research proving that children's blood lead levels have doubled since the water switch, nearly tripling in the inner city. Her analysis compares blood lead data for children under 5 from January-September 2013 (before the water switch) with data from the same period in 2015 (after the switch).
 

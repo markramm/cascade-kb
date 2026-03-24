@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-10-29--lion-air-flight-610-crash-mcas-system-failure
 title: Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction
 date: '2018-10-29'
@@ -50,6 +50,6 @@ capture_lanes:
 - Corporate Capture
 validation_priority: 8
 ---
-type: solidarity_event
+type: timeline_event
 
 A fatal aviation disaster revealing critical design flaws in Boeing's 737 MAX aircraft. The crash of Lion Air Flight 610 exposed systemic issues in aircraft design, maintenance, and pilot training, resulting from a malfunctioning Maneuvering Characteristics Augmentation System (MCAS). Investigators found multiple contributing factors, including miscalibrated sensors, inadequate pilot training, and Boeing's decision to obscure MCAS system details from flight manuals.

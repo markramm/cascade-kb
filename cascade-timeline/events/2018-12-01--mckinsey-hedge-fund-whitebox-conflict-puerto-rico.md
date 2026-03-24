@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-01--mckinsey-hedge-fund-whitebox-conflict-puerto-rico
 date: '2018-12-01'
 title: Investigation Reveals McKinsey Advised Both Puerto Rico Fiscal Board and Hedge Fund Creditors Through Whitebox Advisors Holding $140 Million in Bonds
@@ -41,6 +41,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Centro de Periodismo Investigativo revealed that McKinsey's conflict of interest in Puerto Rico extended beyond its own bond holdings to include connections with major creditors through hedge fund Whitebox Advisors, which held over $140 million in Puerto Rico bonds through various investment funds while maintaining deep ties to McKinsey. Whitebox Advisors was a longtime investment of MIO Partners (McKinsey's investment subsidiary) and also managed approximately $100 million for McKinsey retirement plans, creating multi-layered conflicts where McKinsey was simultaneously: (1) advising the fiscal board on restructuring terms, (2) holding Puerto Rico bonds through MIO Partners, (3) invested in Whitebox which held $140 million in Puerto Rico debt, and (4) having its employee retirement funds managed by the same Whitebox creditor. Whitebox was a creditor in seven other bankruptcy cases where McKinsey served as the bankruptcy adviser, revealing a pattern of conflicted consulting relationships. Additionally, MIO Partners owned Puerto Rico bonds through managed accounts with Alternative Strategy Advisers and Aristeia Capital. By December 2018, McKinsey had collected approximately $50 million from the fiscal board, with monthly fees reaching $2 million—all while these complex financial relationships meant McKinsey's advice on debt restructuring terms directly affected the value of investments held by its own subsidiaries, investment partners, and employee retirement funds. The board commissioned an investigation that claimed McKinsey's investments posed no conflict but acknowledged they 'could create the appearance of a potential conflict'—a finding widely criticized as whitewashing obvious conflicts of interest that would be prohibited in normal bankruptcy proceedings.

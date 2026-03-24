@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-11--trump-megadonor-drags-of-easy-access-to-white-house
 date: '2025-04-11'
 title: Trump megadonor drags of easy access to White House
@@ -69,5 +69,5 @@ validation_metadata:
   - 'new: (added) ''[''kleptocracy'', ''corruption'', ''political-access'', ''donor-influence'', ''trump-administration'']'''
   - 'old: (added) ''[''kleptocracy'', ''corruption'']'''
 ---
-type: solidarity_event
+type: timeline_event
 Former Democratic donor and Silicon Valley investor Chamath Palihapitiya bragged on a podcast that his donations to Trump now grant him direct access to top White House officials, including the deputy chief of staff, citing a recent call made on behalf of a friend affected by tariffs

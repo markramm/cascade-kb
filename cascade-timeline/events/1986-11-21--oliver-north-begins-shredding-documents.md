@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-11-21--oliver-north-begins-shredding-documents
 date: 1986-11-21
 title: Oliver North Begins Systematic Destruction of Iran-Contra Evidence
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 National Security Council staff member Oliver North and his secretary Fawn Hall begin systematically shredding documents that would expose illegal activities related to arms sales to Iran and the diversion of proceeds to Nicaraguan Contra rebels. The five-day document destruction campaign, running from November 21-25, 1986, represents a brazen attempt to obstruct justice as the scandal begins to unravel.
 

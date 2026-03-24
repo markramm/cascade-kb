@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2006-03-09'
 title: Dubai Ports World Abandons US Port Takeover Under Congressional Pressure
 actors:
@@ -50,6 +50,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 9, 2006, Dubai Ports World (DPW) announced it would abandon its controversial plan to control US port operations, marking a pivotal moment in the Bush presidency's foreign investment strategy. The decision came after the House Appropriations Committee voted 62-2 to block the $6.8 billion deal on March 8, with Republican leaders Dennis Hastert and Bill Frist privately warning President Bush that Congressional opposition was insurmountable. DPW ultimately sold its US port operations to American International Group's Global Investment Group. The controversy transformed the Committee on Foreign Investment in the United States (CFIUS) review process, leading to a 74% increase in reviewed transactions in 2007 and demonstrating the power of bipartisan Congressional and public opposition over national security concerns.

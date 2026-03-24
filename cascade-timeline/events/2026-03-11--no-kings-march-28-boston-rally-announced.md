@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--no-kings-march-28-boston-rally-announced
 date: '2026-03-11'
 title: No Kings Coalition Announces Nationwide March 28 Protests, Aims to Be Largest in U.S. History
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, the No Kings Coalition publicly announced March 28 as the date for its third nationwide day of protest, with organizers targeting close to 9 million participants and describing it as potentially the largest single day of protest in American history.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--alec-membership-penetrates-one-quarter-state-legislators
 date: '2000-01-01'
 title: ALEC Membership Reaches 2,000+ State Legislators - Represents One-Quarter to One-Third of All State Legislators Nationwide
@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2000, ALEC's membership had grown to include over 2,000 state legislators, representing approximately one-quarter to one-third of all state legislators nationwide (out of approximately 7,400 total state legislators across all 50 states). This level of penetration meant that in most state legislatures, a significant voting bloc consisted of ALEC members who received corporate-drafted model legislation, attended ALEC conferences funded by corporate sponsors, and participated in ALEC task forces where they voted alongside corporate representatives on policy templates. More than 200 ALEC legislative members held state leadership positions such as Speaker of the House or Senate President, giving corporate-aligned legislators control over legislative agendas and committee assignments.
 

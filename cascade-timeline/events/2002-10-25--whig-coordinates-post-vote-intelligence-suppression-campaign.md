@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-10-25--whig-coordinates-post-vote-intelligence-suppression-campaign
 date: '2002-10-25'
 title: WHIG Coordinates Post-Vote Intelligence Suppression Campaign
@@ -52,6 +52,6 @@ category: intelligence_corruption
 status: confirmed
 verification_status: documented
 ---
-type: solidarity_event
+type: timeline_event
 
 Following the successful Iraq authorization vote, WHIG coordinates a systematic campaign to suppress contradictory intelligence that might undermine the war narrative. This involves pressuring intelligence agencies to suppress dissenting analysis and intimidating potential whistleblowers.

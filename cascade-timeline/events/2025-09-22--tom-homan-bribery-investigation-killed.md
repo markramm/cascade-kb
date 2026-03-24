@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-22--tom-homan-bribery-investigation-killed
 date: '2025-09-22'
 title: DOJ Closes Bribery Investigation of Border Czar Tom Homan Despite FBI Evidence
@@ -31,6 +31,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump Justice Department officially closed an FBI investigation into border czar Tom Homan after FBI recordings captured him accepting $50,000 in cash in a restaurant takeout bag on September 20, 2024, from undercover agents posing as business executives. In the recordings, Homan agreed to help steer government contracts to the executives' companies in a future Trump administration. FBI and Justice officials believed they had a strong criminal case for conspiracy to commit bribery, but Trump appointees—including acting deputy attorney general Emil Bove (Trump's former personal lawyer)—shut down the investigation in September 2025 after FBI Director Kash Patel requested a status update. The case exemplifies how Trump transformed the DOJ into a tool to protect loyalists from accountability.

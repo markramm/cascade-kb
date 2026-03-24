@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-08-08--tornado-cash-ofac-sanctions-chainalysis
 date: 2022-08-08
 title: Treasury Sanctions Tornado Cash with Chainalysis Providing Analysis
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Treasury's Office of Foreign Assets Control (OFAC) sanctions Tornado Cash, adding the decentralized cryptocurrency mixer to the Specially Designated Nationals (SDN) List with multiple cryptocurrency addresses as identifiers. This landmark action marks the first time OFAC has sanctioned a decentralized protocol rather than a centralized service, with Chainalysis providing the blockchain intelligence that supports the designation.
 

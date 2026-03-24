@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-06-28--whig-torture-memo-executive-immunity
 date: '2004-06-28'
 importance: 9
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Justice Department's torture authorization memo represents the institutional culmination of WHIG's constitutional crisis precedent establishment, demonstrating how systematic executive deception creates legal frameworks enabling executive immunity from constitutional constraints and international law. The memo's legal justification for torture—produced through WHIG-established infrastructure of intelligence manipulation, congressional bypass, and media coordination—establishes the constitutional precedent that executive branch crisis declarations can suspend rule of law through coordinated institutional capture. WHIG's systematic corruption of intelligence analysis, congressional oversight, and legal interpretation creates the institutional template allowing executive immunity from constitutional limitations during self-declared crisis periods. The torture authorization demonstrates that WHIG's precedent-establishment enables executive branch violation of fundamental constitutional principles through coordinated institutional deception rather than constitutional amendment or legitimate emergency powers. This precedent transforms the constitutional relationship between executive power and legal constraints, establishing that systematic institutional capture can effectively suspend rule of law without formal constitutional change. WHIG operations prove that coordinated crisis exploitation enables executive branch immunity from legal accountability, providing the constitutional template for ongoing oligarchic capture of democratic governance through manufactured emergency conditions.

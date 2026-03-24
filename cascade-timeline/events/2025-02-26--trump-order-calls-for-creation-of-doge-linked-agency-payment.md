@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-26--trump-order-calls-for-creation-of-doge-linked-agency-payment
 date: '2025-02-26'
 title: Trump order calls for creation of DOGE-linked agency payment-tracking systems
@@ -39,5 +39,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 President Trump issued an executive order creating Department of Government Efficiency (DOGE) systems requiring federal agencies to establish centralized technological tracking for all contracts, grants, and expenditures, with mandatory written justification for each payment to increase transparency and oversight.

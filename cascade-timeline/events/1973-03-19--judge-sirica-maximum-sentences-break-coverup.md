@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1973-03-19--judge-sirica-maximum-sentences-break-coverup'
 date: '1973-03-19'
 title: 'Judge Sirica Uses Maximum Sentences to Break Watergate Cover-up, McCord Writes Explosive Letter'
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge John Joseph Sirica, known as "Maximum John" for giving defendants the stiffest sentences guidelines allowed, presided over the trial of the Watergate burglars with deep skepticism about their claims of acting alone. Sirica employed an innovative strategy of provisional sentencing, which allowed judges to give defendants time to reconsider their cooperation before final sentencing. The burglars faced severe maximum penalties: conspiracy to burglarize, wiretap, and eavesdrop carried five years and a $10,000 fine, while burglary with intent to steal carried a maximum of 15 years imprisonment. By threatening these maximum sentences and delaying final sentencing, Sirica created powerful incentives for the convicted burglars to provide information about higher-ups in the Nixon administration.
 

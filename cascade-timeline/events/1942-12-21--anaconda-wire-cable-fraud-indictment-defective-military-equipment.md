@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-12-21--anaconda-wire-cable-fraud-indictment-defective-military-equipment
 date: "1942-12-21"
 title: "Anaconda Wire and Cable Indicted for $6 Million Fraud Selling Defective Equipment"
@@ -35,7 +35,7 @@ tags:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 # Anaconda Wire and Cable Indicted for $6 Million Fraud
 

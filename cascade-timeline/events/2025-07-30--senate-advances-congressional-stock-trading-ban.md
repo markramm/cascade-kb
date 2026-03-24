@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-30--senate-advances-congressional-stock-trading-ban
 date: '2025-07-30'
 title: Senate Committee Advances Bill Banning Congressional Stock Trading
@@ -42,5 +42,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Senate Homeland Security Committee voted 8-7 to advance the Honest Act, which would prohibit members of Congress, the president, and vice president from trading stocks. Senator Josh Hawley joined Democrats to pass the bill, facing criticism from fellow Republicans like Rick Scott and pushback from former President Trump.

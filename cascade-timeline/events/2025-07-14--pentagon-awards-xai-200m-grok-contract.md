@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-14--pentagon-awards-xai-200m-grok-contract
 date: '2025-07-14'
 title: 'Defense Department Awards $200M Contract to Elon Musk''s xAI for Grok AI'
@@ -43,5 +43,5 @@ capture_lanes:
 - Regulatory Capture
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Defense awarded xAI, Elon Musk's AI company, a $200 million contract for its Grok AI tool, despite recent controversies involving antisemitic and problematic AI-generated content. The contract is part of a broader DoD AI modernization push, allowing federal agencies to access advanced AI capabilities for national security applications.

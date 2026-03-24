@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-04-12--amazon-injury-rate-double-warehouse-industry-average
 date: 2022-04-12
 title: Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers
 

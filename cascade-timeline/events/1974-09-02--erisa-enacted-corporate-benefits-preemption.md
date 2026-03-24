@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-09-02--erisa-enacted-corporate-benefits-preemption
 date: '1974-09-02'
 importance: 8
@@ -39,6 +39,6 @@ sources:
 notes: While ERISA was framed as protecting workers' pensions, its preemption clause prevents states from regulating employee benefit plans, creating a regulatory vacuum that benefits corporations. ERISA plans enjoy immunities not available to other insurers, and denied benefits claims can only be heard by federal judges without jury trials.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Gerald Ford signs the Employee Retirement Income Security Act (ERISA) into law, establishing federal preemption that prohibits states and localities from regulating employee benefit plans and creates special protections for corporations managing worker benefits. While publicly framed as protecting workers' pension and health benefits through federal standards, ERISA's preemption clause prevents states from enacting stronger consumer protections or holding benefit plan administrators accountable under state law. The law allows multistate employers to "design valuable health and retirement benefit plans tailored to their workforce and administer those plans uniformly" by preempting "any state or local law that 'relates to' an employee benefit plan subject to ERISA." Critically, ERISA limits remedies for workers denied benefits to federal court orders (with no jury trials) directing plans to pay for "medically necessary" care, while insurers operating ERISA plans enjoy immunities unavailable to other insurance companies. This creates a regulatory framework favoring corporate interests over worker protections, representing federal-level implementation of the Powell Memo strategy to reshape law in favor of business. The timing - during the height of corporate mobilization following the Powell Memo - demonstrates how legislative capture operates alongside think tank development and judicial transformation to advance systematic corporate power.

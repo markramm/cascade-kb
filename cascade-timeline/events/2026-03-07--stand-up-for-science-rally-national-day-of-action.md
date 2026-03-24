@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--stand-up-for-science-rally-national-day-of-action
 date: '2026-03-07'
 title: Stand Up for Science Holds Nationwide 'Rally to Take Back Science' at 46+ Locations
@@ -37,7 +37,7 @@ capture_lanes:
 - Democratic Erosion
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 7, 2026 — the one-year anniversary of the movement's founding rally — Stand Up for Science organized a "Rally to Take Back Science" in more than 46 locations nationwide, including a flagship event on the National Mall in Washington, D.C. Demonstrators included scientists, public health professionals, students, Nobel laureates, members of Congress, and state legislators, all calling for an end to political interference in the American scientific enterprise.
 

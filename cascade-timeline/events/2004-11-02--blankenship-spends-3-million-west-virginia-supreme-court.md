@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-11-02--blankenship-spends-3-million-west-virginia-supreme-court
 date: '2004-11-02'
 title: Massey Energy CEO Spends $3 Million to Elect Judge in Case Against His Company
@@ -73,7 +73,7 @@ sources:
   tier: 2
   outlet: Verifiedvoting
 ---
-type: solidarity_event
+type: timeline_event
 Massey Energy CEO Don Blankenship pours over $3 million into West Virginia's 2004 judicial election to elect Brent Benjamin to the state Supreme Court of Appeals, successfully defeating incumbent justice Warren McGraw. Blankenship's spending—equivalent to "a dollar for every West Virginian" as he later boasted—exceeds the total amount spent by all other Benjamin supporters combined and Benjamin's own campaign committee. Benjamin wins by fewer than 50,000 votes.
 
 The extraordinary campaign spending occurs while Massey faces a $50 million civil judgment on appeal before the very court Benjamin seeks to join. In 2002, a Boone County jury found Massey liable for fraudulently canceling a coal supply contract with Hugh Caperton's Harman Mining Company, driving it out of business. Blankenship contributes the statutory maximum directly to Benjamin's campaign, donates $2.5 million to the political organization "And For The Sake Of The Kids" opposing McGraw, and spends over $500,000 on independent expenditures for direct mailings and advertisements supporting Benjamin.

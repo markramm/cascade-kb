@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-06-17--operation-wetback-mass-deportation-eisenhower
 date: '1954-06-17'
 title: Operation Wetback Mass Deportation Uses Military Tactics, Human Rights Violations
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Attorney General Herbert Brownell launches Operation Wetback, a mass deportation initiative using military-style tactics to remove Mexican immigrants. Created by Joseph May Swing, a retired U.S. Army lieutenant general heading the Immigration and Naturalization Service, the operation targets undocumented immigrants but routinely violates the rights of legal residents and U.S. citizens. Border agents descend on Mexican-American neighborhoods demanding identification from "Mexican-looking" citizens, invade private homes without warrants in the middle of the night, and raid Mexican businesses. Without hearings or oversight, agents seize and deport people who are lawfully in the country, including some American citizens of Hispanic origin.
 

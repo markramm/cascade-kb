@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-21--circle-bitgo-and-other-crypto-firms-plan-to-apply-for-bank-c
 date: '2025-04-21'
 title: Circle, BitGo, Coinbase Pursue US Bank Charters Under Trump's Pro-Crypto Agenda
@@ -48,6 +48,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Circle, Paxos, BitGo, and Coinbase are preparing to apply for national bank charters or trust bank licenses, reflecting the Trump administration's aggressive pro-cryptocurrency stance. This move represents a significant shift in crypto firms' strategy, seeking deeper integration with the traditional banking system by obtaining federal banking credentials.

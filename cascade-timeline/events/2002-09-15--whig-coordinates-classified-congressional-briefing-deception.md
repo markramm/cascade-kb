@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-15--whig-coordinates-classified-congressional-briefing-deception
 title: WHIG Coordinates Systematic Deception in Classified Congressional Intelligence Briefings
 date: '2002-09-15'
@@ -64,7 +64,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 In September 2002, the White House Iraq Group (WHIG) systematically coordinated efforts to manipulate congressional intelligence briefings, using legislative liaison Nicholas Calio to present fabricated and exaggerated intelligence claims about Iraq's weapons capabilities. By strategically controlling classified briefing content, WHIG members like Karl Rove, Karen Hughes, and Mary Matalin bypassed traditional intelligence vetting processes, effectively transforming congressional war authorization into a propaganda-driven rubber stamp.
 

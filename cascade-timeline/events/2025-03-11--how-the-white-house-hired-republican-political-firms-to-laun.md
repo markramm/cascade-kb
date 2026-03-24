@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -47,5 +47,5 @@ tags:
 - media-manipulation
 title: DHS Awards $200 Million Ad Contract to Republican Firms Without Full Competitive Bidding
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration circumvented standard procurement processes to award a $200 million DHS advertising contract to two Republican-linked political consulting firms, bypassing competitive bidding and using taxpayer funds for a politically-motivated 'self-deportation' media campaign.

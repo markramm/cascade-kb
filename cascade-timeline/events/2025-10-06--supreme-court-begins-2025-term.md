@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-06--supreme-court-begins-2025-term
 date: '2025-10-06'
 title: Supreme Court Begins 2025-2026 Term with Focus on Executive Power and Voting Rights
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court began its 2025-2026 term on October 6, 2025, with a docket featuring critical cases on executive power, voting rights, and constitutional law. The October session includes 10 oral arguments over five days, with several cases that could fundamentally reshape American governance.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-13--va-plans-eliminate-35000-healthcare-positions
 date: '2025-12-13'
 title: VA Plans to Eliminate 35,000 Healthcare Positions Despite Record Veteran Enrollment
@@ -30,7 +30,7 @@ capture_lanes:
 - Federal Workforce Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Veterans Affairs plans to eliminate as many as 35,000 healthcare positions, mostly unfilled jobs including doctors, nurses, and support staff, according to internal memos obtained by the Washington Post. The cuts would reduce VA healthcare workforce to as few as 372,000 employees—a 10% reduction from 2024 levels.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1939-02-27--fansteel-ruling-limits-sit-down-strikes
 date: '1939-02-27'
 title: Supreme Court Rules in NLRB v. Fansteel That Sit-Down Strikers Can Be Lawfully Fired Despite Employer Violations
@@ -34,7 +34,7 @@ capture_lanes:
 - Labor Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 27, 1939, the Supreme Court rules 6-2 in NLRB v. Fansteel Metallurgical Corporation that workers who engage in sit-down strikes—occupying employer property—lose the protections of the National Labor Relations Act and can be lawfully discharged even when the employer has committed unfair labor practices. The decision deals a significant blow to the labor movement by declaring illegal the most effective organizing tactic of the 1930s, the occupation strikes that had won recognition from General Motors, Goodyear, and other major corporations.
 

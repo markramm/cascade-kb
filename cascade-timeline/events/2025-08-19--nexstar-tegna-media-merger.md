@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-19--nexstar-tegna-media-merger
 date: '2025-08-19'
 title: 'Nexstar-Tegna $6.2 Billion Merger Creates Media Giant Reaching 80% of US Households'
@@ -51,7 +51,7 @@ capture_lanes:
 - 'Media Capture & Control'
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 Nexstar Media Group announced a $6.2 billion acquisition of Tegna Inc. in August 2025, creating a broadcasting giant that would control television stations reaching approximately 80% of U.S. television households. Broadcasting & Cable and Variety reported on the deal, noting that it represented the acceleration of local broadcast television consolidation under the Trump administration's FCC, which had created what industry observers described as a "regulatory-friendly environment" for media mergers following Biden-era restrictions on broadcast consolidation. The merger came shortly after the FCC's approval of the Skydance-Paramount deal and was part of a broader wave of broadcast consolidation.
 
 The scale of the Nexstar-Tegna combination raised significant concerns about the concentration of local news in a small number of corporate hands. Local broadcast television remained the primary news source for a significant portion of the American public, particularly older and rural viewers. When a single company controlled stations reaching 80% of television households, the potential for coordinated editorial direction — or coordinated avoidance of stories unfavorable to the corporate owner or its political allies — across hundreds of local markets became a significant threat to the diversity and independence of local journalism. The Nexstar combination followed the pattern of Sinclair Broadcasting, which had previously required its owned stations to air identical "must-run" political content.

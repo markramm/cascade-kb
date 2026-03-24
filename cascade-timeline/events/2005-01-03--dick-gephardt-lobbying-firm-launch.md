@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-01-03--dick-gephardt-lobbying-firm-launch
 date: '2005-01-03'
 title: Dick Gephardt Founds Lobbying Firm After 28 Years as House Democratic Leader
@@ -35,7 +35,7 @@ capture_lanes:
 - Labor Suppression
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Former House Majority Leader Dick Gephardt (D-MO) founded Gephardt Group, a consulting and lobbying firm, immediately after his three-decade political career ended with the expiration of his 14th congressional term on January 3, 2005. Gephardt established the Atlanta-based firm with his children, Matthew and Christine, positioning it as a labor relations consulting and government affairs operation. Simultaneously, Gephardt joined international law firm DLA Piper as a strategic advisor in its government affairs practice group, a position he held from June 2005 to December 2009, creating dual revenue streams from his congressional expertise.
 

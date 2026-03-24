@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-09--rfk-jr-fires-entire-cdc-vaccine-committee
 date: '2025-06-09'
 title: RFK Jr. Fires All 17 Members of CDC Vaccine Advisory Committee
@@ -35,7 +35,7 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 9, 2025, Health and Human Services Secretary Robert F. Kennedy Jr. removed all 17 members of the Advisory Committee on Immunization Practices (ACIP), the expert panel that advises the Centers for Disease Control and Prevention on vaccine policy and recommendations. Per a directive from Kennedy, committee members received formal notice of their immediate termination, representing an unprecedented purge of scientific expertise from federal vaccine policymaking.
 

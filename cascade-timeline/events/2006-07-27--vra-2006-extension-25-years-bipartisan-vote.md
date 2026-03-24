@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-07-27--vra-2006-extension-25-years-bipartisan-vote
 date: '2006-07-27'
 title: 'Voting Rights Act Reauthorization of 2006: 25-Year Extension Passes with Bipartisan Supermajority Before Conservative Legal Assault'
@@ -34,7 +34,7 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President George W. Bush signed the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006, extending Section 5 preclearance requirements for 25 years with overwhelming bipartisan support. The House passed the bill 390-33 and the Senate 98-0, demonstrating that the VRA retained broad political legitimacy even as conservative legal activists prepared the judicial assault that would gut it seven years later.
 

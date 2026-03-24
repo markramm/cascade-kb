@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-05-25--hud-scandal-exposed-pierce-influence-peddling
 date: '1989-05-25'
 title: Reagan HUD Scandal Exposed, Samuel Pierce Influence Peddling Investigation
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress begins investigating whether HUD Secretary Samuel Pierce engaged in mismanagement and abuse of resources during his eight-year tenure under Reagan, uncovering that the department became a center of influence peddling and favoritism toward Pierce's friends and political allies. During his tenure, Pierce—widely derided as "Silent Sam" for his low profile—fulfilled the Reagan-era mission by drastically curtailing the agency's massive grant programs and shrinking its bureaucracy. Investigators conclude Pierce and his aides may have illegally steered large amounts of government money toward projects developed by influential Republicans, wasting millions if not billions of dollars.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--colorado-ag-sues-epa-coal-haze-plan-rejection
 date: '2026-03-08'
 title: Colorado Attorney General and Environmental Groups Sue EPA Over Illegal Rejection of State Clean Air Plan Protecting Coal
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Colorado Attorney General Phil Weiser and a coalition of environmental groups including the National Parks Conservation Association and the Sierra Club (represented by Earthjustice) filed separate petitions in the U.S. Court of Appeals for the Tenth Circuit in early March 2026, challenging the Trump EPA's January 26 rejection of Colorado's state implementation plan for regional haze.
 

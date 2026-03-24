@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-06-18--biden-praises-palantir-stimulus-fraud-detection
 date: '2010-06-18'
 title: Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
@@ -37,7 +37,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 18, 2010, Vice President Joe Biden and Office of Management and Budget Director Peter Orszag held a press conference announcing the success of fighting fraud in the American Recovery and Reinvestment Act (stimulus) by the Recovery Accountability and Transparency Board. Biden specifically credited the success to Palantir software being deployed by the federal government to analyze spending data and detect fraudulent patterns.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-02-27'
 title: EIU Democracy Index 2024 Reports Historic Low in Global Democracy Score
 importance: 8
@@ -33,5 +33,5 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 The Economist Intelligence Unit's 2024 Democracy Index revealed a historic low global democracy score of 5.17 (on a 0-10 scale), indicating a significant decline in democratic health worldwide. The report showed that 130 of 167 countries experienced democratic erosion, with 39.2% of the world's population living under authoritarian rule. Notable downgrades included France and South Korea moving from 'full' to 'flawed' democracies.

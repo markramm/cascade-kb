@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-14--trump-comey-let-flynn-go
 date: 2017-02-14
 title: Trump Asks Comey to "Let Flynn Go" in Private Oval Office Meeting
@@ -39,7 +39,7 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The day after National Security Advisor Michael Flynn resigned for lying about his contacts with Russian Ambassador Sergey Kislyak, President Trump cleared the Oval Office of other officials—including Attorney General Jeff Sessions and senior advisor Jared Kushner—and asked FBI Director James Comey to drop the investigation into Flynn. "I hope you can see your way clear to letting this go, to letting Flynn go," Trump told Comey. "He is a good guy. I hope you can let this go." This private request constituted one of the clearest episodes of obstruction of justice documented in the Mueller Report and set in motion the chain of events that would lead to Trump firing Comey and the appointment of Special Counsel Robert Mueller.
 

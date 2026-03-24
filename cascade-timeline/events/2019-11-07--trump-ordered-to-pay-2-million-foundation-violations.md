@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-11-07--trump-ordered-to-pay-2-million-foundation-violations
 date: 2019-11-07
 title: Judge Orders Trump to Pay $2 Million for Misusing Trump Foundation Charity Funds
@@ -42,7 +42,7 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 New York State Supreme Court Justice Saliann Scarpulla ordered President Donald Trump to pay $2 million in damages to eight legitimate charities for systematically misusing the Trump Foundation for personal, business, and political purposes. The judgment found that Trump had "breached his fiduciary duties" as Foundation president and personally benefited from charitable assets meant for public good. The court also mandated that Trump and his adult children complete mandatory training on the legal requirements for operating charitable foundations and imposed restrictions on Trump's ability to serve on charity boards without prior court approval - extraordinary judicial sanctions acknowledging his systematic abuse of charitable status.
 

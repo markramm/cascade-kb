@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-09-03--standing-rock-police-violence-pipeline-protesters
 date: '2016-09-03'
 title: 'Standing Rock: Private Security and Police Attack Dakota Access Pipeline Water Protectors'
@@ -36,7 +36,7 @@ capture_lanes:
 - Environmental Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 3, 2016, Standing Rock Sioux tribal members and water protectors reported the destruction of sacred burial sites by Dakota Access Pipeline construction crews, leading to violent confrontations between private security contractors and demonstrators. Security workers deployed attack dogs on protesters, with video footage showing dogs biting demonstrators and dogs with blood on their faces and mouths.
 

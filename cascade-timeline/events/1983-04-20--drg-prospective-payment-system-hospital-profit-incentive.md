@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-04-20--drg-prospective-payment-system-hospital-profit-incentive
 date: '1983-04-20'
 title: Medicare Adopts DRG Prospective Payment System Creating Hospital Profit Incentives for Reduced Care
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Social Security Amendments of 1983 establish Medicare's Prospective Payment System (PPS), fundamentally transforming hospital economics by replacing cost-based reimbursement with fixed payments based on Diagnosis Related Groups (DRGs). Under the new system, hospitals receive a predetermined amount based on a patient's diagnosis regardless of actual treatment costs, creating powerful financial incentives to minimize care, discharge patients quickly, and avoid costly procedures.
 

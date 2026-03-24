@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Devin Alan Rhoden
 - Berman Jerry Nowlin Jr.
@@ -40,5 +40,5 @@ tags:
 - crypto
 title: 'Federal Agents Charge Two with $400,000 NFT ''Rug Pull'' Money Laundering Scheme'
 ---
-type: solidarity_event
+type: timeline_event
 Homeland Security Investigations (HSI) Tampa led a multi-agency investigation charging Devin Alan Rhoden, a senior military cyber analyst, and Berman Jerry Nowlin Jr., an NFT developer, with conspiracy to commit wire fraud and money laundering. The defendants created three NFT collections ('UndeadApes', 'Undead Lady Apes', and 'Undead Tombstone') that were part of an elaborate cryptocurrency 'rug pull' scheme. Using sophisticated blockchain 'chain-hopping' techniques, they obfuscated nearly $400,000 in fraudulent proceeds by transferring funds between Solana and Ethereum blockchains. Nowlin was found guilty in November 2024, while Rhoden pleaded guilty in May 2024. This case represents a significant federal prosecution highlighting emerging cryptocurrency fraud techniques.

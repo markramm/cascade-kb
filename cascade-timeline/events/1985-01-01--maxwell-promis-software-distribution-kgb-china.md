@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Robert Maxwell
 - KGB
@@ -54,7 +54,7 @@ tags:
 - international-espionage
 title: Maxwell Begins Distribution of Backdoored PROMIS Software to KGB and China
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert Maxwell begins systematic distribution of the weaponized PROMIS software with intelligence backdoors to foreign governments including the Soviet KGB and Chinese Military Intelligence (PLA-2). According to multiple sources, Maxwell sold China a copy of PROMIS for $9 million in 1985, revealing the software's 'trap door' secret. Working with Israeli Mossad operative Rafi Eitan, Maxwell ultimately distributed over $500 million worth of the surveillance-enabled PROMIS software to intelligence agencies worldwide, creating a global espionage network that allowed Western intelligence to monitor foreign governments and organizations.
 

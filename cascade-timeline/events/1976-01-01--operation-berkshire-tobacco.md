@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1976-01-01--operation-berkshire-tobacco
 date: '1976-01-01'
 importance: 8
@@ -44,7 +44,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Major multinational tobacco companies secretly coordinated a long-running
 strategy to resist regulation and scientific consensus on smoking harms—an

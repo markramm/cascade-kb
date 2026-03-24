@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-01--wyoming-coal-tax-cuts-revenue-loss
 date: '2024-03-01'
 title: 'Wyoming Legislature Passes Second Coal Tax Cut in Two Years, Sacrificing $20 Million Annually to Subsidize Declining Industry'
@@ -71,7 +71,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Wyoming lawmakers pass House Bill 75, reducing the coal severance tax rate from 6.5% to 6%, marking the second consecutive tax cut for coal producers in two years. In 2022, the Legislature reduced the severance tax from 7% to 6.5%, together costing the state approximately $20 million in annual revenue while coal production and employment continue steep declines. The actual revenue losses exceed projections, reaching $13.3 million in fiscal year 2023 and $10.5 million in fiscal year 2024, with higher anticipated market prices and production volumes resulting in greater lost revenue than the Legislative Service Office estimated.
 
 Proponents claim the tax cuts will help coal producers "weather declining markets" and potentially reinvest in Wyoming mining operations, despite the industry shedding 632 jobs and losing 48.5 million tons of annual production (20% decline) between 2021 and 2024. Although coal mining directly employs just 4,400 people as of August 2024 (1.5% of state nonfarm employment), many positions pay over $100,000 annually—nearly twice the state average—giving the industry disproportionate political influence despite representing a tiny fraction of Wyoming's workforce. The Legislature also passes Senate File 17, creating a $10 million fund to support enhanced oil recovery using carbon dioxide injection, with companies qualifying for federal 45Q tax credits able to receive up to $10 per metric ton for CO2 used in extracting additional fossil fuels.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-19--epa-ace-rule-replaces-clean-power-plan
 date: '2019-06-19'
 title: EPA Finalizes Affordable Clean Energy Rule Replacing Clean Power Plan With Weaker Standards
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 19, 2019, EPA Administrator Andrew Wheeler signed the Affordable Clean Energy (ACE) Rule, replacing the Obama-era Clean Power Plan with regulations designed to extend the lifetimes of heavily polluting coal-fired power plants. The ACE Rule established no meaningful limits on carbon pollution and EPA's own analysis projected it would cause over 1,630 premature deaths by 2030 from increased fine particulate matter and ozone smog. The rule represented the culmination of coal industry wishes delivered by a former coal lobbyist using government authority to dismantle climate protections, with the Orwellian "Affordable Clean Energy" name obscuring a policy that would increase pollution at nearly one in five of the nation's coal plants.
 

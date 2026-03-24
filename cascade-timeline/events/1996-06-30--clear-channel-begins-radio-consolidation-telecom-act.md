@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-06-30--clear-channel-begins-radio-consolidation-telecom-act
 date: '1996-06-30'
 title: Clear Channel Begins Unprecedented Radio Consolidation Under Telecommunications Act
@@ -44,7 +44,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Clear Channel Communications begins an unprecedented consolidation spree following the February 1996 Telecommunications Act, acquiring $581 million worth of radio and television stations within just four months of the act's passage. Before the Telecommunications Act eliminated ownership caps, companies were limited to owning no more than 40 radio stations nationwide. Clear Channel would exploit the new deregulatory environment to grow from 40 stations to 1,240 stations by 2002 - a 30-fold increase that previous congressional regulation had explicitly prevented.
 

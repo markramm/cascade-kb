@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-13--the-mystery-of-melania-first-lady-s-memecoin-fuels-insider-w
 date: '2025-05-13'
 title: 'The mystery of $MELANIA: First Lady''s memecoin fuels $100M insider trading windfall'
@@ -45,6 +45,6 @@ capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 An extensive financial investigation revealed a sophisticated insider trading scheme involving the $MELANIA memecoin. 24 crypto wallets purchased $2.6 million in tokens just moments before the public launch, with one wallet tied to cryptocurrency entrepreneur Hayden Davis generating a $39 million profit within 24 hours. The coordinated trading raised serious ethical concerns about conflicts of interest in cryptocurrency ventures connected to the Trump family.

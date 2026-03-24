@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-01-07--chrysler-bailout-corporate-welfare-precedent
 date: '1980-01-07'
 title: Carter Signs Chrysler Bailout, Corporate Welfare Precedent Set
@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Jimmy Carter signed the Chrysler Corporation Loan Guarantee Act of 1979 into law on January 7, 1980, following House passage on December 13, 1979 (271-136 vote) and Senate passage on December 21, 1979 (53-44 vote). The legislation provided up to $1.5 billion in federal loan guarantees to prevent the bankruptcy of Chrysler, one of America's "Big Three" automobile manufacturers, which faced collapse due to declining sales that fell to 8.3 million units in 1979—one million fewer than the previous year. The decline was driven by a slowing economy, growing consumer demand for fuel-efficient imported cars, and the 1979 oil crisis triggered by reduced production in Iran and Iraq. Chrysler president Lee Iacocca had approached Congress to secure the bailout, which was by far the largest government rescue in U.S. history at that time.
 

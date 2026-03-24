@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-09-27--blasey-ford-kavanaugh-hearing-assault-testimony
 date: '2018-09-27'
 title: Christine Blasey Ford Delivers Credible, Emotional Testimony Alleging Kavanaugh Sexual Assault, He Responds with Partisan Rant
@@ -43,7 +43,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 27, 2018, Dr. Christine Blasey Ford testified before the Senate Judiciary Committee that Supreme Court nominee Brett Kavanaugh had sexually assaulted her at a house party in 1982 when she was 15 and he was 17. Ford delivered four hours of credible, detailed, emotionally raw testimony describing how Kavanaugh and his friend Mark Judge trapped her in a bedroom, how Kavanaugh pinned her to a bed, groped her, attempted to remove her clothing, and covered her mouth when she tried to scream—leaving her fearing she might accidentally be killed. Ford stated she was "100 percent certain" it was Kavanaugh who assaulted her. Kavanaugh responded with an angry, partisan rant, attacking Democrats, invoking Clinton conspiracy theories, refusing to support an FBI investigation, and displaying a complete lack of judicial temperament. Despite Ford's compelling testimony, Republicans proceeded to confirm Kavanaugh.
 

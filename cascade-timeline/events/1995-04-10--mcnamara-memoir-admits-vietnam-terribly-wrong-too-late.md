@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-04-10--mcnamara-memoir-admits-vietnam-terribly-wrong-too-late
 date: '1995-04-10'
 title: McNamara Memoir Admits Vietnam War Was "Terribly Wrong" - Confession Comes 20 Years Too Late for 58,000 Dead Americans
@@ -33,7 +33,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Secretary of Defense Robert McNamara publishes "In Retrospect: The Tragedy and Lessons of Vietnam," admitting that the Vietnam War was "terribly wrong" and that he knew it all along. McNamara writes: "We of the Kennedy and Johnson administrations who participated in the decisions on Vietnam acted according to what we thought were the principles and traditions of this nation. Yet we were wrong, terribly wrong." He argues the U.S. should have withdrawn in 1963 when fewer than 100 Americans had been killed, and acknowledges that policymakers "had not truly investigated what was essentially at stake" when taking the country to war.
 

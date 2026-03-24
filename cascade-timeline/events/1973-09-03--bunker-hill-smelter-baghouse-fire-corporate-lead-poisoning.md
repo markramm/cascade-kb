@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1973-09-03--bunker-hill-smelter-baghouse-fire-corporate-lead-poisoning
 date: '1973-09-03'
 title: Bunker Hill Smelter Fire Leads to Worst Corporate Lead Poisoning in U.S. History
@@ -53,7 +53,7 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 3, 1973, a fire destroys the baghouse pollution control system at the Bunker Hill lead smelter in Kellogg, Idaho—then the largest smelting facility in the world. In a secret board meeting, Gulf Resources & Chemical Corp., the facility's owner, makes a calculated decision to continue operating the smelter without repairing the filtration system, choosing profit over public health. Rather than shutting down for repairs, Gulf Resources determines that rising lead prices make it financially advantageous to operate without pollution controls, despite already knowing that area children had elevated blood lead levels.
 

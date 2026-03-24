@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-26--second-carroll-trial-83-million-damages
 date: '2024-01-26'
 title: Jury Awards E. Jean Carroll $83.3 Million in Second Defamation Trial Against Trump
@@ -42,7 +42,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal jury in Manhattan awarded E. Jean Carroll $83.3 million in damages against Donald Trump for defamatory statements he made as president in June 2019 denying her sexual assault allegation and attacking her character. The nine-person jury deliberated for less than three hours before returning the verdict on January 26, 2024, in a trial presided over by U.S. District Judge Lewis A. Kaplan. The damages award included $18.3 million in compensatory damages—$11 million for reputational repair, $7.3 million for emotional harm—and a staggering $65 million in punitive damages intended to punish Trump and deter future defamatory conduct. The verdict came just nine months after a different jury had found Trump liable for sexually abusing Carroll and defaming her in 2022 statements, awarding her $5 million, but Trump's inability to stop publicly attacking Carroll had triggered this second defamation trial focused solely on the amount of damages warranted for his June 2019 statements as president.
 

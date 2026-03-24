@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-25--trump-orders-mcgahn-deny-mueller-firing-story
 date: 2018-01-25
 title: New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subsequently Demands McGahn Deny Story and Create False Record
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times reported on January 25, 2018, that President Donald Trump had ordered White House Counsel Don McGahn in June 2017 to direct Deputy Attorney General Rod Rosenstein to remove Special Counsel Robert Mueller, and that McGahn had refused and threatened to resign rather than carry out what he viewed as a potentially catastrophic and legally problematic directive. The revelation, later confirmed in extensive detail in the Mueller Report, exposed Trump's direct attempt to terminate the investigation into Russian interference in the 2016 election and possible coordination with his campaign. More significantly, the Mueller Report documented that after the Times story broke, Trump pressured McGahn to publicly deny the account and to create a false written record contradicting the truthful reporting—conduct that Mueller's team identified as among the most serious episodes of potential obstruction of justice.
 

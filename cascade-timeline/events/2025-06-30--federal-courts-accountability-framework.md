@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-30--federal-courts-accountability-framework
 date: '2025-06-30'
 title: Federal Judiciary Develops New Constitutional Enforcement Mechanisms
@@ -38,5 +38,5 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Judicial Conference approved groundbreaking protocols for responding to systematic executive branch noncompliance, including accelerated contempt procedures, enhanced judicial protection measures, and a coordinated inter-district response strategy to preserve judicial review powers. The 2025 accountability framework introduces multi-tier oversight mechanisms, including national, regional, and local-level enforcement strategies to investigate and address potential misconduct.

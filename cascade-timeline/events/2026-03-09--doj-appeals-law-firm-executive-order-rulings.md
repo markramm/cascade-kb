@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--doj-appeals-law-firm-executive-order-rulings
 date: '2026-03-09'
 title: DOJ Appeals Blocked Executive Orders Targeting Law Firms, Claims Judges "Bent Over Backwards" to Rule Against Trump
@@ -44,7 +44,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice filed appeals with the U.S. Court of Appeals for the D.C. Circuit around March 9, 2026, seeking to overturn district court rulings that had blocked President Trump's executive orders targeting four major law firms: Perkins Coie, WilmerHale, Jenner and Block, and Susman Godfrey.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-08--iran-massacre-security-forces-kill-thousands-protesters
 date: '2026-01-08'
 title: Iranian Security Forces Massacre Thousands of Protesters in Largest Killing Since 1979 Revolution
@@ -45,7 +45,7 @@ sources:
 capture_lanes:
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Iranian security forces launched a massive crackdown on nationwide protests that had spread to all 31 provinces, killing thousands in what became the deadliest massacre in modern Iranian history. Some observers described it as "Iran's Babi Yar" given its tremendous scale. Supreme Leader Ali Khamenei ordered forces "to crush the protests by any means necessary," with Ali Larijani, Secretary of the Supreme National Security Council, identified as the mastermind of the massacres.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--lawfare-analysis-anthropic-remedy
 date: '2026-03-19'
 title: "Lawfare Analysis Argues Judge Should Block Government-Wide Ban and \"Secondary Boycott\" but Allow Pentagon to Stop Buying From Anthropic"
@@ -22,7 +22,7 @@ status: confirmed
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, legal scholar Alan Rozenshtein published an influential analysis on Lawfare laying out what he argued was the correct judicial approach to Anthropic's challenge to the Pentagon's supply chain risk designation. Rozenshtein proposed a middle-ground remedy: Judge Rita Lin should block the government-wide ban that prevented Anthropic from selling to any federal agency, and should specifically prohibit the DOD from pressuring defense contractors to sever their own commercial relationships with Anthropic — what Rozenshtein termed a "secondary boycott" — but should allow the government to stop purchasing directly from Anthropic if it chose to do so.
 

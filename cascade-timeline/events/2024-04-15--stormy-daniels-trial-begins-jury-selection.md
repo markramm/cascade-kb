@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-04-15--stormy-daniels-trial-begins-jury-selection
 date: '2024-04-15'
 title: First Criminal Trial of Former U.S. President Begins - Trump Faces 34 Felony Counts in Manhattan
@@ -43,7 +43,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The first criminal trial of a former U.S. president in American history began in Manhattan Criminal Court as jury selection commenced in the prosecution of Donald Trump on 34 felony counts of falsifying business records. Judge Juan Merchan presided over the historic proceedings as prosecutors from Manhattan District Attorney Alvin Bragg's office and Trump's defense team led by attorneys Todd Blanche and Susan Necheles began the process of selecting 12 jurors and six alternates who would decide Trump's fate.
 

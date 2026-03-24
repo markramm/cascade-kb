@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1936-06-06--la-follette-committee-exposes-union-busting
 date: '1936-06-06'
 title: La Follette Civil Liberties Committee Begins Investigation Exposing Corporate Union-Busting and Industrial Espionage
@@ -43,7 +43,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate Subcommittee on Education and Labor, chaired by Senator Robert M. La Follette Jr. of Wisconsin, begins hearings on June 6, 1936, launching a four-year investigation that systematically exposes the violent and illegal tactics American corporations use to suppress union organizing. The La Follette Civil Liberties Committee produces over 14,000 pages of testimony and 75 volumes of exhibits documenting corporate espionage, private armies, strike-breaking, and the systematic violation of workers' constitutional rights—the most comprehensive exposure of corporate labor suppression in American history.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-28--justin-sun-sec-investigation-paused
 date: '2025-02-28'
 importance: 8
@@ -40,6 +40,6 @@ sources:
 notes: Sun became World Liberty Financial's largest investor and was named as an adviser; SEC case involved Tron, BitTorrent and Rainberry companies
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 SEC put fraud case against crypto mogul Justin Sun on hold after he invested $75 million in Trump's World Liberty Financial project. Original lawsuit charged Sun with selling unregistered securities and market manipulation of Tronix token. Trump family reportedly earned up to $56 million (75% of proceeds) from Sun's investment, raising conflict of interest concerns over enforcement relief.

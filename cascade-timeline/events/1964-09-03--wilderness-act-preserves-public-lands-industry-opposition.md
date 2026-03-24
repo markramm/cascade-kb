@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-09-03--wilderness-act-preserves-public-lands-industry-opposition
 date: '1964-09-03'
 title: Wilderness Act Signed After Eight Years of Industry Opposition, Creates National Wilderness Preservation System
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 3, 1964, President Lyndon B. Johnson signed the Wilderness Act into law, establishing the National Wilderness Preservation System and designating 9.1 million acres of federal land as protected wilderness. The legislation defined wilderness as "an area where the earth and its community of life are untrammeled by man, where man himself is a visitor who does not remain." It prohibited roads, motor vehicles, buildings, and commercial enterprises within wilderness areas.
 

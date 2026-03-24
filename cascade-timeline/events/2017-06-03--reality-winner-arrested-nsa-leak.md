@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-06-03--reality-winner-arrested-nsa-leak
 date: 2017-06-03
 title: Reality Winner Arrested for Leaking Russian Election Interference Report
@@ -38,7 +38,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Air Force veteran and NSA contractor Reality Leigh Winner was arrested for leaking a classified intelligence report documenting Russian cyberattacks on U.S. election infrastructure. Her case would result in the longest prison sentence ever imposed for an unauthorized release of government information to the media.
 

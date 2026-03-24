@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Americans for Prosperity
 - FreedomWorks
@@ -43,5 +43,5 @@ tags:
 - political-manipulation
 title: Tax Day Tea Party Protests Organized by Koch Network Groups
 ---
-type: solidarity_event
+type: timeline_event
 The first coordinated nationwide Tax Day Tea Party protests take place across the United States, organized primarily by Americans for Prosperity and FreedomWorks. These protests, while presented as grassroots citizen uprisings, were strategically orchestrated by well-funded corporate advocacy groups with deep ties to billionaire industrialists David and Charles Koch. Academic research confirms the 'astroturfing' nature of the movement, revealing a sophisticated infrastructure designed to create the appearance of organic citizen outrage while advancing specific corporate political interests. Over 750 events occurred nationwide, with protest sizes ranging from 400 to 3,000 participants, demonstrating the effectiveness of the Koch network's organizational capabilities.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-28--david-shulkin-fired-wimbledon-scandal
 date: 2018-03-28
 title: VA Secretary David Shulkin Fired After Inspector General Finds Ethics Violations on Taxpayer-Funded European Trip
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump fired Veterans Affairs Secretary David Shulkin on March 28, 2018, after an Inspector General report found he improperly accepted tickets to Wimbledon tennis matches and allowed taxpayers to pay for his wife's travel on an 11-day European trip in July 2017 costing at least $122,334. The IG investigation revealed Shulkin's chief of staff, Vivieca Wright Simpson, made false representations to a VA ethics official and altered an official email record, resulting in VA improperly paying $4,312 in airfare for Shulkin's wife, Merle Bari. The report documented that a VA employee "effectively acted as a personal travel concierge" for Shulkin and his wife during the trip to Denmark and England.
 

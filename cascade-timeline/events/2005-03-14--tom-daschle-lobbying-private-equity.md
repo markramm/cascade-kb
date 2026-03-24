@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-03-14--tom-daschle-lobbying-private-equity
 date: '2005-03-14'
 title: Tom Daschle Joins Private Equity Firm and Lobbying After Senate Majority Leadership
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Senate Majority Leader Tom Daschle (D-SD) joined InterMedia Advisors, a New York-based private equity firm, as a consultant and chairman of its executive advisory board just months after losing his 2004 reelection bid. Simultaneously, Daschle joined the law and lobbying firm Alston & Bird as a special adviser in its legislative and public policy group, positioning himself to provide corporate clients with strategic advice on energy, healthcare, financial services, tax policy, trade, and agriculture—the exact policy areas he had influenced as one of the Senate's most powerful members.
 

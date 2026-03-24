@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--federal-watchdog-reveals-dozens-of-inquiries-into-trump-s-wi
 date: '2025-04-29'
 title: Federal Watchdog Reveals Dozens of Inquiries Into Trump's Withholding of Funds
@@ -47,6 +47,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Government Accountability Office (GAO) is investigating 39 separate instances where the Trump administration potentially violated the Impoundment Control Act by illegally withholding over $430 billion in congressional appropriations from various federal agencies. The investigations span multiple sectors including transportation, education, medical research, and public safety, revealing a systematic pattern of blocking congressionally mandated funding.

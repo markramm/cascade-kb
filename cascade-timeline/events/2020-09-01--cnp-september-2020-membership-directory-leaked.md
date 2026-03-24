@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-09-01--cnp-september-2020-membership-directory-leaked
 date: '2020-09-01'
 title: CNP September 2020 Membership Directory Leaked - Current Network Exposed
@@ -30,7 +30,7 @@ capture_lanes:
 - Electoral Manipulation
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 A September 2020 Council for National Policy membership directory was obtained and shared by a member, later obtained by Documented in January 2022, exposing the current coordination network two months before the presidential election and three months before January 6, 2021.
 
 The leaked directory provided a comprehensive snapshot of CNP's coordination network at a critical moment: Trump had spoken at CNP's August 21, 2020 meeting, CNP was coordinating COVID-19 anti-lockdown protests through weekly calls, and the organization was preparing for the November election.

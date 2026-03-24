@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-03--inaugural-donors-reap-early-govt-benefits
 date: '2025-06-03'
 title: Some of Trump’s biggest inaugural donors benefit from early government actions
@@ -52,6 +52,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Major donors to Trump's inaugural fund, like Pilgrim’s Pride and Ripple Labs, have already seen benefits from the government–Ripple settled a $2 billion SEC case for just $50 million and Pilgrim's Pride's parent company won USDA approvals

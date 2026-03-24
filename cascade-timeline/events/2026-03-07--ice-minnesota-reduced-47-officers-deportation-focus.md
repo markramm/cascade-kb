@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--ice-minnesota-reduced-47-officers-deportation-focus
 date: '2026-03-07'
 title: ICE Tells Court Its Minnesota Deployment Has Been Reduced to 47 Deportation Officers
@@ -25,7 +25,7 @@ capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Immigration and Customs Enforcement told a federal judge on March 7, 2026 that its extraordinary deployment to Minnesota — which had at its peak involved approximately 3,000 federal officers from ICE and U.S. Customs and Border Protection — had been drawn down to just 47 deportation officers. The agency disclosed that those remaining officers were focused exclusively on picking up deportation targets from state prisons and county jails, rather than conducting the street-level and workplace arrests that had defined Operation Metro Surge in January and February 2026.
 

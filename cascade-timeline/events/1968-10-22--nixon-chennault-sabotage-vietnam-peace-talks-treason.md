@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1968-10-22--nixon-chennault-sabotage-vietnam-peace-talks-treason
 date: '1968-10-22'
 title: Nixon Campaign Sabotages Vietnam Peace Talks Through Anna Chennault to Win Election - Johnson Calls It Treason
@@ -43,7 +43,7 @@ capture_lanes:
 - Electoral Manipulation
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Richard Nixon's campaign secretly communicates with the South Vietnamese government to sabotage President Johnson's Paris peace talks, with H.R. Haldeman's notes documenting Nixon's direct instruction to "keep Anna Chennault working on SVN [South Vietnam]." Nixon uses Chennault, a Chinese-born Republican fundraiser and widow of World War II General Claire Chennault, along with South Vietnamese Ambassador Bui Diem, to promise South Vietnam a better deal if Nixon wins the presidency. When President Thieu abruptly refuses to participate in peace talks on October 31, just days before the election, the sabotage succeeds.
 

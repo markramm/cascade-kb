@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-15--scotus-hears-louisiana-voting-rights-reargument
 date: '2025-10-15'
 title: Supreme Court Reargues Louisiana v. Callais, Threatens Voting Rights Act
@@ -40,7 +40,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court heard rare second-round oral arguments in Louisiana v. Callais, a case that could fundamentally weaken or eliminate Section 2 of the 1965 Voting Rights Act. The case questions whether Louisiana's creation of a second majority-Black congressional district (which elected Rep. Cleo Fields) violates the Fourteenth or Fifteenth Amendments by intentionally considering race in redistricting.
 

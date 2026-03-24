@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-12-01--guardian-exposes-cambridge-analytica-cruz-data
 date: '2015-12-01'
 title: Guardian Exposes Cambridge Analytica's Unauthorized Facebook Data Use for Ted
@@ -48,6 +48,6 @@ notes: The earliest known case of Cambridge Analytica's unauthorized data harves
   the nascent stages of large-scale digital electoral manipulation through psychological
   profiling.
 ---
-type: solidarity_event
+type: timeline_event
 
 The Guardian's Harry Davies published the first exposé revealing Cambridge Analytica's use of harvested Facebook data for US Senator Ted Cruz's presidential campaign without user consent. Millions of Americans' personal information were collected and weaponized for political targeting through a personality testing app, demonstrating a systematic approach to electoral manipulation that would become more prominent in subsequent elections. The Cruz campaign was the first to employ Cambridge Analytica's microtargeting strategies, initially dividing voters into six psychological profiles before ultimately scaling back these techniques.

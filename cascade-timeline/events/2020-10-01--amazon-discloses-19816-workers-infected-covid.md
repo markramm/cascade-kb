@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-10-01--amazon-discloses-19816-workers-infected-covid
 date: 2020-10-01
 title: Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-12--trump-attacks-supporters-epstein-transparency-weaklings
 date: '2025-07-12'
 title: Trump Calls Own Supporters "Weaklings" and "Selfish People" After Demanding Epstein File Transparency
@@ -46,7 +46,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 12, 2025, five days after the Department of Justice released a memo stating no Jeffrey Epstein "client list" existed—contradicting Attorney General Pam Bondi's February claim that the list was "sitting on my desk"—President Donald Trump attacked his own supporters who demanded transparency about the contradiction. In posts to Truth Social, Trump called them **"selfish people,"** **"weaklings,"** **"stupid Republicans,"** and **"foolish Republicans,"** declaring **"I don't want their support anymore!"** The episode demonstrated how troll culture's combination of aggression and ironic distance enables attacks in all directions, including toward one's own base, while maintaining that critics are the real problem.
 

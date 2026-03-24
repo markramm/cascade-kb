@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--doj-appeals-law-firm-executive-order-blocks
 date: '2026-03-07'
 title: DOJ Appeals Four Court Rulings Blocking Trump Executive Orders Targeting Political Opponent Law Firms
@@ -40,7 +40,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 7, 2026, the U.S. Department of Justice filed appeals seeking to reinstate Trump executive orders targeting four major law firms — Jenner & Block, Perkins Coie, Susman Godfrey, and WilmerHale — after four separate federal judges had blocked the orders. The appeals came after a jarring reversal: DOJ had moved to voluntarily drop the cases on March 3, only to reverse course the following day and announce it would fight to restore the punitive orders.
 

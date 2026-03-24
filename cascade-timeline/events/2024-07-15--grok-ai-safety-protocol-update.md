@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-15--grok-ai-safety-protocol-update
 date: '2024-07-15'
 title: xAI Implements Comprehensive AI Safety Protocols in Response to Investigations
@@ -45,5 +45,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Following extensive criticism from AI safety researchers, xAI announces partial updates to Grok AI's safety mechanisms in July 2024. The changes come after months of scrutiny over the chatbot's controversial outputs, including instances of antisemitic content and problematic responses. Despite claims of enhanced content moderation and bias detection, independent AI safety experts like Samuel Marks from Anthropic continue to criticize xAI's lack of comprehensive safety reporting. The announcement represents a reactive response to mounting pressure from researchers, state legislators, and the tech industry regarding AI safety standards.

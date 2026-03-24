@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-27--trump-fort-knox-gold-conspiracy-allies-profit
 date: '2025-05-27'
 title: Trump questioned whether U.S. gold is missing. His allies are trying to cash in
@@ -44,7 +44,7 @@ capture_lanes:
 - Systematic Corruption
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 President Trump and Elon Musk publicly suggested in early 2025 that U.S. gold reserves at Fort Knox might be missing or had not been properly audited, raising unfounded questions about whether the nation's gold supply was intact. ABC News and PBS NewsHour documented the baseless claims, with Axios subsequently reporting that the Treasury Department confirmed the gold reserves were untouched. The conspiracy theory had no basis in documented fact — Fort Knox gold reserves are subject to regular auditing by Treasury officials and congressional oversight — but the public amplification by the sitting president and the most powerful private actor in government created significant media coverage.
 
 The political consequence of the Fort Knox conspiracy theory was to generate market uncertainty about gold prices and U.S. monetary stability. Axios reported that Trump allies were simultaneously trying to "cash in" on the gold conspiracy by promoting gold investment products and related financial instruments to Trump supporters who had been primed to doubt the safety of conventional financial assets. The pattern fit the broader dynamic in which Trump and his allies generated economic uncertainty or doubt that happened to benefit financial products in which Trump-adjacent figures had commercial interests, whether cryptocurrency, gold, or other alternative assets.

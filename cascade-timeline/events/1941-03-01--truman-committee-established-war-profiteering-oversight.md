@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1941-03-01--truman-committee-established-war-profiteering-oversight
 date: "1941-03-01"
 title: "Truman Committee Established to Investigate War Profiteering"
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 # Truman Committee Established to Investigate War Profiteering
 

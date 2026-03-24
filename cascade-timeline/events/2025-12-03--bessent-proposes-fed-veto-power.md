@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--bessent-proposes-fed-veto-power
 date: '2025-12-03'
 title: Treasury Secretary Proposes White House Veto Power Over Federal Reserve Regional Bank Presidents
@@ -71,7 +71,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 2025, Treasury Secretary Scott Bessent publicly announced that the Trump administration plans to impose a three-year residency requirement for regional Federal Reserve bank presidents and veto any candidates who fail to meet it—an unprecedented assertion of White House control over appointments to the nation's independent central bank.
 

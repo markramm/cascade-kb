@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-12--ice-detention-expansion-38-billion-mega-centers
 date: '2026-03-12'
 title: ICE Reveals $38.3 Billion Detention Expansion Plan for 92,600-Bed Mega-Center Network
@@ -49,7 +49,7 @@ capture_lanes:
 - Institutional Capture
 - Surveillance State
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 2026, ICE's plan for a massive detention infrastructure expansion — funded through the "One Big Beautiful Bill" — was receiving sustained public scrutiny. WBUR's On Point reported on the program on March 9, 2026, and PBS NewsHour covered the warehouse-to-detention-center conversion program in depth around the same period, with Axios, Bloomberg, and Fox News also publishing detailed breakdowns.
 

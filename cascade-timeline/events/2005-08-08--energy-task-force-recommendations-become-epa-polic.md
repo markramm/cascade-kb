@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2005-08-08'
 title: Energy Task Force Recommendations Become EPA Policy Without Review
 importance: 9
@@ -51,7 +51,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Vice President Cheney's Energy Task Force recommendations were implemented as EPA environmental policy through executive orders, bypassing Congressional oversight and public comment periods required by the Administrative Procedure Act. Task force members from ExxonMobil, Chevron, and other oil companies wrote policy language that EPA adopted verbatim, including reduced monitoring requirements and expanded drilling permits. EPA career staff later testified that political appointees prohibited scientific review of policies originated by industry task force members. This established systematic corporate control over regulatory policy-making through captured executive processes.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-07-27--trump-russia-if-youre-listening-gru-hacks-same-day
 date: '2016-07-27'
 title: Trump Publicly Calls on Russia to Hack Clinton Emails, GRU Begins Targeting Clinton Servers Same Day
@@ -46,7 +46,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 27, 2016, at a televised press conference, Donald Trump publicly called on Russia to hack Hillary Clinton's emails: "Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing." According to Mueller's indictment of 12 GRU officers, Russian military intelligence attempted to hack Clinton campaign servers for the first time on the same day—within hours of Trump's public request. The timing documented in the federal indictment revealed either extraordinary coincidence or direct coordination between a presidential candidate and a foreign military intelligence service conducting cyberattacks on his opponent.
 

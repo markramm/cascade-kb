@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-06-30--grok-ai-regulatory-pressure-mounting
 date: '2024-06-30'
 title: EU Regulators Launch Comprehensive Investigation into Grok AI Data Privacy Practices
@@ -44,5 +44,5 @@ capture_lanes:
 - Financial Capture
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 In June 2024, the Irish Data Protection Commission (DPC) initiated a high-profile investigation into Elon Musk's xAI and its Grok AI platform, focusing on potential violations of EU data protection regulations. The investigation centers on X's (formerly Twitter) practice of using personal data from EU users to train Grok without explicit consent, raising significant privacy and ethical concerns about AI data collection methodologies.

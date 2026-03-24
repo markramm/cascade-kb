@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-11-29--nsa-ends-phone-metadata-bulk-collection-program
 date: '2015-11-29'
 title: NSA Officially Ends Bulk Phone Metadata Collection Under USA Freedom Act
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The NSA officially ended its bulk collection of Americans' telephone metadata at 11:59 PM on November 29, 2015, as required by the USA Freedom Act passed by Congress in June 2015. The program, which had operated under Section 215 of the USA PATRIOT Act since 2006, systematically collected records of nearly every phone call made in the United States, creating a database of who called whom, when, and for how long, though not the content of conversations.
 

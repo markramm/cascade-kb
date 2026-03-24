@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--cfpb-shutdown-ordered
 date: '2025-02-15'
 importance: 7
@@ -60,6 +60,6 @@ fallout_indicators:
 - regulatory capture complete
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Russell Vought, acting CFPB director and Project 2025 author, orders CFPB offices to close and notifies staff they 'cannot perform any work tasks,' effectively shutting down agency that oversees consumer financial protections.

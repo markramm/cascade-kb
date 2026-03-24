@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-06-01--kogan-creates-facebook-data-harvesting-app
 date: '2013-06-01'
 importance: 8
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Cambridge University researcher Aleksandr Kogan developed a personality-quiz
 app that collected data via Facebook's API and shared it with Cambridge

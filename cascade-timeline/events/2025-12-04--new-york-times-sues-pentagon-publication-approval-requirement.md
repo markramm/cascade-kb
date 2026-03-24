@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--new-york-times-sues-pentagon-publication-approval-requirement
 date: '2025-12-04'
 importance: 9
@@ -72,7 +72,7 @@ sources:
 notes: 'Lawsuit challenges October 2025 policy requiring reporters to obtain explicit Pentagon approval before publishing information, including unclassified material. Major outlets including NYT and NPR turned in press passes rather than sign compliance agreement. Pentagon replaced traditional press corps with pro-Trump extremists. Policy followed May 2025 rules limiting reporters'' movement through Pentagon without formal escorts and September 2025 policy demanding outlets not disclose unauthorized material. Theodore J. Boutrous Jr., representing NYT, also represents NPR in suit against White House over executive order defunding NPR and PBS.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The New York Times files a federal lawsuit against the Defense Department and Secretary Pete Hegseth, challenging new Pentagon press access restrictions that require reporters to obtain explicit departmental approval before publishing information, including unclassified material obtained through legitimate reporting. The December 4 lawsuit argues the policy violates First Amendment protections for press freedom by imposing a system of prior restraint on journalism and giving Defense Department officials sweeping discretionary power to censor news coverage of military and national security matters.
 
 According to CNBC, the lawsuit challenges a policy requiring reporters to seek approval before publishing information, which the suit alleges violates free press protections enshrined by the First Amendment of the U.S. Constitution. The policy prohibits the gathering or publication of any information that is not explicitly authorized by the government, including declassified information and off-the-record conversations, whether gathered on or off Pentagon grounds—an unprecedented expansion of Pentagon control over military journalism.

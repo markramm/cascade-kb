@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-31--wells-fargo-scandal-scorecard
 date: '2020-12-31'
 title: 'Wells Fargo Scandal Scorecard: 5,300 Workers Fired, Zero Execs Prosecuted'
@@ -37,7 +37,7 @@ capture_lanes:
 - Labor Suppression
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 After nearly a decade of systematic fraud, multiple investigations, Congressional hearings, and billions in penalties, the Wells Fargo fake accounts scandal concludes with a stark scorecard that defines two-tiered justice in American finance: 3.5 million fraudulent accounts affecting millions of customers, 5,300 low-level employees fired, $3 billion in corporate fines, zero executives prosecuted. The executives who designed the fraud-incentivizing system, profited from inflated metrics, and were aware of misconduct for years retire wealthy and free, while workers who responded to institutional pressure face financial ruin and potential criminal liability.
 

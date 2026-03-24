@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-11--musk-apologizes-deletes-post
 date: '2025-06-11'
 importance: 6
@@ -32,6 +32,6 @@ sources:
   tier: 1
 notes: The apology was temporary as Musk resumed attacks in July.
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk deleted his June 5 post about Trump being in the Epstein files and apologized on June 11, saying his comments "went too far." However, he would return to the attack after the DOJ's July 7 memo.

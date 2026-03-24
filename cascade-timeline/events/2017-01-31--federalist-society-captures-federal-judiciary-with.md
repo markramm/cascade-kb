@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-31--federalist-society-captures-federal-judiciary-with
 date: '2017-01-31'
 importance: 9
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federalist Society, funded by $250 million in dark money from anonymous donors, orchestrated the most systematic judicial capture in U.S. history. Trump outsourced judicial selection to the Society, appointing 231 federal judges including 3 Supreme Court justices, all from their pre-approved list. Leonard Leo, the Society's co-chairman, received $1.6 billion from a single donor to reshape the courts. The network included shell organizations like Judicial Crisis Network spending $40 million on confirmation campaigns. These judges subsequently ruled to overturn Roe v. Wade, expand corporate power, weaken voting rights, and shield Trump from prosecution. The captured judiciary blocked Biden policies while fast-tracking conservative priorities, fundamentally altering American law for generations.

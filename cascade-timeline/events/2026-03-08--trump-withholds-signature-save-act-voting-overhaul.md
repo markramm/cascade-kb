@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--trump-withholds-signature-save-act-voting-overhaul
 date: '2026-03-08'
 title: Trump Threatens Legislative Blockade Until Congress Passes SAVE America Voter ID Act
@@ -42,7 +42,7 @@ capture_lanes:
 - Executive Power Expansion
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 8, 2026, President Trump announced he would refuse to sign any legislation until Congress passed the SAVE America Act, a federal voter ID bill requiring proof of citizenship and photo ID to vote in federal elections. The act had already passed the Republican-led House in February 2026 but faced resistance in the Senate.
 

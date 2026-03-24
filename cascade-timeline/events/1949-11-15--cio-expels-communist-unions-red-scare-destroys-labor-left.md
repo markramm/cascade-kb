@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1949-11-15--cio-expels-communist-unions-red-scare-destroys-labor-left
 date: '1949-11-15'
 title: CIO Expels United Electrical Workers and Farm Equipment Workers, Beginning Purge of Communist-Led Unions
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Congress of Industrial Organizations (CIO) holds its eleventh annual convention in Cleveland and expels two member unions, the United Electrical, Radio, and Machine Workers of America (UE) and the Farm Equipment Workers, for alleged "disloyalty to the CIO" and support for the Communist Party. The expulsions begin a systematic purge that removes eleven unions representing approximately one million members within a year. CIO President Philip Murray charges that the expelled unions direct their policies "toward the achievement of the program and purposes of the Communist Party rather than the objectives and policies set forth in the CIO constitution." The purge follows the CIO convention in Portland in 1948, which initiated the process of expelling unions accused of Communist leadership in response to mounting political pressure.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--claude-ai-iran-strikes-target-selection-ban-violation
 date: '2026-03-04'
 title: Pentagon Uses Banned Anthropic Claude to Select 1,000+ Iran Strike Targets While Simultaneously Blacklisting the Company
@@ -55,7 +55,7 @@ capture_lanes:
 - Institutional Capture
 - Surveillance State
 ---
-type: solidarity_event
+type: timeline_event
 
 Reporting published on March 4-5, 2026 revealed that the U.S. military had been using Anthropic's Claude AI — embedded in Palantir's Maven Smart System on classified networks — to generate and prioritize strike targets in the U.S.-Israeli military campaign against Iran that began on February 28, 2026. Claude generated approximately 1,000 prioritized targets in the first day of operations alone, synthesizing satellite imagery, signals intelligence, and surveillance feeds in real time to produce target lists with precise GPS coordinates, weapons recommendations, and automated legal justifications for individual strikes.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-10-16--flint-switches-back-detroit-water-damage-done
 date: 2015-10-16
 title: Flint Switches Back to Detroit Water After 18 Months—But Damage to Children Is Permanent
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Flint reconnects to the Detroit water system 18 months after the catastrophic switch to Flint River water, following Governor Rick Snyder's approval of $9.35 million to restore the connection and provide relief. The switch comes only after independent researchers proved beyond doubt that the water was poisoning children—and after thousands of children had already suffered permanent neurological damage from lead exposure.
 

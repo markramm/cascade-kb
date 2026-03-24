@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1871-04-20--ku-klux-klan-act-grants-federal-enforcement-power
 date: '1871-04-20'
 title: Ku Klux Klan Act Authorizes Federal Suppression of Terrorist Violence
@@ -40,7 +40,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Ulysses S. Grant signs the Ku Klux Klan Act (Third Enforcement Act) on April 20, 1871, granting the federal government unprecedented power to combat terrorist organizations denying Americans their constitutional rights. The Act—passed by the 42nd Congress alongside the First Enforcement Act (1870) and Second Enforcement Act (February 1871)—empowers the president to use armed forces to combat conspiracies denying equal protection of laws and, crucially, to suspend habeas corpus if necessary to enforce the law. This marks the first time a president gains authority to both suppress state disorders on his own initiative and suspend the writ of habeas corpus.
 

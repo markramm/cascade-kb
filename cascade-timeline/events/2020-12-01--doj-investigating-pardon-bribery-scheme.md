@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-01--doj-investigating-pardon-bribery-scheme
 date: '2020-12-01'
 title: DOJ Reveals Investigation into $2 Million Bribery-for-Pardon Scheme
@@ -43,7 +43,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Heavily redacted federal court documents unsealed in December 2020 revealed the Department of Justice was investigating a "bribery-for-pardon" scheme in which individuals allegedly offered substantial political contributions in exchange for presidential pardons. The court filings, made public by Chief Judge Beryl Howell of the U.S. District Court in Washington D.C., showed federal investigators believed there was probable cause that crimes had been committed.
 

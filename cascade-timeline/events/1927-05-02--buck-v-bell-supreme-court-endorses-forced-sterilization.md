@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1927-05-02--buck-v-bell-supreme-court-endorses-forced-sterilization
 date: '1927-05-02'
 title: Supreme Court Endorses Forced Sterilization in Buck v. Bell Eugenics Decision
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 8-1 in Buck v. Bell to uphold Virginia's compulsory sterilization law, providing constitutional blessing for the eugenics movement's campaign to sterilize those deemed "unfit." Justice Oliver Wendell Holmes writes for the majority that the state may sterilize individuals judged "feebleminded" to prevent transmission of hereditary defects, declaring: "Three generations of imbeciles are enough." The decision validates forced sterilization as a legitimate exercise of state police power and accelerates eugenics programs nationwide.
 

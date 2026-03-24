@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-03-06--scooter-libby-convicted-plame-leak
 date: '2007-03-06'
 importance: 8
@@ -53,6 +53,6 @@ sources:
 notes: The trial revealed extensive evidence of Cheney's role in authorizing the leak of Plame's identity to discredit her husband Joseph Wilson, who had criticized the Bush administration's claims about Iraqi WMD. Fitzgerald called Libby's obstruction a 'sand cloud' that prevented full investigation of higher-level involvement. The case demonstrated how the Bush administration weaponized classified information against critics. Cheney's anger over the lack of a full pardon created lasting tension with Bush. The conviction highlighted the administration's willingness to compromise national security assets to protect political narratives about the Iraq War.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Lewis 'Scooter' Libby, Vice President Dick Cheney's chief of staff, is convicted on 4 of 5 federal counts related to the leak of CIA operative Valerie Plame's identity: obstruction of justice, two counts of perjury, and one count of making false statements to federal investigators. The conviction represents the highest White House official convicted since the Iran-Contra scandal. Evidence presented at trial showed Cheney authorized the leak of classified information, with prosecutors displaying Cheney's handwritten notes on Joseph Wilson's op-ed questioning Iraq WMD claims. Libby was sentenced on June 5, 2007 to 30 months in prison and a $250,000 fine, but President Bush commuted the prison sentence on July 2, 2007, while leaving the conviction intact. The commutation angered Cheney, who had pushed for a full pardon. Special Prosecutor Patrick Fitzgerald's investigation revealed how the Bush administration used classified information to discredit critics of the Iraq War.

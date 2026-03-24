@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-17--crypto-firms-pour-millions-into-trump-inauguration
 date: '2025-01-17'
 title: Crypto firms pour $18 million into Trump inauguration
@@ -53,6 +53,6 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Cryptocurrency firms donated an unprecedented $18 million to Trump's 2025 inaugural fund, with Ripple's $4.9 million being the second-largest contribution overall. Major companies including Coinbase, Kraken, Circle, and Robinhood participated, signaling their expectation of a crypto-friendly regulatory landscape and potential policy influence.

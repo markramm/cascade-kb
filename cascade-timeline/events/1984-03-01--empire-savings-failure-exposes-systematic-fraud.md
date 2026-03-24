@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Empire Savings
 - Edwin Gray
@@ -48,6 +48,6 @@ tags:
 - texas-thrifts
 title: Empire Savings Failure Exposes Land Flip Fraud Networks
 ---
-type: solidarity_event
+type: timeline_event
 
 The failure of Empire Savings of Mesquite, Texas exposes systematic "land flip" fraud schemes that would eventually cost taxpayers $300 million. The failure reveals coordinated criminal networks exploiting deregulated thrift powers, including inflated real estate appraisals, circular lending arrangements, and accounting manipulation. This failure marks the turning point for FHLBB Chairman Edwin Gray, who begins reversing deregulatory policies despite opposition from the Reagan administration and industry groups. The Empire case demonstrates how Garn-St Germain deregulation enabled sophisticated fraud operations across the thrift network. Key details: Spencer H. Blain Jr., Empire's chairman, personally pocketed $20 million through fraudulent schemes, with around 120 participants ultimately prosecuted.

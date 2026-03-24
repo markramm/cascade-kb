@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-11-28--amazon-workers-germany-strike-black-friday-verdi
 date: 2014-11-28
 title: Amazon Workers in Germany Strike During Black Friday for Union Recognition
@@ -36,7 +36,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Workers in Germany Strike During Black Friday for Union Recognition
 

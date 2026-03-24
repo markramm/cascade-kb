@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-07-31--vermont-yankee-entergy-purchase-mou-controversy
 date: '2002-07-31'
 title: Entergy Purchases Vermont Yankee Nuclear Plant for $180 Million, Memorandum of Understanding Creates Decade of Regulatory Conflict
@@ -42,7 +42,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 31, 2002, Entergy Nuclear Vermont Yankee LLC—a subsidiary of Entergy Corporation of New Orleans—completes its $180 million purchase of the Vermont Yankee nuclear power plant from Vermont Yankee Nuclear Power Corporation, a consortium of eight New England utilities that originally owned the facility. The acquisition includes the reactor complex, nuclear fuel, inventories, related real estate, decommissioning trust funds of approximately $310 million, and a critical 10-year power purchase agreement under which three former owners commit to buy electricity at approximately 4.5 cents per kilowatt-hour. On June 13, 2002, the Vermont Public Service Board approved the sale and issued a new Certificate of Public Good (CPG), but only after Entergy entered into a controversial Memorandum of Understanding with the Vermont Department of Public Service that will generate a decade of regulatory conflict and litigation.
 

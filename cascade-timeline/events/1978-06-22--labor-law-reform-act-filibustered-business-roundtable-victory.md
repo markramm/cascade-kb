@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1978-06-22--labor-law-reform-act-filibustered-business-roundtable-victory
 date: '1978-06-22'
 title: Labor Law Reform Act Killed by Filibuster After Business Roundtable Lobbying Blitz
@@ -44,7 +44,7 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 After six cloture attempts fail to break a Senate filibuster, the Labor Law Reform Act of 1978 dies on June 22, marking the most significant corporate lobbying victory since Taft-Hartley and demonstrating that even with Democratic supermajorities and a Democratic president, business interests can block pro-labor legislation. The bill, labor's top legislative priority, would have strengthened NLRB enforcement, expedited union elections, increased penalties for labor law violations, and allowed union organizers access to workplaces—modest reforms to address the J.P. Stevens-style union-busting epidemic.
 

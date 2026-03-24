@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-03-17--cia-drone-kills-civilians-at-tribal-jirga
 date: '2011-03-17'
 title: CIA Drone Strike Massacres 42 Civilians at Pakistani Tribal Council Meeting
@@ -42,7 +42,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A CIA drone strike on a tribal jirga (council meeting) in Datta Khel, North Waziristan kills at least 42 people, the vast majority of them civilians including tribal elders gathered to resolve a local mining dispute. The massacre represents one of the deadliest single drone strikes of Obama's presidency and epitomizes the horrific consequences of signature strikes—CIA targeting based on behavioral patterns rather than confirmed identification of terrorists. Witnesses and Pakistani officials report the strike hit a gathering of tribal leaders and community members conducting traditional conflict resolution, not a meeting of militants as the CIA claimed.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-11-06--trump-testifies-fraud-trial-combative
 date: '2023-11-06'
 title: Trump Takes Stand in NY Fraud Trial, Delivers Combative Testimony Calling Case "Witch Hunt"
@@ -43,7 +43,7 @@ capture_lanes:
 - Judicial Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump took the witness stand in the New York civil fraud trial threatening his business empire, delivering combative and rambling testimony that prompted Judge Arthur Engoron to repeatedly admonish him to keep his answers short and responsive. Trump used the witness stand as a platform to attack Attorney General Letitia James and Judge Engoron, calling the case a "political witch hunt" and claiming "the fraud is on the court, not on me." Engoron told Trump multiple times, "This is not a political rally," and at one point asked Trump's attorneys, "I beseech you to control him if you can." The testimony represented a remarkable moment where a former president facing potential loss of his business empire openly defied a judge while under oath, demonstrating Trump's unwillingness to show deference to judicial authority even when his financial future hung in the balance.
 

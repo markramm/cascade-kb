@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-02-03--credit-rating-agencies-settlements-moodys-sp-inflated-aaa-ratings
 date: '2015-02-03'
 title: S&P Settles for $1.375 Billion Over Fraudulent AAA Ratings on Junk Mortgage Securities, While Moody's Pays $864 Million, Exposing 'Issuer-Pays' Conflict of Interest Model Where 73% of 2006 AAA-Rated Securities Were Downgraded to Junk by 2010
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 3, 2015, the Department of Justice, 19 states, and the District of Columbia reached a $1.375 billion settlement with Standard & Poor's (S&P) over allegations that the credit rating agency knowingly inflated ratings on risky mortgage-backed securities and collateralized debt obligations from 2004 to 2007, directly contributing to the 2008 financial crisis. The settlement was the largest penalty of its type ever paid by a credit rating agency and addressed S&P's systematic practice of assigning AAA ratings—the highest possible grade indicating minimal default risk—to mortgage securities that were actually junk-grade investments backed by subprime loans to borrowers with poor credit and often fraudulent income documentation. The Justice Department's investigation found that S&P executives knew they were issuing inflated ratings to maintain market share and fee revenue from Wall Street banks, with internal emails revealing that analysts understood they were creating a "monster" and building a "house of cards" that would eventually collapse. The settlement required S&P to pay $687.5 million to the federal government as a penalty and $687.5 million to states and the District of Columbia, but included no criminal charges against individual executives and no structural changes to the conflict-of-interest business model that had enabled the fraud.
 

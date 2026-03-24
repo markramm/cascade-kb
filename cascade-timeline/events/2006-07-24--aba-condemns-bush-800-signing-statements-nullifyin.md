@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-07-24--aba-condemns-bush-800-signing-statements-nullifyin
 date: '2006-07-24'
 importance: 8
@@ -39,6 +39,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Bar Association Task Force condemned President Bush's unprecedented use of signing statements to nullify congressional oversight, issuing more than 800 constitutional challenges by 2006 versus fewer than 600 by all previous presidents combined. Bush produced 150 signing statements challenging 1,149 provisions of law, transforming them from interpretive tools into de facto line-item veto instruments. The ABA found this practice 'contrary to the rule of law and our constitutional separation of powers' and warned it 'undermines the separation of powers doctrine.' Key violations included Bush's December 30, 2005 signing statement claiming authority to ignore the McCain Amendment's torture prohibitions 'consistent with constitutional authority of the President to supervise the unitary executive branch.' His March 9, 2006 PATRIOT Act statement indicated intent to ignore congressional oversight requirements. The GAO found Bush administration failed to follow law in 6 of 19 studied cases where signing statements were issued. Legal scholars warned these expanded powers would 'lie around like a loaded weapon' for future presidents to abuse, representing the most systematic attempt to expand executive power in American history.

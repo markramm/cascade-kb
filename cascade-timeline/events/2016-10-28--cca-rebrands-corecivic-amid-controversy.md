@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-28--cca-rebrands-corecivic-amid-controversy
 date: '2016-10-28'
 title: Corrections Corporation of America Rebrands as CoreCivic After DOJ Phase-Out Announcement and Undercover Exposé
@@ -36,7 +36,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Corrections Corporation of America announces it is rebranding as CoreCivic, claiming the name change reflects a "multi-year strategy to transform our business from largely corrections and detention services to a wider range of government solutions." The rebranding comes two months after the Department of Justice announced plans to phase out private prisons and following a damning Mother Jones undercover investigation documenting violence, sexual abuse, and corruption at a CCA-run Louisiana prison.
 

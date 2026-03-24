@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-01-01--black-manafort-stone-founded
 date: '1980-01-01'
 importance: 8
@@ -36,6 +36,6 @@ sources:
 notes: The firm represented numerous brutal dictators including Ferdinand Marcos (Philippines), Mobutu Sese Seko (Zaire), Jonas Savimbi (Angola), and Sani Abacha (Nigeria). By 1991-1992, their work with dictators brought in $3.3 million. In 1984, Peter Kelly joined as a named partner, creating the first bipartisan lobbying shop. The firm was acquired by Burson-Marsteller in 1991 and later merged to form BKSH & Associates in 1996. Trump was their first client, establishing a long relationship between these political operatives and Trump.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Republican operatives Charlie Black, Paul Manafort, and Roger Stone founded Black, Manafort & Stone in 1980, pioneering the modern lobbying industry. The firm became infamous as the 'Torturers' Lobby' for representing dictators including Ferdinand Marcos, Mobutu Sese Seko, and Jonas Savimbi. A 1992 Center for Public Integrity report detailed how the firm earned millions whitewashing brutal regimes while maintaining close ties to Republican administrations, with Donald Trump as their first client.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1949-06-01--fcc-fairness-doctrine-requires-balanced-coverage
 date: '1949-06-01'
 title: FCC Establishes Fairness Doctrine Requiring Broadcasters to Present Balanced Coverage of Controversial Issues
@@ -58,7 +58,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Federal Communications Commission adopts the Fairness Doctrine through its "Report on Editorializing by Broadcast Licensees," establishing a formal regulatory requirement that broadcast license holders must (1) provide adequate coverage of controversial issues of public importance and (2) ensure that coverage fairly represents opposing viewpoints with reasonable balance. The doctrine implements the Communications Act's "public interest" mandate by obligating broadcasters using publicly-owned airwaves to serve democratic discourse rather than exclusively corporate or ideological interests.

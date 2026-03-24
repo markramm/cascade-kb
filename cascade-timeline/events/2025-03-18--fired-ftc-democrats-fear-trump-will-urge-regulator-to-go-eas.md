@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-18--fired-ftc-democrats-fear-trump-will-urge-regulator-to-go-eas
 date: '2025-03-18'
 title: Fired FTC Democrats fear Trump will urge regulator to go easy on his Big Tech donors
@@ -46,7 +46,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump fired the two Democratic commissioners of the Federal Trade Commission in March 2025, removing Alvaro Bedoya and Rebecca Kelly Slaughter from the five-member agency in what critics characterized as a politically motivated attempt to reshape the regulatory body responsible for antitrust enforcement and consumer protection. The fired commissioners warned publicly that the removals would transform the FTC from an independent regulatory agency into an arm of the executive branch, free from the bipartisan structure Congress had designed to insulate it from political pressure.
 
 The timing raised conflict-of-interest concerns because major tech companies that had donated to Trump's inaugural fund — and that maintained close relationships with the administration — had active or potential antitrust matters before the FTC. Meta, which had donated $1 million to Trump's inaugural fund and whose CEO Mark Zuckerberg had cultivated a relationship with Trump, faced potential antitrust scrutiny over its acquisitions of Instagram and WhatsApp. Alphabet, Amazon, and other major tech firms were similarly situated. The fired commissioners warned that with a Republican majority and a Trump-appointed chair, the FTC would likely decline to pursue antitrust cases against companies aligned with the administration.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-09-10--raytheon-bomb-kills-31-civilians-yemen-water-drilling-site
 date: '2016-09-10'
 title: Raytheon-Manufactured Bomb Kills 31 Civilians at Yemen Water Drilling Site in Apparent War Crime
@@ -43,7 +43,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Before dawn on September 10, 2016, Saudi-led coalition aircraft conducted repeated airstrikes on a water drilling site in Arhab, Sanaa governorate, Yemen, killing at least 31 civilians and wounding 42 others in what Human Rights Watch characterized as an apparent war crime. The first strike hit near a workers' shelter occupied by nearly a dozen workers and managers at approximately 5:30 AM, killing six and wounding five others. After several dozen villagers arrived around 9:00 AM to remove bodies and examine the site, coalition aircraft returned and proceeded to bomb the vicinity at least 12 more times over the course of three hours, with strikes occurring approximately 15 minutes apart. These secondary strikes killed at least 15 additional civilians and wounded dozens more, demonstrating a pattern of "double-tap" strikes designed to maximize casualties among first responders—a tactic that constitutes a clear violation of the laws of war.
 

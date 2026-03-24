@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Pam Bondi
 - Department of Justice
@@ -38,5 +38,5 @@ tags:
 - institutional-capture
 title: 'DOJ Kleptocracy Initiative Shuttered: Major Setback for Anti-Corruption Enforcement'
 ---
-type: solidarity_event
+type: timeline_event
 On February 15, 2025, Attorney General Pam Bondi announced the immediate closure of the Kleptocracy Asset Recovery Initiative and KleptoCapture Task Force, representing a fundamental shift in DOJ enforcement priorities. The decision redirects resources from tracking international corruption and election interference to targeting drug cartels and transnational criminal organizations. This move effectively dismantles a decade-long effort to recover billions of dollars from corrupt overseas officials and track foreign influence in the United States.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--birthright-citizenship-order
 date: '2025-01-20'
 importance: 10
@@ -61,6 +61,6 @@ legal_status:
   supreme_court_action: Limited nationwide injunctions on June 27, 2025
   current_status: Blocked from full implementation
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 20, 2025, President Trump signed an executive order challenging birthright citizenship, targeting children born to non-citizen or undocumented parents. The order, which directly mirrors Project 2025 recommendations, seeks to reinterpret the 14th Amendment's citizenship clause, immediately facing multiple federal lawsuits and judicial injunctions.

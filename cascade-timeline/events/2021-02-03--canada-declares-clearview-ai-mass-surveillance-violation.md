@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-02-03--canada-declares-clearview-ai-mass-surveillance-violation
 date: '2021-02-03'
 title: Canadian Privacy Commissioners Declare Clearview AI Represents "Mass Surveillance" of Citizens
@@ -30,7 +30,7 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 A joint investigation by the Office of the Privacy Commissioner of Canada and provincial counterparts from Quebec, British Columbia, and Alberta concluded that Clearview AI's scraping of billions of images of people from across the Internet represented "mass surveillance" and was a clear violation of the privacy rights of Canadians. The investigation found that Clearview had collected over 3 billion images from the internet without consent, including images of Canadians and children in their biometric database, and that the company collected "highly sensitive biometric information without the knowledge or consent of individuals."
 

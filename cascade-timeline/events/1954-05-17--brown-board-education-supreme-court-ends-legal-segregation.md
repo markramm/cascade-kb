@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-05-17--brown-board-education-supreme-court-ends-legal-segregation
 date: '1954-05-17'
 title: Brown v. Board of Education Supreme Court Decision Declares School Segregation Unconstitutional
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 17, 1954, U.S. Supreme Court Justice Earl Warren delivered the unanimous ruling in the landmark civil rights case Brown v. Board of Education of Topeka, Kansas. The Court declared that racial segregation in public schools violated the equal protection clause of the Fourteenth Amendment, effectively overturning the 1896 Plessy v. Ferguson decision that had mandated "separate but equal" facilities. This monumental decision represented the legal foundation for the modern civil rights movement, yet it also triggered a massive institutional resistance campaign across the South that would delay meaningful integration for more than a decade.
 

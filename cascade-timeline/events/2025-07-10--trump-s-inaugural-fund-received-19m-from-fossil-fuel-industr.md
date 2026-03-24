@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-10--trump-s-inaugural-fund-received-19m-from-fossil-fuel-industr
 date: '2025-07-10'
 title: 'Trump''s Inaugural Fund Received $19M from Fossil Fuel Industry'
@@ -48,5 +48,5 @@ notes: Inaugural fund contributions tied to promised regulatory rollbacks and ex
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Donald Trump's second inaugural fund received over $19 million from fossil fuel companies, including $2 million from Chevron and $1 million donations from ExxonMobil, ConocoPhillips, and Occidental Petroleum. These donations came after Trump promised oil executives at a Mar-a-Lago meeting significant regulatory rollbacks in exchange for campaign support.

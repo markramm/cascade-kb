@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -56,5 +56,5 @@ tags:
 - diplomatic-pressure
 title: Trump Administration Used Diplomatic Pressure to Advance Starlink in Gambia
 ---
-type: solidarity_event
+type: timeline_event
 The U.S. State Department, led by Ambassador Sharon Cromer, pressured Gambian officials to approve Starlink's business license by implying potential cuts to U.S. developmental aid. The campaign targeted Lamin Jabbi, head of the Communications Ministry, and escalated to direct appeals to President Adama Barrow, demonstrating an unprecedented use of diplomatic leverage for a specific company's commercial interests.

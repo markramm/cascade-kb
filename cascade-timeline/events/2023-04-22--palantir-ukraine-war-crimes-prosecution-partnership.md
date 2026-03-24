@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-04-22--palantir-ukraine-war-crimes-prosecution-partnership
 date: '2023-04-22'
 title: Palantir Partners with Ukraine Prosecutor to Process War Crimes Evidence Using AI
@@ -36,7 +36,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 22, 2023, Palantir Technologies announced a partnership with Ukraine's Prosecutor General's Office to process massive volumes of war crimes evidence using artificial intelligence and data analytics. At the time of the announcement, Ukraine had registered more than 78,000 alleged war crimes, generating vast quantities of digital evidence including drone footage, satellite imagery, timestamped social media posts, intercepted communications, and witness testimonies. Ukraine's Prosecutor General Andriy Kostin stated that "analyzing this amount of evidence would be virtually impossible without modern IT solutions."
 

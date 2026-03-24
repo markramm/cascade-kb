@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1705-10-01--virginia-slave-code-consolidates-racial-caste-system
 date: '1705-10-01'
 title: Virginia Slave Code of 1705 Consolidates Comprehensive Racial Caste System Into Law
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Virginia House of Burgesses enacts "An act concerning Servants and Slaves," a comprehensive 41-section legal code consolidating and strengthening nearly two decades of piecemeal slave legislation into a unified framework that permanently establishes racial slavery as Virginia's dominant labor system. The code systematically codifies racial distinctions, declaring enslaved people to be "real estate" rather than chattel to enhance "the better settling and preservation of estates," prohibits interracial marriage and sexual relations, and creates a detailed enforcement apparatus governing every aspect of enslaved life. The legislation builds on earlier laws including the 1662 statute establishing maternal inheritance of slave status, the 1667 law declaring baptism does not confer freedom, and the 1693 statute binding multiracial children to 31 years of indentured servitude, but dramatically expands restrictions and penalties while permanently drawing "the color line that placed blacks at the bottom of Virginia society."
 

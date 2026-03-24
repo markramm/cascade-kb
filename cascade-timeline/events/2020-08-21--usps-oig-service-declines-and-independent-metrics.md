@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-21--usps-oig-service-declines-and-independent-metrics
 date: '2020-08-21'
 importance: 9
@@ -62,7 +62,7 @@ sources:
   verified: true
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 In August 2020, USPS's Inspector General reported that operational changes instituted under
 new leadership coincided with measurable service declines. Independent data released by Senate
 investigators and internal USPS materials reflected national on-time First-Class performance

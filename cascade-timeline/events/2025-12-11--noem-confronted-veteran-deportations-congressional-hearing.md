@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-11--noem-confronted-veteran-deportations-congressional-hearing
 date: 2025-12-11
 title: DHS Secretary Noem Confronted Over Veteran Deportations in Contentious Congressional Hearing
@@ -80,7 +80,7 @@ capture_lanes:
 - Legislative Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 11, 2025, Secretary of Homeland Security Kristi Noem testified before the House Committee on Homeland Security in a contentious hearing over the Trump administration's immigration enforcement policies. The pivotal moment occurred when Noem claimed under questioning that DHS had not deported any veterans. Representative Seth Magaziner (D-R.I.) immediately introduced Sae Joon Park via Zoom — a Purple Heart recipient and U.S. Army veteran who had been shot twice during combat in Panama in 1989. Park had lived in the United States for nearly 50 years before being compelled to self-deport to South Korea under a removal order based on minor drug offenses from the 1990s, offenses he committed while struggling with PTSD. Magaziner emphasized that Park had been clean and sober for 14 years. When Magaziner asked Noem to thank Park for his service, she replied only that she was "grateful for every single person that has served our country and follows our laws" — a response that infuriated Democratic lawmakers who viewed it as dismissive of Park's combat sacrifice and subsequent rehabilitation.
 

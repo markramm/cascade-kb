@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-09-01'
 title: Mass Inspector General Firings Implement Project 2025 Plan
 actors:
@@ -47,5 +47,5 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 On September 1, 2025, President Trump initiated a massive purge of federal Inspectors General, firing approximately 17 independent watchdogs across multiple agencies. These dismissals, explicitly outlined in the Heritage Foundation's Project 2025 blueprint, violated federal law requiring 30-day notice to Congress. By removing these oversight officials, the administration effectively dismantled key accountability mechanisms, concentrating unprecedented executive power and potentially obstructing ongoing investigations into government operations and potential conflicts of interest.

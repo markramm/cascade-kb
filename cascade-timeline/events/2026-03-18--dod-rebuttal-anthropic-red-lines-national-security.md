@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--dod-rebuttal-anthropic-red-lines-national-security
 date: '2026-03-18'
 title: "DOD Files 40-Page Rebuttal Claiming Anthropic Might \"Disable Its Technology\" During Warfighting Operations Over Corporate Red Lines"
@@ -31,7 +31,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 18, 2026, the Department of Defense filed a 40-page response in the Northern District of California — its first substantive rebuttal in the Anthropic litigation — arguing that the supply chain risk designation was justified because Anthropic might "attempt to disable its technology" during "warfighting operations" if the company "feels its corporate 'red lines' are being crossed." The filing framed Anthropic's AI safety commitments not as responsible engineering practices but as a national security threat, suggesting that a company with principled limitations on its technology's use was inherently unreliable as a defense supplier.
 

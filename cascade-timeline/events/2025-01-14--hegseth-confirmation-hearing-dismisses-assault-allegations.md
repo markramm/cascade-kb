@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-14--hegseth-confirmation-hearing-dismisses-assault-allegations
 date: '2025-01-14'
 title: Pete Hegseth Dismisses Sexual Assault and Alcohol Abuse Allegations as "Smear Campaign" at Confirmation Hearing
@@ -45,7 +45,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Defense Secretary nominee Pete Hegseth appeared before the Senate Armed Services Committee and dismissed credible sexual assault allegations and documented alcohol abuse as a coordinated "smear campaign" orchestrated by political enemies and the media.

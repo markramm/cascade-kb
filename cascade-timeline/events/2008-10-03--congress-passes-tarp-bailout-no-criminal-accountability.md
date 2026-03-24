@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-10-03--congress-passes-tarp-bailout-no-criminal-accountability
 date: '2008-10-03'
 importance: 9
@@ -45,6 +45,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Emergency Economic Stabilization Act, creating the $700 billion Troubled Asset Relief Program (TARP) to bail out major financial institutions. Despite extensive evidence of widespread mortgage fraud, predatory lending, and securities violations that precipitated the crisis, the legislation contains no provisions for criminal prosecution of bank executives. The bailout socializes losses while privatizing gains, establishing a precedent that major financial institutions are above the law. Treasury Secretary Henry Paulson, former Goldman Sachs CEO, oversees distribution with minimal oversight. The legislation represents a fundamental capture of democratic institutions by financial elites, transferring massive public wealth to private banks while their executives face no consequences.

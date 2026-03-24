@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1994-01-01--nafta-implementation-zapatista-uprising-chiapas
 date: '1994-01-01'
 title: NAFTA Takes Effect as Zapatista Uprising Protests Privatization of Indigenous Lands
@@ -46,7 +46,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The North American Free Trade Agreement officially takes effect on January 1, 1994, the same day that 3,000-4,000 indigenous campesinos of the EZLN (Zapatista Army of National Liberation) launch an armed uprising in Chiapas, Mexico, declaring NAFTA a "death sentence" for indigenous communities. The Zapatistas specifically targeted NAFTA's forced privatization of communal indigenous lands (ejidos), which the Mexican government had removed from constitutional protection as a precondition for the trade agreement.
 

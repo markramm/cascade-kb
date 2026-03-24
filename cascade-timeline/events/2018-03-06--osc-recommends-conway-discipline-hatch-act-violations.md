@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-06--osc-recommends-conway-discipline-hatch-act-violations
 date: 2018-03-06
 title: Office of Special Counsel Recommends Disciplining Kellyanne Conway for Hatch Act Violations
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Office of Special Counsel sent a report to President Trump recommending disciplinary action against White House Counselor Kellyanne Conway for violating the Hatch Act during television interviews where she promoted Republican Senate candidate Roy Moore and attacked Democratic candidate Doug Jones in Alabama's 2017 special election. The federal watchdog found that Conway "impermissibly mixed official government business with political views about candidates," appearing on Fox News and CNN in her official White House capacity to engage in partisan political advocacy prohibited by federal law.
 

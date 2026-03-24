@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-04--spacex-5-9b-space-force-contract
 date: '2025-04-04'
 importance: 6
@@ -45,6 +45,6 @@ sources:
 notes: SpaceX received largest share of three-company contract; congressional investigation highlights $9.5B total DoD contracts while Musk serves as government advisor
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 SpaceX awarded $5.9 billion for 28 launches through 2029 as largest share of $13.5 billion National Security Space Launch Phase 3 contracts. Award occurred while congressional oversight investigation examined Musk's $9.5 billion total DoD contracts and potential conflicts with his advisory roles. Lynch and Connolly cited concerns over Musk influencing defense decisions while benefiting from contracts.

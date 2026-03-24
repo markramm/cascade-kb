@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-01-01--leonard-leo-joins-federalist-society-judicial-architect
 date: '1991-01-01'
 title: Leonard Leo Joins Federalist Society, Begins Strategic Judicial Talent Pipeline
@@ -46,6 +46,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1991, Leonard Leo joined the Federalist Society's national office, beginning his systematic transformation of the organization's approach to judicial selection. Leo developed a strategic 'pipeline' to identify, nurture, and advance conservative legal talent from law school through their professional careers. His approach focused on recruiting young lawyers who adhered to 'originalist' constitutional interpretations, ultimately reshaping the American judicial landscape by strategically positioning conservative judges in key judicial roles.

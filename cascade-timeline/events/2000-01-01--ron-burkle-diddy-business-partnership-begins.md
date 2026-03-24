@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Ron Burkle
 - Sean Combs
@@ -46,6 +46,6 @@ tags:
 - yucaipa-companies
 title: Ron Burkle becomes Diddy's business partner and godfather to his children
 ---
-type: solidarity_event
+type: timeline_event
 
 Billionaire Ron Burkle, a frequent passenger on Jeffrey Epstein's plane and close associate of Bill Clinton, forms deep business and personal relationships with Sean Combs, eventually becoming godfather to Combs' children. In 2003, Burkle invested $100 million in Combs' Sean John fashion brand through his Yucaipa Companies, marking a significant business partnership. Burkle, who was also neighbor and friend to Michael Jackson, serves as a bridge between the entertainment industry and the broader kompromat network involving Epstein, Clinton, and other powerful figures. This relationship provides Combs with access to billionaire networks while giving Burkle influence in the entertainment industry.

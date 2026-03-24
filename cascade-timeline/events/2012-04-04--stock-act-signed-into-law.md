@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2012-04-04'
 title: STOCK Act Signed into Law
 actors:
@@ -36,5 +36,5 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Barack Obama signed the Stop Trading on Congressional Knowledge (STOCK) Act into law, addressing long-standing concerns about insider trading by members of Congress. The bipartisan legislation, passed with overwhelming support (96-3 in Senate, 417-2 in House), prohibits members of Congress from using non-public information for private financial gain. Key provisions include mandatory reporting of investment transactions within 45 days, online disclosure of financial reports, and expanded penalties for corrupt congressional actions. While the Act increased transparency, it has been criticized for not completely preventing potential conflicts of interest.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-06-01--russian-ira-begins-facebook-ad-campaign
 date: '2015-06-01'
 importance: 9
@@ -36,7 +36,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The St. Petersburg-based Internet Research Agency began purchasing Facebook
 ads and running coordinated influence operations. Senate Intelligence

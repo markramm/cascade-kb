@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-28--who-won-a-seat-at-trump-s-crypto-dinner
 date: '2025-05-28'
 title: Who won a seat at Trump's crypto dinner?
@@ -46,6 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump hosted an exclusive cryptocurrency dinner with 220 top memecoin holders, including foreign nationals like Justin Sun facing SEC lawsuits. House Democrats demanded a DOJ investigation into potential violations of federal bribery laws and the foreign emoluments clause.

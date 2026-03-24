@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-01--apple-tariff-exemptions-tim-cook
 date: '2018-01-01'
 importance: 6
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Cook's 'charm offensive' through multiple dinners and meetings with Trump 2018-2019 secured Apple exemptions from China tariffs on iPhones and core products. Cook dined at Trump Tower, Bedminster golf course, attended White House state dinner, gave Trump Mac Pro plant tour. Apple avoided $200B tariff list initially including their products. USTR granted Apple 10 of 15 Mac Pro component exemptions.

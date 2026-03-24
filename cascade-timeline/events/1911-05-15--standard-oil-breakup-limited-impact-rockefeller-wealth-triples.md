@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1911-05-15--standard-oil-breakup-limited-impact-rockefeller-wealth-triples
 date: '1911-05-15'
 title: 'Standard Oil Breakup''s Paradox - Rockefeller''s Wealth Triples as Fragmented Companies Reconsolidate'
@@ -55,5 +55,5 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Supreme Court's order to break Standard Oil into 34 separate companies produced a profound paradox: the breakup made John D. Rockefeller vastly richer while ultimately failing to prevent reconsolidation. Shareholders in Standard Oil received proportional stakes in each successor company—Rockefeller's 25% ownership became 25% stakes in all 34 fragments. The combined market value of these shares nearly tripled his wealth from $300 million to $900 million, making him the richest person in the world. The "competing" successor companies evolved into today's oil giants through decades of re-mergers: Standard Oil of New Jersey became Exxon (now ExxonMobil after merging with Standard Oil of New York/Mobil in 1999); Standard Oil of Indiana became Amoco (absorbed by BP); Continental Oil became part of ConocoPhillips; Standard Oil of Ohio was acquired by BP in 1987; Standard Oil of California became Chevron. This reconsolidation demonstrates the fundamental limitation of structural breakups that preserve shareholder value and allow gradual re-merger. The Court's requirement that Standard Oil employed "restraint to trade and commerce in petroleum" through predatory pricing—setting low prices to drive out competitors where they existed, and high prices where they didn't—established anticompetitive conduct. However, the fragmentation created an illusion of competition while enabling the same economic interests to profit from multiple "independent" companies. Modern market concentration in petroleum approaches pre-breakup levels, with ExxonMobil, Chevron, BP, and ConocoPhillips representing four of the original Standard Oil fragments. The case represents both the high-water mark of American antitrust action and the template for its ultimate failure: dramatic headlines masking structural preservation of wealth and power.

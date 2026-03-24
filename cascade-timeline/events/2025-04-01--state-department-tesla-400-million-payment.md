@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-01--state-department-tesla-400-million-payment
 date: '2025-04-01'
 title: State Department plans $400 million payment to Tesla after regulatory firings
@@ -48,6 +48,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The State Department announced plans to pay Tesla $400 million for unspecified services, coming weeks after Trump systematically fired federal officials investigating Elon Musk's companies. The payment followed the removal of FDA staffers reviewing Neuralink, EEOC leaders investigating Tesla discrimination, the NLRB Chair pursuing SpaceX complaints, and CFPB staff examining Musk's financial ventures. This represented a direct quid pro quo where regulatory relief was followed by massive government payments to Musk's companies.

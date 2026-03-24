@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--appeals-court-halts-removal-national-guard-washington-dc
 date: '2025-12-04'
 importance: 8
@@ -65,7 +65,7 @@ sources:
 notes: 'Federal appeals court panel temporarily lifted District Judge Jia Cobb''s order blocking Trump''s deployment of National Guard troops to Washington D.C. Three judges on D.C. Circuit Court of Appeals granted Trump administration''s emergency stay request while they consider full appeal. Preserves deployment of over 2,300 National Guard troops from eight states operating under Army Secretary command. Lower court had ruled November 20 that deployment illegally intrudes on local law enforcement authority. Appeals court stressed stay should not be construed as merits ruling.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit issued an administrative stay on December 4, 2025, temporarily halting enforcement of a lower court order that would have ended President Trump's controversial deployment of thousands of National Guard troops to Washington, D.C. The appeals court decision allows the militarized presence in the nation's capital to continue indefinitely while the Trump administration appeals District Judge Jia Cobb's November 20 ruling that found the deployment "unlawful" and an illegal intrusion on local officials' authority to direct law enforcement in the district. The stay preserves a military occupation of Washington involving more than 2,300 National Guard troops from eight states operating under federal military command, representing an unprecedented peacetime militarization of the capital that raises profound concerns about martial law, executive overreach, and the erosion of civilian control over domestic policing.
 
 The appeals court's order stated that "the purpose of this administrative stay is to give the court sufficient opportunity to consider the motion for stay pending appeal," and emphasized that the decision "should not be construed in any way as a ruling on the merits." However, the practical effect is clear: the stay extends the military deployment indefinitely beyond Judge Cobb's initial 21-day pause, ensuring thousands of troops will remain patrolling Washington's streets while complex constitutional litigation proceeds through the appeals process—a timeline that could extend for months or even years, effectively making the supposedly temporary deployment a permanent militarized presence in the capital.

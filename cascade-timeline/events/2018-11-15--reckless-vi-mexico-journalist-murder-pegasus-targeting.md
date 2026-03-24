@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-15--reckless-vi-mexico-journalist-murder-pegasus-targeting
 date: '2018-11-15'
 title: Mexican Journalists Targeted with Pegasus Days After Colleague's Assassination
@@ -36,7 +36,7 @@ capture_lanes:
 - Intelligence Penetration
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 15, 2017, award-winning Mexican journalist Javier Valdez Cárdenas, co-founder of the investigative outlet Río Doce and renowned for reporting on drug trafficking and organized crime in Sinaloa, is assassinated in broad daylight in Culiacán. Just two days later, on May 17, two of his colleagues at Río Doce, Andrés Villarreal and Ismael Bojórquez, begin receiving text messages laden with NSO Group's Pegasus spyware.
 

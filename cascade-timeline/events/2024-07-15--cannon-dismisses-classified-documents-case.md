@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-15--cannon-dismisses-classified-documents-case
 date: '2024-07-15'
 title: 'Judge Cannon dismisses Trump classified documents case, rules Jack Smith appointment unconstitutional'
@@ -41,5 +41,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 U.S. District Judge Aileen Cannon dismissed the classified documents case against Trump, ruling that Special Counsel Jack Smith's appointment violated the Constitution's Appointments Clause. Cannon, a Trump appointee, found Attorney General Garland lacked authority to appoint Smith without Senate confirmation. The ruling cited Justice Thomas's concurrence in the immunity case and departed from eight prior judicial rulings upholding special counsel appointments.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-07-02--lawrence-summers-treasury-secretary-derivatives-deregulation
 date: '1999-07-02'
 title: Lawrence Summers Becomes Treasury Secretary, Accelerates Derivatives Deregulation Campaign
@@ -45,7 +45,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Senate confirms Lawrence Summers as the 71st Secretary of the Treasury, replacing Robert Rubin and continuing the aggressive deregulation agenda. Summers had spent the previous year as Deputy Secretary orchestrating opposition to derivatives regulation, including making an "irate phone call" to CFTC Chair Brooksley Born when she proposed regulating over-the-counter derivatives in 1997.
 

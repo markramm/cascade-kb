@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--iran-retaliation-gulf-missiles-drones-wave-37
 date: '2026-03-09'
 title: Iran Launches Missiles and Drones at Gulf Nations and US Bases in Escalating Retaliation
@@ -47,7 +47,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 9, 2026 -- Day 10 of Operation Epic Fury -- Iran's Islamic Revolutionary Guard Corps launched what Iranian state media called its 37th wave of retaliatory missile and drone attacks against U.S. military installations and Gulf nation infrastructure. The sustained campaign represented one of the most extensive uses of ballistic and cruise missiles and unmanned aerial vehicles by any state actor in modern warfare.
 

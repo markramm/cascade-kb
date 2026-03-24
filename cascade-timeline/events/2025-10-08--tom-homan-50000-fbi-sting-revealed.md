@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-08--tom-homan-50000-fbi-sting-revealed
 date: '2025-10-08'
 title: Border Czar Tom Homan Allegedly Took $50,000 in FBI Corruption Sting
@@ -31,6 +31,6 @@ capture_lanes:
 - Executive Power Expansion
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Reports revealed that border czar Tom Homan was recorded by undercover FBI agents accepting $50,000 in cash on September 20, 2024, after indicating he could help win government contracts in a second Trump administration. The federal investigation launched in western Texas was abruptly terminated in late January or February 2025 when Trump's acting Deputy Attorney General Emil Bove told Justice officials he did not support the investigation. Attorney General Pam Bondi declined to address whether Homan would return the money. This represents obstruction of a federal corruption investigation by Trump administration officials, with DOJ leadership shutting down a documented bribery case against a senior White House official.

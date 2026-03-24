@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-01-20'
 title: 'Coordinated Federal Workforce Purge: Schedule F and DOJ Personnel Removal'
 actors:
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Trump administration implements unprecedented Schedule F (renamed Schedule Policy/Career) executive order on first day of presidency, systematically dismantling civil service protections and targeting DOJ prosecution staff. The order reclassifies an estimated 50,000 federal workers (2% of federal workforce), effectively politicizing key policy positions and allowing immediate termination of career employees.
 
 Specific actions include firing DOJ prosecutors Molly Gaston, J.P. Cooney, Anne McNamara, and Mary Dohrmann, while demanding comprehensive lists of federal employees for potential reclassification or removal. The order creates a new category that strips civil service protections from employees with 'policy-determining, policy-making, policy-advocating, or confidential duties'.

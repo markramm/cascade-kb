@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-10--doge-cuts-hamper-us-iran-war-readiness
 date: '2026-03-10'
 title: DOGE Spending Cuts Leave U.S. Government Hollowed Out as Iran War Escalates
@@ -34,7 +34,7 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A CNN investigation published March 10, 2026 documented how the Department of Government Efficiency's sweeping cuts to federal agencies had materially degraded the U.S. government's capacity to function during the Iran war that began on February 28.
 

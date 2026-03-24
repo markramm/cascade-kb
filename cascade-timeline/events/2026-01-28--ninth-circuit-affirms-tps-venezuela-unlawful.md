@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-28--ninth-circuit-affirms-tps-venezuela-unlawful
 date: '2026-01-28'
 status: confirmed
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 A three-judge panel of the Ninth Circuit unanimously affirmed the district court's ruling in National TPS Alliance v. Noem, holding that DHS Secretary Kristi Noem exceeded her statutory authority by vacating previously granted Temporary Protected Status (TPS) designations for Venezuela and prematurely terminating TPS for Haiti. The court held the TPS statute at 8 U.S.C. § 1254a does not grant the Secretary power to vacate existing TPS designations or partially vacate TPS extensions.
 

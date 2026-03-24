@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-04-18--mueller-report-140-russia-contacts
 date: '2019-04-18'
 importance: 9
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 The Mueller Report documented at least 140 contacts between Trump and 18 associates with
 Russian nationals and WikiLeaks during the 2016 campaign and transition. The report found
 Russian interference was "sweeping and systematic" and violated U.S. criminal law. While

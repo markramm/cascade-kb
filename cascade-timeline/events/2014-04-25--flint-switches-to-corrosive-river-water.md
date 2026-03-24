@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-04-25--flint-switches-to-corrosive-river-water
 date: 2014-04-25
 title: Flint Switches to Corrosive River Water to Save Money, Poisoning Entire City
@@ -41,7 +41,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Officials in Flint, Michigan switch the city's water supply from treated Detroit water (sourced from Lake Huron) to the polluted Flint River as a cost-cutting measure, beginning one of the worst public health disasters in modern American history. The decision, made by state-appointed emergency manager Darnell Earley, is intended to save approximately $5 million over two years while the city awaits connection to the Karegnondi Water Authority.
 

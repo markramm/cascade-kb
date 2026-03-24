@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-09-30--darnell-earley-appointed-flint-emergency-manager
 date: 2013-09-30
 title: Darnell Earley Appointed as Flint Emergency Manager, Will Oversee Disastrous Water Switch
@@ -34,7 +34,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Governor Rick Snyder appoints Darnell Earley as emergency manager of Flint, Michigan, the third of four unelected managers who would control the predominantly Black city during its financial crisis. Earley takes control of a city of 100,000 residents where more than 40% of the population lives below the poverty line and the city faces a $13 million deficit.
 

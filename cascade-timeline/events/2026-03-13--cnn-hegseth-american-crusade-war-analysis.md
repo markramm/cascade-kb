@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--cnn-hegseth-american-crusade-war-analysis
 date: '2026-03-13'
 title: CNN Analysis Connects Hegseth's "American Crusade" Book to His Leadership of Iran War
@@ -32,7 +32,7 @@ capture_lanes:
 - Church-State Capture
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2026, CNN published an analysis connecting Defense Secretary Pete Hegseth's 2020 book "American Crusade" to his current role leading the United States' military campaign against Iran. The analysis traced a throughline from the book's explicit framing of American politics as a civilizational and spiritual struggle to the rhetoric Hegseth was now deploying as the nation's highest-ranking military official.
 

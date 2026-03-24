@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-04--coristine-carjacking-dc-takeover-pretext
 date: '2025-08-04'
 importance: 9
@@ -43,7 +43,7 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward "Big Balls" Coristine, 19, was assaulted during attempted carjacking by 10 teenagers
 in Logan Circle at 3 AM. Trump immediately used the incident to threaten federal takeover

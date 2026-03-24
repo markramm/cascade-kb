@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-14--musk-adviser-may-make-as-much-as-1-million-a-year-while-help
 date: '2025-05-14'
 title: Musk adviser may make as much as $1 million a year while helping to dismantle agency that regulates Tesla and X
@@ -54,6 +54,6 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 DOGE operative Chris Young worked to undermine the CFPB, which has jurisdiction over Tesla and X, while simultaneously earning between $100,001 and $1 million annually as a political adviser to Elon Musk, raising significant conflict of interest concerns

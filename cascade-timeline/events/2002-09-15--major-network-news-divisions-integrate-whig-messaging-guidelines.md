@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-15--major-network-news-divisions-integrate-whig-messaging-guidelines
 date: '2002-09-15'
 title: Major Network News Divisions Integrate WHIG Messaging Guidelines
@@ -48,6 +48,6 @@ capture_lanes:
 - Media Capture & Control
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 News divisions at CNN, NBC, CBS, ABC, and Fox News formally integrate WHIG messaging guidelines into their editorial processes. The guidelines dictate story framing, terminology usage, and expert selection criteria, ensuring consistent pro-administration coverage across all networks.

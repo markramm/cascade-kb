@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-04-24--aedpa-expands-deportation-strips-judicial-review
 date: '1996-04-24'
 title: Antiterrorism and Effective Death Penalty Act Expands Deportation, Strips Judicial Review
@@ -38,7 +38,7 @@ capture_lanes:
 - Judicial Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bill Clinton signs the Antiterrorism and Effective Death Penalty Act (AEDPA) in response to the 1995 Oklahoma City bombing, despite the attack having no connection to immigration. While primarily focused on death penalty procedures and terrorism prosecution, the law contains sweeping immigration provisions that dramatically expand deportation grounds, limit judicial review, and establish mandatory detention for broad categories of immigrants. AEDPA passes five months before the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA), together comprising the most significant expansion of immigration enforcement since the National Origins Act of 1924.
 

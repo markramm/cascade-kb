@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-24--cfpb-dc-circuit-en-banc-hearing-mass-layoffs
 date: '2026-02-24'
 status: confirmed
@@ -55,7 +55,7 @@ capture_lanes:
 - Financial Deregulation
 - Legal System Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The full U.S. Court of Appeals for the District of Columbia Circuit held nearly three hours of oral arguments on February 24 in the National Treasury Employees Union's challenge to Acting CFPB Director Russell Vought's plan to lay off up to 90% of the Consumer Financial Protection Bureau's approximately 1,700 employees. The en banc hearing was the culmination of a legal battle that began when Vought - serving simultaneously as OMB Director and CFPB Acting Director in an unprecedented dual role - moved to gut the agency created after the 2008 financial crisis.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-21--trump-davos-greenland-threats-tariff-ultimatum
 date: '2026-01-21'
 title: Trump Threatens Tariffs on Eight NATO Allies at Davos Over Greenland, Blasts Europe as 'Not Recognizable'
@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 At the World Economic Forum in Davos, Trump delivered a widely-watched speech threatening tariffs on eight NATO members—Denmark, Norway, Sweden, France, Germany, Britain, the Netherlands, and Finland—in retaliation for defending Greenland's sovereignty. He announced tariffs starting at 10% in February and rising to 25% in June.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-02--dot-enforcement-grace
 title: DOT announces enforcement grace period for new emissions standards
 date: '2025-04-02'
@@ -46,5 +46,5 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 DOT Secretary Sean Duffy announced April 2, 2025, sweeping suspension of greenhouse gas emissions enforcement, rescinding Biden-era GHG measurement rule that required states to track/reduce highway emissions. Following Trump's "Woke Rescission" memo, DOT eliminated climate change requirements for federal transportation funds. Two federal judges had already ruled DOT lacked authority for the emissions rule. Part of broader EPA/DOT rollbacks beginning Feb 18.

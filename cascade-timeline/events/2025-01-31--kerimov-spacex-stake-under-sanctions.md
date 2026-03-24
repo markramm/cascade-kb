@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-31--kerimov-spacex-stake-under-sanctions
 date: '2025-01-31'
 title: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions
@@ -50,5 +50,5 @@ notes: 'This event represents a significant example of kleptocratic capture, dem
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Russian oligarch Suleiman Kerimov held a 1% stake in SpaceX through Delaware-based Heritage Trust for four years while under U.S. sanctions (2018-2022), with the stake acquired in 2017 before sanctions and disposed of before the trust was blocked in June 2022.

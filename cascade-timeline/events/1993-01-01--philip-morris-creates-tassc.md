@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-01-01--philip-morris-creates-tassc
 date: '1993-01-01'
 title: Philip Morris Creates TASSC Front Group, Exporting Tobacco Doubt Tactics to Climate Denial
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1993, Philip Morris tobacco company created The Advancement of Sound Science Coalition (TASSC) through PR firm APCO Associates as a front group to challenge evidence linking secondhand smoke to disease. TASSC became a critical bridge between tobacco industry doubt-manufacturing tactics and climate denial campaigns, recruiting Frederick Seitz and Fred Singer—scientists who had helped tobacco companies manufacture uncertainty about cancer research—as advisors. The organization demonstrated how corporate playbooks for undermining inconvenient science could be exported across industries, with the same scientists and tactics deployed to create doubt about both tobacco health risks and climate change.
 

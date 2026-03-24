@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2016-01-01'
 title: YouTube Algorithm Optimizes for Watch Time, Systematically Amplifies Extremism
 description: By 2016, evidence emerged that YouTube's recommendation algorithm, designed to maximize watch time, was systematically amplifying extremist content and radicalizing users through the "rabbit hole" effect. Former YouTube engineer Guillaume Chaslot, who worked on the recommendation algorithm, revealed that the company prioritized engagement over accuracy or social harm, recognizing that extreme content generates more watch time. The algorithm recommended increasingly extreme videos, with research showing that starting from mainstream political content, YouTube would recommend progressively more radical videos within 5-10 clicks. Chaslot raised concerns internally but was told maximizing watch time was the priority. By optimizing for engagement rather than accuracy, YouTube's algorithm became what researchers called a "radicalization engine"—systematically pushing users toward conspiracy theories, extremism, and misinformation because such content was more engaging.
@@ -57,7 +57,7 @@ connections:
 - Engagement-based ranking harms
 notes: Guillaume Chaslot founded AlgoTransparency after leaving YouTube to document how the recommendation algorithm systematically amplifies misinformation. Google prioritized watch time maximization despite internal warnings about radicalization effects.
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2016, YouTube's recommendation algorithm had become what researchers characterized as a "radicalization engine"—systematically amplifying extremist content and pushing users down rabbit holes of increasingly radical videos because extreme content generated more watch time, which was the algorithm's optimization target.
 

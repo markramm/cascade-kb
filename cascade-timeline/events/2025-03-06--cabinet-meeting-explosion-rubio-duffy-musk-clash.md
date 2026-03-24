@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-06--cabinet-meeting-explosion-rubio-duffy-musk-clash
 date: '2025-03-06'
 title: Cabinet Meeting Explodes as Rubio and Duffy Clash with Musk Over DOGE Cuts
@@ -38,7 +38,7 @@ capture_lanes:
 - Federal Workforce Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 A hastily arranged Cabinet meeting at the White House erupted into shouting matches as Secretary of State Marco Rubio and Transportation Secretary Sean Duffy confronted Elon Musk over DOGE's aggressive workforce cuts. The confrontation exposed tensions between Trump's Cabinet and the tech billionaire who had been granted extraordinary power over federal agencies.
 

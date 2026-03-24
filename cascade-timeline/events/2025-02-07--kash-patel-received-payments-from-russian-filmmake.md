@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-07--kash-patel-received-payments-from-russian-filmmake
 date: '2025-02-07'
 title: Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's FBI director nominee Kash Patel received a $25,000 payment from Igor Lopatonok's Global Tree Pictures for a documentary project, raising serious concerns about foreign influence and conflicts of interest. Lopatonok, a Russian national with documented Kremlin connections, has produced pro-Russian media and anti-Western content. The payment occurred while Patel was being considered for the FBI director position, potentially compromising national security.

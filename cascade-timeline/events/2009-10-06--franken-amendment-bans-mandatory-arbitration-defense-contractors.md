@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-10-06--franken-amendment-bans-mandatory-arbitration-defense-contractors
 date: '2009-10-06'
 title: Senate Passes Franken Amendment Banning Mandatory Arbitration for Sexual Assault Claims by Defense Contractors, 30 Republicans Vote to Protect Corporate Impunity
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The United States Senate passed the Franken Amendment by a 68-30 vote on October 6, 2009, prohibiting defense contractors receiving more than $1 million in Department of Defense funds from requiring employees to resolve sexual assault, battery, or harassment claims through mandatory arbitration. The amendment, sponsored by freshman Senator Al Franken (D-MN), was prompted by Jamie Leigh Jones' testimony about being gang-raped by KBR coworkers in Iraq and then forced into secret arbitration proceedings that would have prevented public accountability for the assault. Jones testified before the Senate Judiciary Committee on October 7, 2009, describing how KBR's mandatory arbitration clause had required her to fight for four years simply to have her claims heard in a public court rather than private proceedings designed to shield corporate misconduct from scrutiny.
 

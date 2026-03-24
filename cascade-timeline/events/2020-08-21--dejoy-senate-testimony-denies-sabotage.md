@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-21--dejoy-senate-testimony-denies-sabotage
 date: 2020-08-21
 title: DeJoy Senate Testimony Denies Sabotage as Gary Peters Details Severe Mail Delays
@@ -42,7 +42,7 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Postmaster General Louis DeJoy testified before the Senate Homeland Security and Governmental Affairs Committee, denying that his operational changes were designed to sabotage mail service or interfere with the 2020 election. DeJoy insisted he had "never spoken to the President about the Postal Service, other than to congratulate me when I accepted the position," and claimed changes like removing mail sorting machines preceded his tenure. However, Ranking Member Senator Gary Peters presented detailed evidence of severe mail delays affecting his constituents and challenged DeJoy's refusal to provide requested data on declining service performance.
 

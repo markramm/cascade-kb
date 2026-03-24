@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-06-13--gainful-employment-rule-obama-for-profit-colleges
 date: '2011-06-13'
 importance: 8
@@ -41,7 +41,7 @@ sources:
 notes: Rule struck down in 2012 by federal court after APSCU lawsuit, with judge finding debt-to-income metrics arbitrary despite acknowledging reasonableness of concept. Obama administration issued revised rule in 2014. Original rule would have made 800+ programs ineligible for federal aid, 98% at for-profit colleges. Rule targeted programs where graduates couldn't earn enough to repay student loans. Industry spent millions lobbying against rule.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Department of Education under Secretary Arne Duncan published the final "Gainful Employment Rule" on June 13, 2011, establishing that career training programs at for-profit colleges and non-degree programs at all institutions must demonstrate that graduates earn sufficient income to repay their student loans or risk losing access to federal financial aid programs. The regulation required programs to meet at least one of three metrics: more than 35 percent of graduates must be repaying principal on federal loans three years after graduation; typical graduates must have loan payments below 30 percent of discretionary income; or total student debt must be below 12 percent of overall income. The rule represented the Obama Administration's most significant attempt to impose accountability on the for-profit higher education industry, which had experienced explosive enrollment growth during the 2000s while posting dramatically higher student loan default rates and lower graduation rates than public and nonprofit institutions, leading to concerns that federal student aid was subsidizing predatory programs that left students worse off financially than if they had never enrolled.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-23--supreme-court-blocks-trump-national-guard-chicago-deployment
 date: '2025-12-23'
 title: Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular Forces' Means Military
@@ -89,7 +89,7 @@ capture_lanes:
 - Democratic Erosion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 In a 6-3 decision representing the Trump administration's first major Supreme Court defeat in months, the Court blocks President Trump's attempt to deploy federalized National Guard troops to Chicago without gubernatorial consent. The ruling turns on a critical statutory interpretation: the phrase "regular forces" in 10 U.S.C. § 12406(3) likely refers to the U.S. military, not civilian law enforcement agencies like ICE. This means the president can only federalize the National Guard under this statute when the military itself is unable to execute the laws—circumstances the Court calls "exceptional" since the Posse Comitatus Act forbids military domestic law enforcement except when authorized by Congress or the Constitution. Chief Justice Roberts, Justices Barrett and Kavanaugh join the three liberal justices in the majority, over dissents from Justices Alito, Thomas, and Gorsuch.

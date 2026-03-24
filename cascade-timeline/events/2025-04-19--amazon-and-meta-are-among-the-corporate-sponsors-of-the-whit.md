@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-19--amazon-and-meta-are-among-the-corporate-sponsors-of-the-whit
 title: Amazon and Meta are among the corporate sponsors of the White House Easter Egg Roll
 date: '2025-04-19'
@@ -54,6 +54,6 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 For the first time in White House history, the Easter Egg Roll is sold to corporate sponsors, with tech giants Meta, Amazon, and YouTube purchasing sponsorships ranging from $75,000 to $200,000, raising significant ethical concerns about monetizing public events.

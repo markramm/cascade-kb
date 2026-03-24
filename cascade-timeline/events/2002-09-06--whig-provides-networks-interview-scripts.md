@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-06--whig-provides-networks-interview-scripts
 date: '2002-09-06'
 title: WHIG Provides Networks Pre-Written Interview Questions and Expert Lists
@@ -46,6 +46,6 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group (WHIG) coordinated an unprecedented media manipulation campaign in September 2002, controlling news coverage about potential Iraqi threats through strategic messaging, synchronized interviews, and carefully curated expert narratives.

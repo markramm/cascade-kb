@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-22--j6-committee-social-media-special-treatment
 date: '2022-12-22'
 importance: 6
@@ -42,6 +42,6 @@ sources:
   tier: 1
 notes: 122-page internal committee memo documented extensive platform bias. Facebook's former head of dangerous organizations Brian Fishman testified platforms feared conservative backlash more than violence risk.
 ---
-type: solidarity_event
+type: timeline_event
 
 January 6th Committee investigation found tech platforms systematically bent rules to avoid penalizing conservative content out of fear of political reprisals. Internal documents revealed Facebook maintained "white lists" exempting conservative accounts (Eric Trump, Donald Trump Jr., Glenn Beck, Gateway Pundit) from fact-checking. Twitter employees warned of potential violence on January 5th but failed to act due to fear of deactivating Trump's account. Platforms only took action after January 6th attack.

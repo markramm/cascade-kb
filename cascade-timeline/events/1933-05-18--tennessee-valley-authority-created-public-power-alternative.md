@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1933-05-18--tennessee-valley-authority-created-public-power-alternative
 date: '1933-05-18'
 title: Tennessee Valley Authority Created as Public Power Alternative to Private Utility Monopolies
@@ -42,7 +42,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt signs the Tennessee Valley Authority Act on May 18, 1933, creating a federally-owned corporation to provide electricity, flood control, navigation improvements, and economic development across seven Southern states in the Tennessee River watershed. The TVA represents the most ambitious experiment in public power and regional planning in American history, establishing a government-owned alternative to private utility monopolies that had kept electricity prices high and rural electrification low.
 

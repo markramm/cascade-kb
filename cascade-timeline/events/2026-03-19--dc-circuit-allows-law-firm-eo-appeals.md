@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--dc-circuit-allows-law-firm-eo-appeals
 date: '2026-03-19'
 title: D.C. Circuit Allows DOJ to Proceed With Appeals Challenging Law Firm Executive Order Rulings
@@ -36,7 +36,7 @@ capture_lanes:
 - Institutional Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, the D.C. Circuit Court of Appeals granted a DOJ motion to proceed with appeals challenging district court rulings that had struck down executive orders targeting major law firms. The decision concluded a chaotic procedural sequence in which DOJ had first dismissed its own appeals, then reversed course and asked the court to undo the dismissals within 24 hours — a maneuver the targeted firms called an "unexplained about-face."
 

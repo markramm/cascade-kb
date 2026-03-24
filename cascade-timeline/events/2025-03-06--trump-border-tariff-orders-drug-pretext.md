@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-06--trump-border-tariff-orders-drug-pretext
 date: 2025-03-06
 title: Trump Issues Border Tariff Executive Orders Using Drug Enforcement Pretext
@@ -58,7 +58,7 @@ tags:
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 On March 6, 2025, President Trump signed two executive orders expanding his tariff regime against Canada and Mexico, using border drug enforcement as justification for protectionist trade policies.
 
 ## The Executive Orders

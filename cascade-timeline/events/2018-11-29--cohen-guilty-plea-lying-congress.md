@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-29--cohen-guilty-plea-lying-congress
 date: 2018-11-29
 title: Michael Cohen Pleads Guilty to Lying to Congress About Trump Tower Moscow Timeline
@@ -43,7 +43,7 @@ capture_lanes:
 - International Kleptocracy
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Michael Cohen, President Donald Trump's former personal attorney and longtime fixer, pleaded guilty on November 29, 2018, to making false statements to Congress about the Trump Organization's negotiations to build a Trump Tower in Moscow. This was Cohen's second guilty plea in 2018 and came as part of a cooperation agreement with Special Counsel Robert Mueller's office. The case directly implicated the Trump campaign's business ties to Russia, revealing that negotiations with the Kremlin continued deep into the 2016 presidential primary season while Trump publicly denied having business relationships with Russia.
 

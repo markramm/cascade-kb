@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-06-27--cia-guatemala-coup-operation-pbsuccess-overthrows-arbenz
 date: '1954-06-27'
 title: CIA Operation PBSUCCESS Overthrows Guatemalan Democracy, Protects United Fruit Company Interests
@@ -45,7 +45,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 27, 1954, democratically elected Guatemalan President Jacobo Arbenz resigned under pressure from a CIA-orchestrated coup known as Operation PBSUCCESS. The intervention, designed primarily to protect United Fruit Company's vast landholdings, inaugurated decades of military dictatorship, civil war, and genocide that killed an estimated 200,000 Guatemalans.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-20--us-sanctions-three-rsf-commanders-darfur-atrocities
 date: '2026-02-20'
 title: 'US Sanctions Three RSF Commanders for Darfur Atrocities, Critics Call Response Performative'
@@ -36,7 +36,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 The Treasury Department's Office of Foreign Assets Control sanctioned three Rapid Support Forces commanders on February 20, 2026, for their roles in the 18-month siege of El-Fasher in Darfur, Sudan. The sanctioned individuals were Brigadier General Abu Lulu, Major General Abu Shok, and field commander Al Zeir Salem, all identified as directly responsible for operations during which the RSF carried out systematic ethnic killings, torture, deliberate starvation, and sexual violence against approximately 260,000 trapped civilians. Treasury Secretary Scott Bessent issued a statement calling for an immediate ceasefire.
 
 The sanctions froze any US-based assets held by the three commanders and prohibited US persons from conducting transactions with them. However, the practical impact was widely expected to be minimal, as RSF field commanders in Darfur were unlikely to hold significant US-dollar assets or depend on access to the American financial system. Human rights organizations noted that the RSF itself was not designated as an organization, nor were the Gulf state backers who had provided the militia with weapons, funding, and diplomatic cover throughout the conflict.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2023-12-12'
 title: Trump Launches Third 'Mugshot' NFT Collection Generating $9.9 Million Revenue
 importance: 7
@@ -34,6 +34,6 @@ capture_lanes:
 - Electoral Manipulation
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump launched his third NFT collection titled 'MugShot' featuring 100,000 digital trading cards based on his Georgia election interference mugshot, priced at $99 each. The collection generated approximately $9.9 million in initial revenue and offered pieces of Trump's actual mugshot suit to buyers purchasing 47 cards. The launch caused his previous NFT collection prices to drop nearly 50% initially, demonstrating potential market cannibalization and the volatile nature of Trump's digital asset strategy.

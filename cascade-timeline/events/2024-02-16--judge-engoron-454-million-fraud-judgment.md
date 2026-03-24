@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-16--judge-engoron-454-million-fraud-judgment
 date: '2024-02-16'
 title: Judge Engoron Issues $454 Million Fraud Judgment Against Trump, Bans NY Business Operations
@@ -47,7 +47,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Manhattan Supreme Court Judge Arthur Engoron issued a devastating 92-page ruling ordering Donald Trump to pay $354.9 million in disgorgement plus $98.6 million in prejudgment interest (totaling approximately $454 million), and barred Trump from serving as an officer or director of any New York corporation for three years. The judgment represented one of the largest financial penalties ever imposed in a New York civil fraud case and struck directly at Trump's business empire and cultivated identity as a successful real estate mogul. Engoron found that Trump's financial statements between 2014 and 2021 overvalued his assets by between $812 million and $2.2 billion, and that the frauds "leap off the page and shock the conscience." The ruling concluded a three-month trial that exposed decades of systematic deception by Trump and the Trump Organization, validating Attorney General Letitia James's allegations that Trump had inflated property values to obtain favorable loans while deflating them for tax purposes.
 

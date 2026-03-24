@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-08-15--nixon-ends-gold-standard-bretton-woods-collapse
 date: '1971-08-15'
 title: Nixon Ends Gold Standard, Bretton Woods System Collapses
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 15, 1971, President Richard Nixon announced his "New Economic Policy" in a televised address, unilaterally closing the gold window and ending the convertibility of U.S. dollars to gold at the fixed rate of $35 per ounce established under the Bretton Woods system. The "Nixon Shock" came after a secret Camp David meeting with Treasury Secretary John Connally, Federal Reserve Chair Arthur Burns, and key advisor Paul Volcker on August 13, where Nixon decided to abandon the international monetary system that had governed global finance since 1944. By 1971, U.S. gold reserves had fallen to approximately $10.2 billion, covering only 25% of foreign-held dollars estimated at $40 billion, creating unsustainable pressure as European nations demanded redemption of their dollars for gold.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-07-01--trump-crypto-business-conflicts
 date: '2023-07-01'
 title: Trump Crypto Empire Raises Major Constitutional Conflict of Interest Concerns
@@ -44,5 +44,5 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media and Technology Group announced significant cryptocurrency partnerships that could generate hundreds of millions in foreign-backed revenue, potentially violating the Emoluments Clause. The venture involves state-backed Emirati investment firm MGX, crypto exchange Binance, and World Liberty Financial, where Trump is set to receive approximately 75 percent of proceeds.

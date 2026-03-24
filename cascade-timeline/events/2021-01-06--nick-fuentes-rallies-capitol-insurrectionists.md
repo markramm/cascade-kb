@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-06--nick-fuentes-rallies-capitol-insurrectionists
 date: '2021-01-06'
 title: Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
@@ -31,6 +31,6 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 White nationalist leader Nick Fuentes was present at the U.S. Capitol on January 6, 2021, wearing a VIP badge to President Trump's speech and addressing supporters outside the Capitol building during the violent insurrection. While Fuentes did not enter the Capitol itself, witnesses reported him shouting encouragement to rioters: "Keep moving towards the Capitol – it appears we are taking the Capitol back! ... Break down the barriers and disregard the police. The Capitol belongs to us!" Fuentes had played a leadership role in organizing "Stop the Steal" protests leading up to January 6, speaking at rallies in Michigan, Wisconsin, Arizona, and Washington, D.C. The FBI opened an investigation into Fuentes' conduct which was closed after five months without charges. On January 19, 2022, the House Select Committee on the January 6 Attack issued a subpoena to Fuentes. The Southern Poverty Law Center documented his presence "amidst a mob of pro-Trump insurrectionists" in livestreams and photographs. His participation in January 6 events led to further deplatforming across social media and financial services.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1850-09-18--fugitive-slave-act-federal-kidnapping-apparatus
 date: '1850-09-18'
 title: Fugitive Slave Act Transforms Federal Government into Kidnapping Apparatus
@@ -54,7 +54,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Congress passes and President Millard Fillmore signs the Fugitive Slave Act of 1850 as part of the Compromise of 1850, transforming the capture of freedom seekers from a state matter into a federal responsibility and converting the entire apparatus of federal law enforcement into an instrument of slavery enforcement. The Act mandates that both federal and local law enforcement in all states—including free states—must arrest suspected fugitive enslaved people, while imposing fines and imprisonment on anyone aiding escape from bondage. Most catastrophically, the law denies suspected freedom seekers any right to trial or due process: cases are determined by newly appointed federal commissioners who receive $10 if they rule that a person should be returned to slavery but only $5 if they rule for release—a direct financial incentive to enslave people. This compensation structure combined with the prohibition on suspected enslaved people testifying in their own defense creates a system of legalized kidnapping where free Black Americans can be seized and sold into slavery based solely on the word of two men given to a U.S. Commissioner.

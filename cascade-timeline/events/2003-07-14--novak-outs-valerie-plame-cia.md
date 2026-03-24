@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-07-14--novak-outs-valerie-plame-cia
 date: '2003-07-14'
 title: Robert Novak Exposes CIA Operative Valerie Plame
@@ -46,5 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Syndicated columnist Robert Novak publicly identified Valerie Plame as a covert CIA operative in his column, revealing her classified status after her husband, Joseph Wilson, criticized the Bush administration's claims about Iraqi uranium procurement. The leak, attributed to senior administration officials Richard Armitage, Karl Rove, and Scooter Libby, triggered a federal investigation that ultimately resulted in Libby's conviction for obstruction of justice and perjury.

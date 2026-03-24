@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1978-06-06--proposition-13-california-tax-revolt
 date: '1978-06-06'
 title: 'Proposition 13 Passes, California Tax Revolt Spreads Nationally'
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 On June 6, 1978, California voters approved Proposition 13 with nearly two-thirds support, fundamentally altering the state's fiscal structure and launching a national tax revolt movement. The initiative, championed by Howard Jarvis and Paul Gann, added Article XIIIA to the California Constitution, limiting annual property taxes to 1% of assessed value, capping assessment increases at 2% per year until property changes ownership, and requiring a two-thirds legislative vote to increase non-property taxes. The measure reduced property tax revenue by approximately 57%, with local governments seeing property tax receipts decline by roughly 60% statewide in the first year. Jarvis and Gann had gathered 1,263,000 signatures for the ballot measure—more than one million (81%) deemed valid, marking the first time that more than a million signatures had ever been solicited for a California ballot initiative.
 
 The backlash against property taxes that fueled Proposition 13 coalesced around Howard Jarvis, a former newspaperman and appliance manufacturer turned taxpayer activist in retirement. Jarvis founded the Howard Jarvis Taxpayers Association in 1978 to push for the measure's passage. Voters were motivated by what organizers described as "a combination of fear and anger"—fear of losing their homes to rising property taxes during a period of rapid real estate appreciation, and anger over the perception that governments could not reduce spending. The successful campaign capitalized on frustration with government inefficiency and linked property tax increases to wasteful public spending, even as the tax burden was shifting from corporations to homeowners.

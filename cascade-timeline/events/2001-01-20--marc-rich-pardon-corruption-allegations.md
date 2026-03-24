@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2001-01-20'
 title: Clinton Pardons Fugitive Marc Rich Amid Corruption Allegations
 importance: 9
@@ -42,7 +42,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Hours before leaving office, President Bill Clinton grants a controversial presidential pardon to Marc Rich, an international fugitive who fled to Switzerland in 1983 to avoid prosecution on 51 counts of tax fraud, racketeering, and illegal oil trading with Iran during the 1979-1980 hostage crisis. Rich was indicted for evading more than $48 million in taxes and conducting illegal business deals worth an estimated $200 million. The pardon raises immediate corruption concerns due to substantial political donations from Rich's ex-wife, Denise Rich.
 

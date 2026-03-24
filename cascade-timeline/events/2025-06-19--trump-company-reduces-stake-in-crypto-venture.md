@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-19--trump-company-reduces-stake-in-crypto-venture
 date: '2025-06-19'
 title: Trump Company Reduces Stake in Crypto Venture World Liberty Financial
@@ -51,5 +51,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 DT Marks DEFI LLC, affiliated with the Trump Organization, reduced its ownership stake in World Liberty Financial from 60% to 40% in June 2025, coinciding with a $2 billion investment from MGX, an Abu Dhabi state-backed investment firm, and intensifying regulatory scrutiny led by Sen. Richard Blumenthal.

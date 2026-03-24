@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-06--wilbur-ross-sharpiegate-noaa-scientists
 date: 2019-09-06
 title: Commerce Secretary Ross Threatens to Fire NOAA Scientists Who Contradicted Trump's False Hurricane Claim
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Commerce Secretary Wilbur Ross threatened to fire top officials at the National Oceanic and Atmospheric Administration (NOAA) unless they backed President Donald Trump's false claim that Hurricane Dorian threatened Alabama. Ross called acting NOAA Administrator Neil Jacobs on September 6, 2019, and told him to "fix" the National Weather Service's contradiction of Trump's claim. When Jacobs opposed the demand, Ross told him NOAA's political staff would be fired. This political interference came after Trump showed reporters a weather map on September 4 that had been altered with a black Sharpie marker to falsely show the hurricane on track to hit Alabama.
 

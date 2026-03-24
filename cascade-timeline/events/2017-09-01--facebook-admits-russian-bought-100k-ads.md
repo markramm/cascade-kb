@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-09-01--facebook-admits-russian-bought-100k-ads
 date: '2017-09-01'
 importance: 9
@@ -48,5 +48,5 @@ sources:
 notes: '3,000 ads purchased by 470 accounts linked to IRA. Reached 126 million Americans. Focus on divisive issues. First admission after denying for months. Led to congressional hearings and Zuckerberg testimony.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Facebook reveals to Congress that Russian operatives bought $100,000 in political ads reaching millions of Americans, first admission of platform weaponization for foreign election interference, detailed in multiple congressional hearings and investigations throughout late 2017

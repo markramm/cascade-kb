@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-09-26--ftc-sues-amazon-monopoly-third-party-sellers
 date: '2023-09-26'
 title: FTC Sues Amazon for Illegal Monopoly Maintenance Through Anti-Discounting and Seller Coercion
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Trade Commission, joined by 17 state attorneys general, filed a landmark antitrust lawsuit against Amazon alleging the company illegally maintains monopoly power in online retail through systematic anti-competitive practices. The complaint documents Amazon's "anti-discounting" algorithm that punishes third-party sellers for offering lower prices elsewhere, coerces sellers into using expensive fulfillment services, and extracts nearly 50% of seller revenues through monopolistic fees—fundamentally transforming from a retailer into a monopolistic toll-booth that taxes the entire e-commerce ecosystem.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-26--witkoff-son-pitches-gulf-investors-ceasefire
 date: '2025-09-26'
 title: Envoy Witkoff's Son Pitches $4B Fund to Qatar and UAE While Father Negotiates Ceasefire
@@ -32,6 +32,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times revealed that Alex Witkoff pitched a $4 billion real estate fund to sovereign wealth funds of Qatar, UAE, and Kuwait while his father Steve Witkoff served as Trump's special envoy negotiating Gaza ceasefire with those same nations. The proposed 'Special Situations Real Estate Credit Fund' would generate $80 million annually in management fees ($400 million over five years) plus profits. Alex approached Qatar Investment Authority in 2024 and continued courting Gulf investors through August 2025, claiming secured pledges from Qatar, UAE, and Kuwait. This created massive conflicts of interest as Steve Witkoff conducted sensitive diplomatic negotiations with countries being solicited for family business deals. Qatar ultimately declined the proposal, but the arrangement exemplifies how Trump administration officials use public positions to enrich family members.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-29--tech-firms-offer-600m-discounts-medicaid-work-requirements
 date: '2026-01-29'
 status: confirmed
@@ -30,7 +30,7 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration announces that ten technology vendors are offering $600 million worth of discounts to states implementing Medicaid work requirements under the "One Big Beautiful Bill Act" signed July 4, 2025. The unprecedented discount offer signals vendor expectations that the sweeping healthcare policy change will generate lucrative long-term contracts despite the substantial upfront price reductions. The technology systems are required to track and verify that 18.5 million Medicaid enrollees aged 19-64 work, volunteer, or engage in educational activities for at least 80 hours monthly beginning January 1, 2027.
 

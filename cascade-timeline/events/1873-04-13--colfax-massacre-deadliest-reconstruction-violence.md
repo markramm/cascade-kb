@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1873-04-13--colfax-massacre-deadliest-reconstruction-violence
 date: '1873-04-13'
 title: 'Colfax Massacre: 150 Black Americans Murdered to Overthrow Local Government'
@@ -41,7 +41,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On Easter Sunday, April 13, 1873, a mob of approximately 300 armed white men—including members of the Ku Klux Klan and Knights of White Camellia—attacks the Grant Parish courthouse in Colfax, Louisiana, murdering an estimated 150 Black Americans in what becomes the deadliest single incident of racial violence during Reconstruction. The massacre follows a disputed 1872 Louisiana gubernatorial election where both Republicans and Democrats declare their candidate the winner, leading to competing governments in Colfax. After weeks of occupation by a Black militia supporting the Republican government, the white supremacist force marches on the courthouse with a cannon.
 

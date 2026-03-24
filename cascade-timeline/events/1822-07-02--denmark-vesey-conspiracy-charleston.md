@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1822-07-02--denmark-vesey-conspiracy-charleston
 date: '1822-07-02'
 title: Denmark Vesey Plans Massive Charleston Slave Rebellion, Exposing Institutional Terror
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Denmark Vesey, a free Black carpenter and Methodist leader who purchased his freedom in 1800 after winning a $1,500 lottery, allegedly plans the most extensive slave insurrection in U.S. history, organizing thousands of enslaved and free Blacks in Charleston, South Carolina to overthrow the city's white population, liberate Charleston, and escape to Haiti. Vesey models his rebellion after the successful 1791 Haitian Revolution and uses his position as a respected member of the African Methodist Episcopal Church (which had over 3,000 members in 1820) to recruit participants and coordinate planning. The conspiracy aims to coincide with Bastille Day and involves sophisticated organization across multiple locations. Charleston authorities' suppression of the African Church in the years before 1822 provides a catalyst for the revolt, as Vesey and other church leaders transform religious networks into revolutionary organizing structures.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -44,5 +44,5 @@ tags:
 - strategic-appointments
 title: Meta adds former Trump advisor Dina Powell McCormick to its board
 ---
-type: solidarity_event
+type: timeline_event
 Meta has strategically appointed Dina Powell McCormick, a former Trump administration national security advisor and Goldman Sachs executive with extensive government experience, to its board of directors, effective April 15, 2025. This move is seen as part of Meta's efforts to strengthen its political connections and regulatory positioning.

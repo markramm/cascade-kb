@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-10--university-phoenix-enrollment-collapse-fraud
 date: 2018-12-10
 title: University of Phoenix Enrollment Collapses 80% After Fraud Investigations - $191M FTC Settlement
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The University of Phoenix's enrollment collapsed from a peak of 470,000 students in 2010 to approximately 95,000 by fall 2018—an 80% decline—as federal and state investigations exposed systematic fraud including deceptive advertising that falsely promised job opportunities with major companies like Microsoft, Twitter, Adobe, and Yahoo. The enrollment implosion demonstrated that when for-profit colleges face regulatory scrutiny, their business models collapse because they provide minimal educational value beyond federal aid extraction.
 

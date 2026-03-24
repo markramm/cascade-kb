@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-05-10--purdue-pharma-guilty-plea-no-jail-time
 title: Purdue Pharma Pleads Guilty to Criminal Misbranding, $600M Fine, Zero Executives Jailed
 date: '2007-05-10'
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 10, 2007, Purdue Pharma pleaded guilty to a felony charge of illegally misbranding OxyContin in an effort to mislead and defraud physicians and agreed to pay $600 million—representing approximately 90 percent of OxyContin profits during the offense period. The company admitted to misleading the public about OxyContin's risk of addiction in what was then one of the largest pharmaceutical settlements in U.S. history.
 

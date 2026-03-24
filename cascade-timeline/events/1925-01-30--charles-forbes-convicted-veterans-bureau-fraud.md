@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-01-30--charles-forbes-convicted-veterans-bureau-fraud
 date: '1925-01-30'
 title: Charles Forbes Convicted of Veterans Bureau Fraud After Nine-Week Trial
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 After nine weeks of testimony in federal court in Chicago, a jury convicts Charles Forbes, the first director of the Veterans Bureau, of conspiracy to defraud the U.S. government, along with construction company president E.H. Mortimer. The conviction stems from a $5,000 bribe Forbes accepted from contractor J.W. Thompson at Chicago's Drake Hotel to secure $17 million in veterans' hospital construction contracts. On February 2, 1925, the judge sentences both men to two years in prison and fines them $10,000 each. A 1924 Senate investigation revealed Forbes looted more than $200 million from the Veterans Bureau through contract kickbacks and the sale of nearly $7 million worth of hospital supplies for only $600,000.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-01-01--deutsche-bank-loans-trump-2-5-billion-russian-laundering
 date: '1998-01-01'
 title: Deutsche Bank Loans Trump $2.5 Billion Despite Russian Money Laundering and Red Flags
@@ -45,7 +45,7 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 From 1998-2016, Deutsche Bank loaned Donald Trump and his companies over $2.5 billion despite Trump's history of bankruptcies, defaults, and "Donald risk" that caused all other major US banks to refuse him. This lending relationship persisted even as Deutsche Bank was simultaneously facilitating $10 billion in Russian money laundering (2011-2015) and facing massive regulatory fines. The bank's willingness to finance Trump when no one else would created profound financial dependence on an institution deeply compromised by Russian illicit money flows, directly enabling Trump's business survival and eventual presidential run.
 

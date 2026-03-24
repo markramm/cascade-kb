@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-01-14--wendy-gramm-enron-derivatives-exemption-cftc
 date: '1993-01-14'
 title: CFTC Chair Wendy Gramm Exempts Enron from Derivatives Regulation, Joins Board Five Weeks Later
@@ -47,7 +47,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On her final day as Chair of the Commodity Futures Trading Commission, Wendy Gramm approves a regulatory exemption allowing Enron to trade energy derivatives without CFTC oversight. The exemption, granted on January 14, 1993 (some sources cite January 21, the final day of the George H.W. Bush administration), removes energy derivatives from federal regulation, creating what would later be known as the "Enron loophole."
 

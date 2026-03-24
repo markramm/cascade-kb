@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-01-01--abc-news-kills-amy-robach-epstein-interview
 date: '2015-01-01'
 importance: 9
@@ -42,6 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 ABC News anchor Amy Robach conducts explosive interview with Virginia Giuffre detailing Jeffrey Epstein's trafficking network and powerful clients including Prince Andrew. ABC executives kill the story, claiming insufficient corroboration. The interview remains buried for three years until leaked audio reveals Robach's frustration that the network 'had it all' but refused to air it.

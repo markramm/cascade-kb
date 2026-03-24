@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1959-09-14--landrum-griffin-act-restricts-union-internal-operations
 date: '1959-09-14'
 title: Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operations
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Labor Management Reporting and Disclosure Act (Landrum-Griffin Act) in response to publicized corruption in the Teamsters, International Longshoremen's Association, and United Mine Workers, imposing extensive federal oversight of union internal operations including mandatory financial disclosures, democratic election requirements, and restrictions on union tactics. The Act requires unions to hold secret ballot elections for local offices every three years and national offices every five years, provides Department of Labor review of election disputes, and mandates detailed financial reporting to the federal government.
 

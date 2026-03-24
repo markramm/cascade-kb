@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-10-10--congressional-iraq-authorization-vote-based-on-whig-fabrications
 date: '2002-10-10'
 title: Congressional Iraq Authorization Vote Based on WHIG Fabrications
@@ -51,6 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress authorizes military force against Iraq through a vote systematically manipulated by the White House Iraq Group (WHIG), which deliberately distorted intelligence assessments. This vote represents a critical moment of democratic failure, where executive manipulation bypassed congressional oversight to justify an unauthorized war.

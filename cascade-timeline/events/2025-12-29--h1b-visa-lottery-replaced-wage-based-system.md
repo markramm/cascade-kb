@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-29--h1b-visa-lottery-replaced-wage-based-system
 date: '2025-12-29'
 title: Trump Administration Replaces H-1B Visa Lottery with Wage-Based Selection
@@ -29,7 +29,7 @@ sources:
   tier: 1
   verified: true
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Homeland Security published a final rule replacing the random H-1B visa lottery with a "weighted selection process" that favors higher-paid workers. Effective February 27, 2026, registrations will be entered multiple times based on wage level: Level IV wages (4 entries), Level III (3 entries), Level II (2 entries), Level I (1 entry).
 

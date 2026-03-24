@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-11-17--climategate-email-hack-manufactures-climate-science-controversy
 date: '2009-11-17'
 title: Climategate Email Hack Manufactures Controversy Before Copenhagen Summit
@@ -43,7 +43,7 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 17, 2009, just weeks before the crucial Copenhagen Climate Summit, hackers breached servers at the Climate Research Unit (CRU) at the University of East Anglia, stealing thousands of emails and computer files spanning 13 years of climate research. The stolen materials were strategically released to climate denial websites, which cherry-picked phrases from private scientific correspondence to falsely claim that climate scientists had manipulated data and suppressed dissenting research. Climate denial advocates branded the incident "Climategate," creating the false impression of a major scientific scandal.
 

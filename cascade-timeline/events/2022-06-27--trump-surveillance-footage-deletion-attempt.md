@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-27--trump-surveillance-footage-deletion-attempt
 date: '2022-06-27'
 importance: 9
@@ -42,7 +42,7 @@ notes: 'De Oliveira, a 20-year Trump employee who became property manager in Jan
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Carlos De Oliveira told a Trump employee in Mar-a-Lago's audio closet that "the boss"
 wanted the surveillance server deleted after DOJ subpoenaed footage on June 24. De Oliveira

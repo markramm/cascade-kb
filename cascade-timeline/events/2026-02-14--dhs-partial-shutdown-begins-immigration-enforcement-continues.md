@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-14--dhs-partial-shutdown-begins-immigration-enforcement-continues
 date: '2026-02-14'
 status: confirmed
@@ -33,7 +33,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS entered a partial shutdown at 12:01 a.m. after Congress failed to pass funding legislation, becoming the only federal agency affected while all others received full-year fiscal 2026 funding. Democrats withheld votes for DHS seeking reforms to immigration enforcement following the fatal shootings of Renée Good and Alex Pretti by federal agents in Minneapolis. Democrats demanded a "masks off, body cameras on" policy, new use-of-force standards, better identification of DHS officers, and requirements for judicial warrants before entering private property.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-12-31--telecom-act-destroys-local-journalism-jobs
 date: '1996-12-31'
 title: Telecommunications Act Triggers Mass Layoffs and Destruction of Local Journalism
@@ -45,7 +45,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Telecommunications Act of 1996's media consolidation provisions trigger massive job losses across American journalism, gutting local news coverage and professional media employment. In radio alone, cities that once had 100 jobs for radio professionals now have perhaps 20, an 80% reduction in employment. USA Today, the nation's largest circulation newspaper, experiences layoffs described as a "total bloodbath" in the American Journalism Review.
 

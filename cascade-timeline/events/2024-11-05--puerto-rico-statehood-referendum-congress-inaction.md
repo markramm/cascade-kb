@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-05--puerto-rico-statehood-referendum-congress-inaction
 date: '2024-11-05'
 importance: 8
@@ -40,5 +40,5 @@ sources:
 notes: 'Seventh referendum on Puerto Rico status. Results - 58.6% statehood (620,782 votes), 29.6% free association (313,259 votes), 11.8% independence (125,171 votes), plus 204,341 blank/invalid ballots. First time maintaining territorial status not option on ballot. Pro-commonwealth parties called for boycott. Statehood has won majority in four recent votes (2012, 2017, 2020, 2024). Results non-binding - requires Congressional action. Congress proposed Puerto Rico Status Act (H.R. 2757) for November 2, 2025 binding referendum, but bill passed House December 2022 and never brought to Senate floor. Fourth consecutive statehood majority vote ignored by Congress.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Puerto Rico votes 58.6% for statehood in non-binding referendum, fourth consecutive majority for statehood since 2012, as US Congress continues to ignore territory's self-determination and refuses to act on binding referendum legislation despite repeated democratic expressions

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-27--fossil-fuel-companies-get-direct-email-line-to-trump-for-exe
 date: '2025-03-27'
 title: Trump EPA Creates Email Portal for Clean Air Act Exemption Requests
@@ -48,6 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's EPA established an email portal allowing fossil fuel companies to request Presidential Exemptions from Clean Air Act regulations, enabling up to two-year compliance waivers for pollution control standards on nearly 200 toxic pollutants.

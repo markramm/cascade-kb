@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1886-12-08--american-federation-labor-founded-craft-union-exclusion
 date: '1886-12-08'
 title: American Federation of Labor Founded on Craft Union Model Excluding Unskilled Workers
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Forty-two delegates representing 13 national unions and various local labor organizations convene in Columbus, Ohio, to establish the American Federation of Labor (AFL) as the successor to the Federation of Organized Trades and Labor Unions (founded 1881). The convention elects Samuel Gompers, an English immigrant who organized cigar makers, as the AFL's first president—a position he holds for nearly 40 years (1886-1924, except 1895). The AFL emerges after craft union leaders conclude that no accommodation with the Knights of Labor leadership is possible, particularly after the Knights reject a proposal reaffirming the historic separation of trade-union and labor-reform functions.
 

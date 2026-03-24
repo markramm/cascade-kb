@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-03-01--subprime-lending-explosion-predatory-practices-spread
 date: '2000-03-01'
 title: Subprime Lending Explodes as Predatory Practices Spread to Minority Communities
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Subprime mortgage lending reaches $160 billion annually by 2000, a tenfold increase from 1993, as predatory lenders systematically target minority communities with high-cost loans. Rather than expanding homeownership, research shows that subprime lending at this scale actually causes net losses in homeownership as foreclosures from predatory terms exceed new purchases. The industry's growth represents a new form of wealth extraction from communities previously excluded from credit.
 

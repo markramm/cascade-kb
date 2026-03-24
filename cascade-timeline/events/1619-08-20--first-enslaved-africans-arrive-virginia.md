@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1619-08-20--first-enslaved-africans-arrive-virginia
 date: '1619-08-20'
 title: First Enslaved Africans Arrive in Virginia, Beginning Atlantic Slave Trade in British North America
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The English privateer ship White Lion arrives at Point Comfort in Hampton, Virginia in late August carrying "twenty and odd" captive Africans originally from modern-day Angola. According to a letter by colony secretary John Rolfe, Governor Sir George Yeardley and head merchant Abraham Peirsey purchase the Africans "for victualles...at the best and easyest rate they could." These individuals had been captured in Portuguese wars against the Kongo and Ndongo kingdoms, placed on the slave ship San Juan Bautista bound for Vera Cruz with 350 captives, then seized by English privateers White Lion and Treasurer in the Gulf of Mexico. A few days later the Treasurer arrives and sells an additional 7-9 Africans including a woman named Angela who is purchased by Captain William Pierce, making her the earliest historically documented enslaved African in the colony.
 

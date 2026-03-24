@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-11-15--thomas-drake-reports-nsa-trailblazer-waste-surveillance-expansion
 date: '2007-11-15'
 title: Thomas Drake Reports NSA Trailblazer Program Waste and Constitutional Violations
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 NSA senior executive Thomas Drake reports to DOD Inspector General massive waste in the $1.2 billion Trailblazer surveillance program and systematic constitutional violations. Drake documented how NSA chose expensive, ineffective contractor solutions over proven internal alternatives while expanding illegal domestic surveillance. His whistleblowing revealed systematic corruption where contractors and political appointees prioritized profits over national security and constitutional compliance.

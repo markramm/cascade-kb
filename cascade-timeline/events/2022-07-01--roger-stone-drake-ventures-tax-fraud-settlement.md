@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-07-01--roger-stone-drake-ventures-tax-fraud-settlement
 date: '2022-07-01'
 title: Roger Stone Settles $2.1 Million Tax Fraud Case Over Drake Ventures Shell Company
@@ -51,7 +51,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice settled a civil lawsuit against Roger Stone and his Drake Ventures LLC shell company for $2.1 million in July 2022, resolving allegations that Stone had fraudulently transferred assets to avoid paying nearly $2 million in federal taxes. Drake Ventures was a Delaware-registered LLC that federal investigators characterized as Stone's "alter ego"—a company with no legitimate business operations, no independent website, and no independent phone number, yet one through which Stone channeled hundreds of thousands of dollars in personal expenses including groceries, dental bills, and personal services.
 
 Prosecutors documented that Drake Ventures had received payments from Stone's political and media activities before distributing funds for his personal benefit, creating a paper trail of fraudulent transfers designed to shield assets from IRS collection. When the IRS moved to collect Stone's tax debt, prosecutors alleged he transferred a Fort Lauderdale property to the Bertran Family Revocable Trust for $400,000—a transaction the government characterized as a fraudulent transfer to evade collection. The settlement required Stone to pay $2.1 million without admitting wrongdoing, resolving the civil enforcement action.

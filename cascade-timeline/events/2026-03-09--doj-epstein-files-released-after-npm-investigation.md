@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--doj-epstein-files-released-after-npm-investigation
 date: '2026-03-09'
 title: DOJ Releases Additional Epstein Files After NPR Investigation Exposes Withheld Trump-Related Documents
@@ -44,7 +44,7 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Beginning on March 9, 2026, the U.S. Department of Justice released additional Epstein files following an NPR investigation that exposed the selective withholding of documents related to sexual abuse allegations against President Donald Trump. NPR's investigation found 53 pages missing from the DOJ's public Epstein database, including notes from law enforcement interviews, a law enforcement report, and license records.
 

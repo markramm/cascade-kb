@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-08-12--charlottesville-unite-right-heather-heyer-killed
 date: '2017-08-12'
 title: White Supremacist Rally in Charlottesville Ends with Heather Heyer Murdered by Neo-Nazi
@@ -35,7 +35,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The "Unite the Right" rally in Charlottesville, Virginia brought together neo-Nazis, white supremacists, and far-right extremists to protest the removal of a Confederate statue of Robert E. Lee. The rally descended into violence, culminating in a deadly terror attack when James Alex Fields Jr., a 21-year-old avowed white supremacist from Ohio, deliberately drove his Dodge Challenger into a crowd of peaceful counter-protesters.
 

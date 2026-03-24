@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-06-12--walgreens-terminates-theranos-partnership
 date: '2016-06-12'
 title: Walgreens Terminates Theranos Partnership After 31,000 Customers Receive Voided Test Results
@@ -41,7 +41,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Walgreens formally terminates its partnership with Theranos after discovering that 31,000 Walgreens customers had received voided test results from the blood-testing company's faulty devices. The termination follows months of deteriorating relations after the October 2015 Wall Street Journal exposé revealed Theranos' technology didn't work as advertised. Walgreens closes all Theranos wellness centers in its stores and immediately ceases blood-testing services, citing bad test results and the federal investigation into Theranos. The pharmacy chain had invested $140 million in the partnership, which began in 2013 with plans to revolutionize blood testing through convenient retail locations.
 

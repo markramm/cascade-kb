@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-28--donald-trump-pardons-former-republican-rep-michael-grimm-for
 date: '2025-05-28'
 title: 'Trump Pardons Ex-Rep. Michael Grimm, Highlighting Political Clemency Campaign'
@@ -44,5 +44,5 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 President Donald Trump pardoned former Republican Representative Michael Grimm, who served seven months in prison for tax fraud and resigned from Congress in 2015. The pardon was part of a broader clemency effort targeting individuals with felony convictions similar to legal challenges faced by Trump himself.

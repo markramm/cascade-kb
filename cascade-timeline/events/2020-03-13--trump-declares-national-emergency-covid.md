@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-13--trump-declares-national-emergency-covid
 date: '2020-03-13'
 title: Trump Declares National Emergency for COVID-19 After Weeks of Denialism and Delay
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump declared COVID-19 a national emergency on March 13, 2020—approximately six weeks after Health Secretary Alex Azar had declared it a public health emergency—finally acknowledging the severity of a pandemic he had spent weeks downplaying and dismissing as a Democratic "hoax." The declaration, which came only after the United States had reported over 1,000 cases and 30 deaths, freed "$50 billion in federal resources" for pandemic response and invoked both the National Emergencies Act and the Stafford Act to mobilize federal agencies and FEMA. However, the belated action could not undo the damage of Trump's weeks of denialism, false claims about testing availability, and failure to prepare adequate federal response infrastructure—delays that had already allowed the virus to spread largely undetected throughout the country due to catastrophically inadequate testing capacity.
 

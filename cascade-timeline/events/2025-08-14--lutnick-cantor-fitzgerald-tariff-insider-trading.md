@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-14--lutnick-cantor-fitzgerald-tariff-insider-trading
 date: '2025-08-14'
 title: Senate Probes Commerce Secretary Lutnick's Firm for Tariff Insider Trading
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate Democrats flagged Commerce Secretary Howard Lutnick's firm Cantor Fitzgerald for creating financial products allowing clients to bet on Supreme Court tariff rulings, raising insider dealing concerns. Lutnick, a top tariff negotiator, is father of Cantor Fitzgerald CEO Brandon Lutnick.
 

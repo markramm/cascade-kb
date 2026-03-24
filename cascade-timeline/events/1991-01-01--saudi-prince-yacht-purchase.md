@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-01-01--saudi-prince-yacht-purchase
 date: '1991-01-01'
 importance: 6
@@ -43,6 +43,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Saudi Prince Alwaleed bin Talal purchased Trump's yacht "Trump Princess" for $20 million in 1991, providing crucial liquidity during Trump's severe financial crisis. Trump had bought the 282-foot yacht (originally owned by arms dealer Adnan Khashoggi) for $29 million in 1988, taking a $9 million loss. This bailout occurred when Trump faced personal guarantees on $900 million in debt, marking the beginning of decades of Saudi financial entanglements with Trump's business empire.

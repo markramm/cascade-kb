@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-11--white-house-will-not-release-visitor-logs-during-trump-s-sec
 date: '2025-02-11'
 title: White House will not release visitor logs during Trump's second term
@@ -53,6 +53,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump White House announced it will continue its policy of not releasing visitor logs, effectively preventing public and press access to information about who is meeting with the president. This approach, first implemented during Trump's first term and challenged by transparency advocates like Tom Blanton of the National Security Archive, breaks with the Obama-era practice of disclosing visitor information.

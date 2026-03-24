@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1975-01-01'
 title: ALEC Registers as Federal Nonprofit and Moves to Washington D.C.
 importance: 6
@@ -33,6 +33,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council officially registered as a federal nonprofit agency in 1975 with support from the American Conservative Union, moving from Chicago to Washington D.C. under Paul Weyrich's leadership. This transition marked ALEC's evolution from a state legislative caucus to a national corporate-legislative coordination mechanism.

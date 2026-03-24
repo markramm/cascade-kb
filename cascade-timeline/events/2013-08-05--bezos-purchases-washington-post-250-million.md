@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-08-05--bezos-purchases-washington-post-250-million
 date: 2013-08-05
 title: Jeff Bezos Purchases Washington Post for $250 Million
@@ -35,7 +35,7 @@ capture_lanes:
 - Corporate Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Amazon founder Jeff Bezos personally purchased The Washington Post and its affiliated publications for $250 million, ending the Graham family's four-generation stewardship of one of America's most influential newspapers. The sale marked a watershed moment in billionaire media capture, placing control of a major democratic institution in the hands of one of the world's wealthiest individuals.
 

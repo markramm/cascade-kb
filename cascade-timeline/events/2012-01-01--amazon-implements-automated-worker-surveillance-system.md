@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-01-01--amazon-implements-automated-worker-surveillance-system
 date: 2012-01-01
 title: Amazon Implements Automated Worker Surveillance and Tracking System
@@ -35,7 +35,7 @@ capture_lanes:
 - Corporate Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Implements Automated Worker Surveillance and Tracking System
 

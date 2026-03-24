@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-12-16--federal-court-overturns-sackler-immunity
 title: Federal Judge Overturns Sackler Immunity Deal, Rules Bankruptcy Law Violated
 date: '2021-12-16'
@@ -37,7 +37,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 16, 2021, U.S. District Court Judge Colleen McMahon overturned the controversial bankruptcy settlement that would have granted the Sackler family immunity from opioid-related lawsuits in exchange for $4.5 billion. Judge McMahon ruled that bankruptcy courts do not have the authority to approve such releases under federal bankruptcy law, rejecting the unprecedented attempt to shield billionaires who never filed for bankruptcy.
 

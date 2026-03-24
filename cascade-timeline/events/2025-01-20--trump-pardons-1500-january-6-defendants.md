@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--trump-pardons-1500-january-6-defendants
 date: '2025-01-20'
 title: Trump Issues Blanket Pardons and Commutations for ~1,500 January 6 Defendants
@@ -32,7 +32,7 @@ capture_lanes:
 - Institutional Capture
 - Executive Power
 ---
-type: solidarity_event
+type: timeline_event
 
 On his first day in office, President Trump issued blanket pardons and commutations for approximately 1,500 January 6 defendants — the largest mass clemency action related to political violence in modern American history.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-23--scotus-enables-third-country-deportations-dvd
 date: '2025-06-23'
 title: Supreme Court 6-3 Allows Third-Country Deportations Without Due Process
@@ -60,7 +60,7 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 In a 6-3 decision in DHS v. D.V.D., the Supreme Court allowed DHS to deport immigrants to "third countries"—nations they're not from—without meaningful opportunity to contest deportation. The ruling stayed a Massachusetts district court order that had required 15 days notice and opportunity to present evidence of danger.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-01--doj-lawsuit-medicare-advantage-kickbacks-discrimination
 title: DOJ Sues Aetna, Humana, Elevance for Paying Illegal Medicare Advantage Kickbacks and Discriminating Against Disabled Beneficiaries
 date: '2025-05-01'
@@ -43,7 +43,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 1, 2025, the Department of Justice filed a False Claims Act lawsuit against three of the nation's largest health insurance companies—Aetna (CVS Health), Humana, and Elevance Health (formerly Anthem)—along with three major insurance brokers—eHealth, GoHealth, and SelectQuote. The complaint alleges that from 2016 through 2021, these companies paid hundreds of millions of dollars in illegal kickbacks to brokers in exchange for steering Medicare beneficiaries into their Medicare Advantage plans regardless of suitability. Most disturbingly, the DOJ alleges Aetna and Humana conspired with brokers to discriminate against disabled Medicare beneficiaries, using data filters and threatening to withhold payments to pressure brokers to enroll fewer disabled individuals perceived as less profitable.
 

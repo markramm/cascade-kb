@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2008-01-01--von-spakovsky-joins-heritage-foundation
 date: 2008-01-01
@@ -88,7 +88,7 @@ capture_lanes:
 - Media Capture & Control
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Hans von Spakovsky joined the Heritage Foundation in 2008 as manager of the Civil Justice Reform Initiative, a position that would evolve into leadership of Heritage's Election Law Reform Initiative. Voting rights advocates would later characterize him as "the intellectual godfather of the conservative anti-voting movement." Von Spakovsky brought direct experience from his 2002-2005 tenure at the DOJ Civil Rights Division, where he overruled career attorneys to approve voter suppression laws including Georgia's photo ID legislation, and from his 2006-2007 recess appointment to the Federal Election Commission. His Heritage position institutionalized voter suppression as a central conservative policy priority.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-04-02--northrop-grumman-325-million-settlement-defective-satellite-parts
 date: '2009-04-02'
 title: Northrop Grumman Pays $325 Million for Decade of Defective Spy Satellite Parts
@@ -42,7 +42,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Northrop Grumman Corporation and its predecessor TRW Inc. agreed to pay $325 million to settle False Claims Act allegations that they provided and billed the National Reconnaissance Office for defective microelectronic parts used in classified spy satellites over a decade-long period from 1992 to 2002. The settlement resolved allegations that the defense contractor knowingly supplied defective Heterojunction Bipolar Transistors (HBTs) that were improperly tested, made misrepresentations about the reliability of the components, and concealed material facts about defects in critical satellite equipment used for signals intelligence and reconnaissance operations.
 

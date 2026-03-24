@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-15--fema-cancels-11-billion-disaster-payments-to-states
 date: '2025-09-15'
 importance: 10
@@ -39,5 +39,5 @@ sources:
 notes: 'Government report reveals FEMA withheld $10.9 billion planned for 45 states in final two months of fiscal year ending September 30. Secretary Noem imposed sweeping rule requiring her personal sign-off on every contract/grant over $100,000, stripping FEMA autonomy. For agency where disaster response routinely costs billions, threshold is "pennies." FEMA lost quarter of full-time staff, cut hundreds of call center contractors, resulting in thousands of missed calls after Texas flood. BRIC program ended, $646 million cut from non-discretionary grants. Task force recommends 50% staff reduction. Puerto Rico and territories particularly vulnerable as ongoing recovery funds frozen.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 FEMA cancels $11 billion in disaster payments to 45 states as Secretary Kristi Noem imposes personal approval requirements on all spending over $100,000, effectively paralyzing agency's disaster response capacity while cutting quarter of staff and eliminating climate resilience programs

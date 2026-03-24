@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--federal-reserve-governor-kugler-resignation
 date: '2025-08-01'
 title: Federal Reserve Governor Adriana Kugler Resigns Early, Opening Seat for Trump Appointee
@@ -33,7 +33,7 @@ sources:
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal Reserve Governor Adriana D. Kugler submitted her resignation on August 1, 2025, effective August 8, stepping down months before her term was scheduled to end in January 2026. In her resignation letter addressed to President Trump, Kugler offered no explanation for her early departure, stating only that she would return to Georgetown University as a professor. She had served as a governor since September 13, 2023, after being nominated by President Biden and confirmed by the Senate in an 86-8 bipartisan vote.
 

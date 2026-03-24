@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-06--trump-demands-iran-unconditional-surrender
 date: '2026-03-06'
 title: Trump Demands Iran's "Unconditional Surrender," Refuses Any Negotiated End to War
@@ -60,7 +60,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 6, 2026 — the seventh day of Operation Epic Fury — President Trump posted on social media that "There will be no deal with Iran except UNCONDITIONAL SURRENDER!" The declaration escalated the administration's stated war aims from the four military objectives announced at the conflict's outset (denuclearization, missile destruction, naval elimination, proxy degradation) to a maximalist demand with no clearly defined conditions for fulfillment.
 

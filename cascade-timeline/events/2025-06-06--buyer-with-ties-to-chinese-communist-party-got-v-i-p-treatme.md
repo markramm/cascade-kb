@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-06--buyer-with-ties-to-chinese-communist-party-got-v-i-p-treatme
 date: '2025-06-06'
 title: Communist Party Adviser Purchases Trump Memecoin for VIP Dinner Access
@@ -61,5 +61,5 @@ capture_lanes:
 - Executive Power Expansion
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 He Tianying, a Chinese tech executive and delegate to the Chinese People's Political Consultative Conference, purchased $3.7 million of Trump's memecoin to secure a private dinner with the president, revealing deep constitutional concerns about foreign influence and presidential access through cryptocurrency.

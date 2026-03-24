@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-14--fbi-raids-wapo-reporter-natanson-home-seizes-devices
 date: '2026-01-14'
 status: confirmed
@@ -38,7 +38,7 @@ capture_lanes:
 - Media Capture & Control
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In an unprecedented escalation against press freedom, FBI agents executed a search warrant at the Alexandria, Virginia home of Washington Post reporter Hannah Natanson on January 14, 2026, seizing two phones, two laptops, a Garmin watch, a portable hard drive, and a recording device. This marks the first time in U.S. history that the government has searched a reporter's home in a national security media leak investigation.
 

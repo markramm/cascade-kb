@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2006-09-06--bush-acknowledges-cia-black-sites
 date: '2006-09-06'
@@ -44,7 +44,7 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President George W. Bush publicly acknowledges for the first time that the CIA has been operating secret prisons to hold and interrogate terrorism suspects, confirming what journalists and human rights organizations had been reporting for years. In a White House speech, Bush admits that "a small number of suspected terrorist leaders and operatives" have been held at secret CIA detention facilities where they were subjected to "an alternative set of procedures" that he claims were "safe, lawful, and effective." The admission comes as Bush announces the transfer of 14 "high-value detainees" from CIA custody to Guantanamo Bay, finally providing them with some legal protections after years of complete isolation.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-07-16--rybolovlev-trump-mansion-sale
 date: '2008-07-16'
 importance: 6
@@ -56,7 +56,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Donald Trump sold the Palm Beach estate to Russian businessman Dmitry
 Rybolovlev for $95 million in July 2008. The structure was demolished in 2016
 and the land subdivided; subsequent lot sales totaled roughly $108 million.

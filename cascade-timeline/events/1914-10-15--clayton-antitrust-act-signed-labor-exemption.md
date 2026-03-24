@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1914-10-15--clayton-antitrust-act-signed-labor-exemption
 date: '1914-10-15'
 title: 'Clayton Antitrust Act Signed: Labor Unions Exempted from Antitrust Laws, Gompers Calls It Labor''s Magna Carta'
@@ -37,6 +37,6 @@ capture_lanes:
 - Democratic Erosion
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Woodrow Wilson signed the Clayton Antitrust Act, enhancing previous antitrust legislation and explicitly exempting labor unions from antitrust laws. Alabama Democrat Henry De Lamar Clayton Jr. introduced the legislation in anticipation of the Commission on Industrial Relations report. The House passed the act 277 to 54 on June 5, 1914. The Senate passed its own version 46-16 on September 2, 1914, with the final version passing the Senate on October 6 and the House on October 8. Labor unions gained a significant legal exemption from antitrust laws, marking a turning point in labor relations. Historically, labor organizations faced strict legal constraints during the late 19th century when courts interpreted strikes and organizing efforts as unlawful conspiracies. Section 6 stated "that the labor of a human being is not a commodity or article of commerce" and declared that nothing in antitrust laws shall forbid the existence and operation of labor, agricultural, or horticultural organizations. The law declared strikes, boycotts, and labor unions legal under federal law. AFL head Samuel Gompers strongly supported Section 6, describing the law as "Labor's Magna Charta" or "Bill of Rights." President Wilson remained adamant, but pressure from Gompers produced a congressional compromise engineered by North Carolina Representative E. Y. Webb, who believed the Sherman Act was never intended to apply to labor unions. The compromise incorporated labor provisions in a bill otherwise aimed at eliminating restraint-of-trade strategies employed by trusts. The law also banned price discrimination and anti-competitive mergers. The Federal Trade Commission Act, also passed in 1914, transferred functions of the U.S. Bureau of Corporations to the Federal Trade Commission and authorized cease-and-desist orders enjoining "unfair methods of competition."

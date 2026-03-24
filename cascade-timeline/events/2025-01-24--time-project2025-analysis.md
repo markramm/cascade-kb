@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-01-24'
 id: 2025-01-24--time-project2025-analysis
 title: 'Time finds nearly 65% of early executive actions mirror Project 2025 proposals'
@@ -53,5 +53,5 @@ status: confirmed
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 Analysis of Trump's first week in office reveals approximately 65% of his executive actions closely align with Project 2025 recommendations, despite previously claiming no association. Key areas of implementation include dismantling DEI programs, reviving Schedule F to reclassify federal employees, restricting transgender rights, and reducing refugee admissions.

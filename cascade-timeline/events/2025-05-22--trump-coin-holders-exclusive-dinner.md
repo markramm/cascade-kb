@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-22--trump-coin-holders-exclusive-dinner
 date: '2025-05-22'
 title: Trump hosts exclusive $148M cryptocurrency investor dinner at private golf club
@@ -45,6 +45,6 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump hosted an exclusive private dinner at his Sterling, Virginia golf club for the top 220 cryptocurrency investors who purchased his $TRUMP meme coin, spending an estimated $148 million to secure their seats. The dinner, which was closed to media, featured top international investors like Justin Sun, and sparked significant controversy. Sen. Elizabeth Warren condemned the event as an 'orgy of corruption', while over 100 protesters demonstrated outside, highlighting concerns about Trump monetizing presidential access through cryptocurrency. The event showcased the growing intersection of Trump's political power and digital asset investments, with top investors receiving limited edition $100,000 watches and promises of private White House tours.

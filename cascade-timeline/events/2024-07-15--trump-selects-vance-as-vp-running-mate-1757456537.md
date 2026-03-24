@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2024-07-15'
 title: Trump Selects Vance as VP Running Mate
 actors:
@@ -54,6 +54,6 @@ validation_metadata:
   - 'summary_enhancement: ''True'' → ''True'''
   - 'tags_updated: ''True'' → ''True'''
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump announces J.D. Vance as 2024 VP nominee, completing Vance's transformation from Trump critic to potential Vice President, bringing Silicon Valley elite influence to ticket. Vance, a first-term senator from Ohio and author of 'Hillbilly Elegy', was selected during the Republican National Convention in Milwaukee, marking a significant political pivot for both Trump and Vance.

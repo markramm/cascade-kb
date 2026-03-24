@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-11--trump-project-2025-chicago-threats
 date: '2025-09-11'
 title: Trump Administration Threatens National Guard Deployment to Chicago
@@ -37,5 +37,5 @@ capture_lanes:
 - Democratic Erosion
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration escalated tensions with Democratic-led cities by threatening to deploy National Guard troops to Chicago, targeting the city over its sanctuary policies. This action aligns with Project 2025's aggressive immigration enforcement strategy, which includes mass deportations, using military forces for domestic law enforcement, and pressuring sanctuary cities through federal funding threats.

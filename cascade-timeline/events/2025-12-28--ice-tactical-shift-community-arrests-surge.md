@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-28--ice-tactical-shift-community-arrests-surge
 date: '2025-12-28'
 title: Washington Post Analysis Reveals ICE Shift from Jail Arrests to Community Raids
@@ -55,7 +55,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Washington Post analysis of government data reveals a fundamental shift in ICE enforcement strategy under the Trump administration: federal officers have moved away from arresting immigrants already held in local jails to aggressively tracking them down on streets and in communities across the country.

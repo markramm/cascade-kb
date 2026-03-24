@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-02--donor-list-suggests-scale-of-trump-s-pay-for-access-operatio
 date: '2025-08-02'
 title: Donor list suggests scale of Trump’s pay-for-access operation
@@ -49,6 +49,6 @@ _merge_timestamp: '2025-09-05T23:46:55.900242'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president–and, at times, policy outcomes, pardons, and ambassadorships

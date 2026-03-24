@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1920-08-23--sacco-vanzetti-arrest-begins-seven-year-injustice
 date: '1920-08-23'
 title: Sacco and Vanzetti Arrested in Red Scare Climate of Anti-Immigrant Hysteria
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Italian immigrant anarchists Nicola Sacco and Bartolomeo Vanzetti are arrested in Brockton, Massachusetts, on streetcar robbery charges that will be escalated to murder charges in connection with a payroll robbery in South Braintree that left two men dead. The arrests occur at the height of the Palmer Raids and Red Scare, when the Department of Justice is actively surveilling and deporting immigrant radicals. Both men are carrying firearms at the time of arrest, and both have evaded the draft during World War I. However, they maintain their innocence of the robbery-murder, and significant evidence suggests they were targeted for their anarchist beliefs and immigrant status rather than actual culpability.
 

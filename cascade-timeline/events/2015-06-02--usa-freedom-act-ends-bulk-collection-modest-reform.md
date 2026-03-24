@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-06-02--usa-freedom-act-ends-bulk-collection-modest-reform
 date: '2015-06-02'
 title: Obama Signs USA FREEDOM Act, Ending NSA Bulk Metadata Collection
@@ -39,7 +39,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 President Barack Obama signed the USA FREEDOM Act into law on June 2, 2015, representing the most significant reform of U.S. surveillance programs since the 1970s and a direct response to Edward Snowden's revelations about NSA mass surveillance. The Act prohibited bulk collection of all records under Section 215 of the PATRIOT Act, ending the NSA's authority to collect Americans' phone records in bulk and requiring intelligence agencies to obtain specific court orders targeting particular individuals or groups.
 

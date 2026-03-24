@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-08--raytheon-weapons-funeral-hall-massacre-sanaa-155-killed
 date: '2016-10-08'
 title: Saudi Coalition Uses US-Made Bombs to Kill 155 at Yemen Funeral Hall in Sanaa
@@ -45,7 +45,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On the afternoon of October 8, 2016, Saudi-led coalition aircraft struck the Al Kubra funeral hall in Sanaa, Yemen, with two airstrikes approximately three to eight minutes apart, killing 155 people and wounding at least 525 others in one of the deadliest single attacks of the Yemen war. The funeral was being held for the father of Jalal al-Rowaishan, Yemen's former interior minister, and the hall was packed with hundreds of mourners including government officials, tribal leaders, and civilians. Witnesses reported that the first strike hit the main hall where mourners had gathered, causing massive casualties. Minutes later, as survivors attempted to evacuate the wounded and dying, a second strike hit the same location, killing and wounding rescuers. Human Rights Watch identified munition remnants at the scene as US-manufactured air-dropped GBU-12 Paveway II 500-pound laser-guided bombs, with markings indicating production by US defense contractors.
 

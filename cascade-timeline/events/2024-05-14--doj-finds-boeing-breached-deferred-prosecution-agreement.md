@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-14--doj-finds-boeing-breached-deferred-prosecution-agreement
 date: '2024-05-14'
 title: DOJ Finds Boeing Breached Deferred Prosecution Agreement After Door Plug Blowout
@@ -39,7 +39,7 @@ capture_lanes:
 - Judicial Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice notified Boeing and the federal court that Boeing breached its January 2021 deferred prosecution agreement by failing to maintain the required compliance and ethics program. The finding came after the January 5, 2024 Alaska Airlines door plug blowout revealed that Boeing had not implemented the safety and quality control reforms required by the DPA. The DOJ determined that Boeing violated multiple provisions of the agreement "by failing to design, implement, and enforce a compliance and ethics program to prevent and detect violations of the U.S. fraud laws throughout its operations."
 
 The breach determination meant Boeing was now subject to criminal prosecution for the original fraud charges and any other federal crimes. The 2021 deferred prosecution agreement had allowed Boeing to avoid a criminal conviction for conspiracy to defraud the FAA in connection with the 737 MAX certification, contingent on maintaining robust compliance programs for three years. The Alaska Airlines incident—where four critical bolts were never installed on a door plug, nearly causing catastrophic loss of life—proved Boeing had failed to implement basic quality control despite the DPA requirements.

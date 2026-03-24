@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-25--ice-deports-souvannarath-despite-court-order-laos
 date: '2025-10-25'
 title: ICE Deports Man to Laos Despite Federal Court Order Blocking Removal, Ignoring Torture and Persecution Risk
@@ -73,7 +73,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 25, 2025, Immigration and Customs Enforcement deported Chanthila "Shawn" Souvannarath, 44, to Laos in direct violation of a federal court order issued just one day earlier. Chief Judge Shelly D. Dick of the U.S. District Court for the Middle District of Louisiana had issued a temporary restraining order on October 23 explicitly prohibiting ICE from removing Souvannarath from the United States, finding that he had a "substantial claim of U.S. citizenship" and that immediate deportation would cause "irreparable harm." Despite this clear judicial command, ICE proceeded with the deportation on Friday, October 25.
 

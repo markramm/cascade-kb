@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-09-12--seema-verma-gop-consultants-taxpayer-funds
 date: 2018-09-12
 title: CMS Administrator Seema Verma Spent $5 Million in Taxpayer Funds on GOP Consultants to Boost Personal Profile
@@ -35,7 +35,7 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Centers for Medicare and Medicaid Services (CMS) Administrator Seema Verma spent more than $5 million in taxpayer funds on Republican-connected communications consultants to boost her personal profile, according to a July 2020 HHS Inspector General report. The 15-month investigation concluded that Verma violated federal contracting rules by directing high-paid contracts to politically connected consultants from June 2017 to April 2019. In September 2018, Energy and Commerce Chairman Frank Pallone Jr. called for an investigation after reports emerged of Verma quietly directing millions of dollars to GOP communications consultants for personal image enhancement rather than legitimate government communications needs.
 

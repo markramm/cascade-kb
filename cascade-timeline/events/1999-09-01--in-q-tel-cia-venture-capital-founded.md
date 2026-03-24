@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-09-01--in-q-tel-cia-venture-capital-founded
 date: '1999-09-01'
 title: CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
@@ -38,7 +38,7 @@ capture_lanes:
 - Corporate Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 In September 1999, the Central Intelligence Agency established In-Q-Tel (IQT), a groundbreaking not-for-profit venture capital firm designed to bridge Silicon Valley innovation with intelligence community needs. The initiative was championed by CIA Director George Tenet, who recognized that traditional government procurement processes were too slow to keep pace with rapid technological advancement in the private sector.
 

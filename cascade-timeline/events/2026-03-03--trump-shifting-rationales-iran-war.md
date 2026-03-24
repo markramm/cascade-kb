@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--trump-shifting-rationales-iran-war
 date: '2026-03-03'
 title: White House Offers Shifting, Contradictory Rationales for Iran War as Intelligence Contradicts Claims
@@ -61,7 +61,7 @@ capture_lanes:
 - Information Environment Capture
 - Executive Power Seizure
 ---
-type: solidarity_event
+type: timeline_event
 
 As US bombs fell on Iran beginning February 28, 2026, Trump and his senior officials offered a cascade of justifications that shifted, contradicted each other, and in several cases were directly contradicted by the administration's own intelligence assessments.
 

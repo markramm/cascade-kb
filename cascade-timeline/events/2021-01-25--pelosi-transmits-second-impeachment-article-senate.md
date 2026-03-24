@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-25--pelosi-transmits-second-impeachment-article-senate
 date: '2021-01-25'
 title: Pelosi Transmits Impeachment Article to Senate After Biden Inauguration
@@ -43,7 +43,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 25, 2021, exactly two weeks after the House voted to impeach Donald Trump and five days after President Biden's inauguration, House Speaker Nancy Pelosi transmitted the single article of impeachment—charging Trump with "incitement of insurrection"—to the Senate. The nine House impeachment managers, led by Rep. Jamie Raskin of Maryland, walked solemnly from the House chamber to the Senate to formally present and exhibit the article of impeachment against now-former President Trump. This transmission marked the beginning of the first impeachment trial of a former president in American history, raising unprecedented constitutional questions about the Senate's jurisdiction to try someone who had already left office.
 

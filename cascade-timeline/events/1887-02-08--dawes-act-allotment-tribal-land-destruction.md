@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1887-02-08--dawes-act-allotment-tribal-land-destruction
 date: '1887-02-08'
 title: Dawes Allotment Act Destroys Tribal Land Ownership, Facilitating Loss of 90 Million Acres to White Settlers
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Grover Cleveland signs the Dawes General Allotment Act (also called the Dawes Severalty Act), authorizing the President to subdivide Native American tribal communal landholdings into individual allotments for Native American heads of families and individuals. The Act represents a fundamental attack on tribal sovereignty and communal land ownership systems, forcing the treatment of Native Americans as individuals rather than as members of sovereign tribal nations. Named after Senator Henry L. Dawes of Massachusetts, the legislation mandates that reservation lands be divided into individual plots—typically 160 acres for family heads, 80 acres for single adults, and 40 acres for children—with the explicit goal of forcing Indigenous peoples to adopt Euro-American agricultural practices and "civilized" ways of life. After allotments are distributed to tribal members, any remaining "surplus" land is declared available for sale to white settlers, creating a massive mechanism for transferring Indigenous land to white ownership. An explicit goal of the Dawes Act, as acknowledged by its supporters, is to "create divisions among Native Americans and eliminate the social cohesion of tribes," using land policy to destroy the communal structures that sustain tribal governance and resistance to assimilation.
 

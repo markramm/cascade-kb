@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-14--verizon-lawsuit-overturns-fcc-net-neutrality-rules
 date: '2014-01-14'
 title: Verizon Lawsuit Successfully Overturns FCC Net Neutrality Rules, Court Demands Title II Reclassification
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The DC Circuit Court of Appeals delivers a landmark ruling in Verizon v. FCC, striking down the Federal Communications Commission's anti-blocking and anti-discrimination net neutrality rules while paradoxically outlining the path to stronger protections through Title II reclassification. The three-judge panel ruled that the FCC lacked authority to impose network neutrality restrictions on internet service providers because the Commission had previously classified broadband as an "information service" rather than a "telecommunications service" under Title II common carrier regulations.
 

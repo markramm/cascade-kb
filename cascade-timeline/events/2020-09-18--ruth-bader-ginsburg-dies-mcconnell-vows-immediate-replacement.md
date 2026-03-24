@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-09-18--ruth-bader-ginsburg-dies-mcconnell-vows-immediate-replacement
 date: '2020-09-18'
 title: Justice Ruth Bader Ginsburg Dies 46 Days Before Election, McConnell Immediately Vows to Confirm Replacement Despite 2016 Standard
@@ -42,7 +42,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 18, 2020, Supreme Court Justice Ruth Bader Ginsburg died at age 87 from complications of metastatic pancreatic cancer, creating a Supreme Court vacancy just 46 days before the November 3 presidential election and while early voting was already underway in some states. In her final days, Ginsburg dictated a statement to her granddaughter Clara Spera expressing her "most fervent wish" that she "will not be replaced until a new president is installed." Within hours of her death, Senate Majority Leader Mitch McConnell announced that the Senate would vote on Trump's nominee to replace her—a complete reversal from McConnell's 2016 position that voters should decide Supreme Court appointments in an election year. The extraordinary hypocrisy revealed that McConnell's "principle" about election-year appointments applied only when it served Republican power.
 

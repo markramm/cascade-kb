@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Ring
 - Amazon
@@ -39,7 +39,7 @@ tags:
 - ed-markey
 title: Ring admits providing police with warrantless access to user footage 11 times in 2022
 ---
-type: solidarity_event
+type: timeline_event
 
 In response to questions from Senator Ed Markey (D-Mass.), Amazon vice president Brian Huseman disclosed in a July 1 letter that Ring had provided police with user camera footage on 11 occasions during 2022 without obtaining user consent or court warrants. Amazon justified these warrantless disclosures by citing "emergency" situations involving "imminent danger of death or serious physical injury to any person," but declined to elaborate on how it determines such situations or provide details about the specific incidents.
 

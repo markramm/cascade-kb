@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2006-02-22'
 title: Bush Threatens First Presidential Veto Over Dubai Ports Deal
 actors:
@@ -42,6 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President George W. Bush threatened to cast his first presidential veto if Congress blocked Dubai Ports World's (DPW) acquisition of US port operations, sparking a major national security controversy. The $6.8 billion deal would have given a UAE state-owned company control of cargo terminals in six major US ports: New York, Newark, Philadelphia, Baltimore, Miami, and New Orleans. Despite bipartisan congressional opposition led by Senator Charles Schumer, Bush defended the deal, arguing that DPW "has played by the rules" and is an ally in the war on terror. The controversy highlighted complex tensions between national security concerns, diplomatic relationships, and international business interests, with Coast Guard intelligence raising significant security risk assessments. Ultimately, on March 9, 2006, DPW withdrew its bid following intense congressional pressure.

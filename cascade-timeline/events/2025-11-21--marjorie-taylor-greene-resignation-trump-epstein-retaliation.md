@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-21--marjorie-taylor-greene-resignation-trump-epstein-retaliation
 date: '2025-11-21'
 title: Marjorie Taylor Greene Announces Resignation After Trump Calls Her "Traitor" Over Epstein Files
@@ -53,7 +53,7 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her "Marjorie Traitor Greene."
 

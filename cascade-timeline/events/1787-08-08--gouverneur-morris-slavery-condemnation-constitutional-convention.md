@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1787-08-08--gouverneur-morris-slavery-condemnation-constitutional-convention
 date: '1787-08-08'
 title: Gouverneur Morris Condemns Slavery as Curse of Heaven at Constitutional Convention
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Gouverneur Morris of Pennsylvania delivers a powerful moral condemnation of slavery during Constitutional Convention debates over representation, attacking the Three-Fifths Compromise and challenging southern delegates who profess little willingness to end slavery in their states. Morris declares slavery "the curse of Heaven on the States where it prevailed" and contrasts "the happiness and prosperity of the free states" with "the misery and poverty which overspread the barren wastes of Virginia, Maryland, and the other States having slaves." He moves for representation to be based solely on "free inhabitants," directly challenging the logic of counting enslaved people for political power.
 

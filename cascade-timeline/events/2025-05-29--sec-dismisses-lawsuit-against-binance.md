@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-29--sec-dismisses-lawsuit-against-binance
 date: '2025-05-29'
 title: SEC dismisses lawsuit against Binance
@@ -55,7 +55,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Securities and Exchange Commission filed to dismiss its long-running lawsuit against Binance Holdings Ltd., Binance.US, and Binance founder Changpeng Zhao ("CZ") on May 29, 2025, ending one of the most significant cryptocurrency enforcement actions in SEC history. The Wall Street Journal and CNBC reported the dismissal, with CoinDesk noting it represented the end of "one of the last remaining crypto enforcement actions." The SEC had originally filed the case in June 2023, alleging Binance operated an unregistered securities exchange and that CZ had misused customer funds. CZ had separately pleaded guilty to money laundering charges and served four months in federal prison.
 
 The dismissal came weeks after a $2 billion transaction in which Abu Dhabi's MGX sovereign investment fund invested $2 billion in Binance using Trump's World Liberty Financial USD1 stablecoin as the investment vehicle — a deal that generated fees for the Trump family's cryptocurrency platform. The Wall Street Journal had previously reported, in March 2025, that the Trump family had held deal talks with Binance about a potential stake in Binance.US. The Daily Coin headline explicitly connected the case dismissal to the Trump-linked deal: "SEC Drops Binance Lawsuit Weeks After Deal With Trump-Linked WLF."

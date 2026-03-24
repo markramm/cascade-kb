@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-08-10'
 importance: 7
 title: About 120 FBI agents assigned to patrol Washington, D.C. streets
@@ -41,6 +41,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump deployed 120+ FBI agents Aug 10, 2025, from counterintelligence/public corruption divisions to patrol DC streets overnight alongside police. Agents from Washington Field Office and Philadelphia worked traffic stops despite lacking street patrol training. Part of 450 federal officers mobilized (FBI, DEA, Marshals, Park Police). FBI use-of-force policy has lower threshold than police departments.

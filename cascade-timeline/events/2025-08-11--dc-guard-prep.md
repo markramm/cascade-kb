@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-08-11'
 importance: 7
 title: Military preparing to activate hundreds of D.C. National Guard members
@@ -43,5 +43,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Trump deployed 800 DC National Guard Aug 11, 2025, placing DC police under federal control. West Virginia sent 300-400 troops, South Carolina 200, Ohio 150. Total 1,450+ federal officers/Guard patrolled DC. Troops in Title 32 status (federally funded, local authority, exempt from Posse Comitatus). White House reversed position, said Guard "may be armed." Stationed at National Mall, Washington Monument, Union Station.

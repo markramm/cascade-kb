@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-07--sec-denies-all-whistleblower-awards-q1
 date: '2026-02-07'
 status: confirmed
@@ -33,7 +33,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The SEC denied all 24 whistleblower award claims in the first quarter of fiscal year 2026, marking only the second time since 2016 that the SEC's whistleblower program did not grant a single award in the first three months of the fiscal year. The denial of all claims represents the effective silencing of a previously successful financial whistleblower recruitment program that encouraged industry insiders to report white-collar crimes and led regulators to return $1.5 billion in ill-gotten gains to investors.
 

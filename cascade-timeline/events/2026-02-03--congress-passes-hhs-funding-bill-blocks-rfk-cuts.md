@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-03--congress-passes-hhs-funding-bill-blocks-rfk-cuts
 date: '2026-02-03'
 status: confirmed
@@ -29,7 +29,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress enacts the FY2026 Labor, Health and Human Services, Education, and Related Agencies appropriations bill providing $221 billion in total funding including approximately $116.6 billion in discretionary funding for HHS. President Donald Trump signs the bipartisan legislation into law following House and Senate passage, with the measure largely tracking Senate funding levels proposed in summer 2025 and blocking deeper cuts proposed by the Trump administration. The enacted funding represents a significant rejection of HHS Secretary Robert F. Kennedy Jr.'s budget proposal that sought to reduce HHS discretionary spending from $127 billion to $95 billion—a 25 percent reduction.
 

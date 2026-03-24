@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-30--sinclair-synchronized-script-scandal
 date: '2018-03-30'
 importance: 9
@@ -58,7 +58,7 @@ status: confirmed
 capture_lanes:
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Video compilation reveals Sinclair forced anchors at dozens of local stations to read identical script warning about "fake news," exposing synchronized propaganda operation
 
 In late March 2018, Deadspin published a viral video compilation showing local news anchors at dozens of Sinclair Broadcast Group stations across the country reading an identical script warning viewers about "the troubling trend of irresponsible, one sided news stories plaguing our country" and claiming that "national media outlets are publishing these same fake stories without checking facts first." The synchronized delivery — with the same words spoken by trusted local anchors in markets from coast to coast — exposed the scale of Sinclair's centralized propaganda operation using the credibility of local news formats.

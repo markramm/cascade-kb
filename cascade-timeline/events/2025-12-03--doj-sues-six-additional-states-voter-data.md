@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--doj-sues-six-additional-states-voter-data
 date: '2025-12-03'
 title: DOJ Sues Six Additional States Demanding Protected Voter Registration Data
@@ -77,7 +77,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 2025, the Department of Justice filed federal lawsuits against six states—Delaware, Maryland, New Mexico, Rhode Island, Vermont, and Washington—for refusing to provide complete, unredacted voter registration databases containing sensitive personal information including driver's license numbers and partial Social Security numbers.
 

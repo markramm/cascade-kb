@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--inspector-general-offices-lose-16-percent-workforce
 date: '2026-03-19'
 title: Inspector General Offices Lose 16.6% of Workforce as Trump Installs Partisan Nominees
@@ -34,7 +34,7 @@ capture_lanes:
 - Institutional Capture
 - Oversight Destruction
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, data revealed that federal Inspector General offices had lost 16.6% of their workforce — a rate significantly exceeding the 12% overall reduction in the civil service. The disproportionate cuts to the government's internal watchdog infrastructure represented a systematic assault on the oversight mechanisms designed to detect waste, fraud, and abuse across federal agencies.
 

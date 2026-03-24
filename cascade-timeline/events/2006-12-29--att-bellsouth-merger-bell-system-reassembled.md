@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2006-12-29--att-bellsouth-merger-bell-system-reassembled
 date: '2006-12-29'
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 AT&T Inc. (formerly SBC Communications) completed its $85.8 billion acquisition of BellSouth Corporation with FCC approval, reassembling much of the former Bell System that was broken up in 1984 as an antitrust remedy. The merger consolidated control over telecommunications infrastructure across much of the United States and completed a remarkable reversal of the most famous antitrust case of the 20th century, as one of the Baby Bells grew large enough to acquire its former parent company and multiple siblings.
 

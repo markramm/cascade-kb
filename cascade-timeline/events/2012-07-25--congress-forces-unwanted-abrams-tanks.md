@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-07-25--congress-forces-unwanted-abrams-tanks
 date: '2012-07-25'
 title: Congress Overrides Army to Fund $255 Million in Unwanted Abrams Tank Upgrades to Protect General Dynamics Ohio Plant
@@ -40,7 +40,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress approved $255 million to upgrade M1 Abrams tanks through 2014 despite explicit Army testimony that it had ceased ordering tanks and wanted to save billions by halting production to develop next-generation armor. The appropriation represented a direct override of military leadership by both Republican and Democratic lawmakers determined to keep General Dynamics' Lima, Ohio plant—the nation's only tank manufacturer—operational for political rather than defense reasons. Army Chief of Staff General Ray Odierno and Army Budget Office Deputy Director Davis Welch testified that "we do not require any additional M1A2s" and would prefer using the funds differently, but Congress prioritized preserving 700-800 jobs and General Dynamics' production line over military strategic needs.
 

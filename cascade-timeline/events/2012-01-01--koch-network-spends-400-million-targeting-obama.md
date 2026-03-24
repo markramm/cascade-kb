@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-01-01--koch-network-spends-400-million-targeting-obama
 date: '2012-01-01'
 importance: 9
@@ -37,5 +37,5 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 The Koch brothers coordinated an extensive political donor network in the 2012 election cycle, spending approximately $407 million through multiple nonprofit organizations. Freedom Partners Chamber of Commerce emerged as the primary funding vehicle, distributing $250 million to 30 different nonprofits. Key recipients included Americans for Prosperity, which received $32.3 million, and the Center to Protect Patient Rights, which funneled millions to various dark money groups. This sophisticated funding mechanism allowed the Koch network to significantly influence the 2012 election while largely operating outside traditional campaign finance reporting requirements.

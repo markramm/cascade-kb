@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Department of Justice
 - Deputy Attorney General Todd Blanche
@@ -50,5 +50,5 @@ tags:
 - trump-administration
 title: DOJ Issues Transformative FCPA Guidelines Prioritizing U.S. National Interests
 ---
-type: solidarity_event
+type: timeline_event
 On June 9, 2025, the Department of Justice under Deputy Attorney General Todd Blanche released updated Foreign Corrupt Practices Act (FCPA) guidelines, effectively ending the four-month enforcement pause instituted by a Trump administration executive order. The new guidelines fundamentally reshape anti-corruption enforcement by: (1) prioritizing investigations directly tied to U.S. national security and economic interests, (2) focusing on individual criminal misconduct rather than broad corporate liability, and (3) requiring high-level DOJ authorization for new investigations. Prosecutors are now instructed to target cases involving cartels, transnational criminal organizations, and serious misconduct that demonstrably threatens U.S. interests.

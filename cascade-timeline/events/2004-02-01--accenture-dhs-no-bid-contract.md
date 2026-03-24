@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-02-01--accenture-dhs-no-bid-contract
 date: '2004-02-01'
 title: Accenture Awarded Competitive DHS US-VISIT Contract
@@ -42,5 +42,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Accenture, leading the Smart Border Alliance, was awarded a major Department of Homeland Security contract to develop a comprehensive border management technology system. The five-year contract, valued between $10 million and $10 billion, aimed to create a 'virtual border' system using digital fingerscans and photos to track non-U.S. citizen entries and exits.

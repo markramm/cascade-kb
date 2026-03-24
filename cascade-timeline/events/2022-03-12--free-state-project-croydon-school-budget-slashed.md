@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-03-12--free-state-project-croydon-school-budget-slashed
 date: '2022-03-12'
 title: Free State Project Libertarians Slash Croydon, New Hampshire School Budget by Half in Coordinated Takeover
@@ -42,7 +42,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 At the annual Croydon school district meeting on March 12, 2022, a small group of Free State Project libertarians executes a coordinated takeover of the town's budget process, voting to slash the school budget from $1.7 million to $800,000—a 53% reduction. The budget cut passes by a vote of just 20 to 14 in a town of approximately 800 residents, with Free State Project member Ian Underwood proposing the motion. Underwood is married to Jody Underwood, chairwoman of the Croydon School Board, raising questions about coordination between board leadership and the libertarian activists. The Free State Project celebrates the vote as "a key victory for their vision of limited government and low taxes," demonstrating their strategy of targeting small New Hampshire towns where a handful of organized libertarian migrants can capture local government through low-turnout meetings.
 

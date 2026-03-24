@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-04-20--bankruptcy-act-makes-student-debt-non-dischargeable
 date: 2005-04-20
 title: Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President George W. Bush signed the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) on April 20, 2005, fundamentally weaponizing bankruptcy law against student borrowers while preserving corporate bankruptcy as a strategic tool. The law amended Section 523(a)(8) to make private student loans from for-profit lenders non-dischargeable in bankruptcy, extending restrictions that previously applied only to federal loans to include all educational debt regardless of lender type.
 

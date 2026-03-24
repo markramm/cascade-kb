@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-01--clearview-ai-founded-facial-recognition-surveillance
 date: '2017-01-01'
 title: Clearview AI Founded to Build Mass Facial Recognition Database
@@ -31,7 +31,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Clearview AI was founded in 2017 by Australian tech entrepreneur Hoan Ton-That and Richard Schwartz, a former aide to Rudy Giuliani when he was mayor of New York. The company was created after transferring the assets of another company, SmartCheckr, which the pair originally founded alongside Charles C. Johnson. From its inception, Clearview AI operated in near-total secrecy, building what would become the world's largest facial recognition database by scraping billions of photos from social media platforms and websites without consent or notification.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-25--supreme-court-dismisses-emoluments-cases
 date: '2021-01-25'
 importance: 6
@@ -44,6 +44,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Supreme Court dismissed all three pending emoluments clause lawsuits against Trump as moot after he left office, including CREW v. Trump, DC/Maryland v. Trump, and Blumenthal v. Trump (200+ Democratic members of Congress). The Court vacated lower court decisions that had allowed cases to proceed, eliminating legal precedent and leaving constitutional questions about presidential business conflicts permanently unresolved. This created enforcement vacuum for future presidents accepting foreign payments.

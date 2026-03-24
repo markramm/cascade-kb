@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2012-08-09'
 title: Google Fined Record $22.5M for Deliberately Overriding Safari Privacy Settings
 description: Google agreed to pay a record $22.5 million civil penalty to settle FTC charges that it deliberately circumvented Apple Safari browser privacy settings to place tracking cookies on users who had explicitly blocked them. For several months in 2011-2012, Google exploited a technical loophole to bypass Safari's default cookie-blocking settings, placing DoubleClick advertising tracking cookies to monitor users across websites. Google claimed the privacy violation was accidental, but internal evidence showed the company knowingly designed the workaround. The settlement was the largest civil penalty ever imposed on a single company for violating FTC rules, and it violated a prior 2011 consent decree from the Google Buzz privacy scandal—demonstrating Google's pattern of deliberate privacy violations for profit.
@@ -57,7 +57,7 @@ connections:
 - Pattern of privacy violations for profit
 notes: Demonstrated Google's willingness to deliberately violate user privacy and consent decrees for advertising revenue. The "accidental" claim was contradicted by the technical sophistication required to exploit the Safari loophole.
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 9, 2012, the Federal Trade Commission announced that Google would pay a record $22.5 million civil penalty—the largest ever levied against a single company in FTC history—to settle charges of deliberately circumventing Apple Safari browser privacy settings to track users without their consent.
 

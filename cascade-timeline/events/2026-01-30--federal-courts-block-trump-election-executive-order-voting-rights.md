@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-30--federal-courts-block-trump-election-executive-order-voting-rights
 date: '2026-01-30'
 title: Federal Courts Issue Multiple Permanent Injunctions Blocking Trump's Anti-Voting Executive Order
@@ -51,7 +51,7 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By late January 2026, a series of federal courts had issued multiple permanent injunctions blocking key provisions of President Trump's March 2025 executive order on elections (Executive Order 14248), which had attempted to fundamentally reshape how states conduct federal elections without congressional authorization.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-09--bessent-argentina-bailout-benefits-hedge-fund-allies
 date: '2025-10-09'
 title: Treasury's $20 Billion Argentina Bailout Benefits Bessent's Hedge Fund Colleagues
@@ -32,6 +32,6 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Treasury Secretary Scott Bessent approved a $20 billion Argentina bailout that directly benefits hedge funds run by his former colleagues Stanley Druckenmiller and Robert Citrone, whose portfolios hold significant Argentine debt. Senator Elizabeth Warren demanded details on whether Managed Funds Association members influenced the bailout, suspecting funds may profit by dumping holdings before losses. Argentine media reported that Citrone directly contacted Bessent to request the U.S. rescue package. Bessent denied connections to his finance colleagues, but the timing and beneficiaries demonstrate systematic use of U.S. taxpayer funds to bail out administration insiders' financial holdings, with Treasury decisions benefiting the Secretary's personal and professional network.

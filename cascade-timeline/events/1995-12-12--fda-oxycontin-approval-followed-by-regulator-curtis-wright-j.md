@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-12-12--fda-oxycontin-approval-followed-by-regulator-curtis-wright-j
 title: FDA Approval of OxyContin Reveals Systemic Regulatory Capture by Purdue Pharma
 date: '1995-12-12'
@@ -39,7 +39,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In a landmark case of regulatory capture, Dr. Curtis Wright IV, leading the FDA's Division of Anesthetic, Critical Care, and Addiction Drug Products, approved OxyContin with controversial language that misrepresented the drug's addictive potential. Wright held private meetings with Purdue Pharma representatives in January 1995, allowing the company to draft portions of his medical review.
 

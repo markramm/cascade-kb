@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-06--glen-casada-pardon-tennessee-corruption
 date: '2025-11-06'
 title: Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff Convicted of Federal Corruption
@@ -33,7 +33,7 @@ capture_lanes:
 - Financial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump pardoned former Tennessee House Speaker Glen Casada and his chief of staff Cade Cothren just weeks after they were sentenced to federal prison for public corruption charges. Casada received a three-year sentence in September 2025 for orchestrating a 2020 scheme to receive over $50,000 in taxpayer money through a fraudulent mailer program, while Cothren was sentenced to 2.5 years. The two had set up a secret company that exploited the state's postage and printing program, which provides House members $3,000 annually for constituent mailers, billing the state while operating the vendor themselves.
 

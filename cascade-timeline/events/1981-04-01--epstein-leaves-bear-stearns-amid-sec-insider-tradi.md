@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-04-01--epstein-leaves-bear-stearns-amid-sec-insider-tradi
 date: '1981-04-01'
 importance: 9
@@ -39,6 +39,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Jeffrey Epstein abruptly leaves Bear Stearns amid an SEC investigation into insider trading related to the Edgar Bronfman/Seagram deal. This marks the beginning of Epstein's transition from legitimate finance to his mysterious career as an unregistered investment advisor with undisclosed clients and funding sources.

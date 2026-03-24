@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2010-04-20'
 title: Deepwater Horizon Oil Spill Begins - Environmental Disaster and Corporate Negligence
 actors:
@@ -40,5 +40,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Deepwater Horizon drilling rig explosion in the Gulf of Mexico marked the beginning of one of the worst environmental disasters in U.S. history. The explosion killed 11 workers and caused a massive oil spill that would leak approximately 134 million gallons of oil over 87 days. The disaster exposed BP's cost-cutting measures, inadequate safety protocols, and regulatory capture within the Minerals Management Service. Internal documents later revealed that BP executives were aware of safety risks but prioritized profits over environmental protection. The spill devastated Gulf Coast ecosystems, fishing industries, and tourism, with long-lasting economic and environmental impacts. BP eventually paid over $65 billion in fines, cleanup costs, and settlements, making it one of the largest corporate penalties in history.

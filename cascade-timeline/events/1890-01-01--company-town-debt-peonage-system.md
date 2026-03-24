@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1890-01-01--company-town-debt-peonage-system
 date: '1890-01-01'
 title: 'Company Towns and Debt Peonage: Corporate Control of Coal Mining Communities'
@@ -32,6 +32,6 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Pennsylvania coal companies established hundreds of "patch towns" where corporations owned all housing, stores, and infrastructure, creating systems of debt peonage that trapped workers through company scrip and inflated prices. Coal operators "controlled employment, housing, local government officials, and most businesses in coal patches, as well as private police that patrolled towns," operating as "virtual islands outside U.S. governance" despite being geographically within America. The Coal and Iron Police, "given authority by the state but paid and controlled by private companies," enforced corporate rule. Companies paid workers in scrip "only good at company stores," where "without external competition, housing costs and groceries could become exorbitant, and workers built up large debts that they were required to pay off before leaving." Italian and Hungarian immigrants recruited at Ellis Island found themselves "deep in debt in a remote mountain town with seemingly nowhere to run." On multiple occasions in the 1890s and early 1900s, the Austro-Hungarian and Italian consulates demanded West Virginia investigate "accusations of debt peonage," with companies avoiding prosecution by allowing immigrants to leave. When workers organized unions, "operators fought back hard by firing workers, bringing in strikebreakers, using private police, and evicting miners and their families from company housing."

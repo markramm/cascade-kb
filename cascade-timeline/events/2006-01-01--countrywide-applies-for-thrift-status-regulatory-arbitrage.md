@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-01-01--countrywide-applies-for-thrift-status-regulatory-arbitrage
 date: '2006-01-01'
 title: Countrywide Begins Process to Switch to Office of Thrift Supervision for Lighter Regulation
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2006, Countrywide Financial, the nation's largest mortgage lender, began the process of switching its primary federal regulator from the Office of the Comptroller of the Currency to the Office of Thrift Supervision, completing the transition in early 2007. CEO Angelo Mozilo had approached OTS about the move as early as 2005, seeking what was widely understood as the agency's "lighter touch" regulatory approach. The switch exemplified regulatory arbitrage, where financial institutions shop for the most lenient regulator—a practice OTS actively encouraged through its deregulatory philosophy and industry-friendly stance.
 

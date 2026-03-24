@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-20--how-barron-trump-may-have-earned-40-million-from-his-dad-s-c
 date: '2025-06-20'
 title: Trump Family Launches World Liberty Financial Cryptocurrency Venture
@@ -42,6 +42,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump family launched World Liberty Financial, a cryptocurrency venture with significant financial implications, demonstrating potential conflicts of interest and leveraging of political power for personal financial gain.

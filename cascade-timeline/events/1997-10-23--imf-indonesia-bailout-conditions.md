@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-10-23--imf-indonesia-bailout-conditions
 date: '1997-10-23'
 title: IMF Imposes Harsh Structural Adjustment on Indonesia
@@ -37,6 +37,6 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The International Monetary Fund provides a $40 billion bailout to Indonesia with unprecedented conditions, forcing mass privatization, financial sector restructuring, and the elimination of government subsidies. These conditions systematically dismantle Indonesia's economic sovereignty, benefiting Western corporate interests.

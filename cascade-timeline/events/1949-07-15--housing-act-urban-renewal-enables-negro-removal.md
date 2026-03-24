@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1949-07-15--housing-act-urban-renewal-enables-negro-removal
 date: '1949-07-15'
 title: Housing Act of 1949 Creates Urban Renewal Program, Becomes "Negro Removal"
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Truman signs the Housing Act of 1949, establishing the Title I Urban Renewal Program that provides federal grants to local governments for slum clearance and redevelopment. While the act sets a goal of ensuring "a suitable home and decent living environment for all Americans," it becomes what James Baldwin and others in Black communities call "Negro removal" due to its devastating effects on African American neighborhoods. Operating between 1949 and 1974, the program constitutes one of the most sweeping and systematic instances of modern destruction of Black property, neighborhoods, culture, community, businesses, and homes.
 

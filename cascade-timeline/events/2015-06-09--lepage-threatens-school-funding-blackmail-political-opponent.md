@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-06-09--lepage-threatens-school-funding-blackmail-political-opponent
 date: '2015-06-09'
 title: Maine Governor LePage Threatens to Withhold School Funding to Block Political Opponent's Hiring
@@ -52,7 +52,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Maine Governor Paul LePage threatened to withhold $500,000 in state funding from Good Will-Hinckley, a nonprofit charter school serving at-risk youth, to force the organization to rescind a job offer to Democratic House Speaker Mark Eves. Good Will-Hinckley had announced on June 9, 2015 that it would hire Eves as its new president, but days before he was scheduled to begin work on July 1, the school withdrew the offer under pressure from LePage. The governor, a staunch charter school supporter, claimed Eves was unqualified and would undermine charter schools due to his legislative opposition to them. LePage admitted to threatening the school's chairman in a private note, warning that the loss of $500,000 in state funding could trigger an additional loss of $2 million in private funds, potentially devastating the school. A subsequent investigation by Maine's Office of Program Evaluation and Government Accountability (OPEGA) found strong evidence that LePage took concrete steps to withdraw funding and that multiple witnesses confirmed the threat was real and the reason for rescinding Eves's job offer. The probe determined that while LePage had statutory discretion over the discretionary funds, serious questions remained about the ethics of using funding threats as retribution against a political opponent. Eves filed a lawsuit alleging LePage acted out of 'personal rage, vindictiveness and partisan malice' and violated his First Amendment right to speak freely as a legislator without gubernatorial retaliation. Six Maine legislators called for LePage's impeachment, though Maine Attorney General Janet Mills declined to pursue criminal charges, stating there was insufficient basis for a criminal investigation. The incident exemplified LePage's pattern of wielding executive power to punish political opponents and his broader record of violating democratic norms during his tenure as governor.

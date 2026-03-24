@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-28--international-democracy-groups-us-crisis
 date: '2025-02-28'
 importance: 7
@@ -48,6 +48,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Leading international democracy monitoring organizations including Freedom House, V-Dem Institute, and International IDEA issue coordinated warnings about rapid U.S. democratic deterioration, citing executive overreach, judicial capture, and civic space restrictions. The Global State of Democracy 2025 report marks the first time these organizations have simultaneously classified the United States as a 'backsliding democracy'.

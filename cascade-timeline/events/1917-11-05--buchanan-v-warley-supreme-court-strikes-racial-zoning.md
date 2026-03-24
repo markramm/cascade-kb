@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1917-11-05--buchanan-v-warley-supreme-court-strikes-racial-zoning
 date: '1917-11-05'
 title: 'Buchanan v. Warley: Supreme Court Strikes Down Racial Zoning, Property Rights Trump Civil Rights'
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court unanimously struck down a Louisville, Kentucky ordinance prohibiting Black residents from moving onto blocks where the majority of residents were white, and vice versa. While appearing to be a civil rights victory, the Court's reasoning in Buchanan v. Warley rested entirely on property rights rather than racial equality. Justice William Day wrote that the ordinance violated the Fourteenth Amendment by depriving property owners of their right to dispose of property to willing buyers, not because racial segregation was unconstitutional.
 

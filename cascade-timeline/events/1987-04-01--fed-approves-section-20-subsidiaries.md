@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-04-01--fed-approves-section-20-subsidiaries
 date: '1987-04-01'
 title: Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust
@@ -37,6 +37,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Reserve Board approved a pivotal regulatory decision allowing JP Morgan & Co., Citicorp, and Bankers Trust to establish Section 20 subsidiaries, marking a significant first breach in the Glass-Steagall Act's separation of commercial and investment banking. The approval permitted these banks to underwrite mortgage-backed securities, municipal revenue bonds, and commercial paper, initially limiting such activities to 5% of revenue with strict 'firewall' provisions. This decision, occurring during the transition from Paul Volcker to Alan Greenspan's leadership, represented a critical moment in financial deregulation, gradually dismantling the regulatory barriers established by the 1933 Banking Act.

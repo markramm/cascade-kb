@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-10-24--nsa-tapped-angela-merkel-phone-35-world-leaders
 date: '2013-10-24'
 title: NSA Monitored Angela Merkel's Phone and 35 Other World Leaders
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Guardian newspaper reported, citing documents obtained from Edward Snowden, that the National Security Agency monitored the phone conversations of 35 world leaders, including German Chancellor Angela Merkel. The leaked NSA memo, dated October 2006, revealed that senior U.S. government officials from the White House, State Department, and Pentagon provided more than 200 phone numbers of foreign politicians to the NSA for surveillance, with 35 of those belonging to world leaders.
 

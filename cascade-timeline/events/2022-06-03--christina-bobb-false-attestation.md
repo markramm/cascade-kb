@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-03--christina-bobb-false-attestation
 date: '2022-06-03'
 importance: 9
@@ -42,7 +42,7 @@ notes: 'Bobb told investigators that Corcoran drafted the statement and told her
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Trump attorney Christina Bobb signed a certification stating that all classified documents
 requested by the May 11 grand jury subpoena had been returned to the government. The
 attestation, drafted by Evan Corcoran, proved false when the FBI found 103 additional

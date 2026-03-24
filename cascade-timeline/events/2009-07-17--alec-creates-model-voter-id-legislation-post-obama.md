@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-07-17--alec-creates-model-voter-id-legislation-post-obama
 date: 2009-07-17
 title: ALEC Creates Model Voter ID Legislation Following Obama Election
@@ -40,7 +40,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 ALEC's Public Safety and Elections Task Force approved the "Voter ID Act" model legislation at its July 2009 Atlanta meeting, with final Board of Directors approval on August 27, 2009. The model bill was created in direct response to Barack Obama's 2008 election victory and designed to restrict voting access for minority and low-income voters who had turned out in historic numbers.
 

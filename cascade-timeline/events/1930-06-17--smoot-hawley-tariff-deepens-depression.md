@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1930-06-17--smoot-hawley-tariff-deepens-depression
 date: '1930-06-17'
 title: Smoot-Hawley Tariff Act Enacts Corporate Protectionism Despite Economist Warnings
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Herbert Hoover signs the Tariff Act of 1930, commonly known as the Smoot-Hawley Tariff Act after its congressional sponsors Senator Reed Smoot (R-UT) and Representative Willis C. Hawley (R-OR), raising U.S. tariffs on over 20,000 imported goods to record levels. Hoover had campaigned in 1928 on increasing tariffs for agricultural products to help struggling farmers, but corporate manufacturing lobbyists exploited the legislative process to attach sweeping new tariffs on industrial goods, transforming limited agricultural relief into comprehensive protectionism that economists warned would deepen the Depression.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-01-08--att-breakup-signals-antitrust-enforcement-end
 date: '1982-01-08'
 status: confirmed
@@ -37,6 +37,6 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice and AT&T finalize the antitrust settlement requiring the telecommunications giant to divest its seven regional Bell operating companies (Baby Bells) in 1984, breaking up the AT&T natural monopoly. However, this settlement paradoxically marks the end rather than continuation of vigorous antitrust enforcement in the Reagan era and beyond. A Cabinet task force representing Defense and Commerce departments had formally recommended Reagan drop the case, but political concerns about appearing to favor monopolies prevented dismissal. Following this settlement, the Reagan administration—heavily influenced by Robert Bork's 'The Antitrust Paradox' which argued that most antitrust enforcement harmed consumers—essentially abandons antitrust as a tool for maintaining competitive markets. The Supreme Court adopts Bork's analysis in 1979, and Reagan makes it official DOJ policy. With rare exceptions like Microsoft in 2001, courts and regulators take a permissive stance toward dominant firm behavior and smile upon mergers of all kinds. Merger and acquisition activity multiplies as regulations evaporate. This represents the beginning of the monopolization era: between 1982 and 2013, American industries undergo massive concentration as four or fewer firms come to dominate 85%+ of multiple sectors including airlines, telecommunications, pharmaceuticals, agriculture, and technology. The AT&T breakup becomes the exception that proves the rule—the last gasp of mid-20th century antitrust philosophy before an ideological shift enables four decades of unchecked consolidation, market power accumulation, and monopolistic extraction that contributes significantly to rising inequality and declining economic dynamism.

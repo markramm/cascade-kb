@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-06--rogan-bernie-sanders-interview-endorsement
 date: '2019-08-06'
 title: Bernie Sanders Appears on Joe Rogan Experience, Rogan Later Endorses Sanders for President
@@ -36,7 +36,7 @@ capture_lanes:
 - Media Capture & Control
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Bernie Sanders appeared on The Joe Rogan Experience (Episode #1330) on August 6, 2019, during his 2020 presidential campaign. The 1-hour-13-minute interview covered healthcare, climate change, criminal justice reform, and Sanders' anti-establishment political message. Months later, in January 2020, Rogan stated **"I think I'll probably vote for Bernie. Him as a human being, when I was hanging out with him, I believe in him, I like him, I like him a lot."** The endorsement became controversial when the Sanders campaign promoted it, but the episode demonstrated that principled progressives could reach Rogan's massive audience and genuinely influence his political views.
 

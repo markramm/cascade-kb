@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1938-06-25--fair-labor-standards-act-passes-over-business-southern-opposition
 date: '1938-06-25'
 title: Fair Labor Standards Act Passes Over Fierce Business and Southern Opposition to Minimum Wage and Child Labor Ban
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Franklin D. Roosevelt signs the Fair Labor Standards Act (FLSA) on June 25, 1938, establishing a federal minimum wage of 25 cents per hour, a maximum 44-hour workweek, and banning oppressive child labor—but only after more than a year of fierce congressional opposition from business interests and Southern Democrats who view wage and hour regulation as federal interference with the low-wage Southern economy. The act represents the last major piece of New Deal labor legislation and applies only to industries representing about one-fifth of the labor force, demonstrating how corporate and regional political resistance can severely limit progressive reform even at the peak of New Deal power.
 

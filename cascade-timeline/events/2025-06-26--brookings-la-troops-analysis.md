@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-26--brookings-la-troops-analysis
 title: Brookings warns on legal limits of putting soldiers on Los Angeles streets
 date: '2025-06-26'
@@ -48,6 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Brookings June 26, 2025, analysis warned Trump's deployment of 700 Marines and 4,000 federalized National Guard to LA violates Posse Comitatus Act. Trump invoked 10 USC §12406 (not Insurrection Act) claiming "inherent constitutional authority" to protect federal property. California alleged violations - Guard accompanied ICE on 75% of missions, formed security perimeters, detained civilians. Ninth Circuit accepted Trump's "unable with regular forces" claim despite no evidence ICE raids were thwarted.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-01-10--robert-rubin-treasury-secretary-goldman-sachs
 date: '1995-01-10'
 title: Robert Rubin Appointed Treasury Secretary After 26 Years at Goldman Sachs
@@ -41,7 +41,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert E. Rubin was sworn in as the 70th Secretary of the Treasury, bringing Wall Street directly into the highest levels of economic policymaking. Rubin had spent 26 years at Goldman Sachs, rising to co-chairman from 1990-1992, before joining the Clinton administration as director of the National Economic Council in 1993. His appointment represented a direct revolving door from one of Wall Street's most powerful investment banks to the Treasury Department.
 

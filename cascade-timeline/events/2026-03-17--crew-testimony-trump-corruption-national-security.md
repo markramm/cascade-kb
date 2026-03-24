@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--crew-testimony-trump-corruption-national-security
 date: '2026-03-17'
 title: CREW Testifies Trump Corruption Weakens Government and Threatens National Security
@@ -24,7 +24,7 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Citizens for Responsibility and Ethics in Washington (CREW) president Donald Sherman testified before the House Foreign Affairs Committee that President Trump's second term had been "marked by conflicts of interest and corruption that weaken the government's ability to stop waste, fraud and abuse and put U.S. national security at risk." The testimony represented the most comprehensive accounting to date of the scale and scope of presidential corruption in the current administration.
 

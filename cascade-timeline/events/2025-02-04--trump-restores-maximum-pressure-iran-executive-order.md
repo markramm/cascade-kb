@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-04--trump-restores-maximum-pressure-iran-executive-order
 date: '2025-02-04'
 title: Trump Signs Executive Order Restoring 'Maximum Pressure' Campaign Against Iran
@@ -28,6 +28,6 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump signed National Security Presidential Memorandum (NSPM-2) restoring "maximum pressure" on Iran. The order directed Treasury to impose maximum economic pressure including sanctions enforcement on violators, instructed the State Department to rescind existing sanctions waivers and drive Iran's oil exports to zero, and directed the Attorney General to prosecute Iranian financial networks in the US. The memorandum represented a return to Trump's first-term approach of unilateral economic warfare against Iran following his withdrawal from the JCPOA nuclear deal.

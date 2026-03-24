@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-27--senate-finance-nra-russia-report
 date: '2019-09-27'
 title: Senate Finance Committee Report Reveals NRA Misled Public About Russia Connections and 2015 Moscow Trip
@@ -40,7 +40,7 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate Finance Committee Ranking Member Ron Wyden released findings on September 27, 2019 from an 18-month investigation into the National Rifle Association's relationship with Russia and potential violations of U.S. tax and sanctions laws. The report revealed new evidence that the 2015 NRA delegation trip to Moscow was an official NRA trip meant to demonstrate Alexander Torshin's American connections to the Kremlin, contrary to NRA public statements that it was an unofficial personal trip.
 

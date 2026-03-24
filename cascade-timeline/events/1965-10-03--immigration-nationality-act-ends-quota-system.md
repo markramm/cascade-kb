@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-10-03--immigration-nationality-act-ends-quota-system
 date: '1965-10-03'
 title: Immigration and Nationality Act Abolishes National Origins Quota System After Defeating Conservative Opposition
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Lyndon B. Johnson signs the Immigration and Nationality Act of 1965 (Hart-Celler Act) into law at the base of the Statue of Liberty, abolishing the National Origins Formula that has governed U.S. immigration policy since the 1920s. The legislation dismantles the racist quota system that heavily favored Northern and Western European immigrants while severely restricting immigration from Southern and Eastern Europe, Asia, Africa, and Latin America.
 

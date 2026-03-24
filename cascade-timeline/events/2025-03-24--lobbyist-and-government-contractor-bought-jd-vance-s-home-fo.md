@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-24--lobbyist-and-government-contractor-bought-jd-vance-s-home-fo
 date: '2025-03-24'
 title: Government contractor who received $179M in federal contracts buys VP Vance's home for $170K over asking
@@ -43,7 +43,7 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline.
 ---
-type: solidarity_event
+type: timeline_event
 
 Christopher Garcia, CEO of Health Supply US which has received $179 million in government
 contracts primarily from Defense and Homeland Security, purchased Vice President JD Vance's

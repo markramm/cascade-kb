@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1871-07-08--new-york-times-exposes-tweed-ring
 date: '1871-07-08'
 title: New York Times Exposes Tweed Ring with Stolen Records
@@ -34,7 +34,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times publishes its first article with documented proof of the Tweed Ring's massive corruption, headlined "MORE RING VILLIANY." Publisher George Jones obtains incriminating receipts and accounting records stolen by a disgruntled Tammany functionary denied his expected payoff. The documents reveal systematic plundering of New York City coffers estimated between $50 million and $200 million (equivalent to $1.5-3.7 billion today).
 

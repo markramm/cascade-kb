@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-01-22--first-private-prison-houston-ins-facility
 date: '1984-01-22'
 title: First Fully Privatized Prison Opens in Houston Under CCA Contract with Immigration and Naturalization Service
@@ -36,7 +36,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Corrections Corporation of America (CCA) opens the first adult detention facility to be fully managed and run by a private corporation in the United States in over a century. After winning "the first contract ever to design, build, finance and operate a secure correctional facility" from the Immigration and Naturalization Service (INS), CCA faces an unrealistic 90-day deadline and converts the Olympic Motel on I-45 North in Houston into a makeshift detention center. On January 22, 1984, co-founder T. Don Hutto personally fingerprints the first 87 immigration detainees.
 

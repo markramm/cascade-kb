@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-01--facebook-research-instagram-harms-teen-girls
 date: '2020-03-01'
 title: Facebook Internal Research Confirms Instagram Toxic for Teen Girls, Conceals Findings While Targeting Youth
@@ -47,7 +47,7 @@ capture_lanes:
 - Corporate Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook's internal research definitively confirms that Instagram is toxic for teenage girls, causing body image issues, depression, anxiety, and suicidal thoughts, but the company conceals these findings from the public while continuing to aggressively target youth users to drive engagement and revenue.
 

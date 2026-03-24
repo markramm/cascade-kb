@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-20--trump-organization-receives-36m-from-foreign-gover
 date: '2017-01-20'
 importance: 9
@@ -42,6 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump Organization received at least 3.6 million from foreign governments including China, Saudi Arabia, Kuwait, UAE, and Qatar during Trump's presidency, violating the Constitution's Foreign Emoluments Clause. Saudi officials alone paid at least 15,000 to Trump properties. T-Mobile executives stayed at Trump's hotel for over 52 nights while seeking merger approval worth 6 billion. The spending included .4 million from Chinese state-owned Industrial and Commercial Bank of China for Trump Tower space. Trump refused to divest his businesses or place them in a blind trust, instead having his sons run operations while he retained ownership. Federal judges found Trump violated the Emoluments Clause but the Supreme Court dismissed cases as moot after his term ended.

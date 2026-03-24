@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-07--another-law-firm-braces-for-possible-blowback-from-trump
 date: '2025-04-07'
 title: Cadwalader, Wickersham & Taft Pressured into $100M Pro Bono Deal by Trump White House
@@ -48,6 +48,6 @@ capture_lanes:
 - Executive Power Expansion
 notes: Comprehensive documentation of Trump administration's pressure on law firms through executive leverage
 ---
-type: solidarity_event
+type: timeline_event
 
 Cadwalader, Wickersham & Taft was pressured by the Trump White House to provide $100 million in pro bono legal services to avoid punitive executive orders. The firm negotiated under threat, joining other major law firms capitulating to similar White House demands. Senator Sheldon Whitehouse launched an investigation into these coercive tactics, highlighting potential constitutional and ethical concerns.

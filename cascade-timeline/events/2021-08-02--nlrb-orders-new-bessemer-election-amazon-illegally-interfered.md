@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-08-02--nlrb-orders-new-bessemer-election-amazon-illegally-interfered
 date: 2021-08-02
 title: NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 # NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
 

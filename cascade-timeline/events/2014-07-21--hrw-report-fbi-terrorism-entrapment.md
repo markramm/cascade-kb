@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-07-21--hrw-report-fbi-terrorism-entrapment
 date: 2014-07-21
 title: Human Rights Watch Report - FBI Terrorism Prosecutions "Often An Illusion"
@@ -36,7 +36,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Human Rights Watch released a comprehensive 214-page report documenting that many high-profile FBI terrorism prosecutions were "an illusion" based on aggressive sting operations that entrapped vulnerable individuals who posed no genuine threat. The report analyzed decades of terrorism cases and found systematic targeting of mentally ill, intellectually disabled, and economically desperate people.
 

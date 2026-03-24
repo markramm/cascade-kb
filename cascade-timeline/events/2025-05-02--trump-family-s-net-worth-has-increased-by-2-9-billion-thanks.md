@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-02--trump-family-s-net-worth-has-increased-by-2-9-billion-thanks
 date: '2025-05-02'
 title: 'Trump family''s net worth has increased by $2.9 billion thanks to crypto investments, new report says'
@@ -48,5 +48,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Trump family net worth has increased by $2.9 billion on the back of their several cryptocurrency ventures, including memecoin launches from the president and first lady and deals with foreign crypto firms, as the administration rolled back industry regulations

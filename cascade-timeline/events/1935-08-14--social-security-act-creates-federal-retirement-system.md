@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1935-08-14--social-security-act-creates-federal-retirement-system
 date: '1935-08-14'
 title: Social Security Act Creates Federal Retirement and Unemployment Insurance System Over Business Opposition
@@ -41,7 +41,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Franklin D. Roosevelt signs the Social Security Act on August 14, 1935, establishing the first comprehensive federal system for old-age pensions, unemployment insurance, and aid to dependent children and the disabled, creating the foundation of the American social safety net. Labor Secretary Frances Perkins, the first woman to serve in a cabinet position and the driving force behind the legislation, considers Social Security the crowning achievement of the New Deal, establishing the principle that the federal government bears responsibility for citizen economic security.
 

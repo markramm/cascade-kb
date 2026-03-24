@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1944-06-22--servicemens-readjustment-act-gi-bill-racial-implementation-gap
 date: '1944-06-22'
 title: GI Bill Passed with Discriminatory State Implementation Enabling Racial Wealth Gap
@@ -57,7 +57,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Roosevelt signs the Servicemen's Readjustment Act (GI Bill) on June 22, 1944, creating transformative benefits for veterans including education, housing, and unemployment assistance. However, Southern Democrats, led by Mississippi Representative John Rankin, ensure the bill's administration is delegated to states and local institutions, enabling systematic exclusion of Black veterans from benefits.

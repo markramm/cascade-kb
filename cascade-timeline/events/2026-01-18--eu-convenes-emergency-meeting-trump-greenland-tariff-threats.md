@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-18--eu-convenes-emergency-meeting-trump-greenland-tariff-threats
 date: '2026-01-18'
 status: confirmed
@@ -29,7 +29,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The European Union convenes an emergency meeting in Brussels to discuss its response to President Trump's tariff threats against eight NATO allies over Greenland. EU leaders consider retaliatory measures including counter-tariffs and the activation of the bloc's Anti-Coercion Instrument, informally known as the "trade bazooka."
 

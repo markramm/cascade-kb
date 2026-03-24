@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-05--scott-pruitt-resigns-corruption
 date: '2018-07-05'
 title: EPA Chief Scott Pruitt Resigns Amid 14 Federal Investigations
@@ -50,7 +50,7 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 EPA Administrator Scott Pruitt resigned facing at least 14 federal investigations 
 into corruption, ethics violations, and misuse of taxpayer funds. Scandals included: 

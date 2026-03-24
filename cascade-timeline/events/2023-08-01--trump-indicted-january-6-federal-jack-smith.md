@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-08-01--trump-indicted-january-6-federal-jack-smith
 date: '2023-08-01'
 title: Jack Smith Indicts Trump on 4 Federal Counts for January 6 Conspiracy to Overturn Election
@@ -48,7 +48,7 @@ capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Special Counsel Jack Smith announced a federal grand jury indictment of former President Donald Trump on four criminal counts related to his efforts to overturn the 2020 election and his role in the January 6, 2021 attack on the U.S. Capitol. The indictment marked the most serious criminal charges ever filed against a former president, charging him with conspiracy to defraud the United States and conspiracy against the rights of citizens to have their votes counted.
 

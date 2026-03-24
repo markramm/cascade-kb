@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-02--navy-captain-crozier-fired-covid-whistleblowing
 date: '2020-04-02'
 title: Navy Captain Crozier Fired for Requesting COVID Help for USS Roosevelt Crew
@@ -49,5 +49,5 @@ sources:
 status: confirmed
 validation_notes: 'Added PBS NewsHour sources providing comprehensive context about Captain Crozier''s firing and Navy''s response to the COVID-19 outbreak on USS Theodore Roosevelt'
 ---
-type: solidarity_event
+type: timeline_event
 Acting Navy Secretary Thomas Modly fires Captain Brett Crozier, commander of the USS Theodore Roosevelt, for sending a letter requesting immediate evacuation of his crew as COVID-19 spreads among nearly 5,000 sailors. Crozier wrote "We are not at war. Sailors do not need to die" in his plea for help. Top Navy officials recommended Crozier's reinstatement, but he was ultimately not returned to command. The dismissal demonstrates systematic punishment of military officers who prioritize troop welfare over political image. Crozier receives a standing ovation from his crew, who chant his name as he leaves the ship, highlighting the disconnect between military values and political loyalty demands.

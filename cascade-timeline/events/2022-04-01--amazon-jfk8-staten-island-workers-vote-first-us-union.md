@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-04-01--amazon-jfk8-staten-island-workers-vote-first-us-union
 date: 2022-04-01
 title: Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
 

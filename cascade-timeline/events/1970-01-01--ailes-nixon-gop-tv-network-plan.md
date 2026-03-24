@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Roger Ailes
 - Richard Nixon
@@ -49,6 +49,6 @@ tags:
 - media-capture
 title: Roger Ailes Creates Plan for Nixon's "GOP TV" Pro-Administration Network
 ---
-type: solidarity_event
+type: timeline_event
 
 Political consultant Roger Ailes and Nixon aides develop plan to create TV network providing "pro-administration" coverage, with Nixon saying they need "our own news" for "brutal attack on opposition". The plan involved creating Television News Incorporated (TVN), financed by Joseph Coors, to inject conservative narratives into local news broadcasts.

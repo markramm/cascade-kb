@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1868-07-09--fourteenth-amendment-ratified
 date: '1868-07-09'
 title: 'Fourteenth Amendment Ratified: Corporate Hijacking Begins'
@@ -35,7 +35,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Fourteenth Amendment is ratified after Louisiana and South Carolina provide the necessary three-fourths majority, extending citizenship and equal protection rights to formerly enslaved people. While designed to guarantee civil rights to Black Americans, the amendment's broad language—particularly its Due Process and Equal Protection clauses—will be systematically hijacked by corporate lawyers to shield businesses from regulation.
 

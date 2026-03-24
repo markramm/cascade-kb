@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1950-06-01--margaret-chase-smith-declaration-conscience'
 date: '1950-06-01'
 title: 'Margaret Chase Smith Delivers Declaration of Conscience Against McCarthy Witch Hunt'
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 1, 1950, less than four months after McCarthy's Wheeling speech, Maine Senator Margaret Chase Smith delivered a fifteen-minute speech on the Senate floor known as the "Declaration of Conscience." As a freshman senator, a fellow Republican who considered herself a friend of McCarthy's, and the only woman member of the Senate at the time, Smith felt reluctant to speak out publicly. However, after asking to see the documents McCarthy was citing as evidence and finding them irrelevant to his charges, she felt compelled to act. Friends in the media, including columnist Walter Lippmann, encouraged her to take a stand.
 

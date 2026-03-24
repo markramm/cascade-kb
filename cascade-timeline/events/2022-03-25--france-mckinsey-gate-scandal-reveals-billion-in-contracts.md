@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-03-25--france-mckinsey-gate-scandal-reveals-billion-in-contracts
 date: '2022-03-25'
 title: 'French Senate Investigation Reveals ''McKinsey Gate'' Scandal: Nearly €1 Billion in Government Consulting Fees'
@@ -36,7 +36,7 @@ capture_lanes:
 - Corporate Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 A French Senate inquiry committee releases a 400-page report revealing that the French government has spent almost €1 billion in consulting fees since 2017, with very little to show for it. The scandal, dubbed 'McKinsey Gate,' centers on the deep ties between McKinsey & Company and President Emmanuel Macron's government, raising serious questions about conflicts of interest, tax evasion, and the outsourcing of government policymaking to private consultants.
 

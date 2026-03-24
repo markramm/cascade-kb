@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-22--more-than-a-dozen-u-s-officials-sold-stocks-before-trump-s-t
 date: '2025-05-22'
 title: Trump Hosts Private Memecoin Investor Dinner Amid Foreign Investment Controversy
@@ -51,5 +51,5 @@ capture_lanes:
 - Intelligence Penetration
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump hosted a black-tie gala for 220 top memecoin investors at his Virginia golf club, with attendees having spent a combined $148 million on the token. The event raised significant ethical concerns due to the majority of top investors being from foreign exchanges, potentially circumventing US regulations.

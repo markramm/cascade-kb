@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-10-30--virginia-voter-purge-supreme-court
 date: '2024-10-30'
 importance: 6
@@ -38,6 +38,6 @@ sources:
   tier: 2
 notes: Purge violated clear federal law protecting voters from systematic removal within 90 days of election. Targeted naturalized citizens based on outdated DMV records. Set dangerous precedent for ignoring NVRA protections.
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Supreme Court allowed Virginia to purge over 1,600 voters within federally protected 90-day "quiet period" before 2024 election in 6-3 emergency decision, overturning lower court rulings in Beals v. Virginia Coalition for Immigrant Rights. Governor Glenn Youngkin's Executive Order 35, issued exactly 90 days before election, targeted naturalized citizens who previously held noncitizen identification numbers. Clear violation of National Voter Registration Act (NVRA) that prohibits systematic purges within 90 days of federal election. Decision enabled disenfranchisement of eligible citizens.

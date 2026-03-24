@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-24--hegseth-confirmed-defense-secretary-tiebreaker
 date: '2025-01-24'
 title: Pete Hegseth confirmed as Defense Secretary in historic VP tiebreaker vote
@@ -44,7 +44,7 @@ sources:
   url: 'https://www.aljazeera.com/news/2025/1/25/pete-hegseth-confirmed-as-us-defence-chief-in-tiebreaker-senate-vote'
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 Pete Hegseth was confirmed as Defense Secretary in a historic 51-50 Senate vote, with Vice President JD Vance casting the tie-breaking vote. Three key Republican senators - Mitch McConnell, Lisa Murkowski, and Susan Collins - voted against confirmation. Hegseth's confirmation was controversial due to allegations of sexual assault, alcohol abuse, and financial mismanagement of veterans' charities. This marked only the second time in U.S. history that a vice president broke a tie for a Cabinet nominee.
 
 Hegseth pledged to challenge military diversity programs and restore what he calls military 'lethality', proposing to review standards for women in combat roles. Trump's post-vote comment emphasized that 'winning is all that matters'.

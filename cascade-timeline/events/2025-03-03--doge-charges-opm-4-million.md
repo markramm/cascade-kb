@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-03--doge-charges-opm-4-million
 date: '2025-03-03'
 title: DOGE Demands $4 Million from OPM for Workforce Reduction Planning
@@ -43,6 +43,6 @@ capture_lanes:
 - Labor Suppression
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Government Efficiency (DOGE) demanded $4 million from the Office of Personnel Management (OPM) to fund 20 full-time positions tasked with implementing widespread federal workforce reductions. OPM was required to submit Reduction in Force (RIF) plans targeting approximately 70,000 employee positions by March 13, 2025, as part of a broader effort to restructure federal employment through the Schedule Policy/Career process.

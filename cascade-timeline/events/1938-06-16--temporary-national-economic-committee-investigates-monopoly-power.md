@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1938-06-16--temporary-national-economic-committee-investigates-monopoly-power
 date: '1938-06-16'
 title: Temporary National Economic Committee Launches Comprehensive Investigation of Monopoly and Economic Concentration
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress authorizes the Temporary National Economic Committee (TNEC) on June 16, 1938, launching the most comprehensive investigation of monopoly power and economic concentration in American history. Chaired by Senator Joseph O'Mahoney of Wyoming, the committee conducts three years of hearings producing 31 volumes of testimony and 43 monographs documenting how concentrated corporate power distorts the American economy. President Roosevelt requests the investigation amid the 1937-38 "Roosevelt Recession," which he attributes partly to monopolistic pricing practices that choke off economic recovery.
 

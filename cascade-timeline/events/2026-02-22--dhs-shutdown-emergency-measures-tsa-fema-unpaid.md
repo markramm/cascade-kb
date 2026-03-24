@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-22--dhs-shutdown-emergency-measures-tsa-fema-unpaid
 date: '2026-02-22'
 title: 'DHS Shutdown Emergency Measures: 63,000 TSA Agents Working Without Pay'
@@ -38,7 +38,7 @@ capture_lanes:
 - Labor Rights Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 One week into the Department of Homeland Security shutdown that began on February 14, 2026, DHS implemented emergency resource-conservation measures affecting hundreds of thousands of workers and the communities that depend on federal services. Approximately 63,000 TSA agents continued screening passengers at airports nationwide without pay, classified as "essential" workers who could not be furloughed despite the lapse in appropriations. Roughly 90 percent of DHS's workforce fell under this essential designation, meaning the vast majority of the department's employees were compelled to work with no guarantee of when they would next receive a paycheck.
 
 The shutdown's effects rippled far beyond airport security lines. Coast Guard families faced the loss of utilities and housing services as support programs went unfunded. FEMA froze all non-disaster grant processing, blocking billions of dollars from reaching local first responders and emergency management agencies across the country. Communities that depended on FEMA preparedness grants found themselves unable to access funds already allocated but not yet disbursed.

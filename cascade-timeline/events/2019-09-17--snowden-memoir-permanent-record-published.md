@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-17--snowden-memoir-permanent-record-published
 date: '2019-09-17'
 title: Edward Snowden Publishes Memoir "Permanent Record"; DOJ Immediately Sues for Proceeds
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward Snowden published his memoir "Permanent Record" on September 17, 2019 (Constitution Day), through Metropolitan Books, an imprint of Henry Holt and Company. The book provided Snowden's first-person account of his life, his work in the intelligence community, his decision to leak classified NSA documents, and his subsequent exile in Russia. Within hours of the book's release, the U.S. Department of Justice filed a civil lawsuit seeking to seize all proceeds from the memoir.
 

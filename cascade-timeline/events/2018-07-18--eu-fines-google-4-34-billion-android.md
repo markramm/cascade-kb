@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2018-07-18'
 title: EU Fines Google Record €4.34B for Android Monopoly Abuse Through Bundling
 description: The European Commission imposed a record €4.34 billion ($5 billion) fine on Google for illegally abusing its dominance in mobile operating systems through Android. The investigation found that Google forced phone manufacturers to pre-install Google Search and Chrome as a condition for licensing the Play Store, made payments to manufacturers for exclusive pre-installation of Google Search, and blocked manufacturers from selling phones running alternative "forked" versions of Android. These anticompetitive practices cemented Google's search and browser dominance on mobile devices worldwide, controlling 95% of mobile search and preventing competitors from reaching users. The fine was the largest antitrust penalty ever imposed globally. Google appealed but lost, with the fine only minimally reduced to €4.125 billion in 2022.
@@ -60,7 +60,7 @@ connections:
 - App store monopolization
 notes: Largest antitrust fine in history. Documented how Google used "free" Android to cement mobile search monopoly through anticompetitive contracts that foreclosed competition and consumer choice.
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 18, 2018, the European Commission imposed a record €4.34 billion ($5 billion) fine on Google for breaching EU antitrust rules through three separate illegal practices involving its Android mobile operating system. The penalty was the largest antitrust fine ever imposed globally, exceeding the Commission's previous €2.42 billion Google Shopping fine from 2017.
 

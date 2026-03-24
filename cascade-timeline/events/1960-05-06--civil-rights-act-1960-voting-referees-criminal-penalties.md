@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1960-05-06--civil-rights-act-1960-voting-referees-criminal-penalties
 date: '1960-05-06'
 title: 'Civil Rights Act of 1960: Voting Referees and Criminal Penalties Still Prove Inadequate Against Southern Resistance'
@@ -35,7 +35,7 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Eisenhower signed the Civil Rights Act of 1960, expanding on the 1957 Act by authorizing federal courts to appoint voting referees to register Black voters and imposing criminal penalties for obstruction of court orders. However, the law's case-by-case approach and dependence on litigation proved inadequate against systematic Southern resistance, demonstrating the limits of incremental reform.
 

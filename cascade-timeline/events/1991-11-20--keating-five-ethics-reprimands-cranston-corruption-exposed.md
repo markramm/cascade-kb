@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-11-20--keating-five-ethics-reprimands-cranston-corruption-exposed
 date: '1991-11-20'
 title: 'Keating Five Ethics Findings: Cranston Reprimanded, Systemic Corruption Exposed'
@@ -44,7 +44,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate Ethics Committee concludes its Keating Five investigation with formal reprimands and rebukes, documenting systematic corruption where five senators traded regulatory intervention for $1.5 million in campaign contributions from Charles Keating. Senator Alan Cranston (D-CA) receives the harshest penalty—a formal reprimand—with the Committee finding his conduct "improper and repugnant" and deserving "the fullest, strongest and most severe sanction" available. Senators Dennis DeConcini (D-AZ) and Donald Riegle (D-MI) are found to have "substantially and improperly interfered" with federal regulators investigating Lincoln Savings and Loan. Senators John Glenn (D-OH) and John McCain (R-AZ) are cleared of improper conduct but criticized for "poor judgment" in meeting with regulators on Keating's behalf.
 

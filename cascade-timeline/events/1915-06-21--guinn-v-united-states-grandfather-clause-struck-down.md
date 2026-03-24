@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1915-06-21--guinn-v-united-states-grandfather-clause-struck-down
 date: '1915-06-21'
 title: 'Guinn v. United States: Supreme Court Strikes Down Grandfather Clauses as Fifteenth Amendment Violation'
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court unanimously struck down Oklahoma's grandfather clause in Guinn v. United States, marking the first time the Court invalidated a state voting restriction as a Fifteenth Amendment violation since Reconstruction. Chief Justice Edward White, himself a former Confederate soldier and Louisiana segregationist, wrote that Oklahoma's transparent attempt to exempt whites from literacy tests while disenfranchising Black voters violated the constitutional prohibition on racial discrimination in voting.
 

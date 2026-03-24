@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1862-02-25--legal-tender-act-creates-fiat-currency-financial-manipulation
 date: '1862-02-25'
 title: Legal Tender Act Creates Unbacked Greenback Currency Enabling Speculation and Inflation Despite Constitutional Questions
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Legal Tender Act on February 25, 1862, authorizing the issuance of $150 million in United States Notes (popularly called "greenbacks" for their distinctive color) to finance the Union war effort after spiraling costs rapidly deplete gold and silver reserves. The legislation, signed by President Lincoln following January 1862 meetings with Edmund Dick Taylor who suggests issuing unbacked paper money, creates the first national fiat currency—money backed solely by government credit rather than precious metals. The greenbacks are declared lawful money for all payments except interest on public debt and import duties, those exceptions designed to maintain some connection to hard currency and prevent complete devaluation. By 1863, Congress expands authorization to $450 million through the Second and Third Legal Tender Acts, tripling the initial amount. The massive increase in unbacked currency creates significant inflation, with greenbacks trading at substantial discounts from gold—prompting Congress to pass the short-lived Anti-Gold Futures Act of 1864, which is quickly repealed after it accelerates rather than arrests greenback devaluation.
 

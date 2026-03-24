@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-04-15--stock-act-gutted-disclosure-requirements-removed
 date: 2013-04-15
 title: Congress Quietly Guts STOCK Act Online Disclosure Requirements
@@ -44,7 +44,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Obama signed legislation on April 15, 2013, that gutted key provisions of the Stop Trading on Congressional Knowledge (STOCK) Act, just one year after the law passed with great fanfare. The amendment eliminated the requirement for a searchable, sortable online database of financial disclosure information and removed the mandate that reports be filed electronically rather than on paper. The changes drastically reduced transparency by limiting mandatory public online reporting to only Members of Congress, congressional candidates, the President, Vice President, and top executive branch officials — excluding approximately 28,000 high-level federal employees previously covered.
 

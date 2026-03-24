@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-01--rex-tillerson-exxonmobil-ceo-secretary-of-state
 date: '2017-02-01'
 importance: 8
@@ -37,6 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Rex Tillerson, former ExxonMobil CEO who received Putin's Order of Friendship for Russian energy deals and maintained 45 million in oil investments, became Secretary of State despite unprecedented opposition. Tillerson had negotiated a 00 billion Arctic drilling deal with Russia's Rosneft that was blocked by sanctions he would oversee lifting. He dismantled the State Department, leaving 60% of top diplomat positions vacant, firing career officials, and proposing 31% budget cuts. Tillerson used private email for classified information, refused to spend 20 million allocated to counter Russian interference, and was fired via tweet after calling Trump a 'moron.' His tenure marked the most severe diplomatic capacity reduction in State Department history.

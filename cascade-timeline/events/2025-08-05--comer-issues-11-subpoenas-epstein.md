@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-05--comer-issues-11-subpoenas-epstein
 date: '2025-08-05'
 importance: 6
@@ -40,6 +40,6 @@ sources:
   tier: 1
 notes: The exclusion of Alex Acosta from subpoenas raised questions about selective investigation.
 ---
-type: solidarity_event
+type: timeline_event
 
 House Oversight Chairman James Comer escalated dramatically on August 5, 2025, by issuing 11 subpoenas: one to the DOJ demanding complete files by August 19, depositions from Bill and Hillary Clinton, and testimony from six former attorneys general and two former FBI directors. The selection notably excluded Alex Acosta, Trump's former Labor Secretary who negotiated Epstein's controversial 2008 plea deal.

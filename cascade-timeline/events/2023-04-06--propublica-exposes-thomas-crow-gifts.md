@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-04-06--propublica-exposes-thomas-crow-gifts
 date: '2023-04-06'
 importance: 10
@@ -44,7 +44,7 @@ sources:
 notes: 'Investigation revealed yacht trips, private jet travel, luxury resort stays worth millions. Thomas claimed personal hospitality exemption. Led to calls for resignation and binding ethics code.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 On April 6, 2023, ProPublica published a landmark investigative report revealing that Supreme Court Justice Clarence Thomas had accepted luxury travel, gifts, and other undisclosed benefits from Republican megadonor Harlan Crow for over two decades. The investigation documented yacht trips on Crow's superyacht the Michaela Rose, private jet travel, and stays at exclusive resorts—none of which Thomas had disclosed on mandatory federal financial disclosure forms. ProPublica estimated the value of the undisclosed benefits at hundreds of thousands, and potentially millions, of dollars.
 
 Thomas initially claimed that the gifts qualified as "personal hospitality" from a close friend and therefore did not require disclosure under existing Supreme Court guidelines. He subsequently acknowledged that he had failed to properly report the gifts and attributed the failure to guidance he had received. Harlan Crow, a Dallas real estate developer, had not appeared before the Supreme Court directly, but had financial stakes in numerous cases touching on tax law, business regulation, and other matters the Court adjudicated. Crow also funded organizations involved in the Federalist Society network that had supported Thomas's appointment and conservative legal causes generally.

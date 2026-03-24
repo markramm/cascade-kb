@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-20--clearview-ai-ceo-hoan-ton-that-resigns
 date: '2025-02-20'
 title: Clearview AI CEO Hoan Ton-That Resigns Amid Facial Recognition Controversies
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Hoan Ton-That, co-founder and CEO of controversial facial recognition startup Clearview AI, resigned from his position, stating "it is time for the next chapter in my life." Ton-That said he would remain on as a board member but declined to comment on what specifically sparked his resignation. The leadership transition occurred as Clearview AI positioned itself to capitalize on new "opportunities" under the Trump administration's expansion of surveillance and immigration enforcement.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1947-03-21--executive-order-9835-federal-loyalty-program
 date: '1947-03-21'
 title: Executive Order 9835 Establishes Federal Loyalty Program - 5 Million Screened, Guilt Presumed
@@ -46,7 +46,7 @@ capture_lanes:
 - Intelligence Penetration
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Harry S. Truman signs Executive Order 9835 on March 21, 1947, nine days after announcing the Truman Doctrine, establishing the first general loyalty program in United States history designed to root out Communist influence in the federal government. The order mandates loyalty investigations of every person entering civilian employment in any executive branch department or agency, and provides for removal of "disloyal" employees. Though Truman initially resists such a program fearing threats to civil liberties, Republican congressional gains in the 1946 midterm elections and growing anti-Communist hysteria pressure him to act.

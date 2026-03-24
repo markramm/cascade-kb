@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-23--kushner-family-pardons-fifteen-pardons-one-day
 date: '2020-12-23'
 title: Trump Pardons Charles Kushner and 14 Others in Single-Day Corruption Spree
@@ -44,7 +44,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump pardoned his son-in-law Jared Kushner's father, real estate developer Charles Kushner, along with 14 other allies in a single day, demonstrating brazen nepotism and abuse of presidential clemency power. Charles Kushner had pleaded guilty in 2004 to 18 counts of illegal campaign contributions, tax evasion, and witness tampering in one of the most disturbing federal cases in recent history.
 

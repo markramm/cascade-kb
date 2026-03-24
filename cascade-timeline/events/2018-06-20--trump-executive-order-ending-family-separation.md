@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-06-20--trump-executive-order-ending-family-separation
 date: '2018-06-20'
 title: Trump Signs Executive Order "Ending" Family Separation After International Outcry
@@ -42,7 +42,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 After weeks of international condemnation and bipartisan criticism, President Trump signed an executive order on June 20, 2018 ostensibly ending the family separation policy his administration had deliberately implemented. The order came after intense public pressure, including from many Republicans, but falsely blamed Democrats for the crisis and provided no plan to reunite the 2,000+ children already separated from their parents.
 

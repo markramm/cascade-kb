@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-31--anduril-fury-first-flight
 date: '2025-10-31'
 title: Anduril's Autonomous Fighter Jet Completes First Flight Test
@@ -29,6 +29,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Anduril Industries announced its YFQ-44 'Fury' autonomous fighter jet prototype successfully completed its first live flight test, achieving the milestone in just 556 days from clean-sheet design to flight—less than two years. The Fury is Anduril's entry for the Air Force's Collaborative Combat Aircraft (CCA) program, competing to produce at least 1,000 AI-powered unmanned fighters to fly alongside manned platforms like the F-35. The rapid development timeline dramatically undercuts traditional defense contractors' decade-long aircraft development cycles, exemplifying Silicon Valley's 'move fast' approach applied to autonomous combat aircraft. The Air Force plans to decide which CCA design to send into production in fiscal year 2025, with $8.9 billion allocated through FY29. If selected for production, Anduril's Arsenal-1 facility in Ohio would manufacture the Fury at scale beginning in 2026. The first flight represents a watershed moment: a seven-year-old startup successfully developing an autonomous fighter jet that could redefine air combat through AI-powered swarm tactics and expendable combat aircraft doctrine.

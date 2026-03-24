@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-15--purdue-pharma-bankruptcy-filing-sackler-shield
 title: Purdue Pharma Files Bankruptcy to Shield Sackler Family from Civil Lawsuits
 date: '2019-09-15'
@@ -40,7 +40,7 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 15, 2019, Purdue Pharma filed for Chapter 11 bankruptcy protection after facing thousands of lawsuits from states, local governments, Native American tribes, and victims related to the opioid crisis. The bankruptcy filing was a strategic maneuver designed to shield the billionaire Sackler family from civil liability while allowing them to retain billions extracted from the company in previous years.
 

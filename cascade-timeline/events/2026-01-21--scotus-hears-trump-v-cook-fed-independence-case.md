@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-21--scotus-hears-trump-v-cook-fed-independence-case
 date: '2026-01-21'
 title: Supreme Court Hears Trump v. Cook, Justices Skeptical of Presidential Power to Fire Federal Reserve Governors
@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court heard oral arguments in Trump v. Cook, the first case in the Federal Reserve's 112-year history where a president attempted to fire a Fed governor. Trump had tried to fire Lisa Cook, the first Black woman on the Fed Board, in August 2025, claiming mortgage fraud—allegations she denied. A district court issued a preliminary injunction preventing the firing.
 

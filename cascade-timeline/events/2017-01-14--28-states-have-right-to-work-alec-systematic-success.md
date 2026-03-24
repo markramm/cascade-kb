@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-14--28-states-have-right-to-work-alec-systematic-success
 date: '2017-01-14'
 title: 28 States Adopt Right-to-Work Laws, Documenting ALEC's Systematic Labor Suppression Success
@@ -43,6 +43,6 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By early 2017, 28 U.S. states have right-to-work laws, with eight traditionally industrial and union-strong states adopting the legislation since 2010 using American Legislative Exchange Council (ALEC) model legislation: Indiana and Michigan (2012), Wisconsin (2015), West Virginia (2016), and Kentucky and Missouri (2017). ALEC, which began promoting right-to-work legislation in 1979 with little success for decades, achieves a dramatic breakthrough following the 2010 Tea Party midterm elections that gave Republicans control of 26 state legislatures. Analysis of the state legislation reveals identical or near-identical language to ALEC's "Right to Work Act" model bill across all adopting states, demonstrating this is not organic state-by-state policymaking but rather a coordinated, corporate-funded campaign. The legislative offensive is backed by a network including the U.S. Chamber of Commerce, National Association of Manufacturers, Americans for Prosperity (Koch brothers), and ALEC corporate members including McDonald's, Walmart, Bank of America, and MillerCoors. Research shows that in the five states adopting right-to-work between 2011-2017, unionization rates and wages both declined, particularly in construction, education, and public administration sectors. The coordinated campaign represents one of the most successful corporate lobbying efforts in modern American history, systematically undermining worker power and Democratic Party funding sources across multiple states simultaneously while presenting the appearance of independent state decisions.

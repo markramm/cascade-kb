@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-26--supreme-court-foreign-aid-pocket-rescission
 date: '2025-09-26'
 title: Supreme Court Allows Trump to Withhold $4B in Foreign Aid Through Illegal 'Pocket Rescission'
@@ -34,6 +34,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court voted 6-3 along ideological lines to allow Trump to freeze $4 billion in congressionally-approved foreign aid targeting UN development assistance, international peacekeeping, and humanitarian programs. Trump used a 'pocket rescission'—a Nixon-era tactic not deployed since the 1970s that the Government Accountability Office declared illegal—by notifying Congress within 45 days of the fiscal year's end (September 30), effectively running out the clock before funding expires. Justice Kagan's dissent criticized the Court for deciding in under three weeks 'with scant briefing, no oral argument, and no opportunity to deliberate.' The ruling represents a historic erosion of congressional power of the purse, allowing presidents to unilaterally nullify appropriations by exploiting procedural loopholes while the conservative Court enables executive overreach.

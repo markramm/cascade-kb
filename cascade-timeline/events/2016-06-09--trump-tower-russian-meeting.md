@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-06-09--trump-tower-russian-meeting
 date: '2016-06-09'
 importance: 6
@@ -41,6 +41,6 @@ sources:
   tier: 1
 notes: Mueller Report pages 110-123 detail meeting setup and cover-up. Email explicitly stated Russian government support, establishing precedent for accepting foreign assistance as electoral currency.
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump Jr. accepted meeting at Trump Tower after being promised "official documents and information that would incriminate Hillary" as "part of Russia and its government's support for Mr. Trump." Meeting included Russian lawyer Natalia Veselnitskaya, Rinat Akhmetshin (former Soviet counterintelligence officer), and others. Mueller team analyzed as potential campaign finance violation involving "thing of value" from foreign nationals. Trump personally dictated false statement claiming meeting was about Russian adoptions, deleting acknowledgment of political dirt.

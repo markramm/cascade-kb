@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-11-21--trump-hotels-casino-resorts-bankruptcy
 date: 2004-11-21
 title: 'Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO'
@@ -36,7 +36,7 @@ capture_lanes:
 actors:
 - Donald Trump
 ---
-type: solidarity_event
+type: timeline_event
 Trump Hotels and Casino Resorts, the publicly traded company that operated Trump's Atlantic City casino empire, filed for Chapter 11 bankruptcy protection on November 21, 2004, unable to make a $73 million interest payment due November 1. The company was drowning in approximately $1.8 billion of debt accumulated from years of overleveraged casino operations and unsuccessful expansion attempts. The bankruptcy forced Trump to relinquish his CEO title and drastically reduce his ownership stake from 47 percent to 27 percent, though he remained the largest individual shareholder and maintained his role as chairman.
 
 ## Years of Mounting Debt

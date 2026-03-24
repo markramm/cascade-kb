@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-04-20--bankruptcy-weaponized-students-corps-shield-assets
 date: 2005-04-20
 title: 'Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)'
@@ -40,7 +40,7 @@ capture_lanes:
 - Financial Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Between 2005 and 2024, the United States operated a two-tiered bankruptcy system that weaponized debt against students and working Americans while preserving bankruptcy as a strategic wealth-preservation tool for corporations and the wealthy—a defining example of 21st century American kleptocracy. The 2005 Bankruptcy Abuse Prevention and Consumer Protection Act made private student loans non-dischargeable regardless of circumstances, trapping millions in permanent debt, while corporations like Corinthian Colleges, ITT Tech, Purdue Pharma, and Trump's businesses freely used Chapter 11 to shield assets, eliminate liabilities, and protect executives and investors from consequences of fraud.
 

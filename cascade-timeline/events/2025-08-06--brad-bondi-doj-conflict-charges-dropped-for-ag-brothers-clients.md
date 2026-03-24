@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-06--brad-bondi-doj-conflict-charges-dropped-for-ag-brothers-clients
 date: '2025-08-06'
 title: DOJ Drops Charges Against AG Pam Bondi's Brother's Clients in Pattern of Conflicts
@@ -37,7 +37,7 @@ capture_lanes:
 - Kleptocratic Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By August 2025, a pattern had emerged: defendants who hired Brad Bondi—AG Pam Bondi's brother and a DC defense attorney—were seeing their federal charges evaporate.
 

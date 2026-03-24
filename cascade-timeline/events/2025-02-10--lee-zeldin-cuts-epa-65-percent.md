@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-10--lee-zeldin-cuts-epa-65-percent
 date: '2025-02-10'
 title: 'EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion Climate Grants'
@@ -48,5 +48,5 @@ patterns:
 - regulatory-dismantling
 - climate-denial
 ---
-type: solidarity_event
+type: timeline_event
 EPA Administrator Lee Zeldin announced plans to cut EPA workforce by approximately 23% and reduce the agency's budget by 65%, representing the most aggressive environmental deregulation in agency history. The cuts would return EPA staffing to Reagan-era levels, eliminating scientific research capacity and terminating $20 billion in climate grants.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1968-03-01--kerner-commission-white-racism-findings-ignored-by-lbj
 date: '1968-03-01'
 title: Kerner Commission Report Identifying White Racism as Riot Cause Rejected by LBJ and Ignored Sparking Law-and-Order Backlash
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The National Advisory Commission on Civil Disorders (Kerner Commission), chaired by Illinois Governor Otto Kerner Jr., releases its report on the causes of the 1967 urban riots that killed 43 in Detroit, 26 in Newark, and caused casualties in 23 other cities. The Commission's central finding directly challenges conventional political narratives: "Our nation is moving toward two societies, one black, one white--separate and unequal."
 

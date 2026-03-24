@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--legal-tech-platform-launch
 date: '2025-04-22'
 title: Legal Resistance Technology Platform Launch
@@ -42,5 +42,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Two major legal technology platforms launch to support pro bono litigation and legal resistance: The Pro Bono Litigation Corps by Lawyers for Good Government (L4GG) and Paladin's Pro Bono Platform. These initiatives enable attorneys and law students to coordinate strategic litigation and access critical legal support tools, with a focus on constitutional challenges, civil rights, and environmental justice. The Pro Bono Litigation Corps provides malpractice insurance, administrative support, and legal research tools to help small firms and solo practitioners take on high-impact cases, particularly in response to the challenging legal environment under the Trump administration.

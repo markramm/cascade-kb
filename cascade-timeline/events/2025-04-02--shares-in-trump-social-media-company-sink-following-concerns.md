@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-02--shares-in-trump-social-media-company-sink-following-concerns
 date: '2025-04-02'
 title: Shares in Trump social media company sink following concerns about insider selloff
@@ -50,6 +50,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Shares in Trump Media and Technology Group dropped about 5% after the company filed paperwork with the SEC that could allow Trump's trust to sell up to 115 million shares, worth more than $2.3 billion, raising concerns about a potential insider selloff

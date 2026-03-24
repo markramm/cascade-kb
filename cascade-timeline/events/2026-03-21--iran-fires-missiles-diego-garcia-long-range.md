@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-21--iran-fires-missiles-diego-garcia-long-range
 date: '2026-03-21'
 title: Iran Launches IRBMs at Diego Garcia — Missiles Fall Short but Reveal Range Far Exceeding Declared 2,000km Limit
@@ -49,7 +49,7 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 21, 2026, Iran launched two intermediate-range ballistic missiles toward Diego Garcia, a critical U.S.-UK military base in the Indian Ocean approximately 4,000 kilometers from Iranian territory. Both missiles failed to reach their target, splashing down in the Indian Ocean. Iran denied conducting the attack, but U.S. and allied intelligence confirmed the launches originated from Iranian territory.
 

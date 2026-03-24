@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-09-29--occ-fed-fdic-issue-weak-mortgage-guidance-after-industry-lobbying
 date: '2006-09-29'
 title: Federal Regulators Issue Weakened Mortgage Guidance After Year of Industry Lobbying, Ignoring Warnings
@@ -50,7 +50,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 29, 2006, the Office of the Comptroller of the Currency, Federal Reserve, Federal Deposit Insurance Corporation, Office of Thrift Supervision, and National Credit Union Administration issued final "Interagency Guidance on Nontraditional Mortgage Product Risks," published in the Federal Register on October 4, 2006. The guidance addressed risks from interest-only mortgages and payment-option adjustable-rate mortgages. However, the final rules were significantly weakened from the proposed December 2005 version, and came nearly a year too late to prevent the crisis already underway.
 

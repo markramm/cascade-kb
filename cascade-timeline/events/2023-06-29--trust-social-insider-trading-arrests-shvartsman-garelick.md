@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Michael Shvartsman
 - Gerald Shvartsman
@@ -43,5 +43,5 @@ tags:
 - trump-media
 title: 'FBI Arrests Three in "Trust Social" Investigation for DWAC Insider Trading'
 ---
-type: solidarity_event
+type: timeline_event
 FBI and HSI agents arrested Michael Shvartsman, Gerald Shvartsman, and Bruce Garelick on June 29, 2023, for an insider trading scheme related to Digital World Acquisition Corp (DWAC), which was set to merge with Trump Media & Technology Group. The defendants allegedly made over $22 million in illegal profits by trading DWAC securities based on confidential, non-public information. Garelick, who was on DWAC's board, shared merger details with the Shvartsman brothers, who then traded on this information and spread it to their associates. The U.S. Attorney's Office for the Southern District of New York charged the trio with multiple counts of securities fraud and conspiracy. By April 2024, Michael and Gerald Shvartsman had pleaded guilty, with sentencing expected to include prison terms.

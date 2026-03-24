@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-01-01--noem-misuses-state-aircraft-political-events
 date: '2019-01-01'
 title: Noem uses state aircraft for political events violating state law
@@ -40,6 +40,6 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Governor Kristi Noem used state airplanes to travel to political events hosted by organizations including the National Rifle Association and Republican Jewish Coalition, violating South Dakota law that bars state aircraft from being used for anything other than state business. Democratic lawmakers sought investigation, but the ethics board ultimately dismissed the complaint due to unclear legal definitions of 'state business'.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-06--biden-dpa-clean-energy-manufacturing-solar
 date: '2022-06-06'
 title: Biden Invokes Defense Production Act for Solar Panels, Heat Pumps, and Grid Components
@@ -34,7 +34,7 @@ capture_lanes:
 - Executive Power
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Biden invoked the Defense Production Act to accelerate domestic manufacturing across five categories of clean energy technology: solar panel components, building insulation, heat pumps, grid-scale power equipment including transformers and high-voltage transmission components, and hydrogen fuel produced from clean energy sources. The executive action framed the transition away from fossil fuels as a matter of national defense, deploying Cold War-era industrial mobilization authority to address the climate crisis and reduce U.S. dependence on foreign energy supply chains, particularly Chinese-manufactured solar panels that dominated the global market.
 

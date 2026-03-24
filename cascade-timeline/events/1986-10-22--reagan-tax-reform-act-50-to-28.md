@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-10-22--reagan-tax-reform-act-50-to-28
 date: '1986-10-22'
 title: 'Reagan Signs Tax Reform Act of 1986 - Top Individual Rate Cut from 50% to 28%, Corporate Rate Slashed from 46% to 34%, Tax Brackets Reduced from 16 to 2'
@@ -74,5 +74,5 @@ sources:
   verified: true
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 On October 22, 1986, President Ronald Reagan signed the Tax Reform Act of 1986 (TRA86) into law, implementing the most dramatic restructuring of the federal tax code since World War II. The legislation reduced the number of individual income tax brackets from 16 to just 2, slashing the top marginal rate from 50% to 28% (with a 33% rate for some intermediate incomes). The top corporate marginal rate declined from 46% to 34%, though rates of 15% and 25% applied to lower income levels. For the first time in modern history, this decline lowered the top individual rate below the top corporate tax rate, creating incentives for tax gaming. TRA86 raised capital gains taxes from 20% to 28% by taxing them as ordinary income, but this was more than offset for wealthy taxpayers by the dramatic reduction in top rates. The Act broadened the tax base by eliminating many tax deductions, including deductions for rental housing, some individual retirement account contributions, and depreciation benefits. It eliminated the investment tax credit, lengthened depreciation lifetimes for many assets, and adopted various base-broadeners that more than compensated for corporate rate reductions. The legislation expanded the earned income tax credit, standard deduction, and personal exemption, removing approximately six million lower-income Americans from the tax base—a progressive element that obscured the massive benefits flowing to the wealthy. TRA86 was sold as 'revenue neutral' tax reform, but this framing concealed its fundamental character as a wealth transfer mechanism: while the working class received modest relief through higher standard deductions, the top 1% received enormous rate reductions that dramatically increased their after-tax income. The reduction from 50% to 28% represented a 44% cut in the top marginal rate, delivering unprecedented tax relief to the wealthiest Americans and establishing the principle that top rates in the high 20s or low 30s were economically 'optimal'—a principle that would constrain progressive tax policy for decades. TRA86 represented a watershed compromise between those seeking a broader tax base with a more comprehensive definition of income and those wanting to reduce high marginal rates they claimed depressed economic growth, but in practice it cemented supply-side ideology into the structure of American taxation.

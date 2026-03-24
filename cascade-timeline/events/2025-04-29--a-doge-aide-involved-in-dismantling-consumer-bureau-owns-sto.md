@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -50,5 +50,5 @@ tags:
 - conflict-of-interest
 title: DOGE Aide Dismantling CFPB Owns Substantial Stock in Regulated Companies During Mass Layoffs
 ---
-type: solidarity_event
+type: timeline_event
 Gavin Kliger, a Trump Administration Department of Government Efficiency aide, helped orchestrate massive layoffs at the Consumer Financial Protection Bureau (CFPB) while holding significant stock in companies the agency regulates. Kliger managed approximately 90% of over 1,400 employee terminations, and owned stock worth up to $715,000 in companies including Apple, Tesla, Alphabet, and cryptocurrencies - many of which are on the CFPB's prohibited holdings list.

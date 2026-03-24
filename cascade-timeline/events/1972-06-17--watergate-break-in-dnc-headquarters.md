@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-06-17--watergate-break-in-dnc-headquarters
 date: '1972-06-17'
 title: Five Burglars Arrested Breaking into Democratic National Committee Headquarters at Watergate Complex
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In the early morning hours of June 17, 1972, Washington D.C. police arrested five men inside the Democratic National Committee headquarters at the Watergate office complex. Security guard Frank Wills had discovered tape over door locks and called police, who caught the burglars preparing to install listening devices. Among those arrested was James W. McCord Jr., security chief for President Nixon's Committee to Re-elect the President (mockingly known as CREEP). At their arraignment, Washington Post reporter Bob Woodward overheard McCord mention "CIA" in connection with his occupation—the first hint that this was no ordinary burglary.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2006-07-05--ken-lay-dies-before-sentencing-conviction-vacated
 date: 2006-07-05
@@ -33,7 +33,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 5, 2006, Kenneth Lay died of a heart attack at his vacation home in Aspen, Colorado, just six weeks after being convicted on all six counts of fraud and conspiracy in the Enron scandal. Lay, 64, was pronounced dead at Aspen Valley Hospital at 3:11 a.m. A preliminary autopsy reported he died of a heart attack caused by coronary artery disease.
 

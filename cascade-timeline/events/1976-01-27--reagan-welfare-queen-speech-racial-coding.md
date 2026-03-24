@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1976-01-27--reagan-welfare-queen-speech-racial-coding
 date: '1976-01-27'
 title: 'Reagan Launches ''Welfare Queen'' Attack Using Racially Coded Chicago Fraud Story'
@@ -35,5 +35,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 During his 1976 presidential campaign, Ronald Reagan regularly told the story of a Chicago 'welfare queen' to attack social programs using racially coded language. At a campaign speech in Gilford, New Hampshire, Reagan declared: 'In Chicago, they found a woman who holds the record. She used 80 names, 30 addresses [and] 15 telephone numbers to collect food stamps, social security [and] veterans benefits for four nonexistent deceased veterans husbands, as well as welfare. Her tax-free cash income alone has been running $150,000 a year.' While Reagan never identified the woman—Linda Taylor—by name or race, the racially coded message was clear to white audiences. The actual fraud was estimated at $8,000, not $150,000. Political scientist Martin Gilens documented that by 1973, magazine pictures depicting welfare recipients featured African Americans 75% of the time, despite Black Americans comprising only 35% of welfare recipients. Reagan's welfare queen narrative drew on slavery-era stereotypes about Black women and mobilized white supremacy against social programs. The phrase became a powerful political weapon that Reagan and other Republicans would use for decades, helping make austerity politically palatable by racializing poverty. The narrative supplied moral rationale for restrictive welfare reforms culminating in the 1996 TANF legislation that gutted the social safety net.

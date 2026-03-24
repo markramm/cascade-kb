@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-01--mvm-hotel-detention-network
 date: '2020-04-01'
 importance: 9
@@ -44,6 +44,6 @@ sources:
 notes: MVM created a parallel detention system outside standard oversight, using commercial hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office building for three weeks despite lacking proper zoning or childcare licenses. Attorneys later filed suit against MVM for enforced disappearance, torture, and child abduction related to family separations. The use of hotels allowed ICE to bypass standard detention protocols and congressional oversight mechanisms.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Private security contractor MVM Inc. detained migrant children in Hampton Inn hotels across Arizona and Texas border cities before expelling them under Title 42. The company held at least 29 children in hotels in April 2020, increasing to 80 by May, with children as young as 1 year old detained without standard child welfare protections. MVM also used a Phoenix office building not zoned for human occupancy where children bathed in sinks. Since FY2020, MVM has secured over $1.3 billion in ICE contracts, primarily for transporting immigrant children and families, operating unmarked white vans between hotels, airports, and detention centers.

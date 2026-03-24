@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-21--biden-invokes-dpa-covid-vaccine-production
 date: '2021-01-21'
 title: Biden Invokes Defense Production Act for Vaccine Production on First Full Day in Office
@@ -33,7 +33,7 @@ capture_lanes:
 - Executive Power
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 21, 2021, his first full day in office, President Joe Biden signed a package of ten executive orders aimed at accelerating the federal COVID-19 response, with the invocation of the Defense Production Act as its centerpiece. The DPA orders directed federal agencies to use the act's full authorities to expand production of vaccines, testing supplies, personal protective equipment, and other critical materials. Jeff Zients, appointed as White House COVID-19 Response Coordinator, was tasked with overseeing a centralized, government-directed supply chain mobilization that stood in sharp contrast to the previous administration's fragmented and voluntary approach. Biden set a goal of 100 million vaccinations in his first 100 days, a target that required not just vaccine doses but also the syringes, vials, needles, and ultra-cold storage equipment necessary to deliver them.
 

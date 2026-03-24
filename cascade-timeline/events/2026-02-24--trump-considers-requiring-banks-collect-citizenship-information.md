@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-24--trump-considers-requiring-banks-collect-citizenship-information
 date: '2026-02-24'
 title: 'Trump Administration Considers Requiring Banks to Collect Customer Citizenship Information'
@@ -35,7 +35,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Immigration System Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration considered an executive order requiring U.S. banks to collect citizenship information from customers, potentially demanding passports or other proof of citizenship from account holders. The proposal would transform the banking system into an immigration enforcement tool, enabling the government to identify and target noncitizen account holders for deportation. Banking industry groups warned the requirement would be enormously costly to implement, drive millions of people out of the regulated financial system into unregulated alternatives, and create massive privacy and discrimination concerns.
 
 The policy would effectively conscript private financial institutions into serving as immigration enforcement checkpoints, requiring them to verify and report the citizenship status of their customers to the federal government. This represents a fundamental expansion of the surveillance state into the financial lives of every person in the country, as banks would need to collect and store citizenship documentation for all customers, not just those suspected of being undocumented.

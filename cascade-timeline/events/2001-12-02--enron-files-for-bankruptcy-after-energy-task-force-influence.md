@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence
 date: '2001-12-02'
 title: Enron Bankruptcy After Energy Task Force Meetings
@@ -37,5 +37,5 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Enron filed for bankruptcy after a series of meetings between its executives, Vice President Dick Cheney, and the National Energy Policy Development Group. The bankruptcy exposed massive corporate fraud, with the company having claimed $101 billion in revenues but ultimately collapsing due to systematic financial misrepresentation and illegal accounting practices.

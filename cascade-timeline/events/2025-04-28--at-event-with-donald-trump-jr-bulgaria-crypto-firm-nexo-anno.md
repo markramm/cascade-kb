@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-28--at-event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-anno
 date: '2025-04-28'
 title: Nexo Capital Announces U.S. Market Re-entry at Conference with Donald Trump Jr.
@@ -44,6 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Nexo Capital announced its return to the U.S. market during a conference in Bulgaria, featuring Donald Trump Jr. as a keynote speaker. The company, which previously paid a $45 million regulatory settlement, cited 'productive' discussions with regulators and optimism about the current cryptocurrency regulatory environment.

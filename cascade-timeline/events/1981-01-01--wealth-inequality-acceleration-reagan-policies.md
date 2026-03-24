@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-01--wealth-inequality-acceleration-reagan-policies
 date: '1981-01-01'
 status: confirmed
@@ -47,7 +47,7 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Income and wealth inequality surge during the Reagan presidency, with the top 1% of earners capturing an increasingly disproportionate share of national income while middle and working-class incomes stagnate. The top 1% income share rises from 9.0% in 1979 to 13.8% by 1986—a 53% increase in less than a decade. The Gini coefficient, a standard measure of inequality, reaches 0.450 among Black Americans and 0.382 among white Americans by the late 1980s, representing a rapid acceleration of inequality that had grown only slowly during the 1970s. Tax cuts for the wealthy combined with attacks on labor unions and social program cutbacks systematically redistribute wealth upward.
 

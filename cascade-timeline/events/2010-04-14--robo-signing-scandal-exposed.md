@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-04-14--robo-signing-scandal-exposed
 date: '2010-04-14'
 importance: 8
@@ -36,6 +36,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Investigation reveals major banks systematically falsified foreclosure documents through 'robo-signing', affecting 3.8 million homes. Employees at major lenders signed thousands of foreclosure affidavits without verifying information, creating a massive documentation fraud that undermined legal foreclosure processes.

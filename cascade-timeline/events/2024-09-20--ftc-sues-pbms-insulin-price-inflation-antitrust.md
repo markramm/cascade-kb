@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-20--ftc-sues-pbms-insulin-price-inflation-antitrust
 date: '2024-09-20'
 title: FTC Sues Big Three PBMs for Artificially Inflating Insulin Prices Through Rebate Schemes
@@ -45,6 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Trade Commission filed an administrative antitrust complaint against the three largest pharmacy benefit managers—CVS Caremark, Express Scripts (Cigna), and OptumRx (UnitedHealth)—and their affiliated group purchasing organizations, charging them with anticompetitive and unfair practices that artificially inflated insulin list prices. The FTC alleged that these PBMs, which control approximately 80% of all U.S. prescriptions, created a 'perverse drug rebate system that prioritizes high rebates from drug manufacturers, leading to artificially inflated insulin list prices.' The complaint charges that even when lower-priced insulins became available that could have been more affordable for vulnerable patients, the PBMs systematically excluded them in favor of high-list-price, high-rebate insulin products to maximize their own profits. The suit was filed under Section 5 of the FTC Act charging three counts of 'unfair methods of competition,' approved 3-0 by the Commission's Democratic majority (Republican commissioners recused). The FTC's Bureau of Competition warned that drug manufacturers Eli Lilly, Novo Nordisk, and Sanofi 'should be on notice' for their role in driving up insulin prices and may face future enforcement. Roughly 8 million Americans with diabetes rely on insulin to survive, and many have been forced to ration the medication due to prices inflated by the PBM rebate game. The lawsuit represented the culmination of the FTC's two-year investigation into PBM market manipulation.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-09--large-investors-increased-stake-in-trump-media-by-hundreds-o
 date: '2025-05-09'
 title: Large investors increased stake in Trump Media by hundreds of millions
@@ -50,5 +50,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president

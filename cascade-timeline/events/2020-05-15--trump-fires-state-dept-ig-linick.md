@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-05-15--trump-fires-state-dept-ig-linick
 date: '2020-05-15'
 title: Trump Dismisses State Department Inspector General Steve Linick
@@ -36,5 +36,5 @@ sources:
 capture_lanes:
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump fired State Department Inspector General Steve Linick on May 15, 2020, amid an ongoing investigation into Secretary of State Mike Pompeo. The dismissal was part of a broader pattern of removing government watchdogs, with House Democrats suggesting the firing was an act of retaliation.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1941-05-06--fcc-limits-tv-ownership-three-stations
 date: '1941-05-06'
 title: FCC Establishes Television Ownership Limit of Three Stations to Prevent Media Monopoly Concentration
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Communications Commission imposes the first national ownership restrictions for television stations at the dawn of the television industry, limiting any single entity from owning, operating, or controlling more than three television stations nationwide. The rule implements the FCC's longstanding policy of "diversification" to prevent monopoly concentration and preserve competition in the broadcast media, based on Congressional mandate to prevent communications monopolies and ensure diverse viewpoints reach the American public.
 

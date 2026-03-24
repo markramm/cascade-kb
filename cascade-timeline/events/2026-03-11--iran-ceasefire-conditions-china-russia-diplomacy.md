@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--iran-ceasefire-conditions-china-russia-diplomacy
 date: '2026-03-11'
 title: Iran Sets Ceasefire Conditions as China and Russia Launch Diplomatic Intervention
@@ -56,7 +56,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, Iran's Deputy Foreign Minister Kazem Gharibabadi publicly confirmed that China, Russia, and France had all reached out to Tehran to discuss the possibility of a ceasefire, marking the first significant multilateral diplomatic intervention since Operation Epic Fury began on February 28. Iranian President Masoud Pezeshkian simultaneously outlined Iran's official ceasefire conditions, demanding that Israel and the United States accept full accountability for initiating hostilities, pay comprehensive reparations to Iran, and provide firm international guarantees -- backed by third-party states -- that neither country would strike Iran again in the future.
 

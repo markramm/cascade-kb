@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-09-08--fifth-circuit-biden-first-amendment-ruling
 date: '2023-09-08'
 importance: 8
@@ -47,6 +47,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Fifth Circuit Court of Appeals ruled that White House officials, the Surgeon General, CDC, and FBI 'likely coerced or significantly encouraged' social media platforms to censor content, constituting state action in violation of the First Amendment. The court found evidence of a 'years-long pressure campaign' where officials threatened platforms with regulatory action for content decisions. District Judge Doughty found the White House engaged in 'unrelenting pressure' at least 22 times and that 'virtually all of the free speech suppressed was conservative free speech.' The court also noted FBI's troubling failure to alert platforms that the Hunter Biden laptop story was real after suggesting it was Russian disinformation. The Supreme Court later dismissed the case on standing grounds without ruling on the merits.

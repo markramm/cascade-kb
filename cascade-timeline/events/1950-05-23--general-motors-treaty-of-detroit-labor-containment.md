@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1950-05-23--general-motors-treaty-of-detroit-labor-containment
 date: '1950-05-23'
 title: Treaty of Detroit - GM-UAW Contract Establishes Labor Containment Model
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 General Motors and the United Auto Workers sign a landmark five-year contract on May 23, 1950, that Fortune magazine christens the "Treaty of Detroit." The agreement provides unprecedented wage increases and benefits but requires the UAW to abandon demands for a voice in corporate decision-making, establishing a model of labor containment that trades economic gains for management prerogatives.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-06-01--fed-raises-rates-525-percent-triggers-subprime-payment-shock
 date: '2006-06-01'
 title: Federal Reserve Raises Interest Rates to 5.25%, Triggering Payment Shock for Subprime Borrowers
@@ -31,7 +31,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In June 2006, new Federal Reserve Chair Ben Bernanke completed a series of rate increases that brought the federal funds rate to 5.25 percent, up from 1 percent in 2004. This marked the fourth rate increase of 2006 and the culmination of 17 consecutive rate hikes since June 2004. The increases were designed to cool an overheating economy and combat inflation, but they had catastrophic consequences for millions of subprime borrowers whose adjustable-rate mortgages were tied to the federal funds rate.
 

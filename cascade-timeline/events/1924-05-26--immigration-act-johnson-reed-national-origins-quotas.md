@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1924-05-26--immigration-act-johnson-reed-national-origins-quotas
 date: '1924-05-26'
 title: Immigration Act of 1924 Imposes Racist National Origins Quotas Based on Eugenics
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Calvin Coolidge signs the Immigration Act of 1924 (Johnson-Reed Act), establishing the first permanent comprehensive restrictions on immigration in American history through a national origins quota system explicitly designed to preserve white racial dominance. The law reduces annual immigration from 3% of each nationality's 1910 population to 2% of their 1890 census count—a deliberate choice to maximize Northern and Western European immigration while minimizing Southern and Eastern European arrivals. The act completely bans immigration from Asia and caps total annual immigration at 165,000, an 80% reduction from pre-1914 levels.
 

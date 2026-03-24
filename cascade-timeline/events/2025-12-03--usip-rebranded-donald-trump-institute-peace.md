@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--usip-rebranded-donald-trump-institute-peace
 date: '2025-12-03'
 title: U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover
@@ -43,7 +43,7 @@ capture_lanes:
 - Environmental Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover
 

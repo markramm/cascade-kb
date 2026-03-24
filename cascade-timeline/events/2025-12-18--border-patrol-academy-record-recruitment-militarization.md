@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-18--border-patrol-academy-record-recruitment-militarization
 date: '2025-12-18'
 importance: 8
@@ -46,7 +46,7 @@ sources:
 notes: Border Patrol Academy in Artesia, New Mexico reached 1,100 trainees in December 2025—highest enrollment since 2009. CBP planning to hire 3,000 additional agents on top of 19,000+ already serving. Training curriculum restored aggressive tactics including vehicle pursuit training and enhanced firearms instruction with red dot sights. Recruitment surge driven by $60,000 bonuses for remote location assignments and applications rising to 103,414 in FY2025. Militarization of training coincides with zero-release policy and aggressive enforcement operations. 35 Border Patrol Agent classes and 12 Processing Coordinator classes scheduled for FY2025.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Border Patrol Academy in Artesia, New Mexico, reached enrollment of approximately 1,100 trainees in December 2025—the highest level since 2009—as U.S. Customs and Border Protection pursues plans to hire roughly 3,000 additional Border Patrol agents on top of the more than 19,000 already serving nationwide, representing a massive expansion of border enforcement capacity during the Trump administration's first year in office. The enrollment surge coincides with significant curriculum changes that restore and expand "more assertive tactics" including vehicle pursuit training that had been de-emphasized in previous years, enhanced firearms instruction using miniature red dot sights that improve target acquisition, and training approaches that treat border enforcement as militarized operations requiring aggressive tactics rather than as law enforcement requiring de-escalation and community engagement. The Border Patrol's unprecedented recruitment success reflects $60,000 bonuses offered to new hires who complete academy training and accept assignments in remote border locations, massive application volumes reaching 103,414 in fiscal year 2025, and apparent enthusiasm among applicants for serving in a Trump administration that has made aggressive immigration enforcement and mass deportation central policy priorities.
 

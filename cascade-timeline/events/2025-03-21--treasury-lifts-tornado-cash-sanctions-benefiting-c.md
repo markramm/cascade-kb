@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-21--treasury-lifts-tornado-cash-sanctions-benefiting-c
 date: '2025-03-21'
 importance: 7
@@ -34,7 +34,7 @@ sources:
 notes: Benefits illicit finance networks and reduces crypto transaction transparency
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Treasury Department lifted sanctions on Tornado Cash, a cryptocurrency mixing service, on March 21, 2025, reversing a Biden-era designation that had placed the protocol on the Office of Foreign Assets Control (OFAC) sanctions list in August 2022. Treasury had originally sanctioned Tornado Cash after finding it had laundered over $7 billion in cryptocurrency since 2019, including hundreds of millions stolen by North Korea's Lazarus Group hacker collective. The sanctions had prohibited U.S. persons from using the service and had made its co-founders subject to criminal prosecution.
 

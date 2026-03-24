@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-24--indicted-bitcoin-jesus-pays-roger-stone-600-000-to-lobby-for
 date: '2025-04-24'
 title: Indicted 'Bitcoin Jesus' Pays Roger Stone $600,000 to Lobby Against Tax Charges
@@ -44,6 +44,6 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking. Ver seeks to leverage political connections to challenge federal tax charges.
 ---
-type: solidarity_event
+type: timeline_event
 
 Roger Ver, the cryptocurrency entrepreneur known as 'Bitcoin Jesus', paid Roger Stone $600,000 to lobby against federal tax evasion charges after being indicted for hiding $48 million in crypto assets. Stone filed lobbying disclosures targeting the U.S. 'exit tax' provisions that form the basis of Ver's criminal charges.

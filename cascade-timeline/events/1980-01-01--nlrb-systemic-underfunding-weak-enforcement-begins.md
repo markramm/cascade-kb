@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-01-01--nlrb-systemic-underfunding-weak-enforcement-begins
 date: '1980-01-01'
 title: NLRB Systemic Underfunding and Weak Enforcement Enables Corporate Union-Busting
@@ -41,7 +41,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Beginning in the 1980s, systematic Congressional underfunding and weak statutory penalties transform the National Labor Relations Board into an ineffective enforcement mechanism incapable of protecting workers' organizing rights, enabling corporate union-busting with impunity. Between 2012-2022 alone, NLRB field staff is reduced by over 40%, while the agency lacks authority to impose monetary fines for labor law violations—only "make-whole" remedies like back pay for illegally fired workers and notices promising not to violate the law again.
 

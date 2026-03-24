@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-07--gsa-aws-onegov
 title: GSA enters $1B OneGov cloud agreement with AWS
 date: '2025-08-07'
@@ -119,7 +119,7 @@ sources:
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The General Services Administration announced a $1 billion 'OneGov' cloud agreement with Amazon Web Services, finalizing the deal in August 2025. This agreement centralizes government cloud services under Amazon, providing up to $1 billion in infrastructure credits and modernization support for federal civilian agencies through December 31, 2028. The contract raises concerns about vendor concentration, competitive fairness, and potential conflicts of interest in government cloud infrastructure.

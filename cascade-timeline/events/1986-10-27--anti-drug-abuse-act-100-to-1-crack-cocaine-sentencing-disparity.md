@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1986-10-27'
 title: Anti-Drug Abuse Act Establishes 100-to-1 Crack-Cocaine Sentencing Disparity
 importance: 9
@@ -41,7 +41,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Anti-Drug Abuse Act of 1986, establishing a 100-to-1 sentencing disparity between crack cocaine and powder cocaine offenses—imposing the same penalties for possession of 5 grams of crack cocaine as for 500 grams of powder cocaine. The legislation provided mandatory minimum sentences: five years for crimes involving 5 grams of crack or 500 grams of powder, and ten years for 50 grams of crack or 5,000 grams of powder.
 

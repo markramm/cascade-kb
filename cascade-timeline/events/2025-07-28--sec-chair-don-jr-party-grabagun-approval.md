@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-28--sec-chair-don-jr-party-grabagun-approval
 date: '2025-07-28'
 title: 'SEC chair attended Don Jr.''s party before SEC granted Don Jr.-backed gun company approval to go public'
@@ -47,5 +47,5 @@ sources:
 notes: 'Event demonstrates potential conflict of interest and regulatory capture mechanism in the Trump administration''s second term'
 connections: []
 ---
-type: solidarity_event
+type: timeline_event
 Paul Atkins, serving as SEC chair in the second Trump administration, attended the launch party for Trump's Georgetown MAGA private member's club before approving a Donald Trump Jr.-backed company, GrabAGun, to trade publicly, raising concerns about potential regulatory capture.

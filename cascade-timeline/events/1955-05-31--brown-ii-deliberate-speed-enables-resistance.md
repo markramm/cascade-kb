@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1955-05-31--brown-ii-deliberate-speed-enables-resistance
 date: '1955-05-31'
 title: Brown II Orders Desegregation with "All Deliberate Speed," Enabling Decade of Resistance
@@ -41,7 +41,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 31, 1955, one year after declaring school segregation unconstitutional in Brown v. Board of Education, the Supreme Court issued Brown II, its implementation ruling. Rather than setting firm deadlines or providing specific remedies, the Court ordered desegregation proceed "with all deliberate speed" and delegated enforcement to local federal district courts. This vague mandate became the legal loophole through which Southern states sustained segregation for more than a decade.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-26--ice-arrests-increase-627-in-first-month-under-trum
 date: '2025-02-26'
 title: ICE arrests increase 627% in first month under Trump vs Biden era
@@ -47,6 +47,6 @@ _merge_timestamp: '2025-09-05T23:46:55.903457'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Under President Trump, ICE made over 20,000 arrests in a single month - a 627% increase compared to just 33,000 at-large arrests for all of last year under Biden. This dramatic escalation marks the beginning of the administration's mass deportation campaign.

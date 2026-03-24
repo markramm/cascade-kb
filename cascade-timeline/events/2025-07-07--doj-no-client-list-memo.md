@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-07--doj-no-client-list-memo
 date: '2025-07-07'
 importance: 6
@@ -33,6 +33,6 @@ sources:
   tier: 1
 notes: This memo represented the administration's complete reversal on transparency.
 ---
-type: solidarity_event
+type: timeline_event
 
 The DOJ released a two-page memo on July 7, 2025, declaring "no incriminating 'client list'" existed, that Epstein died by suicide, and that "no further disclosure would be appropriate or warranted." This directly contradicted Attorney General Bondi's February statement about having a "client list" on her desk.

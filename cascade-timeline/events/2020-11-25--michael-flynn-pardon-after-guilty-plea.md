@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-11-25--michael-flynn-pardon-after-guilty-plea
 date: '2020-11-25'
 title: Trump Pardons Michael Flynn After Guilty Plea and Sidney Powell Conspiracy Theories
@@ -43,7 +43,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued a full pardon to his first National Security Adviser, Michael Flynn, who had pleaded guilty twice to lying to the FBI about his contacts with Russian Ambassador Sergey Kislyak during the 2016 transition. The pardon came after Flynn, represented by conspiracy theorist attorney Sidney Powell, attempted to withdraw his guilty plea and transform his case into a political circus promoting baseless election fraud theories.
 

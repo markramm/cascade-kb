@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-06-27--russian-illegals-program-arrests
 date: '2010-06-27'
 importance: 5
@@ -40,6 +40,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice charged 11 individuals on June 27, 2010, for acting as unregistered agents of the Russian Federation. Ten pleaded guilty on July 8, 2010, and were exchanged in a U.S.–Russia spy swap. The case, known as "Operation Ghost Stories," involved covert communications and deep-cover identities. The spy ring operated in major U.S. cities, with Anna Chapman being the most prominent member, attempting to establish networks for potential intelligence gathering.

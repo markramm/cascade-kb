@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-01-10--ring-employees-caught-watching-customer-camera-feeds
 date: 2019-01-10
 title: The Intercept reveals Ring employees in Ukraine had unfettered access to customer video feeds
@@ -44,7 +44,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Intercept published an investigation on January 10, 2019 revealing that beginning in 2016, Ring provided its Ukraine-based research and development team with virtually unfettered access to a folder on Amazon's S3 cloud storage service containing every video created by every Ring camera around the world. The investigation exposed that Ring employees—including engineers in both the U.S. and Ukraine—could access customer video feeds using only an email address, with video files left unencrypted because Ring leadership believed "encryption would make the company less valuable." The revelations demonstrated severe privacy violations at the heart of Amazon's home surveillance network and sparked Congressional investigations into Ring's security practices.
 

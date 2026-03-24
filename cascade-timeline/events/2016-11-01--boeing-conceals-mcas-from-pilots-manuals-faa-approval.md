@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-11-01--boeing-conceals-mcas-from-pilots-manuals-faa-approval
 date: '2016-11-01'
 title: Boeing Obtains FAA Approval to Conceal MCAS System from Pilot Manuals and Training
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Boeing obtained FAA approval to exclude the MCAS (Maneuvering Characteristics Augmentation System) from pilot manuals, flight crew operations manuals, and all pilot training materials for the 737 MAX. This deliberate concealment meant that pilots flying the aircraft had no knowledge that a powerful automated system could repeatedly override their control inputs and force the nose down based on a single sensor reading. The decision to hide MCAS was driven entirely by Boeing's contractual requirement to minimize training costs for airline customers.
 
 Boeing had negotiated agreements with major customers, particularly Southwest Airlines, that included million-dollar-per-aircraft penalties if the FAA required simulator training for the MAX. By concealing MCAS and characterizing the MAX as essentially identical to previous 737 models, Boeing could ensure pilots needed only minimal computer-based "differences training" rather than expensive simulator sessions. This financial incentive drove the company to hide safety-critical information from the people whose lives would depend on knowing it.

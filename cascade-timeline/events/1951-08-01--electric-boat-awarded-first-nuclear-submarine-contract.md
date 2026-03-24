@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1951-08-01--electric-boat-awarded-first-nuclear-submarine-contract
 date: '1951-08-01'
 title: Electric Boat Awarded Contract for First Nuclear Submarine USS Nautilus, Launching General Dynamics
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Navy awards Electric Boat the contract to design and build the world's first nuclear-powered submarine, USS Nautilus (SSN-571), marking a pivotal moment in the military-industrial complex's evolution. The contract launch demonstrates how Cold War nuclear competition drives massive defense expenditures into private contractors for cutting-edge weapons systems. Electric Boat, a submarine manufacturer dating to the early 20th century, becomes the centerpiece of a new defense conglomerate when CEO John Jay Hopkins reorganizes it as General Dynamics Corporation in 1952. Hopkins, a strong advocate of nuclear power and its military applications, positions General Dynamics to dominate nuclear submarine production for decades, establishing the template for specialized defense contractors with monopolistic relationships to specific weapons systems.
 

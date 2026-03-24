@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--nso-group-founding-pegasus-spyware-israel
 date: '2010-01-01'
 title: NSO Group Founded in Israel to Develop Pegasus Spyware
@@ -38,7 +38,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 NSO Group Technologies is founded in Israel by three former members of Unit 8200 (Israel's signals intelligence unit): Niv Karmi, Omri Lavie, and Shalev Hulio. The company name "NSO" is derived from the first names of the three founders. Niv Karmi departs the company just one month after its inception, leaving Hulio and Lavie to develop what would become the world's most notorious commercial spyware: Pegasus.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-10--ice-detains-five-native-americans-minneapolis-racial-profiling
 date: '2026-01-10'
 title: ICE Detains Five Native Americans in Minneapolis Based on Appearance, Tribal Leaders Condemn Racial Profiling
@@ -42,7 +42,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 ICE agents detained at least five Native Americans in Minneapolis during Operation Metro Surge, with tribal leaders and state officials condemning the detentions as racial profiling. Four citizens of the Oglala Sioux Tribe were detained under a bridge near the Little Earth housing complex on Friday, January 10. Tribal President Frank Star Comes Out confirmed the men were homeless. As of January 13, their whereabouts remained unknown to the community.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-22--national-guard-authority-constitutional-test
 date: '2025-03-22'
 title: Trump's National Guard Federalization Triggers Constitutional Crisis in California
@@ -51,6 +51,6 @@ connections:
 - State sovereignty disputes
 notes: First major test of National Guard federalization authority since 1965, highlighting potential constitutional crisis mechanisms.
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump attempted to federalize the California National Guard without Governor Newsom's consent, sparking a major constitutional showdown. A federal court issued a temporary restraining order, blocking the deployment and challenging the president's authority under Title 10, marking a critical test of federal-state military control.

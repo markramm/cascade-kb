@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-07--trump-air-force-nominee-arranged-satellite-contract-manner-t
 date: '2025-02-07'
 title: 'Trump Air Force nominee arranged satellite contract in manner that favored Musk''s SpaceX'
@@ -51,7 +51,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 Troy Meink, Trump's Air Force Secretary nominee, allegedly structured a multibillion-dollar
 National Reconnaissance Office spy satellite contract to favor Musk's SpaceX, according
 to Reuters investigation. Democratic senators Warren and Duckworth raised concerns

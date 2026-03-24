@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-12-13--mckinsey-opioid-settlement-650-million
 date: '2024-12-13'
 title: McKinsey Agrees to $650 Million Criminal Settlement for Role in 'Turbocharging' Opioid Sales for Purdue Pharma
@@ -41,7 +41,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 McKinsey & Company agrees to pay $650 million to settle federal criminal and civil investigations into its role in helping Purdue Pharma 'turbocharge' sales of OxyContin, the highly addictive opioid painkiller at the center of America's overdose epidemic. This marks the first time a management consulting firm has been held criminally responsible for advice resulting in the commission of a crime by a client.
 

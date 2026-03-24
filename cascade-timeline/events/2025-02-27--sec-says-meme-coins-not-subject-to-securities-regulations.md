@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-27--sec-says-meme-coins-not-subject-to-securities-regulations
 date: '2025-02-27'
 title: SEC Declares Meme Coins Not Subject to Securities Regulations
@@ -42,6 +42,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The SEC's Division of Corporation Finance announced that meme coins, including Trump's $TRUMP token, are classified as 'collectibles' and not subject to federal securities laws, creating a significant regulatory precedent in cryptocurrency classification.

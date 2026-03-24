@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-25--trump-attempts-to-fire-fed-governor-lisa-cook
 date: '2025-08-25'
 title: Trump Attempts First-Ever Firing of Federal Reserve Governor, Lisa Cook Sues
@@ -28,6 +28,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump announced he was firing Federal Reserve Governor Lisa Cook over allegations of mortgage fraud made by Bill Pulte, marking the first time in the Fed's 112-year history a president attempted to fire a governor. Cook sued Trump, the Board of Governors, and Jerome Powell, arguing Trump lacked authority to fire her under the Federal Reserve Act's "for cause" provision. D.C. District Judge Jia Cobb issued a preliminary injunction preventing Cook's removal, finding she made "a strong showing that her purported removal was done in violation" of the law. The case, which the Supreme Court agreed to hear with oral arguments in January 2026, could determine whether presidents can fire Fed governors at will, potentially ending Fed independence from political pressure.

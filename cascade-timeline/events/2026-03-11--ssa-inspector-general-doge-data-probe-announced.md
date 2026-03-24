@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--ssa-inspector-general-doge-data-probe-announced
 date: '2026-03-11'
 title: Social Security Administration Inspector General Opens Formal Probe into DOGE Data Misuse
@@ -38,7 +38,7 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, the Social Security Administration's Office of Inspector General formally notified the chairs and ranking members of key House and Senate committees that it had opened an investigation into whistleblower allegations that a former DOGE employee had misused and exfiltrated sensitive Social Security data.
 

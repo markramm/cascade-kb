@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1934-01-30--gold-reserve-act-nationalizes-gold-devalues-dollar
 date: '1934-01-30'
 title: Gold Reserve Act Nationalizes Gold Holdings and Devalues Dollar Over Wall Street Opposition
@@ -40,7 +40,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt signs the Gold Reserve Act on January 30, 1934, nationalizing all gold holdings in the United States, transferring ownership of Federal Reserve gold to the U.S. Treasury, and authorizing the President to set the gold value of the dollar between 50 and 60 percent of its previous level. The next day, Roosevelt fixes the gold price at $35 per ounce, effectively devaluing the dollar by 41 percent—the most dramatic monetary intervention in American history and one fiercely opposed by Wall Street and conservative financial interests.
 

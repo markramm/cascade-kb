@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-03-13--bush-epa-begins-systematic-environmental-rollbacks
 date: '2001-03-13'
 title: Bush Administration Begins Systematic EPA Rollbacks with Withdrawal from Kyoto Protocol
@@ -42,7 +42,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2001, President George W. Bush announced the United States would not implement the Kyoto Protocol on climate change, signaling the beginning of a systematic rollback of environmental protections coordinated with fossil fuel industry lobbyists. The decision came just weeks after Vice President Dick Cheney began secret energy task force meetings with industry executives.
 

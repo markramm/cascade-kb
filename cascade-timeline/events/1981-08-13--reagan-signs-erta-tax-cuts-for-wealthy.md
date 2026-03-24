@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-08-13--reagan-signs-erta-tax-cuts-for-wealthy
 date: '1981-08-13'
 status: confirmed
@@ -48,7 +48,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Ronald Reagan signs the Economic Recovery Tax Act (ERTA), enacting sweeping tax cuts that disproportionately benefit the wealthy and inaugurate the "supply-side economics" era. The legislation slashes the top marginal tax rate from 70% to 50% and the bottom rate from 14% to 11%, with combined 1981 and 1986 reforms ultimately reducing top rates to around 30%. Proponents claim the tax cuts will stimulate investment and economic growth that "trickles down" to all Americans, but critics note the benefits flow overwhelmingly to high-income earners and corporations.
 

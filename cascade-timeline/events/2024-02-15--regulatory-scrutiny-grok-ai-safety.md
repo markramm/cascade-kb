@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-15--regulatory-scrutiny-grok-ai-safety
 date: '2024-02-15'
 title: xAI Grok AI Faces Initial Government Safety Scrutiny
@@ -35,5 +35,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 xAI's Grok AI faces initial government safety investigations and scrutiny at the AI Seoul Summit. Advocacy groups and AI safety researchers challenge the lack of comprehensive safety reports for Grok 4, while the GSA conducts an independent safety evaluation. Multiple consumer advocacy organizations demand halting Grok's government deployment due to potential systemic biases and untested safety protocols.

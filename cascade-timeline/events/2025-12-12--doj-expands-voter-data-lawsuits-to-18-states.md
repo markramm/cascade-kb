@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-12--doj-expands-voter-data-lawsuits-to-18-states
 date: '2025-12-12'
 title: DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses
@@ -54,7 +54,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.
 

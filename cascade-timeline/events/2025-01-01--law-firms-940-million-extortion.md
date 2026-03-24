@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-01--law-firms-940-million-extortion
 date: '2025-01-01'
 importance: 6
@@ -41,6 +41,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Nine prestigious law firms capitulated to Trump's intimidation campaign, agreeing to provide $940 million in pro bono legal services for Trump-approved causes through what legal experts call "legalized extortion."

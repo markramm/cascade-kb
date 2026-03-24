@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-10-05--haugen-facebook-whistleblower-testimony
 date: '2021-10-05'
 title: Frances Haugen Senate Testimony Exposes Facebook Algorithmic Harm to Children and Democracy
@@ -49,7 +49,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Facebook product manager Frances Haugen testifies before the U.S. Senate that Facebook's products harm children, stoke division, and weaken democracy, backed by tens of thousands of internal company documents showing Facebook executives knew about Instagram's severe mental health impacts on teens but prioritized profit over safety. The testimony catalyzes global regulatory momentum and exposes Facebook's systematic prioritization of engagement over user wellbeing.
 

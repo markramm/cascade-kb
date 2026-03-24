@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1970-07-10--irs-adopts-non-discrimination-policy-private-schools
 date: '1970-07-10'
 title: IRS Adopts Non-Discrimination Policy for Private Schools After Court Order Targeting Segregation Academies
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Following a 1969 Mississippi-based lawsuit against the IRS in which federal courts issue a preliminary injunction denying tax exemption to private schools that are segregated by race, the IRS adopts a non-discrimination policy applying to private schools on July 10, 1970. The policy, though it takes eight years to be fully implemented, represents a turning point in federal enforcement against segregation academies that have proliferated throughout the South since Brown v. Board of Education.
 

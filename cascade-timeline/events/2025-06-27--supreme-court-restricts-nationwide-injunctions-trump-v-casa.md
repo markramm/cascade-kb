@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-27--supreme-court-restricts-nationwide-injunctions-trump-v-casa
 date: '2025-06-27'
 title: Supreme Court Restricts Nationwide Injunctions in Trump v. CASA, Expanding Executive Power
@@ -59,7 +59,7 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 In Trump v. CASA de Maryland, the Supreme Court ruled 6-3 to significantly restrict the ability of federal district courts to issue nationwide injunctions blocking executive branch policies. The decision represents a major expansion of presidential power and reduction in judicial checks on executive overreach.

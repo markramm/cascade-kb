@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-04--federal-employee-coercion-attempt
 date: '2025-07-04'
 importance: 6
@@ -39,6 +39,6 @@ sources:
   tier: 1
 notes: Though provisions raised minimal revenue ($500M annually), inclusion reveals revenue generation wasn't primary purpose. Partnership for Public Service warned of "devastating impact on government's ability to retain employees and attract talent."
 ---
-type: solidarity_event
+type: timeline_event
 
 House version of reconciliation bill contained Section 90002 requiring new federal employees to choose between keeping civil service protections while paying 9.4% of salary toward retirement (versus current 4.4%) or becoming at-will employees with no job protections. Senate initially proposed rates up to 14.4%. American Federation of Government Employees called it "financial coercion to undermine legal protections" creating "no real choice." Provisions ultimately removed after parliamentary challenges but revealed intent to restructure civil service along authoritarian lines.

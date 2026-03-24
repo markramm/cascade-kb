@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-28--hegseth-kill-everybody-order-boat-strike-investigation
 date: '2025-11-28'
 title: Washington Post reveals Hegseth gave "kill everybody" order in Caribbean boat strikes, killing shipwrecked survivors
@@ -53,7 +53,7 @@ capture_lanes:
 - Legislative Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Washington Post published an explosive investigation on November 28 revealing that Defense Secretary Pete Hegseth gave a verbal order to "kill everybody" during a September 2, 2025 military strike on a suspected drug vessel in the Caribbean. According to officials with direct knowledge, SEAL Team Six conducted the initial strike that destroyed the vessel and killed nine people, leaving two survivors clinging to debris. The mission's commander, Admiral Frank Bradley, then ordered a second strike that killed the two survivors in compliance with Hegseth's directive.
 

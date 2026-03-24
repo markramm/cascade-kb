@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-21--israeli-general-iran-campaign-halfway
 date: '2026-03-21'
 title: Israeli Military Officials Say Iran Campaign at "Halfway" Point — Weeks More of Operations Ahead
@@ -25,7 +25,7 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 21, 2026, unnamed Israeli military officials told reporters that the campaign against Iran had reached its "halfway" point, suggesting that Israeli operations would continue for at least several more weeks. The assessment directly contradicted President Trump's claim the previous day that the war was "winding down" and highlighted the growing divergence between American and Israeli timelines and war aims.
 

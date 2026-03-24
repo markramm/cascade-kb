@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-01-01--dataminr-founded-real-time-social-media-surveillance
 date: '2009-01-01'
 title: Dataminr Founded to Provide Real-Time Social Media Surveillance, Later Backed by CIA Venture Capital
@@ -39,7 +39,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Dataminr was founded in New York City by Yale University graduates Ted Bailey, Sam Hendel, and Jeff Kinsey to provide real-time monitoring and analysis of social media data streams. The company secured a direct licensing agreement with Twitter to purchase the platform's complete "firehose" of public tweets, positioning itself as a critical intermediary between social media platforms and government, corporate, and financial sector clients seeking instant alerts about emerging events, trends, and potential threats. Unlike traditional social media analytics firms, Dataminr specialized in algorithmic detection of breaking news and significant events from billions of social media posts, providing what it marketed as unparalleled "situational awareness" capabilities.
 

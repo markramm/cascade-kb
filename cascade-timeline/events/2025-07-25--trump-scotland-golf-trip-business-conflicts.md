@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-25--trump-scotland-golf-trip-business-conflicts
 date: '2025-07-25'
 title: Trump's Scotland Golf Course Trip Blends Presidential Duties with Private Business Interests
@@ -46,6 +46,6 @@ implications:
   ethical_concerns: Continued blending of presidential duties with personal business promotion
   diplomatic_context: Trade discussions and bilateral meetings conducted at Trump-owned properties
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump traveled to Scotland to open a new golf course, using official diplomatic meetings and taxpayer-funded trip to promote personal business interests, raising significant ethical concerns about conflicts of interest

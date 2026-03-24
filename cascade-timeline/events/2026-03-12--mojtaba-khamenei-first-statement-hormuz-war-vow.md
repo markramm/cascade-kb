@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-12--mojtaba-khamenei-first-statement-hormuz-war-vow
 date: '2026-03-12'
 title: New Iran Supreme Leader Mojtaba Khamenei Issues First Statement Vowing Revenge and Permanent Hormuz Closure
@@ -55,7 +55,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 12, 2026 -- Day 13 of Operation Epic Fury and four days after being elevated as Iran's Supreme Leader -- Mojtaba Khamenei issued his first public statement as head of the Islamic Republic, delivered via Iranian state media. He did not appear personally in the broadcast; another individual read his written statement aloud while a photograph of Khamenei was displayed on screen, fueling speculation about his precise location and security situation.
 

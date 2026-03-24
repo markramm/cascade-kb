@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-01-01--felon-disenfranchisement-expansion-state-legislation-wave
 date: '1997-01-01'
 title: 'Felon Disenfranchisement Expansion: States Tighten Voting Bans as Prison Population Explodes'
@@ -94,7 +94,7 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Throughout the 1990s, as the prison population exploded due to War on Drugs policies and "tough on crime" legislation, states expanded and entrenched felon disenfranchisement laws, creating a new form of mass voter exclusion that disproportionately impacted Black and Latino communities. By 1997, an estimated 3.9 million Americans were disenfranchised due to criminal convictions—a number that would nearly double over the following decade.

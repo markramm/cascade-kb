@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-09-12--taxpayer-march-koch-network-mobilization
 date: '2009-09-12'
 title: 9/12 Taxpayer March on Washington Demonstrates Koch Network Mobilization Power
@@ -42,5 +42,5 @@ capture_lanes:
 - Democratic Erosion
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The 9/12 Taxpayer March on Washington represented a pivotal moment in conservative political organizing, mobilizing an estimated 60,000-75,000 protesters against the Obama administration policies. Meticulously organized by Koch-affiliated groups like FreedomWorks and Americans for Prosperity, the march demonstrated the sophisticated infrastructure of conservative astroturf operations. Led by Dick Armey and organized since March 2009, the event provided intensive two-day grassroots training sessions that attracted over 2,000 local activists. While presented as a spontaneous citizen uprising, the march exemplified a carefully orchestrated political strategy designed to simulate grassroots opposition to government policies unfavorable to billionaire donors.

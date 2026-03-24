@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Ivanka Trump
 - Ivanka Trump Marks LLC
@@ -61,7 +61,7 @@ tags:
 - foreign-influence
 title: China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts
 ---
-type: solidarity_event
+type: timeline_event
 China's trademark office granted final approval for 13 Ivanka Trump trademarks over three
 months in early 2018, and later provisionally approved 16 more in October 2018, according to
 AP reviews of official records. The brand said filings were routine defensive registrations;

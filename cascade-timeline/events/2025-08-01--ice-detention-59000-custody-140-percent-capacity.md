@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--ice-detention-59000-custody-140-percent-capacity
 date: '2025-08-01'
 title: ICE detention reaches 59,000 people at 140% capacity with 70% having no criminal record
@@ -48,6 +48,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 ICE detention facilities hold approximately 59,000 immigrants, exceeding capacity by 140%. Over 70% of detainees have no criminal record, and 93% have never been convicted of a violent crime, contradicting Trump's repeated claims of targeting violent criminals. The overcrowding has led to deteriorating conditions and humanitarian concerns. Multiple sources, including NPR, ACLU, and the American Immigration Council, report record-high detention levels fueled by a $45 billion federal budget allocation, with civil rights oversight positions being simultaneously cut.

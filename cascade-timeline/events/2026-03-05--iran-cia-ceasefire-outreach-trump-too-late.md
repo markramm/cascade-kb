@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--iran-cia-ceasefire-outreach-trump-too-late
 date: '2026-03-05'
 title: Iran Secretly Contacts CIA to Discuss End of War; Trump Says It Is "Too Late" for Talks
@@ -62,7 +62,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 5, 2026, reports emerged that operatives from Iran's Ministry of Intelligence had quietly reached out, indirectly, to the Central Intelligence Agency with an offer to discuss terms for ending the conflict. The contact was delivered through a third country's intelligence service. U.S. officials confirmed the channel existed but stated that no active negotiations were underway and that neither special envoy Steve Witkoff nor adviser Jared Kushner had held direct conversations with Iranian officials since the war began.
 

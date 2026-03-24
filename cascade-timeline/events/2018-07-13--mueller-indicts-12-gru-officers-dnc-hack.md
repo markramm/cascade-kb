@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-13--mueller-indicts-12-gru-officers-dnc-hack
 date: 2018-07-13
 title: Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign Infrastructure
@@ -41,7 +41,7 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Special Counsel Robert Mueller indicted twelve officers of the Russian Federation's Main Intelligence Directorate (GRU) for hacking the Democratic National Committee, the Democratic Congressional Campaign Committee, and the Clinton presidential campaign during the 2016 election. The 29-page indictment provided extraordinary technical detail about the most consequential cyberattack in American political history, revealing how Russian military intelligence weaponized stolen information to influence a U.S. presidential election.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2009-01-01--energy-commerce-pharma-contributions-aca
 date: '2009-01-01'
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Analysis of pharmaceutical industry campaign contributions from 1999-2018 revealed that the top 40 congressional recipients jointly received $45 million, with 39 serving on committees with health-related legislative jurisdiction—24 in senior positions. Of the top 20 House recipients, 17 served on the Energy and Commerce Committee or Ways and Means Committee, demonstrating the industry's surgical precision in targeting lawmakers who controlled healthcare legislation. During the 2008-2010 Affordable Care Act debate, Democrats captured slightly over 50% of pharmaceutical contributions, with Energy and Commerce Committee Chairman Fred Upton (R-MI) receiving $173,865 during this period.
 

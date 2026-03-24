@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--florida-felony-disenfranchisement-1-4-million
 date: 2000-01-01
 title: Florida Disenfranchises 1.4 Million Citizens Through Felony Voting Bans, Highest Rate in Nation
@@ -39,7 +39,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2000, Florida disenfranchises an estimated 1.4 million citizens who have felony convictions—nearly a quarter of all disenfranchised people with felony records in the entire United States. Florida's lifetime voting ban for people with felony convictions, rooted in post-Civil War efforts to disenfranchise Black citizens, creates the nation's largest population of citizens permanently excluded from democracy.
 

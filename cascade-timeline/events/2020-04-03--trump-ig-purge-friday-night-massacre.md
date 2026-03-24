@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-03--trump-ig-purge-friday-night-massacre
 date: '2020-04-03'
 title: Trump Inspector General Friday Night Massacre Systematically Accelerates WHIG Oversight Destruction Precedent for Constitutional Crisis Operations
@@ -56,6 +56,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump's systematic firing of Intelligence Community Inspector General Michael Atkinson on April 3, 2020, followed by systematic purge of independent oversight officials, represents the acceleration of WHIG oversight destruction precedent enabling constitutional crisis operations without internal resistance. The Friday Night Massacre directly implements Bush administration's Valentine's Day Massacre template that systematically eliminated independent oversight infrastructure as prerequisite for systematic deception campaigns and constitutional violation operations. Trump's systematic removal of inspectors general Michael Atkinson (Intelligence), Glenn Fine (Defense), Mitch Behm (Transportation), and Christi Grimm (Health) demonstrates scaling of WHIG precedent that oversight destruction enables crisis-accelerated institutional capture. The systematic IG purges eliminate internal accountability mechanisms necessary for systematic executive immunity operations, demonstrating how WHIG precedents for oversight capture create infrastructure for ongoing oligarchic governance. This represents WHIG template acceleration: what required coordinated crisis exploitation under Bush now operates as systematic institutional capture through precedent-based authority claims that eliminate democratic constraints.

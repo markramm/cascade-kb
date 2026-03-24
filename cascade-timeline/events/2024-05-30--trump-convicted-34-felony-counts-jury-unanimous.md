@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-30--trump-convicted-34-felony-counts-jury-unanimous
 date: '2024-05-30'
 title: Trump Convicted on All 34 Felony Counts - First Former President Convicted of Crimes in U.S. History
@@ -42,7 +42,7 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 A Manhattan jury found former President Donald Trump guilty on all 34 felony counts of falsifying business records, making him the first former or sitting U.S. president to be convicted of crimes in American history. The unanimous verdict, delivered after less than two days of deliberation, convicted Trump of systematically falsifying business records to conceal hush money payments that were designed to influence the 2016 presidential election. The historic conviction occurred as Trump was actively campaigning as the presumptive Republican nominee for president in 2024, creating an unprecedented situation of a major party's presidential candidate running as a convicted felon.
 

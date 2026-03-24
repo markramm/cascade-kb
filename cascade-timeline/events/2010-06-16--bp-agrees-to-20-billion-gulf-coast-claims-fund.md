@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2010-06-16'
 title: BP Agrees to $20 Billion Gulf Coast Claims Fund Amid Deepwater Horizon Fallout
 actors:
@@ -54,5 +54,5 @@ capture_lanes:
 id: 2010-06-16--bp-agrees-to-20-billion-gulf-coast-claims-fund
 priority_id: RT-COMPLETED-PATTERN-20250906-23
 ---
-type: solidarity_event
+type: timeline_event
 Under intense pressure from the Obama administration and Congress, BP agreed to establish a $20 billion independent claims fund to compensate victims of the Deepwater Horizon oil spill. The fund, administered by Kenneth Feinberg, represented an unprecedented corporate commitment to environmental damage compensation. However, the agreement sparked controversy as many viewed it as insufficient given the scale of environmental and economic damage. BP CEO Tony Hayward faced fierce criticism for his handling of the crisis, including his infamous comment about wanting his 'life back' while Gulf Coast residents suffered. The fund structure also raised concerns about limiting BP's legal liability while providing public relations cover. This event highlighted the complex intersection of corporate accountability, environmental justice, and regulatory response in cases of large-scale industrial disasters.

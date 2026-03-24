@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--epa-endangerment-finding-repeal-legal-challenges
 date: '2026-03-08'
 title: Legal Challenges Mount Against EPA Repeal of Greenhouse Gas Endangerment Finding
@@ -47,7 +47,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In March 2026, a coalition of health and environmental groups were pursuing legal challenges against the EPA's February 12, 2026 repeal of the 2009 Greenhouse Gas Endangerment Finding -- the legal foundation for all federal climate regulation under the Clean Air Act. The repeal, finalized under EPA Administrator Lee Zeldin and effective April 20, 2026, stripped the EPA of its authority to regulate carbon dioxide and other greenhouse gases, undoing the legal basis for vehicle emission standards, power plant regulations, and industrial pollution rules.
 

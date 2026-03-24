@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-26--witkoff-kushner-conflicts-iran-nuclear-talks
 date: '2026-02-26'
 title: Witkoff and Kushner Lead Iran Nuclear Talks While Holding Massive Gulf State Financial Conflicts
@@ -72,7 +72,7 @@ capture_lanes:
 - Foreign Policy Corruption
 - Emoluments and Financial Conflicts
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 26, 2026, Jared Kushner and Steve Witkoff represented the United States in the third round of Iran nuclear talks in Geneva, Switzerland - both carrying staggering undisclosed financial entanglements with the very Gulf states whose economic interests were directly at stake in any Iran deal outcome.
 

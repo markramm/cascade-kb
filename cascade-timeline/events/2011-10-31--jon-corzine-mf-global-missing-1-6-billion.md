@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-10-31--jon-corzine-mf-global-missing-1-6-billion
 date: 2011-10-31
 title: 'MF Global Bankruptcy: $1.6 Billion in Customer Funds Missing Under Jon Corzine'
@@ -44,7 +44,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 MF Global Holdings, the brokerage firm led by former U.S. Senator and New Jersey Governor Jon Corzine, filed for Chapter 11 bankruptcy on October 31, 2011, becoming the eighth-largest bankruptcy in U.S. history at that time. The firm had invested more than $6.3 billion in sovereign bonds from struggling European countries; when it reported a $191.6 million quarterly loss on October 25, Moody's and Fitch cut its credit rating to junk status, triggering the collapse. As the firm unraveled, investigators discovered that up to $1.6 billion in customer segregated funds were missing.
 

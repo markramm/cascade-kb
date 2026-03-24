@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-11-23--pharmacy-chains-found-liable-ohio
 title: Federal Jury Finds CVS, Walgreens, Walmart Liable for Fueling Ohio Opioid Crisis
 date: '2021-11-23'
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 23, 2021, a federal jury in Cleveland found CVS, Walgreens, and Walmart liable for contributing to the opioid crisis in Lake and Trumbull counties in Ohio. After a six-week trial and five and a half days of deliberation, jurors concluded that the pharmacy chains contributed to a public nuisance by selling and dispensing massive quantities of prescription pain pills without adequate oversight.
 

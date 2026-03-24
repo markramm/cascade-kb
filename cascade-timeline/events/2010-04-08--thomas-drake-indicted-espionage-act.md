@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-04-08--thomas-drake-indicted-espionage-act
 date: 2010-04-08
 title: Thomas Drake Indicted Under Espionage Act for NSA Whistleblowing
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Former NSA senior executive Thomas Drake was indicted on ten felony counts, including five under the Espionage Act of 1917, marking the Obama administration's aggressive prosecution of national security whistleblowers. Drake faced up to 35 years in prison for allegedly retaining classified documents related to NSA surveillance programs and waste.
 

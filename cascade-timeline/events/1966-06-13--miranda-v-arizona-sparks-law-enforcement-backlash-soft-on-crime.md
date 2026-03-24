@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1966-06-13--miranda-v-arizona-sparks-law-enforcement-backlash-soft-on-crime
 date: '1966-06-13'
 title: Miranda v. Arizona Decision Requiring Rights Warnings Sparks Law Enforcement Backlash and Conservative Law-and-Order Politics
@@ -42,7 +42,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Supreme Court rules 5-4 in Miranda v. Arizona that law enforcement must warn suspects of their constitutional rights before custodial interrogation, or else statements cannot be used as evidence at trial. The decision requires police to inform suspects of: (1) the right to remain silent; (2) that anything said can be used against them in court; (3) the right to an attorney; and (4) that an attorney will be provided if they cannot afford one.
 

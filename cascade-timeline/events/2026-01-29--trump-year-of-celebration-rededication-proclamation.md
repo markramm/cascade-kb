@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-29--trump-year-of-celebration-rededication-proclamation
 date: '2026-01-29'
 status: confirmed
@@ -26,7 +26,7 @@ sources:
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued Proclamation 11007 at the 74th annual National Prayer Breakfast declaring 2026 a "Year of Celebration and Rededication" to commemorate 250 years of American independence, calling on every American "to celebrate this triumph of the American spirit, and to rededicate themselves to the sacred cause of liberty and justice for all." The proclamation honors "the generations of pioneers, warriors, statesmen, preachers, inventors, risk-takers, workers, and heroes whose unwavering commitment to the promise of freedom gave rise to the greatest Republic ever created," and encourages "all Americans — including businesses, churches, families, and the military — to observe this year, reflecting on the blessings our Nation has received, with appropriate programs, ceremonies, concerts, celebrations, and activities in their homes, schools, work, communities, military bases, and houses of worship."
 

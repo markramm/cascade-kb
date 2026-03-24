@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-01-20--obama-admin-prosecutes-zero-wall-street-executives
 date: '2009-01-20'
 importance: 8
@@ -39,6 +39,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Despite widespread evidence of fraud in the 2008 financial crisis, the Obama administration prosecuted zero major Wall Street executives, contrasting starkly with the Savings and Loan crisis when 1,706 bankers were sent to prison. Instead, the DOJ pursued civil settlements totaling tens of billions, allowing banks to avoid admitting wrongdoing while treating penalties as tax-deductible business expenses. The 'Holder Doctrine' directed prosecutors to consider 'collateral consequences' when investigating corporations, leading to deferred prosecution agreements rather than criminal charges. Attorney General Eric Holder later returned to Covington & Burling, the same law firm representing major banks during his tenure, while Criminal Division Chief Lanny Breuer rejoined the firm earning $4 million in his first year back. This established a precedent of financial sector impunity that persisted through subsequent administrations.

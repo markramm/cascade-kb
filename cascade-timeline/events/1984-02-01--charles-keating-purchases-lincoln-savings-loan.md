@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-02-01--charles-keating-purchases-lincoln-savings-loan
 date: '1984-02-01'
 title: 'Charles Keating Purchases Lincoln S&L: Systematic Fraud Network'
@@ -71,6 +71,6 @@ validation_metadata:
   - 'Added two academic sources: UC Press book and International Banker article'
   - Enhanced summary with additional context about systemic fraud
 ---
-type: solidarity_event
+type: timeline_event
 
 Charles Keating, through American Continental Corporation, purchases Lincoln Savings and Loan for $51 million. Exploiting the deregulated environment created by Garn-St Germain, Keating rapidly expands Lincoln's assets from $1.1 billion to $5.5 billion over four years through high-risk real estate speculation and fraudulent bond sales. Keating coordinates a systematic influence network, providing $1.5 million in campaign contributions to five U.S. Senators (the "Keating Five") who later pressure regulators to overlook Lincoln's suspicious activities, demonstrating coordinated regulatory capture across legislative and executive branches. The event reveals how financial deregulation, weak oversight, and strategic political contributions enabled widespread institutional fraud.

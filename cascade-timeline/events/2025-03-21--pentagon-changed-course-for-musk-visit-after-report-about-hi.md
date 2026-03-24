@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-21--pentagon-changed-course-for-musk-visit-after-report-about-hi
 date: '2025-03-21'
 title: Pentagon Alters Musk Meeting After Leaked War Plan Briefing Reports
@@ -41,6 +41,6 @@ capture_lanes:
 - Intelligence Penetration
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Pentagon modified a planned meeting with Elon Musk after reports emerged that he was set to receive a classified briefing on potential U.S. war plans against China. Trump administration officials denied Musk would receive sensitive information, and the meeting was ultimately scaled back to a discussion about innovation and production efficiencies.

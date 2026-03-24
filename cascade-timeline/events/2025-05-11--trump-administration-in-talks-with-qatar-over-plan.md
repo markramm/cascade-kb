@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-11--trump-administration-in-talks-with-qatar-over-plan
 date: '2025-05-11'
 title: Trump administration in talks with Qatar over plane gift
@@ -49,7 +49,7 @@ _merge_timestamp: '2025-09-05T23:46:55.901357'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration entered negotiations with the government of Qatar in May 2025 to accept a $400 million Boeing 747-8 luxury aircraft as a gift, with plans to use it as a temporary Air Force One replacement while the government awaited delivery of new Boeing VC-25B aircraft. The Washington Post first reported the negotiations, describing the Qatari aircraft as a "palace in the sky" with lavish interior fittings. ABC News and CNN confirmed the reporting, noting that Trump had announced the U.S. government would formally accept the plane — which Qatar's royal family had previously used as a personal aircraft.
 
 The gift raised significant Constitutional and ethical concerns. The Foreign Emoluments Clause prohibits federal officeholders from accepting gifts from foreign governments without congressional consent. Critics argued that accepting a $400 million aircraft from Qatar — a country with substantial U.S. relationships including military basing rights at Al Udeid Air Force Base and ongoing foreign policy negotiations — without congressional authorization violated the Emoluments Clause regardless of whether the gift was framed as going to the U.S. government rather than to Trump personally. FactCheck.org analyzed the legal arguments, noting that the administration contested the emoluments characterization by arguing the aircraft was a government-to-government transaction.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-03-23--aca-passes-with-individual-mandate-insurance-industry-windfall
 date: '2010-03-23'
 title: ACA Passes with Individual Mandate Requiring Americans to Purchase Private Insurance, Delivering Industry Windfall
@@ -38,7 +38,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Obama signs the Patient Protection and Affordable Care Act into law, the most significant healthcare legislation since Medicare. While expanding coverage to millions of uninsured Americans, the law's architecture reflects extensive industry lobbying, featuring an individual mandate that requires Americans to purchase private insurance and provisions negotiated with pharmaceutical companies to block cost controls.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-05--vought-doge-institutionalized-omb
 date: '2026-02-05'
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Executive Power Expansion
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 OMB Director Russell Vought testified before House appropriators that DOGE affiliates have become "institutionalized" as "in-house consultants as a part of the agency's leadership," revealing that although Elon Musk's wrecking crew officially disbanded, many operatives have "burrowed into" federal agencies to continue DOGE's mission through OMB. Vought, who admitted his goal is to "traumatize" federal workers and drastically slash funding for social programs, has institutionalized DOGE in his role as OMB director through mass firings and unlawfully canceling disbursement of funds appropriated by Congress.
 

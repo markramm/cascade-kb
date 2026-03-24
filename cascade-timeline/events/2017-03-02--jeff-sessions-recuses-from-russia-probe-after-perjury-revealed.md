@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-03-02--jeff-sessions-recuses-from-russia-probe-after-perjury-revealed
 date: '2017-03-02'
 title: Jeff Sessions Forced to Recuse from Russia Investigation After Perjury About Kislyak Meetings Revealed
@@ -33,7 +33,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Jeff Sessions announced on March 2, 2017, that he would recuse himself from any investigations related to the 2016 presidential campaign, including Russian interference, following The Washington Post's revelation that Sessions had lied under oath about his contacts with Russian Ambassador Sergey Kislyak during his confirmation hearing.
 

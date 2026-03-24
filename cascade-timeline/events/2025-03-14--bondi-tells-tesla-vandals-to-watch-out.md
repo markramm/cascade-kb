@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-14--bondi-tells-tesla-vandals-to-watch-out
 date: '2025-03-14'
 title: AG Pam Bondi Announces Federal Investigation into Tesla Vandalism
@@ -50,6 +50,6 @@ patterns:
 - political-suppression
 notes: Demonstrates aggressive legal posturing by Trump administration-aligned officials targeting perceived political opponents
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi threatened Tesla vandals with severe federal charges, characterizing the property destruction as potential 'domestic terrorism'. The investigation targets coordinated attacks on Tesla vehicles and infrastructure across multiple states, with potential 20-year prison sentences for those involved.

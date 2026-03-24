@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-11--federal-judge-blocks-indiscriminate-ice-raids-los-angeles
 date: '2025-07-11'
 title: Federal judge orders stop to "indiscriminate" ICE raids in Los Angeles
@@ -41,6 +41,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal Judge Maame Ewusi-Mensah Frimpong issued a landmark ruling ordering the Trump administration to stop indiscriminate immigration sweeps in Southern California. The ruling came after the ACLU brought a case alleging unconstitutional arrests and denial of attorney access. The judge found substantial evidence that ICE agents were arresting people solely based on race, accents, or type of work, in violation of the Fourth Amendment. The temporary restraining order covers Los Angeles and six surrounding counties, requiring DHS to develop new guidelines for determining reasonable suspicion that do not rely on racial profiling or discriminatory practices.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-09-30--vioxx-withdrawal-reveals-fda-regulatory-capture-28000-deaths
 date: '2004-09-30'
 title: Merck Withdraws Vioxx After Concealing Heart Attack Risk, FDA Failure Causes Estimated 28,000-55,000 Deaths
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Merck voluntarily withdraws Vioxx (rofecoxib) from the market after concealing evidence that the blockbuster arthritis drug increases heart attack and stroke risk. Internal company documents reveal that Merck knew of cardiovascular dangers years before withdrawal, while the FDA failed to act on mounting safety signals. FDA scientist David Graham estimates the drug caused between 88,000 and 139,000 heart attacks in the United States, with 28,000 to 55,000 deaths.
 

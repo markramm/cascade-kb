@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-10--cfpb-offices-ordered-closed-staff-told-cannot-perf
 date: '2025-02-10'
 importance: 6
@@ -41,6 +41,6 @@ sources:
 notes: CFPB workforce faces 95% reduction targets. Feb 14 federal judge temporarily blocked layoffs. August appeals court allowed Trump to proceed with dismantling. Plans to delete entire CFPB databases, return funding to Federal Reserve. Created 2011 after 2008 financial crisis, returned $21B+ to consumers through enforcement.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Russell Vought (OMB Director/Acting CFPB Director) ordered CFPB headquarters shuttered Feb 9-10, told 1,700 staff to stay home and "cannot perform any work tasks." Ordered stop to proposed rules, investigations. Plans 95% workforce reduction (1,700 to 200). August appeals court lifted injunction allowing mass layoffs. Agency returned $21B to consumers since 2011. Cannot be eliminated without Congress as created by Dodd-Frank.

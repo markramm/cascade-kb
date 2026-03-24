@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-03-10'
 title: Legal Resistance Network Litigation Summit
 importance: 8
@@ -34,5 +34,5 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 State attorneys general convened a national summit to develop coordinated multi-state litigation strategies in response to shifting federal enforcement priorities. The summit focused on strategic coordination in areas like financial services, technology regulation, consumer protection, and privacy enforcement, with 126 attorneys from 37 states discussing synchronized legal actions across federal and state jurisdictions.

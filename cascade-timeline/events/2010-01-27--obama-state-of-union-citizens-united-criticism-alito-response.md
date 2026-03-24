@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-27--obama-state-of-union-citizens-united-criticism-alito-response
 date: '2010-01-27'
 importance: 8
@@ -50,5 +50,5 @@ sources:
 notes: 'Obama stated: ''Last week, the Supreme Court reversed a century of law that I believe will open the floodgates for special interests – including foreign corporations – to spend without limit in our elections.'' This unprecedented direct criticism of the Court during the State of the Union created a rare constitutional moment highlighting the tension between democratic accountability and judicial independence.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 President Obama directly criticizes Supreme Court's Citizens United decision during State of the Union Address, with Justice Samuel Alito visibly shaking his head and mouthing 'not true' in unprecedented breach of judicial protocol

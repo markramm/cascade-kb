@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-06-01--elliptic-founded-uk-crypto-surveillance
 date: 2013-06-01
 title: Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm
@@ -31,7 +31,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Elliptic is founded in London by Adam Joyce, Tom Robinson, and James Smith, becoming the first company to develop cryptoasset anti-money laundering and sanctions compliance tools based on blockchain analytics. The company pioneers the application of blockchain forensics to track illicit cryptocurrency transactions.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-12--trump-s-uk-ambassador-has-investments-in-industries-set-to-b
 date: '2025-05-12'
 title: Trump’s UK ambassador has investments in industries set to benefit from trade deal
@@ -49,6 +49,6 @@ _merge_timestamp: '2025-09-05T23:46:55.903272'
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Warren Stephens’s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week

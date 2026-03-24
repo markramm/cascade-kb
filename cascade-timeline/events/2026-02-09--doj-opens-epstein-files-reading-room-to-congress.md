@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-09--doj-opens-epstein-files-reading-room-to-congress
 date: '2026-02-09'
 status: confirmed
@@ -43,7 +43,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Beginning February 9, 2026, the Department of Justice allowed members of Congress to view unredacted Epstein files in a reading room at DOJ headquarters, but only under highly restrictive conditions designed to limit meaningful oversight. Assistant Attorney General Patrick Davis's February 6 letter notified all 535 members they could access documents from 9am to 6pm Monday-Friday, but with no electronic devices, no staff assistance, and only handwritten notes permitted after providing 24 hours' notice. Only four computers were available for the entire Congress.
 

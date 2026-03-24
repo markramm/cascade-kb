@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-15--trump-s-latest-crypto-venture-will-be-a-real-estate-video-ga
 date: '2025-04-15'
 title: Trump Launches Crypto Real Estate Video Game Venture
@@ -48,6 +48,6 @@ capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump and business partner Bill Zanker announced a blockchain-based real estate video game resembling Monopoly, expanding the Trump family's crypto ecosystem. The game allows players to build digital real estate using blockchain tokens, representing Trump's continued push into cryptocurrency and digital ventures.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-03-13--faa-grounds-737-max-last-major-regulator-to-act
 date: '2019-03-13'
 title: 'FAA Finally Grounds 737 MAX After 51 Other Countries Act First, Exposing Regulatory Capture'
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Federal Aviation Administration finally grounded the Boeing 737 MAX on March 13, 2019, three days after the Ethiopian Airlines crash and only after 51 other countries had already banned the aircraft. China acted first on March 11, followed by Indonesia, Singapore, India, the European Union, Australia, Canada, and dozens of other nations on March 12. The FAA was the last major aviation regulator to ground the plane, reversing a Continued Airworthiness Notice it had issued just two days earlier claiming the aircraft was safe.
 
 The FAA's reluctance to ground the 737 MAX exposed the depth of regulatory capture between Boeing and its supposed regulator. Acting FAA Administrator Dan Elwell, a former Boeing executive and aerospace industry lobbyist, initially resisted grounding despite mounting international consensus. The agency only acted after new satellite data showed Ethiopian Airlines Flight 302's flight path was nearly identical to Lion Air Flight 610, making the MCAS malfunction pattern undeniable.

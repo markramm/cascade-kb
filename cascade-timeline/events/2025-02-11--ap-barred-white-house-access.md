@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-11--ap-barred-white-house-access
 date: '2025-02-11'
 importance: 6
@@ -48,6 +48,6 @@ sources:
 
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House blocked AP reporters from pooled access on Feb. 11 amid a naming dispute over the Gulf of Mexico ("Gulf of America"), with administration stating it has the right to punish AP reporters. On Apr. 8, a federal district court ordered access restored, finding viewpoint discrimination.

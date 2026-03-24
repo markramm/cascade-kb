@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-11--senate-gop-nuclear-option-confirmations
 date: '2025-09-11'
 title: Senate Republicans Change Rules to Confirm Trump Nominees in Batches Without Individual Scrutiny
@@ -33,6 +33,6 @@ capture_lanes:
 - Environmental Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate Republicans, led by Majority Leader John Thune, changed chamber rules to allow confirmation of Trump's sub-Cabinet, ambassador, and executive branch nominees in batches rather than individually, drastically reducing oversight and debate. The 'nuclear option' procedural change eliminates the traditional requirement that each nominee face individual floor votes, enabling wholesale approval of potentially hundreds of appointees with minimal vetting. Senators can no longer force recorded votes on controversial nominees or delay confirmations to allow public scrutiny of nominees' backgrounds and qualifications. This creates a rubber-stamp confirmation process where unqualified loyalists, industry insiders with massive conflicts of interest, and ideological extremists can be confirmed en masse without individual accountability. Combined with Trump's extensive use of 'acting' officials to bypass Senate confirmation entirely, this completes the capture of the appointments process.

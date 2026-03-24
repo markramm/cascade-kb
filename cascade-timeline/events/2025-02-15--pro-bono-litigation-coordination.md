@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--pro-bono-litigation-coordination
 date: '2025-02-15'
 title: Pro Bono Legal Support Coordination Mechanism Launched
@@ -35,6 +35,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Major law firms, legal nonprofits, and civil liberties organizations create a centralized, multi-organizational coordination platform to rapidly deploy pro bono legal resources for constitutional defense. Democracy 2025, a coalition of 650+ organizations, emerges as a key infrastructure, enabling quick mobilization of legal teams to challenge potential institutional overreach, protect civil liberties, and defend democratic processes.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-13--flynn-resigns-after-24-days-russia-lies
 date: '2017-02-13'
 title: Michael Flynn Resigns After 24 Days as National Security Advisor - Shortest Tenure Ever - Following Russia Lies to Pence and FBI
@@ -34,7 +34,7 @@ capture_lanes:
 - International Kleptocracy
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 National Security Advisor Michael Flynn resigned on February 13, 2017, after just 24 days in office—the shortest tenure in the 63-year history of the position. Flynn's resignation came after revelations that he had lied to Vice President Mike Pence, other White House officials, and the FBI about his December 2016 conversations with Russian Ambassador Sergey Kislyak regarding U.S. sanctions against Russia.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-25--trump-pardons-executive-whose-family-sought-to-publicize-ash
 date: '2025-04-25'
 title: 'Trump pardons executive whose family sought to publicize Ashley Biden''s diary'
@@ -45,5 +45,5 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump pardoned Paul Walczak, a Florida healthcare executive convicted of $10.9 million in tax fraud, less than three weeks after his mother Elizabeth Fago attended a $1 million-per-plate Mar-a-Lago fundraiser. Fago was previously involved in efforts to publicize Ashley Biden's stolen diary during the 2020 campaign.

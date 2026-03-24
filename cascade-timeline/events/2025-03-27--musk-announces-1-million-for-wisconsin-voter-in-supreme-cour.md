@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-27--musk-announces-1-million-for-wisconsin-voter-in-supreme-cour
 date: '2025-03-27'
 title: Musk announces $1 million for Wisconsin voter in Supreme Court race
@@ -46,5 +46,5 @@ notes: High-profile attempt to influence state Supreme Court election through di
 patterns:
 - kleptocratic-capture
 ---
-type: solidarity_event
+type: timeline_event
 Elon Musk awarded a $1 million payment to a Wisconsin voter days before the state Supreme Court election, part of a broader $20 million effort to influence the race. The payment to Scott Ainsworth, who supports conservative candidate Brad Schimel, prompted a legal challenge from Wisconsin's Attorney General as a potential election law violation.

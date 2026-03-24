@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1962-09-27--silent-spring-published-chemical-industry-attacks-carson
 date: '1962-09-27'
 title: Rachel Carson Publishes Silent Spring, Chemical Industry Launches Coordinated Attack Campaign
@@ -40,7 +40,7 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 27, 1962, Rachel Carson's "Silent Spring" was published, documenting the devastating environmental and health effects of synthetic pesticides, particularly DDT. The book meticulously detailed how chemical pesticides were poisoning ecosystems, killing wildlife, and accumulating in human tissues with unknown long-term health consequences. Carson argued that the chemical industry had been allowed to spread toxic substances with virtually no oversight, and that regulatory agencies had been captured by the industries they were supposed to regulate.
 

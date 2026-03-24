@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-25--texas-passes-redistricting-without-democrats
 date: '2025-07-25'
 title: Texas Legislature passes redistricting without Democrats present
@@ -53,5 +53,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 In a controversial move, the Texas Legislature voted to change quorum rules and pass a new congressional map creating five additional safe Republican seats without Democratic members present. The legislature modified procedural rules to allow passage despite the absence of Democratic lawmakers, who had fled the state to prevent a vote. The map was designed to redraw district boundaries in Houston, Austin, and Dallas-Fort Worth, potentially flipping several Democratic-held seats to Republican control. Governor Greg Abbott and Republican leadership pushed the map through, imposing daily fines and threats of arrest for absent Democrats. The redistricting effort represents an unprecedented mid-decade redrawing of political boundaries with significant implications for national congressional representation.

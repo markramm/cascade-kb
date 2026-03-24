@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--house-war-powers-iran-vote-defeated
 date: '2026-03-04'
 title: House Rejects Iran War Powers Resolution 212-219, Completing Congress's Abdication of War Authority
@@ -67,7 +67,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 4, 2026, the Republican-led House of Representatives voted 212-219 to reject a War Powers Resolution that would have required the Trump administration to seek congressional approval before continuing military operations against Iran. The narrow margin — a seven-vote spread — underscored the institutional stakes: the resolution came closer to passing in the House than the Senate (where it had failed 47-53), but still fell short.
 

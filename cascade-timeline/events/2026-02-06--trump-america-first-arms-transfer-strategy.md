@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-06--trump-america-first-arms-transfer-strategy
 date: '2026-02-06'
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued an executive order establishing an "America First Arms Transfer Strategy" that explicitly reorients U.S. international arms sales policy away from traditional foreign policy and strategic objectives toward primarily serving domestic industrial base expansion. The order directs arms transfers to (1) build production capacity for operationally relevant weapons, (2) support domestic reindustrialization and defense industrial base resiliency, (3) strengthen critical supply chains, and (4) prioritize partners that have invested in their own self-defense and have critical geography for the National Security Strategy. The order establishes the Promoting American Military Sales Task Force to oversee implementation and directs quarterly publication of aggregate performance metrics on defense sales case execution.
 

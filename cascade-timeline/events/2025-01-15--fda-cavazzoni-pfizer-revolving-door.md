@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-01-15'
 title: Patrizia Cavazzoni's FDA to Pfizer Move Epitomizes Regulatory Capture
 description: In a stark demonstration of regulatory capture, Dr. Patrizia Cavazzoni departed her role as head of the FDA's drug evaluation center in mid-January 2025 and was swiftly hired by Pfizer. Her move highlights the systemic issues of potential conflicts of interest, where top regulators who oversee drug approvals can immediately transition to high-level positions in the same pharmaceutical companies they previously regulated.
@@ -54,6 +54,6 @@ connections:
 - Government-industry personnel migration
 notes: Critical case study demonstrating systemic conflicts of interest in pharmaceutical regulation, where regulators can directly transition to executive roles in the companies they previously oversaw.
 ---
-type: solidarity_event
+type: timeline_event
 
 Dr. Patrizia Cavazzoni, former head of the FDA's Center for Drug Evaluation and Research (CDER), immediately transitioned to Pfizer as chief medical officer, reigniting intense debate about the pharmaceutical industry's regulatory influence and the problematic 'revolving door' between government agencies and private corporations.

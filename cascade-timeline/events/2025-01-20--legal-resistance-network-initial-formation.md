@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--legal-resistance-network-initial-formation
 date: '2025-01-20'
 title: Young Black Lawyers Organizing Coalition (YBLOC) Legal Resistance Summit
@@ -35,5 +35,5 @@ capture_lanes:
 context_notes: 'The legal summit represents a coordinated response by young Black lawyers to protect democratic institutions, building on grassroots organizing strategies developed by YBLOC since its founding in 2019.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A coalition of 287 civil rights attorneys and constitutional law experts convened in Washington D.C. to establish a coordinated national legal resistance infrastructure, focusing on protecting democratic institutions. Led by Abdul Dosunmu and featuring prominent civil rights lawyers, the summit built on YBLOC's grassroots organizing strategy to address emerging challenges to civil rights and democratic processes.

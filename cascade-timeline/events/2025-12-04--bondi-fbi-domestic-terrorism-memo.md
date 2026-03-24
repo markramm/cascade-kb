@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--bondi-fbi-domestic-terrorism-memo
 date: 2025-12-04
 title: Bondi Orders FBI to Compile "Domestic Terrorism" List Targeting Political Beliefs
@@ -48,7 +48,7 @@ capture_lanes:
 - Judicial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi issued a classified memorandum on December 4, 2025, ordering the FBI and all federal law enforcement agencies to compile a list of groups expressing what the Department of Justice characterizes as "domestic terrorism." The leaked memo, first published by investigative journalist Ken Klippenstein, defines potential domestic terrorism through ideological characteristics including "anti-American sentiment," "anti-capitalism," "anti-Christianity," "adherence to radical gender ideology," "opposition to law and immigration enforcement," and "extreme views in favor of mass migration and open borders." The directive represents an operational implementation of President Trump's National Security Presidential Memorandum-7 (NSPM-7), issued in September 2025 following the assassination of conservative activist Charlie Kirk.
 

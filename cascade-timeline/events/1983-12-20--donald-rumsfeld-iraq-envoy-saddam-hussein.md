@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-12-20--donald-rumsfeld-iraq-envoy-saddam-hussein
 date: 1983-12-20
 title: Donald Rumsfeld Meets Saddam Hussein as Reagan Special Envoy to Iraq
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 President Reagan sends Donald Rumsfeld as a special envoy to Baghdad to meet with Iraqi dictator Saddam Hussein, establishing formal diplomatic relations and initiating a strategic partnership during the Iran-Iraq War. The now-infamous handshake between Rumsfeld and Hussein symbolizes the Reagan administration's "tilt" toward Iraq despite full knowledge of Hussein's use of chemical weapons against Iranian forces.
 

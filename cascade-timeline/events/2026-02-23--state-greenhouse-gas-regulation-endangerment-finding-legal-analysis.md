@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-23--state-greenhouse-gas-regulation-endangerment-finding-legal-analysis
 date: '2026-02-23'
 status: confirmed
@@ -55,7 +55,7 @@ capture_lanes:
 - Environmental Capture
 - Legal System Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By February 23, a week after the EPA's final rule was published, a detailed legal landscape had emerged around the endangerment finding repeal. Legal Planet, a UC Berkeley/UCLA environmental law publication, published a landmark analysis of what state regulatory authority remained after the federal abandonment. The analysis concluded that states retained substantial power: eliminating the federal endangerment finding had no effect on state authority over stationary sources like power plants, leaving California's cap-and-trade program and similar state-level schemes legally unaffected. For vehicle emissions, the analysis found the impact was actually potentially favorable for states - removing the federal basis could paradoxically strengthen California's independent authority to set its own vehicle emissions standards under Clean Air Act waiver provisions.
 

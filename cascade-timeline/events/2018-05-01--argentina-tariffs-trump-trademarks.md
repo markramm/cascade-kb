@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-05-01--argentina-tariffs-trump-trademarks
 date: '2018-05-01'
 importance: 8
@@ -42,6 +42,6 @@ actors:
 location: Washington, DC
 notes: Timeline shows tariffs held off until Trump's personal business interests were secured, then reinstated
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump administration exempted Argentina from steel and aluminum tariffs in May 2018 while Trump Organization was seeking trademark approvals in Argentina. After securing two trademarks in November 2019, the administration abruptly reinstated tariffs on Argentina weeks later, citing dubious "currency manipulation" claims. Ethics experts concluded this showed "President Trump is for sale."

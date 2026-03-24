@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-25--u-s-qatar-days-away-from-final-agreement-on-air-force-one-gi
 date: '2025-07-25'
 title: 'Trump Administration Accepts Qatar''s Luxury Jet, Uses Missile Program Funds for Retrofit'
@@ -43,5 +43,5 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration diverted funds from the Pentagon's Sentinel nuclear missile modernization program to retrofit a luxury Qatari Boeing 747-8 jet as a potential Air Force One, with conversion costs estimated between $400 million and $1 billion. The gift raises significant ethical questions about budget allocation and potential foreign influence.

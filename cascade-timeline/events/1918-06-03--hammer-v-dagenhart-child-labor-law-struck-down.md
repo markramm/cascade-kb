@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1918-06-03--hammer-v-dagenhart-child-labor-law-struck-down
 date: '1918-06-03'
 title: Supreme Court Strikes Down Federal Child Labor Law in Hammer v. Dagenhart
@@ -33,7 +33,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 The U.S. Supreme Court struck down the Keating-Owen Child Labor Act of 1916 on June 3, 1918, in Hammer v. Dagenhart, ruling 5-4 that the federal law exceeded federal authority and represented an unwarranted encroachment on state powers to determine local labor conditions. Justice William R. Day's majority opinion held that the Commerce Clause did not give Congress the power to regulate working conditions, even though the law prohibited interstate commerce in goods produced by child labor rather than directly regulating production. The Keating-Owen Act had been the first federal statute to restrict child labor, prohibiting interstate sale of goods produced by factories employing children under 14 and mines employing children under 16.
 
 Justice Oliver Wendell Holmes wrote a stinging dissent, arguing that earlier Supreme Court decisions had established Congress enjoyed broad powers to regulate interstate commerce and that the statute did not impinge on states' rights to regulate their own internal affairs. Holmes pointed out the majority was imposing its own economic and political philosophy rather than following established constitutional interpretation. The decision exemplifies the Supreme Court's systematic striking down of Progressive Era labor protections under the guise of states' rights and freedom of contract—the same judicial philosophy that produced Lochner v. New York (1905) and other anti-labor rulings.

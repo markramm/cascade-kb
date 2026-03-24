@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-04-11--texas-voter-id-law-discriminatory-intent
 date: '2017-04-11'
 title: Federal Court Rules Texas Voter ID Law Intentionally Discriminatory Against Minorities
@@ -40,7 +40,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal judge rules that Texas's voter ID law, widely considered the strictest in the nation, was intentionally designed to discriminate against Black and Latino voters. The ruling finds "a pattern of conduct unexplainable on grounds other than the race factor" and marks the second time federal courts conclude that Texas's law violates the Voting Rights Act and was enacted with discriminatory purpose. The law's acceptance of gun permits but rejection of student IDs exemplifies its partisan and racial targeting.
 

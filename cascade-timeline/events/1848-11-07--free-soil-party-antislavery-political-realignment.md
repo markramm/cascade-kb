@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1848-11-07--free-soil-party-antislavery-political-realignment
 date: '1848-11-07'
 title: Free Soil Party Splits Democratic Vote, Demonstrating Slavery's Destruction of Party Unity
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The 1848 presidential election takes place in the aftermath of the Mexican-American War and intense debates over the extension of slavery into the Mexican Cession. After both the Whig Party and the Democratic Party nominate presidential candidates who are unwilling to rule out the extension of slavery into newly acquired territories, antislavery Democrats and Whigs join with members of the Liberty Party to form the new Free Soil Party with the platform "Free Soil, Free Labor, Free Men." The party nominates former President Martin Van Buren as its candidate, and his candidacy splits the Democratic vote sufficiently to ensure victory for Whig candidate General Zachary Taylor. The Democrats choose Lewis Cass, who supports "popular sovereignty"—letting each territory decide whether to allow slavery. On Election Day, Democrats split their votes between Van Buren and Cass, and with the strength of the Democratic vote diluted, Taylor wins.
 

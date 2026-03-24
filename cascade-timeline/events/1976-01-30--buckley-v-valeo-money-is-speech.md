@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1976-01-30--buckley-v-valeo-money-is-speech
 date: '1976-01-30'
 title: Supreme Court Rules Money Is Speech in Buckley v. Valeo
@@ -53,7 +53,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 30, 1976, the Supreme Court issued its landmark per curiam decision in Buckley v. Valeo, fundamentally transforming American campaign finance law by establishing that spending money on political campaigns constitutes protected speech under the First Amendment. The case challenged the constitutionality of the Federal Election Campaign Act of 1971 (FECA) as amended in 1974. The Court upheld limits on direct contributions to candidates and mandatory disclosure requirements, but struck down limits on campaign expenditures, expenditures by candidates from personal resources, and independent expenditures by groups supporting campaigns. The plaintiffs included Senator James Buckley (Conservative Party of New York), former Senator Eugene McCarthy, the New York Civil Liberties Union, the American Conservative Union, and multiple other organizations spanning the political spectrum.
 

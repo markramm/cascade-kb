@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1806-11-27--burr-conspiracy-elite-treason-acquittal-pattern
 date: '1806-11-27'
 title: Burr Conspiracy and Acquittal Establishes Elite Immunity from Treason Prosecution
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Thomas Jefferson issues a proclamation warning that an unlawful military expedition against Spanish Mexico is being planned, marking the beginning of federal response to the Burr Conspiracy—a treasonous plot by former Vice President Aaron Burr to either invade Spanish territories or detach western states from the Union. Burr's conspiracy originates in discussions with General James Wilkinson, head of a party favoring western separation from Atlantic states, who communicates with Burr using a cipher. When Wilkinson believes Burr's plan will fail, he betrays Burr to save himself, sending Jefferson a letter outlining the conspiracy without initially naming Burr. Jefferson acts on testimony from Wilkinson despite knowing his character to be unreliable.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1676-09-19--bacons-rebellion-triggers-shift-racial-slavery
 date: '1676-09-19'
 title: Bacon's Rebellion Unites Poor Whites and Blacks, Triggering Elite Shift Toward Racial Slavery
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 An armed rebellion led by Nathaniel Bacon against Virginia Governor William Berkeley reaches its peak when Bacon's militia of thousands captures and burns Jamestown to the ground on September 19. The rebellion, triggered by Berkeley's refusal to authorize attacks on Native American lands, unites Virginians "from all classes and races" including white indentured servants, enslaved Africans, and free Blacks in armed resistance against the colonial elite. The rebellion collapses in October when Bacon dies of fever, but the sight of poor whites and enslaved Blacks fighting together in a unified force that destroyed the colonial capital profoundly alarms Virginia's ruling class, fundamentally reshaping their approach to labor control and social organization.
 

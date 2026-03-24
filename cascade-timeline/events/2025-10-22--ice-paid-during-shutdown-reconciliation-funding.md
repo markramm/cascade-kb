@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-22--ice-paid-during-shutdown-reconciliation-funding
 date: '2025-10-22'
 title: DHS Uses Multi-Year Reconciliation Funding to Pay 70,000 Immigration Enforcement Officers During Shutdown While 700,000 Federal Workers Go Unpaid
@@ -40,7 +40,7 @@ capture_lanes:
 - Financial Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 During the fourth week of the October 2025 government shutdown affecting over 700,000 federal employees, DHS Secretary Kristi Noem announced that approximately 70,000 Department of Homeland Security law enforcement officers—including ICE deportation officers, CBP border patrol agents, Secret Service special agents, and TSA air marshals—would receive full compensation via "super checks" covering all shutdown days worked without pay, overtime, and the next pay period. The payments were funded through the One Big Beautiful Bill Act's multi-year reconciliation appropriations ($75 billion for immigration enforcement through September 30, 2029), demonstrating how reconciliation's budget structure can insulate specific agencies from the funding interruptions that affect the broader federal workforce during government shutdowns.
 

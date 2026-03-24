@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-08-20--battle-tested-ukraine-surveillance-marketing
 date: '2024-08-20'
 title: Defense Contractors Market Ukraine War as "Battle-Tested" Surveillance Technology Proving Ground
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By mid-2024, U.S. defense contractors and surveillance technology companies began systematically marketing their systems as "battle-tested in Ukraine," transforming the ongoing war into a real-world demonstration and validation platform for AI-powered surveillance, autonomous weapons, and data analytics tools. Companies including Anduril Industries, Palantir Technologies, and Clearview AI explicitly used their Ukraine deployments as proof-of-concept for selling similar systems to Western militaries, law enforcement agencies, and government bodies. The Kyiv Independent reported in August 2024 that "Ukraine's rapid escalation of warfare technology has drawn the keen interest of allied countries and international corporations eager to take advantage of a lucrative opportunity to market their technologies as 'battle-tested.'"
 

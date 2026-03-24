@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-06-01--nafta-corporate-lobbying-campaign-business-roundtable
 date: '1993-06-01'
 title: $25 Million Corporate Lobbying Blitz Drives NAFTA Passage Despite Labor Opposition
@@ -47,7 +47,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. businesses and the Mexican government launch a $25 million coordinated lobbying and public relations campaign to secure Congressional approval of NAFTA, overcoming fierce opposition from labor unions and environmental groups. The Business Roundtable, U.S. Chamber of Commerce, and National Association of Manufacturers lead the corporate coalition, with Business Roundtable members tasked by American Express CEO to personally contact at least three members of Congress each day.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-10-22--tax-reform-act-reagan-corporate-lobbying
 date: '1986-10-22'
 title: Tax Reform Act of 1986 - Corporate Lobbying Secures Massive Rate Reductions
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 On October 22, 1986, President Reagan signed the Tax Reform Act of 1986, the centerpiece of his second term domestic agenda. The legislation dramatically lowered the top individual income tax rate from 50% to 28% - the largest single drop in the history of the federal income tax - while reducing the corporate tax rate from 50% to 35%.
 
 The legislative process demonstrated corporate lobbying power at its peak. The hallway outside the Senate Finance Committee became known as "Gucci Gulch" due to the swarms of well-dressed corporate lobbyists who lined up to influence tax provisions. Members of Congress were buttressed by arguments and campaign donations from these lobbyists, who secured special provisions deep in the Internal Revenue Code that would allow corporations to further reduce their tax burden.

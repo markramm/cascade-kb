@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-13--modi-musk-white-house-meeting
 date: '2025-02-13'
 title: India's Modi talks space and 'good governance' with Musk in Washington
@@ -48,7 +48,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Indian Prime Minister Narendra Modi met with Elon Musk at the White House on February 13, 2025, in a meeting that took place hours before Modi's formal official visit with President Trump. Reuters reported that the meeting covered space exploration, artificial intelligence, and "good governance"—the last subject an awkward framing given DOGE's controversial operations. The meeting raised immediate questions about whether Musk was functioning as a U.S. government official or as CEO of Tesla and SpaceX, as Starlink's entry into the Indian telecommunications market was reportedly on the agenda.
 
 When asked about the meeting, President Trump told reporters he was not sure whether Musk had attended as "a CEO or White House employee," an answer that highlighted the fundamental ambiguity of Musk's dual roles. Fortune and The New Republic noted that this ambiguity was precisely the problem: if Musk was a government official, his meeting with a foreign head of state about his private companies' business interests constituted a profound conflict of interest; if he was a private CEO, his access to the White House and foreign leaders on the basis of his government role was equally problematic.

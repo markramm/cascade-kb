@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--anthropic-files-dual-lawsuits-pentagon-supply-chain-designation
 date: '2026-03-09'
 title: Anthropic Files Dual Federal Lawsuits Challenging Pentagon's Supply Chain Risk Designation as Unconstitutional Retaliation
@@ -72,7 +72,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 9, 2026, Anthropic formally filed two federal lawsuits against the Trump administration challenging the Department of Defense's designation of the company as a "supply chain risk to national security" — a label historically applied only to foreign state-linked entities. The dual filing strategy was deliberate: one suit was lodged in the U.S. District Court for the Northern District of California, the other in the U.S. Court of Appeals for the District of Columbia, each attacking different legal dimensions of the Pentagon's actions.
 

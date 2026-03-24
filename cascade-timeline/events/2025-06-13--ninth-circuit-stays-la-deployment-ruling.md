@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-13--ninth-circuit-stays-la-deployment-ruling
 title: Ninth Circuit Stays District Court Ruling Against LA Deployment
 date: '2025-06-13'
@@ -44,6 +44,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Three-judge panel unanimously reverses Judge Breyer's ruling blocking 4,000 Guard and 700 Marines in LA. Court accepts Trump's claim protesters 'pinned down' federal officers, threw concrete chunks. Applies 'extremely deferential standard' despite no evidence ICE raids were actually thwarted.

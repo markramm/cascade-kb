@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--schedule-f-implementation-targets-50000-federal-workers
 date: '2025-02-01'
 title: 'Schedule F Implementation Targets 50,000 Federal Workers'
@@ -43,5 +43,5 @@ details:
   previous_history: 'First proposed in 2020, revoked by Biden, reinstated in 2025'
   implementation_mechanism: Office of Personnel Management rule change
 ---
-type: solidarity_event
+type: timeline_event
 Trump administration implements Project 2025's Schedule F recommendation, rebranded as 'Schedule Policy/Career,' identifying approximately 50,000 federal positions for reclassification from career civil servants to political appointees screened for ideological loyalty. This move enables agencies to more easily remove policy-influencing employees, undermining traditional civil service protections.

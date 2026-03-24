@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-07-25--keating-lincoln-savings-civil-rico-fraud-indictment
 date: '1990-07-25'
 title: Keating Lincoln Savings Civil RICO Fraud Indictment
@@ -35,5 +35,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Charles H. Keating Jr. was indicted on 42 counts of fraud and racketeering related to the Lincoln Savings and Loan collapse. The indictment exposed massive financial fraud involving risky junk bond investments that led to billions in losses for investors and taxpayers.

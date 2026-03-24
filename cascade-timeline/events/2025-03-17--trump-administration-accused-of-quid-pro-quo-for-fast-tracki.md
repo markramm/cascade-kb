@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-17--trump-administration-accused-of-quid-pro-quo-for-fast-tracki
 date: '2025-03-17'
 title: Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan
@@ -42,7 +42,7 @@ notes: High-priority kleptocratic event from comprehensive timeline.
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration was accused of a "quid pro quo" in March 2025 for expediting regulatory approvals of the controversial Line 5 pipeline in Michigan, a project that would allow Enbridge Energy to route crude oil and natural gas through a tunnel beneath the Straits of Mackinac. Critics and Michigan environmental groups alleged that the administration fast-tracked permitting for the project because a contracting company connected to the pipeline project was owned by Tim Barnard, a major Trump donor. The administration had been under pressure from Enbridge to reverse Biden-era efforts to shut down the existing above-water Line 5 pipeline.
 
 The Line 5 project had been the subject of years of legal and regulatory conflict. Former Michigan Governor Gretchen Whitmer revoked Enbridge's easement for the existing pipeline in 2020, citing environmental risks to the Great Lakes in the event of a leak. Enbridge sued and the case remained in litigation. Native American tribes, including the Anishinaabe peoples whose treaty rights protected the Great Lakes region, strongly opposed the tunnel project, warning it would threaten sacred waters and violate treaty obligations.

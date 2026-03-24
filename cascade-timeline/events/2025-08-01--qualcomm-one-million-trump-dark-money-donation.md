@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--qualcomm-one-million-trump-dark-money-donation
 date: '2025-08-01'
 title: Qualcomm Donates $1 Million to Trump-Aligned Dark Money Group
@@ -32,7 +32,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Citizens for Responsibility and Ethics in Washington (CREW) reported on July 30, 2025, that Qualcomm gave $1 million to Securing American Greatness, a nonprofit 501(c)(4) organization that supported President Trump in the 2024 election and is now spending to boost his agenda. The donation was revealed in a corporate document posted on Qualcomm's investor relations webpage detailing political activity between September 30, 2024 and March 30, 2025, making it unclear whether the contribution was made before or after the election.
 

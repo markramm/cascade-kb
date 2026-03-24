@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-03-01--chris-dodd-mpaa-lobbying-reversal
 date: '2011-03-01'
 title: Chris Dodd Becomes Hollywood's Chief Lobbyist After Promising No Lobbying
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Senator Chris Dodd (D-CT) was named chairman and CEO of the Motion Picture Association of America (MPAA), becoming Hollywood's chief lobbyist in Washington despite having "repeatedly and categorically" promised he would not work as a lobbyist after leaving the Senate. Dodd had served as chairman of the powerful Senate Banking Committee from 2007 to 2011, giving him extensive connections to financial regulation and corporate governance that would prove valuable to the entertainment industry.
 

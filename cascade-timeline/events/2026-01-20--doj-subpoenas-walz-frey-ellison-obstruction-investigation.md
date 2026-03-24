@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-20--doj-subpoenas-walz-frey-ellison-obstruction-investigation
 date: '2026-01-20'
 title: DOJ Serves Grand Jury Subpoenas to Governor Walz, Mayor Frey, and AG Ellison Over Immigration Enforcement
@@ -45,7 +45,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice served grand jury subpoenas to Minnesota Governor Tim Walz, Minneapolis Mayor Jacob Frey, Attorney General Keith Ellison, St. Paul Mayor Kaohly Her, and officials from Hennepin and Ramsey Counties, escalating a criminal investigation into whether their public criticism of ICE operations constituted obstruction of federal law enforcement.
 

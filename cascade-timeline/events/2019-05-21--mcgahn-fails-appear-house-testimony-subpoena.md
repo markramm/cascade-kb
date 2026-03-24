@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2019-05-21'
 title: McGahn Defies Scheduled Congressional Testimony Despite House Subpoena
 actors:
@@ -40,6 +40,6 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald McGahn failed to appear for scheduled May 21 House Judiciary Committee testimony despite a congressional subpoena, following explicit White House direction to not comply. The incident represents a significant escalation of executive privilege claims, with the White House asserting 'absolute immunity' for senior officials. McGahn's attorney William Burck cited 'contradictory demands' from different government branches as justification for non-compliance. This action was part of a broader strategy to obstruct congressional oversight related to the Mueller investigation, specifically blocking testimony about potential obstruction of justice. In November 2019, a federal court would ultimately rule that McGahn must testify, with Judge Ketanji Brown Jackson explicitly stating that 'presidents are not kings' and 'no one is above the law'.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-09-08--delano-grape-strike-launches-ufw-movement
 date: '1965-09-08'
 title: Delano Grape Strike Launches UFW Movement, Challenges Agricultural Corporations
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 8, 1965, Filipino American grape workers in the Agricultural Workers Organizing Committee walked out on strike against Delano-area table and wine grape growers, protesting years of poverty wages and brutal working conditions, and asked Cesar Chavez's National Farm Workers Association to join them. On September 16—Mexican Independence Day—the NFWA membership voted overwhelmingly at Our Lady of Guadalupe church in Delano to honor the Filipino workers' strike, and within days the NFWA was picketing ten additional vineyards. The strike demanded hourly wages increase from $1.25 to $1.40 and piece rates rise from ten cents to twenty-five cents per box of grapes packed, along with basic dignity and safety protections for agricultural workers who had been excluded from New Deal labor laws.
 

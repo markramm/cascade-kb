@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-01--pentagon-creates-office-special-plans-iraq-intel
 date: '2002-09-01'
 importance: 9
@@ -38,6 +38,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Under Secretary of Defense Douglas Feith created the Office of Special Plans to manipulate intelligence on Iraq-al Qaeda relationships that were 'inconsistent with the consensus of the Intelligence Community.' Directed by Abram Shulsky, the OSP systematically cherry-picked intelligence to support predetermined policy positions, presenting 'unsubstantiated, contradicted, or even non-existent' intelligence as factual to senior Bush officials. The Pentagon Inspector General found OSP activities were 'inappropriate' as they bypassed normal CIA and DIA intelligence processes, presenting unvetted raw intelligence directly to administration officials without proper intelligence community coordination. The office developed briefings with 'conclusions that were not fully supported by available intelligence' and assembled 'unreliable' intelligence to make stronger cases for Iraq-al Qaeda links than the Intelligence Community assessed. The Senate Intelligence Committee found the administration 'repeatedly presented intelligence as fact when in reality it was unsubstantiated, contradicted, or even non-existent.' OSP operated without knowledge of the Intelligence Community or State Department, undermining CIA credibility by stating CIA interpretations 'ought to be ignored.' This systematic intelligence manipulation helped justify the Iraq invasion through what investigations revealed as coordinated deception.

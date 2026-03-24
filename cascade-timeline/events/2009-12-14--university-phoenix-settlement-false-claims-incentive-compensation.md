@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-12-14--university-phoenix-settlement-false-claims-incentive-compensation
 date: '2009-12-14'
 importance: 8
@@ -43,7 +43,7 @@ sources:
 notes: Record settlement at time for higher education False Claims Act case. Follows 2004 DOE investigation finding same violations. Phoenix paid $9.8M in 2004 but continued illegal practices. Settlement represents captured revenue from fraudulent federal student aid claims totaling over $1.5 billion at risk. Two whistleblowers received $19 million from settlement. Apollo Group avoided admission of wrongdoing despite clear violations.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The University of Phoenix and its parent company Apollo Group agreed to pay $78.5 million on December 14, 2009, to resolve allegations that the nation's largest for-profit university violated the False Claims Act by illegally paying recruiters based on the number of students they enrolled, then fraudulently certifying compliance with federal student aid requirements to obtain over $1.5 billion in federal grants and loans. The settlement—the largest ever at the time in a higher education False Claims Act case—resolved a 2003 whistleblower lawsuit filed by two former enrollment counselors who charged that Phoenix created a "boiler room" sales culture that rewarded recruiters with cash bonuses, gifts, extra vacation time, and other compensation tied exclusively to enrollment numbers, in direct violation of the Higher Education Act's "incentive compensation ban" designed to prevent predatory recruitment of unqualified students likely to default on federal loans.
 

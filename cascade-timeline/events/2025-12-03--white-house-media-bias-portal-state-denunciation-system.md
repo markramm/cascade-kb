@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--white-house-media-bias-portal-state-denunciation-system
 date: '2025-12-03'
 title: White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets
@@ -46,7 +46,7 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets
 

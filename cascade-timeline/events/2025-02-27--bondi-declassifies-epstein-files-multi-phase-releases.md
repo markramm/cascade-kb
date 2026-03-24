@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-27--bondi-declassifies-epstein-files-multi-phase-releases
 date: '2025-02-27'
 title: Attorney General Bondi Releases First Phase of Declassified Epstein Files, Initiating Multi-Phase Document Releases Through November 2025
@@ -61,7 +61,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 27, 2025, Attorney General Pamela Bondi released the first phase of declassified files related to convicted sex offender Jeffrey Epstein and his sexual exploitation of over 250 underage girls at residences in New York, Florida, and other locations. This initial release marked the beginning of a multi-phase declassification process that extended through November 2025, revealing previously secret documents about Epstein's criminal network.
 

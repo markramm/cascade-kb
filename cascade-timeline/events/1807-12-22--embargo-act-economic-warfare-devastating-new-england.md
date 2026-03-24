@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1807-12-22--embargo-act-economic-warfare-devastating-new-england
 date: '1807-12-22'
 title: Embargo Act Demonstrates Economic Warfare Against Domestic Political Opposition
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 President Thomas Jefferson signs the Embargo Act, prohibiting all American ships from leaving port in an attempt at economic coercion against Britain and France, who are seizing U.S. merchant vessels during the Napoleonic Wars. Jefferson chooses commercial warfare over military confrontation after the June 1807 Chesapeake-Leopard Affair, reasoning that removing American goods from international markets will force European powers to alter their policies. Congress passes the embargo at Jefferson's request, implementing the most restrictive trade policy in American history by completely banning exports rather than targeting specific nations.
 

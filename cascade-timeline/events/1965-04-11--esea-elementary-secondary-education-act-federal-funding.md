@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-04-11--esea-elementary-secondary-education-act-federal-funding
 date: '1965-04-11'
 title: Elementary and Secondary Education Act Establishes Federal Role in Education Funding
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 11, 1965, President Lyndon B. Johnson signed the Elementary and Secondary Education Act (ESEA) at the Junction Elementary School in Stonewall, Texas, where he had attended as a child. The landmark legislation established the first comprehensive federal investment in K-12 education, channeling funds to schools serving low-income students and representing a major component of Johnson's "War on Poverty" and Great Society programs.
 

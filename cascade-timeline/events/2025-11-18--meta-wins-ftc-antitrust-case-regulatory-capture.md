@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-18--meta-wins-ftc-antitrust-case-regulatory-capture
 date: '2025-11-18'
 title: Meta Wins FTC Antitrust Case as Judge Rules No Monopoly Despite Instagram/WhatsApp Acquisitions
@@ -42,7 +42,7 @@ capture_lanes:
 - Judicial Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Judge James Boasberg ruled that Meta does not hold an illegal monopoly in personal social networking, dismissing the FTC's five-year antitrust case seeking to force divestiture of Instagram and WhatsApp despite extensive evidence of Meta's "buy or bury" strategy to eliminate competitive threats through anticompetitive acquisitions. The ruling represents a stunning regulatory failure where a judge facing impeachment articles credited TikTok and YouTube as sufficient competition to prevent monopoly—ignoring that Meta acquired Instagram and WhatsApp specifically because they posed existential competitive threats, and demonstrating how permissive judicial interpretation of antitrust law enables platform monopolies to escape accountability even when monopolistic intent and conduct are thoroughly documented.
 

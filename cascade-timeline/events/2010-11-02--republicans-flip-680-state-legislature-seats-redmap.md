@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-11-02--republicans-flip-680-state-legislature-seats-redmap
 date: 2010-11-02
 title: Republicans Gain Record 680 State Legislative Seats, Securing REDMAP Objectives
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Republicans achieve historic state legislative gains in the 2010 midterm elections, flipping a net 680 state legislative seats—breaking the previous record of 628 seats set by Democrats in the post-Watergate elections of 1974. The gains give Republicans control of redistricting in key states ahead of the 2011 redistricting cycle, fulfilling the strategic objectives of the REDMAP project.
 

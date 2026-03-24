@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1921-05-31--harding-transfers-naval-oil-reserves-interior-department
 date: '1921-05-31'
 title: Harding Transfers Naval Oil Reserves to Interior Department
@@ -36,5 +36,5 @@ sources:
   verified: true
   outlet: History.com
 ---
-type: solidarity_event
+type: timeline_event
 President Warren G. Harding signed Executive Order 3474 transferring control of naval petroleum reserves at Teapot Dome, Wyoming, and Elk Hills and Buena Vista in California from the Navy Department to the Department of the Interior under Secretary Albert Fall. This transfer removed the reserves from Navy oversight and positioned them for Fall's secret, no-bid leasing scheme. The reserves had been designated by President Taft to ensure the Navy would always have adequate fuel supplies. Fall had convinced Harding and Navy Secretary Edwin Denby that the Interior Department could better manage these strategic assets, setting the stage for what would become the biggest political corruption scandal before Watergate.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1886-01-01--knights-of-labor-peak-membership-700000
 date: '1886-01-01'
 title: Knights of Labor Reaches Peak Membership of 700,000 Before Rapid Collapse
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Knights of Labor reaches its peak membership of over 700,000 workers (some sources report 750,000) under Grand Master Workman Terence V. Powderly, representing the largest and most inclusive labor organization in American history to that point. Founded in 1869 as a secret society and reorganized in 1879 when Powderly eliminated the secrecy and assumed leadership at age 30, the Knights pursues an ambitious vision of uniting all workers regardless of skill level, race, or gender—a stark contrast to the exclusionary craft union model that will soon dominate through the American Federation of Labor.
 

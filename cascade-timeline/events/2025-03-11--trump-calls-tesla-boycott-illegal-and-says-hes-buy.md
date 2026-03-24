@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-11--trump-calls-tesla-boycott-illegal-and-says-hes-buy
 date: '2025-03-11'
 title: Trump calls Tesla boycott ‘illegal’ and says he’s buying one to support Musk
@@ -46,7 +46,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump declared a consumer boycott of Tesla "illegal" on March 11, 2025, and announced he planned to purchase a Tesla himself to demonstrate support for Elon Musk, whose company had seen its sales decline amid protests against Musk's leadership of DOGE. The boycott had emerged organically on social media and through grassroots organizing by progressive consumers who opposed Musk's government role and his political activities, including his financial support for far-right politicians in Europe and the U.S. Tesla's stock price and sales had declined as the boycott gained traction, with demonstrations occurring at Tesla dealerships across the country.
 
 Trump's claim that boycotts were illegal was legally groundless; consumer boycotts are protected political speech under the First Amendment, and no statute criminalizes organizing customers to avoid purchasing a product. The Guardian and CNBC reported that Trump's statements were widely characterized by legal experts as misinformation about basic constitutional rights. Trump also threatened unspecified federal action against those organizing the boycott, though no legal basis for such action was identified. The episode was notable as a president using the power and platform of his office to defend a private corporation owned by his key political ally.

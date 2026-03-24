@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-18--johnson-delays-aca-vote-sends-house-home
 date: 2025-12-18
 title: Johnson Sends House Home for Recess, Delays ACA Subsidy Vote Despite Democratic Demands
@@ -114,7 +114,7 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 18, 2025, Speaker Mike Johnson refused House Minority Leader Hakeem Jeffries's demand for an immediate floor vote on extending Affordable Care Act subsidies and proceeded to send the House home for a two-week holiday recess, despite a successful discharge petition having reached the 218-signature threshold the previous day. The confrontation reached its peak when Jeffries declared publicly that "under no circumstances should the House of Representatives adjourn until we successfully extend the Affordable Care Act tax credits for tens of millions of Americans." Democratic leaders gathered on the Capitol steps to intensify pressure on Johnson, while moderate Republicans like Mike Lawler stated they were "fighting for" a pre-recess vote. Johnson defended his decision by pointing to House procedural rules requiring seven legislative days to elapse after a discharge petition before the discharged bill can come to the floor — rules that made an immediate vote technically impossible without unanimous consent, which Johnson declined to seek.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-03-11--federal-court-strikes-texas-redistricting-discrimination
 date: 2013-03-11
 title: Federal Court Rules Texas 2011 Redistricting Intentionally Discriminated Against Latino Voters
@@ -41,7 +41,7 @@ capture_lanes:
 - Electoral Manipulation
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal court rules that the Texas Legislature's 2011 redistricting plan for congressional districts discriminated against Latino voters in violation of the federal Voting Rights Act and the U.S. Constitution. The decision finds that Texas deliberately carved up Latino communities and diluted Latino political strength even as the state's Latino population rose to 38% of the total population.
 

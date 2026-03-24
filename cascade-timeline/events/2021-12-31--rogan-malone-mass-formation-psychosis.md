@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-12-31--rogan-malone-mass-formation-psychosis
 date: '2021-12-31'
 importance: 9
@@ -59,5 +59,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Dr. Robert Malone on Rogan's podcast falsely claims vaccines increase COVID risk and compares pandemic response to Nazi Germany through a discredited psychological theory, reaching 11 million listeners. The episode sparked major controversy, with 270 medical professionals demanding Spotify take action against medical misinformation, and leading to artist boycotts and platform responses.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-02--trump-administration-purges-8000-climate-web-pages
 date: '2025-02-02'
 importance: 6
@@ -44,6 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Within first two weeks of Trump's term, administration removed over 8,000 web pages from 12+ government websites including EPA removing "Climate Change" from homepage navigation and EJScreen environmental justice tool. NOAA climate data also targeted. 70% more changes than first Trump term, with "climate change" replaced by "climate resilience" across agencies.

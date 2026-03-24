@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-14--scott-shambaugh-firing-exposes-doge-flaws
 date: '2026-02-14'
 status: confirmed
@@ -35,7 +35,7 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Scott Shambaugh, a mechanical engineer at the National Institute of Standards and Technology (NIST) and sole maintainer of the widely-used open-source Python library "solidpython," was fired in early February 2025 as part of DOGE's sweeping federal workforce reductions, exposing the indiscriminate nature of the purge. Shambaugh's case became emblematic of DOGE's flawed approach because his probationary status was a bureaucratic technicality, not a reflection of his value or competence—he was a skilled engineer whose open-source contributions demonstrated initiative and technical capability that most organizations would fight to retain.
 

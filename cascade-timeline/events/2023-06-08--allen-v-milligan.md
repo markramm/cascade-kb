@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-06-08--allen-v-milligan
 date: '2023-06-08'
 importance: 9
@@ -65,7 +65,7 @@ sources:
 _merge_note: 'Enhanced with information from duplicate event: 2023-06-08--allen-v-milligan-voting-rights'
 _merge_timestamp: '2025-09-05T23:46:55.905005'
 ---
-type: solidarity_event
+type: timeline_event
 The Supreme Court held that Alabama's congressional map likely violated §2 of the Voting Rights
 Act and ordered a remedy adding a second majority-Black district. The ruling preserved the
 Thornburg v. Gingles framework for vote-dilution claims, affecting redistricting nationally.

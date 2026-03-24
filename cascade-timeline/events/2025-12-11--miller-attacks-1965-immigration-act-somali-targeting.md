@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-11--miller-attacks-1965-immigration-act-somali-targeting
 date: '2025-12-11'
 title: Stephen Miller Attacks 1965 Civil Rights Immigration Law, Suggests America Better Off with 1920s Racial Quotas
@@ -28,7 +28,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 White House Deputy Chief of Staff Stephen Miller publicly attacked the Hart-Celler Act of 1965, suggesting America was better off under the 1920s national origins quota system that favored Western and Northern European immigrants over those from "third world countries." Miller's comments came as the administration exploited a pandemic relief fraud scandal in Minnesota to disparage the entire Somali immigrant community.
 

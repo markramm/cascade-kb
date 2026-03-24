@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-01--new-hampshire-llc-secrecy-tax-avoidance
 date: '2024-01-01'
 title: 'New Hampshire LLC Structure Enables Corporate Tax Avoidance While 81% of Businesses Pay No State Business Tax'
@@ -92,7 +92,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 New Hampshire operates a unique business tax structure where business activity generates an estimated 39% of state revenue in 2025—the highest proportion of any U.S. state—yet 81% of registered businesses pay no Business Enterprise Tax (BET) or Business Profits Tax (BPT). This dramatic asymmetry results from New Hampshire's LLC and corporate tax framework that combines aggressive marketing of the state's "no sales tax, no income tax" status with threshold exemptions and structural advantages that allow the vast majority of businesses to avoid state business taxation entirely. While New Hampshire lacks a broad-based sales tax or earned income tax, the state imposes a 7.6% Business Profits Tax on income over $92,000 and a Business Enterprise Tax on business activity, theoretically creating significant business tax obligations. However, the 81% non-payment rate reveals systematic tax avoidance through LLC structures and threshold management.
 
 New Hampshire's treatment of Limited Liability Companies differs from most states in ways that affect both federal and state tax obligations. By default, New Hampshire honors IRS classification of LLCs: single-member LLCs are taxed like sole proprietorships, and multi-member LLCs like partnerships, both enjoying pass-through treatment for federal purposes. However, New Hampshire does not treat LLCs as pass-through entities for state purposes, instead requiring them to pay both BPT and BET on New Hampshire-sourced income—theoretically creating a less favorable environment than true pass-through states. Despite this framework, the reality is that threshold exemptions ($92,000 for BPT in 2023), combined with relatively easy manipulation of revenue attribution and business structure, enable widespread tax avoidance.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Harvey Weinstein
 - Black Cube
@@ -52,5 +52,5 @@ tags:
 - media-suppression
 title: Harvey Weinstein Hires Black Cube to Suppress Rose McGowan Allegations
 ---
-type: solidarity_event
+type: timeline_event
 In July 2016, Harvey Weinstein contracted Black Cube, an Israeli private intelligence firm with former Mossad agents, to suppress sexual misconduct allegations. The operation targeted Rose McGowan and other potential accusers, using sophisticated psychological manipulation tactics like false identities and secret recordings to prevent publication of abuse allegations.

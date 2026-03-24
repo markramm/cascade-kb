@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1886-10-25--wabash-v-illinois-limits-state-railroad-regulation
 date: '1886-10-25'
 title: 'Wabash v. Illinois: Supreme Court Shields Interstate Monopolies from Regulation'
@@ -37,7 +37,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 25, 1886, the U.S. Supreme Court decided Wabash, St. Louis & Pacific Railway Co. v. Illinois (118 U.S. 557) in a 6-3 ruling that severely limited states' power to regulate interstate commerce, effectively shielding railroad monopolies from state-level oversight. The case arose from an Illinois law prohibiting railroads from charging higher rates for shorter hauls than for longer ones—a discriminatory practice railroads used to exploit small towns lacking competing rail service. The Court ruled that such state regulations constituted "direct" burdens on interstate commerce and therefore exceeded state authority under the Commerce Clause.
 

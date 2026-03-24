@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-07--mississippi-ice-raids
 date: '2019-08-07'
 importance: 5
@@ -44,5 +44,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Largest single-state immigration enforcement action in U.S. history with 680 arrests. Raids proceeded with standard agent identification protocols, contradicting later claims about masked operations being historical practice. Occurred on first day of school, causing significant community disruption, with approximately 400 immigrants moved to detention facilities and 300 released on humanitarian grounds.

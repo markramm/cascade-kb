@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-03-10--employee-free-choice-act-killed-corporate-lobbying-obama-failure
 date: '2009-03-10'
 title: Employee Free Choice Act Abandoned Despite Democratic Supermajority, Corporate Lobbying Victory
@@ -44,7 +44,7 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Senator Arlen Specter announces on March 24, 2009, that he will not support the Employee Free Choice Act, effectively killing labor's top legislative priority despite Democratic control of the presidency and both houses of Congress. EFCA would have allowed workers to form unions through "card check" majority sign-up, increased penalties for employer violations, and required binding arbitration when employers refuse to negotiate first contracts. Business groups spend an estimated $400 million opposing the bill, reprising the corporate lobbying blitz that defeated the Labor Law Reform Act in 1978.
 

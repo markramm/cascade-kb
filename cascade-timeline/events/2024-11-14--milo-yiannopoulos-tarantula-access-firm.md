@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-14--milo-yiannopoulos-tarantula-access-firm
 date: '2024-11-14'
 importance: 7
@@ -39,5 +39,5 @@ sources:
 notes: 'Tarantula launched November 14, 2024, days after Trump election victory. Firm described as ''talent management and strategic consulting for icons, artists, geniuses and heads of state.'' Services include contracts, negotiations, reinvention strategies, and ''guerrilla PR tactics.'' Clients include Kanye West, Martin Shkreli (pharma bro), Azealia Banks, Ariel Pink (Jan 6 attendee), Dov Charney (Los Angeles Apparel), and previously MTG. December 2024 added Proud Boy Nick Ochs as Deputy Director. Critically, Tarantula offered ''advisory services and introductions for professionals seeking appointments in the Trump administration'' - monetizing access to incoming government. Represents rehabilitation of disgraced alt-right figure into profitable influence-peddling operation coinciding with Trump 2.0.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Alt-right provocateur Milo Yiannopoulos launches Tarantula management firm days after Trump's election victory, offering talent management for controversial figures including Kanye West and Martin Shkreli while also selling advisory services and introductions for those seeking Trump administration appointments

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--doj-retaliatory-investigations-democratic-officials
 date: '2026-03-09'
 title: DOJ Pursues Retaliatory Investigations of Democratic Officials and Federal Reserve Chair
@@ -48,7 +48,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 2026, the Trump Department of Justice had launched an unprecedented series of retaliatory investigations and prosecutions targeting Democratic politicians, federal oversight officials, and the independent Federal Reserve. Protect Democracy's Retaliatory Action Tracker documented a systematic pattern of using the prosecutorial apparatus to punish political opponents and coerce institutional compliance.
 

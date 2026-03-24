@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-06-17--kentucky-bevin-pension-board-takeover
 date: '2016-06-17'
 title: Kentucky Governor Bevin Seizes Control of Pension Board Through Executive Order
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Kentucky Governor Matt Bevin, a former hedge fund partner at Waycross Partners, issues an executive order abolishing the existing Kentucky Retirement Systems board of trustees and creating a new board that gives him authority to appoint 10 of 17 board members. The restructuring comes two months after Bevin removed KRS chairman Thomas K. Elliott through a separate executive order, with state troopers threatening Elliott with arrest when he attempted to participate in a board meeting.
 

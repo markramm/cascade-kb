@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1945-11-21--1946-strike-wave-largest-us-labor-action
 date: '1945-11-21'
 title: Largest Strike Wave in U.S. History Begins as 5 Million Workers Walk Out
@@ -43,7 +43,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 # Largest Strike Wave in U.S. History
 

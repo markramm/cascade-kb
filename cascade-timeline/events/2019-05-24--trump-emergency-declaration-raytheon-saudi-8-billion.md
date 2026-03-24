@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-05-24--trump-emergency-declaration-raytheon-saudi-8-billion
 date: '2019-05-24'
 title: Trump Declares Fake Emergency to Ram Through $8.1 Billion Raytheon Arms Sale to Saudi Arabia
@@ -48,7 +48,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 24, 2019, the Trump administration invoked a rarely-used emergency provision of the Arms Export Control Act to bypass congressional review and ram through 22 separate arms sales worth $8.1 billion to Saudi Arabia, the UAE, and Jordan. Secretary of State Mike Pompeo declared an "emergency" based on alleged Iranian threats, claiming the sales were necessary to "deter further the malign influence of the Government of Iran throughout the Middle East region." The emergency declaration circumvented Congress's standard 30-day review period for major arms sales, preventing lawmakers from blocking weapons transfers despite bipartisan opposition driven by Saudi war crimes in Yemen and the Khashoggi murder. The deals included sophisticated weapons systems from Raytheon, Lockheed Martin, and Boeing, with Raytheon benefiting from contracts for precision-guided Paveway munitions and an unprecedented technology transfer agreement allowing Saudi Arabia to manufacture bomb components domestically.
 

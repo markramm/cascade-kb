@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-10--press-freedom-us-drops-4th-to-11th-iapa-report
 date: '2026-03-10'
 title: U.S. Records Sharpest Press Freedom Drop in Americas, Falls from 4th to 11th Place
@@ -33,7 +33,7 @@ capture_lanes:
 - Media Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Inter American Press Association (IAPA) released its annual press freedom index on March 10, 2026, declaring that the previous year had been the worst for freedom of expression in the Americas since the report's inception in 2020. The United States recorded the steepest decline of any country in the hemisphere, falling from 4th place to 11th in a ranking of 23 nations.
 

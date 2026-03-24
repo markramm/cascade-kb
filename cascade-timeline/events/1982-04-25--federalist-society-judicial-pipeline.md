@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-04-25--federalist-society-judicial-pipeline
 date: '1982-04-25'
 title: 'Federalist Society Established: Conservative Judicial Pipeline Inception'
@@ -43,7 +43,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 In April 1982, three Yale Law School alumni – Steven Calabresi, David McIntosh, and Lee Liberman Otis – founded the Federalist Society at a pivotal moment in conservative legal thought. Their inaugural conference, funded by the Institute for Educational Affairs and John M. Olin Foundation, featured prominent conservative legal scholars like Robert Bork and Antonin Scalia, establishing a systematic approach to reshaping the American judicial landscape.
 
 Key Founding Characteristics:

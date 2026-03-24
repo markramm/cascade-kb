@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2023-03-15'
 title: DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy
 importance: 9
@@ -42,7 +42,7 @@ capture_lanes:
 - International Kleptocracy
 location: 'Manhattan, New York'
 ---
-type: solidarity_event
+type: timeline_event
 On March 15, 2023, the U.S. Department of Justice arrested Ho Wan Kwok (Guo Wengui) in a landmark twelve-count federal indictment alleging a complex, multi-year fraud scheme defrauding thousands of victims of approximately $1 billion. The sophisticated conspiracy involved fraudulent investments across multiple entities including GTV Media, Himalaya Farm Alliance, G|CLUBS, and Himalaya Exchange.
 
 Key Findings:

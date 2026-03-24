@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1835-06-01--philadelphia-general-strike-ten-hour-day
 date: '1835-06-01'
 title: Philadelphia General Strike Wins Ten-Hour Workday for 17 Trades Despite Court Hostility to Labor Organizing
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Workers from seventeen different trades in Philadelphia stage a general strike demanding a ten-hour workday, achieving victory after three weeks when the City Council agrees to institute ten-hour days for municipal workers and private employers soon announce they will implement the shorter workday as well. The coordinated work stoppage represents one of the earliest successful general strikes in American history and demonstrates the power of cross-trade solidarity in winning concessions from employers. The strike occurs despite legal hostility to labor organizing—state courts routinely convict unionists of criminal conspiracy for striking or even forming unions—showing that workers can achieve gains through collective action even in a legal environment designed to suppress labor power. The Philadelphia victory inspires similar campaigns across eastern cities, though the Panic of 1837 later dampens union activity and delays expansion of the ten-hour standard to unskilled workers until the 1840s.
 

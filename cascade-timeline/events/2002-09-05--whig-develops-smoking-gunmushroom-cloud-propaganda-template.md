@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-05--whig-develops-smoking-gunmushroom-cloud-propaganda-template
 priority_id: RT-COMPLETED-025-powell-whig-template-acceleration
 date: '2002-09-05'
@@ -40,6 +40,6 @@ capture_lanes:
 - Media Capture & Control
 notes: Systematic propaganda technique used to manipulate public perception of Iraq War threat
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 5, 2002, the White House Iraq Group (WHIG), led by Karl Rove and chaired by Andrew Card, strategized the use of the "smoking gun/mushroom cloud" rhetorical metaphor to build public support for the Iraq War. Speechwriter Michael Gerson originated the phrase, which was first publicly used by Condoleezza Rice on CNN on September 8, 2002, and later amplified by President Bush in his October 7, 2002 speech in Cincinnati. This propaganda technique represented a systematic information manipulation strategy designed to create fear about hypothetical nuclear threats from Iraq.

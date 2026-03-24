@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-06-29--federal-aid-highway-act-interstate-system-urban-destruction
 date: '1956-06-29'
 title: Federal-Aid Highway Act Creates Interstate System, Enables Destruction of Black Urban Neighborhoods
@@ -43,7 +43,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 29, 1956, President Eisenhower signed the Federal-Aid Highway Act of 1956, creating the Interstate Highway System—the largest public works project in American history. While celebrated as an engineering triumph, the $25 billion program (equivalent to over $300 billion today) systematically routed highways through Black neighborhoods, destroying thriving communities while subsidizing white suburban flight and entrenching automotive corporate interests.
 

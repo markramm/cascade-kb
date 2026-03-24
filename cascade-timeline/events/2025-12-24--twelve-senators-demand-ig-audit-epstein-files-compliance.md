@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-24--twelve-senators-demand-ig-audit-epstein-files-compliance
 date: '2025-12-24'
 title: 12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files Compliance
@@ -51,7 +51,7 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Twelve bipartisan senators write to DOJ Acting Inspector General Don Berthiaume demanding an audit of the Department's compliance with the Epstein Files Transparency Act. The letter is led by Senators Richard Blumenthal (D-CT), Lisa Murkowski (R-AK), and Jeff Merkley (D-OR), with additional signatures from Senators Klobuchar, Schiff, Durbin, Booker, Kim, Peters, Van Hollen, Hirono, and Whitehouse.

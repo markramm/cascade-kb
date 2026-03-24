@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2004-08-19'
 title: Google IPO Raises $1.67B With "Don't Be Evil" Motto
 description: Google's initial public offering raised $1.67 billion with founders Larry Page and Sergey Brin prominently featuring their "Don't be evil" motto in the IPO prospectus. The founders promised ethical behavior unlike Microsoft, stating they would prioritize doing "good things for the world even if we forgo some short term gains." Twenty years later, Google would become one of the world's most valuable companies through systematic monopoly abuse, facing multiple antitrust lawsuits for search manipulation, advertising monopolization, and anticompetitive practices that generated hundreds of billions in profits through the exact type of monopolistic behavior they claimed to reject.
@@ -53,7 +53,7 @@ connections:
 - Tech platform monopolies
 notes: The ironic origin story of a company that promised ethical behavior but became one of history's most aggressive monopolists, facing record antitrust fines in both the US and EU.
 ---
-type: solidarity_event
+type: timeline_event
 
 Google completed its initial public offering on August 19, 2004, raising $1.67 billion by pricing 19,605,052 Class A shares at $85 per share. The IPO was unconventional, using a "modified" Dutch auction method that challenged Wall Street norms.
 

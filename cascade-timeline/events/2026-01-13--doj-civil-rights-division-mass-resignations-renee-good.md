@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-13--doj-civil-rights-division-mass-resignations-renee-good
 date: '2026-01-13'
 title: DOJ Civil Rights Division Leaders Mass Resign Over Refusal to Investigate Renee Good Killing
@@ -39,7 +39,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 At least six senior DOJ officials resign in protest after Assistant Attorney General for Civil Rights Harmeet Dhillon refuses to investigate ICE agent Jonathan Ross's killing of American citizen Renee Good, while simultaneously launching an investigation into Good's widow Rebecca and Minneapolis activists.
 
 **Who Resigned:**

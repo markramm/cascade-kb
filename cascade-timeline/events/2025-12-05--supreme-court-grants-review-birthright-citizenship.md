@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-05--supreme-court-grants-review-birthright-citizenship
 date: '2025-12-05'
 title: Supreme Court Grants Review of Trump's Birthright Citizenship Challenge, Setting Stage for Constitutional Crisis
@@ -74,7 +74,7 @@ legal_status:
   current_status: Case granted certiorari
 location: Washington, DC
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 5, 2025, the United States Supreme Court announced it would hear arguments challenging the constitutionality of President Trump's executive order attempting to end birthright citizenship. The decision to grant certiorari in *Trump v. Barbara* marks a potential constitutional crisis, as the Court's conservative supermajority prepares to reconsider over 125 years of settled law establishing that all persons born on U.S. soil are citizens under the 14th Amendment.
 

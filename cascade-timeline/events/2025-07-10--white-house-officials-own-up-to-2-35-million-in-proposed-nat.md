@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-10--white-house-officials-own-up-to-2-35-million-in-proposed-nat
 date: '2025-07-10'
 title: White House Officials Own Cryptocurrency Assets in Proposed National Crypto Reserve
@@ -46,5 +46,5 @@ capture_lanes:
 - Financial Capture
 notes: Comprehensive analysis of potential conflicts of interest in cryptocurrency asset holdings by White House officials
 ---
-type: solidarity_event
+type: timeline_event
 A comprehensive analysis by Citizens for Responsibility and Ethics in Washington (CREW) revealed that 19 White House officials own between $875,000 and $2.35 million in cryptocurrency assets, directly aligning with President Trump's proposed national crypto reserve strategy. The officials hold assets including Bitcoin, Ethereum, Solana, XRP, and Cardano, potentially benefiting from the strategic reserve's market impact.

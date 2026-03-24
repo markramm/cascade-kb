@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-01-01--butina-torshin-begin-nra-infiltration-operation
 date: '2011-01-01'
 title: Maria Butina and Alexander Torshin Begin Systematic NRA Infiltration Operation
@@ -45,7 +45,7 @@ capture_lanes:
 - Electoral Manipulation
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2011, Maria Butina founded the Russian gun rights organization "Right to Bear Arms" as a front operation and was hired as "special assistant" to Alexander Torshin, a Russian Senator with Kremlin connections. Together they initiated a systematic multi-year intelligence operation to infiltrate the National Rifle Association and establish a back-channel to the Republican Party. Torshin made his first contact with NRA leadership in 2011 and began attending NRA annual meetings, starting a relationship that would eventually funnel Russian money into the 2016 election.
 

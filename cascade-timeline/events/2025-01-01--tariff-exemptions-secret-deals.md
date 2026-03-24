@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-01--tariff-exemptions-secret-deals
 date: '2025-01-01'
 importance: 8
@@ -40,6 +40,6 @@ actors:
 location: Washington, DC
 notes: Pattern of tariff exemptions strongly suggests tariffs wielded as tool of crony capitalism. Academic studies showed politically connected firms had significantly higher chances of receiving exemptions compared to firms without political donations.
 ---
-type: solidarity_event
+type: timeline_event
 
 In Trump's second term, tariff policy became increasingly opaque, with exemptions granted through a non-transparent process heavily influenced by lobbyists and political connections. The administration replaced the previous public application process with closed-door negotiations, raising significant concerns about potential cronyism. Investigations revealed that politically connected firms were far more likely to receive tariff exemptions, with some industries securing carve-outs that did not align with the stated national interest criteria.

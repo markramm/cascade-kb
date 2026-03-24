@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-10-02--yahoo-fights-nsa-fisa-court-loses-prism
 date: '2013-10-02'
 title: Yahoo's Secret FISA Court Battle Against PRISM Revealed
@@ -43,7 +43,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Declassified documents revealed that Yahoo secretly fought the NSA's PRISM surveillance program in the Foreign Intelligence Surveillance Court from 2007-2008, challenging the constitutionality of government demands for direct server access to user data. Yahoo argued the demands violated the Fourth Amendment and would compromise the privacy of all its users, not just surveillance targets.
 

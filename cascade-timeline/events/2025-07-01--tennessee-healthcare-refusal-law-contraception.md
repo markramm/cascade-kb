@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-01--tennessee-healthcare-refusal-law-contraception
 date: '2025-07-01'
 title: Tennessee Enacts Broad Healthcare Refusal Law Allowing Denial of Contraception
@@ -34,7 +34,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Tennessee enacted legislation in July 2025 allowing healthcare providers—including individuals, institutions, and insurers—to refuse to participate in or pay for healthcare procedures, treatments, or services that conflict with their personal beliefs. While birth control was not specifically mentioned in the bill, the bill's author confirmed it would allow pharmacists to refuse to dispense contraception based on personal objections.
 

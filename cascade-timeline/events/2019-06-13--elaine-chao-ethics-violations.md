@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-13--elaine-chao-ethics-violations
 date: '2019-06-13'
 title: Transportation Secretary Elaine Chao Used Office to Benefit Family Shipping Business
@@ -55,7 +55,7 @@ validation_metadata:
   corrections_applied:
   - 'Validation completed (corrections format: int)'
 ---
-type: solidarity_event
+type: timeline_event
 
 Inspector General report revealed Transportation Secretary Elaine Chao repeatedly 
 used her office and staff to benefit her family's shipping business, Foremost Group, 

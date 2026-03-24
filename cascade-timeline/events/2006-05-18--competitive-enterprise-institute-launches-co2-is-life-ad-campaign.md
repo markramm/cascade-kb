@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-05-18--competitive-enterprise-institute-launches-co2-is-life-ad-campaign
 date: '2006-05-18'
 title: Competitive Enterprise Institute Launches "CO2 is Life" Advertising Campaign
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Competitive Enterprise Institute (CEI) launched a national television advertising campaign on May 18, 2006, featuring two 60-second spots promoting carbon dioxide as beneficial and dismissing climate change concerns. The ads aired in 14 U.S. cities from May 18-28, 2006, strategically timed to counter Al Gore's documentary "An Inconvenient Truth." The campaign's tagline—"They call it pollution. We call it life"—represented one of the most brazen examples of fossil fuel industry-funded climate disinformation reaching mass audiences.
 

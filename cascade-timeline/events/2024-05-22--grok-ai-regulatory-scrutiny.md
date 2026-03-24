@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-22--grok-ai-regulatory-scrutiny
 date: '2024-05-22'
 title: Regulatory Bodies Begin Investigating Grok AI Safety Practices
@@ -88,5 +88,5 @@ connections:
 - Government technology procurement
 - Algorithmic transparency
 ---
-type: solidarity_event
+type: timeline_event
 Congressional representatives, including a bipartisan group of legislators, launched a comprehensive multi-agency investigation into xAI's Grok AI. The investigation uncovered systemic issues with algorithmic bias, content generation risks, and problematic government contracting practices. Key concerns included antisemitic content generation, lack of safety reporting, and potential national security threats.

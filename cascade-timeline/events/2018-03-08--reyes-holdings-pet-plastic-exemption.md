@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-08--reyes-holdings-pet-plastic-exemption
 date: '2018-03-08'
 importance: 8
@@ -42,6 +42,6 @@ actors:
 location: Washington, DC
 notes: Example of politically connected corporations getting special breaks from tariffs with no transparency
 ---
-type: solidarity_event
+type: timeline_event
 
 Reyes Holdings, a Coca-Cola bottling giant owned by two major Republican donors, secured a tariff exemption for PET plastic resin with no public explanation, leaving industry insiders baffled. Records show the company had recently hired lobbyists with close White House ties, heightening suspicions about how the carve-out was won.

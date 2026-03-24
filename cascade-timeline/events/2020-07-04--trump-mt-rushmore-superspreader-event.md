@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-07-04--trump-mt-rushmore-superspreader-event
 date: '2020-07-04'
 title: Trump Holds Mt. Rushmore Rally with 7,500 Packed, Maskless Attendees During Pandemic Surge
@@ -34,7 +34,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump held a campaign-style rally at Mount Rushmore on July 3-4, 2020, with approximately 7,500 ticketed attendees packed close together and mostly maskless, despite the United States setting a pandemic record on that same day with 57,497 confirmed COVID-19 cases. South Dakota Governor Kristi Noem had announced in advance that masks would be available but not required and that social distancing would not be enforced, declaring that those with concerns could simply stay home. The massive gathering defied public health guidance during a period of surging infections and exemplified Trump's pattern of prioritizing political rallies and personal ego over pandemic safety—with the dangerous nature of the event underscored when Kimberly Guilfoyle, a Trump campaign fundraiser and Donald Trump Jr.'s girlfriend, tested positive for COVID-19 on the evening of the event.
 

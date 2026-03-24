@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-07--u-s-pushes-nations-facing-tariffs-to-approve-musk-s-starlink
 date: '2025-05-07'
 title: U.S. Pushes Nations Facing Tariffs to Approve Musk's Starlink
@@ -47,6 +47,6 @@ capture_lanes:
 - Financial Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump Administration leveraged trade negotiations to promote Starlink's global expansion, with countries like Lesotho, Bangladesh, and India expediting satellite internet service approvals in exchange for potential trade concessions.

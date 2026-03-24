@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-01--alec-establishes-cabinet-task-forces-reagan-federalism
 date: '1981-01-01'
 title: ALEC Establishes Cabinet Task Forces and Partners with Reagan's Task Force on Federalism
@@ -45,7 +45,7 @@ capture_lanes:
 - Executive Power Expansion
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1981, ALEC formalized its systematic corporate legislative capture mechanism by establishing seven Cabinet Task Forces that worked directly with the Reagan administration on policy development. President Ronald Reagan formed a national Task Force on Federalism headed by U.S. Senator Paul Laxalt (R-Nevada), which came to rely heavily on the work of ALEC members for expert testimony. ALEC's then-National Chairman Tom Stivers of Idaho served on the Presidential Task Force on Federalism, while ALEC members like State Senator John Kasich of Ohio and Senate President Robert Monier of New Hampshire regularly met before the committee.
 

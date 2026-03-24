@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-04--trump-mar-a-lago-million-dollar-dinners
 date: '2025-03-04'
 title: People are paying millions to dine with Donald Trump at Mar-a-Lago
@@ -42,7 +42,7 @@ notes: High-priority kleptocratic event from comprehensive timeline.
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Business executives and wealthy donors were paying up to $5 million for private meetings with President Trump and $1 million per seat at exclusive dinners at Mar-a-Lago, according to Wired and Axios reporting from early March 2025. The pay-to-access system operated through MAGA Inc., Trump's political action committee, which hosted formal fundraising dinners at Trump's Palm Beach estate that provided wealthy attendees with face time with the president. The fundraising model—holding dinner events at Trump's private club—simultaneously enriched Trump's club through event revenue and provided political donors with presidential access unavailable through normal lobbying channels.
 
 The Axios report noted that the Mar-a-Lago dinner format had become a primary mechanism through which business interests sought to influence Trump administration policy. Corporate executives, foreign business figures, and wealthy individuals who could not achieve meetings through official government channels instead purchased access through political fundraising events at Trump's personal property. This created a financial flow that benefited Trump personally—through club revenue—while the political access purchased through these events generated policy influence that could be worth far more than the admission price in regulatory decisions, government contracts, or favorable treatment.

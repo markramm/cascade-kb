@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-02-12--tigua-casino-closure-abramoff-scheme
 date: '2002-02-12'
 title: Tigua Casino Closes After Abramoff Double-Dealing Scheme Success
@@ -35,6 +35,6 @@ capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Jack Abramoff orchestrated a complex lobbying scheme involving the Tigua tribe's Speaking Rock Casino, first helping to lobby for its closure through Texas legislation, and then charging the tribe $4.2 million to allegedly reopen the casino. The case exemplifies Abramoff's fraudulent 'both sides' strategy, where he simultaneously worked to harm and then supposedly help the same tribal client, ultimately collecting millions while providing no meaningful resolution.

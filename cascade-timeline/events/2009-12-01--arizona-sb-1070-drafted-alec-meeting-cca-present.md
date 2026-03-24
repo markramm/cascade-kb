@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-12-01--arizona-sb-1070-drafted-alec-meeting-cca-present
 date: '2009-12-01'
 title: Arizona SB 1070 Immigration Law Drafted at ALEC Meeting with CCA Executives - Direct Quid Pro Quo for Immigrant Detention Profits
@@ -49,7 +49,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 At a December 2009 meeting of the American Legislative Exchange Council (ALEC)'s Public Safety and Elections Task Force, Arizona State Senator Russell Pearce sits behind closed doors with executives from Corrections Corporation of America (CCA) and lobbyists from the for-profit bail industry to draft and approve the "No Sanctuary Cities for Illegal Immigrants Act" as ALEC model legislation. This becomes Arizona SB 1070, the notorious "Show Me Your Papers" law signed by Governor Jan Brewer on April 23, 2010.
 

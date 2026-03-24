@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--doj-releases-withheld-epstein-files-trump-allegations
 date: '2026-03-05'
 title: DOJ Releases Previously Withheld Epstein Files Containing Sexual Assault Allegations Against Trump
@@ -49,7 +49,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice released more than 1,000 previously withheld pages from the Epstein files on March 5-6, 2026, following an NPR investigation that revealed dozens of pages had been suppressed. The newly released documents included summaries of three FBI interviews conducted in 2019 with a woman from South Carolina who alleged she was sexually assaulted by both Jeffrey Epstein and Donald Trump when she was between 13 and 15 years old, during the mid-1980s.
 

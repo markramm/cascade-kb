@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1952-06-27--mccarran-walter-act-racial-quota-system-over-truman-veto
 date: '1952-06-27'
 title: McCarran-Walter Act Imposes Racialized Immigration Quotas Over Truman Veto - 85% for Europeans
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Immigration and Nationality Act of 1952 (McCarran-Walter Act) over President Truman's veto on June 27, 1952, codifying a racialized immigration quota system that allocates 85 percent of the 154,277 visas available annually to individuals of northern and western European lineage. The Act revises the 1924 National Origins Quota System to allow national quotas at one-sixth of one percent of each nationality's population in the United States in 1920. Immigrants from Great Britain, Ireland, and Germany receive two-thirds of available spots, while the law imposes new quotas on former British Caribbean colonies designed to limit Black migration.
 

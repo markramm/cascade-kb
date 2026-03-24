@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--gao-warns-irs-tax-season-workforce-cuts
 date: '2026-03-17'
 title: GAO Report Warns IRS Workforce Cut 27% Under DOGE, Tax Processing Severely Degraded
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, the Government Accountability Office released a report documenting the severe impact of DOGE-driven workforce reductions on the Internal Revenue Service during the heart of tax filing season. The IRS had shrunk from approximately 102,000 employees to roughly 74,000 — a 27 percent cut — leaving the agency at staffing levels not seen since October 2021, when it was already widely recognized as critically understaffed.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-31--senate-votes-against-witnesses-51-49
 date: 2020-01-31
 title: Senate Votes 51-49 to Block Witnesses in Impeachment Trial, Ensuring Trump Acquittal
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate voted 51-49 on January 31, 2020 to block witness testimony and document production in President Trump's impeachment trial, making it the first Senate impeachment trial in American history conducted without witnesses or new evidence. Only two Republicans—Mitt Romney of Utah and Susan Collins of Maine—broke ranks to vote with all 47 Democrats for witnesses, falling short of the simple majority needed. The vote came just days after revelations from John Bolton's book manuscript confirming Trump tied Ukraine aid to Biden investigations, making the decision to proceed without hearing from Bolton a transparent cover-up that prioritized partisan loyalty over constitutional duty.
 

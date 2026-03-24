@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-29--trump-nominates-a-former-far-right-podcast-host-to-head-an-e
 date: '2025-05-29'
 title: Trump Nominates Paul Ingrassia to Lead Office of Special Counsel
@@ -52,5 +52,5 @@ capture_lanes:
 - Democratic Erosion
 notes: 'Nomination raises significant concerns about the independence of the Office of Special Counsel. Nominee''s limited legal experience and strong political loyalty suggest potential systemic capture of oversight mechanisms.'
 ---
-type: solidarity_event
+type: timeline_event
 President Trump nominated 30-year-old Paul Ingrassia, a political loyalist with ties to far-right media, to lead the Office of Special Counsel (OSC), a government agency responsible for investigating federal employee misconduct and protecting whistleblowers. Ingrassia's nomination sparked significant controversy due to his limited legal experience and connections to controversial political figures.

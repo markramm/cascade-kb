@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-06-05--trump-plaza-casino-racial-discrimination
 date: 1991-06-05
 title: Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 New Jersey casino regulators fined Trump Plaza Hotel and Casino $200,000—at the time one of the largest civil rights penalties ever imposed on an Atlantic City casino—for systematically removing Black employees and women from craps tables to accommodate the racist demands of Robert LiButti, a mob-linked high roller. The New Jersey Casino Control Commission doubled the gaming division's recommended fine after determining the discrimination was "gravely serious."
 

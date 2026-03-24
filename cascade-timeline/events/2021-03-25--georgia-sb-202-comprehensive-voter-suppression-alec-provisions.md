@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-03-25--georgia-sb-202-comprehensive-voter-suppression-alec-provisions
 date: 2021-03-25
 title: Georgia SB 202 Enacts Comprehensive Voter Suppression with Multiple ALEC Provisions
@@ -39,7 +39,7 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Governor Brian Kemp signed Georgia's SB 202, the "Election Integrity Act of 2021," implementing a sweeping 98-page voter suppression law that became the first major state enactment of Trump's "Big Lie" and ALEC's post-2020 model legislation. Passed on strict party-line votes, the omnibus bill incorporated multiple ALEC provisions designed to reduce voter turnout, particularly in Black communities that had delivered Georgia for Joe Biden and elected two Democratic senators.
 

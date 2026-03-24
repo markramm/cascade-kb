@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1919-11-11--american-legion-founded-becomes-anti-labor-force
 date: '1919-11-11'
 title: American Legion Founded with Corporate Backing as Anti-Radical Force
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The American Legion holds its founding convention in Minneapolis on Armistice Day 1919, emerging as a major force in the Red Scare and anti-labor campaigns of the 1920s. Founded by Army officers including Theodore Roosevelt Jr. and Hamilton Fish III in Paris earlier that year, the organization quickly enrolls nearly one million members and establishes itself as a pillar of "100% Americanism." While presenting itself as a nonpartisan veterans' service organization, the Legion receives substantial financial support from corporate interests and becomes a reliable ally in anti-union campaigns, anti-radical activities, and deportation drives.

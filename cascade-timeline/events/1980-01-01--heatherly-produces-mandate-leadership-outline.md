@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-01-01--heatherly-produces-mandate-leadership-outline
 date: '1980-01-01'
 importance: 8
@@ -34,6 +34,6 @@ sources:
 notes: Heatherly was a former field director of the Intercollegiate Studies Institute. His January 1980 five-page outline grew into a project involving twenty project teams and over 300 contributors. The manuscript written in 1980 was 3,000 pages, later published as a 1,093-page book. Reagan aide Edwin Meese attended a July 1980 dinner for project team leaders.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Charles Heatherly, former field director of the Intercollegiate Studies Institute, produces a five-page outline in late January 1980 titled "Mandate for Leadership," initiating the assembly of twenty project teams and over three hundred contributors to create a comprehensive conservative policy blueprint. Working throughout 1980, the teams produce a 3,000-page manuscript covering every aspect of federal government operations with specific recommendations for conservative transformation. In July 1980, Reagan campaign aide Edwin Meese makes a surprise appearance at a Heritage dinner honoring the project's team chairmen and co-chairmen, signaling the Reagan campaign's coordination with Heritage's preparation efforts even before the election. The project demonstrates the institutional capacity Heritage has built since 1973, mobilizing hundreds of conservative policy experts, former government officials, and corporate representatives to produce detailed governing recommendations. This represents Powell Memo implementation at scale - a privately-funded organization preparing to reshape federal policy in alignment with corporate interests, with direct coordination between the think tank and the presidential campaign. The 300 contributors create an interlocking network of conservative expertise that will staff the Reagan administration and continue producing policy recommendations for decades.

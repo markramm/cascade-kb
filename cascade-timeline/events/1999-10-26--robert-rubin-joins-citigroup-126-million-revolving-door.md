@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-10-26--robert-rubin-joins-citigroup-126-million-revolving-door
 date: '1999-10-26'
 title: Robert Rubin Joins Citigroup for $126 Million After Engineering Glass-Steagall Repeal
@@ -46,7 +46,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert Rubin joins Citigroup just four months after leaving his position as Treasury Secretary, shortly after the November 1999 passage of the Gramm-Leach-Bliley Act that repealed Glass-Steagall. Rubin's move to Citigroup - the principal beneficiary of Glass-Steagall repeal - represents one of the most brazen examples of the Wall Street-Washington revolving door in modern American history.
 

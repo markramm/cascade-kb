@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-01-01--union-membership-peak-35-percent-postwar-high
 date: '1954-01-01'
 title: Union Membership Reaches Peak of 35% of Workforce, Enabling Shared Prosperity
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 American union membership reaches its historical peak at approximately 35% of the workforce, representing the high-water mark of organized labor's power to secure shared prosperity through collective bargaining. Strong industrial unions including the United Auto Workers, United Steelworkers, and newly merged AFL-CIO negotiate pattern bargaining agreements that set wage standards across entire industries, enabling workers to capture productivity gains in rising compensation.
 

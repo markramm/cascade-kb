@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--trump-soho-money-laundering-operation-77-shell-com
 date: '2010-01-01'
 importance: 8
@@ -47,5 +47,5 @@ sources:
 notes: 'Former Bayrock finance director testified to systematic money laundering. Felix Sater pleaded guilty in 1998 to $40 million stock fraud scheme orchestrated by Russian Mafia, became FBI informant. Tevfik Arif arrested in 2010 in Turkey on prostitution charges (acquitted 2012). Building described as "monument to spectacularly corrupt money-laundering and tax evasion."'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 At Trump SoHo (completed 2010), 77% of sales ($110 million) went to cash-paying shell companies. Property developed by Bayrock Group, whose former finance director Jody Kriss testified it was a "spectacularly corrupt money-laundering and tax evasion" operation. In 2013, Khrapunovs purchased three units for $3.1 million using funds traced to $440 million Kazakhstan bank fraud. Bayrock received "unexplained infusions of cash from accounts in Kazakhstan and Russia."

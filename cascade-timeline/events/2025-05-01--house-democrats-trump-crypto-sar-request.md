@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-01--house-democrats-trump-crypto-sar-request
 date: '2025-05-01'
 importance: 6
@@ -44,5 +44,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 House Democrats filed formal request for all Suspicious Activity Reports related to Trump's cryptocurrency ventures, citing concerns about deceptive practices, potential bribery, corruption, and illicit foreign influence through blockchain transactions worth hundreds of millions from foreign nationals.

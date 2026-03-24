@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-28--operation-epic-fury-us-military-strikes-iran
 date: '2026-02-28'
 title: Operation Epic Fury - US and Israel Launch Massive Military Strikes on Iran
@@ -65,7 +65,7 @@ capture_lanes:
 - War Without Authorization
 - Regime Change Operations
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 28, 2026, President Trump authorized the launch of Operation Epic Fury, a massive coordinated US-Israeli military campaign targeting Iran without congressional authorization. Codenamed Operation Roaring Lion by Israel, the strikes commenced with simultaneous attacks on Tehran, Isfahan, Qom, Karaj, and Kermanshah. Within the first 48 hours, CENTCOM reported more than 1,250 targets struck; the total exceeded 1,700 within 72 hours.
 

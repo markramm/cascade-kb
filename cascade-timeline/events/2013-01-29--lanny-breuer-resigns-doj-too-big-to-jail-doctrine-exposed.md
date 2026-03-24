@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-01-29--lanny-breuer-resigns-doj-too-big-to-jail-doctrine-exposed
 date: '2013-01-29'
 title: DOJ Criminal Division Chief Lanny Breuer Resigns After PBS Frontline Documentary 'The Untouchables' Exposes 'Too Big to Jail' Policy Resulting in Zero Major Bank Executive Prosecutions Compared to 900+ Convictions in 1980s S&L Crisis
@@ -46,7 +46,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 29, 2013, Assistant Attorney General Lanny Breuer announced his resignation as head of the Department of Justice's Criminal Division, just one week after PBS Frontline aired "The Untouchables," a damning documentary exposing how the Obama Justice Department had deliberately chosen not to criminally prosecute any senior Wall Street executives for fraud related to the 2008 financial crisis. Breuer's resignation came one day after the Washington Post reported he was stepping down, and the timing left little doubt that the documentary's exposure of his "too big to jail" doctrine had made his position untenable. During his tenure from April 2009 to January 2013, Breuer oversaw the period when the Justice Department could have pursued criminal cases against bank executives for securities fraud, accounting fraud, and other crimes that caused the worst financial crisis since the Great Depression. Instead, his division brought criminal charges against just one senior banking executive—Kareem Serageldin of Credit Suisse—while hundreds of executives whose fraudulent practices had cost the economy trillions of dollars and destroyed millions of jobs faced no criminal prosecution.
 

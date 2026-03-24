@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-10-16--enron-reports-618m-loss-fastow-cfo-partnerships
 date: 2001-10-16
 title: Enron Reports $618 Million Loss and Reveals CFO Partnership Schemes
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 16, 2001, Enron announced a $618 million quarterly loss, marking a pivotal moment in the company's downfall. The loss was largely attributed to a one-time charge for terminating "certain structured finance arrangements" known as the Raptors, which were partnerships controlled by CFO Andrew Fastow.
 

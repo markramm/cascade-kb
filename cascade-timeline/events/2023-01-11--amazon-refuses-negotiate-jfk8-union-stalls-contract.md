@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-01-11--amazon-refuses-negotiate-jfk8-union-stalls-contract
 date: 2023-01-11
 title: Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
 

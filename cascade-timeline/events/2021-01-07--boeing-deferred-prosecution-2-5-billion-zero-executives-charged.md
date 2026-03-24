@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-07--boeing-deferred-prosecution-2-5-billion-zero-executives-charged
 date: '2021-01-07'
 title: 'Boeing Pays $2.5 Billion in Deferred Prosecution Deal, Zero Executives Charged for 346 Deaths'
@@ -44,7 +44,7 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice charged Boeing with one count of conspiracy to defraud the United States in connection with the 737 MAX evaluation and entered a deferred prosecution agreement requiring Boeing to pay $2.5 billion in penalties. Despite evidence that Boeing executives knowingly deceived the FAA about MCAS capabilities, concealed safety-critical information from pilots and regulators, and prioritized profits over 346 human lives, zero individual executives were criminally charged.
 
 The $2.5 billion payment included $243.6 million in criminal penalties, $500 million for a victim compensation fund, and $1.77 billion for airline customers who suffered losses from the MAX grounding. The criminal penalty portion represented a rounding error for Boeing, which had $58 billion in revenue in 2020. Under the deferred prosecution agreement, if Boeing complied with certain conditions for three years, the criminal charge would be dismissed entirely, allowing the corporation to avoid a criminal conviction.

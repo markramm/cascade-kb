@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-05-18--biden-dpa-baby-formula-abbott-monopoly-crisis
 date: '2022-05-18'
 title: Biden Invokes Defense Production Act for Baby Formula After Abbott Recall Exposes Dangerous Monopoly
@@ -36,7 +36,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Biden invoked the Defense Production Act to address a nationwide infant formula shortage triggered by the February 2022 recall and shutdown of Abbott Nutrition's Sturgis, Michigan manufacturing facility — the single largest formula plant in the United States. Abbott controlled approximately 40 percent of the domestic infant formula market, and the closure of one plant was sufficient to create a national emergency affecting millions of families. The DPA invocation directed suppliers to prioritize formula manufacturers over other customers for critical ingredients and required the U.S. Department of Defense to facilitate Operation Fly Formula, using military aircraft to airlift formula from overseas producers to American consumers.
 

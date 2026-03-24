@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-01-01--wells-fargo-begins-systematic-fake-account-fraud
 date: '2011-01-01'
 title: Wells Fargo Employees Begin Creating 3.5 Million Fake Accounts
@@ -35,7 +35,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Wells Fargo employees begin a systematic scheme to create unauthorized bank and credit card accounts, ultimately affecting 3.5 million customer accounts over five years. Driven by aggressive sales targets and compensation incentives, employees open accounts without customer consent, forge signatures, create fake email addresses and PIN numbers, and transfer funds from authorized accounts to cover the fraudulent accounts. The scheme generates millions in unearned fees while employees desperately attempt to meet impossible sales quotas known as "cross-selling" targets.
 

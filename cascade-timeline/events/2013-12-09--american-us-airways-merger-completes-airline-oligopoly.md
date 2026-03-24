@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-12-09--american-us-airways-merger-completes-airline-oligopoly
 date: '2013-12-09'
 title: 'American Airlines-US Airways Merger Creates Airline Oligopoly: Big Four Control 75% of Market'
@@ -39,7 +39,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice approved American Airlines' merger with US Airways after initially suing to block the deal, completing a five-year consolidation wave that reduced major U.S. airlines from seven to four dominant carriers controlling three-quarters of the commercial air travel market. The settlement requiring minor slot divestitures at Reagan National and other airports was cosmetic compared to the massive increase in market concentration.
 

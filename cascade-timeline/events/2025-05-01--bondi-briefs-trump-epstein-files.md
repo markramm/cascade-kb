@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-01--bondi-briefs-trump-epstein-files
 date: '2025-05-01'
 importance: 6
@@ -41,7 +41,7 @@ sources:
 notes: 'Reveals Trump''s awareness of financial crime exposure in Epstein documents'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Attorney General Pam Bondi privately briefed President Trump in approximately May 2025 that his name appeared multiple times in documents from the Jeffrey Epstein case files, according to reporting by CNN and ABC News published in July 2025. The briefing revealed that Trump was aware his name appeared in the Epstein files before the Department of Justice subsequently withheld significant portions of those documents from public release. The sequence — briefing the president about his own appearance in sensitive files, followed by non-disclosure of those files — raised questions about whether Trump's personal interests influenced the decision about what Epstein-related material to release.
 
 Epstein, the convicted sex trafficker who died in federal custody in August 2019, had maintained extensive connections to powerful figures in business, politics, and entertainment across several decades. Trump had a documented social relationship with Epstein during the 1980s and 1990s, and records from the civil litigation against Ghislaine Maxwell had established that Trump's name appeared in various Epstein-related documents. CNN reported that Bondi told Trump his name appeared "multiple times" in the files, with the reporting characterizing the content as related to financial interactions rather than allegations of sexual misconduct.

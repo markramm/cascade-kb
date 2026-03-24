@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-02-26--bricker-amendment-fails-corporate-treaty-power-battle
 date: '1954-02-26'
 title: Bricker Amendment Fails by One Vote, Conservative Attempt to Limit Treaty Power Defeated
@@ -41,7 +41,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 26, 1954, the United States Senate rejected the Bricker Amendment, a proposed constitutional amendment that would have severely limited the President's treaty-making power. The amendment, backed by conservative Republicans and corporate groups including the American Bar Association and Chamber of Commerce, failed by a single vote—60 to 31, falling one vote short of the required two-thirds majority.
 

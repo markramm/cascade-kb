@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-01-01--kansas-kobach-proof-citizenship-interstate-crosscheck
 date: 2013-01-01
 title: Kansas Implements Kris Kobach's Proof-of-Citizenship Voting Law and Expands Interstate Crosscheck
@@ -40,7 +40,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Kansas Secretary of State Kris Kobach implements one of the nation's strictest voter registration laws, requiring documentary proof of citizenship (birth certificate, passport, or naturalization papers) to register to vote. Simultaneously, Kobach expands the Interstate Voter Registration Crosscheck Program to 30 states, creating a system plagued by false matches that wrongly flags legitimate voters for removal. Both initiatives claim to combat voter fraud but lack evidence of significant fraud while creating substantial barriers to legitimate voting.
 

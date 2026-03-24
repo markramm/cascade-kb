@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-09-02--eric-cantor-wall-street-millions
 date: '2014-09-02'
 title: Eric Cantor Joins Wall Street Investment Bank for $3.4M After House Leadership
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Moelis & Company, a Wall Street investment bank, announced the appointment of former House Majority Leader Eric Cantor (R-VA) as vice chairman and managing director just two weeks after his congressional career ended. According to SEC filings, Cantor's compensation package included a $400,000 base salary, $400,000 signing bonus, and $1 million in restricted stock, totaling at least $3.4 million. The appointment came barely two months after Cantor suffered a shocking primary defeat to Tea Party challenger Dave Brat, ending his 14-year congressional career and derailing his ambitions to become Speaker of the House.
 

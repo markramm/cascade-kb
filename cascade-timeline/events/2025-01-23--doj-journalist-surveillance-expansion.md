@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-23--doj-journalist-surveillance-expansion
 date: '2025-01-23'
 title: DOJ Expands Surveillance of Journalists Covering Administration
@@ -40,5 +40,5 @@ capture_lanes:
 - Electoral Manipulation
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice implements a new national security data security program that potentially allows for increased surveillance of journalists. Under the program, DOJ creates mechanisms to access bulk data that could be used to track reporters, particularly those investigating administration actions related to the 2016 election and subsequent investigations.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-02-07--trump-purge-impeachment-witnesses-vindman-sondland
 date: '2020-02-07'
 title: Trump Fires Impeachment Witnesses Vindman and Sondland in Coordinated Retaliation Purge
@@ -45,7 +45,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump orchestrated a coordinated purge of impeachment witnesses on February 7, 2020, just two days after his Senate acquittal, firing both Lt. Col. Alexander Vindman and EU Ambassador Gordon Sondland in unmistakable retaliation for their truthful congressional testimony. Vindman, the National Security Council's Ukraine expert who testified about Trump's July 25, 2019 call with Ukrainian President Zelensky, was escorted out of the White House along with his twin brother Yevgeny Vindman, an NSC lawyer who had no role in the impeachment inquiry. Sondland, Trump's handpicked EU Ambassador who donated $1 million to Trump's inauguration, was fired the same day after his devastating testimony that "everyone was in the loop" about the Ukraine pressure campaign. The simultaneous dismissals sent an unmistakable message: truthful testimony to Congress, even when legally compelled, would trigger immediate presidential retaliation.
 

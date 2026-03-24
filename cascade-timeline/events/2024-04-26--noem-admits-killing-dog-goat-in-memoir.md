@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-04-26--noem-admits-killing-dog-goat-in-memoir
 date: '2024-04-26'
 title: Noem reveals she killed 14-month-old dog and goat in memoir
@@ -32,5 +32,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 In her memoir "No Going Back," Kristi Noem wrote about shooting her 14-month-old dog Cricket and a goat on her ranch 20 years ago. She described Cricket as "untrainable" after the dog attacked chickens and attempted to bite her. She then shot a goat because it smelled bad and knocked down her children. Noem defended the killings as examples of making tough leadership decisions, severely damaging her VP prospects.

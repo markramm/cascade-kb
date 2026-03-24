@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--capital-one-cfpb-case-dropped-after-donation
 date: '2025-02-15'
 title: Capital One CFPB case dropped after $1 million inauguration donation
@@ -55,6 +55,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 After Capitol One donated $1 million to President Trump's inauguration fund, the Trump Administration ended a Consumer Financial Protection Bureau (CFPB) case against Capital One involving allegedly misleading consumers about interest payments.

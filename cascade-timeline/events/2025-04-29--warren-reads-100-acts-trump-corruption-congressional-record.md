@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--warren-reads-100-acts-trump-corruption-congressional-record
 date: '2025-04-29'
 title: Elizabeth Warren reads 100 acts of Trump corruption into Congressional Record
@@ -39,6 +39,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Senator Elizabeth Warren marked Trump's 100th day in office by reading a comprehensive list of 100 documented acts of corruption into the Congressional Record. The list included the mass firing of 18 Inspectors General, the Trump family's $320+ million cryptocurrency scheme, systematic removal of officials investigating Elon Musk's companies, $940 million in coerced free legal services, and unprecedented pay-for-access arrangements. Warren's speech created an official government record of the administration's kleptocratic actions, documenting the transformation of the U.S. government into a vehicle for personal enrichment.

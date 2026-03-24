@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-06--trump-watches-tv-refuses-act-during-riot
 date: '2021-01-06'
 title: FBI forensics show Trump watched TV and tweeted instead of stopping Capitol riot
@@ -39,6 +39,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI forensic analysis of Trump's iPhone revealed he spent the afternoon of January 6 in the White House dining room watching TV coverage of the Capitol riot while using Twitter, refusing to call off the attack. Three witnesses testified the TV was tuned to news covering the riot in real time. FBI experts mapped Trump's phone activity showing consistent Twitter use throughout the day rather than taking action to stop the violence that injured 140 officers.

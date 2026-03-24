@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2009-01-01--lapd-jric-fusion-center-adopts-palantir
 date: '2009-01-01'
@@ -33,7 +33,7 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2009, the Joint Regional Intelligence Center (JRIC), Southern California's multiagency, multidisciplinary fusion center, began using Palantir Technologies' data analysis platform to connect and analyze Suspicious Activity Reports (SARs) and other intelligence data. This marked Palantir's first major deployment with local law enforcement, expanding the company's reach beyond federal intelligence and military agencies to municipal police departments.
 

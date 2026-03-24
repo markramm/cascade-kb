@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--new-jersey-judge-farbiarz-criminal-contempt-ice-transfers
 date: '2026-03-03'
 title: New Jersey Federal Judge Threatens Criminal Contempt After ICE Violates Transfer
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 3, 2026, a federal judge in New Jersey threatened the Immigration and Customs Enforcement agency and its leadership with criminal contempt after documenting seventeen instances in which ICE had transferred detained immigrants out of New Jersey in violation of court-issued no-transfer orders. The judge required ICE officials to sign written affidavits in each individual immigration case acknowledging the existence and requirements of outstanding court orders — an extraordinary accountability measure reflecting judicial exhaustion with repeated noncompliance.
 

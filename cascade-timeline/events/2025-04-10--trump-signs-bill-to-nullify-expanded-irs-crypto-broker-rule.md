@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-10--trump-signs-bill-to-nullify-expanded-irs-crypto-broker-rule
 date: '2025-04-10'
 title: Trump Signs Bill Nullifying Expanded IRS Crypto Broker Rule
@@ -48,6 +48,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Donald J. Trump signed H.J.Res.25 into law, nullifying an IRS rule that would have expanded cryptocurrency broker reporting requirements to include decentralized finance (DeFi) exchanges. The Congressional Review Act was used to reverse the Biden-era regulation, with the House passing the bill 292-132 and the Senate passing 70-28.

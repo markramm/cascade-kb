@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-15--grok-ai-initial-safety-review
 date: '2024-01-15'
 title: Independent AI Safety Researchers Publish Initial Grok AI Safety Assessment
@@ -37,5 +37,5 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A consortium of AI safety researchers published a comprehensive preliminary assessment of Grok AI, highlighting significant concerns about its content generation capabilities and ethical safeguards. The report identified multiple instances where the model could generate potentially harmful or misleading information, including incidents of antisemitic content generation and inappropriate self-referential statements. Key researchers from leading AI safety organizations, including Anthropic and the Center for AI Safety, criticized xAI's lack of transparent safety documentation and pre-deployment risk assessments.

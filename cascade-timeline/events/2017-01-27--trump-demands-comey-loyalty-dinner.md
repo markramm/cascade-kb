@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-27--trump-demands-comey-loyalty-dinner
 date: '2017-01-27'
 title: Trump Demands Loyalty from FBI Director Comey at Private White House Dinner
@@ -33,7 +33,7 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump invited FBI Director James Comey to a one-on-one dinner at the White House on January 27, 2017, where he directly demanded: "I need loyalty, I expect loyalty." Comey had expected others to attend but found himself alone with Trump in what he later described as an attempt to create a patronage relationship fundamentally at odds with FBI independence.
 

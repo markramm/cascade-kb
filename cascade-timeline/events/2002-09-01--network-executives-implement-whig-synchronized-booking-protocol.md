@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-01--network-executives-implement-whig-synchronized-booking-protocol
 date: '2002-09-01'
 title: Network Executives Implement WHIG Synchronized Booking Protocol
@@ -47,6 +47,6 @@ tags:
 verification_status: fully_confirmed
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group (WHIG) successfully coordinated a sophisticated media strategy targeting Sunday morning news shows, systematically deploying key administration officials like Dick Cheney, Condoleezza Rice, and Karl Rove to present a unified narrative about the alleged threat posed by Iraq. This coordinated messaging campaign, carefully orchestrated by White House strategists, was designed to build public support for military intervention by presenting a consistent and alarming portrayal of Iraq's weapons capabilities.

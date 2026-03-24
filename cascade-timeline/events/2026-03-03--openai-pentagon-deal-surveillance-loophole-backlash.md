@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--openai-pentagon-deal-surveillance-loophole-backlash
 date: '2026-03-03'
 title: "OpenAI Revises Pentagon Deal After Surveillance Loophole Backlash, Critics Remain Unconvinced"
@@ -54,7 +54,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 3, 2026, OpenAI had revised its Pentagon deal in response to mounting criticism over surveillance loopholes in the original contract language. CEO Sam Altman acknowledged publicly that the company "shouldn't have rushed" the announcement, calling the rollout "opportunistic and sloppy" even while defending the underlying decision to strike an agreement with the Department of Defense.
 

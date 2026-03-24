@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--trump-linked-lobbyists-are-having-a-hopping-good-time
 date: '2025-04-22'
 title: Trump-linked Lobbying Firms Dramatically Increase Q1 2025 Revenues
@@ -50,6 +50,6 @@ notes: Comprehensive documentation of regulatory capture and lobbying influence 
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In Q1 2025, Trump-affiliated lobbying firms like Ballard Partners and Mercury Public Affairs experienced a massive surge in profits, with Ballard Partners increasing revenues from $4.4M to $14.4M. The firms added over 120 new clients, including major corporations like JPMorgan Chase, Chevron, and Netflix, highlighting the lucrative 'revolving door' between the Trump administration and lobbying industry.

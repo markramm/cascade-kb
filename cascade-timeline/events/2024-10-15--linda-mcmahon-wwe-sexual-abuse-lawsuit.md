@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-10-15--linda-mcmahon-wwe-sexual-abuse-lawsuit
 date: '2024-10-15'
 title: Linda McMahon named in lawsuit alleging WWE covered up child sexual abuse
@@ -36,5 +36,5 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump's Education Secretary nominee Linda McMahon was named in a lawsuit alleging she and Vince McMahon turned a blind eye to years of sexual abuse of underage "ring boys" by WWE announcer Melvin Phillips in the 1980s-90s. The lawsuit claims the McMahons knew about Phillips' abuse as early as the mid-1980s but only fired him in 1988 after continued allegations. Five anonymous plaintiffs, ages 13-15 when recruited, filed the suit.

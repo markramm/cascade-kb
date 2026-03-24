@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1966-09-09--national-traffic-motor-vehicle-safety-act-nader-gm
 date: '1966-09-09'
 title: National Traffic and Motor Vehicle Safety Act Passes After GM Harassment of Ralph Nader Backfires
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 9, 1966, President Lyndon B. Johnson signed the National Traffic and Motor Vehicle Safety Act, establishing the first federal safety standards for automobiles and creating what would become the National Highway Traffic Safety Administration. The legislation passed unanimously after General Motors' attempt to discredit consumer advocate Ralph Nader spectacularly backfired, turning him into a national hero and generating irresistible momentum for regulation.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1787-09-06--electoral-college-design-benefits-slave-states
 date: '1787-09-06'
 title: Electoral College Design Leverages Three-Fifths Compromise to Amplify Slave State Power
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Constitutional Convention delegates finalize the Electoral College system for selecting presidents, resolving months of contentious debate between those favoring congressional selection and those supporting direct popular vote. The compromise creates an indirect election method where each state receives electoral votes equal to its combined House and Senate representation, with the critical feature that House seats are apportioned using the Three-Fifths Compromise formula counting enslaved people. This design proves essential for securing southern states' support because it leverages their inflated congressional representation (derived from enslaved populations) into presidential election power, whereas a direct popular vote would diminish southern influence given that roughly one-third of the South's population consists of disenfranchised enslaved people who cannot vote.
 

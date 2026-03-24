@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-07-19--visegrad-netanyahu-summit-pegasus-sales-hungary-poland
 date: '2017-07-19'
 title: Netanyahu Meets Visegrad Leaders in Budapest Before Hungary and Poland Purchase Pegasus
@@ -42,7 +42,7 @@ capture_lanes:
 - International Kleptocracy
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Prime Minister Benjamin Netanyahu hosts the first summit meeting between Israel and the Visegrad Group (V4) countries in Budapest on July 19, 2017, meeting with Hungarian Prime Minister Viktor Orban, Polish Prime Minister Beata Szydło (later Mateusz Morawiecki), and leaders from Czech Republic and Slovakia. The summit focuses on security cooperation, counter-terrorism, and technology partnerships between Israel and Central European nations increasingly aligned on immigration and illiberal governance.
 

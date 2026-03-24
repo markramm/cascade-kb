@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-01-01--public-affairs-council-founded
 date: '1954-01-01'
 title: Eisenhower Convenes Business Leaders to Create Public Affairs Council for Political
@@ -68,7 +68,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Dwight D. Eisenhower convenes a meeting of business executives in 1954 to encourage creation of a national organization making business people from both parties active participants in the political process, launching what becomes the Public Affairs Council. The organization is initially incorporated as the Effective Citizens Organization (ECO), explicitly designed to mobilize corporate executives for political involvement in their communities and the electoral system. At the time, the concept of corporate "public affairs" is only beginning to emerge, initially meaning legislative monitoring and corporate community involvement, with only a handful of companies maintaining formal public affairs programs in the 1950s.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-22--venezuela-naval-blockade-105-killed-29-strikes
 date: '2025-12-22'
 title: Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out War
@@ -72,7 +72,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Trump administration's naval blockade of Venezuela has killed at least 105 people in 29 strikes on 30 vessels as of December 22. The US Coast Guard seized the Centuries tanker carrying 1.8 million barrels of Venezuelan crude to China. Approximately 15,000 US troops and more than a dozen warships are deployed to the region.

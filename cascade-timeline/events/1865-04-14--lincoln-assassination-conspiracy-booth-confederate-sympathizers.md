@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1865-04-14--lincoln-assassination-conspiracy-booth-confederate-sympathizers
 date: '1865-04-14'
 title: John Wilkes Booth Assassinates Lincoln in Coordinated Conspiracy to Decapitate Union Government After Confederate Defeat
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 At approximately 10:20 p.m. on April 14, 1865, Confederate sympathizer and prominent actor John Wilkes Booth shoots President Abraham Lincoln in the back of the head at point-blank range while Lincoln watches a play at Ford's Theatre in Washington, D.C. Lincoln dies the following morning at a private home across the street. The assassination is part of a coordinated conspiracy to decapitate the Union government—at almost the same moment, Booth's accomplice Lewis Powell attacks Secretary of State William H. Seward at his home on Lafayette Square, while George Atzerodt is assigned to kill Vice President Andrew Johnson but loses his nerve and stays drinking in a hotel bar instead. Booth, a Maryland-born member of the prominent 19th-century Booth theatrical family, is a noted Confederate sympathizer who originally planned to kidnap Lincoln to aid the Confederate cause but changes to assassination after Lee's surrender makes kidnapping pointless. On April 11, Booth is in the crowd when Lincoln speaks from the White House window about granting suffrage to formerly enslaved people; infuriated, Booth vows it will be Lincoln's last speech and allegedly declares he will kill him.
 

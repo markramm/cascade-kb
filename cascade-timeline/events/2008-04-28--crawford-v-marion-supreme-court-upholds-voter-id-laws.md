@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-04-28--crawford-v-marion-supreme-court-upholds-voter-id-laws
 date: '2008-04-28'
 title: 'Crawford v. Marion County: Supreme Court Upholds Strict Voter ID Laws Despite No Evidence of In-Person Fraud'
@@ -35,7 +35,7 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court upheld Indiana's strict photo voter ID law in Crawford v. Marion County, ruling 6-3 that the state's interest in preventing voter fraud and maintaining public confidence in elections justified the burden imposed on voters without qualifying identification. The decision opened the floodgates for voter ID laws across the country despite the absence of evidence that in-person voter fraud—the only type ID laws could prevent—was a significant problem.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-04--npr-pbs-defunding
 date: '2025-07-04'
 importance: 6
@@ -39,6 +39,6 @@ sources:
   tier: 1
 notes: Defunding accomplished through rescission package attached to reconciliation bill, bypassing normal appropriations process. Removes critical source of independent journalism and emergency communications infrastructure.
 ---
-type: solidarity_event
+type: timeline_event
 
 Through companion rescission package to budget reconciliation, Congress eliminated $1.1 billion in federal funding for NPR and PBS, removing independent news sources. FCC Commissioner Anna Gomez stated "This isn't about saving money. It's about silencing those who report the news accurately, without fear or favor," revealing political motivations behind defunding public broadcasting that provides vital emergency alerting in times of crisis.

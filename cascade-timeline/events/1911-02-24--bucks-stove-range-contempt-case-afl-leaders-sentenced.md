@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1911-02-24--bucks-stove-range-contempt-case-afl-leaders-sentenced
 date: '1911-02-24'
 title: 'Buck''s Stove Case: Gompers, Mitchell, Morrison Sentenced for Contempt, Boycotts Criminalized'
@@ -35,7 +35,7 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal court sentenced AFL President Samuel Gompers to one year in prison, Vice President John Mitchell to nine months, and Secretary Frank Morrison to six months for contempt of court in the Buck's Stove and Range Company boycott case. The case exemplified how federal courts had become instruments of corporate power, criminalizing fundamental labor organizing tactics through creative application of antitrust law and injunctions.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1947-07-26--national-security-act-creates-permanent-warfare-state
 date: '1947-07-26'
 title: National Security Act Establishes Permanent Warfare State and Military-Industrial Framework
@@ -49,7 +49,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 
 # National Security Act Creates Permanent Warfare State

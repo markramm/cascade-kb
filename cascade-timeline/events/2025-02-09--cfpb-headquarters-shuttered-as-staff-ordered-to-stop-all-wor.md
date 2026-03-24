@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Russell Vought
 - Mark Paoletta
@@ -56,5 +56,5 @@ tags:
 - mass-layoffs
 title: CFPB Headquarters Shuttered as Staff Ordered to Stop All Work
 ---
-type: solidarity_event
+type: timeline_event
 Consumer Financial Protection Bureau employees were ordered to "stand down from performing any work task" as headquarters was shuttered through February 14. Acting Director Russell Vought and chief legal officer Mark Paoletta halted all CFPB operations unless specifically cleared, beginning systematic dismantling of consumer protection agency.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1936-01-15--la-follette-committee-exposes-pinkerton-labor-espionage-network
 date: '1936-01-15'
 title: La Follette Committee Exposes Pinkerton and Burns Detective Agencies' Massive Labor Espionage Network
@@ -36,7 +36,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The La Follette Civil Liberties Committee subpoenas records from major private detective agencies in early 1936, exposing the vast scale of corporate labor espionage in American industry. The investigation reveals that the Pinkerton National Detective Agency, Burns International Detective Agency, and smaller firms maintain networks of thousands of labor spies infiltrated into unions at every level—from rank-and-file members to local presidents and even national officers. The committee's findings represent the most comprehensive exposure of private surveillance operations in American history.
 

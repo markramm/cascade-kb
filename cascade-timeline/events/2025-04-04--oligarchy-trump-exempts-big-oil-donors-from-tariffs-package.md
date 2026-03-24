@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-04--oligarchy-trump-exempts-big-oil-donors-from-tariffs-package
 date: '2025-04-04'
 title: '‘Oligarchy’: Trump exempts big oil donors from tariffs package'
@@ -49,6 +49,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump’s sweeping 10% universal tariffs unveiled Wednesday exempt many fossil fuel products—including LNG imports, Canadian crude, and petrochemical inputs—which came after the fossil fuel industry contributed $96 million to Trump’s re-election effort

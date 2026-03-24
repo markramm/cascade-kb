@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-25--brendan-carr-fcc-project-2025
 date: '2025-01-25'
 importance: 6
@@ -45,6 +45,6 @@ sources:
 notes: First Project 2025 contributor to lead a major federal regulatory agency
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Brendan Carr, who wrote Project 2025's FCC chapter calling for "reining in Big Tech" and Section 230 reform to combat "tech censorship," now chairs the FCC implementing his own recommendations. Immediately after appointment, announced plans to "dismantle the censorship cartel."

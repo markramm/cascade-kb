@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2017-06-27'
 title: EU Fines Google Record €2.42B for Search Manipulation Favoring Google Shopping
 description: The European Commission imposed a record €2.42 billion ($2.7 billion) antitrust fine on Google for abusing its search engine dominance by systematically favoring its own comparison shopping service while demoting rival services in search results. Following a 7-year investigation analyzing 1.7 billion search queries, Competition Commissioner Margrethe Vestager found that Google gave its own shopping service "illegal advantage" by prominently displaying it at the top of search results while burying competitors on page 4 or later—where 90% of users never look. The decision proved Google's search monopoly abuse and established that even dominant platforms cannot use their market power to favor their own services over competitors. Google appealed but lost repeatedly, with courts upholding the fine in 2021.
@@ -56,7 +56,7 @@ connections:
 - EU antitrust enforcement
 notes: Landmark case proving search monopoly abuse through self-preferencing. First major antitrust fine in the modern tech platform era. Established legal precedent for platform accountability.
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 27, 2017, the European Commission imposed a record-breaking €2.42 billion ($2.7 billion) fine on Google for abusing its dominance in general internet search by systematically favoring its own comparison shopping service over those of competitors. The decision concluded a 7-year investigation and represented the largest antitrust fine in European history at the time.
 

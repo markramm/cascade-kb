@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-05-14--seattle-head-tax-amazon-threatens-city-wapo-opposes
 date: 2018-05-14
 title: Seattle Passes Head Tax on Large Employers—Amazon Threatens Expansion Halt, Washington Post Editorial Aligns with Owner's Interests
@@ -38,7 +38,7 @@ capture_lanes:
 - Media Capture & Control
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Seattle's City Council unanimously passed a "head tax" on large employers on May 14, 2018, taxing companies earning $20 million+ annually at $275 per full-time employee to fund affordable housing and homeless services. Amazon—with 45,000 Seattle employees and facing a $12 million annual tax bill—immediately threatened to halt expansion plans and funded a campaign to repeal the tax. The Washington Post, owned by Amazon founder Jeff Bezos, published editorials opposing the head tax and similar measures, demonstrating how billionaire media ownership aligns editorial positions with owner's financial interests even on local tax issues.
 

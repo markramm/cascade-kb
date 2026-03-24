@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-26--anthropic-rejects-pentagon-ultimatum-red-lines
 date: '2026-02-26'
 title: 'Anthropic Formally Rejects Pentagon Ultimatum, Amodei Holds Red Lines on AI Safety'
@@ -49,7 +49,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 26, 2026, Anthropic CEO Dario Amodei issued a formal rejection of the Pentagon's ultimatum, publicly declaring "We cannot in good conscience accede to their request" as the Defense Department's deadline approached. In an exclusive CBS News interview, Amodei stated that Anthropic was in agreement with 98 to 99 percent of the military's proposed use cases for its Claude AI models, but maintained two absolute limits—no use of AI for mass domestic surveillance of Americans, and no use of AI to direct fully autonomous weapons systems that could fire without human authorization.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-02-20--jesse-jackson-jr-pleads-guilty-campaign-fraud
 date: 2013-02-20
 title: Rep. Jesse Jackson Jr. Pleads Guilty to $750,000 Campaign Fund Fraud
@@ -45,7 +45,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former U.S. Representative Jesse Jackson Jr. (D-IL), son of civil rights leader Rev. Jesse Jackson, pleaded guilty in federal court on February 20, 2013, to one count of conspiracy to commit wire fraud, mail fraud, and false statements. Jackson admitted misusing approximately $750,000 in campaign funds for personal expenses over several years, telling Judge Robert L. Wilkins: "I used monies that should have been used for campaign purposes." Jackson had resigned from Congress in November 2012 after nearly 18 years in office, citing mental health issues and acknowledging he was under federal investigation.
 

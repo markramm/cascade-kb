@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-10-25--maria-butina-deported-russia
 date: '2019-10-25'
 title: Maria Butina Released from Federal Prison and Immediately Deported to Russia After 15 Months
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Maria Butina was released from the Tallahassee Federal Correction Institution on October 25, 2019 after serving more than 15 months in federal custody. She was immediately taken into custody by U.S. Immigration and Customs Enforcement (ICE) and deported to Russia the same day, departing on a direct flight from Miami International Airport to Moscow at approximately 6 p.m.
 

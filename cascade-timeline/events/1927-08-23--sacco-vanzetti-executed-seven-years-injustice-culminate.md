@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1927-08-23--sacco-vanzetti-executed-seven-years-injustice-culminate
 date: '1927-08-23'
 title: Sacco and Vanzetti Executed After Seven Years of Biased Proceedings
@@ -38,7 +38,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Nicola Sacco and Bartolomeo Vanzetti are executed by electric chair at Charlestown State Prison in Massachusetts at 12:19 AM, exactly seven years after their arrest. Despite worldwide protests, new evidence suggesting innocence, and widespread doubt about the fairness of their trial, Massachusetts authorities proceed with the executions following Governor Alvin Fuller's refusal to grant clemency. Vanzetti's final statement proclaims: "I am innocent of all crime, not only this one, but of all... I am an innocent man."
 

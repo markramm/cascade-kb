@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1927-02-25--mcfadden-act-banking-fragmentation
 date: '1927-02-25'
 title: McFadden Act Perpetuates Banking Fragmentation, Prohibits Interstate Branching
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Calvin Coolidge signs the McFadden Act, one of the most contested pieces of banking legislation in U.S. history, which recharters the twelve Federal Reserve District Banks into perpetuity but prohibits interstate branch banking for national banks. Named after Representative Louis Thomas McFadden, Chairman of the House Banking Committee, the act was first introduced in 1924 and debated extensively for three years before passage. While ostensibly providing "competitive equality" by allowing national banks to open branches within their home states (to the extent state law permits), the act's prohibition on interstate branching locks in a fragmented banking system of thousands of small, undercapitalized institutions vulnerable to local economic shocks.
 

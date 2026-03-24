@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-03-15--northrop-grumman-global-hawk-222-million-cost-overrun
 date: '2013-03-15'
 title: Northrop Grumman Global Hawk Drone Costs Surge to $222 Million Per Aircraft
@@ -39,7 +39,7 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Northrop Grumman's RQ-4 Global Hawk surveillance drone program experienced massive cost escalation, with per-unit costs exploding from an initial $60.9 million in 2001 to $222.7 million per aircraft (including development costs) by 2013—a nearly four-fold increase that forced the Air Force to slash planned procurement from 63 aircraft to just 45. The program's total cost surged from an original March 2001 estimate of $5.394 billion to $6.281 billion by December 2003, representing a $900 million increase, with development expenses alone increasing almost threefold from $906.2 million to approximately $2.6 billion.
 

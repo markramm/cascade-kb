@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-27--trump-white-house-rnc-acceptance-speech-mass-violations
 date: 2020-08-27
 title: Trump Delivers RNC Acceptance Speech from White House South Lawn in Unprecedented Mass Hatch Act Violation Event
@@ -45,7 +45,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump delivered his Republican National Convention acceptance speech from the White House South Lawn before 1,500 attendees in an unprecedented use of federal property for a partisan campaign event, culminating four days of systematic Hatch Act violations that transformed the White House and federal government into campaign backdrops. First Lady Melania Trump delivered her speech from the Rose Garden two days earlier, while the RNC programming featured a staged naturalization ceremony and Secretary of State Pompeo's speech from Jerusalem, leading the Office of Special Counsel to document violations by 13 senior administration officials.
 

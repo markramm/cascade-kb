@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-11-03--candiru-nso-group-us-entity-list-commerce-department
 date: '2021-11-03'
 title: US Commerce Department Adds Candiru and NSO Group to Entity List
@@ -50,6 +50,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The US Commerce Department's Bureau of Industry and Security adds Israeli spyware companies NSO Group and Candiru to the Entity List for developing surveillance software used to spy on journalists, activists, and government officials. This action restricts US companies from selling technology to these firms without licenses. The designation represents the first major US government action against the systematic use of commercial spyware for authoritarian surveillance, targeting companies whose tools have been used against American citizens and allies worldwide. Two additional companies from Russia and Singapore were also blacklisted in this coordinated effort to combat malicious cyber technologies.

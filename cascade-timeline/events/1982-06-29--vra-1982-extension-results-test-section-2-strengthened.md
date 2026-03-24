@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-06-29--vra-1982-extension-results-test-section-2-strengthened
 date: '1982-06-29'
 title: 'Voting Rights Act Extension of 1982: Results Test Adopted, Section 2 Strengthened After Reagan Opposition'
@@ -37,7 +37,7 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Reagan signed the Voting Rights Act Amendments of 1982, extending Section 5 preclearance requirements for 25 years and critically strengthening Section 2 by adopting a "results test" that made proving voting discrimination far easier. The legislation represented a major defeat for the Reagan administration, which had sought to weaken the VRA, and demonstrated the broad bipartisan coalition still supporting voting rights.
 

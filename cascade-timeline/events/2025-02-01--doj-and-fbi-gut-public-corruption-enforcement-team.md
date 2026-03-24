@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--doj-and-fbi-gut-public-corruption-enforcement-team
 date: '2025-02-01'
 title: DOJ and FBI gut public corruption enforcement teams
@@ -51,6 +51,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi and FBI Director Kash Patel gave a "green light to would-be lawbreakers" by gutting the Justice Department's Public Integrity Section and folding one of the FBI's public corruption squads. Democrats warned that DOJ's refusal to enforce anti-corruption laws betrays the public trust and will create lasting harm to Americans' faith in the integrity of government officials.

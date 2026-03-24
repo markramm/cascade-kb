@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1969-12-04--fred-hampton-assassination-fbi-cointelpro-chicago-police
 date: '1969-12-04'
 title: FBI and Chicago Police Assassinate Black Panther Leader Fred Hampton in Pre-Dawn Raid
@@ -44,7 +44,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 4, 1969, at 4:45 a.m., fourteen Chicago police officers raided the apartment of Fred Hampton, 21-year-old chairman of the Illinois Black Panther Party. Police fired between 82 and 99 shots into the apartment; the Panthers fired at most one. Hampton was shot twice in the head at point-blank range while lying unconscious in his bed, drugged by an FBI informant. Mark Clark, a Panther leader from Peoria, was also killed; four other Panthers were seriously wounded. The raid was a coordinated FBI-police operation to "neutralize" Hampton as part of COINTELPRO.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-12-31--donors-trust-climate-denial-dark-money-peak
 date: '2010-12-31'
 title: Donors Trust Becomes Primary Climate Denial Dark Money Conduit
@@ -42,7 +42,7 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2010, Donors Trust and Donors Capital Fund had emerged as the primary "dark money ATM" for climate denial funding, fundamentally transforming how fossil fuel interests concealed their opposition to climate regulation. From 2002 to 2011, these two donor-advised fund organizations provided $146 million to climate denial groups, serving as what Senator Sheldon Whitehouse called "the biggest identity-laundering shops" in the climate denial network.
 

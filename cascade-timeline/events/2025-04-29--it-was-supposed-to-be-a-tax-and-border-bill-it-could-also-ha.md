@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--it-was-supposed-to-be-a-tax-and-border-bill-it-could-also-ha
 date: '2025-04-29'
 title: It was supposed to be a tax and border bill. It could also hand Trump vast new executive powers
@@ -44,5 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 A draft bill from the House Judiciary Committee would expand Trump's executive power by curtailing the FTC's antitrust enforcement capabilities, aligning with broader efforts to consolidate presidential control over independent agencies

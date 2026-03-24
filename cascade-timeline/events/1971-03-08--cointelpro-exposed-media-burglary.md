@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-03-08--cointelpro-exposed-media-burglary
 date: 1971-03-08
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Legislative Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Citizens' Commission to Investigate the FBI burglarized an FBI office in Media, Pennsylvania, and stole classified documents that exposed COINTELPRO—the FBI's covert and illegal program to surveil, infiltrate, discredit, and disrupt American civil rights organizations and political activists. The revelations documented a systematic 15-year campaign of domestic political repression.
 

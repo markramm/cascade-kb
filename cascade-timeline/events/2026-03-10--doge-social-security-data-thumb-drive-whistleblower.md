@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-10--doge-social-security-data-thumb-drive-whistleblower
 date: '2026-03-10'
 title: Whistleblower Alleges Ex-DOGE Staffer Stole Social Security Database on Thumb Drive
@@ -43,7 +43,7 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 A whistleblower alleged on March 10, 2026 that a former Department of Government Efficiency (DOGE) software engineer had exfiltrated two tightly restricted Social Security Administration databases — containing records on more than 500 million people, living and dead — and carried them out on a thumb drive to his new job at a government contractor.
 

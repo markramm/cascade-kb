@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-08--turkey-halkbank-prosecution-promised-to-end
 date: '2025-10-08'
 title: Erdogan Says Trump Promised to End Halkbank Sanctions Prosecution
@@ -31,6 +31,6 @@ capture_lanes:
 - Financial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Turkish President Erdoğan publicly stated that Trump promised to end the Halkbank sanctions-evasion prosecution despite a Supreme Court ruling allowing the case to proceed. The state-run Turkish bank faced accusations of laundering billions of dollars for Iran in violation of U.S. sanctions. Trump's commitment to terminate a major sanctions prosecution as a diplomatic favor to Erdoğan represents direct presidential interference in an active criminal case involving national security violations, subordinating law enforcement to personal diplomatic relationships and undermining sanctions regime integrity.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-01-01--alec-corporate-membership-explodes-overwhelming-interest
 date: '1984-01-01'
 title: ALEC Corporate Membership Explodes as Major Corporations Overwhelm Organization with Requests for Legislative Access
@@ -44,7 +44,7 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By 1984, ALEC's corporate membership had grown so rapidly that Executive Director Kathleen Teague reported corporations were overwhelming the organization's capacity. Major corporations supporting ALEC that year included Edison Electric Institute, Procter & Gamble Co., Mary Kay Cosmetics Inc., Eli Lilly and Co., Hoffmann-LaRoche Inc., Adolph Coors Co., and ARCO. Teague described corporate interest in state legislative affairs as "rising so rapidly that 'I have more big corporations who want to see me, get involved and become members than we can practically cope with.'" The chairman of ALEC's business policy board at the time was Donald Rumsfeld, who would later serve as Secretary of Defense under George W. Bush.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-07-01--housing-bubble-peaks-predatory-lending-maximum
 date: '2006-07-01'
 title: Housing Bubble Peaks as Predatory Subprime Lending Reaches Maximum, Setting Stage for Collapse
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. housing bubble reaches its peak in mid-2006, with national home prices having risen 124 percent since 1997. Subprime mortgage originations hit $600 billion, representing 23 percent of all mortgage originations, up from 8 percent in 2003. The bubble's apex represents the culmination of captured regulatory systems that enabled predatory lending to flourish unchecked.
 

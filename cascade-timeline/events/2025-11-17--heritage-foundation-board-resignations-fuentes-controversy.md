@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-17--heritage-foundation-board-resignations-fuentes-controversy
 date: '2025-11-17'
 title: Heritage Foundation Board Members Resign Over Kevin Roberts Defense of Tucker Carlson Nick Fuentes Interview
@@ -27,7 +27,7 @@ capture_lanes:
 - Cultural Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Beginning November 17, 2025, board members of the Heritage Foundation—the conservative think tank that spearheaded Project 2025—resigned over controversy surrounding white nationalist Nick Fuentes.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-13--inside-elon-musk-s-digital-coup
 date: '2025-03-13'
 title: Inside Elon Musk's 'Digital Coup' in Trump Administration
@@ -43,6 +43,6 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk, operating through the Department of Government Efficiency (DOGE), gained unprecedented access to federal systems, including Treasury and Personnel Management databases, enabling radical restructuring and potential conflicts of interest.

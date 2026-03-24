@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1825-02-09--corrupt-bargain-adams-clay-backroom-deal
 date: '1825-02-09'
 title: Corrupt Bargain Elevates Adams to Presidency Through House Backroom Deal
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The House of Representatives elected John Quincy Adams as president on February 9, 1825, despite Andrew Jackson winning both the popular vote (152,901 to 114,023) and the highest electoral vote count (99, though short of the required majority). When no candidate achieved an electoral majority in the 1824 election, the contest moved to the House under the Twelfth Amendment, which required selection from the top three candidates. This eliminated fourth-place Henry Clay, but as Speaker of the House, Clay wielded decisive influence over the outcome. He used every parliamentary tactic to "bully, flatter, and cajole" House members, securing Adams's victory with 13 states on the first ballot.
 

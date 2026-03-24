@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-09-01--fbi-occupy-wall-street-surveillance
 date: 2011-09-01
 title: FBI Surveils Occupy Wall Street as "Terrorist Threat" Before First Protest
@@ -37,7 +37,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI field offices around the country began surveilling Occupy Wall Street organizers as early as August 2011—a month before the first protesters arrived at Zuccotti Park—treating the nonviolent economic justice movement as a potential terrorist threat despite acknowledging internally that organizers advocated peaceful protest. Documents revealed extensive coordination between the FBI, Department of Homeland Security, and corporate interests to monitor and suppress constitutionally protected protest.
 

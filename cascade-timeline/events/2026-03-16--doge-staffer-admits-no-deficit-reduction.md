@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-16--doge-staffer-admits-no-deficit-reduction
 date: '2026-03-16'
 title: DOGE Staffer Admits Under Oath Agency Did Not Reduce Federal Deficit
@@ -35,7 +35,7 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 16, 2026, Fortune reported on newly released deposition transcripts revealing that DOGE staffer Nate Cavanaugh admitted under oath that the Department of Government Efficiency had not actually reduced the federal deficit — despite deficit reduction being the primary stated justification for DOGE's creation and its sweeping interventions across federal agencies. The admission struck at the core rationale the administration had used to defend DOGE's grant cancellations, workforce reductions, and agency restructuring.
 

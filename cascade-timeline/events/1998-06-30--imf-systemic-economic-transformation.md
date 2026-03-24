@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-06-30--imf-systemic-economic-transformation
 date: '1998-06-30'
 title: IMF Finalizes Systematic Economic Transformation of Southeast Asian Economies
@@ -38,6 +38,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 By mid-1998, the IMF completes its comprehensive restructuring of Southeast Asian economies through massive bailout packages totaling nearly $100 billion, implementing radical free-market reforms that fundamentally reshape the region's economic landscape. These interventions prioritized Western corporate interests, dismantled local economic protections, and created long-term dependency on international financial institutions through conditional structural adjustment programs.

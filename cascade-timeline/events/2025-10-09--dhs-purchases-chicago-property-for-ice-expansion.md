@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-09--dhs-purchases-chicago-property-for-ice-expansion
 date: '2025-10-09'
 title: DHS Secretary Announces Additional Chicago Property Purchase for ICE Operations
@@ -35,6 +35,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS Secretary Kristi Noem announced the department is purchasing additional Chicago real estate to expand ICE operations, stating 'We're doubling down' on federal control amid strong local opposition from Governor JB Pritzker. The property purchases represent federal overreach into cities that have rejected cooperation with immigration enforcement, using federal resources to establish unwanted enforcement infrastructure in jurisdictions that have explicitly opposed such operations. This demonstrates systematic use of federal property acquisition to override local democratic opposition and impose immigration enforcement against the will of state and local governments.

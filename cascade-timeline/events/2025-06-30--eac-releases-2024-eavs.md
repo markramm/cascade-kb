@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-30--eac-releases-2024-eavs
 title: U.S. Election Assistance Commission releases 2024 EAVS report
 date: '2025-06-30'
@@ -40,6 +40,6 @@ sources:
 
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 
 EAC releases comprehensive 2024 EAVS with 100% response rate from all states/territories. Shows 65% turnout (158M ballots), 72% in-person voting, mail voting down to 30%. 211M registered voters (86.6% of eligible). 98% of jurisdictions use paper ballots or auditable records. Only 80 jurisdictions in 3 states lack paper trail.

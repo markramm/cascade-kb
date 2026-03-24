@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1966-08-09--gautreaux-v-cha-challenges-chicago-housing-segregation
 date: '1966-08-09'
 title: Dorothy Gautreaux Lawsuit Challenges Chicago Public Housing Segregation
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Dorothy Gautreaux, a community organizer and resident of the Altgeld Gardens public housing project on Chicago's South Side, becomes lead plaintiff in a landmark class-action lawsuit filed by six Black tenants with help from the American Civil Liberties Union. The suit alleges that the Chicago Housing Authority and Department of Housing and Urban Development violated the Fourteenth Amendment and Civil Rights Act of 1964 by building public housing projects only in predominantly Black neighborhoods, resulting in further entrenchment of Chicago's segregated housing patterns. In 1966, only 63 of over 10,000 public housing units constructed by CHA are located outside low-income Black neighborhoods.
 

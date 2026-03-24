@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--openai-pentagon-deal-surveillance-guardrails-criticized
 date: '2026-03-08'
 title: EFF and The Intercept Find OpenAI's Pentagon Deal Surveillance Guardrails Unenforceable, Warning of AI-Powered Domestic Surveillance Risk
@@ -53,7 +53,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 8, 2026, the Electronic Frontier Foundation and The Intercept published detailed analyses concluding that OpenAI's Pentagon contract contained language so vague and self-referential as to provide no meaningful protection against AI-powered domestic surveillance or autonomous weapons deployment. The publications' findings arrived the same day that NPR and CNBC confirmed senior OpenAI robotics executive Caitlin Kalinowski had resigned over similar concerns about the deal's rushed and inadequate guardrails.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge
 date: '2026-01-12'
 title: Minnesota Attorney General Ellison and Twin Cities Sue DHS Over Operation Metro Surge
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Minnesota Attorney General Keith Ellison, along with the cities of Minneapolis and Saint Paul, filed a federal lawsuit against DHS Secretary Kristi Noem and other federal officials seeking to halt Operation Metro Surge. The lawsuit alleged violations of the 10th Amendment and constitutional sovereignty, asking the court to declare the ICE surge unconstitutional and grant a temporary restraining order and permanent injunction.
 

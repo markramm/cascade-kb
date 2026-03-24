@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--trump-eliminates-cisa-retention-incentives-workforce-exodus
 date: '2025-12-04'
 importance: 9
@@ -65,7 +65,7 @@ notes: The retention incentive elimination was announced December 3-4, 2025. By 
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration eliminated CISA's Cyber Retention Incentive (CRI) program on December 4, 2025, dealing a devastating blow to the nation's primary civilian cybersecurity agency already reeling from massive workforce losses. The decision terminated retention payments providing 10-25% salary supplements to nearly half of CISA's employees—payments specifically designed to prevent cybersecurity experts from leaving government for higher-paying private sector positions. The elimination came as CISA had already lost approximately 1,000 employees since Trump took office in January 2025, representing one-third of the agency's total workforce of roughly 3,300 employees.
 

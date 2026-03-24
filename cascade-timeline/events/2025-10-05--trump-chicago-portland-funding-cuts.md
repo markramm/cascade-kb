@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-05--trump-chicago-portland-funding-cuts
 date: '2025-10-05'
 title: White House Blocks $2.1 Billion Chicago Transit Funding as Political Retaliation
@@ -35,6 +35,6 @@ capture_lanes:
 - Executive Power Expansion
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House blocked $2.1 billion in Chicago transit funding and targeted Portland aid, citing 'race-based contracting' as retaliatory punishment for Democratic opposition. The funding freeze represents systematic weaponization of federal resources to punish political adversaries and coerce local government compliance. By blocking essential infrastructure funding for cities that resist Trump administration policies, the White House demonstrates authoritarian use of federal power to override local democratic governance and enforce ideological submission through economic coercion.

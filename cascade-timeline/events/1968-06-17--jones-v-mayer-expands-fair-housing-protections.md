@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1968-06-17--jones-v-mayer-expands-fair-housing-protections
 date: '1968-06-17'
 title: Supreme Court Rules 1866 Civil Rights Act Bans Private Housing Discrimination
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court issues a 7-2 decision in Jones v. Alfred H. Mayer Co., holding that Congress can regulate private property sales to prevent racial discrimination under the Thirteenth Amendment's power to eliminate "badges and incidents of slavery." The case centers on Joseph Lee Jones, a Black man refused a home purchase in a white St. Louis County neighborhood by the Alfred H. Mayer Company due to his race. Both district and appeals courts dismiss his complaint based on established precedent that the 1866 Civil Rights Act applied only to state action, not private discrimination.
 

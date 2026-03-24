@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-28--greenblatt-cbs-reaction-ig-purge
 title: 'Interior IG Mark Greenblatt reacts to firing: ''stunned'''
 date: '2025-01-28'
@@ -43,5 +43,5 @@ sources:
 notes: 'Greenblatt was a Trump appointee from his first term, making the firing particularly puzzling. Received notification via email at 7:30 PM Friday while returning from Tae Kwon Do practice.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Interior Inspector General Mark Greenblatt, who was originally appointed by Trump in his first term, told CBS News he was "stunned" by his Friday night firing on January 24, 2025. Greenblatt said "It's very bizarre" and questioned the motives, offering two interpretations - either Trump "doesn't believe in our independence" or "wants lackeys to rubber stamp what he's trying to do."

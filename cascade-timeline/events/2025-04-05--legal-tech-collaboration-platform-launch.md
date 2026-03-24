@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-05--legal-tech-collaboration-platform-launch
 date: '2025-04-05'
 title: Legal Resistance Tech Collaboration Platform Launch
@@ -36,6 +36,6 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Introduction of a secure, encrypted digital platform enabling distributed legal resistance groups to share research, coordinate strategies, and maintain secure communication channels. Building on the Electronic Frontier Foundation's (EFF) ongoing work in digital rights and secure communication technologies, this platform represents a collaborative effort to enhance digital defense capabilities for legal advocacy groups. The launch reflects growing trends in legal technology for 2025, emphasizing secure, cross-functional collaboration with enterprise-grade encryption and integrated communication workflows.

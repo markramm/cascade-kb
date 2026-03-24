@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-03-09--doj-inspector-general-fbi-surveillance-abuse-report
 date: '2007-03-09'
 title: DOJ Inspector General Documents Systematic FBI Surveillance Abuse
@@ -40,6 +40,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Department of Justice Inspector General Glenn Fine releases comprehensive report documenting widespread FBI abuse of National Security Letters (NSLs) and surveillance authorities. The investigation found FBI systematically circumvented legal requirements, collected intelligence on Americans without proper authorization, and failed to report violations to Congress. The report revealed over 1,000 violations and showed intelligence agencies operating outside constitutional constraints under political pressure.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1978-11-07'
 title: Business Roundtable Coordinates First Major Corporate PAC Election Strategy
 actors:
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Business Roundtable, representing Fortune 500 CEOs, coordinated the first systematic corporate PAC strategy for the 1978 midterm elections. Corporate PACs contributed $9.8 million to federal candidates, with 75% going to business-friendly Republicans. This marked the beginning of coordinated corporate electoral interference and the systematic capture of legislative processes through financial influence.

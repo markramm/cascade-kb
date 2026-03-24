@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-28--whig-pressure-campaigns-congress
 date: '2002-09-28'
 title: WHIG Launches Coordinated Pressure Campaigns Against Congressional War Authorization Skeptics
@@ -70,6 +70,6 @@ connections:
   - systematic-legislative-intimidation
   - executive-overreach-escalation
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group systematically targets congressional members expressing skepticism about Iraq War authorization through coordinated pressure campaigns combining media attacks, district-level political pressure, and access threats. WHIG coordinates with Republican leadership to isolate and pressure skeptical Democrats while ensuring Republican unity through access privileges and political incentives. This systematic targeting of legislative opposition demonstrates the transformation of executive-legislative relations from constitutional debate into coordinated political warfare designed to suppress dissent and manufacture consensus.

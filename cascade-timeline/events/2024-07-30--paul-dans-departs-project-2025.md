@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-30--paul-dans-departs-project-2025
 date: '2024-07-30'
 importance: 6
@@ -52,5 +52,5 @@ sources:
 notes: 'Departure coincided with Trump campaign''s public distancing from Project 2025 despite private support. Dans had been with Heritage Foundation since 2021 and led the policy development phase which was nearly complete by July 2024. In September 2024, additional details about his termination emerged.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Paul Dans departed as Project 2025 director on July 30, 2024, amid Trump campaign pressure to distance from the Heritage Foundation blueprint. The departure followed campaign concerns about the project becoming a political liability, though Russell Vought later claimed Trump privately supports the work. In September 2024, Heritage Foundation revealed Dans was actually fired due to 'dismissive and unprofessional' workplace behavior, particularly at the Republican National Convention. Dans had led the policy development phase of Project 2025, which was nearly complete by July 2024.

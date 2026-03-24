@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1994-11-08--republican-revolution-contract-with-america
 date: '1994-11-08'
 title: Republicans Win Historic Midterm Election with Contract with America
@@ -39,6 +39,6 @@ tags:
 - midterm-elections
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Republican Party, led by Newt Gingrich, secured a decisive victory in the 1994 midterm elections, ending 40 years of Democratic congressional control. By campaigning on the 'Contract with America', Republicans gained 54 seats in the House and 8 seats in the Senate, fundamentally reshaping the American political landscape. The victory represented a strategic culmination of conservative movement efforts, leveraging coordinated messaging, corporate funding, and a comprehensive legislative agenda to transform national political dynamics.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-07-23--twitter-transformed-to-x-with-systematic-content-moderation
 date: '2023-07-23'
 title: Twitter Transformed to X with Systematic Content Moderation Rollback and Political Weaponization
@@ -40,7 +40,7 @@ sources:
 status: confirmed
 priority_id: RT-CLAUDE-2025-musk-twitter-x-speech-manipulation
 ---
-type: solidarity_event
+type: timeline_event
 Under Musk's control, Twitter was rebranded to X and underwent systematic dismantling of content moderation systems, transforming the platform from a "global town square" into an oligarchic-controlled information warfare infrastructure. The Center for Countering Digital Hate (CCDH) found that 98% of 200 flagged racist tweets remained on the platform after two weeks, highlighting a dramatic reduction in content moderation effectiveness.
 
 Key impacts included:

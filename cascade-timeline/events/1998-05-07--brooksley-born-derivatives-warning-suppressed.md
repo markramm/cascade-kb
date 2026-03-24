@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-05-07--brooksley-born-derivatives-warning-suppressed
 date: '1998-05-07'
 title: Brooksley Born's Derivatives Regulation Warning Systematically Suppressed
@@ -47,7 +47,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 CFTC Chair Brooksley Born issued a concept release seeking public comment on regulating the $29 trillion over-the-counter derivatives market, warning of systemic risks from unregulated trading. Within hours, Treasury Secretary Robert Rubin, Federal Reserve Chairman Alan Greenspan, and SEC Chairman Arthur Levitt issued a joint statement condemning Born's proposal and expressing 'grave concern about this action and its possible consequences.'
 

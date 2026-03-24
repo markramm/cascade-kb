@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-09--letitia-james-indicted-by-halligan
 date: '2025-10-09'
 title: Former NY AG Letitia James Indicted on Bank Fraud Charges by Halligan
@@ -34,7 +34,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Lindsey Halligan's EDVA office indicted former New York Attorney General Letitia James on two federal counts:
 

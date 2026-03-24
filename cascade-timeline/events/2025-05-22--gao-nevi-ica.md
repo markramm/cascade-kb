@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Government Accountability Office (GAO)
 - Department of Transportation
@@ -61,5 +61,5 @@ tags:
 - transportation
 title: GAO finds unlawful withholding of EV charger funds (NEVI)
 ---
-type: solidarity_event
+type: timeline_event
 GAO concluded that DOT's actions on NEVI funds violated the Impoundment Control Act, finding $2.74 billion in electric vehicle infrastructure funds were unlawfully withheld. The decision mandates the Transportation Department must continue funding the National Electric Vehicle Infrastructure Formula Program (NEVI) as originally appropriated by Congress. Two key legal violations were identified: incorrect recording of statutory obligations and failure to properly notify Congress of funding withholding.

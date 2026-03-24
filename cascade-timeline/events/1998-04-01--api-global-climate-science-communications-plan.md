@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-04-01--api-global-climate-science-communications-plan
 date: '1998-04-01'
 title: American Petroleum Institute Drafts Secret Climate Denial Strategy Document
@@ -41,7 +41,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In April 1998, the American Petroleum Institute (API) convened a secret meeting of oil industry executives and public relations consultants to draft the "Global Climate Science Communications Plan." The leaked document reveals a coordinated strategy to manufacture doubt about climate science, making it a defining example of corporate disinformation campaigns.
 

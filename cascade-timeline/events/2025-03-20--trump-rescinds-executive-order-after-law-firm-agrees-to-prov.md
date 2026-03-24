@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-20--trump-rescinds-executive-order-after-law-firm-agrees-to-prov
 date: '2025-03-20'
 title: Trump Rescinds Executive Order After Paul Weiss Agrees to $40M Pro Bono Services
@@ -41,5 +41,5 @@ patterns:
 - kleptocratic-capture
 notes: Event demonstrates leveraging executive power to compel legal service commitments from law firms.
 ---
-type: solidarity_event
+type: timeline_event
 President Trump rescinded Executive Order 14237 targeting Paul Weiss law firm after the firm agreed to provide $40 million in pro bono legal services, adopt political neutrality, and support causes aligned with the administration's priorities.

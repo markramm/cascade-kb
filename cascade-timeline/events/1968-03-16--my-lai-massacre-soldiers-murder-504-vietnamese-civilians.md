@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1968-03-16--my-lai-massacre-soldiers-murder-504-vietnamese-civilians
 date: '1968-03-16'
 title: My Lai Massacre - U.S. Soldiers Murder Between 347 and 504 Unarmed Vietnamese Civilians in War Crime
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Army soldiers from Charlie Company, 1st Battalion, 20th Infantry Regiment massacre between 347 and 504 unarmed South Vietnamese civilians—mostly women, children, elderly men, and infants—in the village of My Lai during a search-and-destroy mission. Led by Lieutenant William Calley, approximately 100 soldiers enter the village expecting to encounter Viet Cong forces but face no resistance. Instead of conducting a legitimate military operation, the soldiers systematically murder civilians using automatic weapons, grenades, and bayonets, and commit widespread rape and torture.
 

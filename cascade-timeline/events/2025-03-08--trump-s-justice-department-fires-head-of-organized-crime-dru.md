@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-08--trump-s-justice-department-fires-head-of-organized-crime-dru
 date: '2025-03-08'
 title: 'Trump''s Justice Department fires head of organized crime drug task force'
@@ -39,5 +39,5 @@ patterns:
 - kleptocratic-capture
 notes: Detailed tracking of DOJ personnel changes in Trump administration
 ---
-type: solidarity_event
+type: timeline_event
 The Justice Department fired Adam Cohen, director of the Organized Crime Drug Enforcement Task Forces, continuing the Trump administration's pattern of sidelining career civil servants. The dismissal occurred shortly after the DOJ announced a reorganization combining the task force with the Project Safe Neighborhoods Program into 'Operation Take Back America'.

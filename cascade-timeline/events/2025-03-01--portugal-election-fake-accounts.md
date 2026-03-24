@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--portugal-election-fake-accounts
 date: '2025-03-01'
 importance: 5
@@ -42,5 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 Portugal election interference investigation by Cyabra found 58% of social media accounts supporting far-right parties were fake profiles. Discovery demonstrates global scale of social media manipulation in democratic elections, with coordinated bot networks amplifying extremist political messages. Pattern mirrors similar operations in US where Department of Justice disrupted Russian government-sponsored disinformation operations, seizing 32 internet domains used for covert election interference including "Doppelganger" operation. Shows systematic weaponization of social media against democracy.

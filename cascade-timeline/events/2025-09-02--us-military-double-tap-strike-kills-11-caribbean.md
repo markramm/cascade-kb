@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-02--us-military-double-tap-strike-kills-11-caribbean
 date: '2025-09-02'
 title: US Military Conducts "Double Tap" Strike on Caribbean Vessel, Killing 11 Including Shipwrecked Survivors
@@ -43,7 +43,7 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The US military conducted a controversial "double tap" strike in international waters in the Caribbean, killing all 11 people aboard a suspected drug vessel. The first strike killed nine individuals and set the boat ablaze. Minutes later, Admiral Frank "Mitch" Bradley, then commander of Joint Special Operations Command, ordered a second strike targeting two survivors who were clinging to debris in the water. According to witnesses, "those two men were blown apart in the water." Defense Secretary Pete Hegseth had authorized Bradley to conduct the strikes and communicated he wanted everyone aboard killed.
 

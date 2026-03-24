@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-06-02--milley-lafayette-square-politicization-incident
 date: '2020-06-02'
 title: General Milley Appears with Trump at Lafayette Square After Protest Clearing
@@ -41,6 +41,6 @@ sources:
 status: confirmed
 notes: A pivotal moment demonstrating potential military involvement in domestic political theater, with significant implications for civilian-military relationships. Milley's public apology underscores the gravity of maintaining military neutrality.
 ---
-type: solidarity_event
+type: timeline_event
 
 Joint Chiefs Chairman General Mark Milley accompanied President Trump to Lafayette Square for a controversial photo opportunity at St. John's Church, following a forcible clearing of peaceful protesters using tear gas and rubber bullets. Dressed in military camouflage, Milley's presence created an immediate perception of military support for political actions. Within days, he publicly apologized, acknowledging that his presence 'created a perception of the military involved in domestic politics'. Subsequent investigations revealed complex circumstances around the protest clearing, with the U.S. Park Police claiming they had not specifically cleared the area for Trump's photo opportunity.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-08-07--gulf-of-tonkin-resolution-false-attack-war-authorization
 date: '1964-08-07'
 title: Gulf of Tonkin Resolution Passes Based on Fabricated Second Attack Authorizing Vietnam War Escalation
@@ -43,7 +43,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Gulf of Tonkin Resolution with near-unanimous support (416-0 in the House, 88-2 in the Senate), granting President Johnson broad war powers to use military force in Southeast Asia without a formal declaration of war. The resolution responds to reported attacks on U.S. Navy destroyers USS Maddox and USS Turner Joy by North Vietnamese naval vessels on August 2 and August 4, 1964.
 

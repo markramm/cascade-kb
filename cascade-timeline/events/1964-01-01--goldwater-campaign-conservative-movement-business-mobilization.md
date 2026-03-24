@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-01-01--goldwater-campaign-conservative-movement-business-mobilization
 date: '1964-01-01'
 title: Goldwater Presidential Campaign Mobilizes Business Coalition and Establishes Conservative Infrastructure
@@ -38,7 +38,7 @@ sources:
   tier: 1
   date: '2024-01-01'
 ---
-type: solidarity_event
+type: timeline_event
 
 The 1964 Barry Goldwater presidential campaign galvanizes a grassroots coalition of businesspeople, Southerners, Midwesterners, and libertarians who feel sidelined by the Republican establishment, establishing political infrastructure and strategies that become standard tenets of Republican politics for decades. The "Draft Goldwater" movement begins in 1961 when twenty-two conservatives led by Ohio Representative John M. Ashbrook, National Review publisher William A. Rusher, and scholar F. Clifton White meet privately in Chicago to discuss formation of a grass-roots organization to secure the nomination of a conservative as the 1964 Republican candidate. The rough-edged, charismatic Westerner overcomes his party's old guard by mobilizing suburban conservative Republicans concentrated in the South and West who favor low taxes, small federal government supporting individual rights and business interests, and opposition to social welfare programs.
 

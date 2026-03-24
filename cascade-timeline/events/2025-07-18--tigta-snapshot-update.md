@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-18--tigta-snapshot-update
 date: '2025-07-18'
 importance: 6
@@ -39,6 +39,6 @@ capture_lanes:
 - Federal Workforce Capture
 notes: DRP allows resignation with pay through Sept 30, 2025. VERA lowers retirement age/service requirements. VSIP offers $25K buyouts. 23% contact reps lost, impacting taxpayer assistance. Treasury RIF plans project 50% enforcement cuts, 20% other components. From 103K employees in Jan to 77K by May.
 ---
-type: solidarity_event
+type: timeline_event
 
 TIGTA reports IRS workforce cut 25% to 77,428 employees by May 2025. 17,847 approved for TDRP/VSIP programs. 27% of tax examiners and 26% of revenue agents separated. Enforcement function faces up to 50% cuts through 2026. Critical revenue collection capacity compromised.

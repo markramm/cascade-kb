@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-03-26--standard-oil-ig-farben-cartel-exposed-treason
 date: '1942-03-26'
 title: Standard Oil-IG Farben Cartel Exposed, Senator Truman Calls It Treason
@@ -42,7 +42,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate hearings expose Standard Oil of New Jersey's secret cartel agreements with IG Farben, the German chemical conglomerate that produces Zyklon B for Nazi concentration camps and uses slave labor from Auschwitz. Senator Harry Truman's investigative committee reveals that Standard Oil withheld synthetic rubber technology from the U.S. military while sharing it with Nazi Germany, directly hampering American war preparedness.
 

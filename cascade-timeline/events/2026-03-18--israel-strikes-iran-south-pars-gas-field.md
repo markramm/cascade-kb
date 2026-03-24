@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--israel-strikes-iran-south-pars-gas-field
 date: '2026-03-18'
 title: Israel Bombs South Pars Gas Field — World's Largest Natural Gas Reserve Hit, Triggering Gulf Retaliation Spiral
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 18, 2026, the Israeli Air Force conducted strikes on processing facilities at Iran's South Pars gas field complex near Asaluyeh on the Persian Gulf coast — the world's largest natural gas reserve, containing approximately 70 percent of Iran's proven gas reserves and shared with Qatar's North Field. The strikes halted output at two major gas refineries processing an estimated 100 million cubic meters of natural gas per day, dealing a severe blow to Iran's domestic energy supply and its ability to generate electricity.
 

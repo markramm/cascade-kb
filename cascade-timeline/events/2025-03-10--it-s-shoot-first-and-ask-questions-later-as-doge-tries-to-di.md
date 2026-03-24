@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-10--it-s-shoot-first-and-ask-questions-later-as-doge-tries-to-di
 date: '2025-03-10'
 title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle CFPB: Official'
@@ -65,7 +65,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Department of Government Efficiency attempted to dismantle the Consumer Financial Protection
 Bureau through mass firings, but federal judges blocked the action and ordered reinstatement

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-06-27--janus-v-afscme-supreme-court-guts-public-sector-unions
 date: '2018-06-27'
 title: Janus v. AFSCME - Supreme Court Strikes Down Public Sector Union Fees, Targeting Teachers' Unions
@@ -61,7 +61,7 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On June 27, 2018, the Supreme Court ruled 5-4 in Janus v. AFSCME that public-sector unions cannot collect "fair share" fees from non-members to cover the costs of collective bargaining, overturning the Court's 1977 precedent in Abood v. Detroit Board of Education. The decision, written by Justice Samuel Alito, was a culmination of a decades-long conservative legal campaign specifically targeting teachers' unions and effectively imposed "right to work" conditions on every public employee in America.

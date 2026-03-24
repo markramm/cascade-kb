@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-03-10--hospital-confrontation-ashcroft-surveillance
 date: '2004-03-10'
 importance: 9
@@ -62,6 +62,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Alberto Gonzales and Chief of Staff Andy Card went to George Washington Hospital ICU to pressure hospitalized Attorney General John Ashcroft to reauthorize the NSA surveillance program that the Department of Justice had deemed illegal. Acting Attorney General James Comey raced to the hospital with FBI Director Robert Mueller to prevent the confrontation. When Gonzales and Card pressed the weakened Ashcroft to sign the authorization, Ashcroft rose from his sickbed to refuse, telling them 'I'm not the attorney general' and deferring to Comey as the acting attorney general. This dramatic confrontation nearly triggered mass resignations from the Department of Justice leadership, representing a constitutional crisis where White House officials attempted to circumvent legal oversight by exploiting a hospitalized official's vulnerability. The incident highlighted the administration's willingness to push legal boundaries and pressure officials to authorize potentially illegal surveillance activities.

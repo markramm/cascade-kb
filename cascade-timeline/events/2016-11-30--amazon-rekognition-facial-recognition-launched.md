@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-11-30--amazon-rekognition-facial-recognition-launched
 date: 2016-11-30
 title: Amazon launches Rekognition facial recognition service, targeting law enforcement
@@ -38,7 +38,7 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Amazon Web Services announced the launch of Amazon Rekognition at its re:Invent developer conference in Las Vegas on November 30, 2016. The cloud-based facial recognition service marked Amazon's entry into surveillance technology, offering image and video analysis capabilities including face detection, face comparison, and face search functionality. The service would quickly become controversial as Amazon aggressively marketed it to law enforcement agencies and government entities, positioning the company at the center of debates about mass surveillance, racial bias in AI systems, and civil liberties.
 

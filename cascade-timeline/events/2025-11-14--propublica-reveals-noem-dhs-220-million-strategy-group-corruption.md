@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-14--propublica-reveals-noem-dhs-220-million-strategy-group-corruption
 date: '2025-11-14'
 title: ProPublica Investigation Exposes Hidden Corruption in Noem's $220M DHS Ad Campaign
@@ -61,7 +61,7 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 ProPublica published an investigation revealing that The Strategy Group, an Ohio-based Republican consulting firm with deep personal and financial ties to DHS Secretary Kristi Noem, secretly received payments as a subcontractor on DHS's $220 million "Stronger Border, Stronger America" advertising campaign. The agency bypassed normal competitive bidding processes by invoking the "national emergency" at the border.
 

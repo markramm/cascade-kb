@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-01-01--alec-voter-id-bills-34-states-coordinated-rollout
 date: 2011-01-01
 title: 34 States Introduce ALEC Voter ID Bills in Coordinated Suppression Campaign
@@ -41,7 +41,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Following the 2010 Republican wave that gave the GOP control of both legislative chambers in twenty-six states, at least 34 states introduced nearly identical voter ID bills in the 2011 legislative session. The bills used ALEC's 2009 model "Voter ID Act" template language, demonstrating systematic coordination rather than independent state policy decisions.
 

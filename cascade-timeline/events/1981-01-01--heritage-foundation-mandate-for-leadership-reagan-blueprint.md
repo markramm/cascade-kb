@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-01--heritage-foundation-mandate-for-leadership-reagan-blueprint
 date: '1981-01-01'
 title: Heritage Foundation's "Mandate for Leadership" Becomes Reagan Administration Blueprint
@@ -42,6 +42,6 @@ priority_id: RT-208559C5-heritage-foundation-launch-1973
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Heritage Foundation publishes "Mandate for Leadership," a comprehensive 3,000-page policy blueprint containing over 2,000 specific recommendations for conservative governance. Reagan distributes copies to every Cabinet member at their first meeting and the administration implements nearly two-thirds of Heritage's recommendations, demonstrating the unprecedented influence of think tank policy development on actual governance. This document represents the culmination of the Powell Memorandum's vision for conservative intellectual infrastructure directly shaping government policy.

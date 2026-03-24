@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-30--paramount-in-settlement-talks-with-trump-over-60-minutes-law
 date: '2025-01-30'
 title: Paramount in settlement talks with Trump over ‘60 Minutes’ lawsuit
@@ -50,6 +50,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Paramount is negotiating a settlement with Trump over his $10 billion lawsuit against CBS for allegedly deceptively editing a “60 Minutes” interview with Vice President Kamala Harris, as it seeks federal approval for a merger

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-02-28--trump-calls-coronavirus-democratic-hoax
 date: '2020-02-28'
 title: Trump Calls Coronavirus "Their New Hoax" at South Carolina Rally
@@ -32,7 +32,7 @@ capture_lanes:
 - Environmental Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 At a campaign rally in North Charleston, South Carolina on February 28, 2020, President Trump dismissed Democratic criticism of his administration's coronavirus response by declaring "this is their new hoax," comparing it to impeachment and other perceived attacks against him. The statement came as the coronavirus outbreak was rapidly accelerating globally—with over 83,000 people infected worldwide and at least 2,857 deaths—and as the United States stood on the brink of what would become a devastating pandemic that ultimately killed nearly 200,000 Americans by September 2020. Trump's characterization of legitimate public health concerns as a political "hoax" established a pattern of pandemic denialism that would plague the federal response for months to come.
 

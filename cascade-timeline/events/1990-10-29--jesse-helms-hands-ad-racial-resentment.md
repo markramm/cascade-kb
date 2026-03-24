@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-10-29--jesse-helms-hands-ad-racial-resentment
 date: '1990-10-29'
 title: 'Jesse Helms ''White Hands'' Ad Weaponizes Affirmative Action Against Black Senate Candidate'
@@ -34,5 +34,5 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 In the final week of his Senate race against Harvey Gantt—the first African American major party Senate candidate in North Carolina—incumbent Republican Jesse Helms aired the notorious 'Hands' or 'White Hands' advertisement. The ad depicted white hands crumpling a job rejection letter while a narrator intoned: 'You needed that job, and you were the best qualified. But they had to give it to a minority because of a racial quota. Is that really fair?' The ad claimed Gantt supported 'Ted Kennedy's racial quota law' in reference to the Civil Rights Act of 1990. Gantt had led in polls before the ad aired. Republican consultant Alex Castellanos created the ad, with feedback from GOP operative Carter Wrenn, who later publicly acknowledged 'the white hands ad was race-baiting, pure and simple.' The ad deliberately 'stirred up racial fears; the point was to scare whites with the specter of (presumably less qualified) minorities taking their jobs.' Helms won by a narrow margin after trailing in polls. The advertisement became one of the most controversial political ads in modern American history, frequently cited as a textbook example of racial dog whistle politics. One commentator noted Helms showed a 'willingness to pick at the scab of the great wound of American history, the legacy of slavery and segregation, and to inflame racial resentment against African Americans.' The ad's success cemented affirmative action as a reliable racial wedge issue for Republican campaigns.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1961-05-14--freedom-rides-violence-institutional-complicity
 date: '1961-05-14'
 title: Freedom Riders Firebombed in Anniston as Police Allow KKK Attack Without Intervention
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 14, 1961, the first Freedom Ride bus—a Greyhound carrying civil rights activists challenging segregated interstate transportation—arrived in Anniston, Alabama, where an angry mob of approximately 200 white people, including Ku Klux Klan members, surrounded it. Local authorities had given the KKK explicit permission to attack the Freedom Riders without fear of arrest. The mob slashed the bus tires and followed it out of town in automobiles. When the tires blew out, someone threw a firebomb through a window, and the bus burst into flames. As the Freedom Riders escaped the burning vehicle, members of the mob brutally beat them with baseball bats and tire irons. This coordinated violence, enabled by law enforcement complicity, exposed the systematic institutional resistance to federal civil rights enforcement across the South.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-01-01--alec-truth-in-sentencing-act-private-prison-model
 date: '1995-01-01'
 title: ALEC Criminal Justice Task Force Promotes Truth-in-Sentencing Model Legislation Written by Private Prison Industry
@@ -44,7 +44,7 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council (ALEC), co-chaired by Corrections Corporation of America (CCA) executives, promotes its "Truth-in-Sentencing Act" model legislation requiring prisoners to serve at least 85% of their sentences before parole eligibility. The model bill, developed by the ALEC Criminal Justice Task Force with direct participation from CCA and GEO Group representatives, becomes law in 27 states over the next 15 years.
 

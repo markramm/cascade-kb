@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-02-09--second-impeachment-trial-begins-constitutional-debate
 date: '2021-02-09'
 title: Second Impeachment Trial Begins with Constitutional Debate on Trying Former President
@@ -45,7 +45,7 @@ capture_lanes:
 - Executive Power Expansion
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate's second impeachment trial of Donald Trump began on February 9, 2021, with a four-hour constitutional debate centered on the fundamental question: can the Senate try a former president? In a 56-44 vote, the Senate affirmed that the trial was constitutional and could proceed, with six Republicans joining all fifty Democrats in support. The vote marked a critical early test that demonstrated Trump would likely be acquitted, as conviction would require 67 votes—meaning at least seventeen Republicans would need to vote guilty. The trial represented the first time in American history that a former president faced impeachment proceedings after leaving office, raising unprecedented constitutional questions that dominated the opening day's arguments.
 

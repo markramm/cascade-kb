@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Binance
 - Binance.US
@@ -52,7 +52,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Binance.US added support for World Liberty Financial's USD1 stablecoin on October 29, 2025, just six days after President Trump pardoned Binance founder Changpeng Zhao (CZ). The timing triggered immediate accusations of corruption from Senator Chris Murphy, who alleged the listing represented 'payback' for the presidential pardon. The USD1 stablecoin, issued by the Trump family's crypto venture World Liberty Financial, had a market capitalization of $2.97 billion and ranked as the sixth-largest stablecoin globally at the time of listing.
 

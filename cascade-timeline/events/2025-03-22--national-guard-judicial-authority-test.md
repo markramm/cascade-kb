@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Federal District Court
 - U.S. Department of Defense
@@ -61,5 +61,5 @@ tags:
 - state-federal-conflict
 title: First Major Court Battle Over National Guard Deployment Authority
 ---
-type: solidarity_event
+type: timeline_event
 Federal District Court in D.C. issued a landmark ruling challenging Trump administration's unilateral National Guard deployment powers. U.S. District Judge Charles Breyer ruled that Trump violated the Posse Comitatus Act by sending National Guard troops to Los Angeles for immigration enforcement, finding troops participated in over 60 operations. The 9th Circuit Court of Appeals provided a nuanced ruling, temporarily allowing Trump to maintain control while questioning the breadth of presidential authority. This represents the first time since 1965 that a president deployed the National Guard against state governors' wishes, highlighting an extraordinary constitutional test. The court acknowledged potential constitutional limits but maintained judicial deference, concluding that while the president has significant deployment powers under Title 10, Section 12406, these are not unlimited. California Governor Newsom and Attorney General Rob Bonta argued the deployment escalated tensions and overstepped state authority. Simultaneous legal challenges emerged in Oregon, with federal judges and the 9th Circuit Court scrutinizing the extent of presidential power in federalizing state National Guard units.

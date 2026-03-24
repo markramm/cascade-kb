@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-09-04--oracle-hires-cia-executive-director-david-carney
 date: '2001-09-04'
 title: Oracle Hires CIA Executive Director David Carney, Establishes Information Assurance Center
@@ -37,7 +37,7 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle Corporation hired David W. Carney as Vice President of Information Assurance on September 4, 2001, just one week before the September 11 terrorist attacks, marking a significant deepening of Oracle's relationship with the U.S. intelligence community. Carney retired after 32 years at the Central Intelligence Agency, where he served as Executive Director—the agency's Chief Operating Officer and third-ranking position—before joining Oracle to head its newly established Information Assurance Center.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-14--snyder-charged-with-weak-misdemeanors
 date: 2021-01-14
 title: Rick Snyder Charged With Misdemeanors for Poisoning Thousands—First Governor Ever Criminally Charged
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Michigan Governor Rick Snyder is indicted on two misdemeanor charges of willful neglect of duty in connection to the Flint water crisis, becoming the first governor or former governor in Michigan's 184-year history to be charged with crimes related to their time in office. Eight other officials face a total of 34 felony counts and seven misdemeanors—41 counts in all—but Snyder, who presided over the catastrophe, receives only misdemeanors carrying a maximum sentence of one year in prison and $1,000 fine per count.
 

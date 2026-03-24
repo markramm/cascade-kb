@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-07-01--georgia-kemp-purges-560000-voters-exact-match
 date: '2017-07-01'
 title: Georgia Secretary of State Brian Kemp Purges 560,000 Voters in Single Day Using "Exact Match" System
@@ -40,7 +40,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On a single day in late July 2017, Georgia Secretary of State Brian Kemp's office removes 560,000 Georgians—8% of the state's registered voters—from the voter rolls in what may be the largest mass purge in U.S. history. The purge uses Georgia's aggressive "use it or lose it" policy combined with a new "exact match" system that disproportionately targets Black and minority voters for minor discrepancies in registration records.
 

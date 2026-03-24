@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-06-24--buddy-cianci-operation-plunder-dome-conviction
 date: '2002-06-24'
 title: Providence Mayor Buddy Cianci Convicted in Operation Plunder Dome Corruption Trial, Sentenced to Five Years for Racketeering Conspiracy
@@ -45,7 +45,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 After a seven-week federal trial, Providence Mayor Vincent "Buddy" Cianci Jr. is convicted on June 24, 2002, of one count of racketeering conspiracy as the culmination of Operation Plunder Dome, the FBI's multi-year undercover investigation into systematic corruption within Providence city government. While acquitted on 26 of 27 charges including specific counts of bribery, extortion, and mail fraud, Cianci is found guilty of operating a criminal enterprise from the mayor's office where jobs, contracts, and favorable treatment were systematically sold in exchange for cash payments, campaign contributions, and other benefits. On September 6, 2002, U.S. District Judge Ernest Torres sentences Cianci to five years (64 months) in federal prison, choosing a sentence higher than the minimum federal guidelines. Under federal law, the conviction immediately forces Cianci's resignation, ending his second tenure as Providence's mayor.
 

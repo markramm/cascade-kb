@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-27--bove-delegates-doj-ethics-authority-political-aides
 date: '2026-01-27'
 status: confirmed
@@ -30,7 +30,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Acting Deputy Attorney General Emil Bove issued a memo on January 27, 2026, sidelining a qualified career ethics official and reassigning ethics responsibilities to Bove's chief of staff—who graduated from law school in 2021—and a former criminal defense attorney who served on President Trump's defense team. These two individuals, neither of whom had worked at the Department before, were granted final decision-making authority over "adverse personnel actions and bar referral matters," as well as ethics recusals, waivers, and nominee financial matters.
 

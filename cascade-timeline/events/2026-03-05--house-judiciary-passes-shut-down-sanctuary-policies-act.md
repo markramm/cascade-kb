@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--house-judiciary-passes-shut-down-sanctuary-policies-act
 date: '2026-03-05'
 title: House Judiciary Committee Passes Shut Down Sanctuary Policies Act, Threatening
@@ -46,7 +46,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The House Judiciary Committee approved H.R. 7640, the Shut Down Sanctuary Policies Act, on March 5, 2026, advancing legislation that would strip federal funding from cities, counties, and states that maintain policies limiting local law enforcement cooperation with U.S. Immigration and Customs Enforcement.
 

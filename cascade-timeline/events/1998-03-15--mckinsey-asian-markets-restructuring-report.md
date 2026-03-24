@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-03-15--mckinsey-asian-markets-restructuring-report
 date: '1998-03-15'
 title: McKinsey and International Organizations Outline Restructuring Strategy for Asian Markets
@@ -34,6 +34,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 In the context of the 1998 Asian Financial Crisis, multinational organizations like McKinsey, the IMF, and World Bank recommended aggressive corporate restructuring strategies for Southeast Asian economies. The recommendations focused on financial sector reforms, governance improvements, and policy adjustments to address systemic economic vulnerabilities, ultimately promoting foreign investment and corporate consolidation.

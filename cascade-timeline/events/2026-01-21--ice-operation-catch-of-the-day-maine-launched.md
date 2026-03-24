@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-21--ice-operation-catch-of-the-day-maine-launched
 date: '2026-01-21'
 status: confirmed
@@ -33,7 +33,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS launched Operation Catch of the Day, an immigration enforcement operation across Maine targeting what the agency described as "the worst of the worst criminal illegal aliens." ICE had a target list of 1,400 people, representing approximately 10 percent of all immigrants without permanent legal status in the state. The operation's first day resulted in arrests for aggravated assault, false imprisonment, and endangering the welfare of a child.
 

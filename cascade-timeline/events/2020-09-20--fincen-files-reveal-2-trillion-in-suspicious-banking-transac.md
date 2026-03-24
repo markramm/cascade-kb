@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-09-20'
 title: FinCEN Files Reveal $2 Trillion in Suspicious Banking Transactions
 actors:
@@ -55,5 +55,5 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 On September 20, 2020, BuzzFeed News and the International Consortium of Investigative Journalists (ICIJ) published the FinCEN Files, exposing over $2 trillion in suspicious financial transactions between 1999 and 2017. The investigation, involving 2,657 leaked documents and 2,121 suspicious activity reports (SARs), revealed systematic failures in global anti-money laundering systems. Major banks like JPMorgan Chase, Deutsche Bank, and HSBC consistently moved money for suspected criminals, corrupt officials, and fraudulent networks, treating these transactions as mere compliance paperwork rather than genuine financial crime prevention.

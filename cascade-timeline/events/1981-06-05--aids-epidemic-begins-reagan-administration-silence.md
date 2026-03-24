@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-06-05--aids-epidemic-begins-reagan-administration-silence
 date: '1981-06-05'
 status: confirmed
@@ -48,7 +48,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The CDC publishes the first report on unusual immune system failures in five previously healthy gay men in Los Angeles, marking the medical recognition of what becomes the AIDS epidemic. President Ronald Reagan's administration responds with years of complete public silence while the epidemic explodes. Reagan does not publicly mention AIDS until September 1985, more than four years into the crisis, and does not give a major address on AIDS until 1987 when over 20,000 Americans have already died. White House Press Secretary Larry Speakes jokes about the "gay plague" during press briefings, laughing off reporters' questions about federal response.
 

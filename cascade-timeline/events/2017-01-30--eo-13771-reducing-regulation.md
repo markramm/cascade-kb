@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2017-01-30'
 importance: 6
 title: 'Executive Order 13771: Reducing Regulation and Controlling Regulatory Costs'
@@ -46,6 +46,6 @@ sources:
 
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump signed EO 13771 on January 30, 2017, establishing a "two-for-one" rule requiring agencies to eliminate two existing regulations for every new regulation, with zero net cost increase. A November 2017 OIRA report claimed agencies achieved a 22-to-1 deregulatory ratio in eight months, saving $8.1 billion. Public Citizen and others sued but were dismissed for lack of standing. Biden rescinded the order on his first day in office, January 20, 2021.

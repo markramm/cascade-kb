@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-05--trump-familys-cash-registers-ring-as-financial-mel
 date: '2025-04-05'
 title: Trump family’s cash registers ring as financial meltdown plays out
@@ -47,7 +47,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 During the weekend of April 4-6, 2025, as U.S. markets experienced their worst losses in years following Trump's announcement of sweeping "reciprocal tariffs" on April 2 — with the S&P 500 dropping over 10% in two days — Trump spent the weekend at his Mar-a-Lago and Trump National Doral resorts in Florida. The Saudi government-backed LIV Golf tournament was held at Trump National Doral, generating revenue for Trump's resort. The New York Times reported that while markets raged and economic anxiety spread, "Trump family's cash registers ring," documenting how Trump's business interests benefited from events occurring alongside market turmoil he had created.
 
 The Washington Post reported that Trump's relationship with Saudi Arabia — which backed LIV Golf through the Public Investment Fund — had increasingly merged his roles as president and business proprietor. Saudi Arabia's continued hosting of LIV Golf tournaments at Trump properties generated millions in revenue for the Trump Organization while Saudi Arabia's sovereign wealth fund maintained significant influence over Trump administration foreign policy decisions affecting the kingdom. The juxtaposition of Trump as both policy-maker affecting global markets and beneficiary of Saudi-sponsored events at his own properties illustrated the corruption of the distinction between presidential duties and private financial interests.

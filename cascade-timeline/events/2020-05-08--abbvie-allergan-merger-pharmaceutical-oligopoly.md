@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-05-08--abbvie-allergan-merger-pharmaceutical-oligopoly
 date: '2020-05-08'
 title: 'AbbVie Completes $63 Billion Allergan Acquisition: Pharmaceutical Industry Consolidates Into Oligopoly'
@@ -39,7 +39,7 @@ capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 AbbVie completed its $63 billion acquisition of Allergan after FTC approval requiring divestiture of digestive drug brazikumab to resolve antitrust concerns. The merger created a pharmaceutical giant with combined 2019 revenues of $48 billion and a diversified portfolio spanning immunology, oncology, neuroscience, eye care, and aesthetics—further consolidating the pharmaceutical industry into a small oligopoly of mega-corporations with enormous pricing power.
 

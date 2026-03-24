@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-02-09--bork-appointed-dc-circuit
 date: 1982-02-09
 status: confirmed
@@ -84,7 +84,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 President Ronald Reagan appointed Robert Bork to the U.S. Court of Appeals for the District of Columbia Circuit on February 9, 1982, elevating the author of "The Antitrust Paradox" to the federal bench widely considered the nation's second-most important court. Bork had been nominated on December 7, 1981, and the Senate confirmed him on February 8, 1982. The appointment gave the conservative legal movement's leading antitrust theorist a powerful judicial platform to implement his Chicago School ideology of minimal antitrust enforcement and corporate deregulation, while positioning him as a leading candidate for future Supreme Court nomination.
 

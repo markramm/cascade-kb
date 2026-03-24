@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1937-06-19--little-steel-strike-defies-wagner-act
 date: '1937-06-19'
 title: Little Steel Strike - Steel Companies Defy Wagner Act, Refuse Union Recognition Despite Legal Obligation
@@ -44,7 +44,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The "Little Steel" strike begins on May 26, 1937, when 75,000 steelworkers walk off their jobs at Republic Steel, Bethlehem Steel, Youngstown Sheet and Tube, and Inland Steel after these companies refuse to sign contracts with the Steel Workers Organizing Committee (SWOC) despite the Wagner Act's requirement to bargain in good faith with unions chosen by workers. The strike represents the most significant corporate defiance of the Wagner Act and demonstrates that major corporations are prepared to use violence and lawbreaking rather than accept union organization.
 

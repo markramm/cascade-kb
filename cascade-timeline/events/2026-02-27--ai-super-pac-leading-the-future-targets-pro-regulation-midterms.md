@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-27--ai-super-pac-leading-the-future-targets-pro-regulation-midterms
 date: '2026-02-27'
 title: 'AI Industry Super PACs Deploy $125 Million to Target Pro-Regulation Candidates in 2026 Midterms'
@@ -64,7 +64,7 @@ capture_lanes:
 - Electoral Capture
 - Oligarchic Consolidation
 ---
-type: solidarity_event
+type: timeline_event
 
 As of late February 2026, the AI industry's electoral intervention in the 2026 midterm elections had reached a scale comparable to the cryptocurrency industry's 2024 campaign spending. The super PAC Leading the Future—backed by OpenAI president Greg Brockman, venture capital firm Andreessen Horowitz, Palantir co-founder Joe Lonsdale, and AI search startup Perplexity—had raised $125 million in commitments with $70 million in cash on hand, positioning it as the dominant pro-AI electoral force in the country.
 

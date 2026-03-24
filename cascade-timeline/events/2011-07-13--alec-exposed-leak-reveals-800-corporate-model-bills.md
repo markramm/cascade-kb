@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-07-13--alec-exposed-leak-reveals-800-corporate-model-bills
 date: '2011-07-13'
 title: 'ALEC Exposed: Leaked Documents Reveal 800 Corporate-Written Model Bills'
@@ -36,7 +36,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Center for Media and Democracy and The Nation publish "ALEC Exposed," revealing approximately 800 model bills developed by the American Legislative Exchange Council showing how corporations directly write state legislation on labor, environment, privatization, voting, criminal justice, and education. The leaked documents expose ALEC's "pay-to-play" operation where corporate members including Koch Industries, ExxonMobil, Walmart, tobacco companies, pharmaceutical firms, and private prison corporations pay fees to draft model legislation that state legislators then introduce as their own bills.
 

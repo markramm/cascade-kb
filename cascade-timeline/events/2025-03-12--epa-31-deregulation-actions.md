@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-12--epa-31-deregulation-actions
 date: '2025-03-12'
 importance: 10
@@ -55,7 +55,7 @@ sources:
 notes: Zeldin called this "the greatest and most consequential day of deregulation in U.S. history." EDF analysis projects rollbacks will cause at least 12,000 premature deaths and 8.5 million asthma attacks through 2055. Chemical industry veterans Nancy Beck (American Chemistry Council) and Lynn Dekleva (DuPont/American Chemistry Council) now oversee chemical safety regulations they previously lobbied against. Unified Agenda sets December 2025 deadlines for multiple final rules including power plant standards, oil & gas methane rules, and HFC phasedown reconsideration.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 EPA Administrator Lee Zeldin announced on March 12, 2025, that the agency will undertake 31 sweeping deregulatory actions targeting decades of environmental and public health protections. Zeldin described it as "the biggest deregulatory action in U.S. history" and "the greatest and most consequential day of deregulation our nation has seen." The announcement represents the most aggressive environmental rollback in EPA history, threatening to eliminate the legal foundation for climate action and benefiting polluting industries at the expense of public health.
 

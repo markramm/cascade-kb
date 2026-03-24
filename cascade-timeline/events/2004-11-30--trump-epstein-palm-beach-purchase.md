@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-11-30--trump-epstein-palm-beach-purchase
 date: '2004-11-30'
 importance: 8
@@ -39,6 +39,6 @@ sources:
 notes: The property was formerly owned by Leslie Wexner, Epstein's only publicly identified client. Trump's $41.35 million purchase and 2008 sale for $95 million to Russian oligarch Rybolovlev (then the most expensive U.S. residential sale) raises separate money laundering concerns. This auction definitively ended the Trump-Epstein relationship.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump purchased Maison de l'Amitié for $41.35 million at a November 30, 2004 bankruptcy auction, outbidding Jeffrey Epstein who went up to $38.6 million. During the auction, Epstein's attorneys tried to disqualify Trump over title insurance demands, but Judge Steven Friedman rejected the objection. The trustee described it as "two very large Palm Beach egos going at it." The loss angered Epstein and ended their 15-year friendship. Trump later sold the property to Russian oligarch Dmitry Rybolovlev for $95 million in 2008.

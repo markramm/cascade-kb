@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-27--ppp-paycheck-protection-program-launches-800-billion
 date: '2020-03-27'
 importance: 10
@@ -35,6 +35,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The Paycheck Protection Program launched with $800 billion in forgivable loans to support small businesses during COVID-19, but rushed implementation with minimal verification created "the biggest fraud in a generation." SBA Inspector General estimates $200+ billion in fraudulent loans - approximately 25% of total PPP/EIDL disbursements. Academic research found 1.8 million of 11.8 million PPP loans (15%+) showed fraud indicators including inflated payrolls, fake companies, and multiple businesses at residential addresses. The program's 100% federal loan guarantee eliminated bank risk incentives for verification. Over 54,000 fraud hotline complaints were filed (vs. 52 in all of 2019 for regular SBA loans). By 2023, DOJ charged only 3,500 defendants for $2 billion in losses despite $200B+ fraud estimates. The scheme enabled wealthy individuals and celebrities to exploit emergency relief while legitimate small businesses struggled, demonstrating how rapid policy implementation without adequate oversight creates systematic opportunities for elite fraud with minimal prosecution risk.

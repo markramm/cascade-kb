@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-16--senate-investigations-crypto-inquiry
 date: '2025-05-16'
 importance: 9
@@ -42,6 +42,6 @@ sources:
 notes: Blumenthal focused on $TRUMP meme coin and World Liberty Financial dealings with foreign entities; Trump's legal team pushed back against corruption claims
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Senator Richard Blumenthal's Permanent Subcommittee on Investigations opened inquiry into Trump's cryptocurrency ventures, describing them as "unprecedented conflicts of interest and national security risks" and "pay-to-play scheme to provide access to the Presidency." Demanded records from Fight Fight Fight LLC ($TRUMP coin) and World Liberty Financial by May 19, 2025.

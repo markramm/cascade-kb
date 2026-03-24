@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--initial-rescissions
 date: '2025-01-20'
 importance: 6
@@ -51,5 +51,5 @@ sources:
 notes: 'First of 26 executive orders signed on inauguration day. Rescinded orders included EO 13990 (Protecting Public Health), EO 14008 (Climate Crisis), EO 14074 (Law Enforcement Accountability Database). March 14 follow-up order rescinded additional directives.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 President Donald Trump signed Executive Order 14148 on January 20, 2025, his first day in office, rescinding 78 Biden-era executive orders and memoranda. The order targeted climate policies, DEI initiatives, and immigration enforcement, directing agency heads to end "unlawful and radical DEI ideology" implementation. The order stated "Climate extremism has exploded inflation and overburdened businesses" and mandated a 45-day review to identify additional orders for rescission, followed by a March 14 second wave of rescissions.

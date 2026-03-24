@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-31--how-the-trump-family-took-over-a-crypto-firm-it-raised-hundr
 date: '2025-03-31'
 title: Trump Family Takes Control of World Liberty Financial Crypto Venture
@@ -47,6 +47,6 @@ notes: Crypto project demonstrates potential conflicts of interest and unprecede
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump family, in partnership with the Witkoffs, quietly seized control of World Liberty Financial after raising $550 million through sales of WLFI tokens. The venture includes a USD1 stablecoin and has attracted significant foreign investment, including a potential $2 billion deal with an Abu Dhabi state-backed investment firm.

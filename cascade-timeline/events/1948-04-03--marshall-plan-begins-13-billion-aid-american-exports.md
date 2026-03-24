@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1948-04-03--marshall-plan-begins-13-billion-aid-american-exports
 date: '1948-04-03'
 title: Marshall Plan Begins - $13 Billion Aid Program Benefits American Exporters and Defense Industry
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The Marshall Plan (officially the European Recovery Program) begins on April 3, 1948, as the United States initiates a $13.3 billion economic recovery program for Western Europe ($137 billion in 2024 dollars). Announced by Secretary of State George Marshall in June 1947 and signed into law by President Truman, the program ostensibly aims to rebuild war-torn regions, remove trade barriers, modernize industry, improve European prosperity, and prevent spread of Communism. However, the program simultaneously serves as massive stimulus for American corporations by creating guaranteed markets for U.S. goods and establishing reliable trading partners.
 

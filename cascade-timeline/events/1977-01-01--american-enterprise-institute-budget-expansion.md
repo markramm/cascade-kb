@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1977-01-01--american-enterprise-institute-budget-expansion
 date: '1977-01-01'
 title: American Enterprise Institute Budget Surges to $10 Million - Think Tank Infrastructure Expansion
@@ -38,7 +38,7 @@ capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 By 1977, the American Enterprise Institute's budget had surged to approximately $10 million, representing more than a 12-fold increase from its 1970 budget of $800,000. This dramatic expansion transformed AEI from a modest research organization into a major policy influence machine, demonstrating the massive corporate investment in conservative intellectual infrastructure following the Powell Memo.
 
 The growth was fueled primarily by the Howard Pew Freedom Trust and the newly rejuvenated John M. Olin Foundation, whose staff had been influenced by neoconservative thinking. By 1980, AEI would grow to a budget of $8 million with a staff of 125, up from just $1 million and 10 staff members at the start of the decade.

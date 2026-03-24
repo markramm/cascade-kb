@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-06-27--supreme-court-rejects-purdue-sackler-immunity-settlement
 title: Supreme Court Rejects $6B Purdue Pharma Settlement Granting Sackler Family Immunity from Opioid Lawsuits
 date: '2024-06-27'
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 27, 2024, the U.S. Supreme Court blocked Purdue Pharma's $6 billion bankruptcy settlement that would have granted the Sackler family—who extracted over $10 billion from Purdue while the company fueled the opioid epidemic—broad immunity from all current and future civil lawsuits. The 5-4 decision rejected the bankruptcy court's authority to provide sweeping legal protections to billionaires who had not filed for bankruptcy themselves, exposing how the Sackler family attempted to use bankruptcy law to shield wealth extracted through conduct that killed hundreds of thousands of Americans.
 

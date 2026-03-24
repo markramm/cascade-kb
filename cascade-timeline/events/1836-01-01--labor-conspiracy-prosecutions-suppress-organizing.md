@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1836-01-01--labor-conspiracy-prosecutions-suppress-organizing
 date: '1836-01-01'
 title: Courts Prosecute Labor Unions as Criminal Conspiracies in 17 Cases Since 1806, Criminalizing Worker Organization
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 American courts systematically suppress labor organizing throughout the early 19th century by prosecuting unions and strikes as criminal conspiracies under common law doctrine inherited from England. From the 1806 Philadelphia Shoemakers' case through 1836, labor unions face conspiracy charges in at least 17 cases for the "crime" of combining to raise wages, shorten hours, or ensure employment for their members. Courts follow the precedent of the 1721 English case Rex v. Journeymen Tailors of Cambridge, which treated a labor union seeking higher wages as criminal conspiracy in restraint of trade. This judicial hostility makes union formation and strike activity legally perilous, with workers risking criminal conviction for collective bargaining activities that later generations recognize as fundamental rights. The systematic criminalization of labor organizing demonstrates how legal institutions serve employer interests by treating workers' attempts to collectively negotiate as illegal combinations while corporate combinations face no similar prosecution.
 

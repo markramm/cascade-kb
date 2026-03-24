@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-06-08--gitlow-v-new-york-criminal-anarchy-prosecution-upheld
 date: '1925-06-08'
 title: Supreme Court Upholds Criminal Anarchy Conviction While Expanding Due Process
@@ -36,7 +36,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 7-2 in Gitlow v. New York to uphold Benjamin Gitlow's conviction under New York's Criminal Anarchy Act for publishing "The Left Wing Manifesto," a socialist pamphlet advocating revolutionary mass action. Justice Edward Sanford's majority opinion affirms that states may punish speech advocating the violent overthrow of government without requiring proof that such speech created imminent danger of illegal action. The decision validates the Red Scare prosecutions of radicals for their political beliefs and writings rather than any concrete illegal acts.
 

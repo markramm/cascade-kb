@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections
 date: '2025-12-09'
 title: Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
@@ -40,7 +40,7 @@ capture_lanes:
 - Environmental Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 # Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-17--coins-watches-and-more-a-look-at-trump-s-crypto-related-vent
 date: '2025-02-17'
 title: 'Coins, watches and more: A look at Trump''s crypto-related ventures, by the numbers'
@@ -43,6 +43,6 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Donald Trump rebrands himself as the 'crypto president' through multiple cryptocurrency ventures, including World Liberty Financial (WLFI), a $TRUMP meme coin, and American Bitcoin, while also establishing a Strategic Bitcoin Reserve through an executive order.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-02-15--time-magazine-committee-save-world-rubin-summers-greenspan
 date: '1999-02-15'
 title: Time Magazine Celebrates "Committee to Save the World" While They Block Derivatives Regulation
@@ -46,7 +46,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Time Magazine publishes its February 15, 1999 edition featuring Treasury Secretary Robert Rubin, Deputy Secretary Lawrence Summers, and Federal Reserve Chairman Alan Greenspan on the cover as "The Committee to Save the World," celebrating their management of the 1997-1998 Asian and Russian financial crises. The triumphalist coverage portrays the three officials as financial saviors while completely ignoring their simultaneous campaign to block derivatives regulation and dismantle financial safeguards.
 

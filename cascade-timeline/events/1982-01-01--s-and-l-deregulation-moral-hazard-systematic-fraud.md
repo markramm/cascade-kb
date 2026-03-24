@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-01-01--s-and-l-deregulation-moral-hazard-systematic-fraud
 date: '1982-01-01'
 status: confirmed
@@ -41,7 +41,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Reagan-era S&L deregulation creates massive moral hazard by combining three toxic elements: elimination of prudential lending standards, expanded federal deposit insurance covering risky investments, and weakened regulatory oversight. The Garn-St. Germain Act removes Depression-era constraints that had prevented S&L failures, allowing thrifts to invest in commercial real estate, junk bonds, and speculative ventures while maintaining federal insurance guarantees. This combination incentivizes fraud and reckless risk-taking: S&L executives can gamble with federally-insured deposits knowing that profits are privatized while losses are socialized onto taxpayers.
 

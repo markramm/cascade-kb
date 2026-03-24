@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-19--senate-98-0-resolution-rejects-putin-interrogations-rebuke
 date: 2018-07-19
 title: Senate Votes 98-0 to Reject Putin's Request to Interrogate U.S. Officials in Bipartisan Rebuke of Trump
@@ -44,7 +44,7 @@ capture_lanes:
 - Executive Power Expansion
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 In a rare moment of unanimous Senate action, lawmakers voted 98-0 to approve a resolution rejecting Vladimir Putin's proposal to interrogate U.S. officials—a direct and powerful rebuke of President Trump's consideration of the Russian offer during the Helsinki summit. The vote demonstrated extraordinary bipartisan unity against Trump's approach to Russia just days after his controversial press conference with Putin.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-06-19--oracle-bluekai-data-breach-billions-records-exposed
 date: '2020-06-19'
 title: Oracle BlueKai Exposes Billions of Web Tracking Records in Unsecured Database
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle's BlueKai Data Management Platform exposed billions of records containing sensitive web tracking data through an unsecured cloud server discovered on June 19, 2020, in one of the largest data breaches of the year. The database, left accessible to the public internet without password protection or authentication, contained names, home addresses, email addresses, and detailed web browsing activity including purchases, newsletter subscriptions, and website visits across some of the world's most popular websites.
 

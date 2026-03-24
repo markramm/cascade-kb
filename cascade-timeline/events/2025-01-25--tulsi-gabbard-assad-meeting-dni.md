@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-25--tulsi-gabbard-assad-meeting-dni
 date: '2025-01-25'
 title: 'DNI Tulsi Gabbard''s Secret Assad Meeting and Russian Ties Alarm Intelligence Allies'
@@ -64,5 +64,5 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Director of National Intelligence Tulsi Gabbard, confirmed by a narrow 52-48 Senate vote, faces intense scrutiny over her 2017 secret meeting with Syrian dictator Bashar al-Assad and consistent pro-Russia positioning. Her minimal intelligence experience and controversial past have raised significant concerns among intelligence allies about potential security risks.

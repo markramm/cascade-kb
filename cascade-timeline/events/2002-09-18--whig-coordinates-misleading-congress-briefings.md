@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-18--whig-coordinates-misleading-congress-briefings
 date: '2002-09-18'
 title: 'WHIG Intelligence Briefing Coordination with Congress: Systematic Misrepresentation'
@@ -64,6 +64,6 @@ intelligence_assessment_details:
     - Lack of comprehensive analytical rigor
 verification_status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group (WHIG), established in August 2002, coordinated a comprehensive campaign to present intelligence about Iraq to congressional leaders. A Senate Intelligence Committee investigation found that intelligence claims about Iraq's weapons capabilities and potential threats were systematically overstated, lacking substantive supporting evidence. While no direct evidence of intentional fabrication was found, the intelligence community failed to adequately communicate the significant uncertainties underlying their assessments.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-28--rubio-testifies-senate-venezuela-policy-no-further-military-action
 date: '2026-01-28'
 status: confirmed
@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Secretary of State Marco Rubio testifies for nearly three hours before the Senate Foreign Relations Committee about U.S. policy toward Venezuela, answering questions for the first time since U.S. forces captured President Nicolás Maduro on January 3. Rubio tells senators: "I can tell you right now with full certainty, we are not postured to, nor do we intend or expect to have to take any military action in Venezuela at any time."
 

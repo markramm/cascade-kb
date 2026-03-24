@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-13--competition-executive-order-revoked
 date: '2025-08-13'
 importance: 8
@@ -52,5 +52,5 @@ description: 'Trump revokes Biden''s 2021 executive order promoting competition 
 _merge_note: 'Enhanced with information from duplicate event: 2025-08-13--trump-revokes-competition-order'
 _merge_timestamp: '2025-09-05T23:46:55.902399'
 ---
-type: solidarity_event
+type: timeline_event
 President Trump signs executive order revoking previous competition and antitrust enforcement policies, clearing path for increased corporate consolidation and monopolistic practices without federal oversight.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-28--us-securities-exchange-commission-beginning-onboard-doge-sta
 date: '2025-03-28'
 title: SEC Launches Crypto Task Force with Significant Staffing Changes
@@ -44,6 +44,6 @@ patterns:
 notes: Significant restructuring of SEC's cryptocurrency regulatory approach, moving from enforcement to framework development.
 additional_context: Part of broader 2025 shift in U.S. digital asset regulation, focusing on creating clear guidelines rather than punitive enforcement.
 ---
-type: solidarity_event
+type: timeline_event
 
 The Securities and Exchange Commission (SEC) restructured its cryptocurrency regulatory approach by dissolving its previous Crypto Asset and Cyber Unit and launching a new Cyber and Emerging Technologies Unit, signaling a shift from enforcement to regulatory framework development.

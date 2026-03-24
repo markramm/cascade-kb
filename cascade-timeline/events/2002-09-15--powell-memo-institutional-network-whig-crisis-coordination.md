@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-15--powell-memo-institutional-network-whig-crisis-coordination
 date: '2002-09-15'
 importance: 8
@@ -50,6 +50,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The complete Powell Memorandum institutional network—including American Enterprise Institute, Cato Institute, Hoover Institution, Federalist Society, and coordinated corporate media—establishes systematic coordination with WHIG operations for crisis-accelerated implementation of institutional capture objectives. This network coordination represents the successful merger of Powell's long-term corporate capture strategy with WHIG's crisis exploitation tactics, transforming gradual institutional influence into rapid democratic transformation through systematic deception infrastructure. The institutional network provides WHIG with established intellectual justification, media coordination capabilities, legal opinion infrastructure, and corporate funding networks necessary for systematic crisis exploitation. WHIG operations provide the network with unprecedented opportunity to accelerate Powell Memorandum objectives through coordinated government propaganda, intelligence manipulation, and congressional deception mechanisms. This coordination demonstrates that WHIG represented not isolated executive branch overreach but systematic implementation of Powell Memorandum corporate capture blueprint using 9/11 crisis as acceleration catalyst. The merger creates the institutional template for crisis-accelerated oligarchic capture: established corporate influence networks coordinate with government propaganda operations to exploit crisis conditions for rapid institutional transformation that would require decades under normal democratic processes.

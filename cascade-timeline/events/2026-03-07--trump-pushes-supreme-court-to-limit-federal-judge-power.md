@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--trump-pushes-supreme-court-to-limit-federal-judge-power
 date: '2026-03-07'
 title: Trump Administration Escalates Campaign to Strip Federal Judges of Power to Block Presidential Orders
@@ -43,7 +43,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 7, 2026, the Trump administration had mounted an aggressive multi-front campaign to dramatically curtail the power of federal judges to block presidential actions, using both executive pressure on the Supreme Court and legislative action in Congress.
 

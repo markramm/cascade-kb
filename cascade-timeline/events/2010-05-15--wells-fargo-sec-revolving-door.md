@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-05-15--wells-fargo-sec-revolving-door
 date: '2010-05-15'
 title: 'Wells Fargo Hires SEC Enforcement Chief: Investigation Needed'
@@ -31,6 +31,6 @@ capture_lanes:
 - Regulatory Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Unverified claim about Wells Fargo hiring a former SEC enforcement official requires comprehensive investigation. No credible sources could confirm the specific details of this alleged hiring in 2010.

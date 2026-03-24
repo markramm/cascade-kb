@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-27--georgia-purges-voters-exact-match-system
 date: '2018-11-27'
 title: Georgia Purges 1.4 Million Voters Under Exact Match System
@@ -42,6 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Georgia Secretary of State Brian Kemp's office purged approximately 1.4 million voters from registration rolls between 2012-2018 using an 'exact match' system that required perfect alignment between voter registration and DMV/Social Security records. Discrepancies as minor as a missing hyphen or apostrophe triggered suspensions. An Associated Press analysis found the system disproportionately affected minority voters, with 70% of suspended registrations belonging to African Americans despite comprising 32% of Georgia's population. The purges occurred while Kemp simultaneously ran for governor against Stacey Abrams, creating unprecedented conflicts of interest. Voting rights groups sued, arguing the system violated federal law and targeted communities of color through seemingly neutral bureaucratic processes.

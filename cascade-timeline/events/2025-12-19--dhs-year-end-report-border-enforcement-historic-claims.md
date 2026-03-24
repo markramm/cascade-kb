@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-19--dhs-year-end-report-border-enforcement-historic-claims
 date: '2025-12-19'
 importance: 8
@@ -51,7 +51,7 @@ sources:
 notes: DHS reports 2.5 million total departures (1.9M self-deportations + 622K deportations), border crossings down 93% year-over-year, seven consecutive months of zero USBP releases, 539,984 pounds of drugs seized (10% increase), 220,000+ ICE applications received, Coast Guard seized 470,000 pounds of cocaine. Claims "most secure border in American history." Report combines voluntary departures with deportations to inflate numbers. Released December 19 as first-year accomplishment summary.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Homeland Security released a comprehensive year-end report on December 19, 2025, claiming that under President Trump and Secretary Kristi Noem the agency has achieved "the most secure border in American history" and "unmatched enforcement successes" through massive deportation operations, record-low border crossings, unprecedented drug seizures, and dramatic expansion of immigration enforcement personnel. The report, framed as a first-year accomplishment summary for the Trump administration, highlights 2.5 million total "departures" from the United States including 1.9 million claimed "self-deportations" alongside 622,000 formal deportations, a 93% year-over-year reduction in border crossings, seven consecutive months of zero releases by U.S. Border Patrol, and nearly 540,000 pounds of drug seizures—while notably conflating voluntary departures with deportations to inflate enforcement numbers and obscuring the human costs of aggressive immigration operations that have terrorized immigrant communities nationwide.
 

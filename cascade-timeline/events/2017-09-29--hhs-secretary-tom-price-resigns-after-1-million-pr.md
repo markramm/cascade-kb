@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-09-29--hhs-secretary-tom-price-resigns-after-1-million-pr
 date: '2017-09-29'
 title: HHS Secretary Tom Price Resigns After $1 Million Private Jet Scandal
@@ -66,7 +66,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Health and Human Services Secretary Tom Price resigned after revelations he spent 
 over $1 million in taxpayer funds on private jets and military aircraft for travel 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-03--noem-falsely-claims-meeting-kim-jong-un
 date: '2024-05-03'
 title: Noem caught lying about meeting Kim Jong Un in memoir
@@ -35,5 +35,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 Kristi Noem falsely claimed in her memoir that she met North Korean dictator Kim Jong Un while serving in Congress. The claim was impossible as Kim did not leave North Korea until 2018, years after her claimed meeting date. After media scrutiny, Noem's publisher removed the passage from future editions. Noem refused to directly admit the meeting never happened, only saying the anecdote "should not have been included."

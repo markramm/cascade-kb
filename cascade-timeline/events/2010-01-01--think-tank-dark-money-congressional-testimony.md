@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--think-tank-dark-money-congressional-testimony
 date: '2010-01-01'
 title: Corporate-Funded Think Tanks Testify to Congress While Hiding Donor Conflicts of Interest
@@ -39,7 +39,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Analysis of congressional testimony revealed that think tanks funded by corporations and wealthy donors appeared as expert witnesses before congressional committees without disclosing their financial conflicts of interest. Between 2021-2024, 34% of think tank witnesses came from "dark money" organizations that refuse to disclose donors, while only 30% of think tank witnesses fully disclosed their funding sources. Major think tanks like the Heritage Foundation and American Enterprise Institute received millions from corporations including Facebook, Google, Amazon, and defense contractors while testifying on policy issues affecting those same industries.
 

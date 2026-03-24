@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-10-01--healthcare-gov-launch-disaster-costs-7b-from-93m
 date: '2013-10-01'
 importance: 7
@@ -38,6 +38,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Healthcare.gov launch on October 1, 2013 became one of the most expensive government IT failures in history, with costs ballooning from an initial $93.7 million CGI Federal contract to over $1.7 billion total. The site crashed within minutes of launch, with only 6 people successfully enrolling on day one. Of 4.7 million unique visitors in the first day, 99% could not create accounts. CGI Federal, a Canadian company with a history of failures, received the no-bid contract through a small business program loophole. After two months of dysfunction, Accenture replaced CGI at additional cost. State exchanges in Oregon, Nevada, Maryland, and Hawaii failed completely despite receiving $305 million, $75 million, $193 million, and $205 million respectively. Oregon never enrolled a single person online. The disaster demonstrated massive government contracting incompetence, with contractors profiting from failure while millions couldn't access healthcare. GAO found inadequate oversight and testing throughout.

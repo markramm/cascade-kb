@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-08-01--white-house-iraq-group-formation-propaganda-coordination
 date: '2002-08-01'
 importance: 9
@@ -43,6 +43,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 White House Chief of Staff Andrew Card forms the White House Iraq Group (WHIG) to coordinate the Bush administration's public relations campaign for the Iraq invasion. Chaired by Karl Rove and meeting weekly in the Situation Room, WHIG included National Security Advisor Condoleezza Rice, her deputy Stephen Hadley, Vice President Cheney's chief of staff Scooter Libby, communications strategists Karen Hughes and Mary Matalin, and legislative liaison Nicholas Calio. The group's mission was to 'educate the public' about the alleged threat from Iraq and coordinate all executive branch messaging. As Card later explained, 'From a marketing point of view, you don't introduce new products in August,' setting the stage for the September 2002 propaganda rollout. WHIG operated as the central nerve center for intelligence manipulation, controlling 'everything, I mean everything' related to Iraq messaging according to ranking officials. The group's formation marked the systematic institutionalization of propaganda within the White House, transforming national security policy into a marketing campaign that would ultimately lead to the Iraq War based on fabricated intelligence.

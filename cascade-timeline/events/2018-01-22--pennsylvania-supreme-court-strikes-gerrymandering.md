@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-22--pennsylvania-supreme-court-strikes-gerrymandering
 date: '2018-01-22'
 title: Pennsylvania Supreme Court Strikes Down Congressional Map as Unconstitutional Partisan Gerrymander
@@ -41,7 +41,7 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Pennsylvania Supreme Court rules that the state's 2011 congressional map violates the Pennsylvania Constitution's guarantee that "elections shall be free and equal," striking down one of the nation's most extreme partisan gerrymanders. The court finds that Republican-drawn maps allowed the GOP to win 72% of congressional seats while receiving only 49-55% of votes across multiple elections, demonstrating how gerrymandering can systematically nullify voter preferences.
 

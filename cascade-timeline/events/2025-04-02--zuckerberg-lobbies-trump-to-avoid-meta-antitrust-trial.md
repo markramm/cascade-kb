@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-02--zuckerberg-lobbies-trump-to-avoid-meta-antitrust-trial
 date: '2025-04-02'
 title: Zuckerberg lobbies Trump to avoid Meta antitrust trial
@@ -53,7 +53,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Mark Zuckerberg lobbied President Trump to settle a 2020 FTC antitrust case that
 seeks to unwind Meta's acquisitions of Instagram and WhatsApp for allegedly maintaining

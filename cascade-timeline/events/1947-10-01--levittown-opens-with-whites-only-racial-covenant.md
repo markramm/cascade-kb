@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1947-10-01--levittown-opens-with-whites-only-racial-covenant
 date: '1947-10-01'
 title: Levittown Opens as America's First Suburb With Explicit Whites-Only Policy
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Levittown, regarded as America's first modern planned suburb, opens on Long Island to accommodate returning World War II veterans with "Clause 25" in housing agreements explicitly forbidding homes "from being used or occupied by any person other than members of the Caucasian race." The leases state: "No dwelling shall be used or occupied by members of other than the Caucasian race, but the employment and maintenance of other than Caucasian domestic servants shall be permitted." Developer William Levitt follows Federal Housing Administration guidelines, which provide mortgage insurance while encouraging restrictions barring African-Americans and people of Puerto-Rican origin from homeownership.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2007-09-15--honest-leadership-act-revolving-door-failure
 date: '2007-09-15'
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The Honest Leadership and Open Government Act took full effect after President Bush signed it into law, implementing new ethics rules designed to slow the revolving door between Congress and lobbying firms. The law extended cooling-off periods from one to two years for senators and established a one-year restriction for House members and senior staff before they could lobby their former colleagues. However, research analyzing the law's impact found it largely failed to slow the revolving door—lobbyists simply found alternative roles as "strategic advisors" during cooling-off periods, while the percentage of former lawmakers becoming lobbyists continued its decades-long increase.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-07-24--supreme-court-united-states-v-nixon
 date: '1974-07-24'
 title: 'Supreme Court Rules 8-0 in United States v. Nixon: President Must Surrender Tapes'
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 24, 1974, the Supreme Court issued a unanimous 8-0 decision in United States v. Nixon, ordering President Richard Nixon to deliver sixty-four tape recordings and other subpoenaed materials related to the Watergate scandal to the federal district court. Chief Justice Warren Burger—a Nixon appointee—wrote the decision, in which the Court acknowledged the doctrine of executive privilege but ruled it was generally limited to areas of national security or diplomatic affairs. The Court established that neither the separation of powers nor a generalized need for confidential communications supported an absolute privilege, setting a standard of "demonstrated specific need" for enforcement of a federal criminal subpoena to the President. Most significantly, the Court declared that "the President is not above the law" and must turn over the tapes.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-10--trump-drug-sales-plan-benefits-son-and-allies
 date: '2025-10-10'
 title: Trump's Pharmaceutical Sales Overhaul Benefits Son's Company and Cabinet Member
@@ -36,6 +36,6 @@ capture_lanes:
 - Regulatory Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's proposed direct pharmaceutical sales to consumers would specifically benefit BlinkRx, where Donald Trump Jr. serves on the board, and Cantor Fitzgerald, connected to Commerce Secretary Howard Lutnick's family. The policy change represents textbook corruption: government officials using regulatory authority to create markets and competitive advantages for their own business interests and those of family members. This demonstrates the systematic transformation of federal policy-making into a profit center for the Trump family and political allies.

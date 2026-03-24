@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-01-20'
 title: Trump Implements Unprecedented Wave of Project 2025 Executive Orders
 description: In a coordinated effort matching the Heritage Foundation's Project 2025 blueprint, President Trump signed 37 executive orders on January 20, 2025, representing a radical restructuring of federal governance. Key actions included withdrawing from international agreements, establishing the Department of Government Efficiency (DOGE), stripping civil service protections via Schedule F reclassification, and systematically dismantling diversity, equity, and inclusion (DEI) programs across federal agencies.
@@ -61,6 +61,6 @@ implementation_details:
   - Federal Workforce Restructuring
   implementation_rate_by_june_2025: 41%
 ---
-type: solidarity_event
+type: timeline_event
 
 On Inauguration Day, the Trump administration signed 37 executive orders implementing core Project 2025 priorities, systematically transforming federal governance. Orders targeted climate policy, international organizations, federal workforce, diversity programs, and national emergency declarations, marking a comprehensive reengineering of administrative infrastructure.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-10-22--nixon-nominates-powell-supreme-court-memo-author
 date: '1971-10-22'
 title: Nixon Nominates Lewis Powell to Supreme Court Two Months After Corporate Blueprint Memo
@@ -51,6 +51,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Richard Nixon nominates Lewis F. Powell Jr. to the Supreme Court just two months after Powell authored his secret corporate blueprint memo to the U.S. Chamber of Commerce on August 23, 1971. Amidst a rare opportunity to reshape the Supreme Court, Nixon nominates Powell alongside William Rehnquist following the retirements of Justices Hugo Black and John Marshall Harlan. Powell's nomination represents a strategic placement of a corporate law expert who had recently written a comprehensive memo advocating for systematic business influence in American institutions. The memo, which remained confidential during his confirmation hearings, would later be seen as a pivotal document in understanding corporate capture of American democratic systems.

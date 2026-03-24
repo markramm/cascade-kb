@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-22--grok-ai-regulatory-investigation
 date: '2024-05-22'
 title: 'House Oversight Launches Comprehensive Investigation into Grok AI''s Safety and Government Deployment'
@@ -51,5 +51,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 U.S. House Oversight Democrats, led by Representatives Robert Garcia and Stephen Lynch, launched a comprehensive investigation into Grok AI's development practices. The investigation scrutinized potential risks to the public information ecosystem, including concerns about privacy, cybersecurity, algorithmic bias, and ideological distortions. Over 30 advocacy organizations, including Public Citizen and Color of Change, urged the Office of Management and Budget to prohibit Grok in federal government due to documented instances of generating harmful and potentially racist content, cybersecurity vulnerabilities, and systemic inaccuracies. The advocacy groups highlighted specific issues such as: the AI producing antisemitic content, denying established scientific consensus like climate change, and failing to meet government standards for neutral, objective information systems. Despite these concerns, the General Services Administration was exploring Grok's potential government use, highlighting tensions between technological innovation and responsible AI deployment.

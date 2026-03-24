@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-01-02--kbr-electrocution-deaths-ryan-maseth-contractor-negligence
 date: '2008-01-02'
 title: KBR's Faulty Electrical Work Kills Staff Sgt. Ryan Maseth, Part of Systematic Negligence Causing 18 Electrocution Deaths in Iraq with No Criminal Charges Despite Army Negligent Homicide Finding
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Staff Sgt. Ryan Maseth, a 24-year-old Green Beret from Pittsburgh, was electrocuted in a shower at Radwaniyah Palace Complex near Baghdad on January 2, 2008, when an improperly grounded water pump installed by KBR short-circuited and sent electrical current through the shower water. Pentagon Inspector General investigations revealed that KBR had inspected the building and discovered serious electrical problems 11 months before Maseth's death but failed to correct them, directly causing his electrocution. Army Criminal Investigations reclassified Maseth's death as "negligent homicide" caused by KBR and two of its supervisors, finding that "KBR failed to ensure work was done by qualified electricians and plumbers." Despite this criminal classification, the Pentagon announced no criminal charges would be filed, demonstrating systematic contractor impunity where corporations could kill American soldiers through gross negligence without facing criminal prosecution.
 

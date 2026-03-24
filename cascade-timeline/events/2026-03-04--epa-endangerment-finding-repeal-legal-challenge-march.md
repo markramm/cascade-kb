@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--epa-endangerment-finding-repeal-legal-challenge-march
 date: '2026-03-04'
 title: Environmental Groups Press Legal Challenge Against EPA's Repeal of Greenhouse Gas Endangerment Finding
@@ -44,7 +44,7 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 In late February and continuing into early March 2026, a coalition of environmental and public health groups pressed legal challenges against the Trump EPA's repeal of the landmark "endangerment finding" — the 2009 scientific determination that greenhouse gases constitute a threat to public health and welfare. The endangerment finding was the foundational legal basis for nearly all federal climate regulation, and its repeal represented the most sweeping environmental deregulatory act since the modern regulatory state was established.
 

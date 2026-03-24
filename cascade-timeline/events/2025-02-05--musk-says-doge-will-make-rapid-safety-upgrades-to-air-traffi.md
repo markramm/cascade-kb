@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-05--musk-says-doge-will-make-rapid-safety-upgrades-to-air-traffi
 date: '2025-02-05'
 title: Musk Proposes Rapid FAA Air Traffic Control System Safety Upgrades
@@ -47,5 +47,5 @@ patterns:
 - technological-intervention
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Following a deadly midair collision near Ronald Reagan Washington National Airport and a NOTAM system outage, Elon Musk proposed implementing rapid safety upgrades to the FAA's air traffic control system via the Department of Government Efficiency (DOGE) and Starlink technology, raising potential conflicts of interest.

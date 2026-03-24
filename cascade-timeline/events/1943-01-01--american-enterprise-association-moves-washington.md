@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1943-01-01--american-enterprise-association-moves-washington
 date: '1943-01-01'
 importance: 7
@@ -47,7 +47,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Enterprise Association (AEA) moves its main offices from New York City to Washington, D.C. in 1943 to more effectively oppose the New Deal and capitalize on Congress's need for help making sense of its vastly increased wartime portfolio. AEA was founded in 1938 by a group of New York businessmen led by Lewis H. Brown, president of Johns-Manville Corporation, along with economic writer Henry Hazlitt. The organization's founders include executives from Bristol-Myers, Chemical Bank, Chrysler, Eli Lilly, General Mills, and Paine Webber, representing a cross-section of major American corporations. The group forms in response to congressional "talk of making wartime price and production controls permanent when the war ended to prevent another depression," with Lewis Brown and fellow founders long distrusting the growing centralization of the American economy.
 

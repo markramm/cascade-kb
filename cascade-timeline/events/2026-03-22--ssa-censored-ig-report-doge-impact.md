@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-22--ssa-censored-ig-report-doge-impact
 date: '2026-03-22'
 title: Trump Admin Altered SSA Inspector General Report to Hide DOGE Impact on Services
@@ -40,7 +40,7 @@ capture_lanes:
 - Institutional Capture
 - Oversight Destruction
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 22, 2026, reporting revealed that the Trump administration had altered a Social Security Administration inspector general report to conceal the impact of DOGE workforce cuts on public services. An earlier draft of the report, obtained by journalists, showed that average wait times at SSA field offices had surged from 46 minutes to more than two hours — data that was deleted from the version ultimately published. The censorship of an independent watchdog report represented a direct assault on the integrity of federal oversight.
 

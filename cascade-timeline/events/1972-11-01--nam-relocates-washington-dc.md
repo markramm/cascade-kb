@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-11-01--nam-relocates-washington-dc
 date: '1972-11-01'
 importance: 8
@@ -32,6 +32,6 @@ sources:
 notes: The move from New York to Washington represented a strategic shift in corporate political engagement. NAM's chief stated "The thing that affects business most today is government" - echoing Powell's memo emphasis on political power. This relocation was part of the broader corporate mobilization triggered by the Powell Memo.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The National Association of Manufacturers (NAM) announces it will relocate its main offices from New York to Washington, D.C., marking a strategic shift in corporate political engagement in direct response to the Powell Memo blueprint. NAM's chief executive explicitly states: "The thing that affects business most today is government," echoing Powell's August 1971 call for business to acquire and use political power aggressively. The move represents the beginning of a massive corporate migration to the nation's capital, transforming Washington from a city of 100 corporations with public affairs offices in 1968 to over 500 by 1978. This relocation occurs just weeks after Jack Anderson's public exposure of the Powell Memo and one month before the establishment of the Business Roundtable, demonstrating the rapid corporate mobilization in response to Powell's strategic blueprint. NAM's move signals that major American corporations are abandoning their traditional distance from direct political engagement and embracing Powell's vision of systematic institutional influence through concentrated Washington presence.

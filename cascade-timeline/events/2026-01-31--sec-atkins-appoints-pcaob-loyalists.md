@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-31--sec-atkins-appoints-pcaob-loyalists
 date: '2026-01-31'
 status: confirmed
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 SEC Chair Paul Atkins announced the appointment of four new officials to the Public Company Accounting Oversight Board (PCAOB), the independent organization tasked with overseeing public companies' accounting created after the Enron scandal. The new chairman, Demetrios (Jim) Logothetis, retired from Ernst & Young in 2019 after 40 years with the Big Four firm. Two new board members were appointed: Mark Calabria, who made his name as a proponent of loose regulations for financial institutions at the Cato Institute and served as director of the Federal Housing Finance Agency in Trump's first term, and Kyle Hauptman, who worked at Lehman Brothers and the conservative American Enterprise Institute and currently chairs the National Credit Union Administration.
 

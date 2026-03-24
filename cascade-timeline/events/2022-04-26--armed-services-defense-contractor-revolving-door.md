@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-04-26--armed-services-defense-contractor-revolving-door
 date: '2022-04-26'
 title: Warren Report Reveals 672 Pentagon and Congressional Officials Now Lobby for Defense Contractors
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Senator Elizabeth Warren released a comprehensive report analyzing the defense contractor revolving door, identifying 672 cases where the top 20 defense contractors employed former government officials, military officers, members of Congress, and senior legislative staff. The analysis found that 91% of these individuals—over 600 people—became registered lobbyists for defense contractors, creating a systematic pipeline between congressional Armed Services Committees, the Pentagon, and the weapons manufacturers they are meant to oversee. The report documented how this revolving door allows defense contractors to purchase insider knowledge and congressional access while creating implicit incentives for current officials to maintain industry-friendly positions.
 

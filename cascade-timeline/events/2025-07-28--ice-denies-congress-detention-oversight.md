@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-28--ice-denies-congress-detention-oversight
 date: '2025-07-28'
 importance: 8
@@ -43,6 +43,6 @@ sources:
 notes: Rep. Crow arrived with a printout of the law allowing unannounced congressional inspections but was still turned away. The denials violated Section 527 of appropriations law stating DHS cannot use funds to prevent members of Congress from entering detention facilities for oversight. This followed the May 9 arrest of Newark Mayor Ras Baraka during a congressional visit, with DHS threatening arrests of Members of Congress. Twelve House members filed federal lawsuit documenting systematic denial of facility access. This marks unprecedented obstruction of legislative branch oversight authority.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 ICE denied multiple members of Congress access to immigration detention facilities across the country, including Rep. Jason Crow at Aurora, Colorado and six Maryland Democrats at Baltimore's Fallon Federal Building. Despite a 2019 law guaranteeing congressional access for oversight, ICE officials cited new DHS directives requiring seven days advance notice and blocking access to field offices. The Baltimore field office director explicitly stated the denial came from "headquarters."

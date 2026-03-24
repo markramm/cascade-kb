@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-07--bondi-fires-pardon-attorney-oyer-mel-gibson-gun-rights
 date: '2025-03-07'
 title: Bondi Fires DOJ Pardon Attorney Who Refused to Restore Mel Gibson's Gun Rights at Trump's Request
@@ -37,7 +37,7 @@ capture_lanes:
 - Institutional Capture
 - Executive Power & Emergency Authority
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 7, 2025, Pam Bondi fired DOJ Pardon Attorney Elizabeth "Liz" Oyer after Oyer refused to add Mel Gibson to a pilot program restoring gun rights to people with certain criminal convictions.
 

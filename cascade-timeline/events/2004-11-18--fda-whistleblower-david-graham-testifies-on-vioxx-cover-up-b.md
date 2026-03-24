@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2004-11-18'
 title: FDA Whistleblower David Graham Testifies on Vioxx Cover-up Before Senate
 importance: 9
@@ -45,6 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 FDA epidemiologist Dr. David Graham delivered explosive testimony before the U.S. Senate Finance Committee, declaring that 'the FDA, as currently configured, is incapable of protecting America against another Vioxx. We are virtually defenseless.' Graham revealed that his study showed Vioxx caused 88,000 to 139,000 heart attacks with a 30-40% fatality rate, resulting in approximately 55,000 premature deaths. He testified that the FDA attempted to suppress his findings and intimidate him before his testimony, including orchestrated attacks from senior FDA managers who contacted medical journal editors suggesting Graham had committed scientific misconduct. This case exposed how pharmaceutical industry influence compromised drug safety oversight, as Merck had withdrawn Vioxx in September 2004 despite knowing about cardiovascular risks as early as 1996. Graham's testimony became a landmark moment in exposing regulatory capture at the FDA.

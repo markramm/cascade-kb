@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-23--spacex-9b-govt-contracts-conflict-probe
 date: '2025-03-23'
 title: SpaceX Secures Over $9.5 Billion in Government Contracts Despite Conflicts of Interest
@@ -46,5 +46,5 @@ patterns:
 - government-contract-manipulation
 notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional contract details and congressional investigation information.
 ---
-type: solidarity_event
+type: timeline_event
 SpaceX continues to receive substantial federal contracts, totaling $9.5 billion from the Department of Defense in 2025, despite congressional investigations into potential conflicts of interest stemming from Elon Musk's role in the Trump administration. These contracts include a $5.9 billion Space Force rocket launch support agreement through 2029 and a $102 million Air Force rocket cargo study.

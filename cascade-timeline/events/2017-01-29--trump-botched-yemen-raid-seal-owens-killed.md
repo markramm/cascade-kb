@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-29--trump-botched-yemen-raid-seal-owens-killed
 date: '2017-01-29'
 title: Trump Approves Botched Yemen Raid Killing Navy SEAL Owens and 23+ Civilians Including 8-Year-Old American Girl
@@ -32,7 +32,7 @@ capture_lanes:
 - Executive Power Expansion
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump authorized his first military operation—a raid on the Yemeni village of Yakla targeting al-Qaeda in the Arabian Peninsula—resulting in the death of Navy SEAL Chief William "Ryan" Owens, at least 23 civilians including nine children and six women, and an 8-year-old American girl, Nawar al-Awlaki (daughter of deceased al-Qaeda preacher Anwar al-Awlaki). Three additional U.S. service members were injured and a $75 million MV-22 Osprey aircraft crash-landed and had to be destroyed.
 

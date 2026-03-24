@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1835-12-29--treaty-new-echota-fraudulent-cherokee-removal
 date: '1835-12-29'
 title: Treaty of New Echota Signed by Unauthorized Cherokee Minority Provides Legal Pretext for Forced Removal
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. government officials sign the Treaty of New Echota with approximately 500 Cherokee Indians claiming to represent the 16,000-member Cherokee Nation, ceding all Cherokee lands east of the Mississippi River in exchange for territory in present-day Oklahoma and $5 million. The treaty is negotiated with the Treaty Party, a minority Cherokee faction lacking authority to represent the Nation, and is explicitly rejected by Principal Chief John Ross and the Cherokee National Council. Despite the Cherokee Nation's formal assertion that the treaty is "false and fraudulent, and made without the sanction of the Cherokee people," Congress ratifies it in May 1836 by a single Senate vote, providing the legal pretext for the forced removal known as the Trail of Tears. The fraudulent treaty demonstrates how the U.S. government manufactures legal justifications for ethnic cleansing by negotiating with unauthorized representatives to circumvent legitimate indigenous governance.
 

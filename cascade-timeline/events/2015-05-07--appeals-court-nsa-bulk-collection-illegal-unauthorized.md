@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-05-07--appeals-court-nsa-bulk-collection-illegal-unauthorized
 date: '2015-05-07'
 title: Second Circuit Rules NSA Bulk Phone Metadata Collection Illegal Under Patriot Act
@@ -38,7 +38,7 @@ capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A three-judge panel of the U.S. Court of Appeals for the Second Circuit unanimously ruled in ACLU v. Clapper that the National Security Agency's bulk collection of telephone metadata was not authorized by Section 215 of the USA PATRIOT Act, effectively declaring the surveillance program illegal. Judge Gerard E. Lynch, writing the opinion, described the government's legal theory—that all-encompassing collection of phone records was "relevant" to an authorized investigation—as "unprecedented and unwarranted."
 

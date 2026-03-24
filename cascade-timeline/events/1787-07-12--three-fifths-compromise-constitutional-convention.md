@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1787-07-12--three-fifths-compromise-constitutional-convention
 date: '1787-07-12'
 title: Three-Fifths Compromise Gives Slaveholders Massive Extra Political Power
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Delegates at the Constitutional Convention reach agreement on the Three-Fifths Compromise, proposed by James Wilson of Pennsylvania and seconded by Charles Pinckney of South Carolina, establishing that enslaved people will be counted as three-fifths of a person for purposes of congressional representation and Electoral College votes. The compromise resolves a deadlock between southern states demanding their entire enslaved population be counted for representation (while denying enslaved people any rights or voting power) and northern states wanting to exclude enslaved people entirely from representation counts. Southern delegates threaten to abandon the Convention entirely if enslaved people are not counted, creating pressure for a corrupt bargain that fundamentally distorts American democracy for the next 78 years.
 

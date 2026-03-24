@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-08--pirro-appointed-dc-us-attorney
 date: '2025-05-08'
 title: Former Fox News Host Jeanine Pirro Appointed D.C. U.S. Attorney
@@ -26,7 +26,7 @@ capture_lanes:
 - Institutional Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi appointed former Fox News host Jeanine Pirro as interim U.S. Attorney for the District of Columbia on May 8, 2025. Pirro was subsequently confirmed by the Senate on August 2, 2025, in a party-line 50-45 vote.
 

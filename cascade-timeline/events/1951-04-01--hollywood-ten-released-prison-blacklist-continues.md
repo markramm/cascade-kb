@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1951-04-01--hollywood-ten-released-prison-blacklist-continues
 date: '1951-04-01'
 title: Hollywood Ten Released from Prison but Remain Blacklisted, Industry Persecution Continues
@@ -42,7 +42,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In early 1951, the Hollywood Ten—screenwriters and directors cited for contempt of Congress in 1947 for refusing to answer HUAC's questions about Communist Party membership—were released after serving prison terms ranging from six months to one year. Their freedom from incarceration, however, brought no freedom to work. The entertainment industry's blacklist ensured they remained unemployable under their own names for years to come.
 

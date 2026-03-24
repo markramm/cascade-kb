@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-01--erik-prince-frontier-services-group-china-citic
 date: '2014-01-01'
 title: Erik Prince Founds Frontier Services Group with Chinese State Investment from CITIC, Controlled by Chang Zhenming
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Erik Prince founded Frontier Services Group (FSG), a Hong Kong-listed security, logistics and insurance company backed by Chinese state capital. Prince was introduced to Chang Zhenming, chairman of China's state-owned CITIC investment conglomerate, in 2013, providing Prince entry to the Chinese market. CITIC Group, a state-run investment fund owned and controlled by the People's Republic of China, became FSG's largest shareholder, gradually increasing its stake to more than 28% by March 2018.
 

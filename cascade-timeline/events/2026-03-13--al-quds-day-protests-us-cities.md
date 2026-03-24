@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--al-quds-day-protests-us-cities
 date: '2026-03-13'
 title: Al-Quds Day Demonstrations in New York, Houston, and Chicago Denounce US-Israeli Strikes
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2026, Al-Quds Day demonstrations took place in multiple major American cities, with the largest gatherings in New York's Times Square, Houston, and Chicago. The annual observance — traditionally focused on Palestinian solidarity — took on heightened urgency amid the ongoing U.S. military campaign against Iran and Israeli participation in strikes on Iranian targets.
 

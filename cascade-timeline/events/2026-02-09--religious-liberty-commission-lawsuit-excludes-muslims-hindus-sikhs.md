@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-09--religious-liberty-commission-lawsuit-excludes-muslims-hindus-sikhs
 date: '2026-02-09'
 status: confirmed
@@ -45,7 +45,7 @@ capture_lanes:
 - Democratic Backsliding
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 9, 2026, a coalition of multifaith organizations filed suit in the U.S. District Court for the Southern District of New York challenging Trump's Religious Liberty Commission as an unconstitutional and illegal body. The plaintiffs — Interfaith Alliance, Muslims for Progressive Values, the Sikh American Legal Defense and Education Fund, and Hindus for Human Rights, represented by Americans United for Separation of Church and State and Democracy Forward — argued the Commission violated the Federal Advisory Committee Act (FACA) by failing to ensure balanced membership. Of the Commission's 16 members, 15 are Christians and one is an Orthodox Jewish rabbi; no Muslims, Hindus, Sikhs, Buddhists, or non-religious Americans were appointed.
 

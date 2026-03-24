@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--alec-resolution-opposing-carbon-tax-climate-action-obstruction
 date: '2010-01-01'
 title: ALEC's 'Resolution in Opposition to a Carbon Tax' Obstructs Market-Based Climate Solutions
@@ -50,7 +50,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2010, the American Legislative Exchange Council (ALEC) adopted a model 'Resolution in Opposition to a Carbon Tax' that opposes carbon taxes at both state and federal levels, stating that 'the American Legislative Exchange Council opposes all Federal and state efforts to establish a carbon tax on fuels for electricity and transportation.' The resolution was developed while ALEC received tens of thousands of dollars from Koch Industries, ExxonMobil, and other large energy companies, and was introduced by state lawmakers in at least six legislatures virtually unchanged from its original corporate-drafted form. The resolution argued that carbon taxation would increase gasoline and electricity prices with 'costly impact on low-income families and businesses,' would be 'inconsistent with ALEC Principles of Taxation' by manipulating consumer choices, and would not impact emissions from China and India—revealing ALEC's systematic opposition to any climate policy mechanism.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-05-11--grand-jury-subpoena-classified-docs
 date: '2022-05-11'
 importance: 9
@@ -41,7 +41,7 @@ notes: 'Trump''s team requested deadline extension and raised claims about presi
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal grand jury issued a subpoena requiring Trump to return all documents "bearing
 classification markings" in his possession. This legal demand came after the National

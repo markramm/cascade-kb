@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-05--faa-air-traffic-reduction-shutdown-crisis
 date: '2025-11-05'
 title: FAA Reduces Air Traffic by 10% at Major Airports as Unpaid Controllers Face Staffing Crisis During 40-Day Shutdown
@@ -32,7 +32,7 @@ capture_lanes:
 - Financial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Aviation Administration announced it would reduce air traffic by up to 10% at 40 of the nation's busiest airports as the government shutdown—then in its 40th day—created a staffing crisis among air traffic controllers working without pay. FAA Administrator Bryan Bedford reported that 20% to 40% of controllers had stopped showing up for work at affected facilities, forcing the agency to implement flight reductions starting with 4% cuts on Friday, November 5, escalating to potential 10% reductions to maintain safety standards. The initial implementation contributed to over 4,500 flight cancellations and 18,000 delays over the weekend.
 

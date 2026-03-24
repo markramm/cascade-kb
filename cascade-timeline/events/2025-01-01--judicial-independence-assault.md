@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-01--judicial-independence-assault
 date: '2025-01-01'
 importance: 10
@@ -43,5 +43,5 @@ sources:
 notes: Beginning of systematic attack on judicial branch
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Trump administration launched systematic executive orders targeting law firms, mass firings of prosecutors, and open defiance of court rulings, creating what legal scholars describe as unprecedented constitutional crisis.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-06-13--scotus-fda-v-ahm
 title: 'SCOTUS: No standing in challenge to mifepristone changes (FDA v. AHM)'
 date: '2024-06-13'
@@ -49,5 +49,5 @@ sources:
   archive_url: 'https://web.archive.org/web/20240615000000*/https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/'
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 The Supreme Court unanimously held the plaintiffs lacked Article III standing to challenge FDA's 2016/2021 actions on mifepristone, leaving the agency's changes in place. Justice Kavanaugh delivered the opinion, with the Court finding that the Alliance for Hippocratic Medicine failed to demonstrate a concrete injury that would grant them legal standing to challenge the FDA's regulation of the abortion medication. This ruling preserves current access to mifepristone through telemedicine and pharmacies.

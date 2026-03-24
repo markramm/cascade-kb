@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1787-08-25--constitutional-convention-slave-trade-protection
 date: '1787-08-25'
 title: Constitutional Convention Guarantees 20-Year Protection for International Slave Trade
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Constitutional Convention's Committee of Eleven, chaired by William Livingston of New Jersey, recommends prohibiting Congress from banning slave importation until 1808—initially proposing twelve years but extending to twenty years after southern delegates demand more time. This compromise, codified in Article I, Section 9, Clause 1, states "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight." The provision never uses the word "slave" but everyone understands it protects the international slave trade, with South Carolina and Georgia threatening to reject the Constitution unless guaranteed continued access to African captives for two decades.
 

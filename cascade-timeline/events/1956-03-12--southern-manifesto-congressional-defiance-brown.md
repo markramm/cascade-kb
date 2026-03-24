@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-03-12--southern-manifesto-congressional-defiance-brown
 date: '1956-03-12'
 title: Southern Manifesto Signed by 101 Congressmen Pledging Resistance to School
@@ -58,7 +58,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On March 12, 1956, as the second anniversary of Brown v. Board of Education approaches, Senator Walter F. George rises in the U.S. Senate to announce the latest weapon in the segregationist arsenal—the "Declaration of Constitutional Principles," known as the Southern Manifesto. Senator Harry Byrd of Virginia has convinced 101 of the 128 congressmen representing the 11 states of the old Confederacy to sign the document pledging to "use all lawful means" to resist school desegregation.

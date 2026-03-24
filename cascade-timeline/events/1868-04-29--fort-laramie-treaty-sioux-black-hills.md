@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1868-04-29--fort-laramie-treaty-sioux-black-hills
 date: '1868-04-29'
 title: Fort Laramie Treaty Guarantees Black Hills to Sioux in Perpetuity - Later Violated for Gold Rush
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The United States Government and the Sioux Nation sign the Fort Laramie Treaty, establishing the Great Sioux Reservation and guaranteeing the Sioux "absolute and undisturbed use and occupancy" of all present-day South Dakota west of the Missouri River, including the sacred Black Hills (Paha Sapa). Article 2 of the treaty explicitly sets aside this vast territory—approximately 60 million acres—for exclusive Sioux use, recognizing their sovereignty over these lands. The treaty represents the culmination of negotiations following Red Cloud's War (1866-1868), in which Lakota, Northern Cheyenne, and Arapaho forces successfully resisted U.S. military expansion along the Bozeman Trail. The treaty acknowledges Sioux military strength and establishes legal protections for their territory, including provisions that no changes to the treaty terms can be made without the agreement of three-fourths of adult male Sioux—a democratic safeguard intended to prevent future land seizures. The Fort Laramie Treaty stands as one of the most significant formal recognitions of Indigenous sovereignty and territorial rights in American history.
 

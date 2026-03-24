@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-11--qatar-400-million-airplane-gift
 date: '2025-05-11'
 title: Qatar gifts Trump $400 million airplane as replacement for Air Force One
@@ -47,6 +47,6 @@ _merge_timestamp: '2025-09-05T23:46:55.901536'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Qatar gave Donald Trump a $400 million Boeing 747 as a replacement for Air Force One, which Trump plans to keep as part of his presidential library after leaving office. The gift was certified as legal by Attorney General Pam Bondi, herself a former lobbyist for Qatar.

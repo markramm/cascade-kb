@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-17--with-congress-pliant-an-emboldened-trump-pushes-his-business
 date: '2025-02-17'
 title: Trump Leverages Presidential Position in PGA-LIV Golf Merger Negotiations
@@ -43,6 +43,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump actively intervened in negotiations between PGA Tour and LIV Golf, hosting meetings with executives and claiming ability to broker a merger, raising questions about potential conflicts of interest and personal business motivations

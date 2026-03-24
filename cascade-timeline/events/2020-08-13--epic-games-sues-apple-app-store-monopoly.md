@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-13--epic-games-sues-apple-app-store-monopoly
 date: '2020-08-13'
 title: 'Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers'
@@ -32,7 +32,7 @@ capture_lanes:
 - Regulatory Capture
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 -the-story-so-far
   date: '2020-08-23'
   outlet: AppleInsider

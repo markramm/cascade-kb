@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1828-05-19--tariff-of-abominations-sectional-crisis
 date: '1828-05-19'
 title: Tariff of Abominations Imposes 45% Import Taxes, Triggering Nullification Crisis and Sectional Conflict
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes and President John Quincy Adams signs the Tariff of 1828, an extraordinarily high protective tariff setting a 38% tax on some imported goods and a 45% tax on certain imported raw materials—the highest rates in American history to that point. The tariff seeks to protect Northern industrial products from competition with foreign imports by artificially increasing the prices of foreign goods to give competitive advantage to domestic manufacturers. Southern agricultural producers, heavily dependent upon trade with Great Britain for their cotton exports, derisively label it the "Tariff of Abominations" because of its devastating effects on the Southern agrarian economy, which imports most manufactured goods and fears British retaliatory tariffs on American agricultural commodities.
 

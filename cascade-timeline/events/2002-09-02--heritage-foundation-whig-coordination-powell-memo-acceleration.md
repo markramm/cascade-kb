@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-02--heritage-foundation-whig-coordination-powell-memo-acceleration
 date: '2002-09-02'
 importance: 8
@@ -48,6 +48,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Heritage Foundation, cornerstone institution of the Powell Memorandum corporate capture strategy, establishes systematic coordination with the White House Iraq Group to exploit the 9/11 crisis for accelerated implementation of long-term institutional capture objectives. This coordination represents the transformation of Powell's gradual 50-year institutional capture strategy into rapid crisis-driven implementation through WHIG's systematic deception infrastructure. Heritage Foundation's coordination with WHIG operations—providing intellectual justification for preemptive war doctrine, systematic congressional deception, and media manipulation—demonstrates how established Powell Memo institutional networks can exploit crisis conditions for accelerated democratic transformation. The coordination shows that WHIG operations were not isolated executive branch actions but systematic implementation of Powell Memorandum institutional capture blueprint using crisis exploitation as acceleration mechanism. Heritage Foundation's role in WHIG coordination proves that 9/11 crisis provided the catalyst for transforming Powell's long-term corporate capture strategy into immediate systematic institutional capture through coordinated propaganda operations. This represents the successful merger of Powell Memorandum strategic planning with crisis-exploitation tactics, creating the template for rapid oligarchic capture of democratic institutions through manufactured or exploited emergency conditions.

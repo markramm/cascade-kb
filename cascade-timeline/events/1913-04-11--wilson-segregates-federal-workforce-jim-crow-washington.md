@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1913-04-11--wilson-segregates-federal-workforce-jim-crow-washington
 date: '1913-04-11'
 title: 'Wilson Administration Segregates Federal Government: Jim Crow Comes to Washington'
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Within months of taking office, President Woodrow Wilson's administration began systematically segregating the federal government, reversing decades of relative integration in civil service employment. Postmaster General Albert Burleson proposed segregation at an April 11, 1913 cabinet meeting, and Wilson approved, beginning a transformation that would institutionalize racism throughout the executive branch.
 

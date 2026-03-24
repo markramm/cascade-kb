@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-09-24--congress-defunds-total-information-awareness-program
 date: '2003-09-24'
 title: Congress Officially Defunds Total Information Awareness Program
@@ -46,7 +46,7 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Department of Defense Appropriations Act for 2004 (H.R. 2658), containing language that permanently terminates funding for the Total Information Awareness (TIA) program and orders the immediate closure of DARPA's Information Awareness Office. The Senate had voted unanimously against the program on September 30, 2003, reflecting bipartisan opposition to mass surveillance of American citizens. President Bush signs the appropriations bill into law on October 1, 2003, officially ending one of the most controversial government surveillance programs in American history.
 

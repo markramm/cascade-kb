@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-11-12--cnp-post-election-strategy-meeting
 date: '2020-11-12'
 title: CNP Holds Post-Election Strategy Meeting - Planning Electoral College Challenge
@@ -35,7 +35,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The Council for National Policy convened a critical strategy meeting November 12-14, 2020 to coordinate the conservative movement's response to Trump's election loss, with strategists laying out a multi-stage plan to challenge the results through claims of election fraud and state legislature intervention.
 
 Videos obtained by researcher Brent Allpress documented CNP strategists presenting their tactical options: If Trump lost the popular vote, they would emphasize the Electoral College. If he lost the Electoral College, they would promote spurious claims of election fraud and support challenges to electors in Republican-controlled state legislatures.

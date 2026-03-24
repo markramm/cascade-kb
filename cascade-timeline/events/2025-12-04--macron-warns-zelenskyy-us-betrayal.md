@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--macron-warns-zelenskyy-us-betrayal
 date: '2025-12-04'
 title: Macron Warns Zelenskyy U.S. May Betray Ukraine on Territory
@@ -70,7 +70,7 @@ notes: This represents an extraordinary breakdown in transatlantic trust. For th
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 4, 2025, German magazine Der Spiegel published details of a leaked December 1 conference call in which French President Emmanuel Macron explicitly warned Ukrainian President Volodymyr Zelenskyy that the United States could "betray Ukraine on territory without clarity on security guarantees" in peace negotiations with Russia.
 

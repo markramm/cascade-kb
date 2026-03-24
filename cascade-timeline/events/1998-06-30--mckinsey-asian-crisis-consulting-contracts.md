@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-06-30--mckinsey-asian-crisis-consulting-contracts
 date: '1998-06-30'
 title: McKinsey Leverages Asian Financial Crisis for Consulting Expansion
@@ -41,6 +41,6 @@ capture_lanes:
 - Financial Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 During the 1997-1998 Asian Financial Crisis, McKinsey & Company positioned itself strategically to provide consulting services to governments and financial institutions undergoing IMF-mandated structural reforms. The crisis triggered widespread economic restructuring in Thailand, Indonesia, and South Korea, involving financial sector reforms, corporate governance improvements, and macroeconomic policy adjustments. McKinsey's consulting contracts capitalized on these transformation opportunities, helping design and implement 'international best practices' for banking, corporate governance, and economic liberalization.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-25--tiktok-sale-oracle-ellison-murdoch
 date: '2025-09-25'
 title: Trump Approves TikTok Deal Giving Control to Allies Ellison and Murdoch, Demands Billions
@@ -37,6 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump signed an executive order approving a TikTok deal that hands control to close allies Larry Ellison (Oracle), Rupert and Lachlan Murdoch (Fox Corp), and Michael Dell, with Oracle managing the algorithm and security infrastructure. The investor group—including Oracle, Silver Lake, Andreessen Horowitz, and UAE's MGX fund—would control 45% while ByteDance retains 20%. Trump publicly demanded billions in government payment from TikTok buyers, which NPR characterized as a 'shakedown scheme.' The deal converts a national security concern into a vehicle for enriching Trump allies and creating a MAGA-friendly content pipeline, with Oracle CEO Ellison (who donated heavily to Trump) gaining surveillance capabilities over 170 million Americans' data and the Murdochs obtaining board influence over the platform's content moderation.

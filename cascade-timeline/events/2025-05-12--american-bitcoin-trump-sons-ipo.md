@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -52,5 +52,5 @@ validation_metadata:
   last_corrected: '2025-10-15T19:49:58.356800Z'
   validation_log_id: null
 ---
-type: solidarity_event
+type: timeline_event
 Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin, went public through an all-stock merger with Gryphon Digital Mining. Trading on Nasdaq under the ticker 'ABTC', the company is valued at over $7.5 billion, representing a significant expansion of the Trump family's cryptocurrency and financial interests. The merger gives the Trump brothers approximately 20% ownership, with Hut 8 holding 80% of the company.

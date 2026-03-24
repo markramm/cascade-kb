@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-02--doj-demands-minnesota-voter-data
 date: '2026-01-02'
 title: DOJ Demands Minnesota Voter Registration Records in Attack on Same-Day Registration
@@ -55,7 +55,7 @@ sources:
   tier: 2
   verified: true
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Trump DOJ, through Civil Rights Division head Harmeet Dhillon, sent a letter to Minnesota Secretary of State Steve Simon demanding voter registration records within 15 days. The DOJ is specifically targeting Minnesota's same-day registration and "vouching" system, where voters can prove residence by having another registered voter vouch for them.

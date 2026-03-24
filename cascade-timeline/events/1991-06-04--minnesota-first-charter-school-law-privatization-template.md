@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-06-04--minnesota-first-charter-school-law-privatization-template
 date: '1991-06-04'
 title: Minnesota Enacts First Charter School Law, Creating Template for Education Privatization
@@ -38,7 +38,7 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 4, 1991, Minnesota Governor Arne Carlson signed the nation's first charter school law, creating a new category of publicly funded but independently operated schools that would transform American education over the following three decades. The legislation, championed by the Citizens League think tank and progressive educators like Ted Kolderie and Joe Nathan, established a template that would spread to 45 states and enable massive growth in education privatization.
 

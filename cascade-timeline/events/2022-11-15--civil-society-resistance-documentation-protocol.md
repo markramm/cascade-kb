@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-11-15--civil-society-resistance-documentation-protocol
 date: '2022-11-15'
 title: Global Civil Society Develops Standardized Resistance Documentation Protocol
@@ -37,5 +37,5 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 International NGOs and human rights organizations convened to establish a comprehensive, transnational documentation framework for tracking and resisting democratic backsliding. The protocol creates systematic methodologies for collecting, verifying, and rapidly disseminating evidence of institutional capture and human rights threats, leveraging collaborative efforts from organizations like Amnesty International, Human Rights Watch, and UN human rights mechanisms.

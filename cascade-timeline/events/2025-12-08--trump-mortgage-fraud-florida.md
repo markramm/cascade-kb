@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-08--trump-mortgage-fraud-florida
 date: '2025-12-08'
 title: ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
 

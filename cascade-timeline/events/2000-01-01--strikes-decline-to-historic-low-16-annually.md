@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--strikes-decline-to-historic-low-16-annually
 date: '2000-01-01'
 title: Major Strikes Collapse to 16 Annually, Down 95% from Pre-PATCO Era
@@ -33,7 +33,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Major work stoppages in the United States decline to approximately 16 per year by the 2010s, representing a 95% collapse from the average of 300 major strikes annually before Reagan's 1981 PATCO strike-breaking. The dramatic reduction in strike activity reflects workers' rational assessment that striking under current legal framework means permanent job loss rather than collective bargaining leverage, as permanent striker replacement (normalized after PATCO) combined with toothless NLRB enforcement makes strikes effectively suicidal for organized labor.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-14--trump-attacks-marjorie-taylor-greene-rino-epstein
 date: '2025-11-14'
 title: Trump Publicly Turns on Marjorie Taylor Greene, Calls Her RINO Over Epstein Files Support
@@ -44,7 +44,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Donald Trump launched a sustained public attack against one of his most loyal congressional allies, Rep. Marjorie Taylor Greene (R-GA), withdrawing his endorsement on Friday, November 14, 2025, and escalating his rhetoric through the weekend with multiple derogatory nicknames and accusations that she had become "the RINO that we all know she always was." The public rupture occurred days after Greene signed a bipartisan discharge petition to force release of Jeffrey Epstein investigation files and coincided with an upcoming House vote on the Epstein Files Transparency Act, leading Greene to accuse Trump of retaliatory conduct designed to intimidate other Republicans.
 

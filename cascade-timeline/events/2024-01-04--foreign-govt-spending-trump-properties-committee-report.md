@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 date: '2024-01-04'
 importance: 9
@@ -64,7 +64,7 @@ sources:
   verified: true
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 A staff report by House Oversight Committee Democrats, based on Mazars-produced records for
 limited years and entities, found that Trump businesses received at least $7.8 million from 20
 foreign governments while he was president—likely an undercount. Watchdogs report higher

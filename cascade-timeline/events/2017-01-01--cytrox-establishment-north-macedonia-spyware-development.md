@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-01--cytrox-establishment-north-macedonia-spyware-development
 date: '2017-01-01'
 title: Cytrox Established in North Macedonia as NSO Competitor
@@ -67,5 +67,5 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 Cytrox is established as a startup in North Macedonia with initial funding from Israel Aerospace Industries, creating a new front for Israeli intelligence-linked spyware development. CEO Ivo Malinkovski, a 30-year-old from Skopje, leads operations while the company begins developing Predator spyware to compete with NSO Group's Pegasus. On October 6, 2017, Cytrox and Cyshark formally request authorization from North Macedonia's Ministry of Interior for manufacturing, sale, resale, and export of surveillance software, despite government claims of being unaware of the operations.

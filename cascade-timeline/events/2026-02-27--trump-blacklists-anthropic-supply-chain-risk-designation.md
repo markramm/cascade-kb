@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-27--trump-blacklists-anthropic-supply-chain-risk-designation
 date: '2026-02-27'
 title: 'Trump Blacklists Anthropic, Designates AI Company a Supply Chain Risk to National Security'
@@ -57,7 +57,7 @@ capture_lanes:
 - Democratic Backsliding
 - Executive Power Seizure
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 27, 2026, President Donald Trump issued a directive ordering all United States government agencies to "immediately cease" using technology from Anthropic, while Defense Secretary Pete Hegseth formally designated the AI company a "Supply-Chain Risk to National Security." The action terminated Anthropic's approximately $200 million Defense Department contract—a contract under which Claude had become the first frontier AI model approved for use on classified military networks—and imposed cascading consequences throughout the federal contractor ecosystem.
 

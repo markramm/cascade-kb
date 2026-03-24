@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Elon Musk
@@ -46,5 +46,5 @@ tags:
 - musk-influence
 title: Trump Signs Executive Order for Large-Scale Federal Workforce Cuts Under DOGE
 ---
-type: solidarity_event
+type: timeline_event
 President Trump signed a sweeping executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, which mandates massive federal workforce reductions. The order requires agencies to hire only one new employee for every four who depart, with exemptions for military, immigration enforcement, and public safety roles. Musk's DOGE will have unprecedented control over federal hiring, with a team lead stationed in each agency to oversee workforce optimization.

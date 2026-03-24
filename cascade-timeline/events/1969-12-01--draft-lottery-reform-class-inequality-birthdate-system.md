@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1969-12-01--draft-lottery-reform-class-inequality-birthdate-system
 date: '1969-12-01'
 title: Draft Lottery Reform Attempts to Address Class Inequality After College Deferments Shield Wealthy from Vietnam Service
@@ -33,7 +33,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Selective Service System conducts its first draft lottery since 1942 at its Washington D.C. headquarters in response to widespread criticism that the draft systematically favors wealthy and educated Americans. Of the 2.5 million enlisted men serving in Vietnam, 80% come from poor or working-class families, and the same ratio possess only high school education. American forces in Vietnam are 55% working-class, 25% poor, and only 20% middle-class, reflecting profound class inequities in who serves and dies.
 

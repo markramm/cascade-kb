@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-12-15--gramm-inserts-cfma-11000-page-omnibus-bill-lame-duck
 date: '2000-12-15'
 title: Phil Gramm Inserts 262-Page CFMA into 11,000-Page Spending Bill Hours Before Christmas Recess
@@ -45,7 +45,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In the early evening of Friday, December 15, 2000, with Christmas recess only hours away and the presidential election still unresolved, the U.S. Senate rushes to pass an essential 11,000-page government reauthorization bill. Senator Phil Gramm of Texas inserts a complex 262-page amendment - the Commodity Futures Modernization Act - at the last minute, in what one legal textbook would later call "a stunning departure from normal legislative practice."
 

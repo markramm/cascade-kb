@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-12-31--bracero-program-ends-farm-wages-jump
 date: '1964-12-31'
 title: Bracero Program Ends After 22 Years - Farm Wages Immediately Jump 40%
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Bracero Program officially ends on December 31, 1964, after labor and civil rights reformers successfully pressure Congress to terminate the 22-year guest worker system. The program's conclusion comes as mechanization increases in agriculture and mounting evidence exposes systematic employer abuses including wage theft, substandard housing, below-minimum-wage pay, and use of braceros to break strikes and suppress union organizing. During its operation, the program issued contracts to 5 million Mexican workers, with an average of 200,000 braceros per year from 1948 to 1964, creating a captive workforce that agricultural employers exploited to avoid paying market wages to domestic workers.
 

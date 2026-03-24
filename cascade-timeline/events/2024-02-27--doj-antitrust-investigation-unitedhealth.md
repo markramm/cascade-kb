@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-27--doj-antitrust-investigation-unitedhealth
 title: DOJ Launches Antitrust Investigation of UnitedHealth's Vertical Integration Strategy and Optum Physician Acquisitions
 date: '2024-02-27'
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 27, 2024, the Wall Street Journal reported that the Department of Justice launched a major antitrust investigation into UnitedHealth Group, focusing on whether the company's vertical integration strategy—particularly Optum's acquisition of physician practices—creates anticompetitive conditions that harm rival insurers, independent physicians, and patients. With Optum now employing or contracting with approximately 90,000 physicians (one in ten doctors nationwide), the investigation examines whether UnitedHealthcare shows preferential treatment to Optum providers, uses market power to exclude competitors, and exploits information asymmetries to dominate healthcare markets. This represents the Biden administration's most significant antitrust challenge to healthcare consolidation and vertical integration.
 

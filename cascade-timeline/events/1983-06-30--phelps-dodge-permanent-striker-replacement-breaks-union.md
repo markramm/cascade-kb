@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-06-30--phelps-dodge-permanent-striker-replacement-breaks-union
 date: '1983-06-30'
 title: Phelps Dodge Breaks Copper Strike Using Permanent Replacement Workers, Destroying Union
@@ -41,7 +41,7 @@ capture_lanes:
 - Environmental Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Over 2,000 copper miners strike against Phelps Dodge Corporation at its Morenci, Ajo, Douglas, and Bisbee operations in Arizona and El Paso refinery in Texas, seeking to maintain wages and benefits amid the company's demand for concessions. Following Reagan's PATCO precedent, Phelps Dodge hires permanent "scab" replacement workers to cross picket lines and continue operations, maintaining production throughout the strike and demonstrating to corporate America that unions can be broken through permanent replacement rather than negotiation.
 

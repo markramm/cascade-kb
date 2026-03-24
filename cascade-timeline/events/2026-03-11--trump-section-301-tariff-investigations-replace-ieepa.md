@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--trump-section-301-tariff-investigations-replace-ieepa
 date: '2026-03-11'
 title: Trump Administration Launches Section 301 Trade Probes to Rebuild Tariff Regime After Supreme Court Defeat
@@ -42,7 +42,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, the Trump administration announced new trade investigations targeting China, Mexico, the European Union, and more than a dozen other economies under Section 301 of the Trade Act of 1974, explicitly designed to reconstruct the tariff architecture that the Supreme Court had struck down on February 20.
 

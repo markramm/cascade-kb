@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-05--cdc-ends-universal-hepatitis-b-infant-vaccination
 date: '2025-12-05'
 importance: 9
@@ -65,7 +65,7 @@ sources:
 notes: 'Most extreme public health rollback yet. AAP, ACP, Infectious Diseases Society of America, and dozens of other medical organizations denounced the change. AAP told members to ignore ACIP vote and continue vaccinating all newborns. Previous policy in place for 34 years reduced hepatitis B infections in children by 99%.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The CDC's Advisory Committee on Immunization Practices (ACIP) votes 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccination at birth, reversing a 34-year policy that reduced pediatric hepatitis B infections by 99%. The committee, entirely reconstituted by HHS Secretary Robert F. Kennedy Jr. after he fired all 17 sitting members in June 2025, recommends "individual-based decision-making" for infants born to mothers who test negative for the virus, with delayed vaccination until at least 2 months of age.
 
 The policy change represents the most significant rollback of childhood vaccination recommendations in modern U.S. public health history. Before universal birth-dose vaccination began in 1991, approximately 20,000 newborns contracted hepatitis B annually; that number has fallen to fewer than 20 per year. Medical data shows that 90% of infants infected with hepatitis B develop chronic infection, with approximately 25% dying prematurely from liver complications including cirrhosis and liver cancer.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Kristi Noem
 - Thom Tillis
@@ -74,7 +74,7 @@ tags:
 - us-citizen-deaths
 title: Noem Faces Bipartisan Senate Rebuke as Tillis Calls Her Leadership "A Disaster"
 ---
-type: solidarity_event
+type: timeline_event
 
 Homeland Security Secretary Kristi Noem appeared before the Senate Judiciary Committee on March 3, 2026 for her first major oversight hearing since the deaths of two U.S. citizens killed by federal immigration agents in Minneapolis. The nearly four-hour session produced extraordinary bipartisan condemnation, with Republican Sen. Thom Tillis of North Carolina calling her tenure "a disaster" and threatening to grind Senate business to a halt until she answered outstanding accountability questions. Democrats pushed for her resignation. Noem refused to retract characterizations of the killed Americans as terrorists.
 

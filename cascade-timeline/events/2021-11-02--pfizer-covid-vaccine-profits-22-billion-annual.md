@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-11-02--pfizer-covid-vaccine-profits-22-billion-annual
 title: Pfizer Reports $22 Billion Profit on COVID-19 Vaccine, One of Most Profitable Drugs in History
 date: '2021-11-02'
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In November 2021, Pfizer reported annual profits of $21.98 billion on revenues of $81.29 billion for 2021, with COVID-19 vaccine sales of $36.7 billion accounting for 45% of total company revenue. The COVID-19 vaccine became one of the most financially successful pharmaceutical products in history, generating massive profits while relying on publicly-funded research, government advance purchase commitments, and liability protections—demonstrating how pharmaceutical companies privatize publicly-funded innovation while extracting maximum profits during public health emergencies.
 

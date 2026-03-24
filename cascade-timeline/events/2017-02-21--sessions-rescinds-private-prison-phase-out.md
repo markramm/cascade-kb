@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-21--sessions-rescinds-private-prison-phase-out
 date: '2017-02-21'
 title: Attorney General Jeff Sessions Rescinds Obama-Era Private Prison Phase-Out, Citing 'Future Needs of Federal Corrections System'
@@ -40,7 +40,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Jeff Sessions issues a one-paragraph memorandum rescinding the August 18, 2016 directive from Deputy Attorney General Sally Yates to phase out federal use of private prisons. Sessions claims the Obama policy "changed long-standing policy and practice, and impaired the Bureau's ability to meet the future needs of the federal correctional system," citing concerns about "overcrowding" despite declining federal prison populations.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-12-01--congress-swatting-campaign
 date: '2024-12-01'
 importance: 5
@@ -39,6 +39,6 @@ notes: Swatting weaponizes law enforcement as unwitting tool of harassment. Dece
 capture_lanes:
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Coordinated swatting campaign targeted over 50 members of Congress in December 2024 alone, representing technologically enabled form of political violence that weaponizes law enforcement against political opponents. Romanian national Thomasz Szabo later pleaded guilty in June 2025 for leading international swatting network, revealing global dimensions of coordinated harassment campaigns. Swatting involves making false emergency calls to trigger armed police responses at targets' homes, creating life-threatening situations. Represents new evolution in political intimidation tactics using technology.

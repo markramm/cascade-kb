@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1863-01-15--civil-war-cotton-trade-treasury-permit-corruption
 date: '1863-01-15'
 title: Treasury Department Cotton Permit System Enables Massive Corruption as Officials Trade with Enemy for Personal Profit
@@ -41,7 +41,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Throughout the Civil War, the Treasury Department's cotton permit system—requiring federal authorization to purchase cotton in Confederate states—becomes a cesspool of corruption, particularly in the Mississippi Valley. Francis Preston Blair charges that Treasury Secretary Salmon P. Chase oversees "a more profligate administration of the Treasury Department never existed under any Government," detailing how political appointees operate the system for private benefit through trading permits and "trade stores." Blair contends that "the practice of taking bribes on the part of these Treasury agents for permits to trade, and for conniving at violations of law, is so common that it has almost ceased to attract attention or excite comment." Cotton permits are openly sold on New York streets, soldiers are bribed, traders are blackmailed, and Treasury agents are disgraced. In January 1863, Charles Dana, a special investigating agent for War Secretary Edwin M. Stanton, writes from Memphis that "the mania" for cotton has "corrupted and demoralized the army." Five months later, Lincoln himself admits that "The officers of the Army in numerous instances are believed to connive and share in the profits" from the cotton trade.
 

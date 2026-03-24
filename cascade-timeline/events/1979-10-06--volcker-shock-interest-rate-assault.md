@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1979-10-06--volcker-shock-interest-rate-assault
 date: '1979-10-06'
 title: Volcker Shock - Federal Reserve Raises Rates to 20%, Recession Begins
@@ -34,7 +34,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 6, 1979, Federal Reserve Chairman Paul Volcker announced dramatic steps to combat inflation, fundamentally transforming monetary policy by switching from targeting interest rates to targeting the money supply. Appointed by President Jimmy Carter in August 1979 to replace William Miller, Volcker took office amid stagflation—a combination of slow economic growth and high inflation that had reached 14% by 1980, up from just 1% in 1965. Volcker's radical policy shift raised the federal funds rate from an average of 11.2% in 1979 to a peak of 20% in June 1981, while the prime rate rose to 21.5% in 1981. These were historically unprecedented interest rates designed to break inflationary expectations by crushing economic activity.
 

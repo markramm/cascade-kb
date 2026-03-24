@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1906-02-26--the-jungle-published-sinclair-meatpacking-expose
 date: '1906-02-26'
 title: 'Upton Sinclair Publishes "The Jungle" Exposing Meatpacking Industry Horrors'
@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 Upton Sinclair published "The Jungle" on February 26, 1906, after serializing it in the Socialist newspaper Appeal to Reason from February to November 1905. The 26-year-old writer spent seven weeks in fall 1904 investigating Chicago's "Packingtown"—a dense complex of stockyards and meatpacking plants—where he donned grimy clothes and carried a dinner pail to sneak into facilities and document conditions endured by what he called "the wage slaves of the Beef Trust." The novel chronicles a fictional Lithuanian immigrant family's attempts to earn a living amidst exploitative labor practices, revealing horrifying sanitation conditions and the use of diseased meat, rat-contaminated products, and even workers who fell into rendering vats.
 
 The book became an instant sensation, generating public outrage that led President Theodore Roosevelt to order a full investigation of the meatpacking industry with surprise inspections. Even though meat-packers learned of the visits, inspectors were revolted by their findings. Roosevelt received a "sickening report" and signed both the Meat Inspection Act and Pure Food and Drug Act into law on June 30, 1906. However, Sinclair was disappointed by the public's response, complaining in October 1906: "I aimed at the public's heart, and by accident I hit it in the stomach." He had intended to expose labor exploitation and inspire socialist reform, but the public focused primarily on food safety rather than workers' rights. The book exemplifies the power of muckraking journalism to catalyze regulatory reform while also revealing how corporate interests could redirect public attention from systemic labor exploitation to narrower consumer protection concerns—a pattern of limiting reform that would characterize the entire Progressive Era.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-03-02--iowa-passes-first-modern-ag-gag-law
 date: '2012-03-02'
 title: Iowa Governor Branstad Signs Nation's First Modern Ag-Gag Law Criminalizing Undercover Documentation of Agricultural Facility Abuses, Using ALEC Model Legislation to Shield Corporate Factory Farms from Whistleblower Investigations
@@ -42,7 +42,7 @@ sources:
   outlet: Animal Legal Defense Fund
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In March 2012, Iowa Governor Terry Branstad, a founding member of the American Legislative Exchange Council (ALEC), signed into law the nation's first modern ag-gag statute, the Agricultural Production Facility Fraud law (Iowa Code Section 717A.3A), criminalizing whistleblower documentation of conditions at industrial farming operations. The law created a new crime called "agricultural operation interference" that placed a complete ban on recording images or sound at industrialized farming operations and criminalized applying for employment under false pretenses with intent to document facility conditions. The legislation threatened up to one year in jail for individuals, news media, and advocacy groups who used undercover means to document questionable activities at agricultural animal facilities, effectively criminalizing investigative journalism and whistleblowing by conscientious employees. The law made it a criminal offense to make a false statement or representation as part of an employment application to an agricultural production facility if the person made the statement with intent to commit an act not authorized by the owner.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-20--trump-wall-street-homebuyer-restriction-order
 date: '2026-01-20'
 status: confirmed
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued an executive order titled "Stopping Wall Street from Competing with Main Street Homebuyers" directing federal agencies to limit purchases of single-family homes by "large institutional investors," stating "it is the policy of my Administration that large institutional investors should not buy single-family homes that could otherwise be purchased by families." The order directs key agencies to issue guidance preventing federal programs from approving, insuring, guaranteeing, securitizing, or facilitating sales of single-family homes to institutional investors, promote sales to individual owner-occupants through first-look policies, and tasks Treasury to develop definitions of "large institutional investor" and "single-family home" within 30 days. The order instructs DOJ and FTC to review acquisitions by large institutional investors for anti-competitive effects and prioritize enforcement against coordinated vacancy and pricing strategies.
 

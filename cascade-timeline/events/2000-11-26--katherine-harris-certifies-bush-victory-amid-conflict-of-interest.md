@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-11-26--katherine-harris-certifies-bush-victory-amid-conflict-of-interest
 date: '2000-11-26'
 title: Katherine Harris Certifies Bush Victory While Serving as Campaign Co-Chair
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Florida Secretary of State Katherine Harris certifies George W. Bush as winner by 537 votes while simultaneously serving as co-chair of Bush's Florida campaign, creating an unprecedented conflict of interest in American electoral administration. Harris rushed the certification process to prevent further recounts, demonstrating how partisan operatives can manipulate electoral machinery from within government positions. Her dual role as both neutral election administrator and partisan campaign leader represents systematic corruption of democratic processes. This conflict of interest becomes a template for future electoral manipulation, showing how state-level election officials can coordinate with partisan campaigns to subvert fair elections. The precedent enables future scenarios where election administrators prioritize party loyalty over electoral integrity.

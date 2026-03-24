@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-06-06--washington-post-guardian-prism-program-revealed
 date: '2013-06-06'
 title: Washington Post and Guardian Reveal NSA PRISM Program for Direct Server Access
@@ -43,7 +43,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The Washington Post and The Guardian simultaneously published explosive revelations about PRISM, a classified program allowing the National Security Agency and FBI to tap directly into the central servers of nine major U.S. internet companies to extract audio, video, photographs, emails, documents, and connection logs. The program, authorized under Section 702 of the FISA Amendments Act of 2008, enabled intelligence analysts to track individuals' movements and contacts over time.
 

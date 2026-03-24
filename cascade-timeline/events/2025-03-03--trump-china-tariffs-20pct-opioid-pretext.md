@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-03--trump-china-tariffs-20pct-opioid-pretext
 date: 2025-03-03
 title: Trump Raises China Tariffs to 20 Percent Using Synthetic Opioid Justification
@@ -76,7 +76,7 @@ tags:
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 On March 3, 2025, President Trump issued an executive order titled "Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China," doubling tariffs on Chinese imports from 10 to 20 percent.
 
 ## Synthetic Opioid Justification

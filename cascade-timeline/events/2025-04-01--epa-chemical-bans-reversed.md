@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-01--epa-chemical-bans-reversed
 date: '2025-04-01'
 importance: 7
@@ -37,5 +37,5 @@ sources:
 notes: Beck previously worked to reverse these same chemical safety rules as industry lobbyist
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Under Nancy Beck (former American Chemistry Council) and Lynn Dekleva (ex-DuPont), EPA moved to reverse bans on trichloroethylene, asbestos, and ethylene oxide - chemicals linked to cancer and neurological disorders.

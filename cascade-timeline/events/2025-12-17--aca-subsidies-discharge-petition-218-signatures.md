@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-17--aca-subsidies-discharge-petition-218-signatures
 date: 2025-12-17
 title: ACA Subsidies Discharge Petition Reaches 218 Signatures as Four Republicans Defy Leadership
@@ -104,7 +104,7 @@ capture_lanes:
 - Electoral Manipulation
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 17, 2025, four House Republicans — Brian Fitzpatrick (PA-01), Mike Lawler (NY-17), Rob Bresnahan (PA-08), and Ryan Mackenzie (PA-07) — signed a Democratic-led discharge petition, bringing the total to 218 signatures and triggering a mandatory House floor vote on a three-year extension of enhanced Affordable Care Act premium tax credits set to expire on December 31, 2025. The discharge petition mechanism, rarely used in congressional history, allows rank-and-file members to bypass the Speaker and force legislation to the floor when 218 members sign. The four Republicans who joined represented competitive swing districts where polling showed strong constituent support for maintaining affordable health coverage; all four had won their 2024 races by narrow margins and faced potentially difficult 2026 midterm elections. Their defection was directly prompted by Speaker Mike Johnson's refusal to allow any floor amendment extending the subsidies as part of the Republican healthcare package then under consideration.
 

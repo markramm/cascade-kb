@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Pat Cipollone
@@ -78,5 +78,5 @@ triggered_by:
 - 2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers
 - 2004-06-28--whig-torture-authorization-establishes-executive-immunity-precedent
 ---
-type: solidarity_event
+type: timeline_event
 President Trump and White House Counsel Pat Cipollone declare 'absolute immunity' from all congressional oversight, systematically implementing and accelerating WHIG-established constitutional crisis precedents for executive branch bypass of legislative authority. The administration's blanket refusal to cooperate with congressional investigations represents the systematic culmination of WHIG precedent establishment that normalized executive deception, congressional manipulation, and constitutional violation during crisis periods. Trump's claim that Congress has no 'legitimate legislative purpose' for investigations directly implements WHIG precedents that executive branch can systematically bypass separation of powers constraints through coordinated deception and intimidation campaigns. The absolute immunity assertion expands WHIG's episodic crisis exploitation into permanent institutional transformation, demonstrating how established constitutional crisis precedents enable systematic oligarchic governance without formal constitutional change. This represents the acceleration of WHIG template implementation: what required coordinated propaganda campaigns and intelligence manipulation under Bush now operates as systematic institutional capture through precedent-based authority claims that bypass democratic constraints entirely.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-01-01--state-policy-network-madison-group-founded
 date: '1986-01-01'
 title: State Policy Network (Madison Group) Founded - State-Level Think Tank Coordination
@@ -38,7 +38,7 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 In 1986, the Madison Group was established as an informal confederation of state-level think tanks and their supporters, named after the Madison Hotel in Washington, DC where they first met. This network, which would be formalized as the State Policy Network (SPN) in 1992, represented the extension of Powell Memo infrastructure from federal to state level.
 
 Documents from the University of California-San Francisco's Legacy Tobacco Documents reveal that the State Policy Network's precursor - the Madison Group - was "launched by the American Legislative Exchange Council and housed in the Chicago-based Heartland Institute." This demonstrates the coordinated nature of conservative infrastructure building, with ALEC creating a complementary think tank network to support its model legislation efforts.

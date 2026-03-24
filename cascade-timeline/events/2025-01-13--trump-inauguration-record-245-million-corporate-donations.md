@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-13--trump-inauguration-record-245-million-corporate-donations
 date: '2025-01-13'
 title: Trump Inauguration Raises Record $245 Million with $161 Million from Corporations Facing Federal Enforcement
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's 2025 inauguration raised a record-shattering $245 million, with at least $161 million coming from corporations—many facing active federal antitrust investigations or regulatory scrutiny. The donations represent a nearly 2.5x increase over Trump's 2017 inauguration ($107 million) and more than double Biden's 2021 total.
 

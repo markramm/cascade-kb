@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-21--eric-trump-breaks-ground-on-1-5-billion-resort-in-tariffed-c
 date: '2025-05-21'
 title: Eric Trump breaks ground on $1.5 billion resort in tariffed country
@@ -59,7 +59,7 @@ validation_metadata:
   - 'actors: ''[''Eric Trump'', ''Trump Organization'', ''Vietnamese government'']'' → ''[''Eric Trump'', ''Trump Organization'', ''Vietnamese government'']'''
   - 'tags: ''[''kleptocracy'', ''corruption'', ''vietnam'', ''trump-organization'']'' → ''[''kleptocracy'', ''corruption'', ''vietnam'', ''trump-organization'']'''
 ---
-type: solidarity_event
+type: timeline_event
 Eric Trump, who serves as Executive Vice President of the Trump Organization, traveled to Vietnam on May 21, 2025 — just two days after the Vietnamese government formally approved the Trump Organization's $1.5 billion investment plan — to personally attend the groundbreaking ceremony for the organization's golf club and resort project near Hung Yen province. Bloomberg reported that Eric Trump declared the resort would "be the envy of the world." AP News and Reuters confirmed the groundbreaking, with the New Republic noting the explicit connection between the tariffed country designation and the Trump family's business investment: Vietnam faced significant U.S. tariffs under Trump's trade policies even as it approved the Trump Organization's largest international development project.
 
 The groundbreaking ceremony illustrated the direct, personal involvement of the Trump family in business ventures that created conflicts with U.S. trade and foreign policy. While the Trump Organization was technically managed separately from the presidency — with Eric Trump and Donald Trump Jr. as primary managers — family members attending foreign government-approved business ceremonies while those governments were simultaneously negotiating trade terms with the Trump administration made the separation purely formal rather than functional. The Vietnamese government's rapid approval of the project and willingness to host a Trump family groundbreaking provided tangible evidence of the transactional relationship between business dealings and foreign policy access.

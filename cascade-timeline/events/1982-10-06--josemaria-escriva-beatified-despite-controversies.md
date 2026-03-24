@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1982-10-06'
 title: Josemaria Escriva Beatified Despite Controversies
 importance: 6
@@ -39,6 +39,6 @@ id: 1982-10-06--josemaria-escriva-beatified-despite-controversies
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Pope John Paul II granted Opus Dei status as a personal prelature in 1982, a pivotal moment in the organization's history. This decision came amid significant controversy, with theologians and scholars questioning the rapid elevation of Opus Dei's founder, Josemaría Escrivá. The canonical process was criticized for irregularities, including potential conflicts of interest and suppression of critical voices. The decision underscored the complex relationship between Vatican power structures, conservative Catholic movements, and institutional influence.

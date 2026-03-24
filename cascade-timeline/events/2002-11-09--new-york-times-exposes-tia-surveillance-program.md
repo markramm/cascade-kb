@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-11-09--new-york-times-exposes-tia-surveillance-program
 date: '2002-11-09'
 status: confirmed
@@ -43,7 +43,7 @@ capture_lanes:
 - Legislative Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times publishes an investigative piece by John Markoff exposing the full scope of the Pentagon's Total Information Awareness (TIA) program, a $240 million initiative that aims to create unprecedented mass surveillance capabilities by mining personal data from financial transactions, travel records, communications, and other sources. The exposé brings widespread public attention to the program, which had been operating with relatively little scrutiny since DARPA's Information Awareness Office was established in January 2002.
 

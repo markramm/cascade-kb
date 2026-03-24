@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-20--judge-blocks-doj-washington-post-reporter-devices
 date: '2026-02-20'
 status: confirmed
@@ -43,7 +43,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal Magistrate Judge William B. Porter of the U.S. District Court for the Eastern District of Virginia issued a stinging rebuke of the Justice Department on February 20, 2026, reversing course and blocking DOJ attorneys from searching the electronic devices seized from Washington Post reporter Hannah Natanson during a January 14 FBI raid. The ruling established that the court itself — not government lawyers — would conduct an independent review of the materials before any could be provided to prosecutors.
 

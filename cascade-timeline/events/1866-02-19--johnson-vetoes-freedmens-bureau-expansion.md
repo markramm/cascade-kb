@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1866-02-19--johnson-vetoes-freedmens-bureau-expansion
 date: '1866-02-19'
 title: Johnson Vetoes Freedmen's Bureau Expansion, Sabotaging Reconstruction
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Andrew Johnson vetoes legislation to extend and expand the Freedmen's Bureau, shocking Republican supporters and demonstrating his commitment to sabotaging Reconstruction. Illinois Senator Lyman Trumbull introduced the bill on January 5, 1866, to expand the Bureau's power to protect African Americans and define interim government organization in the South. After nearly three weeks of debate, the Senate approved it 37-10, and the House followed—but Johnson vetoes the bill on February 19, claiming it is "unnecessary," infringes on states' rights, gives federal government an "unprecedented role" in providing aid to a specific group, and is too expensive. Democrats and moderate Republicans support Johnson's position, and the override vote fails to reach the necessary two-thirds majority.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-16--facebook-suspends-cambridge-analytica-wylie-whistleblower
 date: '2018-03-16'
 title: Facebook Suspends Cambridge Analytica and SCL After Whistleblower Revelations
@@ -51,6 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook suspends Cambridge Analytica and parent company SCL from its platform following explosive revelations by whistleblower Christopher Wylie about systematic data harvesting affecting 87 million users. The suspension comes only after The Guardian and New York Times publish comprehensive exposés detailing the scope of data abuse and electoral manipulation. Facebook's delayed response demonstrates institutional failure to protect user data and electoral integrity. The company had known about the data harvesting since 2015 but relied on Cambridge Analytica's unverified assurances that the data was deleted. This regulatory failure enables years of continued electoral manipulation and establishes dangerous precedent for social media platform accountability. Ultimately, the scandal led to Cambridge Analytica's bankruptcy and raised global awareness about data privacy and social media manipulation.

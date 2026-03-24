@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-01-05--snyder-declares-emergency-after-federal-pressure
 date: 2016-01-05
 title: Snyder Finally Declares State of Emergency After Federal Investigation and Public Outcry
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Governor Rick Snyder declares a state of emergency for Genesee County due to the ongoing health and safety crisis caused by lead in Flint's drinking water—21 months after the initial water switch and three months after independent researchers forced the state to acknowledge the lead poisoning. The declaration comes only after federal officials confirm they are investigating the matter and mounting public pressure makes the crisis impossible to ignore.
 

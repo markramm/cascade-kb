@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-11-02--sam-bankman-fried-convicted
 date: '2023-11-02'
 title: Sam Bankman-Fried Convicted on All Counts in 'One of the Biggest Financial Frauds in American History'
@@ -42,7 +42,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal jury convicts Sam Bankman-Fried on all seven criminal counts including wire fraud, conspiracy to commit fraud, and conspiracy to commit money laundering in what federal prosecutors describe as 'one of the biggest financial frauds in American history.' The conviction follows a month-long trial where prosecutors demonstrated Bankman-Fried systematically stole over $8 billion in FTX customer funds to finance Alameda Research trading losses, make political donations, purchase luxury real estate, and fund venture investments. The jury deliberated for just over four hours before reaching unanimous guilty verdicts. The charges carry a maximum sentence of 110 years in prison.
 

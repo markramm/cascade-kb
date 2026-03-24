@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-01-01--in-q-tel-cia-invests-palantir
 date: '2005-01-01'
 title: CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
@@ -31,7 +31,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2005, In-Q-Tel, the venture capital arm of the Central Intelligence Agency, invested approximately $2 million in Palantir Technologies, providing the young company with critical early funding and legitimacy within the intelligence community. This investment came after traditional Silicon Valley venture capital firms had largely turned down Palantir due to its focus on government contracts rather than consumer markets.
 

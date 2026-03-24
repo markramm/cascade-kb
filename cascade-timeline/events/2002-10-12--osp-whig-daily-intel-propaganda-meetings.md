@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-10-12--osp-whig-daily-intel-propaganda-meetings
 date: '2002-10-12'
 title: OSP and WHIG Establish Daily Intelligence-Propaganda Coordination Meetings
@@ -47,6 +47,6 @@ category: intelligence_corruption
 status: confirmed
 verification_status: extensively_documented
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of Special Plans (OSP), led by Douglas Feith, and the White House Iraq Group (WHIG) institutionalized daily coordination meetings to synchronize intelligence production with propaganda messaging. These meetings enabled the systematic manipulation of intelligence to support the Bush administration's case for invading Iraq, bypassing traditional intelligence assessment processes.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-11-05--presidents-working-group-derivatives-deregulation-report
 date: '1999-11-05'
 title: 'President''s Working Group Recommends Exempting $80 Trillion Derivatives Market from Regulation'
@@ -46,7 +46,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The President's Working Group on Financial Markets issues a unanimous report recommending that over-the-counter derivatives be explicitly exempted from federal regulation, directly repudiating CFTC Chair Brooksley Born's 1998 warnings about systemic risk. The report is signed by Treasury Secretary Lawrence Summers, former Treasury Secretary Robert Rubin (now at Citigroup), Federal Reserve Chairman Alan Greenspan, SEC Chairman Arthur Levitt, and CFTC Chairman Bill Rainer (Born's successor).
 

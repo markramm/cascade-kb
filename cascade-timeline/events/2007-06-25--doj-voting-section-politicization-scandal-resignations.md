@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-06-25--doj-voting-section-politicization-scandal-resignations
 date: '2007-06-25'
 title: 'DOJ Voting Section Politicization: Bush Administration Weaponizes Civil Rights Division for Voter Suppression'
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The systematic politicization of the Department of Justice Voting Section under the Bush administration culminated in scandal and resignations as congressional investigations revealed that career civil rights attorneys had been replaced with partisan operatives who blocked voting rights enforcement and approved discriminatory voter ID laws. The corruption extended from hiring practices to case selection, transforming the nation's premier voting rights enforcement agency into a tool for voter suppression.
 

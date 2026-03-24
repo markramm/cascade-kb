@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-06--first-us-h5n1-death-louisiana
 date: '2025-01-06'
 title: First U.S. H5N1 Bird Flu Death Reported in Louisiana Patient
@@ -34,7 +34,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 6, 2025, the Louisiana Department of Health announced the first human death from H5N1 bird flu in the United States, marking a critical escalation in the severity of the ongoing outbreak. The patient, who was over age 65 and had underlying medical conditions, had been hospitalized since mid-December after contracting the H5N1 strain of highly pathogenic bird flu in southwest Louisiana.
 

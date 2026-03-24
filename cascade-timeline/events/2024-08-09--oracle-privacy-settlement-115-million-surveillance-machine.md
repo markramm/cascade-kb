@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-08-09--oracle-privacy-settlement-115-million-surveillance-machine
 date: '2024-08-09'
 title: Oracle Agrees to $115 Million Settlement Over Mass Surveillance Data Brokerage
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Richard Seeborg granted preliminary approval on August 9, 2024, to a class action settlement requiring Oracle Corporation to pay $115 million and implement changes to its data brokerage practices. The settlement resolves the lawsuit filed in August 2022 alleging that Oracle operated a "worldwide surveillance machine" that violated the privacy of approximately 5 billion people by collecting and selling their personal information without consent.
 

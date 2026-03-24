@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-20--gabbard-revokes-37-security-clearances
 date: '2025-08-20'
 title: Gabbard Revokes Security Clearances of 37 Intelligence Officials Without Evidence
@@ -34,7 +34,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Director of National Intelligence Tulsi Gabbard revoked security clearances of 37 current and former intelligence officials, including three currently serving officers, accusing them of 'politicizing intelligence' without providing evidence. Gabbard acknowledged Trump personally directed the revocations in a public social media post.
 

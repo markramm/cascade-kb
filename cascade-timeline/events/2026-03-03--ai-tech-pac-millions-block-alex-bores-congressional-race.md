@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--ai-tech-pac-millions-block-alex-bores-congressional-race
 date: '2026-03-03'
 title: AI Industry Super PAC Backed by OpenAI Insiders and Palantir Pours Millions Into Blocking AI-Regulation Candidate Alex Bores
@@ -55,7 +55,7 @@ capture_lanes:
 - Democratic Erosion
 - Media Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 3, 2026, reporting confirmed that a super PAC called Leading the Future — backed by Palantir co-founder Joe Lonsdale, OpenAI president Greg Brockman and his wife Anna Brockman, venture capital firm Andreessen Horowitz, and AI search startup Perplexity — had committed to spending at least $10 million to defeat New York Assembly member Alex Bores in the Democratic primary for New York's 12th congressional district. The super PAC had $39 million banked as of the end of 2025, and broader AI industry spending across the 2026 midterms was estimated to exceed $125 million.
 

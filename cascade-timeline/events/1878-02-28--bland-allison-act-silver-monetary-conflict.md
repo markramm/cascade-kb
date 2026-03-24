@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1878-02-28--bland-allison-act-silver-monetary-conflict
 date: '1878-02-28'
 title: Bland-Allison Act Overrides Presidential Veto, Restores Silver Coinage
@@ -34,7 +34,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress overrides President Rutherford B. Hayes's veto on February 28, 1878, to enact the Bland-Allison Act, requiring the U.S. Treasury to purchase between $2 million and $4 million of silver bullion each month and mint it into legal tender silver dollars. The Act represents a partial victory for cheap-money advocates, silver-producing interests, and debtor farmers against the eastern banking and industrial establishment's commitment to the gold standard. The legislation overturns the "Crime of 1873"—the Coinage Act that ended free coinage of silver—but Hayes's administration immediately blunts its impact by purchasing only the minimum amount monthly, demonstrating how financial interests can neutralize reform through administrative sabotage even when losing legislative battles.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-12-23--boeing-ceo-muilenburg-fired-keeps-62-million-after-346-deaths
 date: '2019-12-23'
 title: 'Boeing CEO Dennis Muilenburg Fired Over 737 MAX Disasters, Keeps $62 Million Despite 346 Deaths'
@@ -43,7 +43,7 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Boeing's Board of Directors fired CEO Dennis Muilenburg on December 23, 2019, over his handling of the 737 MAX crisis that killed 346 people in two crashes. Despite presiding over the deadliest corporate safety scandal in aviation history, Muilenburg departed with approximately $62 million in compensation and pension benefits, rising to $80 million when including stock options and other assets.
 
 Boeing announced Muilenburg would receive no severance pay and no 2019 annual bonus, framing this as accountability. However, he retained $39 million in long-term stock awards, a $15 million pension from 33 years at Boeing, and $18.5 million in unexercised stock options. He forfeited only $9 million in unvested 2019 stock awards and $14.6 million in other unvested compensation, amounts that barely registered against his massive accumulated wealth from years of prioritizing production speed and cost-cutting over safety.

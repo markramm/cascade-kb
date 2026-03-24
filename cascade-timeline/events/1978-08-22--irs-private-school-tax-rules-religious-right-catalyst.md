@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1978-08-22--irs-private-school-tax-rules-religious-right-catalyst
 date: '1978-08-22'
 title: IRS Tightens Private School Tax Exemption Rules Catalyzing Religious Right Political Mobilization
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 In August 1978, the IRS proposes new rules tightening tax-exempt status requirements for private elementary and secondary schools under IRC 501(c)(3) and begins holding hearings to determine whether segregated Christian academies should be eligible for tax exemption. The announcement triggers the mass political mobilization that creates the modern Religious Right movement.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-12-12--xe-services-sold-renamed-academi
 date: '2011-12-12'
 title: Erik Prince Sells Xe Services (formerly Blackwater), Rebranded as Academi with John Ashcroft on Board
@@ -38,7 +38,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Xe Services (formerly Blackwater) was acquired by a group of private investors and renamed Academi, with Erik Prince exiting the company he founded. The acquisition and rebranding represented the second major corporate transformation designed to distance the entity from Blackwater's documented war crimes, contractor impunity, and systematic accountability failures in Iraq and Afghanistan. A group of private investors purchased the company's North Carolina training site for a reported $200 million in 2010, with the full corporate reorganization completing in 2011.
 

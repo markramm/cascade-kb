@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-01-01--olin-foundation-law-economics-program-expansion
 date: '1987-01-01'
 title: Olin Foundation Law and Economics Programs Expand to Elite Law Schools
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 In 1987, the John M. Olin Foundation expanded its systematic funding of Law and Economics programs at elite law schools, with Stanford Law School initiating its John M. Olin Program in Law and Economics through a generous foundation gift. This represented the maturation of a decades-long effort to reshape American legal education and jurisprudence to favor corporate interests.
 
 The Olin Foundation, founded in 1953 by chemical and munitions manufacturer John M. Olin, had been actively funding conservative legal programs since 1968 when Olin determined at age 80 that he needed to "pour his resources into preserving the free-market system." Under president William E. Simon (Treasury Secretary under Nixon and Ford, and leveraged buyout pioneer), the foundation systematically targeted elite law schools to establish Law and Economics programs.

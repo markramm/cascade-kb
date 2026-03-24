@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1937-05-01--roosevelt-recession-begins-conservative-spending-cuts-sabotage
 date: '1937-05-01'
 title: Roosevelt Recession Begins After Conservative Treasury Secretary Persuades FDR to Cut Spending 17 Percent
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The American economy enters a severe recession in May 1937, lasting 13 months through June 1938, after President Franklin D. Roosevelt accepts the advice of his conservative Treasury Secretary Henry Morgenthau Jr. to slash government spending by 17% over two years in an effort to balance the federal budget. The Roosevelt Recession—America's third-worst downturn of the 20th century—sees industrial production decline almost 30%, durable goods production fall even faster, and unemployment jump from 14.3% in 1937 to 19.0% in 1938, demonstrating how premature fiscal austerity can abort economic recovery and vindicate Keynesian theory over balanced-budget orthodoxy.
 

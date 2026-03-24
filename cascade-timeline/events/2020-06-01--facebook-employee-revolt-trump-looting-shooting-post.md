@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-06-01--facebook-employee-revolt-trump-looting-shooting-post
 date: '2020-06-01'
 title: Facebook Employees Stage Virtual Walkout After Zuckerberg Refuses to Remove Trump Incitement to Violence
@@ -46,7 +46,7 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook employees stage an unprecedented virtual walkout protesting Mark Zuckerberg's refusal to take action against Trump's post threatening violence against protesters, stating "when the looting starts, the shooting starts." The employee revolt exposes Facebook's special treatment for Trump despite clear Terms of Service violations, contrasting sharply with Twitter's decision to flag the same content as glorifying violence.
 

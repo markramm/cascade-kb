@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-14--bondi-approves-qatar-400m-plane-gift-former-client
 date: '2025-05-14'
 title: Former Qatar Lobbyist Bondi Approves $400M Qatari Plane Gift to Trump
@@ -36,7 +36,7 @@ capture_lanes:
 - Kleptocratic Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 14, 2025, Attorney General Pam Bondi personally signed a DOJ Office of Legal Counsel memo concluding it was legally permissible for President Trump to accept a Boeing 747-8 aircraft valued at approximately $400 million as a gift from the government of Qatar, ruling it did not violate the Constitution's Emoluments Clause.
 

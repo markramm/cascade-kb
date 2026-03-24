@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-11-12--gramm-leach-bliley-repeals-glass-steagall
 date: '1999-11-12'
 title: Gramm-Leach-Bliley Act Retroactively Legalizes Citigroup Merger, Repeals Glass-Steagall
@@ -58,6 +58,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Clinton signs the Financial Services Modernization Act (Gramm-Leach-Bliley Act), officially repealing key provisions of the Glass-Steagall Act of 1933 that separated commercial and investment banking. The law retroactively legalizes the 1998 Citicorp-Travelers merger that created Citigroup, which had violated existing banking law. Top Citigroup officials were allowed to review and approve drafts of the legislation before formal introduction. Phil Gramm declared: "We are here today to repeal Glass-Steagall because we have learned that government is not the answer... freedom and competition are the answers." This deregulation enabled banks to use customer deposits for high-risk investments in derivatives, mortgage-backed securities, and credit default swaps, directly contributing to the 2008 financial crisis.

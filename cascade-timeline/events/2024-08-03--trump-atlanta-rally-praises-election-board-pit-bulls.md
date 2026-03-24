@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-08-03--trump-atlanta-rally-praises-election-board-pit-bulls
 date: '2024-08-03'
 title: 'Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking Electoral Integrity Concerns'
@@ -46,5 +46,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 At a pivotal Atlanta rally, Donald Trump publicly praised Georgia State Election Board members Janice Johnston, Rick Jeffares, and Janelle King, calling them "pit bulls fighting for honesty, transparency and victory." Johnston physically attended the rally, while Jeffares and King were referenced. This unprecedented presidential endorsement occurred amid growing controversy over the board's actions, including passing new election rules that critics argue could potentially delay or interfere with election certification. A legal complaint was filed by State Sen. Nabilah Islam, alleging ethics violations and potential partisan manipulation of election processes. The board's three-member majority (Johnston, Jeffares, King) has been accused of making procedural changes that could complicate the 2024 election, raising significant concerns about electoral integrity.

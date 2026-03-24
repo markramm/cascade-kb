@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--trump-epstein-maxwell-melania-photo
 date: '2000-01-01'
 importance: 6
@@ -36,7 +36,7 @@ sources:
   tier: 1
 notes: 'The 2000 photo was taken at a charity fundraiser at Mar-a-Lago and shows the social connections within Trump''s Palm Beach circle during the height of the Trump-Epstein relationship. This was during the period when Trump famously told New York Magazine in 2002: "I''ve known Jeff for fifteen years. Terrific guy. He''s a lot of fun to be with." The photo documents the social proximity between all four individuals before the Trump-Epstein relationship ended around 2004.'
 ---
-type: solidarity_event
+type: timeline_event
 
 A 2000 photo shows Donald Trump, Jeffrey Epstein, Ghislaine Maxwell, and Melania Trump together at a Mar-a-Lago charity fundraiser, documenting the social connections between all four individuals. The image was taken during the height of the Trump-Epstein relationship, a period when Trump told New York Magazine in 2002: "I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with."
 

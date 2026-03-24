@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-05--legal-tech-platform-for-resistance
 date: '2025-04-05'
 title: Launch of Integrated Legal Technology Platform for Collaborative Resistance
@@ -36,5 +36,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A sophisticated digital platform is launched by the Constitutional Litigation Consortium to enable real-time coordination, case management, and knowledge sharing among legal resistance networks. Leveraging emerging legal technology trends of 2025, the platform includes secure communication channels, AI-assisted case tracking, and collaborative research tools designed to enhance legal professional coordination and strategic response capabilities.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-13--noem-falsely-claims-canceling-macron-meeting
 date: '2024-05-13'
 title: French officials dispute Noem's claim about canceling Macron meeting
@@ -38,6 +38,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Kristi Noem claimed in her memoir that she canceled a scheduled meeting with French President Emmanuel Macron over his comments about Hamas. French officials from the Élysée Palace directly contradicted this, stating there was no record of any scheduled meeting and no invitation was ever extended to Noem. This was the second false claim about meeting world leaders discovered in her book.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Peter Thiel
 - Federal Bureau of Investigation
@@ -48,5 +48,5 @@ tags:
 - silicon-valley-intelligence
 title: 'Peter Thiel''s Early Intelligence Role: FBI Informant and Russian Diplomatic Contacts'
 ---
-type: solidarity_event
+type: timeline_event
 Peter Thiel's complex intelligence role emerged in 2018, with documented Russian diplomatic attempts to recruit him. While he formally became an FBI informant with the codename "Philosopher" in 2021, his early interactions with Russian diplomats like Daniil Bisslinger were significant enough to be reported to FBI handlers, revealing a sophisticated foreign influence targeting strategy in Silicon Valley.

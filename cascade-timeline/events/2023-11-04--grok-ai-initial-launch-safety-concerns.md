@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-11-04--grok-ai-initial-launch-safety-concerns
 date: '2023-11-04'
 title: xAI Launches Grok with Minimal Safety Guardrails
@@ -31,6 +31,6 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk launches Grok AI as a chatbot integrated with X (Twitter), intentionally positioning it with reduced content moderation compared to other AI models. The launch signals Musk's approach to AI development: challenging mainstream tech companies' safety constraints and creating an AI platform that claims to prioritize 'unrestricted' dialogue over traditional ethical filtering.

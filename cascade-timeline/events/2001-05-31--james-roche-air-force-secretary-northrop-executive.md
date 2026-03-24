@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-05-31--james-roche-air-force-secretary-northrop-executive
 date: '2001-05-31'
 title: Air Force Secretary James Roche Appointed After 17 Years as Northrop Grumman Executive
@@ -39,7 +39,7 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President George W. Bush appointed James G. Roche as Secretary of the Air Force in 2001 despite—or perhaps because of—Roche's 17-year career as a top executive at Northrop Grumman, one of the Air Force's largest contractors, exemplifying the revolving door that enables defense industry executives to capture Pentagon leadership positions and shape procurement decisions worth billions for their former employers. Roche's appointment placed a senior Northrop Grumman executive in the position of ultimate decision-making authority for Air Force weapons contracts, creating obvious conflicts of interest where his former colleagues and business relationships could influence his judgment on contract awards, requirements development, and budget priorities.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1963-10-10--attorney-general-kennedy-authorizes-fbi-wiretap-king
 date: '1963-10-10'
 title: Attorney General Robert Kennedy Authorizes FBI Wiretapping of Martin Luther King Jr.
@@ -40,7 +40,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 10, 1963, Attorney General Robert F. Kennedy signed an authorization permitting the FBI to wiretap the telephones of Dr. Martin Luther King Jr. and the Southern Christian Leadership Conference offices in New York and Atlanta. The authorization, requested by FBI Director J. Edgar Hoover, marked the beginning of the most intensive surveillance operation ever conducted against an American civil rights leader.
 

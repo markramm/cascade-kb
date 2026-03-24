@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1954-06-09--army-mccarthy-hearings-welch-decency'
 date: '1954-06-09'
 title: 'Joseph Welch Confronts McCarthy with Have You No Sense of Decency in Army Hearings'
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 On the 30th day of the Army-McCarthy hearings, Boston lawyer Joseph Welch—hired by the Army to make its case—delivered one of the most famous rebukes in American political history. The hearings, which ran from April to June 1954, investigated conflicting accusations between the U.S. Army and Senator Joseph McCarthy. The Army accused McCarthy and his chief counsel Roy Cohn of pressuring the Army to give preferential treatment to G. David Schine, a former McCarthy aide. McCarthy counter-charged that this accusation was made in bad faith and in retaliation for his investigations of suspected communists in the Army.
 

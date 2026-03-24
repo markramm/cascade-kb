@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-01-01--abramoff-greenberg-traurig-scanlon-partnership
 date: '2001-01-01'
 title: Abramoff Moves to Greenberg Traurig, Partners with Michael Scanlon
@@ -36,6 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Jack Abramoff leaves Preston Gates to join Greenberg Traurig's government relations practice in Washington, D.C. In June 2001, he begins a secret partnership with Tom DeLay's former communications director Michael Scanlon, who forms Capitol Campaign Strategies. Their 'gimme five' scheme would systematically defraud tribal clients of approximately $66 million through inflated lobbying and grassroots services, with Abramoff and Scanlon secretly splitting the majority of the fees.

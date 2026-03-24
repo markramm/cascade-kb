@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--trump-s-attack-on-actblue-s-dark-money-was-backed-by-elon-mu
 date: '2025-04-29'
 title: Trump Orders DOJ Investigation into ActBlue Fundraising Platform
@@ -42,5 +42,5 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 President Trump directed the Department of Justice to investigate ActBlue, alleging illegal campaign contributions and foreign donor fraud. The investigation was backed by Elon Musk, who claimed the platform was involved in widespread criminal identity theft.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-11--kennedy-center-purges-jazz-director-under-grenell-leadership
 date: '2025-09-11'
 title: Kennedy Center Fires Jazz Director in Continued Cultural Institution Purge
@@ -30,6 +30,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Kevin Struthers, longtime jazz director at the Kennedy Center, was terminated following the July exit of artistic director Jason Moran, as Trump appointee Richard Grenell systematically purges the national cultural institution. Jazz programming has been gutted, with major performances cancelled and educational programs eliminated. The Kennedy Center, established as the nation's living memorial to President Kennedy and a symbol of American cultural excellence, is being transformed from a world-class performing arts venue into a politicized institution that prioritizes loyalty over artistic merit. Grenell, known for partisan extremism rather than arts expertise, appears to be dismantling programs that celebrate American cultural diversity, particularly jazz—an art form rooted in Black American experience. The purges mirror tactics at other cultural institutions like PBS and the NEA, where Trump appointees systematically destroy programming that doesn't advance conservative political narratives.

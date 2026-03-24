@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-02-26--ways-means-carried-interest-tax-loophole
 date: '2014-02-26'
 title: Ways and Means Chairman Proposes Carried Interest Reform That Private Equity Lobbying Defeats
@@ -38,7 +38,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 House Ways and Means Committee Chairman Dave Camp (R-MI) released comprehensive tax reform draft legislation proposing to raise the tax on carried interest from 23.8% to 35%, effectively closing one of the most notorious tax loopholes benefiting private equity and hedge fund managers. Carried interest allows fund managers to classify their management fees as capital gains rather than ordinary income, saving the industry billions annually. Camp's proposal represented the most serious congressional attempt to eliminate this preferential treatment, but private equity lobbying—combined with resistance from committee members with industry ties—ensured the reform never advanced.
 

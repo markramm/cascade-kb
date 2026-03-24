@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1944-12-18--korematsu-v-united-states-supreme-court-upholds-internment
 date: '1944-12-18'
 title: Korematsu v. United States - Supreme Court Upholds Japanese Internment
@@ -43,7 +43,7 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 6-3 in Korematsu v. United States on December 18, 1944, upholding the constitutionality of Executive Order 9066 and the exclusion of Japanese Americans from the West Coast. Justice Hugo Black writes for the majority that military necessity during wartime justifies the mass incarceration of an entire ethnic group, including American citizens, without individual determinations of disloyalty.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-08-23--powell-memo-corporate-blueprint
 date: '1971-08-23'
 importance: 9
@@ -64,6 +64,6 @@ sources:
 notes: Memo remained confidential until leaked in 1972. Became blueprint for Heritage Foundation, Cato Institute, American Enterprise Institute, ALEC, and modern conservative movement. Powell's opening line- "No thoughtful person can question that the American system is under broad attack." Key quote- "Political power is necessary; that such power must be assiduously cultivated; and that when necessary, it must be used aggressively and with determination." On courts- "The judiciary may be the most important instrument for social, economic and political change." Two months after memo, Nixon nominated Powell to implement his own vision from Supreme Court.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Corporate lawyer Lewis Powell drafts a confidential 34-page memorandum to Eugene B. Sydnor Jr., Chair of Education Committee of U.S. Chamber of Commerce, titled "Attack On American Free Enterprise System." This document provides a comprehensive, systematic blueprint for corporate capture of American democratic institutions through strategic infiltration of universities, media, courts, and political systems. Powell argues that business must actively acquire "political power" and use it "aggressively and with determination," viewing the judiciary as the "most important instrument for social, economic and political change." Scholarly analysis reveals the memo as a pivotal strategic document that fundamentally reshaped corporate political engagement, inspiring the creation of conservative think tanks like Heritage Foundation and laying groundwork for decades of institutional transformation. Two months after writing the memo, Powell is nominated to the Supreme Court, where he subsequently implements key aspects of his institutional capture strategy through landmark judicial decisions expanding corporate rights.

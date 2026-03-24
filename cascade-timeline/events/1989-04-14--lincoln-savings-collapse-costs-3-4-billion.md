@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-04-14--lincoln-savings-collapse-costs-3-4-billion
 date: '1989-04-14'
 title: 'Lincoln Savings Collapse: $3.4 Billion Taxpayer Bailout'
@@ -58,6 +58,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Lincoln Savings and Loan collapses the day after its parent company American Continental Corporation files bankruptcy, requiring a $3.4 billion federal bailout and leaving 23,000 mostly elderly investors with worthless bonds. The failure represents the largest single cost in the S&L crisis and validates the systematic regulatory capture that enabled Keating's fraud network. Despite warnings from regulators beginning in 1984, political intervention by the Keating Five senators had prevented timely action. The collapse demonstrates how coordinated corruption across legislative, executive, and industry sectors can impose massive costs on taxpayers while enriching connected insiders.

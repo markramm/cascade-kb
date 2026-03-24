@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1957-09-09--civil-rights-act-1957-first-voting-rights-since-reconstruction
 date: '1957-09-09'
 title: 'Civil Rights Act of 1957: First Federal Voting Rights Law Since Reconstruction Passes Despite Southern Filibuster'
@@ -37,7 +37,7 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Eisenhower signed the Civil Rights Act of 1957, the first federal civil rights legislation since Reconstruction, establishing the Civil Rights Division within the Department of Justice and authorizing federal prosecutors to seek injunctions against interference with voting rights. However, Southern Democrats succeeded in stripping the bill of most enforcement power, rendering it largely symbolic while setting the stage for stronger legislation.
 

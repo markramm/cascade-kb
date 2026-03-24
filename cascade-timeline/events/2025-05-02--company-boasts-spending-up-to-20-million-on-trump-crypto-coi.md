@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-02--company-boasts-spending-up-to-20-million-on-trump-crypto-coi
 date: '2025-05-02'
 title: Freight Technologies Purchases $20M in Trump Crypto to Lobby Against Tariffs
@@ -50,5 +50,5 @@ connections:
 status: confirmed
 notes: Event from comprehensive kleptocracy timeline tracking. Updated with additional sources and context.
 ---
-type: solidarity_event
+type: timeline_event
 Freight Technologies Inc., a North American shipping logistics company, announced a $20 million purchase of President Trump's cryptocurrency ($TRUMP) as a strategic attempt to influence White House trade policy and lobby for tariff relief. CEO Javier Selgas explicitly stated the goal was to draw attention to the devastating impact of 25% tariffs on cross-border freight traffic.

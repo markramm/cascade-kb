@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1600-01-01--pre-colonial-democratic-innovations
 date: '1600-01-01'
 title: Pre-Colonial Indigenous Democratic Governance Models
@@ -31,6 +31,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Indigenous societies across the Americas developed complex democratic systems predating European colonization, featuring sophisticated conflict resolution mechanisms, representation models, and collective decision-making processes that challenge modern Western democratic assumptions.

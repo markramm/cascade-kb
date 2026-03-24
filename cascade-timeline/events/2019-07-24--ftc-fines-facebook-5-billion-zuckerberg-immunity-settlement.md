@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-07-24--ftc-fines-facebook-5-billion-zuckerberg-immunity-settlement
 date: '2019-07-24'
 title: FTC Fines Facebook Record $5 Billion But Grants Zuckerberg Immunity from Personal Liability
@@ -48,7 +48,7 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The FTC announces a record $5 billion fine against Facebook for privacy violations related to Cambridge Analytica, but grants unprecedented immunity from personal liability to Mark Zuckerberg and other executives for past misconduct while imposing no structural changes to the company's surveillance business model. Dissenting commissioners condemn the settlement as a "sweetheart deal" that amounts to only one month of Facebook revenue.
 

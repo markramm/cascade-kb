@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-03--trump-musk-feud-erupts-big-beautiful-bill-impeachment
 date: '2025-06-03'
 title: Trump-Musk Feud Erupts Over 'Big Beautiful Bill' as Musk Suggests Impeachment
@@ -35,7 +35,7 @@ capture_lanes:
 - Democratic Erosion
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The alliance between President Trump and Elon Musk collapsed publicly when Musk denounced the "One Big Beautiful Bill" as "a disgusting abomination" that would increase the federal deficit, contradicting DOGE's stated mission. Musk posted "I'm sorry, but I just can't stand it anymore" on June 3, days after leaving his White House position.
 

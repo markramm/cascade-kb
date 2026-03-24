@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--state-department-h1b-visa-denials-content-moderation-workers
 date: '2025-12-03'
 title: State Department Orders H-1B Visa Denials for Content Moderation and Fact-Checking Workers
@@ -54,7 +54,7 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The State Department issued an internal directive on December 2, 2025, instructing consular officers worldwide to deny H-1B visas to applicants who have worked in content moderation, fact-checking, trust and safety, or combating misinformation and disinformation—labeling such work as "censorship" of protected American speech. The policy weaponizes immigration law to punish tech workers for their professional roles in platform safety and information integrity, representing an unprecedented fusion of immigration enforcement with political retaliation against speech regulation activities.
 

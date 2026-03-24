@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-10-30--manafort-gates-indictment
 date: 2017-10-30
 title: Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Conspiracy Against the United States
@@ -37,7 +37,7 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Special Counsel Robert Mueller unsealed the first indictments in his Russia investigation, charging former Trump campaign chairman Paul Manafort and his longtime business associate Rick Gates with 12 criminal counts. The charges include conspiracy against the United States, conspiracy to launder money, serving as unregistered agents of a foreign principal, making false and misleading statements under the Foreign Agents Registration Act (FARA), and seven counts of failure to file reports of foreign bank and financial accounts.
 

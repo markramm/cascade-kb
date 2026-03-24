@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--trump-asks-supreme-court-end-haiti-tps-350000
 date: '2026-03-11'
 title: Trump Administration Asks Supreme Court to End Deportation Protections for 350,000 Haitians
@@ -49,7 +49,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, the Trump administration asked the U.S. Supreme Court to clear the way for it to end Temporary Protected Status (TPS) for more than 350,000 Haitian immigrants, seeking emergency relief after an appeals court blocked the termination.
 

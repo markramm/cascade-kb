@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-03-15--pharmaceutical-industry-regulatory-captu-personnel-shift
 date: '2022-03-15'
 title: FDA Commissioner Confirmed Amid Pharmaceutical Industry Ties Controversy
@@ -33,6 +33,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Dr. Robert Califf confirmed as FDA Commissioner by a narrow Senate vote of 50-46, highlighting ongoing concerns about pharmaceutical industry regulatory capture. Historical evidence suggests a systemic 'revolving door' between FDA and pharmaceutical companies, with approximately 27% of drug reviewers transitioning to industry roles. This pattern creates significant potential conflicts of interest and undermines regulatory oversight capabilities.

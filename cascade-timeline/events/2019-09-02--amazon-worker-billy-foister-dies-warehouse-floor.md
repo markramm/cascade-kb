@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-02--amazon-worker-billy-foister-dies-warehouse-floor
 date: 2019-09-02
 title: Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack
 

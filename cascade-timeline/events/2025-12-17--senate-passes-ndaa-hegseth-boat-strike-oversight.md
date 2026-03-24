@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-17--senate-passes-ndaa-hegseth-boat-strike-oversight
 date: 2025-12-17
 title: Senate Passes $901 Billion Defense Bill with Unprecedented Oversight Provisions Targeting Hegseth
@@ -76,7 +76,7 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 17, 2025, the Senate approved the National Defense Authorization Act for fiscal year 2026 by a bipartisan vote of 77-20, authorizing $901 billion in defense programs. The legislation included an unusual provision specifically targeting Defense Secretary Pete Hegseth: language threatening to withhold 25% of his travel budget unless he provided unedited video footage — along with the authorizing orders — for controversial military strikes on alleged drug vessels in international waters near Venezuela to both the House and Senate Armed Services Committees. The boat strike controversy centered on a September 2, 2025 incident in which Navy Admiral Frank "Mitch" Bradley ordered a "double-tap" strike that killed two survivors of an initial boat attack, raising legal and ethical concerns. Admiral Bradley appeared before both committees in a classified briefing shortly before the Senate vote, eliciting contrasting responses — Republicans largely backed the counternarcotics campaign, while Democrats expressed alarm over the operation's legal basis and the administration's refusal to share comprehensive information with oversight bodies.
 

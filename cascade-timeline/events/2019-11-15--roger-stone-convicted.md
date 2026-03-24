@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-11-15--roger-stone-convicted
 date: 2019-11-15
 title: Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and Lying to Congress
@@ -41,7 +41,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal jury convicted longtime Trump advisor Roger Stone on all seven counts: one count of obstruction of an official proceeding, five counts of making false statements to Congress, and one count of witness tampering. The conviction stemmed from Stone's efforts to obstruct the House Intelligence Committee's investigation into Russian interference in the 2016 election, his lies about serving as an intermediary between the Trump campaign and WikiLeaks, and his attempts to intimidate witness Randy Credico. Stone became the sixth Trump associate convicted of crimes as a result of the Mueller investigation, and Trump would later commute his sentence and grant him a full pardon.
 

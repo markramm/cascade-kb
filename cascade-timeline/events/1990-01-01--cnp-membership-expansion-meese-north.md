@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-01-01--cnp-membership-expansion-meese-north
 date: '1990-01-01'
 title: CNP Membership Includes Reagan Cabinet Officials - Meese and North Join Elite Network
@@ -32,7 +32,7 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 By 1990, the Council for National Policy's membership roster had expanded to include prominent Reagan administration officials, with former Attorney General Edwin Meese and Colonel Oliver North representing the integration of government power into CNP's coordination network.
 
 Edwin Meese, who served as Reagan's Attorney General from 1985-1988 and was a key architect of conservative legal theory, became one of CNP's most prominent members and would later serve as organization president. His membership connected CNP directly to Heritage Foundation (where he became a fellow) and to the development of conservative judicial philosophy.

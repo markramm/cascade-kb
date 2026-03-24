@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-25--faa-starlink-terminals-approved
 date: '2025-02-25'
 importance: 6
@@ -42,6 +42,6 @@ sources:
 notes: FAA officials avoiding paper trail by delivering orders verbally - "someone does not want a paper trail"
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 FAA approved shipment of 4,000 Starlink terminals and ordered staff to find "tens of millions of dollars" for Starlink deal while considering canceling $2.4B Verizon contract for air traffic control communications. Creates conflict as DOGE leader Musk oversees federal spending cuts while his companies receive contracts. Officials avoiding paper trails by delivering orders verbally.

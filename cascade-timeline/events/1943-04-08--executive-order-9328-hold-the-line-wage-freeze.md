@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1943-04-08--executive-order-9328-hold-the-line-wage-freeze
 date: '1943-04-08'
 title: Hold the Line Order Freezes Wages While Corporate Profits Soar
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt issues Executive Order 9328, the "Hold the Line Order," on April 8, 1943, directing the National War Labor Board to prohibit any further wage increases except to correct substandard conditions or inequities. The order freezes wages for most workers while corporate profits reach record highs, creating a framework where workers sacrifice and corporations accumulate wartime wealth.
 

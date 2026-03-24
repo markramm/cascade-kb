@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-05--nydig-flags-trump-usd1-stablecoin-missing-reports
 date: '2025-10-05'
 title: Trump Family's USD1 Stablecoin Fails to Publish Attestation Reports, Raising Transparency Concerns
@@ -50,7 +50,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 NYDIG, a prominent Bitcoin financial services firm, publicly flagged World Liberty Financial's USD1 stablecoin for failing to publish required monthly attestation reports, with the most recent report dating from July 2025—over two months behind schedule. Greg Cipolaro, NYDIG's Global Head of Research, stated that 'For a project of USD1's stature, up-to-date attestations are non-negotiable,' noting the lapse was particularly concerning given USD1's $2.7 billion supply and rising profile.
 

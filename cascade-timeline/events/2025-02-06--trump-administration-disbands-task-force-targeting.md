@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-06--trump-administration-disbands-task-force-targeting
 date: '2025-02-06'
 title: Trump Administration Disbands Task Force Targeting Russian Oligarchs
@@ -49,6 +49,6 @@ notes: This event represents a significant example of kleptocratic capture, demo
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi disbanded Task Force KleptoCapture, the DOJ unit created in 2022 to investigate and prosecute Russian oligarchs for sanctions violations. The task force had seized yachts and brought indictments against Deripaska and Malofeyev before being shut down.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-01-01--alec-corporate-lobbyists-write-legislation
 date: '2011-01-01'
 title: ALEC Grants Corporate Lobbyists 'Equal Vote' on Model Legislation for State Legislatures
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council (ALEC), a nonprofit organization bringing together state legislators and corporate representatives, continued operating its model legislation system where corporate lobbyists receive "equal voice and vote" with elected officials in drafting bills. Analysis by 2011 revealed that corporation, think tank, and trade group members accounted for almost 99% of ALEC's $7 million budget, with corporate lobbyists paying 100 times more in dues than state legislators. Between 2010 and 2018, ALEC model legislation was introduced in state legislatures approximately 2,900 times, with more than 600 bills enacted into law—often word-for-word from corporate-drafted templates.
 

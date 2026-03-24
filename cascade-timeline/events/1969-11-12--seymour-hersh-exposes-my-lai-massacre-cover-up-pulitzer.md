@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1969-11-12--seymour-hersh-exposes-my-lai-massacre-cover-up-pulitzer
 date: '1969-11-12'
 title: Seymour Hersh Exposes My Lai Massacre Cover-Up After Army Conceals Atrocity for 20 Months - Wins Pulitzer Prize
@@ -38,7 +38,7 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Investigative journalist Seymour Hersh publishes explosive revelations about the My Lai massacre through Dispatch News Service after both Life and Look magazines refuse the story. Hersh's investigation begins when he receives a tip on October 22, 1969 about a soldier being court-martialed at Fort Benning for allegedly killing 75 civilians. Following leads from whistleblower Ronald Ridenhour, who had investigated the massacre while serving in the 11th Infantry Brigade, Hersh conducts an independent inquiry that breaks through the Army's 20-month cover-up.
 

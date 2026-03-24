@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-27--house-moves-cut-gao-50pct
 title: House bill proposes nearly 50% cut to GAO; Senate rejects
 date: '2025-06-27'
@@ -52,6 +52,6 @@ sources:
 
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 House Appropriations Committee advanced a Legislative Branch bill on June 27, 2025, proposing to cut the Government Accountability Office (GAO) budget by nearly 50% and limiting its ability to enforce impoundment laws. The cuts would cripple Congress's primary watchdog agency responsible for investigating government waste and illegal spending. The proposal would have led to an immediate staff reduction of about 2,220 GAO employees (63% of workforce). Senate appropriators later rejected these cuts, recognizing GAO's critical oversight role, and approved a budget on par with current spending levels.

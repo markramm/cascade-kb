@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-09-09--hud-created-cabinet-level-housing-agency
 date: '1965-09-09'
 title: HUD Created as Cabinet Department, Inherits FHA Discriminatory Practices
@@ -34,7 +34,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Johnson signs legislation creating the Department of Housing and Urban Development (HUD) as a Cabinet-level agency, consolidating federal housing programs under one roof. Robert C. Weaver becomes the first HUD Secretary and the first African American Cabinet member. However, HUD inherits the Federal Housing Administration's legacy of discriminatory practices and faces industry opposition to meaningful reform.
 

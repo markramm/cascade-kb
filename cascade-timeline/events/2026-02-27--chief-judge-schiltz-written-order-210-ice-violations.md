@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Patrick Schiltz
 - Todd Lyons
@@ -56,7 +56,7 @@ tags:
 title: Chief Judge Schiltz Issues Written Order Documenting 210+ ICE Court Violations,
   Threatens Criminal Contempt
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Court Chief Judge Patrick Schiltz of the District of Minnesota issued a sweeping written order on February 27, 2026 documenting more than 210 violations of federal court orders by Immigration and Customs Enforcement — a dramatic escalation from the 96 violations he had catalogued in a prior order on January 28. The order named Acting ICE Director Todd Lyons and U.S. Attorney Daniel Rosen by name and threatened criminal contempt, potentially including imprisonment, if compliance did not materialize.
 

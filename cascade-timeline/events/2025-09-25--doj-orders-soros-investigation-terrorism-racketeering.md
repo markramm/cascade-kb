@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-25--doj-orders-soros-investigation-terrorism-racketeering
 date: '2025-09-25'
 title: DOJ Orders Federal Prosecutors to Investigate George Soros' Open Society Foundations for Alleged Terrorism Ties
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 25, 2025, Aakash Singh, a senior official in Deputy Attorney General Todd Blanche's office, sent a directive to U.S. attorney's offices in at least seven states—including California, New York, Illinois, Michigan, and Maryland—ordering them to prepare investigations into the Open Society Foundations, the philanthropic organization funded by billionaire George Soros. The directive listed potential charges prosecutors should consider, including material support for terrorism, arson, wire fraud, and racketeering.
 

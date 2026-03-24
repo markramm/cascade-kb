@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-14--supreme-court-authorizes-federal-workforce-purge
 date: '2025-07-14'
 title: Supreme Court 6-3 Stay Authorizes Mass Federal Workforce Reductions at 22 Agencies
@@ -57,7 +57,7 @@ capture_lanes:
 - Judicial Capture
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Supreme Court issued a 6-3 stay allowing the Trump administration to proceed with mass federal workforce reductions at 22 agencies, overturning a preliminary injunction issued by Judge Susan Illston. The decision enabled immediate implementation of layoffs that had been blocked as likely violations of civil service protections.
 
 The stay allowed reductions in force (RIFs) to proceed while appeals continued, effectively making the cuts permanent even if courts later found them unlawful—fired employees would not be automatically reinstated. The American Federation of Government Employees represented over 100,000 affected workers.

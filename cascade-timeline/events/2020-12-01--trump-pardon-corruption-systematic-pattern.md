@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-01--trump-pardon-corruption-systematic-pattern
 date: '2020-12-01'
 title: Trump Pardon Corruption - Systematic Monetization of Presidential Clemency Power
@@ -42,7 +42,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump's systematic abuse of pardon power between 2017-2021 established a pattern of corruption that transformed constitutional clemency authority into a criminal enterprise. Analysis of Trump's 237 pardons and commutations reveals a president who monetized executive power, rewarded those who protected him from investigation, and granted immunity to political allies, family associates, and wealthy donors while completely bypassing the Department of Justice's traditional pardon review process.
 

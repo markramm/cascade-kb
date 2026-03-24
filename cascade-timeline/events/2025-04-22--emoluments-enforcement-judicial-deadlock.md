@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--emoluments-enforcement-judicial-deadlock
 date: '2025-04-22'
 title: Federal Courts Reach Impasse on Presidential Emoluments Enforcement
@@ -33,7 +33,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Multiple federal courts reached a critical constitutional impasse regarding presidential emoluments enforcement in April 2025. The D.C. Circuit Court suggested potential criminal referrals for foreign financial entanglements, while the 4th Circuit Court blocked traditional accountability mechanisms, creating a complex legal standoff that effectively neutralized enforcement efforts.
 
 Key developments include:

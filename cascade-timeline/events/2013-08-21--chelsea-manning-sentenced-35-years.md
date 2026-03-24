@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-08-21--chelsea-manning-sentenced-35-years
 date: 2013-08-21
 title: Chelsea Manning Sentenced to 35 Years for WikiLeaks Disclosures
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Army Private Chelsea Manning was sentenced to 35 years in military prison for leaking classified documents to WikiLeaks that exposed war crimes and civilian casualties in Iraq and Afghanistan. The sentence was the longest ever imposed on a whistleblower under the Espionage Act and sparked international condemnation from human rights organizations.
 

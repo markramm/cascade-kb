@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-06-23--grutter-v-bollinger-supreme-court-upholds-affirmative-action
 date: '2003-06-23'
 title: Grutter v. Bollinger - Supreme Court Upholds Affirmative Action but Sets 25-Year Limit
@@ -36,7 +36,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 23, 2003, the Supreme Court ruled 5-4 in Grutter v. Bollinger that the University of Michigan Law School's race-conscious admissions policy did not violate the Equal Protection Clause, upholding the principle that diversity in higher education constitutes a compelling government interest. Justice Sandra Day O'Connor's majority opinion affirmed that race could be considered as one factor among many in individualized admissions decisions, but included language suggesting such consideration should end within 25 years—a timetable that would prove prescient.
 

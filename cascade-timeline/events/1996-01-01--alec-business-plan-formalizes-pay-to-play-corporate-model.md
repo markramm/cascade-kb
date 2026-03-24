@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-01-01--alec-business-plan-formalizes-pay-to-play-corporate-model
 date: '1996-01-01'
 title: ALEC Adopts Business Plan to "Function More Like a Business" - Formalizes Pay-to-Play Corporate Legislative Model
@@ -40,7 +40,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1996, ALEC adopted an internal business plan that explicitly redefined the organization's purpose in commercial terms, cementing its pay-to-play structure for moving pro-corporate legislation through state legislatures. The plan stated: "ALEC must begin to function more like a business, and recognize that it has a product that it provides to a defined customer base for a 'profit.'" According to the business plan, "ALEC's product is policy, and its customers are state legislators and private sector supporters." This formalization represented a watershed moment in legislative capture—an organization openly declaring that legislation itself was a commercial product to be sold to corporate buyers.
 

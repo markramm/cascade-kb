@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1970-12-31--clean-air-act-1970-creates-epa-enforcement-authority
 date: '1970-12-31'
 title: Clean Air Act of 1970 Creates EPA and National Air Quality Standards Despite Industry Opposition
@@ -40,7 +40,7 @@ capture_lanes:
 - Environmental Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 31, 1970, President Richard Nixon signed the Clean Air Act of 1970, establishing the most comprehensive air quality legislation in history. The act created national ambient air quality standards, gave the newly formed Environmental Protection Agency enforcement authority, set emission standards for vehicles and industrial sources, and established deadlines for achieving clean air. The legislation passed with overwhelming bipartisan support despite determined industry opposition.
 

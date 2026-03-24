@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Jason Galanis
@@ -43,5 +43,5 @@ tags:
 - political-influence
 title: Trump commutes sentence of convicted fraudster who aided GOP impeachment effort
 ---
-type: solidarity_event
+type: timeline_event
 President Trump commuted the prison sentence of Jason Galanis, who was serving a 189-month sentence for defrauding the Wakpamni Lake Community Corporation of over $38 million in tribal economic development bonds. The clemency eliminates all remaining fines, restitution, and probation conditions, and follows Galanis's testimony in the Republican impeachment inquiry against Joe Biden.

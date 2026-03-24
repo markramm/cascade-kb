@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--senate-democrats-stall-chamber-iran-war
 date: '2026-03-17'
 title: "Senate Six Democrats Prepare to Grind Chamber to Halt Over Iran War Oversight"
@@ -32,7 +32,7 @@ capture_lanes:
 - Legislative Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Sen. Adam Schiff told TIME that a group of six Democratic senators had prepared a coordinated strategy to use war powers resolutions as "privileged" legislative measures to force roll-call votes, effectively grinding the Senate to a halt until the administration agreed to public hearings on the Iran war. The group — dubbed the "Senate Six" — comprised Schiff, Cory Booker, Tim Kaine, Chris Murphy, Tammy Duckworth, and Tammy Baldwin.
 

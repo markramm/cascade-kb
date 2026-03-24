@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -49,5 +49,5 @@ tags:
 - civil-service-protections
 title: Trump systematically dismantles post-Watergate institutional safeguards
 ---
-type: solidarity_event
+type: timeline_event
 President Trump has systematically undermined post-Watergate institutional safeguards by firing inspectors general, challenging civil service protections, and seeking to neutralize oversight mechanisms established after the Nixon era. Key actions include dismissing Merit Systems Protection Board members, firing agency watchdogs, and using Supreme Court rulings to expand presidential removal powers.

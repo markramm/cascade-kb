@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1916-01-01--corporate-opposition-womens-suffrage-liquor-textile-railroad
 date: '1916-01-01'
 title: Corporate Interests Mobilize Systematic Opposition to Women's Suffrage to Protect Profits
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Throughout the 1910s, as women's suffrage gained momentum following state victories in the West and increasing militant activism in the East, multiple corporate interests mobilized systematic opposition to protect their economic interests from potential voter-supported reforms. The liquor industry led this corporate resistance, understanding that the alliance between the temperance movement and women's suffrage meant enfranchised women would likely support prohibition measures threatening their entire business model. Liquor manufacturers and distributors poured substantial funds into anti-suffrage campaigns, particularly in state referendum battles where their lobbying and propaganda efforts proved devastatingly effective. The industry's fears would prove justified when both the 18th Amendment (Prohibition) and 19th Amendment (women's suffrage) were ratified in 1920, validating their strategic opposition to expanding the electorate.
 

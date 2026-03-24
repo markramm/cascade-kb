@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-11-25--medicare-part-d-pharma-captures-vote
 date: '2003-11-25'
 title: Medicare Part D Passes After Pharmaceutical Industry Writes Price Negotiation Ban
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The House of Representatives passed the Medicare Prescription Drug, Improvement, and Modernization Act at 5:53 AM after an unprecedented 3-hour vote that House leaders held open for nearly three hours past the normal 15-minute voting period to secure enough votes. The legislation created Medicare Part D prescription drug coverage but included a "noninterference clause" that explicitly prohibited the Secretary of Health and Human Services from negotiating drug prices with pharmaceutical manufacturers—a provision the pharmaceutical industry had a major role in writing. This ban prevented Medicare from using its purchasing power to obtain discounts, ensuring maximum profits for drug companies at taxpayers' expense.
 

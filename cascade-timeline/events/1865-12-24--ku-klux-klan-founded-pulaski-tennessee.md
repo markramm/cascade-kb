@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1865-12-24--ku-klux-klan-founded-pulaski-tennessee
 date: '1865-12-24'
 title: Ku Klux Klan Founded as Terrorist Organization to Restore White Supremacy
@@ -44,7 +44,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Six Confederate veterans found the Ku Klux Klan on December 24, 1865, in Pulaski, Tennessee—creating what historians characterize as America's first terrorist organization. The founders—Calvin E. Jones, John B. Kennedy, Frank O. McCord, John C. Lester, Richard P. Reed, and James R. Crowe—initially frame the organization as a "social club," deriving its name from the Greek word "kuklos" meaning "band" or "circle." But during spring 1867, the KKK transforms into a full-scale political and terrorist movement explicitly dedicated to destroying Reconstruction and restoring white supremacist control.
 

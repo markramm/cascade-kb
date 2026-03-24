@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-11--trump-nominates-ej-antoni-bls-commissioner
 date: '2025-08-11'
 title: Trump Nominates Partisan Heritage Foundation Economist to Lead Bureau of Labor Statistics
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump nominated E.J. Antoni, Heritage Foundation chief economist and Project 2025 contributor, to lead the Bureau of Labor Statistics after firing the previous commissioner over a disappointing jobs report. Antoni has publicly claimed BLS data is 'rigged' and lacks relevant expertise for the role.
 

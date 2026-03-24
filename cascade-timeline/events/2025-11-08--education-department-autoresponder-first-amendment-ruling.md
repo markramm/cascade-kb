@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-08--education-department-autoresponder-first-amendment-ruling
 date: '2025-11-08'
 title: Federal Judge Rules Trump Administration Violated First Amendment by Forcing Partisan Auto-Reply Messages on Federal Employees
@@ -33,7 +33,7 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Christopher Cooper ruled that the Trump administration violated the First Amendment by commandeering Education Department employees' email accounts to send partisan messages blaming Democrats for the government shutdown. The automated responses stated that the House passed a continuing resolution on September 19, 2025, but "Democrat Senators are blocking passage," leading to furlough status. Multiple employees told NPR they did not write the message and were not informed it would replace their personalized out-of-office notices, discovering the partisan language only when constituents and colleagues received the politically charged auto-replies from their official government email accounts.
 

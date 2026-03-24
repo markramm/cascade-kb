@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-25--as-trumps-monetize-presidency-profits-outstrip-pro
 date: '2025-05-25'
 title: As Trumps monetize presidency, profits outstrip protests
@@ -47,6 +47,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump and his family have monetized the presidency to the tune of hundreds of millions of dollars without significant public outcry and institutional pushback after his early purge of federal ethics watchdogs

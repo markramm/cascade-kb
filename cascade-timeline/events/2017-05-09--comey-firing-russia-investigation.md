@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-05-09--comey-firing-russia-investigation
 date: '2017-05-09'
 importance: 6
@@ -39,6 +39,6 @@ sources:
   tier: 1
 notes: Mueller Report pages 62-77 detail how Trump decided to fire Comey before receiving any DOJ recommendation, explicitly to neutralize Russia investigation. Pattern of targeting institutions designed to investigate corruption.
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump fired FBI Director James Comey while under FBI investigation for Russian connections. Day after firing, Trump told Russian Foreign Minister Lavrov and Ambassador Kislyak in Oval Office that he had "faced great pressure because of Russia" which had been "taken off" by Comey's termination. In NBC interview, Trump admitted he was thinking of "this Russia thing with Trump and Russia" when making decision. Mueller Report documented as textbook "referee neutralization" to obstruct justice investigation.

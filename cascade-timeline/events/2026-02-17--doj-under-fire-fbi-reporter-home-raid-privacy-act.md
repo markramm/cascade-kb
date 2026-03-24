@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-17--doj-under-fire-fbi-reporter-home-raid-privacy-act
 date: '2026-02-17'
 status: confirmed
@@ -43,7 +43,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 17, 2026, the Freedom of the Press Foundation filed a formal complaint with the Virginia State Bar against Assistant U.S. Attorney Gordon D. Kromberg of the Eastern District of Virginia, alleging he violated professional conduct rules when seeking a warrant to search the home of Washington Post reporter Hannah Natanson. The complaint centered on Kromberg's failure to disclose key provisions of the Privacy Protection Act of 1980 — a federal statute specifically designed to prevent law enforcement from seizing journalists' work product and documentary materials — when he applied for the search warrant.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-05-18--trump-promises-federalist-society-supreme-court-picks
 date: '2016-05-18'
 title: Trump Promises All Supreme Court Picks Will Come From Federalist Society
@@ -58,7 +58,7 @@ historical_context:
   campaign_strategy: Using judicial nominations to secure conservative voter support and reshape federal judiciary
   long_term_impact: Fundamental transformation of federal court composition through coordinated conservative legal strategy
 ---
-type: solidarity_event
+type: timeline_event
 During the 2016 campaign, Donald Trump made a pivotal strategic commitment to outsource Supreme Court nominee selection entirely to the Federalist Society, a move that would fundamentally reshape the federal judiciary. In March 2016, Trump, campaign lawyer Don McGahn, and Federalist Society executive Leonard Leo met at the Jones Day law offices to develop a list of 21 potential Supreme Court nominees.
 
 This unprecedented delegation of judicial selection to a private organization served multiple strategic purposes. It secured crucial support from conservative voters, with 77% reporting Supreme Court appointments as "very important". The Federalist Society's ideological screening ensured that 86% of Trump's judicial appointments were Society members, transforming the composition of federal courts.

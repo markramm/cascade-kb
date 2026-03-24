@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1834-03-28--senate-censures-jackson-pet-banks-corruption
 date: '1834-03-28'
 title: Senate Censures Jackson for Pet Banks Scheme and Constitutional Overreach
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate voted 26-to-20 on March 28, 1834, to censure President Andrew Jackson for unconstitutionally removing federal deposits from the Second Bank of the United States and placing them in state-chartered "pet banks." The resolution, introduced by Henry Clay, declared that Jackson "had assumed upon himself authority and power not conferred by the Constitution and laws, but in derogation of both." The censure marked an extraordinary congressional rebuke, suggesting Jackson had committed impeachable offenses while stopping short of formal impeachment proceedings. The Senate simultaneously refused to confirm Roger Taney's appointment as Treasury Secretary, who had executed Jackson's orders after Jackson fired William Duane for refusing.
 

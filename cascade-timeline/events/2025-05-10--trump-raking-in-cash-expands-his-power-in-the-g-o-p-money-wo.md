@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-10--trump-raking-in-cash-expands-his-power-in-the-g-o-p-money-wo
 date: '2025-05-10'
 title: Trump, raking in cash, expands his power in the G.O.P. money world
@@ -50,6 +50,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump is using his super PAC, which has raised more than $400 million, to consolidate even more control over the Republican party–stocking congressional Republican special interest groups with loyalists

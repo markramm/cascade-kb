@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-11--erez-reuveni-doj-firing
 date: '2025-04-11'
 importance: 9
@@ -38,6 +38,6 @@ sources:
 notes: Reuveni filed appeals with Merit Systems Protection Board citing Whistleblower Protection Act violations. AG Bondi called him a "disgruntled employee" and "leaker," not a whistleblower. Sen. Durbin said allegations show pattern of undermining rule of law.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Erez Reuveni, a 15-year DOJ veteran and Acting Deputy Director of Immigration Litigation, was fired April 11, 2025, after refusing to file briefs with misrepresentations and truthfully informing a judge that Kilmar Abrego Garcia had been wrongfully deported to El Salvador. At an April 4 hearing, Reuveni admitted government error, stating "We concede he should not have been removed." His whistleblower complaint alleges Emil Bove said DOJ would tell courts "f*** you" and ignore orders, with deportation "planes needed to take off no matter what." Reuveni previously won awards from Republican appointees in Trump's first term.

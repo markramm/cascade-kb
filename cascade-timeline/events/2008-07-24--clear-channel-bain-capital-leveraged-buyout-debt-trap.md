@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-07-24--clear-channel-bain-capital-leveraged-buyout-debt-trap
 date: '2008-07-24'
 title: Bain Capital and Thomas H. Lee Partners Complete $26.7 Billion Clear Channel Leveraged Buyout - Creating Debt Crisis
@@ -47,7 +47,7 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 24, 2008, Bain Capital and Thomas H. Lee Partners completed a historic $26.7 billion leveraged buyout of Clear Channel Communications, the nation's largest radio broadcaster with over 1,200 stations. The transaction, led by Bain Capital (founded by Mitt Romney in 1984), loaded the company with approximately $20 billion in debt—more than doubling its previous $8 billion debt burden—and exemplified how private equity uses financial engineering to extract wealth while destroying viable companies and consolidating media power.
 

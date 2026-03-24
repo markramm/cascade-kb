@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-07--omb-deletes-federal-back-pay-guarantees
 date: '2025-10-07'
 title: OMB Removes Legal References to Federal Worker Back Pay Guarantees
@@ -32,6 +32,6 @@ capture_lanes:
 - Federal Workforce Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of Management and Budget quietly deleted statutory back pay guarantees from government shutdown guidance, signaling possible denial of restitution to 620,000 furloughed federal workers despite a 2019 law requiring it. OMB issued a memo arguing Trump lacks legal obligation to provide back pay, with Trump suggesting payments would depend on 'who we're talking about,' indicating selective enforcement based on loyalty. This represents deliberate subversion of congressional legislation protecting federal workers, with the executive branch claiming authority to ignore statutory requirements and selectively punish workers based on political considerations.

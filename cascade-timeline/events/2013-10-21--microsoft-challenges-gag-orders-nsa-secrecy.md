@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-10-21--microsoft-challenges-gag-orders-nsa-secrecy
 date: '2013-10-21'
 title: Microsoft and Google Challenge NSA Gag Orders in Federal Court
@@ -44,7 +44,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Microsoft and Google filed federal lawsuits challenging government gag orders that prohibited them from disclosing details about Foreign Intelligence Surveillance Act (FISA) requests and National Security Letters (NSLs) they receive for customer data. The companies argued these blanket nondisclosure orders violated their First Amendment rights to inform users about government surveillance.
 

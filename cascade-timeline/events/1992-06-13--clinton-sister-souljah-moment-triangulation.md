@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1992-06-13--clinton-sister-souljah-moment-triangulation
 date: '1992-06-13'
 title: 'Clinton Uses ''Sister Souljah Moment'' to Distance Democrats from Black Community'
@@ -38,5 +38,5 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 Bill Clinton stunned Jesse Jackson and the Rainbow Coalition by using a speech to the civil rights organization to attack rapper/activist Sister Souljah, comparing her to white nationalist David Duke. Sister Souljah had been quoted in The Washington Post saying, in the aftermath of the LA riots, 'If black people kill black people every day, why not have a week and kill white people?' Clinton declared that Souljah's comments were 'filled with hatred' and 'every bit as ugly as anything spewed by David Duke.' According to Joan Didion, 'a number of reporters had apparently been told in advance by Clinton aides that Governor Clinton would use his Rainbow speech to demonstrate his "independence" from Jesse Jackson.' Clinton was 'relentlessly attacked by Jackson and other figures on the party's left for his apostasy,' but tracking polls showed 'the incident pretty much marks the upturn in Clinton's popularity that quickly took him from third place behind Ross Perot to first.' The deliberate act of publicly repudiating a Black activist at a Black civil rights organization became known as triangulation—positioning oneself between the left and right by attacking one's own coalition. The strategy signaled to white suburban voters that Clinton was 'a different kind of Democrat' willing to condemn members of the Democratic coalition. The moment became a template for future Democratic candidates seeking to appeal to white voters through calculated distancing from Black constituencies, embedding racial dog whistles into Democratic as well as Republican politics.

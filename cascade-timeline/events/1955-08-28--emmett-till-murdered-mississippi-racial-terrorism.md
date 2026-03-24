@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1955-08-28--emmett-till-murdered-mississippi-racial-terrorism
 date: '1955-08-28'
 title: Emmett Till Murdered in Mississippi After Accusation from White Woman
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 28, 1955, fourteen-year-old Emmett Louis Till, an African American boy visiting relatives in Money, Mississippi, was abducted from his great-uncle's home and brutally murdered by Roy Bryant and J.W. Milam, two white men. Till had allegedly whistled at or made remarks to Carolyn Bryant, a white woman, in her family's grocery store—conduct that was perceived by the white community to violate the Jim Crow South's unwritten code forbidding Black men from any interaction with white women. The men pistol-whipped Till with their .45 caliber handguns, shot him in the head, tied a 75-pound cotton gin fan to his body with barbed wire, and threw him into the Tallahatchie River. When his body was recovered three days later, it was so mutilated that his mother, Mamie Till, could only identify him by a ring he wore.
 

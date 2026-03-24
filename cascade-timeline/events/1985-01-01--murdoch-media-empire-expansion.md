@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1985-01-01--murdoch-media-empire-expansion
 date: '1985-01-01'
 title: Murdoch Strategic Media Empire Expansion and U.S. Media Regulatory Navigation
@@ -32,5 +32,5 @@ capture_lanes:
 - Regulatory Capture
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 In 1985, Rupert Murdoch orchestrated a pivotal expansion of his media empire through strategic acquisitions and regulatory maneuvering. Key developments include acquiring 50% of 20th Century Fox in March for $162 million and purchasing Metromedia television stations for $3.5 billion in May. Most critically, Murdoch became a naturalized U.S. citizen on September 4 to satisfy media ownership laws, enabling future television network ownership. These moves demonstrated a systematic approach to bypassing media ownership restrictions while consolidating unprecedented media influence across film, television, and print industries.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-09--boeing-internal-messages-designed-by-clowns-supervised-by-monkeys
 date: '2020-01-09'
 title: 'Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"'
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Boeing released hundreds of internal messages to Congressional investigators and the FAA on January 9, 2020, revealing that employees knew the 737 MAX was unsafe, mocked regulators, and conspired to deceive certification authorities. In one April 2017 exchange, just before the aircraft's first delivery, an employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."
 
 The messages exposed systematic fraud and contempt for safety. Employees joked about possible flaws in the 737 MAX, discussed plans to resist FAA demands for tougher simulator training requirements (which would cost Boeing money), and celebrated successfully deceiving regulators. One 2018 message stated "I still haven't been forgiven by God for the covering up I did last year," indicating employees knew they were concealing safety problems. Another employee admitted in a 2016 message to "Jedi-mind tricking" regulators about MCAS capabilities.

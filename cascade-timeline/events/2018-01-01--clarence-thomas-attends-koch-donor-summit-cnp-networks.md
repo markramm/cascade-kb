@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-01--clarence-thomas-attends-koch-donor-summit-cnp-networks
 date: '2018-01-01'
 title: Clarence Thomas Attends Koch Network Donor Summit - Supreme Court Ethics Violations
@@ -32,7 +32,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 In January 2018, Supreme Court Justice Clarence Thomas flew on a private jet to Palm Springs, California to speak at the annual winter donor summit of the Koch network, attending a private dinner for donors in what ProPublica later revealed was an extraordinary ethics violation.
 
 Thomas was brought in to speak at the summit in the hopes that such access to a sitting Supreme Court justice would encourage wealthy donors to continue giving to the Koch network - organizations that regularly bring cases before the Supreme Court.

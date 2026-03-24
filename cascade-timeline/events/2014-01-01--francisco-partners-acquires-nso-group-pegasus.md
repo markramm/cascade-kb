@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-01--francisco-partners-acquires-nso-group-pegasus
 date: '2014-01-01'
 title: Francisco Partners Acquires 70% Stake in NSO Group for $130 Million
@@ -37,7 +37,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 San Francisco-based private equity firm Francisco Partners acquires a 70% controlling stake in NSO Group from its founders for approximately $120-130 million. The acquisition represents a major influx of Western capital into the Israeli surveillance technology sector and marks the beginning of NSO Group's transformation from a startup into a global commercial spyware powerhouse.
 

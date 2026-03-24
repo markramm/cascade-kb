@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-07-01--amazon-refuses-bargain-jfk8-union-new-union-busting-tactic
 date: '2023-07-01'
 title: Amazon Refuses to Bargain with JFK8 Union, Pioneering Refuse-to-Bargain Union-Busting Tactic
@@ -42,7 +42,7 @@ capture_lanes:
 - Electoral Manipulation
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The NLRB issues a formal complaint against Amazon for violating the National Labor Relations Act by "failing and refusing to bargain" with the Amazon Labor Union following workers' historic April 2022 victory at the JFK8 Staten Island warehouse. More than 15 months after 2,600 workers voted to unionize—the first successful union election at any U.S. Amazon facility—the company has refused to begin contract negotiations, instead filing 25 objections alleging election misconduct and dragging out legal challenges for nine months before all objections are dismissed.
 

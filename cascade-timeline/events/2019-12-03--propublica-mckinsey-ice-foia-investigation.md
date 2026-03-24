@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-12-03--propublica-mckinsey-ice-foia-investigation
 date: '2019-12-03'
 title: 'ProPublica Exposes McKinsey''s ICE Work Through FOIA Lawsuit: 1,500 Pages Reveal Detention Cost-Cutting Proposals'
@@ -59,7 +59,7 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 ProPublica publishes a bombshell investigation co-published with The New York Times revealing the full extent of McKinsey's controversial work with ICE, based on 1,500 pages of documents obtained through a Freedom of Information Act lawsuit. The documents expose that McKinsey proposed cuts in spending on food for migrants, medical care, and supervision of detainees—recommendations so harsh that even career ICE staff viewed them as too extreme.

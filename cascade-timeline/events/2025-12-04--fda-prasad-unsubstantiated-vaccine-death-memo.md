@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--fda-prasad-unsubstantiated-vaccine-death-memo
 date: '2025-12-04'
 importance: 9
@@ -71,7 +71,7 @@ sources:
 notes: 'Prasad sent memo to FDA staff on November 28, 2025, before FDA scientists completed their assigned analysis. December 5 post-marketing safety memo by FDA scientists found actual deaths linked to COVID vaccines between zero and seven, not at least ten as Prasad claimed. Memo uses highly ideological language, characterizing COVID vaccine requirements as coercive and calling past agency decisions dishonest. Prasad announced sweeping regulatory changes bypassing scientific advisory committees. Twelve former FDA commissioners since 1990 co-wrote opposition article in New England Journal of Medicine. Prasad serves as both FDA Chief Medical and Scientific Officer and Director of CBER overseeing vaccines.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Dr. Vinay Prasad, director of the FDA's Center for Biologics Evaluation and Research (CBER), circulates an internal memo to FDA staff asserting that COVID-19 vaccines caused "at least 10 deaths in children" and calling for sweeping changes to vaccine regulation—despite providing no supporting data and before FDA scientists completed their assigned analysis of the question. According to STAT News, experts are skeptical of the "extraordinary" claim because it was not presented with detailed data, and subsequent investigation revealed that FDA's own scientific analysis found the actual number of deaths linked to COVID-19 vaccines is somewhere between zero and seven, contradicting Prasad's higher figure.
 
 The November 28, 2025 memo sent by Prasad to FDA staff represents an extraordinary intervention by the agency's top vaccine regulator making definitive claims about vaccine-caused deaths without providing the underlying analysis, patient data, or scientific evidence that would typically accompany such serious allegations. STAT News reported that "outside experts said it was surprising that more data were not included in the memo," noting that standard scientific and regulatory practice requires detailed documentation when claiming causal connections between medical interventions and serious adverse events including death.

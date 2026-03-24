@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1903-10-29--anaconda-copper-shuts-down-montana-operations-corporate-extortion
 date: '1903-10-29'
 title: Anaconda Copper Shuts Down All Montana Operations to Force Legislative Changes
@@ -43,7 +43,7 @@ sources:
   date: '2024'
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 The Amalgamated Copper Company (later Anaconda Copper Mining Company) executed an extraordinary act of corporate extortion by shutting down all mining operations across Montana, deliberately putting 15,000 workers out of work to force the state legislature to pass laws favorable to the company. This "Great Shutdown" demonstrated the raw political and economic power of the Copper Trust and established a century-long pattern of corporate dominance over Montana politics known as the "Copper Collar."
 

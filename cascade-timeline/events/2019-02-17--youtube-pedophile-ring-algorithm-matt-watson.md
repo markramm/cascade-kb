@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2019-02-17'
 title: YouTube Pedophile Ring Enabled by Recommendation Algorithm Exposed by Matt Watson
 description: YouTuber Matt Watson exposed a "wormhole into a soft-core pedophile ring" facilitated by YouTube's recommendation algorithm. Watson demonstrated that starting from innocuous videos of children in normal activities (gymnastics, swimming, playing), YouTube's algorithm within "about five clicks" would recommend thousands of videos featuring minors that pedophiles were exploiting. Comments sections contained time-stamps to moments where children were in "sexually suggestive positions," links to child pornography sites, and networks of predators sharing content—all monetized with ads from major brands including Disney, McDonald's, and Reese's. The algorithm effectively created a child exploitation network by clustering content attractive to pedophiles and serving them ads. Disney, Nestle, and Epic Games immediately pulled advertising. YouTube terminated 400+ channels and disabled comments on tens of millions of videos, but only after massive media attention—demonstrating years of
@@ -60,7 +60,7 @@ connections:
 - Advertising on harmful content
 notes: One of most disturbing examples of algorithmic harm. YouTube's recommendation system actively clustered content attractive to predators and monetized child exploitation for years before Matt Watson's viral exposure forced action.
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 17, 2019, YouTuber Matt Watson published a viral investigation exposing how YouTube's recommendation algorithm facilitated what he called a "wormhole into a soft-core pedophile ring"—systematically clustering videos of minors and serving them to predators while monetizing the exploitation through major brand advertising.
 

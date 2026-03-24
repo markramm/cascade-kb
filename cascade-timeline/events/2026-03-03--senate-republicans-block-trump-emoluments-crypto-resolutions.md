@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--senate-republicans-block-trump-emoluments-crypto-resolutions
 date: '2026-03-03'
 title: Senate Republicans Block Four Democratic Resolutions Condemning Trump Foreign Emoluments and Crypto Conflicts
@@ -46,7 +46,7 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 In early March 2026, Senate Democrats brought four resolutions to the floor addressing President Trump's financial conflicts of interest, all of which were blocked by Senate Republicans via unanimous consent objections. The four resolutions collectively covered the major categories of foreign emoluments concerns that had accumulated during Trump's second term.
 

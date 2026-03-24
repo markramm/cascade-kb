@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-01--oracle-spends-11-million-federal-lobbying-tiktok
 date: '2024-01-01'
 title: Oracle Spends $11 Million on Federal Lobbying, Focuses on TikTok Data Storage Deal
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle Corporation spent approximately $11 million on federal lobbying during 2024, maintaining its position among an exclusive group of companies that exceeded eight figures in annual lobbying expenditures. This lobbying investment placed Oracle alongside tech giants including Amazon, Google's parent company Alphabet, and traditional corporate lobbying powerhouses like the U.S. Chamber of Commerce and General Motors. Oracle has maintained at least $11 million in annual federal lobbying spending for each of the previous four full years (2021-2024), demonstrating sustained investment in government influence operations.
 

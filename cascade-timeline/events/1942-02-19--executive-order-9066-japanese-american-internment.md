@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-02-19--executive-order-9066-japanese-american-internment
 date: '1942-02-19'
 title: Executive Order 9066 Authorizes Japanese American Internment
@@ -42,7 +42,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Franklin D. Roosevelt signs Executive Order 9066 on February 19, 1942, authorizing the Secretary of War and military commanders to designate "military areas" from which "any or all persons may be excluded." Though the order never mentions Japanese Americans by name, its application becomes clear within weeks as the War Relocation Authority begins the forced removal of approximately 120,000 people of Japanese ancestry, two-thirds of whom are American citizens, from the West Coast to inland concentration camps.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-09-05--bernie-sanders-introduces-stop-bezos-act
 date: 2018-09-05
 title: Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages
 

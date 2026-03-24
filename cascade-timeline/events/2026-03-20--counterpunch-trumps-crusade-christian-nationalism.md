@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--counterpunch-trumps-crusade-christian-nationalism
 date: '2026-03-20'
 title: CounterPunch Analysis Examines Crusade Imagery, Hegseth's Jerusalem Cross, and Militarized Christian Nationalism
@@ -23,7 +23,7 @@ status: confirmed
 capture_lanes:
 - Church-State Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 20, 2026, CounterPunch published an analysis by scholar Henry Giroux examining how crusade imagery had re-entered American public life through the Iran war and the rhetorical practices of the Trump administration. The piece situated Defense Secretary Pete Hegseth's religious framing of the conflict within a longer history of Christian nationalism's relationship to American military power.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-09-28--tom-delay-money-laundering-indictment
 date: 2005-09-28
 title: House Majority Leader Tom DeLay Indicted for Money Laundering and Conspiracy
@@ -44,7 +44,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 House Majority Leader Tom DeLay (R-TX) was indicted by a Texas grand jury on September 28, 2005, on one count of criminal conspiracy related to an alleged illegal campaign finance scheme. On October 3, a third grand jury charged DeLay with the more serious offense of money laundering. The charges alleged that DeLay and associates illegally funneled $190,000 in corporate money into Texas state legislative races in 2002 — a direct violation of Texas law prohibiting corporate campaign contributions.
 

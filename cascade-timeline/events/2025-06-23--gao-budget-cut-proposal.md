@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-23--gao-budget-cut-proposal
 title: House Proposes Nearly 50% Budget Cut for GAO
 date: '2025-06-23'
@@ -44,6 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 House Legislative Branch subcommittee votes 6-4 on party lines to cut GAO budget to $415M (48% reduction). Prohibits GAO from Impoundment Control Act suits without Congressional resolution. Committee cites 'self-directed liberal initiatives.' GAO head warns of 'grave, pervasive' effects. $76 return per $1 invested.

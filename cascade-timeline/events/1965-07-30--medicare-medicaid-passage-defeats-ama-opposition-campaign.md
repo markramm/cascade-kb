@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-07-30--medicare-medicaid-passage-defeats-ama-opposition-campaign
 date: '1965-07-30'
 title: Medicare and Medicaid Signed Into Law After Defeating Decades of AMA Opposition and Reagan Propaganda Campaign
@@ -44,7 +44,7 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Lyndon B. Johnson signs the Social Security Amendments of 1965 into law at the Truman Presidential Library in Independence, Missouri, creating Medicare and Medicaid with former President Harry Truman at his side. The legislation provides federal health insurance for Americans over 65 (Medicare) and for low-income families (Medicaid), fundamentally transforming American healthcare despite fierce opposition from organized medicine.
 

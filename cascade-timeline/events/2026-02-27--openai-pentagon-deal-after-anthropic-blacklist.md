@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-27--openai-pentagon-deal-after-anthropic-blacklist
 date: '2026-02-27'
 title: 'OpenAI Strikes Pentagon Deal Hours After Trump Blacklists Anthropic, Drawing Backlash'
@@ -49,7 +49,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On the evening of February 27, 2026—within hours of the Trump administration formally blacklisting Anthropic—OpenAI CEO Sam Altman announced on X that his company had "reached an agreement with the Department of War to deploy our models in their classified network." The timing provoked immediate and severe backlash from AI researchers, ethicists, and tech policy analysts who characterized the announcement as opportunistic, particularly because Altman had that same day publicly expressed support for Anthropic's position.
 

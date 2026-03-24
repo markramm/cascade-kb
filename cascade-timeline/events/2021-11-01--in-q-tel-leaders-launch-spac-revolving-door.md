@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-11-01--in-q-tel-leaders-launch-spac-revolving-door
 date: '2021-11-01'
 title: In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In November 2021, the senior leadership of In-Q-Tel—CEO Christopher Darby, President Stephen Bowsher, and technology investor Michael Rolnick—filed for an initial public offering for Chain Bridge I, a special purpose acquisition company (SPAC) seeking to raise $200 million. The blank check company aimed to acquire national security technology firms "poised to benefit from billions of dollars in defense spending," explicitly leveraging the founders' intelligence community connections for private profit.
 

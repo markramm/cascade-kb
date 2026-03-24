@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-01-01--manhattan-institute-profile
 date: '1984-01-01'
 title: 'Manhattan Institute Organizational Profile: Urban Policy Infrastructure and CIA-Connected Think Tank'
@@ -51,7 +51,7 @@ capture_lanes:
 - Corporate Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Comprehensive organizational analysis reveals Manhattan Institute as urban policy infrastructure providing 'intellectual' justification for punitive policing, welfare cuts, and racial pseudoscience. Founded in 1978 as International Center for Economic Policy Studies by Antony Fisher and William J. Casey (who became CIA Director in 1981), the organization rebranded as Manhattan Institute in 1981, establishing unique position at intersection of intelligence community, conservative philanthropy, and urban governance. The Institute's CIA director co-founder signals deeper connections between domestic policy formation and intelligence apparatus.
 

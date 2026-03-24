@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-08-03--kushner-receives-28b-qatar-bailout-after-blockade
 date: '2018-08-03'
 importance: 8
@@ -38,6 +38,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Jared Kushner's underwater 666 Fifth Avenue property received a $1.28 billion bailout from Brookfield Property Partners, where Qatar Investment Authority held a 7-9% stake, just months after Trump reversed U.S. support for the Saudi-led Qatar blockade. The Kushners had desperately sought Qatari financing since 2015, with Charles Kushner personally flying to Doha in April 2017 seeking investment. After Qatar refused, Kushner supported the Saudi blockade in June 2017. When the blockade threatened U.S. military interests at Al Udeid Air Base, Trump reversed course. Brookfield then paid the Kushners' entire $1.28 billion mortgage in a 99-year lease deal that real estate experts called uncommercial. The timeline suggested U.S. Middle East policy was influenced by Kushner's personal financial crisis. Kushner simultaneously maintained backchannel communications with Saudi Crown Prince MBS via WhatsApp.

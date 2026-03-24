@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Amazon
 - Jeff Bezos
@@ -42,5 +42,5 @@ tags:
 - regulatory-capture
 title: Amazon pays $40 million for Melania documentary in apparent quid pro quo arrangement
 ---
-type: solidarity_event
+type: timeline_event
 Amazon agreed to pay $40 million for a documentary and limited series about Melania Trump, directed by Brett Ratner. The deal, far above market rates for similar content, came after Jeff Bezos met with Trump and as Amazon faced multiple federal investigations. The documentary, with Melania as an executive producer, is seen as a potential quid pro quo arrangement, with Amazon reportedly planning to donate $1 million to Trump's inaugural fund. Industry experts noted typical documentaries command $2-5 million, making the $40 million payment appear suspicious.

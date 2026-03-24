@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--trump-fires-regulators-investigating-musk-companies
 date: '2025-02-15'
 title: Trump systematically fires federal officials investigating Elon Musk's companies
@@ -43,6 +43,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump orchestrated the systematic removal of federal regulators investigating Elon Musk's companies across multiple agencies. Officials fired included FDA staffers reviewing Neuralink's clinical trials, EEOC leaders investigating Tesla discrimination claims, the NLRB Chair who filed complaints against SpaceX, CFPB staff investigating Musk's financial ventures, and the USAID Inspector General probing Starlink satellite terminals. This coordinated purge eliminated virtually all federal oversight of Musk's business empire, clearing the way for billions in government contracts and regulatory approvals.

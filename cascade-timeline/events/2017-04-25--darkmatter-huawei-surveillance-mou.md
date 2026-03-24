@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-04-25--darkmatter-huawei-surveillance-mou
 date: '2017-04-25'
 title: DarkMatter Signs Strategic Surveillance Technology Agreement with Huawei, Facilitated by Erik Prince Network
@@ -39,7 +39,7 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 DarkMatter, the UAE-based private intelligence company employing former U.S. intelligence operatives, signed a Global Strategic Memorandum of Understanding with Chinese telecommunications giant Huawei for "Big Data" systems and "Smart City" surveillance solutions. The agreement, signed during Huawei's Global Safe City Summit 2017 in Dubai, combined Pegasus' (a DarkMatter subsidiary) big data analytics applications with Huawei's FusionInsight platform and Public Safety Cloud solution for comprehensive urban surveillance systems.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-18--trump-dpa-glyphosate-bayer-monsanto-liability-shield
 date: '2026-02-18'
 title: Trump Invokes Defense Production Act for Bayer/Monsanto Glyphosate, Potentially Shielding Corporation from 100,000+ Cancer Lawsuits
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump invoked the Defense Production Act to designate glyphosate — the active ingredient in Bayer/Monsanto's Roundup herbicide — as essential to national defense, citing its role in maintaining domestic agricultural production. The executive order, developed under the coordination of U.S. Department of Agriculture Secretary Brooke Rollins, directed federal agencies to support the domestic production and supply chain of glyphosate. Bayer AG, the German pharmaceutical and chemical conglomerate that acquired Monsanto in 2018, was the sole remaining large-scale domestic producer of glyphosate, making the DPA designation a de facto order benefiting a single foreign-owned corporation. Legal analysts immediately noted that the designation could provide Bayer with a military contractor defense, potentially shielding the company from over 100,000 pending cancer lawsuits brought by individuals alleging that Roundup exposure caused non-Hodgkin lymphoma.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-22--ice-deployed-13-airports-dhs-shutdown
 date: '2026-03-22'
 title: ICE Agents Deployed to 13 Major Airports as DHS Shutdown Enters Sixth Week and 400+ TSA Officers Quit
@@ -42,7 +42,7 @@ capture_lanes:
 - Institutional Capture
 - Immigration System Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The partial shutdown of the Department of Homeland Security, which began on February 14, 2026, entered its sixth week on March 22 with no resolution in sight. More than 400 TSA officers had quit since the funding lapse began, with many citing inability to work indefinitely without pay and the erosion of morale across the agency. The departures created staffing shortfalls at security checkpoints nationwide, with wait times at some airports exceeding three hours during peak travel periods.
 

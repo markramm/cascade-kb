@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-12--ukraine-whistleblower-complaint-filed
 date: 2019-08-12
 title: Intelligence Community Whistleblower Files Urgent Complaint About Trump-Zelensky Call
@@ -37,7 +37,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 An intelligence community whistleblower filed a formal complaint on August 12, 2019, detailing President Trump's July 25 phone call with Ukrainian President Zelensky and the subsequent White House efforts to conceal the conversation. The complaint described how "multiple White House officials with direct knowledge of the call" were "deeply disturbed" by what they witnessed, and how the White House attempted to "lock down" records of the conversation by moving the transcript to a highly classified computer system. Inspector General Michael Atkinson determined the complaint raised an "urgent concern" that was "credible" and involved potential violations of campaign finance law, triggering a constitutional obligation to forward it to Congress.
 

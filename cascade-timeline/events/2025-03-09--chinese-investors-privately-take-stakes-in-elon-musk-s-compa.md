@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-09--chinese-investors-privately-take-stakes-in-elon-musk-s-compa
 date: '2025-03-09'
 title: Chinese Investors Secretly Invest Millions in Elon Musk's Private Companies
@@ -44,6 +44,6 @@ status: confirmed
 notes: Chinese investors are secretly funneling funds into Musk's companies through complex financial structures, raising national security concerns.
 description: Wealthy Chinese investors have secretly used special-purpose vehicles to invest over $30 million in Elon Musk's private companies, including SpaceX, xAI, and Neuralink.
 ---
-type: solidarity_event
+type: timeline_event
 
 Wealthy Chinese investors have secretly used special-purpose vehicles to invest over $30 million in Elon Musk's private companies, including SpaceX, xAI, and Neuralink. These investments are routed through Cayman Islands-registered entities to obscure direct ownership, raising significant national security concerns given SpaceX's status as a key U.S. military contractor.

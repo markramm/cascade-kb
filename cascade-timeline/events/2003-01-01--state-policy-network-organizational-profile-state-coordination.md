@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-01-01--state-policy-network-organizational-profile-state-coordination
 date: '2003-01-01'
 status: confirmed
@@ -50,7 +50,7 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Comprehensive organizational analysis reveals State Policy Network (SPN) as coordination hub for 66+ state-level think tanks implementing nationally-coordinated corporate agenda while maintaining appearance of grassroots state-level research. Founded in 1992 by Thomas A. Roe (Heritage Foundation trustee), SPN provides central coordination, funding distribution, messaging consistency, and strategic support to state affiliates including Mackinac Center (Michigan), Texas Public Policy Foundation, Illinois Policy Institute, and dozens of others. This creates powerful synchronization mechanism: when corporate interests want specific policy replicated across states, SPN coordinates simultaneous campaigns with state-branded 'research' providing local legitimacy.
 

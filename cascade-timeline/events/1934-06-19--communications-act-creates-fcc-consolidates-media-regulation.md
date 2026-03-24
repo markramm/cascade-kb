@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1934-06-19--communications-act-creates-fcc-consolidates-media-regulation
 date: '1934-06-19'
 title: Communications Act of 1934 Creates FCC and Consolidates Federal Media Regulation Under Public Interest Standard
@@ -45,7 +45,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Franklin D. Roosevelt signs the Communications Act of 1934 (Chapter 5 of Title 47 U.S. Code), replacing the Federal Radio Commission with the Federal Communications Commission (FCC) and consolidating federal regulation of all interstate and foreign communications including radio, television, telegraph, and telephone under a single independent agency governed by the "public interest, convenience, and necessity" standard. The Act codifies the principle that broadcast spectrum frequencies are publicly owned resources requiring licensees to serve the public interest, creating enforceable regulatory authority over private communications corporations.
 

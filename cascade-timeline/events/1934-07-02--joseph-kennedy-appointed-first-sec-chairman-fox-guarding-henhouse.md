@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1934-07-02--joseph-kennedy-appointed-first-sec-chairman-fox-guarding-henhouse
 date: '1934-07-02'
 title: Joseph Kennedy Appointed First SEC Chairman - Wall Street Insider to Police Wall Street
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt appoints Joseph P. Kennedy, a wealthy Wall Street speculator known for stock manipulation and insider trading, as the first chairman of the newly-created Securities and Exchange Commission on July 2, 1934. The appointment shocks New Deal reformers and delights Wall Street, embodying FDR's controversial strategy of using an industry insider to police the industry. When questioned about appointing a notorious stock manipulator to regulate securities markets, Roosevelt allegedly replied, "Set a thief to catch a thief." Kennedy had amassed a fortune during the 1920s through stock pools, market manipulation, and trading practices that the SEC would subsequently outlaw.
 

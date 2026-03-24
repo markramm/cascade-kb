@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-10-01--musk-putin-regular-contact-begins
 date: '2022-10-01'
 importance: 8
@@ -34,6 +34,6 @@ sources:
 notes: Direct adversary contact by controller of critical defense infrastructure
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk began regular direct communication with Vladimir Putin while controlling critical US infrastructure through SpaceX and Starlink, creating unprecedented foreign influence over defense and communications systems.

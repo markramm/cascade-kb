@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-01--reagan-administration-muzzles-surgeon-general-koop-aids
 date: '1981-01-01'
 status: confirmed
@@ -47,7 +47,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Reagan administration prohibits Surgeon General C. Everett Koop from publicly addressing the emerging AIDS epidemic from 1981 through early 1986, demonstrating deliberate suppression of public health information during a catastrophic disease outbreak. Journalists receive advance instructions from administration officials that Koop "will not answer questions about AIDS" and "is not to be asked about it" during press conferences. Reagan's domestic policy advisers relegate Koop to the sidelines during the first five years of the epidemic as deaths mount, viewing AIDS as a political liability that might alienate the president's conservative evangelical base.
 

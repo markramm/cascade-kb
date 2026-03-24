@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-15--political-committees-have-spent-675k-at-trump-properties-sin
 date: '2025-05-15'
 title: Political committees have spent $675K at Trump properties since Trump's reelection
@@ -44,6 +44,6 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Republican-linked political committees have spent $676,457 at Trump properties in the six months following the 2024 election. The Republican National Committee led with $372,215, while House campaigns and Trump's political machine contributed an additional $250,000. This spending pattern demonstrates ongoing financial self-dealing through political infrastructure.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--ice-escalates-operations-targeting-somali-minnesota
 date: '2025-12-04'
 importance: 8
@@ -70,7 +70,7 @@ sources:
 notes: 'ICE conducted Operation Metro Surge targeting Somali community in Minneapolis-St. Paul, deploying approximately 100 agents. Operation followed Trump calling Somali Americans "garbage" who "contribute nothing." ICE reported 19 detained including 8 Somali individuals, though advocates say numbers higher. Multiple U.S. citizens wrongfully detained including 20-year-old Mubashir tackled by masked agents. Governor Walz accused federal agents of unlawful practices. Community experiencing fear with students carrying passports, canceled medical appointments, restaurants at reduced capacity. Coincides with processing halts for Somali nationals and TPS revocation threats.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Immigration and Customs Enforcement (ICE) launched and intensified "Operation Metro Surge" in Minneapolis and St. Paul beginning in early December 2025, deploying approximately 100 federal agents from across the country to target the Somali immigrant community in the Twin Cities following President Trump's escalated verbal attacks characterizing Somali Americans as "garbage" who "contribute nothing" to the country. The operation, which ICE officials confirmed was specifically directed at Somali immigrants, resulted in at least 19 official detentions including 8 Somali nationals by December 4, though immigrant rights advocates report significantly higher numbers, and included multiple wrongful arrests of U.S. citizens based solely on their Somali appearance. The targeted enforcement campaign has terrorized Minnesota's Somali American community—the largest in the nation at approximately 83,445 people—forcing students to carry passports to class, causing cancellation of medical appointments, devastating small businesses, and creating an atmosphere of fear that civil rights organizations characterize as racist, Islamophobic, and designed to ethnically cleanse Minnesota of its Somali population through intimidation and mass detention.
 
 CBS News reported that ICE conducted Operation Metro Surge in the Twin Cities with confirmed operations beginning in early December, following Trump administration directives to specifically target Somali immigrants. The deployment of approximately 100 ICE officers from multiple states represents a massive concentration of enforcement resources aimed at a single ethnic community, dwarfing typical immigration enforcement operations and signaling that the campaign was designed not merely to enforce immigration law but to terrorize and intimidate the entire Somali American community regardless of citizenship or immigration status. Federal officials confirmed to media that the operation specifically targeted Somali immigrants, making clear that ethnicity rather than individual immigration violations drove enforcement priorities.

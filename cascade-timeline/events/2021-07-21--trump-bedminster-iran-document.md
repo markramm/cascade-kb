@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-07-21--trump-bedminster-iran-document
 date: '2021-07-21'
 importance: 10
@@ -42,7 +42,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Audio recording captured Trump showing classified documents about U.S. attack plans on Iran
 to people without security clearances at his Bedminster golf club. Trump stated: "As

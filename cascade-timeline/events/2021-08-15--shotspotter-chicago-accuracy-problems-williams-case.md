@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-08-15--shotspotter-chicago-accuracy-problems-williams-case
 date: 2021-08-15
 title: ShotSpotter Accuracy Crisis - Chicago Inspector General Report and Williams Case
@@ -37,7 +37,7 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The reliability and accuracy of ShotSpotter's gunshot detection technology face a major crisis in August 2021 as the Chicago Office of Inspector General releases a damning report on the system's effectiveness, while the Michael Williams case exposes evidence that ShotSpotter analysts modified forensic reports at police request.
 

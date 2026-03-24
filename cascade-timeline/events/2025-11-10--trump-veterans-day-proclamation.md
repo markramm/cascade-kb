@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-10--trump-veterans-day-proclamation
 date: '2025-11-10'
 title: Trump Issues Veterans Day 2025 Proclamation Emphasizing Tax Cuts and Homeless Veteran Housing
@@ -34,7 +34,7 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued his Veterans Day proclamation on November 10, 2025, proclaiming November 11 as Veterans Day and calling on Americans to honor military veterans through public ceremonies and private reflection. The proclamation opened with traditional language: 'The story of America is written with the courage, honor, and dedicated service of our veterans. Through their sacrifice, the fires of freedom burn brightly, our Republic secured, and our way of life made possible.' Trump called upon Federal, State, and local officials to display the flag and participate in patriotic activities honoring veterans.
 

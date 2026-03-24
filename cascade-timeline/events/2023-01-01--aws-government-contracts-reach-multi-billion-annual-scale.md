@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-01-01--aws-government-contracts-reach-multi-billion-annual-scale
 date: 2023-01-01
 title: Amazon AWS Government Contracts Reach Multi-Billion Dollar Annual Scale
@@ -39,7 +39,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2023, Amazon Web Services has consolidated its position as the dominant cloud infrastructure provider for the U.S. government, with multi-billion dollar contracts across the intelligence community, Department of Defense, and civilian agencies creating unprecedented government dependence on a single commercial vendor. AWS's government portfolio includes some of the most sensitive and valuable federal contracts ever awarded to a technology company, spanning all levels of classified operations and establishing Amazon as an indispensable infrastructure provider for national security operations.
 

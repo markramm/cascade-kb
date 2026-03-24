@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-05-01--fisher-sand-gravel-wins-2b-border-wall-contracts
 date: '2019-05-01'
 importance: 7
@@ -40,6 +40,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Fisher Sand & Gravel received over $2 billion in border wall contracts after CEO Tommy Fisher appeared on Fox News over 20 times lobbying Trump directly, despite the company's history of tax fraud and environmental violations. Senator Kevin Cramer personally lobbied Trump for Fisher at a White House meeting. The Pentagon Inspector General investigated potential improper White House influence after Trump repeatedly mentioned Fisher by name, ordering the Army Corps to award them contracts. Fisher's first $400 million contract came despite finishing last in the competitive bidding process. The company paid $40 million in tax fraud penalties in 2009 and faced multiple environmental violations. A section of Fisher's wall in Texas began showing signs of erosion within months. The contracts demonstrated how Fox News appearances and political connections trumped qualifications in government contracting. Fisher also built a private border wall that violated international treaties.

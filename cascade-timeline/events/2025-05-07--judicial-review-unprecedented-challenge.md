@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-07--judicial-review-unprecedented-challenge
 date: '2025-05-07'
 title: Supreme Court Confronts Systemic Emoluments Violations
@@ -37,5 +37,5 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 In a landmark hearing, the Supreme Court began addressing complex constitutional challenges surrounding executive branch financial entanglements. The court explored unprecedented legal territory regarding potential emoluments violations, signaling a willingness to directly examine potential conflicts of interest at the highest levels of government. This hearing represents a critical moment in constitutional accountability, probing the boundaries of presidential financial independence and potential foreign influence.

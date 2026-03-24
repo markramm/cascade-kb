@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-02-19--facebook-acquires-whatsapp-19-billion-messaging-monopoly
 date: '2014-02-19'
 title: Facebook Acquires WhatsApp for $19 Billion to Dominate Messaging Market
@@ -48,7 +48,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook acquires WhatsApp for $19 billion, the largest tech acquisition to date, eliminating its primary competitor in mobile messaging and consolidating monopoly control over personal communications platforms. The FTC approves the acquisition without structural separation requirements despite clear anticompetitive intent.
 

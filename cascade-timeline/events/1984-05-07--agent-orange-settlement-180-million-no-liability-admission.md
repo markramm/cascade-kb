@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-05-07--agent-orange-settlement-180-million-no-liability-admission
 date: '1984-05-07'
 title: Agent Orange Settlement - Chemical Companies Pay $180 Million to Veterans Without Admitting Liability - Victims Receive Average $3,800
@@ -36,7 +36,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Seven chemical companies including Dow and Monsanto agree to pay $180 million to thousands of Vietnam veterans exposed to Agent Orange, settling the class action lawsuit out of court just before trial. Monsanto alone pays slightly over 45% of the settlement sum. All seven companies, having been granted immunity as military contractors, agree to the settlement under the strict condition that no admission of liability is required—allowing them to profit from war production while denying responsibility for the human consequences.
 

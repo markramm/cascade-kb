@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2001-12-13'
 title: Office of Information and Regulatory Affairs Systematically Subordinated to Corporate Input
 importance: 9
@@ -51,6 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of Information and Regulatory Affairs (OIRA) under John Graham implemented new procedures requiring federal agencies to submit proposed regulations to corporate 'stakeholder panels' before internal government review. These panels, dominated by industry representatives, gained unprecedented power to rewrite regulatory language and indefinitely delay implementation. A 2003 GAO report revealed that corporate lobbyists frequently obtained desired regulatory modifications, effectively transferring regulatory authority from democratically accountable agencies to unelected corporate representatives and institutionalizing systematic corporate capture of the regulatory state.

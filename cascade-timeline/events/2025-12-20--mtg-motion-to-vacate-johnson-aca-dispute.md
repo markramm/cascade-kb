@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-20--mtg-motion-to-vacate-johnson-aca-dispute
 date: 2025-12-20
 title: Marjorie Taylor Greene Explores Motion to Vacate Johnson Over ACA Dispute and Leadership Failures
@@ -110,7 +110,7 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 In mid-December 2025, Representative Marjorie Taylor Greene (R-GA) was reportedly gauging Republican support for a motion to vacate Speaker Mike Johnson from the speakership, approaching colleagues in search of the nine Republican co-signers required under new House rules to make such a motion privileged for floor consideration. Greene's reported effort — described by sources as a potential "last act of defiance" before her announced January 5, 2026 resignation from Congress — emerged from multiple overlapping grievances: Johnson's handling of the ACA subsidy impasse, his management of government funding negotiations, and what she characterized as his willingness to cooperate with Democrats in ways that violated conservative priorities. Her falling out with President Trump, who had publicly called her "Marjorie 'Traitor' Greene" and "a ranting Lunatic" over her advocacy for releasing full Epstein investigation files, had left her isolated within the Republican conference at precisely the moment she was attempting to recruit allies for a speaker fight.
 

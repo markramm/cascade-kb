@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2009-01-01'
 title: Carl Icahn Partners with Andrew Beal in Trump Entertainment Resorts Bankruptcy Restructuring
 importance: 8
@@ -39,5 +39,5 @@ capture_lanes:
 - Judicial Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump Entertainment Resorts filed for Chapter 11 bankruptcy in 2009, owing $1.2 billion. Initially, Trump worked with Avenue Capital Management to restructure the company, rejecting an earlier partnership with Andrew Beal's Beal Bank. Carl Icahn then purchased 51% of Beal Bank's first lien lender claims, inserting himself into the complex bankruptcy proceedings. Trump fought to maintain control of his brand's use in the properties, ultimately securing 5% stock and continued naming rights through an agreement with Avenue Capital.

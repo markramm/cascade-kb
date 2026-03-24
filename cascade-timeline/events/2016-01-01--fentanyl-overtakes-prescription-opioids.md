@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-01-01--fentanyl-overtakes-prescription-opioids
 title: Illicit Fentanyl Overtakes Prescription Opioids as Leading Cause of Overdose Deaths
 date: '2016-01-01'
@@ -36,7 +36,7 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In 2016, illicit fentanyl and other synthetic opioids overtook prescription opioids as the leading cause of opioid overdose deaths in the United States, marking a deadly transition in the opioid epidemic. This shift represented the catastrophic unintended consequence of belated efforts to restrict prescription opioid access without providing adequate addiction treatment—users addicted to prescription pills transitioned to far more dangerous illicit drugs.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-09-24--hatch-waxman-act-pharma-patent-extensions-generic-delay
 date: '1984-09-24'
 title: Hatch-Waxman Act Grants Pharma Patent Extensions While Creating Loopholes to Block Generics
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Reagan signs the Drug Price Competition and Patent Term Restoration Act, known as Hatch-Waxman, which ostensibly balances pharmaceutical innovation incentives with generic competition but creates loopholes that brand-name manufacturers exploit to extend monopoly pricing for decades. The legislation grants patent term extensions of up to five years to compensate for FDA approval delays, while simultaneously establishing the modern generic drug approval pathway.
 

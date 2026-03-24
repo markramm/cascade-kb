@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--warren-warns-tsunami-of-corruption-markets
 date: '2026-03-11'
 title: "Warren Warns Institutional Investors of 'Tsunami of Corruption' Threatening Financial Markets"
@@ -28,7 +28,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, Sen. Elizabeth Warren delivered a stark warning to the Council of Institutional Investors — representing pension funds, endowments, and asset managers overseeing more than $5 trillion — that American financial markets faced "an extraordinary new risk...corruption so massive and so unprecedented that it could literally break our entire financial system." The address represented a direct appeal to the financial establishment to treat presidential corruption not as a political issue but as a material risk to their portfolios and fiduciary obligations.
 

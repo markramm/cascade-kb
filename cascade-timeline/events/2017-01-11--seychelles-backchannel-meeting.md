@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-11--seychelles-backchannel-meeting
 date: '2017-01-11'
 importance: 5
@@ -40,6 +40,6 @@ sources:
   tier: 1
 notes: Classic function privatization moving sensitive operations outside public accountability. Russian Ambassador reportedly "taken aback" by Kushner proposal to use Russian diplomatic facilities, bypassing all U.S. oversight.
 ---
-type: solidarity_event
+type: timeline_event
 
 Erik Prince, founder of military contractor Blackwater and brother of Education Secretary Betsy DeVos, met with Putin ally Kirill Dmitriev in Seychelles to establish back channel between incoming Trump administration and Kremlin. George Nader told Dmitriev that Prince "is designated by Steve [Bannon] to meet you!" Meeting used private military contractor rather than official diplomatic channels for sensitive international negotiations. Separately, Kushner asked Russian Ambassador Kislyak if they could communicate using secure facilities at Russian Embassy, proposing to bypass U.S. intelligence entirely.

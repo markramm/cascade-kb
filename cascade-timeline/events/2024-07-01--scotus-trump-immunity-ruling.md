@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-01--scotus-trump-immunity-ruling
 date: '2024-07-01'
 title: Supreme Court Trump Immunity Ruling Institutionalizes WHIG Constitutional Crisis Precedent into Permanent Oligarchic Governance Framework
@@ -57,5 +57,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The Supreme Court's 6-3 ruling in Trump v. United States granting broad presidential immunity for official acts represents the systematic institutionalization of WHIG constitutional crisis precedent into permanent oligarchic governance framework, completing the transformation from episodic crisis exploitation to systematic elimination of democratic accountability. The ruling codifies WHIG precedents for executive immunity, constitutional constraint bypass, and crisis-accelerated institutional capture into formal judicial doctrine that permanently enables oligarchic governance without constitutional amendment or legitimate emergency powers. The Court's decision transforms Trump administration's systematic implementation of WHIG template—absolute immunity claims, DOJ politicization, oversight destruction—from contested constitutional violations into established legal authority enabling ongoing executive criminal conduct without accountability. This represents the culmination of WHIG constitutional crisis precedent establishment: systematic crisis exploitation creates institutional infrastructure that judicial capture transforms into permanent constitutional transformation enabling oligarchic governance through formal legal authority rather than emergency powers. The immunity ruling demonstrates how WHIG template implementation achieves permanent democratic transformation by establishing precedents that captured judicial institutions codify into systematic elimination of constitutional constraints on executive power.

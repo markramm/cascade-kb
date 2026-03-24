@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-07-02--thai-baht-currency-collapse-asian-financial-crisis
 date: '1997-07-02'
 title: Thai Baht Collapses, Triggering Asian Financial Crisis
@@ -35,6 +35,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 2, 1997, Thailand devalued the Thai baht after exhausting foreign currency reserves, marking the beginning of the Asian Financial Crisis. The currency fell from 25 baht per U.S. dollar to 54 baht per dollar by January 1998. The IMF and global financial institutions mobilized over $118 billion in emergency loans, contingent on structural reforms that included financial sector restructuring, improved governance, and fiscal policy realignment. The crisis rapidly spread across East Asia, causing sharp economic contractions in Malaysia, Philippines, Indonesia, and South Korea.

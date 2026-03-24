@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-10-01--trump-foundation-258k-portrait-mar-a-lago
 date: 2007-10-01
 title: Trump Foundation Pays $258,000 for Six-Foot Portrait of Trump at Charity Auction
@@ -35,7 +35,7 @@ capture_lanes:
 - Financial Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Donald J. Trump Foundation paid $258,000 in charitable funds to purchase a six-foot portrait of Donald Trump at a charity auction in Palm Beach, Florida. The portrait, painted by artist William Quigley, was supposed to be sold to benefit charity, but instead the Foundation used tax-exempt charitable donations to acquire an item of purely personal benefit to Trump. The massive portrait was later discovered hanging at Trump's Doral golf resort in Miami, confirming it provided no charitable purpose and instead decorated Trump's for-profit business property.
 

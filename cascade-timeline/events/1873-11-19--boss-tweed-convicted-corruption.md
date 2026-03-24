@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1873-11-19--boss-tweed-convicted-corruption
 date: '1873-11-19'
 title: Boss Tweed Convicted After Second Trial
@@ -34,7 +34,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 William "Boss" Tweed is convicted on 204 counts of corruption in his second trial, held ironically in the still-incomplete courthouse built with funds he helped steal. His first trial in January 1873 ended with a hung jury despite overwhelming evidence. The November conviction results in a sentence of 12 years in prison and $12,750 in fines for systematically plundering New York City of an estimated $50-200 million (equivalent to $1.5-3.7 billion today).
 

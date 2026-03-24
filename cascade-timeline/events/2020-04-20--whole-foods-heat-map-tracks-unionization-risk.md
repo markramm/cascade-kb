@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-20--whole-foods-heat-map-tracks-unionization-risk
 date: 2020-04-20
 title: Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics
@@ -37,7 +37,7 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics
 

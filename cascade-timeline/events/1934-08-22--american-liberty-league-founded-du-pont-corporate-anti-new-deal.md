@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1934-08-22--american-liberty-league-founded-du-pont-corporate-anti-new-deal
 date: '1934-08-22'
 title: American Liberty League Founded by Du Pont Family and Corporate Elite to Oppose New Deal
@@ -45,7 +45,7 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 22, 1934, the American Liberty League is announced in Washington, D.C., as a purportedly bipartisan organization to defend the U.S. Constitution against "radical" New Deal policies, with Jouett Shouse appointed as president. The League's formation represents the first major organized corporate propaganda campaign against Roosevelt's economic reforms, bankrolled primarily by the Du Pont family and allied industrial interests including General Motors, U.S. Steel, Standard Oil, and major banking houses. The moving force behind the League's creation is John Jacob Raskob, former chairman of the Democratic National Committee, former director of General Motors, and Du Pont board member, who recruits former Democratic presidential candidates Al Smith (1928) and John W. Davis (1924) to provide political cover for what is fundamentally a corporate lobbying operation.
 

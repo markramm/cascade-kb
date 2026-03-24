@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1963-12-17--clean-air-act-1963-first-federal-air-pollution-control
 date: '1963-12-17'
 title: Clean Air Act of 1963 Establishes First Federal Air Pollution Control Despite Industry Opposition
@@ -49,7 +49,7 @@ capture_lanes:
 - Environmental Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On December 17, 1963, President Lyndon B. Johnson signed the Clean Air Act of 1963, the first federal legislation to establish a framework for controlling air pollution at the national level. The act authorized $95 million for research and state grants to develop pollution control programs, and gave the federal government authority to hold conferences on interstate air pollution problems.

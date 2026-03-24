@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1862-07-01--pacific-railway-act-land-grants-corruption
 date: '1862-07-01'
 title: Pacific Railway Act Creates Land Grant System Enabling Massive Railroad Speculation and Corruption
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Abraham Lincoln signs the Pacific Railway Act, authorizing extensive land grants in the Western United States and the issuance of 30-year government bonds to the Union Pacific Railroad and Central Pacific Railroad companies to construct a transcontinental railroad. While the act becomes possible only after southern states' secession removes their opposition to a central route, it establishes a land grant system that operates from 1850 to 1871, granting 129 million acres to railroads from federal lands plus an additional 51 million acres from states, along with various government subsidies. Congress eventually authorizes four transcontinental railroads and grants 174 million acres of public lands for rights-of-way. The massive land grants, ostensibly to incentivize railroad construction serving the public interest, instead enable enormous speculation and corruption as railroad companies and speculators control the best farmland and charge more than intended, making land more expensive for actual farmers seeking to settle the West.
 

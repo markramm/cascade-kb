@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-04-06--citicorp-travelers-merger-glass-steagall-violation
 date: '1998-04-06'
 title: Citicorp-Travelers $70 Billion Merger Directly Violates Glass-Steagall Act
@@ -51,6 +51,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Citicorp and Travelers Group announce a $70 billion merger creating Citigroup, directly violating Glass-Steagall Act provisions separating commercial banking from insurance and securities activities. The Federal Reserve provides conditional approval based on the expectation that Congress will repeal Glass-Steagall, effectively forcing legislative action through regulatory fait accompli. This merger represents the culmination of the systematic Glass-Steagall erosion campaign, as regulators openly approve transactions that violate existing law while pressuring Congress to change the law retroactively to legitimize the violation.

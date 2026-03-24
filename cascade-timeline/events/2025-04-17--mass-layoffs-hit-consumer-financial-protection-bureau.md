@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-17--mass-layoffs-hit-consumer-financial-protection-bureau
 date: '2025-04-17'
 title: Mass Layoffs Hit Consumer Financial Protection Bureau, Judicial Intervention Emerges
@@ -47,6 +47,6 @@ capture_lanes:
 - Intelligence Penetration
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration initiated massive layoffs at the Consumer Financial Protection Bureau (CFPB), targeting approximately 1,500 employees (90% of staff), but faced immediate judicial challenges blocking the mass terminations.

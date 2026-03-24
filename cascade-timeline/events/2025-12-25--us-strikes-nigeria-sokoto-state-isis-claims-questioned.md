@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-25--us-strikes-nigeria-sokoto-state-isis-claims-questioned
 date: '2025-12-25'
 title: US Launches Christmas Day Strikes on Nigerian Villages, ISIS Claims Questioned by Residents and Analysts
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On Christmas Day evening, the US military launches strikes on at least three settlements in Sokoto state, northwest Nigeria, firing 16 GPS-guided precision munitions from naval platforms in the Gulf of Guinea. President Trump announces the operation on social media, claiming "a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria" that "decimated" terrorist camps.
 

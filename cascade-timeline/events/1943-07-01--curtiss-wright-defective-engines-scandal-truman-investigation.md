@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1943-07-01--curtiss-wright-defective-engines-scandal-truman-investigation
 date: '1943-07-01'
 title: Curtiss-Wright Exposed for Supplying Defective Aircraft Engines to Military
@@ -64,7 +64,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 
 # Curtiss-Wright Exposed for Defective Aircraft Engines

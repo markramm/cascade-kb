@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-31--federal-judges-373-threats
 date: '2025-05-31'
 importance: 10
@@ -41,6 +41,6 @@ sources:
 notes: U.S. District Judge Esther Salas shared Marshals data showing 373 threats in first 5 months of 2025. March-May saw double the threats (200) vs Oct-March (80), following Trump/allies attacks on judiciary. Marshals investigating 100+ anonymous pizza deliveries to judges' homes as ominous messages showing sender knows their addresses.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Marshals Service investigated 373 separate threats against 277 federal judges in first five months of 2025, compared to 509 threats against 379 judges for all of 2024. Nearly 200 investigations occurred March-May after Trump and allies vilified judges ruling against administration. Marshals also investigating 100+ anonymous pizza deliveries to judges' homes as intimidation tactics.

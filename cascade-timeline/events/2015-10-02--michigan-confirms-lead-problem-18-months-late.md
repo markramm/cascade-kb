@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-10-02--michigan-confirms-lead-problem-18-months-late
 date: 2015-10-02
 title: Michigan Finally Confirms Lead Problem and Advises Filters—18 Months After Poisoning Began
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Michigan Department of Health and Human Services (MDHHS) reviews data from Hurley Medical Center and finally verifies what residents have been saying for 18 months: Flint's water is poisoning children with lead. The state begins testing drinking water in schools and distributing free water filters—actions that should have been taken immediately after residents first complained in April 2014.
 

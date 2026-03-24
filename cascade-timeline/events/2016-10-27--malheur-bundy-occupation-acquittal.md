@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-27--malheur-bundy-occupation-acquittal
 date: '2016-10-27'
 title: Federal Jury Acquits Bundy Brothers and Five Others for Armed Occupation of Malheur Wildlife Refuge
@@ -76,7 +76,7 @@ capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 A federal jury in Portland acquits Ammon Bundy, Ryan Bundy, and five co-defendants of conspiracy to impede federal officers through force, threats, or intimidation, despite their 41-day armed occupation of the Malheur National Wildlife Refuge headquarters beginning January 2, 2016. The twelve-person jury returns not guilty verdicts after less than six hours of deliberation following a six-week trial, finding all seven defendants not guilty on the primary conspiracy charge and acquitting six of illegal firearms possession in a federal facility. Jurors deadlock only on a theft charge against Ryan Bundy. The occupation, which involved dozens of armed militants preventing federal wildlife officials from performing their duties at gunpoint, ended with the January 26 arrest of the Bundys on Highway 395 near Burns and the fatal police shooting of spokesman Robert "LaVoy" Finicum. The final occupiers surrendered February 11 after the FBI surrounded the refuge.
 
 The acquittal demonstrates catastrophic prosecutorial failure and reveals how anti-government extremists employing Second Amendment and property rights rhetoric can evade accountability for actions that would trigger harsh prosecution if committed by left-wing activists or communities of color. Defense attorneys successfully reframed the armed takeover as a protest exercising First and Second Amendment rights over federal land management, despite overwhelming evidence of force and intimidation. The verdict shocks legal observers and even defense attorneys, with Jeff Banta's lawyer calling it "stunning." U.S. District Judge Anna Brown refuses to immediately release Ammon Bundy because he faces separate charges from the 2014 armed standoff at his father Cliven Bundy's Nevada ranch, leading to courtroom chaos when Bundy's attorney Marcus Mumford repeatedly shouts at the judge and U.S. marshals tackle him, deploy a stun gun multiple times, and arrest him. FBI Special Agent in Charge Greg Bretzing expresses being "extremely disappointed in the verdict" while respecting the jury process.

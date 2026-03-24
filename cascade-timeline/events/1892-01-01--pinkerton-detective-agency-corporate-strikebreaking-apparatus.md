@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1892-01-01--pinkerton-detective-agency-corporate-strikebreaking-apparatus
 date: '1892-01-01'
 title: Pinkerton Detective Agency Operates as Private Corporate Army Against Unions
@@ -41,7 +41,7 @@ capture_lanes:
 - Intelligence Penetration
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Pinkerton National Detective Agency operates throughout the Gilded Age as a private corporate army deployed against labor organizing, providing armed guards, infiltration agents, and strikebreaking services to employers seeking to crush unions through surveillance, espionage, and violence. Founded by Allan Pinkerton in the 1850s as a detective agency, Pinkerton's expands during the Civil War and post-war period to become the primary supplier of private security forces for corporations battling worker organizing. By the 1890s, Pinkerton employs more agents than the U.S. Army has soldiers, creating a privatized enforcement apparatus serving corporate interests without constitutional constraints or democratic accountability.
 

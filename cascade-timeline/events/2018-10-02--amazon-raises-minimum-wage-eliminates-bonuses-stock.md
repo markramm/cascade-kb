@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-10-02--amazon-raises-minimum-wage-eliminates-bonuses-stock
 date: 2018-10-02
 title: Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options
@@ -34,7 +34,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options
 

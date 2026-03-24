@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-10--justice-dept-to-take-narrow-approach-to-prosecuting-corporat
 date: '2025-06-10'
 title: Justice Dept. Issues Narrow Guidelines for Prosecuting Corporate Bribery Abroad
@@ -47,6 +47,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 DOJ under the Trump administration has significantly reduced foreign corporate bribery investigations, closing about half of open cases and focusing narrowly on misconduct that directly harms US economic and national security interests.

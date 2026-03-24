@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-11-06--north-carolina-democrats-win-popular-vote-lose-seats
 date: '2012-11-06'
 title: North Carolina Democrats Win Popular Vote But Lose 9 of 13 Congressional Seats
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In the 2012 congressional elections, North Carolina Democratic candidates receive over 50% of the statewide popular vote but win only 4 of the state's 13 congressional seats—a stark demonstration of how the Republican-drawn maps from 2011 effectively nullify voter preferences. The results provide mathematical proof of gerrymandering's impact on democratic representation.
 

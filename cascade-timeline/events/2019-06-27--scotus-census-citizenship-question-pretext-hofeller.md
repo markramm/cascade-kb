@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-27--scotus-census-citizenship-question-pretext-hofeller
 date: '2019-06-27'
 importance: 10
@@ -55,7 +55,7 @@ sources:
   verified: true
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 In Department of Commerce v. New York, the Supreme Court held that the Secretary's stated
 rationale for adding a Census citizenship question was "contrived" and set aside the decision.
 Separate court filings introduced the late GOP strategist Thomas Hofeller's 2015 study and

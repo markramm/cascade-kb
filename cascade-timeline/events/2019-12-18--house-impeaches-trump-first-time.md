@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-12-18--house-impeaches-trump-first-time
 date: 2019-12-18
 title: House Votes to Impeach Trump on Abuse of Power and Obstruction of Congress
@@ -42,7 +42,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The House of Representatives voted on December 18, 2019 to impeach President Donald Trump on two articles: Abuse of Power (230-197-1) and Obstruction of Congress (229-198-1), making Trump only the third president in American history to be impeached. Article I charged that Trump "solicited the interference of a foreign government, Ukraine, in the 2020 United States Presidential election" by conditioning military aid and a White House meeting on Ukraine announcing investigations into Joe Biden. Article II charged that Trump "directed the unprecedented, categorical, and indiscriminate defiance of subpoenas" issued by Congress during the impeachment inquiry. The votes were largely party-line, with every Republican voting no and all but two or three Democrats voting yes, reflecting the deep partisan polarization over Trump's conduct.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-08--sessions-confirmed-ag-after-lying-about-russia
 date: '2017-02-08'
 title: Jeff Sessions Confirmed as Attorney General After Lying Under Oath About Russia Contacts
@@ -32,7 +32,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate confirmed Jeff Sessions as Attorney General on February 8, 2017, despite Sessions lying under oath during his confirmation hearing about contacts with Russian officials during the 2016 presidential campaign. When asked by Senator Al Franken whether he had communications with Russians, Sessions stated under oath: "I did not have communications with the Russians."
 

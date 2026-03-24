@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-09-13--washington-post-reveals-trump-foundation-self-dealing
 date: 2016-09-13
 title: Washington Post Investigation Reveals Trump Foundation Used for Self-Dealing and Business Settlements
@@ -37,7 +37,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Washington Post investigative reporter David Fahrenthold published a groundbreaking series of investigations revealing that the Donald J. Trump Foundation had engaged in a systematic pattern of illegal self-dealing, using tax-exempt charitable funds to purchase items for Trump's personal use, settle his businesses' legal disputes, and promote his political campaigns. The investigation documented at least $258,000 in foundation funds used to pay legal settlements for Trump's for-profit businesses, including $158,000 to settle a Mar-a-Lago flagpole dispute and payments related to Trump University. The reporting also revealed that Trump had not donated any of his own money to the Foundation since 2008, instead using it to distribute other people's charitable contributions while taking credit for the philanthropy.
 

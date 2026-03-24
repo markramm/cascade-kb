@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Pam Bondi
@@ -45,5 +45,5 @@ tags:
 - ethics-violation
 title: U.S. AG Pam Bondi Sells Over $1 Million in Trump Media Shares Amid Tariff Announcement
 ---
-type: solidarity_event
+type: timeline_event
 Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares on April 2, 2025, coinciding with Trump's major tariff announcement. The stock sale, part of an ethics divestment, occurred when Trump Media's stock was near its lowest point, dropping over 10% following the tariff declaration.

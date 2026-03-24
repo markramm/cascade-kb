@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1938-04-29--fdr-warns-congress-of-fascism-rising-from-corporate-power
 date: '1938-04-29'
 title: FDR Warns Congress That Concentrated Corporate Power Threatens American Democracy with Fascism
@@ -32,7 +32,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 29, 1938, President Franklin D. Roosevelt sends a special message to Congress warning that concentrated corporate power poses an existential threat to American democracy, using language that explicitly links economic monopoly with the rise of fascism. Roosevelt declares that "the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism—ownership of government by an individual, by a group, or by any other controlling private power."
 

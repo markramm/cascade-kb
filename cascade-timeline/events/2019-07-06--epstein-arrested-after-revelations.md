@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-07-06--epstein-arrested-after-revelations
 date: '2019-07-06'
 importance: 8
@@ -34,7 +34,7 @@ sources:
 notes: Timing suggests potential witness elimination after money laundering revelations
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Three weeks after Epstein expressed fear about revealing Trump's money laundering operations to Michael Wolff, Epstein was arrested at Teterboro Airport on sex trafficking charges.
 

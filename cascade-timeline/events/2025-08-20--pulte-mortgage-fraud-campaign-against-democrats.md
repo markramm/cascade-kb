@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-20--pulte-mortgage-fraud-campaign-against-democrats
 date: '2025-08-20'
 title: 'FHFA''s Pulte Expands Mortgage Fraud Accusations to Schiff and Letitia James'
@@ -56,5 +56,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 William Pulte uses FHFA access to mortgage databases to accuse Senator Adam Schiff and NY AG Letitia James of mortgage fraud, establishing pattern of weaponizing financial surveillance against Trump opponents.

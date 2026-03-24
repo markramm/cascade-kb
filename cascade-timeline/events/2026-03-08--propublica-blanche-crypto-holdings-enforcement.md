@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--propublica-blanche-crypto-holdings-enforcement
 date: '2026-03-08'
 title: ProPublica Reveals Top DOJ, DOD Officials Hold Financial Interests in Sectors They Regulate
@@ -25,7 +25,7 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 8, 2026, ProPublica published an investigation revealing that several of the Trump administration's most powerful officials held significant financial interests in the very sectors they were responsible for regulating or overseeing — and that their official actions had consistently benefited those personal holdings. The investigation centered on Deputy Attorney General Todd Blanche, Attorney General Pam Bondi, and Deputy Secretary of Defense Steve Feinberg.
 

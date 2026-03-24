@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1978-12-31'
 title: Corporate Lobbying Presence Quintuples in Washington DC
 importance: 8
@@ -36,6 +36,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 By the end of the 1970s, corporate public affairs offices in Washington dramatically expanded from 100 in 1968 to over 500, with registered corporate lobbyists increasing from 175 in 1971 to nearly 2,500. This unprecedented mobilization, influenced by the Powell Memo, represented a systematic strategy to reshape institutional influence and create a coordinated corporate political infrastructure.

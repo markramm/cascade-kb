@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-12--stumpf-resigns-keeps-130-million
 date: '2016-10-12'
 title: Stumpf Resigns as CEO, Retains Over $130 Million in Compensation
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Wells Fargo CEO John Stumpf resigns effective immediately, ending his 34-year career at the bank amid the fake accounts scandal. Despite calls from Senator Elizabeth Warren and others for him to forfeit his compensation and face criminal charges, Stumpf departs with approximately $130-137 million in accumulated wealth from stock holdings and vested compensation. The resignation demonstrates that even in cases of admitted systematic fraud, executive accountability means retiring rich rather than facing prosecution.
 

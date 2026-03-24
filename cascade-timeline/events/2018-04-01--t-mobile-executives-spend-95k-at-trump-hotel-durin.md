@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-04-01--t-mobile-executives-spend-95k-at-trump-hotel-durin
 date: '2018-04-01'
 importance: 7
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 T-Mobile executives spent over 95,000 at Trump International Hotel while seeking approval for their 6 billion merger with Sprint, with more than 52 overnight stays documented. The spending coincided with the merger review period when T-Mobile needed approval from Trump's Justice Department and FCC. Company executives, including CEO John Legere, were repeatedly seen at the hotel's lobby and restaurant, with Legere tweeting from the location. The merger, initially blocked under Obama, was approved after T-Mobile hired Trump insider Corey Lewandowski to lobby the administration. This pattern of corporate spending during regulatory reviews became standard practice, with at least 110 foreign officials and 47 corporate executives from companies with federal business staying at Trump properties during critical decision periods.

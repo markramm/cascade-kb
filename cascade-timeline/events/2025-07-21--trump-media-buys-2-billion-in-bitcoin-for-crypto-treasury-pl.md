@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-21--trump-media-buys-2-billion-in-bitcoin-for-crypto-treasury-pl
 date: '2025-07-21'
 title: Trump Media buys $2 billion in bitcoin for crypto Treasury plan
@@ -55,5 +55,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company– –joining other Trump-family linked businesses pursuing the same strategy

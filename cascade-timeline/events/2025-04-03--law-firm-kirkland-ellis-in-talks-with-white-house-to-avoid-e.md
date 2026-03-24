@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-03--law-firm-kirkland-ellis-in-talks-with-white-house-to-avoid-e
 date: '2025-04-03'
 title: Law firm Kirkland & Ellis in talks with White House to avoid executive order
@@ -43,7 +43,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Kirkland & Ellis, the largest U.S. law firm by revenue with over $7 billion in annual billings and more than 3,000 lawyers, entered negotiations with the Trump White House in early April 2025 to avoid becoming the target of a presidential executive order, following similar agreements reached with Willkie Farr & Gallagher, Paul Weiss, Skadden Arps, and other major firms. The Wall Street Journal and Bloomberg Law reported that Kirkland was in active discussions about the terms of an agreement that would allow it to avoid the operational penalties — loss of security clearances, building access, and government contracts — that Trump had imposed on targeted firms.
 
 The executive orders against law firms had followed a pattern: Trump identified firms that had represented clients or causes he opposed (including Democratic politicians, voting rights organizations, and January 6th-related defendants who had cooperated with investigators), then used executive orders to effectively bankrupt those firms' federal practice by barring them from government access. The pattern created strong incentives for even large, powerful law firms to negotiate settlement agreements — committing pro bono resources to Trump-directed causes — rather than challenge the orders in court.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-06-30--supreme-court-strikes-down-biden-forgiveness
 date: 2023-06-30
 title: Supreme Court Strikes Down Biden Student Loan Forgiveness 6-3 - Protects Debt System Against Democratic Relief
@@ -35,7 +35,7 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court ruled 6-3 on June 30, 2023, in Biden v. Nebraska that the Biden administration exceeded its authority under the HEROES Act in announcing $400 billion in student loan forgiveness, striking down a plan that would have canceled up to $20,000 in debt for Pell Grant recipients and $10,000 for other borrowers earning under $125,000—relief that would have benefited 43 million Americans with 20 million having their debt completely eliminated. The conservative supermajority's decision protected the predatory student debt system against democratic efforts to provide relief, ensuring that debt weaponized against students through the 2005 Bankruptcy Act and for-profit college fraud would remain non-dischargeable and inescapable.
 

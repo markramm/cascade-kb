@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-24--education-dept-programs-transferred-hhs-state-without-congress
 date: '2026-02-24'
 title: 'Trump Moves Education Department Programs to HHS and State Without Congressional Approval'
@@ -36,7 +36,7 @@ capture_lanes:
 - Education System Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 Trump officials transferred Education Department programs and grants to HHS and the State Department without congressional authorization, effectively dismantling the agency through executive action rather than the legislation required to abolish a cabinet department. The transfers moved federal education funding, grant programs, and regulatory oversight to agencies with no educational mission or expertise. Constitutional scholars warned the transfers violate the separation of powers, as Congress created the Department of Education by statute and only Congress can abolish it or transfer its functions.
 
 The move continued the administration's pattern of circumventing Congress to reshape the federal government unilaterally. By transferring programs piecemeal rather than formally proposing the abolition of the Department of Education through legislation, the administration avoided the congressional debate and vote that the Constitution requires for such a fundamental restructuring of the executive branch. The strategy of dismantlement-by-transfer achieves the same result as abolition while evading the democratic process.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-14--crypto-industry-writes-own-regulations
 date: '2024-11-14'
 title: Crypto Industry Advances Self-Regulatory Framework Amid Global Compliance Push
@@ -35,5 +35,5 @@ capture_lanes:
 - Financial Capture
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 In November 2024, the cryptocurrency industry accelerated its self-regulatory efforts in response to intensifying global regulatory pressures. Following the EU's Markets in Crypto-Assets (MiCA) regulation and the Financial Stability Board's global framework, crypto firms began proactively developing comprehensive compliance mechanisms. Key developments include enhanced KYC/AML protocols, transparent reporting standards, and collaborative efforts to preempt strict governmental oversight.

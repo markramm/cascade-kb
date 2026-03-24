@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-01-13--office-comptroller-currency-preempts-state-predatory-lending-laws
 date: '2004-01-13'
 title: OCC Federal Preemption Blocks State Anti-Predatory Lending Protections
@@ -46,6 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of the Comptroller of the Currency (OCC) under John Hawke Jr. issues sweeping federal preemption rules that override state consumer protection laws targeting predatory lending practices. This regulatory capture systematically dismantles state-level safeguards that attorneys general like Eliot Spitzer were using to combat subprime mortgage abuses. The OCC action, heavily lobbied for by national banks, creates a regulatory race to the bottom by preventing states from enforcing stronger consumer protections than weak federal standards. This preemption enables the unchecked growth of predatory lending practices that fuel the subprime bubble, demonstrating how federal regulators can be captured to serve industry interests against state-level democratic accountability.

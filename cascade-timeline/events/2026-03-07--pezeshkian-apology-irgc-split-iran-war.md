@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--pezeshkian-apology-irgc-split-iran-war
 date: '2026-03-07'
 title: Iran's President Apologizes for Strikes on Neighbors While IRGC Continues Independent Military Operations, Revealing Leadership Split
@@ -69,7 +69,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 7, 2026 — as the Iran war entered its second week — Iranian President Masoud Pezeshkian publicly apologized for Iran's attacks on neighboring countries and announced that Iran would cease striking Gulf states unless those states themselves attacked Iranian territory. "I should apologize to the neighboring countries that were attacked by Iran, on my own behalf," Pezeshkian said, adding, "From now on, they should not attack neighboring countries or fire missiles at them, unless we are attacked by those countries."
 

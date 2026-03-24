@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-03-01--bcci-early-operations-launch
 date: '1972-03-01'
 status: confirmed
@@ -41,5 +41,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Agha Hasan Abedi established the Bank of Credit and Commerce International (BCCI) in Luxembourg, creating an international bank with initial capital from Bank of America and Sheikh Zayed bin Sultan Al Nahyan. BCCI rapidly expanded to become the seventh-largest private bank in the world before being exposed for extensive financial crimes.

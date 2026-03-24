@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-08-15--grok-ai-safety-policy-update
 date: '2024-08-15'
 title: Grok AI Implements Enhanced Safety Protocols After Regulatory Pressure
@@ -42,5 +42,5 @@ sources:
   url: 'https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025'
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 Following months of scrutiny, xAI announces updates to Grok AI's content moderation and bias mitigation strategies. Key changes include stopping election misinformation generation, blocking inappropriate image generation, and committing to more transparent safety frameworks. These updates come amid ongoing criticism of xAI's safety practices and broader regulatory pressures on AI development. The US government's AI Safety Institute has been actively monitoring xAI's progress, with Grok eventually being cleared for federal government use through a GSA contract in September 2024.

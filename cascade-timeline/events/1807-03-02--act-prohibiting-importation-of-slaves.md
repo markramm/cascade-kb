@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1807-03-02--act-prohibiting-importation-of-slaves
 date: '1807-03-02'
 title: Act Prohibiting Importation of Slaves Signed After Constitutional 20-Year Protection Expires
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Thomas Jefferson signs into law the Act Prohibiting Importation of Slaves (2 Stat. 426), passed by Congress on March 2, 1807, prohibiting the importation of enslaved people into the United States effective January 1, 1808—the earliest date permitted by the Constitution's Article I, Section 9, Clause 1. Jefferson promotes this legislation in his December 2, 1806 State of Union Address, calling for criminalization of the "violations of human rights" attending the international slave trade. Under Representative Joseph Bradley Varnum's leadership, the bill moves through Congress and both houses agree on final language imposing heavy penalties on international slave traders. The Act represents the culmination of Jefferson's decades-long advocacy for ending slave importation, which he promoted since the 1770s, and demonstrates that ending the constitutional 20-year protection period enables federal action against the Atlantic slave trade.
 

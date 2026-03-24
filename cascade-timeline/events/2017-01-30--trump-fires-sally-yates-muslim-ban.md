@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-30--trump-fires-sally-yates-muslim-ban
 date: '2017-01-30'
 title: Trump Fires Acting Attorney General Sally Yates for Refusing to Defend Muslim Ban
@@ -34,7 +34,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump fired Acting Attorney General Sally Yates within hours of her instructing Justice Department attorneys not to defend Executive Order 13769 (the Muslim ban). Yates had sent a letter to DOJ staff stating she was "not convinced that the defense of the Executive Order is consistent with these responsibilities" and would not authorize DOJ lawyers to present arguments defending the order.
 

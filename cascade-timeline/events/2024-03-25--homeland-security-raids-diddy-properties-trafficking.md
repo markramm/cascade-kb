@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-25--homeland-security-raids-diddy-properties-trafficking
 date: '2024-03-25'
 title: Homeland Security Launches Major Sex Trafficking Investigation Against Sean Combs
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Homeland Security Investigations (HSI) conducted simultaneous raids on Sean Combs' properties in Los Angeles, New York, and Miami as part of a comprehensive federal sex trafficking investigation. Federal prosecutors unveiled a three-count indictment alleging a decade-long criminal enterprise involving sexual exploitation, trafficking, and systematic abuse. The U.S. Attorney's Office for the Southern District of New York charged Combs with racketeering conspiracy, sex trafficking by force, and transportation for prostitution.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-08-25--cbs-executives-corporate-policy-changes-whig-accommodation
 date: '2002-08-25'
 importance: 7
@@ -47,6 +47,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 CBS Corporation executives implement systematic policy changes to facilitate White House Iraq Group propaganda distribution, abandoning traditional news division independence for corporate-government coordination. CBS President Leslie Moonves and News Division leadership receive financial incentives through advertising commitments and regulatory assurances to cooperate with WHIG messaging campaigns. Corporate legal departments draft new editorial guidelines prioritizing government source access over fact-checking requirements, explicitly instructing producers to avoid challenging administration claims about Iraq WMD capabilities. CBS agrees to provide President Bush with prime Early Show airtime on September 8, 2002, for unchallenged delivery of fabricated nuclear threat messaging. Internal corporate communications reveal executives' calculated decision to transform CBS News from independent journalism into government propaganda distribution channel, weighing potential FCC regulatory retaliation against journalistic integrity. The policy changes establish dangerous precedents for corporate media complicity in government deception, demonstrating how financial and regulatory pressures corrupt news organizations into serving state propaganda interests rather than public information needs.

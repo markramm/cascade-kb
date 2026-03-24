@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-05--rfk-jr-cdc-panel-rolls-back-hepatitis-b-vaccine-recommendation
 date: '2025-12-05'
 title: RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation
@@ -49,7 +49,7 @@ capture_lanes:
 - Environmental Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 # RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-09-26--amazon-anti-union-training-video-leaked-gizmodo
 date: 2018-09-26
 title: Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
@@ -36,7 +36,7 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
 

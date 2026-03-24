@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1915-11-25--kkk-revived-stone-mountain-cross-burning
 date: '1915-11-25'
 title: 'KKK Revived at Stone Mountain Cross Burning: Simmons Coordinates with Birth of a Nation Premiere'
@@ -32,7 +32,7 @@ capture_lanes:
 - Democratic Erosion
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 William J. Simmons, a preacher and promoter of fraternal orders, led a group up Stone Mountain outside Atlanta and burned a large cross, marking the official rebirth of the Ku Klux Klan and beginning a new era of organized white supremacist terrorism. Simmons carefully coordinated the KKK revival with the Atlanta premiere of D.W. Griffith's "The Birth of a Nation," which was scheduled to open on December 6, 1915. The film portrayed the original Reconstruction-era Klan as heroic saviors of white civilization. Just ten days before the film's Atlanta premiere, Simmons staged the dramatic Stone Mountain cross burning, declaring it would "give the new order a tremendous popular boost." He took out newspaper advertisements about the KKK's revival that ran alongside announcements for The Birth of a Nation premiere, creating a coordinated media campaign that merged cinematic propaganda with real-world organizing.
 

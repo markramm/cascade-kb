@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1921-12-19--truax-v-corrigan-arizona-anti-injunction-law-invalidated
 date: '1921-12-19'
 title: Supreme Court Invalidates Arizona Anti-Injunction Law in Truax v. Corrigan
@@ -37,7 +37,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 5-4 in Truax v. Corrigan that an Arizona law prohibiting state courts from issuing injunctions against peaceful labor picketing violates the Due Process Clause of the Fourteenth Amendment. Chief Justice William Howard Taft, writing for the majority, holds that the Arizona statute deprives the restaurant owner of property rights without due process by allowing picketers to inflict economic harm without legal remedy. The case involves the English Kitchen restaurant in Bisbee, Arizona, where former employees picketed with banners denouncing the owner as "unfair to organized labor," causing business to decline more than 50 percent. Despite no violence occurring, the Court finds that preventing judicial relief from economic damage caused by picketing constitutes an unconstitutional taking of property.
 

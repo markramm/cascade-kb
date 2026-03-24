@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-07-01--oracle-tiktok-project-texas-1-billion-data-migration
 date: '2022-07-01'
 title: Oracle Launches "Project Texas" with TikTok, $1 Billion Data Storage Partnership
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 TikTok and Oracle formally launched "Project Texas" in July 2022, a comprehensive data isolation initiative designed to address U.S. national security concerns by migrating all American user data to Oracle's cloud infrastructure and establishing new corporate structures to limit ByteDance's access. Named after Oracle's headquarters location, Project Texas involved TikTok routing 100% of new U.S. user traffic to Oracle Cloud Infrastructure beginning in July 2022, with the multiyear cloud contract already valued at more than $1 billion.
 

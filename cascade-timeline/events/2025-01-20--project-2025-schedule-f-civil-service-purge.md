@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--project-2025-schedule-f-civil-service-purge
 date: '2025-01-20'
 title: 'Project 2025: Trump Administration Launches Massive Federal Civil Service Restructuring'
@@ -35,5 +35,5 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 On January 20, 2025, the Trump administration implements Schedule F executive order, enabling systematic purge of federal civil service workforce by stripping job protections from approximately 50,000 nonpartisan public servants. This restructuring, developed by the Heritage Foundation, allows immediate termination of career employees and replacement with political loyalists, fundamentally transforming the executive branch bureaucracy.

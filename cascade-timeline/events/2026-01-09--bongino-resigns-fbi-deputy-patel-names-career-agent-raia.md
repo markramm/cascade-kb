@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-09--bongino-resigns-fbi-deputy-patel-names-career-agent-raia
 date: '2026-01-09'
 title: Dan Bongino Resigns as FBI Deputy Director After Less Than a Year, Replaced by Career Agent
@@ -29,7 +29,7 @@ status: confirmed
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Dan Bongino resigned as FBI Deputy Director after less than a year on the job, with FBI Director Kash Patel naming career counter-terrorism agent Christopher Raia as his replacement. Bongino, a former Secret Service agent and conservative media personality, gave no public reason for his departure beyond calling it "the honor of a lifetime" to serve alongside Patel.
 

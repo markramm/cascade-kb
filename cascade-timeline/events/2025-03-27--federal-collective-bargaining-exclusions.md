@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-27--federal-collective-bargaining-exclusions
 title: Executive Order on Federal Collective Bargaining Exclusions
 date: '2025-03-27'
@@ -45,5 +45,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 EO on federal collective bargaining exclusions issued; OPM guidance and White House fact sheet published exempting agencies with national security missions from federal collective bargaining requirements

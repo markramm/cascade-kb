@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--first-major-constitutional-challenge
 date: '2025-04-22'
 title: Coordinated Constitutional Challenge Filed
@@ -34,5 +34,5 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Legal resistance network files simultaneous federal lawsuits in multiple jurisdictions challenging recent executive orders that potentially violate constitutional separation of powers. The ACLU and Protect Democracy lead a coalition challenging executive orders related to voting rights and birthright citizenship, arguing these orders violate fundamental constitutional principles of separation of powers and due process.

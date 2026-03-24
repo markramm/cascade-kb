@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-15--judge-rules-ice-violated-fourth-amendment-garrison-gibson
 date: '2026-01-15'
 title: Federal Judge Rules ICE Violated Fourth Amendment by Breaking Into Minneapolis Home Without Judicial Warrant
@@ -43,7 +43,7 @@ capture_lanes:
 - Democratic Erosion
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Jeffrey Bryan ordered the immediate release of Garrison Gibson, ruling that ICE agents violated his Fourth Amendment rights when they used a battering ram to break into his north Minneapolis home on January 11, 2026, armed only with administrative paperwork rather than a judicial warrant.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-09--sec-settles-case-with-crypto-firm-with-ties-to-the-white-hou
 date: '2025-05-09'
 title: SEC Reaches Controversial Settlement with Ripple Labs
@@ -51,5 +51,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 The SEC settled a long-running enforcement action against Ripple Labs, agreeing to return $75 million of a $125 million fine and keeping $50 million, amid significant criticism from SEC Commissioner Caroline Crenshaw about undermining investor protections.

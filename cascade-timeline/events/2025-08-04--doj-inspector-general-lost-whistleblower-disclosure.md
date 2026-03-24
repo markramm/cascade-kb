@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-04--doj-inspector-general-lost-whistleblower-disclosure
 date: '2025-08-04'
 title: DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial Nominee for Three Months
@@ -38,7 +38,7 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Whistleblower Aid revealed that the DOJ Office of the Inspector General 'lost' a whistleblower disclosure for almost three months, only 'finding' it on the eve of Emil Bove's confirmation vote for a federal judgeship. The disclosure, submitted on May 5, 2025, alleged that Bove and other senior DOJ officials may have violated laws, rules, or regulations by attempting to mislead federal judges and potentially ignore court orders regarding the administration's immigration enforcement efforts in March 2025.
 

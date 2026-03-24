@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-07-29--fourth-circuit-north-carolina-surgical-precision
 date: '2016-07-29'
 title: Appeals Court Strikes Down North Carolina Voter ID Law With "Surgical Precision" Ruling
@@ -41,7 +41,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Fourth Circuit Court of Appeals strikes down North Carolina's comprehensive voter suppression law (HB 589) in a scathing ruling that finds the legislature "target[ed] African Americans with almost surgical precision." Judge Diana Gribbon Motz's opinion exposes how North Carolina Republicans requested racial data on voting practices, then systematically restricted every method disproportionately used by Black voters while preserving methods used by white voters—demonstrating intentional racial discrimination through data-driven suppression.
 

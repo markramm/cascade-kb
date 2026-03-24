@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-10-20--trump-media-founded-chinese-connected-backer
 date: '2021-10-20'
 importance: 8
@@ -47,7 +47,7 @@ sources:
 notes: 'Orlando''s dual role as DWAC CEO and head of Wuhan-based company raises foreign influence concerns. TMTG founded specifically to create Trump-controlled social media platform.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media & Technology Group (TMTG) was announced on October 20, 2021, with plans to launch the Truth Social platform and challenge mainstream social media. A key figure in the deal was Patrick Orlando, CEO of Digital World Acquisition Corp (DWAC), the blank-check company that would take TMTG public through a SPAC merger. Orlando simultaneously served as CEO of Yunhong International, a company based in Wuhan, China, that operated Chinese lifestyle ventures, raising immediate concerns about foreign influence over a media company tied to a former U.S. president.
 
 Bloomberg and Al Jazeera reported that Orlando's dual roles—running both the SPAC bringing Trump's media company public and a Wuhan-based Chinese firm—created potential conflicts of interest and foreign influence vectors. DWAC's deal with TMTG was the largest SPAC merger of 2021 and generated explosive stock gains. The Washington Post subsequently reported that TMTG was also working with Arc Capital, a Chinese firm with a history of SEC investigations. The SEC and FINRA launched investigations into the DWAC-TMTG merger over potential pre-deal communications violations.

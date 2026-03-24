@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-17--trump-commutes-george-santos-sentence
 date: '2025-10-17'
 title: Trump Commutes George Santos Prison Sentence After 3 Months
@@ -31,7 +31,7 @@ capture_lanes:
 - Electoral Manipulation
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump commuted the 87-month federal prison sentence of former Rep. George Santos (R-NY) after Santos served only three months of his sentence. Santos pleaded guilty in August 2024 to multiple counts of wire fraud, aggravated identity theft, campaign finance violations, and financial crimes including stealing donor money and lying to the Federal Election Commission.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-05-20--national-voter-registration-act-motor-voter
 date: '1993-05-20'
 title: 'National Voter Registration Act (Motor Voter): Expands Registration Access Despite Republican Opposition and Implementation Resistance'
@@ -34,7 +34,7 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Clinton signed the National Voter Registration Act (NVRA), known as "Motor Voter," requiring states to offer voter registration when citizens apply for driver's licenses, at public assistance offices, and through mail-in registration. The law aimed to reverse decades of declining voter registration by removing bureaucratic barriers, but faced immediate Republican resistance and uneven implementation.
 

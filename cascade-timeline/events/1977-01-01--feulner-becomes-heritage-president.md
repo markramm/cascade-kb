@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1977-01-01--feulner-becomes-heritage-president
 date: 1977-01-01
 status: confirmed
@@ -78,7 +78,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Edwin J. Feulner Jr. assumed the presidency of the Heritage Foundation in 1977, beginning what would become a transformative 36-year tenure that built Heritage from a modest operation with 9 staff members and a $1 million budget into the preeminent conservative policy organization in Washington. Feulner had co-founded Heritage in 1973 alongside Paul Weyrich and secured initial funding from Colorado brewer Joseph Coors. Within 18 months of assuming the presidency, Heritage's budget grew to $2.5 million with a donor pool of approximately 120,000 people.
 

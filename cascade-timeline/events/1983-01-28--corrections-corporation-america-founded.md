@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-01-28--corrections-corporation-america-founded
 date: '1983-01-28'
 title: Corrections Corporation of America Founded in Nashville, Launching Modern Private Prison Industry
@@ -39,7 +39,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Thomas W. Beasley (chairman of the Tennessee Republican Party), Robert Crants, and T. Don Hutto found Corrections Corporation of America (CCA) in Nashville, Tennessee, creating the first modern for-profit prison company. After a 15-minute presentation on Valentine's Day 1983, Massey Burch Investment Group—the venture capital firm that backed Hospital Corporation of America and Kentucky Fried Chicken—invests $500,000 in the concept of privatized incarceration.
 

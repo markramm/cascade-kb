@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-05-01--academic-studies-document-predpol-racial-bias-ineffectiveness
 date: 2019-05-01
 title: Academic Studies Document PredPol's Racial Bias and Ineffectiveness
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Multiple academic studies and internal police audits published in 2019 provide comprehensive evidence of PredPol's racial bias and failure to demonstrate effectiveness, undermining the fundamental claims that have justified the technology's widespread adoption.
 

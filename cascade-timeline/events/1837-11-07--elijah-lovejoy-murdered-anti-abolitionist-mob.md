@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1837-11-07--elijah-lovejoy-murdered-anti-abolitionist-mob
 date: '1837-11-07'
 title: Abolitionist Editor Elijah Lovejoy Murdered by Pro-Slavery Mob; No Prosecutions Follow
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Presbyterian minister and abolitionist newspaper editor Elijah Parish Lovejoy is murdered by a pro-slavery mob in Alton, Illinois, struck by five bullets while defending his printing press from destruction. The murder of Lovejoy—whose fourth printing press had been hidden in a warehouse owned by local merchants Winthrop Sargent Gilman and Benjamin Godfrey after mobs twice dumped earlier presses into the Mississippi River—represents the violent suppression of antislavery speech and press freedom in both slave and free states. Despite the public nature of the killing and the mob's composition of "mostly Missourians," no one is prosecuted for the murder, and Lovejoy's body must be buried in a secret location to prevent further desecration. The assassination galvanizes the abolitionist movement, prompts John Brown to consecrate his life to slavery's destruction, and influences Abraham Lincoln's political views, demonstrating how mob violence and official impunity work together to enforce the slave power's control over public discourse.
 

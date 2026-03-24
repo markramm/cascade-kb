@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-06--top-trump-crypto-buyers-vying-for-dinner-seats-are-likely-fo
 date: '2025-05-06'
 title: 'Trump''s Cryptocurrency Dinner Reveals Majority Foreign Buyers'
@@ -42,5 +42,5 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 Over 56% of Trump's memecoin top buyers invited to a 220-person dinner were foreign nationals, raising significant ethical concerns about presidential access being sold to international investors. The top cryptocurrency holders spent $394 million to attend the event, with billionaire Justin Sun prominently featured.

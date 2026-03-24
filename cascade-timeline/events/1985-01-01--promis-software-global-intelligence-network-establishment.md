@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1985-01-01--promis-software-global-intelligence-network-establishment
 date: '1985-01-01'
 title: PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell Distribution
@@ -57,6 +57,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The systematic distribution of backdoored PROMIS software through Robert Maxwell and other intermediaries created an unprecedented global surveillance network. Intelligence agencies in multiple countries, including Zimbabwe, South Africa, Guatemala, Colombia, Nicaragua, Bulgaria, Egypt, East Germany, Poland, Belgium, Turkey, Thailand, Australia, New Zealand, China, and the Soviet KGB, unknowingly used compromised software. A 1992 House Judiciary Committee investigation found that U.S. government officials permitted pirated versions of PROMIS to be distributed for personal gain and intelligence objectives, enabling a complex web of mutual surveillance and counter-intelligence operations targeting diplomatic and government networks worldwide.

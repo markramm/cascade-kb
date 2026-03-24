@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-25--world-liberty-financial-usd1-stablecoin
 date: '2025-03-25'
 title: 'Trump''s World Liberty Financial Announces USD1 Stablecoin with Binance Backing'
@@ -52,5 +52,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 World Liberty Financial, a cryptocurrency venture co-founded by Trump's associates, announced the launch of USD1, a stablecoin pegged 1-to-1 to the U.S. dollar. The launch involves a strategic partnership with Binance and a $75 million investment from Justin Sun, raising significant concerns about potential conflicts of interest and regulatory compliance.

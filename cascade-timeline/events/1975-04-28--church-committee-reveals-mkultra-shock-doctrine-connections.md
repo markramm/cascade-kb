@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1975-04-28--church-committee-reveals-mkultra-shock-doctrine-connections
 date: '1975-04-28'
 title: Church Committee Exposes Psychological Manipulation Techniques in Government Operations
@@ -48,6 +48,6 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Final Church Committee report reveals extensive details about Project MKULTRA, documenting systematic psychological manipulation techniques developed by CIA during Cold War. The investigation exposed how intelligence agencies conducted unethical human experimentation, including drug-based mind control research, raising critical questions about government ethics and institutional accountability.

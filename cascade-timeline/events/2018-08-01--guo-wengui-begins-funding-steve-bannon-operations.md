@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-08-01--guo-wengui-begins-funding-steve-bannon-operations
 date: '2018-08-01'
 title: Guo Wengui Begins Funding Steve Bannon Operations
@@ -36,5 +36,5 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Chinese exile billionaire Guo Wengui (Miles Guo) began a $1 million contract with Steve Bannon for media consulting, marking the start of a complex political influence operation targeting Chinese Communist Party leadership. Bannon was hired to introduce Guo Media to political personalities and help build an alternative media platform, GTV, designed to spread pro-Trump messaging and anti-CCP narratives to Chinese expatriate communities.

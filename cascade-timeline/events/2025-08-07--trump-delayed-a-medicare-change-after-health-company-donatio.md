@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-07--trump-delayed-a-medicare-change-after-health-company-donatio
 date: '2025-08-07'
 title: Trump delayed a Medicare change after health company donations
@@ -49,6 +49,6 @@ _merge_timestamp: '2025-09-05T23:46:55.902741'
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care—maker of high-end bandages crafted from dried placenta—donated $5 million to the MAGA Inc. super PAC

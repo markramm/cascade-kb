@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-21--ny-appeals-court-overturns-trump-fraud-penalty
 date: '2025-08-21'
 title: NY Appeals Court Throws Out $527 Million Trump Fraud Judgment as "Excessive"
@@ -47,7 +47,7 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Appellate Division, in a unanimous five-judge decision, threw out the $527 million civil fraud judgment against President Donald Trump and his companies, ruling the penalty was "excessive" and violated the Eighth Amendment's prohibition on excessive fines. The appeals court overturned Judge Arthur Engoron's February 2024 ruling that had ordered Trump to pay $355 million in penalties (which with interest exceeded $515 million) for fraudulently inflating property values to secure favorable loans and insurance terms. Including penalties against Trump Organization executives Eric Trump and Donald Trump Jr., the total judgment with interest had reached $527 million. The appeals court ruled that while two judges believed Trump was properly held liable for business fraud, all five agreed the financial penalty was constitutionally excessive. The $175 million bond Trump posted in March 2024 would be returned to the Trump Organization, representing a major legal victory for Trump in the midst of his 2025 presidency.
 

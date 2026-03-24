@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-16--trump-putin-helsinki-summit-sides-with-russia
 date: 2018-07-16
 title: Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
@@ -43,7 +43,7 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 In one of the most shocking moments in modern American presidential history, President Donald Trump publicly sided with Russian President Vladimir Putin over his own intelligence agencies during a joint press conference in Helsinki, Finland. Standing next to Putin before a global audience, Trump refused to affirm that Russia interfered in the 2016 U.S. presidential election, directly contradicting the unanimous assessment of the U.S. intelligence community.
 

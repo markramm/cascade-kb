@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--federal-agencies-shed-anthropic-contracts-treasury-state-hhs
 date: '2026-03-04'
 title: Treasury, State, and HHS Begin Phasing Out Anthropic Products Following Trump Executive Directive
@@ -43,7 +43,7 @@ capture_lanes:
 - Institutional Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Following President Trump's executive directive accompanying the Department of Defense's national security supply-chain designation of Anthropic, multiple civilian federal agencies began formally announcing plans to phase out Anthropic products in the first days of March 2026. The Departments of Treasury, State, and Health and Human Services all confirmed they would stop using Anthropic's Claude AI models, with the administration's directive providing a six-month transition window to complete the transition.
 

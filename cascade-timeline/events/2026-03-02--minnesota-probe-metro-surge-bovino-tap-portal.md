@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Mary Moriarty
 - Greg Bovino
@@ -63,7 +63,7 @@ tags:
 title: Hennepin County Launches Transparency and Accountability Project to Investigate
   Federal Agents in Operation Metro Surge
 ---
-type: solidarity_event
+type: timeline_event
 
 Hennepin County Attorney Mary Moriarty announced the creation of the Transparency and Accountability Project (TAP) on March 2, 2026, establishing a formal investigative mechanism to collect evidence and build potential criminal cases against federal agents who may have acted unlawfully during Operation Metro Surge. The announcement came as the Trump administration declared the surge formally over while simultaneously facing multiple federal court contempt proceedings over its conduct during the operation.
 

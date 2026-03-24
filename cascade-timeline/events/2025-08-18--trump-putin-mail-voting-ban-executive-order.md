@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-18--trump-putin-mail-voting-ban-executive-order
 date: '2025-08-18'
 title: Trump Pledges Executive Order to Ban Mail-In Voting After Putin Meeting
@@ -34,7 +34,7 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump announced plans to sign an executive order ending mail-in voting and targeting voting machines for the 2026 midterms, citing Vladimir Putin's claim that postal ballots 'rigged' the 2020 election. Trump told Fox News that Putin said during their Alaska summit 'Your election was rigged because you have mail-in voting.'
 

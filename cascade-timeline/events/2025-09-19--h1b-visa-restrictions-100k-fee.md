@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-19--h1b-visa-restrictions-100k-fee
 date: '2025-09-19'
 title: Trump Restricts H-1B Visas with $100,000 Per-Petition Fee Requirement
@@ -33,7 +33,7 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued a Presidential Proclamation imposing severe restrictions on H-1B specialty occupation workers, requiring employers to pay a $100,000 fee per petition with limited national-interest exemptions. This dramatic escalation in visa costs represents a fundamental shift in skilled immigration policy, effectively pricing out most employers except large corporations.
 

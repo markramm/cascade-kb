@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--states-sue-trump-new-tariffs-after-supreme-court-loss
 date: '2026-03-05'
 title: 24 State Attorneys General Sue Trump Over New Tariffs After Supreme Court Struck Down Previous Ones
@@ -37,7 +37,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 5, 2026, New York Attorney General Letitia James led a coalition of 24 state attorneys general in filing suit in the U.S. Court of International Trade to block President Trump's newest round of global tariffs. The lawsuit came just days after the U.S. Supreme Court struck down Trump's previous sweeping "Liberation Day" tariff regime, which had been imposed under the International Emergency Economic Powers Act (IEEPA).
 

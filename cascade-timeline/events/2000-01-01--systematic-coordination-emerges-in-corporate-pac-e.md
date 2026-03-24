@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--systematic-coordination-emerges-in-corporate-pac-e
 date: '2000-01-01'
 title: Systematic Coordination Emerges in Corporate PAC Explosion Post-Buckley
@@ -43,6 +43,6 @@ sources:
 
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 
 By the year 2000, sophisticated legal strategies emerge revealing how corporate political action committees (PACs) systematically exploit legal loopholes from the Buckley v. Valeo Supreme Court decision. Wealthy donors and industry actors develop intricate mechanisms to circumvent campaign finance restrictions, creating a coordinated system of 'independent' expenditures that effectively bypasses traditional campaign finance limitations. The emerging strategies facilitate unprecedented corporate political influence through soft money, issue advocacy, and strategic expenditure coordination.

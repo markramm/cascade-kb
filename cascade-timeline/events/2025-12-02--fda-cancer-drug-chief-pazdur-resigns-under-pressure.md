@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-02--fda-cancer-drug-chief-pazdur-resigns-under-pressure
 date: 2025-12-02
 title: FDA Cancer Drug Chief Dr. Richard Pazdur Resigns After Three Weeks Under Political Pressure
@@ -71,7 +71,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Dr. Richard Pazdur, the FDA's highly respected director of the Oncology Center of Excellence and newly appointed director of the Center for Drug Evaluation and Research (CDER), filed papers to retire at the end of December 2025, just three weeks after accepting the CDER role on November 11, 2025. He informed FDA leaders of his decision at a meeting on Tuesday, December 2, 2025. Pazdur's abrupt departure came after clashing with FDA Commissioner Marty Makary over what Pazdur saw as political interference in drug review decisions.
 

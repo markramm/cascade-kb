@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-10-10--clinton-grants-china-permanent-normal-trade-relations
 date: '2000-10-10'
 title: Clinton Signs China PNTR Ending Annual Review, Enabling WTO Entry and Manufacturing Exodus
@@ -47,7 +47,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bill Clinton signs the U.S.-China Relations Act of 2000, granting China Permanent Normal Trade Relations (PNTR) status and ending the annual congressional review process that had existed since 1980 under Jackson-Vanik provisions. The House passed the legislation on May 24, 2000 and the Senate approved it 83-15 on September 19, 2000, following a massive corporate lobbying campaign.
 

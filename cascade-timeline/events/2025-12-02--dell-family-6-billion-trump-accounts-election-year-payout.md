@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-02--dell-family-6-billion-trump-accounts-election-year-payout
 date: '2025-12-02'
 title: Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-23--house-speaker-johnson-shuts-down-congress-early-to
 date: '2025-07-23'
 importance: 8
@@ -35,6 +35,6 @@ capture_lanes:
 - Media Capture & Control
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 House Speaker Mike Johnson abruptly sends Congress into early summer recess on July 23, 2025, specifically to prevent a vote on the Epstein Files Transparency Act discharge petition led by Representatives Thomas Massie (R-KY) and Ro Khanna (D-CA). The petition had gained bipartisan momentum following public pressure for transparency about Jeffrey Epstein's connections. Johnson announced July 21 he would block any Epstein-related votes, then executed the early shutdown two days later.

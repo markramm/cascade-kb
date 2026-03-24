@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-07-01--maxwell-daily-mirror-acquisition-media-empire-expansion
 date: '1984-07-01'
 title: Maxwell Acquires Daily Mirror for £113 Million, Expanding Media Empire
@@ -51,6 +51,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert Maxwell acquires Mirror Group Newspapers (MGN) from Reed International for £113 million in July 1984, gaining control of six British newspapers including the Daily Mirror. This strategic acquisition significantly expanded Maxwell's media influence in Britain and triggered an intense media war with Rupert Murdoch. By consolidating multiple newspaper titles, Maxwell positioned himself as a major player in British media, leveraging the Daily Mirror—at the time the second-largest circulation newspaper—as a key platform for information control and political influence.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1824-02-09--corrupt-bargain-adams-clay-house-election
 date: '1824-02-09'
 title: House Elects John Quincy Adams in "Corrupt Bargain" After Clay Throws Support, Ending Era of Good Feelings
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. House of Representatives elects John Quincy Adams as president despite Andrew Jackson having won both a plurality of the popular vote (41%) and the Electoral College (99 votes to Adams's 84), in what becomes known as the "Corrupt Bargain." The 1824 presidential election marks the final collapse of the Republican-Federalist political framework, with all major candidates—Jackson, Adams, William H. Crawford, and Henry Clay—running as Democratic-Republicans representing different regional interests. Because no candidate garners the 131 electoral votes needed for a majority, the election goes to the House of Representatives under the Twelfth Amendment, where each state provides one vote and only the top three candidates can be considered, eliminating fourth-place finisher Clay.
 

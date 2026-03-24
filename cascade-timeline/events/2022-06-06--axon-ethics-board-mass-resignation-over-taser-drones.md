@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-06--axon-ethics-board-mass-resignation-over-taser-drones
 date: '2022-06-06'
 title: Nine of Thirteen Axon Ethics Board Members Resign After Company Announces Taser-Equipped Drones Without Consultation
@@ -42,7 +42,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 6, 2022, nine members of Axon's thirteen-member AI and Policing Technology Ethics Board resigned in protest after the company announced plans to develop Taser-equipped drones for deployment in schools to respond to mass shootings. The resigning members—including founding chair Barry Friedman (NYU Law), Wael Abd-Almageed (USC), Miles Brundage (OpenAI), Ryan Calo (University of Washington), Danielle Citron (University of Virginia), Rebekah Delsol (University of Bristol), Chris Harris (Upturn), Jennifer Lynch (EFF), and Mecole McBride (independent consultant)—stated they had "lost faith in Axon's ability to be a responsible partner" after the company ignored the board's 8-4 vote recommending against even limited pilot testing of the armed drone program. The mass resignations revealed the fundamental limits of corporate ethics boards when companies prioritize commercial opportunities over ethical constraints.
 

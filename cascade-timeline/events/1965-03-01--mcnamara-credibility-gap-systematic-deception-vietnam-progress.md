@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-03-01--mcnamara-credibility-gap-systematic-deception-vietnam-progress
 date: '1965-03-01'
 title: McNamara and Johnson Administration Begin Systematic Deception About Vietnam War Progress Creating "Credibility Gap"
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The term "credibility gap" enters widespread use to describe the growing disconnect between the Johnson administration's optimistic public statements about Vietnam War progress and the grim reality experienced by soldiers and reporters in the field. The New York Herald Tribune first applies the phrase to Vietnam in March 1965, and Senator J. William Fulbright popularizes it in 1966 when he cannot get straight answers from the administration regarding the war.
 

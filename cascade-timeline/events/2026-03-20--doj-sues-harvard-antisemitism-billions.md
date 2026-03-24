@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--doj-sues-harvard-antisemitism-billions
 date: '2026-03-20'
 title: DOJ Sues Harvard Alleging Antisemitism, Seeks to Recover Billions in Federal Subsidies
@@ -38,7 +38,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 20, 2026, the Department of Justice's Civil Rights Division filed a lawsuit against Harvard University alleging that the institution had failed to adequately address antisemitism on campus, and seeking to "recover billions of taxpayer subsidies" that had flowed to the university through research grants, student financial aid, and tax-exempt status. The suit was the second major federal legal action against Harvard in 2026, following the administration's earlier freeze of $2.6 billion in research funding.
 

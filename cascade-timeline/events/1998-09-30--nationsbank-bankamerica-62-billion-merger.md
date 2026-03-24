@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-09-30--nationsbank-bankamerica-62-billion-merger
 date: '1998-09-30'
 title: NationsBank-BankAmerica $62 Billion Merger Creates First Coast-to-Coast National Bank
@@ -44,7 +44,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 NationsBank completes its $62 billion acquisition of BankAmerica Corporation, creating the first truly coast-to-coast national bank in U.S. history and taking the Bank of America name. The merger occurs just one year before the formal repeal of Glass-Steagall, demonstrating how banking consolidation was already accelerating in anticipation of deregulation.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1863-01-01--emancipation-proclamation-northern-resistance-racist-opposition
 date: '1863-01-01'
 title: Emancipation Proclamation Faces Violent Northern Resistance from Democrats and White Supremacists Fearing Labor Competition
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Lincoln's Emancipation Proclamation, taking effect January 1, 1863, declares enslaved people in Confederate-held territory to be free, transforming the Civil War from a conflict to preserve the Union into a crusade against slavery. The proclamation faces immediate and violent opposition from Northern Democrats, particularly the Copperhead faction, who object to both emancipation and the military draft enacted to mobilize soldiers for the expanded war aims. Democratic Party leaders raise the specter of "New York deluged with southern blacks" following emancipation, while white workers compare their value unfavorably to enslaved people, stating they "are sold for $300 [the draft exemption price] whilst they pay $1000 for negroes." Lincoln's own military commander, General George McClellan, is vehemently opposed to emancipation. The opposition Democratic Party threatens to transform into an antiwar party. Henry A. Reeves of the Republican Watchman newspaper expresses racist opposition: "In the name of freedom for Negroes, [the proclamation] imperils the liberty of white men; to test an utopian theory of equality of races which Nature, History and Experience alike condemn as monstrous, it overturns the Constitution and Civil Laws and sets up Military Usurpation in their stead."
 

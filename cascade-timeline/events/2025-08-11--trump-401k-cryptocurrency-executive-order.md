@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-11--trump-401k-cryptocurrency-executive-order
 date: '2025-08-11'
 title: Trump Opens $12.5 Trillion in Retirement Savings to Cryptocurrency and Private Equity Risk
@@ -35,7 +35,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump signed an executive order directing the Labor Department to allow cryptocurrencies, private equity, and other alternative assets in 401(k) retirement plans, exposing the $12.5 trillion in retirement savings to high-risk, illiquid investments with elevated fees.
 

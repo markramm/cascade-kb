@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-30--trump-privately-discussing-plans-to-host-g20-at-his-doral-re
 date: '2025-07-30'
 title: Trump to Host 2026 G20 Summit at Doral Resort, Reviving Controversial Hosting Attempt
@@ -47,6 +47,6 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump plans to host the 2026 G20 Summit at his Doral resort in Miami from December 14-15, 2026. The White House claims the event will be hosted 'at-cost' with no profit to Trump, but the move raises significant conflict of interest concerns, echoing his previously abandoned attempt to host the G7 at the same venue in 2020.

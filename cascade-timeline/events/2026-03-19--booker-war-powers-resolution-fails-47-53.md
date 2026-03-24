@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--booker-war-powers-resolution-fails-47-53
 date: '2026-03-19'
 title: Booker War Powers Resolution Fails 47-53 — Only Paul Crosses Party Lines for Yes, Fetterman for No
@@ -39,7 +39,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, the Senate voted 47-53 to defeat a war powers resolution introduced by Sen. Cory Booker that would have required the withdrawal of U.S. forces from hostilities against Iran within 30 days absent a formal congressional authorization for the use of military force. The vote fell almost entirely along party lines, with only two senators crossing the aisle: Republican Sen. Rand Paul of Kentucky voted yes, and Democratic Sen. John Fetterman of Pennsylvania voted no.
 

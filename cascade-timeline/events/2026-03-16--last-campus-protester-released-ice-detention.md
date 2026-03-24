@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-16--last-campus-protester-released-ice-detention
 date: '2026-03-16'
 title: Last Person Detained in Trump Campus Protest Crackdown Released from ICE Custody on $100K Bond
@@ -34,7 +34,7 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 16, 2026, Leqaa Kordia — a Palestinian woman who had lived in New Jersey since 2016 — was released from Prairieland Detention Center in Texas on $100,000 bond, making her the last person to be freed from the Trump administration's 2025 crackdown on campus protesters. Kordia's release marked the end of a detention campaign that had drawn condemnation from civil liberties organizations, academic institutions, and legal scholars as an unprecedented use of immigration enforcement to punish political speech.
 

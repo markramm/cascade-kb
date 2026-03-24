@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-07--access-hollywood-tape-released
 date: '2016-10-07'
 title: Washington Post Releases Access Hollywood Tape
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 7, 2016, exactly one month before the presidential election, Washington Post reporter David Fahrenthold published a 2005 video recording of Donald Trump making sexually aggressive comments about women. The recording was made on an Access Hollywood bus as Trump and television host Billy Bush traveled to tape a cameo appearance on Days of Our Lives. Trump was wearing a microphone, and the cameras were not rolling, but the conversation was recorded.
 

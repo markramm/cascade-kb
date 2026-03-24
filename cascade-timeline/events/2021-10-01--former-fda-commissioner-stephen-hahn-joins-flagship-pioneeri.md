@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-10-01--former-fda-commissioner-stephen-hahn-joins-flagship-pioneeri
 title: Former FDA Commissioner Stephen Hahn Joins Moderna Backer Flagship Pioneering
 date: '2021-10-01'
@@ -43,5 +43,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Former FDA Commissioner Stephen Hahn, who led the agency during the Emergency Use Authorization of Moderna's COVID-19 vaccines, took an executive-level position as Chief Medical Officer with Flagship Pioneering, the venture capital firm that launched Moderna. This transition occurred six months after Hahn oversaw critical regulatory decisions regarding COVID-19 vaccine approvals. Flagship Pioneering has deep ties to Moderna, with CEO Noubar Afeyan serving as Moderna's chairman and maintaining significant financial interests. The move exemplifies the persistent 'revolving door' between federal regulatory agencies and the pharmaceutical industry, raising systemic concerns about potential conflicts of interest and the independence of drug approval processes.

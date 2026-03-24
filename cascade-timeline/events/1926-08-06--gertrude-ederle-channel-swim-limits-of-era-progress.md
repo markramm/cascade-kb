@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1926-08-06--gertrude-ederle-channel-swim-limits-of-era-progress
 date: '1926-08-06'
 title: Gertrude Ederle Swims English Channel But Era Constrains Women's Progress
@@ -26,7 +26,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Gertrude Ederle becomes the first woman to swim the English Channel, completing the crossing in 14 hours and 31 minutes - beating the existing men's record by nearly two hours. The 20-year-old New Yorker receives a ticker-tape parade attended by two million people, demonstrating public enthusiasm for women's athletic achievement. Yet despite such individual triumphs, institutional barriers and cultural backlash constrain women's advancement throughout the 1920s, as gains in some areas accompany retrenchment in others.
 

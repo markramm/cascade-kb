@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1975-02-21--haldeman-ehrlichman-mitchell-sentenced'
 date: '1975-02-21'
 title: 'Nixon Top Aides Haldeman, Ehrlichman, and Mitchell Sentenced to Prison for Watergate Cover-up'
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 21, 1975, former Attorney General John N. Mitchell and former White House aides H.R. Haldeman and John D. Ehrlichman were sentenced to 2.5 to 8 years in prison for their roles in the Watergate cover-up. All three men had been convicted of every count against them—a total of 14 felonies including conspiracy, obstruction of justice, and perjury. Mitchell, who had served as Nixon's Attorney General before directing his 1972 re-election campaign, was the highest-ranking former law enforcement official in American history to be convicted of crimes. Haldeman, as Nixon's Chief of Staff, and Ehrlichman, as his domestic affairs advisor, had been among the President's closest and most powerful advisors, functioning as gatekeepers who controlled access to Nixon and implemented his directives.
 

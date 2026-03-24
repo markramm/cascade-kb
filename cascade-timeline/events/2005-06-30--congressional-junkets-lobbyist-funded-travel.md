@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-06-30--congressional-junkets-lobbyist-funded-travel
 date: '2005-06-30'
 title: Investigation Reveals $15M in Lobbyist-Funded Congressional Travel and Fact-Finding Junkets
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Center for Public Integrity investigation revealed that from January 2000 through June 2005, lawmakers and aides accepted at least 90 trips worth approximately $145,000 from sponsors matching firms registered to lobby the federal government. Analysis of privately funded congressional travel showed that private groups spent $15 million on congressional trips in 2005-2006 alone, with lobbyists using "fact-finding" trips and educational seminars to cultivate relationships with lawmakers and influence policy decisions. The revelation exposed how corporate interests systematically used travel perks to gain congressional access and favorable treatment.
 

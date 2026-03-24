@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-03-30--trump-indicted-manhattan-da-34-felony-counts
 date: '2023-03-30'
 title: Trump Indicted by Manhattan DA on 34 Felony Counts - First Criminal Indictment of President in U.S. History
@@ -43,7 +43,7 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Manhattan District Attorney Alvin Bragg announced a historic grand jury indictment of former President Donald Trump on 34 felony counts of falsifying business records in the first degree. The charges related to a scheme to suppress damaging information about Trump during the 2016 presidential campaign, specifically payments made to adult film actress Stormy Daniels through Trump's lawyer Michael Cohen.
 

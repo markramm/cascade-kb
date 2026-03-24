@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-03--in-q-tel-800th-investment-milestone
 date: '2025-04-03'
 title: In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 In early April 2025, In-Q-Tel announced its 800th investment since the CIA venture capital arm's founding in 1999, marking a major expansion of intelligence community financial entanglement with private technology companies. The milestone investment came as In-Q-Tel broadened its focus beyond traditional information technology into quantum computing, artificial intelligence, biotechnology, and autonomous systems—technology categories with profound surveillance and military applications.
 

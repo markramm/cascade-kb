@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-22--washington-post-launches-democracy-dies-darkness-slogan
 date: 2017-02-22
 title: Washington Post Launches "Democracy Dies in Darkness" Slogan Under Bezos Ownership
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Washington Post introduced "Democracy Dies in Darkness" as its first official slogan in the newspaper's 140-year history, launching it on the website on February 22, 2017 and adding it to print editions a week later. The slogan positioned the Bezos-owned newspaper as a defender of democratic accountability during the Trump era, while eliding the fundamental contradiction of a major democratic institution owned by one of the world's wealthiest billionaires with extensive government contracts and business interests.
 

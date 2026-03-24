@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-01-01--financial-industry-300-million-deregulation-lobbying
 date: '1997-01-01'
 title: Financial Industry Spends $300 Million on Deregulation Lobbying and Campaign Contributions
@@ -47,7 +47,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1997 and 1998, the banking, insurance, and securities industries spend over $300 million to advance financial deregulation, including $58 million in direct campaign contributions to Democratic and Republican candidates, $87 million in soft money contributions to both parties, and $163 million on lobbying. This massive financial commitment buys bipartisan support for dismantling Depression-era financial regulations, particularly Glass-Steagall.
 

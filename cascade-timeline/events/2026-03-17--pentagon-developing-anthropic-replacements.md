@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--pentagon-developing-anthropic-replacements
 date: '2026-03-17'
 title: Pentagon Confirms Working to Replace Anthropic's Claude — OpenAI Already Deployed, Google Gemini Next in Line
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Bloomberg reported that the Pentagon's Chief Digital and Artificial Intelligence Office (CDAO) was actively working to develop alternatives to Anthropic's Claude and transition classified AI workflows to competing platforms. Cameron Stanley, a senior CDAO official, confirmed that the office had begun the transition process and was evaluating multiple replacement options. Pentagon CTO Emil Michael acknowledged that the transition would take "more than a month" but insisted it was achievable within the six-month deadline President Trump had set for eliminating Anthropic systems from government networks.
 

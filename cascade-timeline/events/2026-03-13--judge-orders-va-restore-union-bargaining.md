@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--judge-orders-va-restore-union-bargaining
 date: '2026-03-13'
 title: Judge Orders VA to Reinstate Union Collective Bargaining Agreement for 300,000 Employees
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2026, federal Judge Melissa DuBose granted the American Federation of Government Employees a preliminary injunction ordering the Department of Veterans Affairs to reinstate its master collective bargaining agreement. The ruling restored union protections for more than 300,000 VA employees whose bargaining rights had been stripped by VA Secretary Doug Collins under a Trump administration executive order issued in March 2025.
 

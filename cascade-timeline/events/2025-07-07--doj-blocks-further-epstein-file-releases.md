@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-07--doj-blocks-further-epstein-file-releases
 date: '2025-07-07'
 importance: 6
@@ -42,6 +42,6 @@ sources:
 notes: Active obstruction to prevent revelation of financial crimes. White House claimed Bondi meant "entirety of all paperwork" not client list. Trump said "The attorney general has handled that very well." Conservative backlash over broken promise of transparency.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 DOJ posted July 7 memo stating no Epstein "client list" exists and no further files would be released, contradicting AG Pam Bondi's earlier claim list was "sitting on my desk." Memo stated "systematic review revealed no incriminating 'client list'." Laura Loomer called for Bondi firing. Erick Erickson: "Pam Bondi looked America in eye and said she had Jeffrey Epstein's list. Now she says there never was a list."

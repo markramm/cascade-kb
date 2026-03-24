@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-10-27--google-acquires-keyhole-earth
 date: '2004-10-27'
 title: Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
@@ -38,7 +38,7 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In October 2004, Google acquired Keyhole Inc. for an undisclosed amount, bringing In-Q-Tel's CIA-backed geospatial technology into one of the world's largest tech companies. The acquisition meant that In-Q-Tel's equity stake in Keyhole converted to Google shares, making the CIA's venture capital arm a Google shareholder and creating an unprecedented financial linkage between America's largest search company and its intelligence apparatus.
 

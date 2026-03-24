@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-13--trump-takes-aim-at-officials-who-police-agency-wrongdoing-pr
 date: '2025-02-13'
 title: Trump Fires Top Ethics and Whistleblower Protection Officials
@@ -43,6 +43,6 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump fired key government officials overseeing ethics and whistleblower protections, including David Huitema (Office of Government Ethics), Hampton Dellinger (Office of Special Counsel), and Colleen Shogan (National Archivist). The removals were part of a broader effort to reshape federal agencies and potentially expose confidential whistleblower information.

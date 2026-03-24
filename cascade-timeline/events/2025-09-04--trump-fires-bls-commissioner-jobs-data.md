@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-04--trump-fires-bls-commissioner-jobs-data
 date: '2025-09-04'
 title: Trump Fires Bureau of Labor Statistics Commissioner After Unfavorable Jobs Report
@@ -30,6 +30,6 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump fired Bureau of Labor Statistics Commissioner Erika McEntarfer following the release of a weak July jobs report, accusing the agency of 'rigging' employment numbers. Trump nominated EJ Antoni, a Heritage Foundation fellow and Project 2025 contributor who has publicly criticized BLS methodology, as her replacement. Antoni has vowed to 'chainsaw' the agency and advocates for politicizing economic data collection. The firing represents direct political retaliation against an independent statistical agency for producing data unfavorable to the administration, threatening the integrity of foundational economic indicators used by businesses, policymakers, and the Federal Reserve. The White House is also planning a report attacking BLS credibility to justify further purges and methodological changes that would allow political manipulation of employment statistics.

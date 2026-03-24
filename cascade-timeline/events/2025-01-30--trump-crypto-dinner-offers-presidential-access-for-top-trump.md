@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-30--trump-crypto-dinner-offers-presidential-access-for-top-trump
 date: '2025-01-30'
 title: Trump Crypto Dinner Offers Presidential Access for Top $TRUMP Coin Buyers
@@ -56,6 +56,6 @@ notes: This event represents significant kleptocratic capture and institutional 
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Top 25 investors in $TRUMP memecoin attended private reception with President Trump, receiving $100,000 crypto-themed Trump watches. Justin Sun, the biggest $TRUMP coin holder, attended the dinner. The event sparked an ethics investigation by Senator Blumenthal, who alleged this represented an unprecedented 'pay-to-play' scheme allowing foreign actors to financially influence the presidency.

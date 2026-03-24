@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-06-17--nixon-declares-war-on-drugs
 date: '1971-06-17'
 title: Nixon Declares Drug Abuse "Public Enemy Number One"
@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 At a press conference on June 17, 1971, President Richard Nixon declared drug abuse "public enemy number one," launching what became known as the War on Drugs. This announcement marked the beginning of a dramatic expansion of federal drug control policy and law enforcement that would transform American criminal justice and drive mass incarceration for the next five decades. During the nearly 50-year period between 1925 and the early 1970s, the male incarceration rate had remained remarkably stable at about 200 per 100,000 population. By 1986, about a decade after the War on Drugs started, the male incarceration rate doubled to 400 per 100,000, then doubled again to more than 800 by 1996 before reaching a historic peak of 956 in 2008.
 

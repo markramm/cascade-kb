@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-06-01--saudi-arabia-purchases-45th-floor-trump-world-tower
 date: '2001-06-01'
 importance: 5
@@ -44,6 +44,6 @@ notes: The purchase occurred several months before 9/11. In 2008, Saudi Arabia c
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Saudi Arabia purchases the entire 45th floor of Trump World Tower for $4.5 million. The five apartments (10 bedrooms, 13 bathrooms) were later converted to part of Saudi Arabia's UN Mission in 2008, creating ongoing common charges and potential emoluments clause violations during Trump's presidency.

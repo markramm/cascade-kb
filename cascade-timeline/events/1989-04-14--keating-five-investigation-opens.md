@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-04-14--keating-five-investigation-opens
 date: '1989-04-14'
 title: Senate Ethics Committee Opens Keating Five Investigation
@@ -39,5 +39,5 @@ capture_lanes:
 - Systematic Corruption
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 The Senate Ethics Committee launched an investigation into five senators (McCain, Glenn, Cranston, Riegle, and DeConcini) for their improper intervention with federal regulators on behalf of Charles Keating's Lincoln Savings and Loan Association. The investigation was initiated after Keating's $1.3 million in political contributions raised significant ethical concerns.

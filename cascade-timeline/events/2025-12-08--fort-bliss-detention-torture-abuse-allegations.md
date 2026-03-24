@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-08--fort-bliss-detention-torture-abuse-allegations
 date: '2025-12-08'
 title: 'Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations'
@@ -44,7 +44,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations
 

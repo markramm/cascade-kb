@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--state-ag-record-lawsuits-trump-administration-71-suits
 date: '2026-03-04'
 title: Democratic State AGs File Record 71 Lawsuits Against Trump Administration in First Year of Second Term
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By early March 2026, one year into President Trump's second term, Democratic state attorneys general had filed 71 lawsuits against the Trump administration — a historically unprecedented pace of multistate legal resistance. The coordinated litigation strategy, organized through 22 states and the District of Columbia, represented the most sustained and comprehensive state-level legal opposition to a presidential administration in modern American history.
 

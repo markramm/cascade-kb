@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2024-12-03'
 title: South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic Crisis
 description: President Yoon Suk Yeol's brief martial law declaration represented a dramatic attempt to circumvent legislative opposition. With an approval rating as low as 17% and facing potential impeachment, Yoon accused the opposition Democratic Party of being an 'anti-state den of criminals'. The National Assembly swiftly countered by forcing past soldiers to vote down his decree, highlighting the resilience of South Korean democratic institutions.
@@ -43,6 +43,6 @@ connections: []
 patterns:
 - democratic-backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 2024, President Yoon Suk Yeol declared martial law at 22:23, marking an unprecedented challenge to South Korea's democratic institutions. Within six hours, the National Assembly unanimously rejected his order, revealing deep political tensions and pushing South Korea's democratic status into global scrutiny.

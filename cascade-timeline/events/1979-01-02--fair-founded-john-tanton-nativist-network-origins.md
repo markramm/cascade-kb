@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1979-01-02--fair-founded-john-tanton-nativist-network-origins
 date: '1979-01-02'
 title: Federation for American Immigration Reform Founded, Launching Modern Nativist Movement Infrastructure
@@ -39,7 +39,7 @@ capture_lanes:
 - Legislative Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Dr. John Tanton, a Michigan ophthalmologist and former Sierra Club population committee chair, founds the Federation for American Immigration Reform (FAIR) in Washington, D.C., establishing the organizational infrastructure for the modern nativist movement. Initially framing immigration restriction as an environmental issue, FAIR subsequently becomes the hub of a network of interconnected organizations promoting immigration restriction, including the Center for Immigration Studies (founded 1985), NumbersUSA (founded 1996), and ProEnglish, all sharing funding sources, personnel, and messaging strategies while maintaining nominal independence to create the appearance of broad consensus.
 

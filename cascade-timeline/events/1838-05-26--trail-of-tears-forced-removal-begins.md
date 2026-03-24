@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1838-05-26--trail-of-tears-forced-removal-begins
 date: '1838-05-26'
 title: Trail of Tears Forced Removal Begins as 7,000 Troops Round Up 16,000 Cherokee at Gunpoint
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. troops under General Winfield Scott begin forcibly removing the Cherokee Nation from their ancestral homelands in Georgia, Tennessee, North Carolina, and Alabama, starting a process that becomes known as the Trail of Tears. President Martin Van Buren, enforcing the fraudulent 1835 Treaty of New Echota rejected by legitimate Cherokee leadership and nearly the entire Cherokee population, directs 7,000 U.S. Army soldiers to round up approximately 16,000 Cherokee men, women, and children at bayonet point. Families are seized from their homes with minimal possessions, often without warning, and herded into concentration camps where inadequate food, bad water, and disease cause massive suffering throughout summer 1838 before forced migration even begins. The ethnic cleansing, justified by a treaty signed by unauthorized representatives and ratified by one Senate vote despite a petition with nearly 16,000 Cherokee signatures opposing it, exemplifies how democratic institutions can be manipulated to enable genocide benefiting land speculators, gold prospectors, and slaveholders.
 

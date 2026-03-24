@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1921-09-15--dupont-sloan-gm-takeover-corporate-interlocks-expand
 date: '1921-09-15'
 title: DuPont-GM Consolidation Creates Model of Interlocking Corporate Control
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Pierre du Pont assumes the presidency of General Motors in December 1920 and installs Alfred P. Sloan as operating head, consolidating DuPont family control over the nation's largest automaker after DuPont Company acquires 23% of GM stock. The arrangement creates a paradigmatic example of interlocking corporate directorates and vertical integration that will shape American corporate governance for decades while evading antitrust enforcement. DuPont, as GM's primary supplier of paint, chemicals, and other materials, gains guaranteed markets while controlling GM's purchasing decisions through board dominance.
 

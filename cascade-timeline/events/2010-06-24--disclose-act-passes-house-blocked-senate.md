@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-06-24--disclose-act-passes-house-blocked-senate
 date: '2010-06-24'
 importance: 7
@@ -48,6 +48,6 @@ sources:
 notes: The DISCLOSE Act would have required corporate political advertisers to reveal funding sources and required whoever funds ads to appear and claim responsibility. Obama criticized Republican leadership for hoping 'special interests will reward them by funding attack ads against their opponents.' This legislative failure ensured dark money groups could operate without transparency.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 House passes Democracy Is Strengthened by Casting Light On Spending in Elections (DISCLOSE) Act requiring disclosure of corporate political spending, but Republican leadership blocks Senate consideration to protect dark money donors

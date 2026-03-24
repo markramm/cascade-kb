@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-10--legal-strategy-war-room
 date: '2025-03-10'
 title: Constitutional Defense Legal Strategy War Room Established
@@ -34,5 +34,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 In response to mounting challenges to constitutional governance, leading constitutional law experts create a centralized war room to develop rapid response strategies for potential institutional capture and constitutional violations. The initiative, involving a coalition of over 280 legal organizations including Democracy 2025 and Lawyers for Good Government (L4GG), focuses on coordinating strategic litigation, providing pro bono legal resources, and creating a comprehensive legal defense infrastructure to protect democratic institutions.

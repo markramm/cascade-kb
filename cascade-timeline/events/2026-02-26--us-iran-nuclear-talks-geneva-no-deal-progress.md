@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-26--us-iran-nuclear-talks-geneva-no-deal-progress
 date: '2026-02-26'
 title: 'US-Iran Nuclear Talks in Geneva Identify "Main Elements" of Deal but No Agreement Reached'
@@ -42,7 +42,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The third round of US-Iran indirect nuclear negotiations took place in Geneva on February 26, 2026, mediated by Oman. Steve Witkoff and Jared Kushner led the US delegation while Iranian Foreign Minister Abbas Araghchi headed Iran's team. Both sides described the talks as the "longest and most serious" yet, with negotiators reportedly identifying the "main elements of a possible agreement." However, fundamental gaps remained: the United States demanded that Iran eliminate uranium enrichment entirely, while Iran insisted on maintaining enrichment under International Atomic Energy Agency supervision.
 
 The day before the talks, the US imposed new sanctions on more than 30 individuals and entities as well as shadow fleet vessels used to circumvent existing oil sanctions—a move critics described as counterproductive to diplomacy and designed to demonstrate toughness rather than advance negotiations. The contradictory signals of sanctioning while negotiating reflected internal tensions within the administration between officials pursuing a deal and hardliners who preferred maximum pressure. The two sides agreed to continue technical discussions in Vienna, leaving open the possibility of future progress while acknowledging that the core enrichment dispute remained unresolved.

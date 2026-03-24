@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-22--democratic-states-redistricting-pact
 date: '2025-07-22'
 importance: 6
@@ -36,6 +36,6 @@ sources:
 notes: Complete breakdown of redistricting norms as both parties engage in mid-cycle gerrymandering warfare
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 New York, Illinois, Oregon, Washington, Maryland, and New Jersey announce coordinated mid-cycle redistricting efforts to counter Republican gerrymandering, effectively ending the constitutional norm of decennial redistricting tied to census.

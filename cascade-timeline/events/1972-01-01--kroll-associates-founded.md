@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-01-01--kroll-associates-founded
 date: '1972-01-01'
 importance: 6
@@ -50,6 +50,6 @@ capture_lanes:
 - Intelligence Penetration
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Jules Kroll launches Kroll Associates in New York, building a pioneering commercial model for corporate investigations and risk consulting. Kroll recruited many former government investigators from intelligence agencies like the CIA, FBI, Mossad, and MI5. The firm became known as the "CIA of Wall Street" and revolutionized corporate intelligence by developing sophisticated fact-finding techniques that transformed how businesses manage risk and investigate potential misconduct.

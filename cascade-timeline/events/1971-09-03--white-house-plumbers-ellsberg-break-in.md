@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1971-09-03--white-house-plumbers-ellsberg-break-in'
 date: '1971-09-03'
 title: 'White House Plumbers Break Into Daniel Ellsberg Psychiatrist Office Seeking Pentagon Papers Dirt'
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In September 1971, the White House Special Investigations Unit—mockingly known as the "Plumbers" because their mission was to stop leaks—broke into the Los Angeles office of Dr. Lewis Fielding, psychiatrist to Daniel Ellsberg, who had leaked the Pentagon Papers exposing government lies about the Vietnam War. The operation was led by E. Howard Hunt and G. Gordon Liddy, recruited by White House officials Chuck Colson and John Ehrlichman. The Plumbers had been organized under Egil "Bud" Krogh to stop leaks in the Nixon administration, functioning as an extra-legal domestic intelligence operation operating out of the White House itself. The break-in aimed to find information that could be used to discredit Ellsberg and undermine the anti-Vietnam War movement.
 

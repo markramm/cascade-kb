@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-24--halligan-indictments-dismissed-appointment-unconstitutional
 date: '2025-11-24'
 title: Judge Currie Dismisses Comey and James Indictments, Rules Halligan Appointment Unconstitutional
@@ -46,7 +46,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Patricia Tolliver Currie of the Eastern District of Virginia dismissed both the James Comey and Letitia James indictments, ruling that Lindsey Halligan's appointment as U.S. Attorney was unconstitutional.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-07-01--rfk-jr-covid-bioweapon-conspiracy
 date: '2023-07-01'
 title: RFK Jr claims COVID was ethnically targeted bioweapon sparing Jews and Chinese
@@ -39,6 +39,6 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert F. Kennedy Jr. falsely claimed COVID-19 was a bioweapon potentially designed by China to target specific racial groups, stating it disproportionately harmed Caucasians and Black people while Ashkenazi Jews and Chinese people were immune due to the virus's genetic structure. These scientifically baseless claims echoed antisemitic and racist conspiracy theories.

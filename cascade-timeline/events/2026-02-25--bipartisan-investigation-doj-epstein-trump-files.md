@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-25--bipartisan-investigation-doj-epstein-trump-files
 date: '2026-02-25'
 status: confirmed
@@ -38,7 +38,7 @@ capture_lanes:
 - Democratic Backsliding
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The House Oversight Committee launched a bipartisan investigation into DOJ's withholding of Trump-related Epstein files on February 25, 2026 — one day after NPR reported that approximately 53 pages of FBI interview records containing sexual abuse accusations against President Trump had been quietly removed from the public Epstein database despite AG Bondi's assurances that all files had been released.
 

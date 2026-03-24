@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-05-13--michael-cohen-testifies-trump-directed-hush-money-scheme
 date: '2024-05-13'
 title: Michael Cohen Testifies Trump Personally Directed Hush Money Scheme and Reimbursement Cover-Up
@@ -42,7 +42,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Michael Cohen, Donald Trump's former personal lawyer and self-described "fixer," took the witness stand and delivered devastating testimony that Trump personally directed the $130,000 hush money payment to Stormy Daniels and approved the scheme to disguise Cohen's reimbursement as legal expenses. Cohen's testimony provided the direct link between Trump and the alleged crimes, transforming documentary evidence of falsified business records into proof of a deliberate criminal conspiracy orchestrated by Trump himself.
 

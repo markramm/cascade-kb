@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1918-09-14--eugene-debs-sentenced-ten-years-antiwar-speech
 date: '1918-09-14'
 title: Eugene V. Debs Sentenced to Ten Years for Antiwar Speech, Runs for President from Prison
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal Judge David C. Westenhaver sentenced five-time Socialist Party presidential candidate Eugene V. Debs to ten years in federal prison for violating the Espionage Act by delivering an antiwar speech in Canton, Ohio on June 16, 1918. Before sentencing, Debs delivered his famous statement: "While there is a lower class, I am in it; while there is a criminal element, I am of it; while there is a soul in prison, I am not free."
 

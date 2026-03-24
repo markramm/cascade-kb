@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-03-01--trump-foundation-paid-trump-university-settlement
 date: 2013-03-01
 title: Trump Foundation Paid $25,000 to Settle Trump University Legal Claim Using Charity Funds
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Donald J. Trump Foundation illegally paid a $25,000 settlement related to Trump University litigation using tax-exempt charitable funds rather than Trump's personal or business accounts. This payment represented another instance of Trump using his charitable foundation as a personal checkbook to settle legal obligations arising from his for-profit business ventures. The payment was later revealed to have gone to Florida Attorney General Pam Bondi's political committee "And Justice for All" in September 2013, just as her office was reviewing whether to join New York's fraud investigation into Trump University.
 

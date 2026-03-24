@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-10-01--alec-electricity-freedom-act-attacks-renewable-energy-standards
 date: '2012-10-01'
 title: ALEC's 'Electricity Freedom Act' Systematically Attacks State Renewable Energy Standards
@@ -48,7 +48,7 @@ capture_lanes:
 - Legislative Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In October 2012, the American Legislative Exchange Council (ALEC) adopted the 'Electricity Freedom Act'—a model bill co-written with the fossil fuel-funded Heartland Institute that called for the nullification of state Renewable Energy Portfolio Standards (RPS). The legislation was explicitly designed to end state requirements for deriving specific percentages of electricity from renewable sources like solar and wind, protecting fossil fuel market dominance by attacking the regulatory infrastructure supporting clean energy transition. James Taylor of the Heartland Institute told The Washington Post: 'We wrote the model legislation and I presented it'—openly acknowledging the think tank's direct authorship of ALEC policy.
 

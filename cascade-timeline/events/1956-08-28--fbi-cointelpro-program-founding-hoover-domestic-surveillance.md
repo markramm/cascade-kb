@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-08-28--fbi-cointelpro-program-founding-hoover-domestic-surveillance
 date: '1956-08-28'
 title: FBI Director Hoover Launches COINTELPRO to Target Communist Party and Domestic Dissent
@@ -56,7 +56,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On August 28, 1956, FBI Director J. Edgar Hoover formally established COINTELPRO (Counter Intelligence Program), a covert and illegal program designed to surveil, infiltrate, discredit, and disrupt domestic political organizations. Initially targeting the Communist Party USA, the program would eventually expand to target civil rights organizations, antiwar movements, feminist groups, and virtually any organization Hoover deemed a threat to the existing social order.

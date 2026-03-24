@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-08-08--klan-march-washington-peak-institutional-influence
 date: '1925-08-08'
 title: KKK Marches on Washington at Peak of Institutional Influence
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Between 25,000 and 40,000 Ku Klux Klan members march down Pennsylvania Avenue in Washington, D.C., in a massive demonstration of the organization's political power at its peak. Marchers wear white robes but not masks, proudly displaying their faces in an assertion of mainstream respectability. The parade represents the Klan's successful transformation from a terrorist organization into a mass political movement claiming 4-6 million members nationwide and wielding decisive influence over state governments, local politics, and national party conventions.
 

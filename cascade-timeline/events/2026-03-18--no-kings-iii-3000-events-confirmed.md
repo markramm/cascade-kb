@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--no-kings-iii-3000-events-confirmed
 date: '2026-03-18'
 title: No Kings Coalition Confirms 3,000+ Events for March 28, Targeting 9 Million Participants
@@ -38,7 +38,7 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 18, 2026, the No Kings Coalition announced that more than 3,000 events had been confirmed across all 50 states for the March 28 day of action, with organizers setting an explicit target of 9 million participants. If achieved, it would constitute the largest single-day protest in United States history, surpassing the estimated 7 million who joined the October 2025 No Kings II mobilization.
 

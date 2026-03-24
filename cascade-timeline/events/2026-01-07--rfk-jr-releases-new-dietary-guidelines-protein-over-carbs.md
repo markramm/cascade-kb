@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-07--rfk-jr-releases-new-dietary-guidelines-protein-over-carbs
 date: '2026-01-07'
 title: 'RFK Jr Releases New Dietary Guidelines: ''Most Significant Reset of Federal Nutrition Policy in History'''
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 HHS Secretary Robert F. Kennedy Jr. and USDA Secretary Brooke Rollins released the Dietary Guidelines for Americans, 2025–2030, which Kennedy called "the most significant reset of federal nutrition policy in history." At a White House briefing, Kennedy declared: "As secretary of Health and Human Services, my message is clear: Eat real food."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-13--dhs-whistleblower-leaks-4500-ice-agents-data-icelist
 date: '2026-01-13'
 title: DHS Whistleblower Leaks Personal Data of 4,500 ICE and Border Patrol Agents
@@ -36,7 +36,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 A DHS whistleblower leaked the personal data of approximately 4,500 ICE and Border Patrol agents to ICE List, a volunteer-run accountability website, in what was described as the largest-ever breach of DHS staff data. The dataset included names, work emails, telephone numbers, roles, and resumé data including previous employment for approximately 2,000 frontline agents and 150 supervisors. About 80% of those identified remained employed by DHS.
 

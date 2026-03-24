@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1887-02-04--interstate-commerce-act-creates-federal-railroad-regulation
 date: '1887-02-04'
 title: 'Interstate Commerce Act: First Federal Regulatory Response to Corporate Monopoly'
@@ -37,7 +37,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 4, 1887, President Grover Cleveland approved the Interstate Commerce Act, creating the Interstate Commerce Commission (ICC) to oversee railroad industry conduct. This landmark legislation made railroads the first industry subject to federal regulation in American history, responding to decades of farmer protests and the regulatory vacuum created by the Supreme Court's 1886 Wabash v. Illinois decision that had stripped states of power to regulate interstate railroad rates. The Act represented a significant victory for the Granger Movement and Farmers Alliance/Populist coalition that had organized throughout the 1870s and 1880s against railroad monopolies' systematic exploitation.
 

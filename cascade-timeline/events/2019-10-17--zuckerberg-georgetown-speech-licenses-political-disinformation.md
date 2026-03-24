@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-10-17--zuckerberg-georgetown-speech-licenses-political-disinformation
 date: '2019-10-17'
 title: Zuckerberg Georgetown Speech Announces Facebook Will Not Fact-Check Political Ads, Licensing Trump Campaign Lies
@@ -46,7 +46,7 @@ capture_lanes:
 - Electoral Manipulation
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Mark Zuckerberg delivers major policy speech at Georgetown University announcing that Facebook will not fact-check political advertisements, effectively licensing the Trump campaign and other political actors to spread unlimited disinformation through paid advertising on the platform. The policy disproportionately benefits Trump's campaign and follows weeks after secret White House dinners with Trump, Kushner, and Peter Thiel.
 

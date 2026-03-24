@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-23--nra-wayne-lapierre-found-liable-corruption-verdict
 date: '2024-02-23'
 importance: 8
@@ -36,6 +36,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Manhattan jury found former NRA CEO Wayne LaPierre liable for $5.4 million in damages ($4.4M after partial repayment) and the NRA organization liable for failing to properly manage nonprofit assets from 2014-2022. The six-week trial revealed LaPierre's systematic misuse of charitable funds during his 30-year tenure, including chartered private jets, luxury vacations, and expensive gifts. CFO Wilson Phillips was found liable for $2 million in damages. The verdict confirmed the NRA failed to adopt required whistleblower protections and eight employees suffered retaliation. LaPierre resigned days before trial citing health issues, demonstrating how powerful executives evade accountability through strategic timing. The civil verdict contrasts with lack of criminal charges despite clear evidence of institutional looting, illustrating how nonprofit fraud by wealthy individuals faces minimal consequences compared to street-level crime. The case reveals regulatory failure in nonprofit oversight where board governance collapses under self-interested leadership.

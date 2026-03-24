@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1974-06-08'
 title: US-Saudi Economic Commission Agreement Signed
 actors:
@@ -36,6 +36,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Secretary of State Henry Kissinger and Saudi Crown Prince Fahd signed a framework agreement in Washington DC establishing the US-Saudi Arabian Joint Commission on Economic Cooperation. This historic agreement created both economic and military commissions aimed at promoting Saudi investments in the US in exchange for American cooperation in technology transfer and modernization of Saudi Arabia's armed forces. The signing ceremony occurred despite the Washington energy conference pledge in February 1974 that Western industrialized countries would not compete for preferential agreements with oil exporters - France notably abstained from this pledge. This agreement laid crucial groundwork for the petrodollar system by formalizing the structure through which Saudi oil revenues would be recycled into US Treasury securities and American investments, fundamentally reshaping the global financial system in the post-Bretton Woods era.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2008-07-29--ted-stevens-indicted-corruption-alaska
 date: 2008-07-29
@@ -46,7 +46,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Senator Ted Stevens (R-AK), the longest-serving Republican senator in history and former President Pro Tempore, was indicted on July 29, 2008, on seven felony counts of making false statements on his financial disclosure forms. The indictment alleged that Stevens knowingly failed to report more than $250,000 worth of gifts and home renovations from Bill Allen, CEO of the Alaska oil services company VECO Corporation, received between 2001 and 2006. VECO employees renovated Stevens's Girdwood, Alaska home, adding a new first floor, garage, wraparound deck, and plumbing and electrical work, among other gifts including furniture and a massage chair.
 

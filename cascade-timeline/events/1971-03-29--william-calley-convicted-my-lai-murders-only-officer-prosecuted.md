@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-03-29--william-calley-convicted-my-lai-murders-only-officer-prosecuted
 date: '1971-03-29'
 title: William Calley Convicted of My Lai Murders - Only Officer Prosecuted Despite Widespread Command Responsibility - Serves 3.5 Years House Arrest
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 After four months of proceedings, Lieutenant William Calley is found guilty on 22 counts of premeditated murder for his role in the My Lai massacre and sentenced to life in prison. Calley becomes the only person convicted for the mass killing of between 347 and 504 unarmed Vietnamese civilians, despite an Army board of inquiry headed by Lieutenant General William Peers producing a list of 30 persons who knew of the atrocity and recommending charges against 14 individuals including Calley's company commander, Captain Ernest Medina.
 

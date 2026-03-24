@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--crypto-appointees-193-million-holdings
 date: '2025-02-01'
 importance: 5
@@ -41,6 +41,6 @@ validation_metadata:
   - 'notes: ''Holdings include personal investments and stakes in crypto/blockchain companies. Trump himself reported a $51 million stake in digital asset ventures.'' → ''Holdings include personal investments and stakes in crypto/blockchain companies. Trump himself reported a $51 million stake in digital asset ventures.'''
   - 'summary: ''Over 70 Trump administration officials and nominees reported cryptocurrency holdings totaling at least $193 million, with Treasury Secretary Scott Bessent disclosing $250,000-$500,000 in digital assets before divesting to avoid conflicts of interest.'' → ''Over 70 Trump administration officials and nominees reported cryptocurrency holdings totaling at least $193 million, with Treasury Secretary Scott Bessent disclosing $250,000-$500,000 in digital assets before divesting to avoid conflicts of interest.'''
 ---
-type: solidarity_event
+type: timeline_event
 
 Over 70 Trump administration officials and nominees reported cryptocurrency holdings totaling at least $193 million, with Treasury Secretary Scott Bessent disclosing $250,000-$500,000 in digital assets before divesting to avoid conflicts of interest.

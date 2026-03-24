@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-02--trump-law-firms-pro-bono-settlements
 date: '2025-04-02'
 title: Trump Administration Pressures Law Firms into Pro Bono Settlements
@@ -40,5 +40,5 @@ connections:
 - Broader pattern of executive power manipulation
 - Coercive settlements with professional organizations
 ---
-type: solidarity_event
+type: timeline_event
 Multiple law firms entered into controversial pro bono settlements with the Trump administration, agreeing to provide services after facing potential executive orders threatening their federal contracts and access. These settlements, totaling approximately $1 billion in pro bono work, raised significant legal and ethical concerns about executive coercion.

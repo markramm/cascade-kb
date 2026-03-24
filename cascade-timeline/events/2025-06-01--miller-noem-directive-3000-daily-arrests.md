@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-01--miller-noem-directive-3000-daily-arrests
 date: '2025-06-01'
 title: Stephen Miller and Kristi Noem directive demands 3,000 daily ICE arrests
@@ -51,6 +51,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem issued a directive to ICE to arrest up to 3,000 immigrants each day - a more than fourfold increase from the previous daily average. This unprecedented quota system for immigration arrests represents a fundamental shift in enforcement priorities toward quantity over targeted enforcement.

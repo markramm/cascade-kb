@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-20--doj-removes-epstein-files-after-release-cover-up
 date: '2025-12-20'
 title: DOJ Removes 15+ Epstein Files After Release, Including Trump-Maxwell Photo
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 NPR identified more than a dozen files that the Department of Justice released on Friday, December 19, 2025, but which were no longer available on the DOJ's Epstein Library website by Saturday afternoon, December 20. The removed documents included a photograph showing President Trump, Jeffrey Epstein, and Ghislaine Maxwell together displayed in a desk drawer among other photographs, as well as images of massage rooms, nude photographs, and nude paintings.
 

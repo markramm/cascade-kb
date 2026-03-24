@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1935-11-09--cio-founded-industrial-union-organizing
 date: '1935-11-09'
 title: Congress of Industrial Organizations Founded, Challenges AFL Craft Unionism
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 9, 1935, John L. Lewis of the United Mine Workers met with leaders of eight unions—including Sidney Hillman of the Amalgamated Clothing Workers and David Dubinsky of the International Ladies Garment Workers Union—to formally establish the Committee for Industrial Organization within the AFL, launching the most significant labor organizing campaign in American history. The founding followed Lewis's dramatic October 19 confrontation at the AFL's Atlantic City convention, where years of tension between craft and industrial unionists exploded when Lewis intentionally provoked Carpenters President William Hutcheson, then knocked him to the ground with a punch to the face. The blow symbolized the irreconcilable split between the AFL's craft union elitism and the CIO's commitment to organizing all workers in core industries regardless of skill level.
 

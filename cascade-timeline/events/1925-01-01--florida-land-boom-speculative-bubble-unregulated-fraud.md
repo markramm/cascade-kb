@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-01-01--florida-land-boom-speculative-bubble-unregulated-fraud
 date: '1925-01-01'
 title: Florida Land Boom Epitomizes Unregulated Speculation and Securities Fraud
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Florida land boom reaches its speculative peak in 1925, with real estate transactions totaling an estimated $7 billion (equivalent to over $120 billion today) in a single year. Developers like Carl Fisher (Miami Beach), George Merrick (Coral Gables), and Addison Mizner (Boca Raton) orchestrate massive promotional campaigns promising tropical paradise to northern buyers, while "binder boys" flip properties multiple times per day using minimal down payments. The frenzy demonstrates how absence of securities regulation enables systematic fraud, as promoters sell underwater swampland, non-existent subdivisions, and properties they do not own to distant buyers who never inspect their purchases.
 

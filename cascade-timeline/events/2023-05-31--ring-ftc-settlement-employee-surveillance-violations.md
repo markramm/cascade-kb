@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Ring
 - Amazon
@@ -38,7 +38,7 @@ tags:
 - settlement
 title: FTC fines Ring $5.8 million for employees' illegal surveillance of customers' private videos
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Trade Commission announced a $5.8 million settlement with Ring after finding the company compromised customers' privacy by allowing employees and contractors to access private videos and failing to implement basic security protections that enabled hackers to take control of users' accounts and cameras. The FTC charged that Ring's privacy violations occurred between 2017 and 2020, during a period when the company was rapidly expanding its police partnerships and surveillance network.
 

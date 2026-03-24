@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-01--dhs-ends-sensitive-locations-policy-churches-schools
 date: '2025-07-01'
 title: DHS ends sensitive locations policy allowing ICE arrests at churches and schools
@@ -51,6 +51,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Homeland Security ended a long-standing policy that restricted ICE agents' ability to arrest undocumented people at sensitive locations including houses of worship, schools, and hospitals. DHS stated "Criminals will no longer be able to hide in America's schools and churches to avoid arrest," marking a significant escalation in enforcement tactics that breaks with decades of precedent.

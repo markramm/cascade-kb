@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-09-27--fed-presidents-resign-trading-scandal
 date: '2021-09-27'
 title: Dallas and Boston Fed Presidents Resign Over Trading Scandal
@@ -47,6 +47,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Robert Kaplan (Dallas Fed) and Eric Rosengren (Boston Fed) announce simultaneous resignations following massive public backlash over their 2020 trading activities. The scandal revealed deep ethical vulnerabilities in the Federal Reserve, where senior officials traded stocks during critical market interventions. Kaplan traded at least $1 million in 22 stocks, while Rosengren invested in mortgage-backed funds similar to those the Fed was purchasing. Their resignations came amid mounting pressure and scrutiny, highlighting systemic conflicts of interest in financial regulatory institutions. Senator Elizabeth Warren and other critics called for comprehensive reforms to prevent such ethical breaches in the future.

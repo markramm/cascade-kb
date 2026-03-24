@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1970-12-29--occupational-safety-health-act-creates-osha-worker-protection
 date: '1970-12-29'
 title: Occupational Safety and Health Act Creates OSHA After Decades of Industry Opposition to Workplace Safety
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 29, 1970, President Richard Nixon signed the Occupational Safety and Health Act, creating the Occupational Safety and Health Administration (OSHA) and establishing for the first time comprehensive federal authority to set and enforce workplace safety standards. The legislation responded to an epidemic of workplace injuries and deaths that had been tolerated for decades while industry successfully blocked regulation.
 

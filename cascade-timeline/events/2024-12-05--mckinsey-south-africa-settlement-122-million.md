@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-12-05--mckinsey-south-africa-settlement-122-million
 date: '2024-12-05'
 title: McKinsey Africa Agrees to Pay $122 Million Settlement for Bribery of South African Officials
@@ -43,7 +43,7 @@ capture_lanes:
 - Corporate Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 McKinsey Africa enters into a three-year deferred prosecution agreement with the U.S. Department of Justice, agreeing to pay more than $122 million (approximately R2.2 billion) to resolve criminal charges for conspiracy to violate the anti-bribery provisions of the Foreign Corrupt Practices Act. The charges stem from McKinsey Africa's role in bribing officials at South Africa's state-owned Transnet and Eskom between 2012 and 2016.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-16--ice-operation-buckeye-columbus-afghan-deportations
 date: '2025-12-16'
 importance: 9
@@ -56,7 +56,7 @@ sources:
 notes: ICE launched Operation Buckeye December 16 in Columbus and throughout Ohio, officially targeting "worst of the worst criminal illegal aliens" but in practice arresting Afghan refugees who legally entered through CBP One program after fleeing Taliban. Afghan individuals summoned to routine immigration appointments and arrested despite legal entry. Follows November National Guard shooting by Afghan man, prompting targeting of entire Afghan community. Columbus Mayor Ginther condemned "unwelcome intervention," confirmed city not cooperating with ICE. Operation terrorized immigrant communities with reports of workplace and gas station detentions. Immigration attorneys report clients detained during official appointments despite following legal procedures. Afghan translators who worked with U.S. military now facing deportation back to Taliban-controlled Afghanistan.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Immigration and Customs Enforcement launched "Operation Buckeye" on December 16, 2025, in Columbus and throughout Ohio, officially characterizing the enforcement action as targeting "the worst of the worst criminal illegal aliens" with convictions for felony drug possession, assault, DUIs, and other crimes, but in practice conducting sweeping arrests of Afghan refugees who legally entered the United States through the CBP One program after fleeing Taliban persecution—including former Afghan military translators who worked with U.S. forces and who now face deportation back to Taliban-controlled Afghanistan where they face likely execution. The operation represents a particularly egregious betrayal of legal immigration pathways, with ICE summoning Afghan individuals to routine immigration appointments and arresting them upon arrival despite their legal entry status, transforming what should be safe administrative processes into bait-and-switch traps that exploit immigrants' compliance with legal requirements to facilitate deportation. Columbus city leaders condemned the federal enforcement operations as an "unwelcome intervention" in a city that has not requested assistance and reaffirmed Columbus's policy of non-cooperation with ICE, while immigrant communities throughout central Ohio experienced widespread fear and confusion as reports of ICE detentions at gas stations, workplaces, and immigration offices spread through neighborhoods with substantial immigrant populations.
 

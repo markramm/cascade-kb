@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-10--starlink-installed-white-house-roof-security-concerns
 date: '2025-06-10'
 title: 'Musk''s Starlink Installed on White House Roof Raises Cybersecurity and Conflict of Interest Concerns'
@@ -57,7 +57,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 A Starlink satellite internet terminal belonging to Elon Musk's SpaceX was installed on the White House roof, raising immediate concerns about cybersecurity vulnerabilities and unprecedented conflicts of interest. The installation gives Musk's company direct communication infrastructure at the seat of American government.
 
 Cybersecurity experts warned that the Starlink terminal could potentially be used to bypass official White House communications systems, creating shadow channels outside normal security protocols. The installation also raises questions about data security—Starlink traffic routes through SpaceX infrastructure, theoretically giving Musk's company visibility into White House communications.

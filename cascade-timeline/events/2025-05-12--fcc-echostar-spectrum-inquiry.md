@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-12--fcc-echostar-spectrum-inquiry
 date: '2025-05-12'
 title: FCC Launches Inquiry into EchoStar's Satellite Spectrum Utilization
@@ -41,6 +41,6 @@ connections:
 status: confirmed
 notes: Regulatory inquiry led to significant spectrum license sale. Demonstrates complex telecommunications infrastructure capture mechanisms.
 ---
-type: solidarity_event
+type: timeline_event
 
 FCC Chairman Brendan Carr initiated an official inquiry into EchoStar's Mobile Satellite Services (MSS) spectrum utilization after SpaceX challenged the company's license compliance. SpaceX alleged EchoStar was using less than 5% of its allocated spectrum, potentially setting the stage for license reallocation. This inquiry coincided with broader FCC efforts to optimize spectrum efficiency and promote 5G and satellite communication infrastructure.

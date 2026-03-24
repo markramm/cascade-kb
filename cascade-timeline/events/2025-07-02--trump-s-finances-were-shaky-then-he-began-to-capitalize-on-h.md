@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-02--trump-s-finances-were-shaky-then-he-began-to-capitalize-on-h
 date: '2025-07-02'
 title: Trump’s finances were shaky. Then he began to capitalize on his comeback
@@ -50,6 +50,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump has increased his net worth by billions of dollars through business deals he made since returning to office—though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities

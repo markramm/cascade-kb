@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge
 date: '2026-01-07'
 importance: 9
@@ -41,7 +41,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 ICE agent Jonathan Ross shoots and kills Renee Nicole Good, 37, during Operation Metro Surge immigration enforcement action in Minneapolis. Good, a substitute teacher and poet who graduated from Old Dominion University in 2020, was present as a legal observer—exercising constitutionally protected First Amendment rights to document government enforcement actions. She had dropped her 6-year-old son at school that morning before heading to observe the operation.
 

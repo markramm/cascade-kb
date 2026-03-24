@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-23--scotus-declines-texas-journalist-press-freedom-case
 date: '2026-03-23'
 title: Supreme Court Declines Citizen Journalist Case, Sotomayor Dissents on First Amendment Arrest
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 23, 2026, the Supreme Court declined to hear the case of Priscilla Villarreal, known online as "La Gordiloca," a citizen journalist in Laredo, Texas, who was arrested in 2017 for publishing stories that included information sourced from a local police officer. The court's refusal to grant certiorari left in place a Fifth Circuit en banc ruling that had reversed an earlier panel decision favorable to Villarreal, effectively allowing Texas's unusually broad information-solicitation statute to be used against journalists.
 

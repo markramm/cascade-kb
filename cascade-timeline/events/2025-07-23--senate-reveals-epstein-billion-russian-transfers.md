@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-23--senate-reveals-epstein-billion-russian-transfers
 date: '2025-07-23'
 title: Senate Investigation Reveals Epstein's Billion-Dollar Russian Bank Transfers Linked to Trafficking
@@ -52,7 +52,7 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 A comprehensive Senate Finance Committee investigation led by Senator Ron Wyden uncovered massive financial evidence demonstrating Jeffrey Epstein's complex international money laundering and trafficking operations. The Treasury Department's analysis revealed over 4,725 wire transfers totaling approximately $1.1 billion through sanctioned Russian banks, with transactions strongly correlated to the movement of women and girls from Russia, Belarus, Turkey, and Turkmenistan.
 

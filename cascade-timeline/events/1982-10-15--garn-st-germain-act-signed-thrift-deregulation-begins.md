@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-10-15--garn-st-germain-act-signed-thrift-deregulation-begins
 date: '1982-10-15'
 title: 'Reagan Signs Garn-St Germain Act: Massive Thrift Deregulation'
@@ -51,6 +51,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Reagan signs the Garn-St Germain Depository Institutions Act in the Rose Garden, calling it "the most important legislation for financial institutions in the last 50 years." The Act removes Depression-era constraints on thrift asset holdings, allows S&Ls to make high-risk commercial real estate loans and variable-rate mortgages, and creates new money market deposit accounts. Industry lobbying achieves regulatory capture as the Act passes Congress 272-91 despite concerns about risk. The deregulation enables thrifts to "grow out of" insolvency problems by taking greater risks with federally-insured deposits, setting up the conditions for the S&L crisis.

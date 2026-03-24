@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-03-01--peter-thiel-hires-vance-at-mithril-capital-1757456537
 date: '2017-03-01'
 title: Peter Thiel Hires Vance at Mithril Capital
@@ -35,5 +35,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Peter Thiel brings J.D. Vance into his global investment firm Mithril Capital as an investor, marking a significant moment in Vance's early professional career. This relationship positioned Vance within Thiel's influential tech and venture capital network, setting the stage for Vance's future political trajectory.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-12-15--nsa-whistleblower-russell-tice-reports-illegal-surveillance
 date: '2005-12-15'
 title: NSA Whistleblower Russell Tice Reports Illegal Domestic Surveillance
@@ -39,6 +39,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 NSA intelligence analyst Russell Tice contacts the Senate Intelligence Committee and journalists to report illegal domestic surveillance programs targeting American citizens without warrants. Tice revealed that NSA was conducting mass surveillance of Americans' communications under programs that violated FISA and the Fourth Amendment. His disclosures preceded and corroborated the New York Times' reporting on warrantless surveillance, showing systematic constitutional violations.

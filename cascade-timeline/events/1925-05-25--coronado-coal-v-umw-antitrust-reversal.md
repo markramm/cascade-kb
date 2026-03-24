@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-05-25--coronado-coal-v-umw-antitrust-reversal
 date: '1925-05-25'
 title: Supreme Court Reverses Coronado Decision, Opens Unions to Antitrust Liability
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court unanimously reverses its 1922 Coronado decision, ruling that the United Mine Workers local union violated the Sherman Antitrust Act by conspiring to restrain interstate commerce in coal. After the Court's first ruling favored the union by finding insufficient evidence of intent to affect interstate trade, Coronado Coal Company returned with an amended complaint demonstrating that union members refused to work on buildings constructed with non-union coal, which the Court now deems proof of conspiracy to suppress competition. Chief Justice William Howard Taft writes that when "intent to restrain trade" accompanies a decrease in production, a previously "indirect and remote obstruction" becomes direct interference violating antitrust law.
 

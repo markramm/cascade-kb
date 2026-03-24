@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-11--lapd-tro-press
 title: Federal court restrains LAPD use of less-lethal force against journalists
 date: '2025-07-11'
@@ -43,5 +43,5 @@ sources:
   date: '2025-07-11'
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 A federal judge issued a temporary restraining order on July 11, 2025, prohibiting LAPD from using less-lethal munitions, rubber bullets, and chemical agents against clearly identified journalists covering protests in Los Angeles. The order also bars police from forcibly removing journalists from protest areas. This followed multiple incidents of journalists being injured during coverage of immigration and political protests in LA.

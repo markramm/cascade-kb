@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-10-07--higher-education-act-reauthorization-for-profit-college-boom
 date: '1998-10-07'
 title: Higher Education Act Reauthorization Loosens Regulations, Enables For-Profit College Explosion
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 7, 1998, President Bill Clinton signed the Higher Education Amendments of 1998, a reauthorization of the Higher Education Act that loosened regulations on for-profit colleges and set the stage for the industry's explosive growth over the following decade. The legislation represented a major victory for for-profit education lobbyists who had successfully portrayed regulatory oversight as barriers to "innovation" and "access."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-19--pirro-dc-crime-data-investigation
 date: '2025-08-19'
 title: Trump-Appointed US Attorney Investigates DC Police for 'Fake' Crime Data
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 US Attorney Jeanine Pirro launched a Justice Department investigation into whether DC police manipulated crime statistics to make rates appear lower, despite violent crime being down 26% and at a 30-year low. The investigation provides justification for Trump's federal takeover of DC police and deployment of 800 National Guard troops.
 

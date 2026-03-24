@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--columbia-university-settlement-foreign-student-monitoring
 date: '2025-08-01'
 title: Columbia University Agrees to Monitor Foreign Students for Trump Administration in $221 Million Settlement
@@ -36,7 +36,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Columbia University agreed to pay $221 million ($200 million to the federal government over three years and $21 million for EEOC settlements) to settle Trump administration claims of failing to police antisemitism, while accepting unprecedented requirements for monitoring foreign students. The settlement mandates that Columbia reduce its 'dependence on international student enrollment' and ensure students are 'committed to the longstanding traditions of American universities,' with an oversight monitor receiving specific data on foreign students starting October 2025.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-31--trump-admin-freezes-title-x-planned-parenthood-funding
 date: '2025-03-31'
 title: Trump Administration Freezes Title X Funding to Planned Parenthood Affiliates
@@ -36,7 +36,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 31, 2025, nine Planned Parenthood affiliates and seven other nonprofit grantees received notice from the Trump administration that Title X family planning funding would be withheld effective April 1. The funding freeze affected 16 out of 86 current Title X grantees, targeting all nine Planned Parenthood grantees specifically.
 

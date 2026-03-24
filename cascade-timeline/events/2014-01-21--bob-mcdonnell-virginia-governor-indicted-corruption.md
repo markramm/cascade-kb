@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-21--bob-mcdonnell-virginia-governor-indicted-corruption
 date: 2014-01-21
 title: Former Virginia Governor Bob McDonnell and Wife Indicted on Federal Corruption
@@ -37,7 +37,7 @@ sources:
   tier: 3
   outlet: Wikipedia
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Virginia Governor Bob McDonnell and his wife Maureen were indicted on 14 counts of fraud and conspiracy by a federal grand jury, making McDonnell the first Virginia governor to be indicted or convicted of a felony. The charges stemmed from their acceptance of more than $175,000 in gifts, loans, and other benefits from Jonnie Williams Sr., former CEO of Star Scientific, a company developing a tobacco-derived nutritional supplement called Anatabloc.
 

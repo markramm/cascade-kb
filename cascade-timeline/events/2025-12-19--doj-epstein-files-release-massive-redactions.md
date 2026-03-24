@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-19--doj-epstein-files-release-massive-redactions
 date: '2025-12-19'
 title: DOJ Releases Heavily Redacted Epstein Files, 550+ Pages Completely Blacked Out
@@ -46,7 +46,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice released its first tranche of Jeffrey Epstein investigation files on December 19, 2025, following passage of the Epstein Files Transparency Act signed by President Trump on November 19, 2025. The law gave the Attorney General 30 days to release all documents related to Epstein's sex trafficking network, including materials about "entities (corporate, nonprofit, academic, or governmental) with known or alleged ties to Epstein's trafficking or financial networks."
 

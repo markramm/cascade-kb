@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Elon Musk
 - SpaceX
@@ -50,5 +50,5 @@ tags:
 - elon-musk
 title: 'Elon Musk''s Starlink Expands Rapidly in Federal Government Infrastructure'
 ---
-type: solidarity_event
+type: timeline_event
 Starlink has secured contracts and deployed internet infrastructure across multiple federal agencies, including the FAA, GSA, and Customs and Border Protection. The rapid adoption has raised concerns about potential conflicts of interest, particularly given Musk's close ties to the Trump administration and ongoing efforts to influence government technology procurement.

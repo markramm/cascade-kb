@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2008-04-13'
 title: Google Acquires DoubleClick for $3.1B, Creating Advertising Monopoly
 description: Google completed its $3.1 billion acquisition of DoubleClick, the dominant online advertising server, after FTC approved the merger despite clear monopoly creation. The acquisition combined Google's search advertising dominance with DoubleClick's display advertising infrastructure, giving Google control over both buy-side (AdWords) and sell-side (DoubleClick for Publishers) of the advertising marketplace. This vertical integration across the entire ad tech stack allowed Google to self-preference at every layer, manipulate auctions, extract monopoly rents from publishers taking 30-50% of ad revenues, and create insurmountable barriers to competition. FTC Commissioner Pamela Jones Harbour dissented, warning the merger would harm competition. Her concerns proved correct—the acquisition became the foundation for Google's advertising monopoly that the DOJ would seek to break up fifteen years later in 2023.
@@ -57,7 +57,7 @@ connections:
 - Publisher exploitation through monopoly
 notes: Retrospectively viewed as one of the worst merger approvals in FTC history. Created vertically-integrated ad monopoly that DOJ would later seek to break up. Commissioner Harbour's dissent proved prescient.
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 13, 2008, Google completed its $3.1 billion acquisition of DoubleClick, the dominant online advertising server and ad exchange operator. The merger, approved by the Federal Trade Commission in December 2007, combined Google's search advertising dominance with DoubleClick's display advertising infrastructure—creating what would become an unassailable advertising technology monopoly.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-05-15--fcc-approves-paid-prioritization-fast-lanes-proposal-wheeler
 date: '2014-05-15'
 title: FCC Approves Paid Prioritization "Fast Lanes" Proposal Despite Massive Public Backlash
@@ -41,7 +41,7 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Communications Commission votes 3-2 to advance Chairman Tom Wheeler's controversial proposal that would permit internet service providers to charge content companies for priority "fast lane" access to consumers, fundamentally threatening net neutrality principles. The proposal, which emerged after the January 2014 Verizon court decision struck down previous net neutrality rules, would allow ISPs to negotiate paid prioritization deals as long as the terms were deemed "commercially reasonable"—a vague standard that critics argued would inevitably favor deep-pocketed corporations over startups and individual creators.
 

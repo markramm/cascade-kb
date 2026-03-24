@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists
 date: '2026-02-12'
 status: confirmed
@@ -28,7 +28,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi acknowledged for the first time during her February 11, 2026, House Judiciary Committee testimony that the Department of Justice maintains a secret list of domestic terrorist organizations, confirming long-suspected surveillance practices that operate without public transparency or congressional oversight. The admission came during questioning about DOJ's targeting of political opponents and civil rights activists, adding to concerns about the weaponization of terrorism designations against domestic political movements.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-08-21--stone-podesta-tweet
 date: '2016-08-21'
 importance: 6
@@ -41,5 +41,5 @@ sources:
 notes: 'Direct evidence of campaign coordination with Russian intelligence operations. Rep. Adam Schiff asked - "Is it a coincidence that Roger Stone predicted that John Podesta would be a victim of a Russian hack and have his private emails published, and did so even before Mr. Podesta himself was fully aware that his private emails would be exposed?"'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Roger Stone tweeted "Trust me, it will soon be the Podesta's time in the barrel" on August 21, 2016 - 47 days before WikiLeaks released Podesta emails on October 7. Even Podesta himself didn't know about the hack until WikiLeaks began leaking. Stone claimed he meant Podesta's business dealings, not emails, despite telling Florida GOP group on August 10 he had "communicated with Julian Assange."

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-06-16--alito-votes-award-singer-2-4-billion
 date: '2014-06-16'
 importance: 10
@@ -45,6 +45,6 @@ sources:
 notes: Avoid phrasing that the Court 'awarded $2.4B'—the 2014 opinion concerned discovery, not damages. The ProPublica report has sparked ethics and recusal debates but does not allege a quid pro quo.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In Republic of Argentina v. NML Capital (2014), the Supreme Court held that the Foreign Sovereign Immunities Act does not bar post‑judgment discovery into a foreign sovereign's assets, facilitating creditor collection efforts including by Paul Singer's NML Capital. Justice Samuel Alito joined the 7‑1 majority decision. ProPublica later reported Alito took an undisclosed 2008 private‑jet fishing trip with Singer and did not recuse from the case, raising ethics and conflict-of-interest concerns.

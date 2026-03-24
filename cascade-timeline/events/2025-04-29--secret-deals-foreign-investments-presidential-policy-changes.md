@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--secret-deals-foreign-investments-presidential-policy-changes
 date: '2025-04-29'
 title: Trump's World Liberty Financial Reveals Major Foreign Crypto Investments
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's cryptocurrency firm, World Liberty Financial, made $550 million through secret payments from foreign entities, including a $2 billion investment from an Abu Dhabi state-backed firm and $75 million from Chinese investor Justin Sun, raising significant conflict of interest concerns.

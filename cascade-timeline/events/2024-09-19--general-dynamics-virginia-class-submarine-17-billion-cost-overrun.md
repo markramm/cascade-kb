@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-19--general-dynamics-virginia-class-submarine-17-billion-cost-overrun
 date: '2024-09-19'
 title: General Dynamics Virginia-Class Submarine Program Revealed to Be $17 Billion Over Budget with 2-3 Year Delays
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Representative Ken Calvert, chairman of the House defense appropriations subcommittee, disclosed that General Dynamics' Virginia-class submarine program faced a projected $17 billion cost overrun through 2030, increasing the program's total cost from $184 billion and delaying submarine deliveries by 24-36 months. Calvert revealed that "the Navy and shipbuilders have known about this shortfall for at least 18 months" but "Congress was notified just two weeks ago" before a classified hearing with Navy Secretary Carlos Del Toro—demonstrating systematic concealment of cost growth from congressional oversight. The disclosure exposed catastrophic failure in General Dynamics Electric Boat and Huntington Ingalls Industries' submarine construction, with contractors producing only 1.2 submarines annually against a target of two per year despite receiving over $10 billion in supplemental industrial base funding since 2018.
 

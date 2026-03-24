@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-08-02--sec-drops-exxon-climate-investigation-under-trump
 date: '2018-08-02'
 title: SEC Drops ExxonMobil Climate Investigation Under Trump Administration
@@ -42,7 +42,7 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 2, 2018, the Trump administration's Securities and Exchange Commission (SEC) dropped its two-year investigation into how ExxonMobil factors climate change regulations into its calculations of asset values. The SEC informed the energy giant in a letter dated Thursday that it would "not recommend an enforcement action against the company at this time." The decision came during the Trump presidency, when former ExxonMobil CEO Rex Tillerson had served as Secretary of State, and represented a major accountability failure for corporate climate fraud.
 

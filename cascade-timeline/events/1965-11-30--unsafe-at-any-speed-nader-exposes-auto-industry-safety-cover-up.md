@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-11-30--unsafe-at-any-speed-nader-exposes-auto-industry-safety-cover-up
 date: '1965-11-30'
 title: Ralph Nader Publishes Unsafe at Any Speed Exposing Auto Industry's Deadly Design Choices
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 30, 1965, attorney Ralph Nader published "Unsafe at Any Speed: The Designed-In Dangers of the American Automobile," a meticulously researched indictment of the auto industry's prioritization of styling and profits over passenger safety. The book documented how manufacturers knowingly designed and sold vehicles with lethal defects while actively resisting safety improvements and suppressing internal safety research.
 

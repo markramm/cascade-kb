@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-08-01--snowden-temporary-asylum-russia-one-year
 date: '2013-08-01'
 title: Russia Grants Snowden Temporary Asylum After 39 Days in Moscow Airport
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 After spending 39 days confined to the transit zone of Moscow's Sheremetyevo International Airport, Edward Snowden was granted temporary asylum in Russia for one year on August 1, 2013. Russian authorities had restricted Snowden to the airport terminal after observing that U.S. authorities had canceled his passport, leaving him in legal limbo as a stateless person unable to travel further to Ecuador or other countries considering his asylum requests.
 

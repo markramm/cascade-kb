@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-21--administration-defying-35-percent-court-orders
 date: '2025-07-21'
 importance: 10
@@ -64,5 +64,5 @@ noncompliance_details:
   noncompliance_rate: 35
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Comprehensive analysis reveals the Trump administration defied 57 of 165 adverse court rulings (35% noncompliance), marking an unprecedented challenge to judicial authority. Multiple legal experts warn this pattern represents a critical constitutional crisis, with potential breakdown of checks and balances. Key areas of defiance include immigration, executive power, and regulatory actions.

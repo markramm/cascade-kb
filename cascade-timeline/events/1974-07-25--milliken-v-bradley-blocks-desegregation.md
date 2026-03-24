@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-07-25--milliken-v-bradley-blocks-desegregation
 date: '1974-07-25'
 title: Milliken v. Bradley - Supreme Court Blocks Cross-District School Desegregation, Entrenches White Flight
@@ -38,7 +38,7 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 25, 1974, the Supreme Court issued its 5-4 ruling in Milliken v. Bradley, effectively ending meaningful school desegregation efforts across metropolitan America by prohibiting cross-district busing remedies to address urban-suburban segregation. The decision exempted wealthy white suburbs from any obligation to remedy segregation patterns they benefited from, entrenching a two-tiered educational system that persists to this day.
 

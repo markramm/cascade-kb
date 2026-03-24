@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-01--440-voter-restriction-bills-49-states-alec-coordinated-wave
 date: 2021-01-01
 title: 440 Voter Restriction Bills Introduced in 49 States - ALEC's Largest Suppression Wave
@@ -42,7 +42,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Throughout 2021, at least 440 bills containing voter restriction provisions were introduced across 49 states, representing the largest coordinated assault on voting rights since Jim Crow and demonstrating ALEC's systematic model legislation deployment at unprecedented scale. The Brennan Center for Justice documented that state legislatures enacted far more restrictive voting laws in 2021 than in any year since tracking began in 2011—with more than one-third of all restrictive measures passed in the decade occurring in this single year.
 

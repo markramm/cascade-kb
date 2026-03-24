@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-10--netflix-warner-antitrust-intervention
 date: '2025-12-10'
 title: Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
@@ -42,7 +42,7 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
 

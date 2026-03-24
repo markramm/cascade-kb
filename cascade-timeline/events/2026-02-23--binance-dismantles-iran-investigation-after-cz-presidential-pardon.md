@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-23--binance-dismantles-iran-investigation-after-cz-presidential-pardon
 date: '2026-02-23'
 title: 'Binance Dismantled Internal Investigation After Flagging $1B+ to Iranian Networks'
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Binance, the world's largest cryptocurrency exchange, dismantled its internal investigation and fired compliance staff after they flagged more than $1 billion flowing to Iranian networks tied to sanctioned entities. The dismantling followed Trump's presidential pardon of Binance founder Changpeng Zhao, who had been convicted of money laundering charges. The sequence—pardon, then removal of compliance controls that were detecting sanctions violations—illustrates how presidential clemency can directly enable ongoing financial crimes.
 
 Zhao attended a Trump crypto conference at Mar-a-Lago with Trump's sons and administration officials shortly after his pardon, cementing the transactional nature of the relationship. The pardon of a convicted money launderer who then presides over the dismantling of compliance systems detecting billion-dollar sanctions violations represents a direct threat to the integrity of the U.S. financial sanctions regime, which is a primary tool of American foreign policy and national security.

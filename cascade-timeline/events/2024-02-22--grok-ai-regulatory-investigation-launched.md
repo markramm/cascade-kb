@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-22--grok-ai-regulatory-investigation-launched
 date: '2024-02-22'
 title: 'AI Regulatory Bodies Begin Scrutiny of xAI''s Grok'
@@ -34,5 +34,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 While no specific FTC investigation was definitively confirmed in 2024, xAI's Grok AI faced increasing regulatory attention from multiple agencies. The AI chatbot encountered potential regulatory challenges related to content generation practices, data privacy, and AI safety, particularly in European jurisdictions and US federal agencies.

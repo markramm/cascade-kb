@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2023-12-01'
 title: Vance Endorses Claremont Institute Authoritarian Policy Document
 actors:
@@ -40,5 +40,5 @@ capture_lanes:
 - Legislative Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 Senator J.D. Vance continues to endorse Claremont Institute publications advocating for authoritarian governance approaches, part of a broader pattern of promoting right-wing ideological frameworks that challenge democratic norms. During a December 2023 speaking engagement, Vance aligned with the institute's controversial political philosophy, suggesting a deep ideological connection to their anti-democratic policy proposals.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-02-01--indiana-right-to-work-alec-model-legislation
 date: '2012-02-01'
 title: Indiana Becomes 23rd Right-to-Work State Using ALEC Model Legislation
@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Indiana Governor Mitch Daniels signs right-to-work legislation making Indiana the 23rd state and the first in the Rust Belt manufacturing region to prohibit mandatory union membership or fees as a condition of employment. The bill is sponsored by multiple ALEC members and follows ALEC's model Right to Work Act that the organization had been promoting since 1979, demonstrating the coordinated corporate strategy behind state-level labor suppression.
 

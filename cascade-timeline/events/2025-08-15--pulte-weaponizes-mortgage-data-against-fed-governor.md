@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor
 date: '2025-08-15'
 title: FHFA Director Pulte Uses Mortgage Data to Target Fed Governor Lisa Cook
@@ -55,5 +55,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 William Pulte, Trump's FHFA Director, accesses private mortgage application data to accuse Fed Governor Lisa Cook of fraud for listing two properties as primary residences, part of pattern targeting Trump's political opponents.

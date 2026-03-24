@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-04-01--mckinsey-rikers-final-report-violence-continues-to-soar
 date: '2017-04-01'
 title: McKinsey Delivers Final Rikers Report After Violence Soars Nearly 50% During Contract Period
@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In April 2017, McKinsey partners send a confidential final report to the New York City corrections commissioner after spending almost three years leading their project at Rikers Island. The contract, which ultimately cost $27.5 million, ends with violence at the jail complex having increased by almost 50% compared to when McKinsey was first hired in 2014.
 

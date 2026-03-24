@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-05--mamdani-wins-nyc-mayor-historic-muslim-victory
 date: '2025-11-05'
 title: 'Zohran Mamdani Elected NYC Mayor: First Muslim, Youngest in Century'
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Zohran Mamdani won New York City's mayoral election on November 5, 2025, making history as the first Muslim mayor, the first person of South Asian descent, and at age 34, the youngest mayor in over a century. With nearly 90% of votes counted, Mamdani secured 50.4% of the vote, defeating former Governor Andrew Cuomo (running as an Independent) who received 41.6%, and Republican Curtis Sliwa with 7.1%. The Associated Press called the race at 9:34 PM ET, less than 40 minutes after polls closed.
 

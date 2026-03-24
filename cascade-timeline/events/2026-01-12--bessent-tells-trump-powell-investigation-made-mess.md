@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-12--bessent-tells-trump-powell-investigation-made-mess
 date: '2026-01-12'
 title: Treasury Secretary Bessent Tells Trump Powell Criminal Investigation 'Made a Mess'
@@ -29,7 +29,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Treasury Secretary Scott Bessent told people he was unhappy with the decision to criminally investigate Federal Reserve Chair Jerome Powell and conveyed those concerns directly to President Trump in a call on Sunday, January 12. Sources indicated Bessent told Trump the investigation "made a mess" and could harm financial markets.
 

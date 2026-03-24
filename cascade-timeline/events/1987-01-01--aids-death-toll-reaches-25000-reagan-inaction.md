@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-01-01--aids-death-toll-reaches-25000-reagan-inaction
 date: '1987-01-01'
 title: 'AIDS Death Toll Reaches 25,000: Reagan Administration Inaction Continues'
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 By early 1987, over 25,000 Americans have died of AIDS-related illnesses, yet President Reagan has still not delivered a major public address on the epidemic despite six years of crisis. Reagan does not give his first comprehensive AIDS speech until May 1987, by which time the death toll exceeds 20,000 and the disease has spread far beyond the initial affected communities. The administration's years of inaction and inadequate funding have devastating consequences: without federal leadership on prevention education, testing infrastructure, or research funding, the epidemic explodes through vulnerable populations, disproportionately killing gay men, people who use drugs, people of color, and low-income Americans.
 

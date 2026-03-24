@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-05-04--oliver-north-convicted-iran-contra
 date: 1989-05-04
 title: Oliver North Convicted of Iran-Contra Felonies, Later Overturned on Immunity
@@ -36,7 +36,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Lieutenant Colonel Oliver North is convicted on May 4, 1989, of three felony charges stemming from his central role in the Iran-Contra scandal: accepting an illegal gratuity (a security fence for his home), aiding and abetting in the obstruction of a congressional inquiry, and ordering the destruction of documents through his secretary Fawn Hall. U.S. District Judge Gerhard Gesell sentences North on July 5, 1989, to a three-year suspended prison term, two years probation, $150,000 in fines, and 1,200 hours of community service.
 

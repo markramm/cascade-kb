@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-10--presidential-accountability-judicial-paralysis
 date: '2025-04-10'
 title: Judicial System Struggles with Presidential Accountability Mechanisms
@@ -37,5 +37,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A series of federal court rulings reveals systemic weaknesses in holding the executive branch accountable. Multiple circuit courts issue conflicting opinions on subpoena enforcement, executive privilege, and criminal investigations, demonstrating a fundamental breakdown in traditional checks and balances.

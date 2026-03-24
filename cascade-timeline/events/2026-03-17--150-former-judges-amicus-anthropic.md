@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--150-former-judges-amicus-anthropic
 date: '2026-03-17'
 title: ~150 Retired Federal and State Judges File Bipartisan Amicus Brief Supporting Anthropic Against Pentagon Blacklist
@@ -29,7 +29,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, approximately 150 retired federal and state judges filed a bipartisan amicus curiae brief in the Northern District of California supporting Anthropic's challenge to the Pentagon's supply chain risk designation. The filing represented an extraordinary intervention by members of the judiciary in a dispute between a private company and the executive branch, underscoring the degree to which the legal community viewed the case as raising fundamental questions about government overreach and the rule of law.
 

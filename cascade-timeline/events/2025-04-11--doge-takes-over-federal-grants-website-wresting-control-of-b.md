@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-11--doge-takes-over-federal-grants-website-wresting-control-of-b
 date: '2025-04-11'
 title: Musk's DOGE Team Gains Control of Federal Payment System
@@ -46,6 +46,6 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In an unprecedented move, Elon Musk's Department of Government Efficiency (DOGE) secured access to the U.S. Treasury's federal payment system, sparking intense controversy among Democratic senators who view this as a potential risk to national financial infrastructure and personal data privacy.

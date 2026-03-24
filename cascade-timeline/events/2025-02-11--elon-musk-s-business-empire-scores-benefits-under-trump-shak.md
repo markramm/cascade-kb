@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-11--elon-musk-s-business-empire-scores-benefits-under-trump-shak
 date: '2025-02-11'
 title: Trump Administration Systematically Halts Regulatory Investigations into Musk's Business Empire
@@ -45,6 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump administration systematically stalled over 40 regulatory investigations into Musk's companies across multiple federal agencies, including the National Labor Relations Board, SEC, FAA, and Consumer Financial Protection Bureau. Strategic leadership removals and quorum eliminations effectively neutralized ongoing investigations, representing a significant instance of regulatory capture.

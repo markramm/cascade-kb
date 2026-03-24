@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1944-07-21--democratic-convention-ousts-henry-wallace-truman-compromise
 date: '1944-07-21'
 title: Democratic Convention Ousts Henry Wallace, Party Bosses Install Truman
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Democratic National Convention in Chicago replaces Vice President Henry Wallace with Senator Harry Truman on July 21, 1944, in a backroom deal orchestrated by conservative party bosses and corporate interests despite Wallace's overwhelming popularity with convention delegates. The manipulation ensures that when Roosevelt dies less than a year later, the presidency passes to a candidate more acceptable to business and Southern Democratic interests.
 

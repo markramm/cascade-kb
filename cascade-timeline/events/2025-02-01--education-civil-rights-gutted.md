@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--education-civil-rights-gutted
 date: '2025-02-01'
 importance: 5
@@ -38,6 +38,6 @@ sources:
   tier: 2
 notes: Vought explicitly stated goal to traumatize federal workers into quitting. Civil rights enforcement now "virtually impossible" according to remaining officials. Part of broader pattern of dismantling oversight and accountability mechanisms.
 ---
-type: solidarity_event
+type: timeline_event
 
 Education Department's Office for Civil Rights division slashed from 550 to approximately 243 employees, leaving only 5 civil rights offices nationwide. Officials described this as making discrimination complaint resolution "virtually impossible." Cuts part of Russell Vought's documented strategy as OMB Director stating "We want the bureaucrats to be traumatically affected...When they wake up in the morning, we want them to not want to go to work." Systematic dismantling of civil rights enforcement infrastructure prevents investigation of discrimination in schools.

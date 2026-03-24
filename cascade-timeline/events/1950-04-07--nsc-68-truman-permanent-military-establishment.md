@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1950-04-07--nsc-68-truman-permanent-military-establishment
 date: '1950-04-07'
 title: NSC-68 Directive Creates Permanent Military-Industrial Establishment - Defense
@@ -40,7 +40,7 @@ actors:
 - George Kennan
 - Louis Johnson
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Harry S. Truman received National Security Council directive NSC-68, a 66-page top-secret policy paper that would fundamentally transform American defense policy by calling for "full mobilization of the U.S. economy during peacetime"—an unprecedented measure that created the permanent military-industrial establishment President Eisenhower would later warn against. Drafted by Paul Nitze's Policy Planning Staff at the State Department with Defense Department input, NSC-68 called for tripling defense spending from $13 billion to $40-50 billion annually to counter perceived Soviet expansionism. Scholar Ernest R. May later characterized NSC-68 as providing "the blueprint for the militarization of the Cold War from 1950 to the collapse of the Soviet Union at the beginning of the 1990s."

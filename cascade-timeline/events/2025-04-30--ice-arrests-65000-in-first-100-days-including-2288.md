@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-30--ice-arrests-65000-in-first-100-days-including-2288
 date: '2025-04-30'
 title: 'ICE arrests 65,000 in first 100 days including 2,288 gang members'
@@ -41,5 +41,5 @@ _merge_timestamp: '2025-09-05T23:46:55.902908'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 During President Trump's first 100 days, ICE arrested over 65,000 individuals, including 2,288 gang members from Tren de Aragua, MS-13, 18th Street and other gangs. Additionally, 1,329 were accused or convicted of sex offenses, and 498 were accused or convicted of murder, marking the most aggressive immigration enforcement operation in U.S. history.

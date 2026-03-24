@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-17--rfk-jr-skips-cdc-bird-flu-planning-exercise
 date: '2025-01-17'
 title: RFK Jr. Absent from CDC Bird Flu Pandemic Preparedness Exercise During Transition
@@ -30,7 +30,7 @@ capture_lanes:
 - Environmental Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 17, 2025, the Centers for Disease Control and Prevention held a critical tabletop exercise to prepare the incoming Trump administration for a potential bird flu outbreak, focusing on coordinating the distribution of H5 vaccine in the event of a pandemic. However, documents obtained by American Oversight revealed that incoming Health and Human Services Secretary Robert F. Kennedy Jr. was not present at this crucial pandemic planning exercise, just three days before his confirmation.
 

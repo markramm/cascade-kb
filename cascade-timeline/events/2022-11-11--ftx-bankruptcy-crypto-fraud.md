@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-11-11--ftx-bankruptcy-crypto-fraud
 date: '2022-11-11'
 title: FTX Cryptocurrency Exchange Collapses in $32 Billion Fraud, Exposing Crypto Regulation Failure
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 FTX cryptocurrency exchange, Alameda Research, and over 100 affiliated entities file for bankruptcy following the exposure of systematic fraud by founder Sam Bankman-Fried. The collapse was triggered on November 2 when CoinDesk revealed that Alameda Research—FTX's affiliated trading firm owned by Bankman-Fried—held massive amounts of FTX's exchange token (FTT), creating an inherent conflict of interest. Binance CEO Changpeng Zhao's November 6 announcement that Binance would sell its FTT holdings triggered a bank run, exposing that FTX had misappropriated customer funds. Bankman-Fried resigns as CEO and is replaced by John J. Ray III, who previously steered Enron through bankruptcy and later testified that FTX represented the worst corporate controls failure he had ever seen.
 

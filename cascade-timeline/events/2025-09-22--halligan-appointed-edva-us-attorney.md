@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-22--halligan-appointed-edva-us-attorney
 date: '2025-09-22'
 title: Bondi Appoints Insurance Defense Attorney Lindsey Halligan as EDVA U.S. Attorney
@@ -31,7 +31,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi appointed Lindsey Halligan as U.S. Attorney for the Eastern District of Virginia on September 22, 2025, using the Federal Vacancies Reform Act to bypass Senate confirmation.
 

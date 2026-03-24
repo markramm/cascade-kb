@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--iran-war-two-week-casualties-cost
 date: '2026-03-13'
 title: Iran War Two-Week Assessment — 5,300+ Killed, $11B+ Spent, 3.2M Displaced
@@ -34,7 +34,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 An NPR comprehensive assessment published on March 13, 2026 tallied the human and financial costs of the first two weeks of Operation Epic Fury. The numbers were staggering: more than 5,300 people had been killed, including at least 511 documented civilian deaths and 4,789 military fatalities across Iranian, U.S., and allied forces. Thirteen American service members had been killed in action, with approximately 200 wounded. An estimated 3.2 million Iranians had been internally displaced by the bombing campaign.
 

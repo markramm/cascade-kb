@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-18--it-s-a-heist-real-federal-auditors-are-horrified-by-doge
 date: '2025-03-18'
 title: 'DOGE Audit Controversy: Inflated Savings Claims and Potential Conflicts of Interest'
@@ -41,5 +41,5 @@ notes: 'Comprehensive documentation of DOGE''s controversial audit practices and
 patterns:
 - kleptocratic-capture
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Government Efficiency (DOGE), led by Elon Musk, faces scrutiny for overstating federal contract savings and potentially using government access to benefit Musk's business interests. The Treasury Department has launched an audit to investigate DOGE's access to payment systems, with initial findings suggesting significant discrepancies in reported savings and potential security risks.

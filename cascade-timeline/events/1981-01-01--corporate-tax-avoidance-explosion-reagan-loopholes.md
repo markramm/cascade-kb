@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-01--corporate-tax-avoidance-explosion-reagan-loopholes
 date: '1981-01-01'
 status: confirmed
@@ -41,7 +41,7 @@ capture_lanes:
 - Financial Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Reagan's 1981 tax cuts create massive corporate tax loopholes through permissive depreciation rules and reduced rates, causing corporate tax revenue to plummet from 25% of federal revenue in the 1950s to just 6.2% by 1983. The tax law allows corporations to slash or erase tax obligations entirely through accelerated depreciation of equipment and other special credits, creating a windfall for profitable corporations while forcing middle-class taxpayers to shoulder greater tax burden. Major profitable corporations pay little or no federal income tax despite record profits, demonstrating how tax policy can be captured to serve corporate interests at public expense.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-08-04--for-profit-colleges-fraud-investigation-gao
 date: 2010-08-04
 title: GAO Investigation Exposes Systemic For-Profit College Fraud - Industry Takes 25% of Federal Aid
@@ -34,7 +34,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A Government Accountability Office investigation released on August 4, 2010, exposed systemic fraud and deceptive practices across the for-profit college industry, revealing that while these institutions enrolled only 10-12% of all higher education students, they received 25% of all federal financial aid—approximately $32 billion annually in taxpayer funds. The GAO's undercover testing of 15 for-profit colleges found that all 15 engaged in deceptive practices and four engaged in outright fraud.
 

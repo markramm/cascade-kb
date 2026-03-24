@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-02-19--ellison-hosts-trump-fundraiser-rancho-mirage-7-million
 date: '2020-02-19'
 title: Larry Ellison Hosts Trump Fundraiser at California Estate, Raises $7 Million
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle Chairman Larry Ellison hosted President Donald Trump at his Rancho Mirage, California estate on February 19, 2020, for a high-dollar campaign fundraiser that raised approximately $7 million for Trump's reelection campaign. Attendees paid $100,000 for a golf outing and photo opportunity with the president, while those contributing an additional $150,000 gained access to a private round-table discussion. The event took place at Ellison's Porcupine Creek estate, less than two weeks before California's Super Tuesday primary election.
 

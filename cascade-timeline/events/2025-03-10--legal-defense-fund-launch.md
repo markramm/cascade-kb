@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-10--legal-defense-fund-launch
 date: '2025-03-10'
 title: National Legal Defense Fund Established to Defend Nonprofits and Democracy
@@ -50,5 +50,5 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 In response to increased political pressure on nonprofits, a comprehensive legal defense initiative was launched to provide strategic litigation support, with multiple organizations creating defense funds totaling over $65 million. The Democracy 2025 coalition, comprising 280+ organizations and 800+ individual members, aims to protect civil society organizations facing systemic challenges through coordinated legal action, public advocacy, and strategic resistance.

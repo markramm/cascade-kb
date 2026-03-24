@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-31--arabella-advisors-network-raises-record-135-billio
 date: '2022-12-31'
 importance: 7
@@ -37,5 +37,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 The Arabella Advisors network, managing five nonprofit funds including the Sixteen Thirty Fund, raised $1.35 billion from anonymous donors in 2022, making it the dominant force in Democratic dark money operations. The Sixteen Thirty Fund alone spent $196 million on political causes including $66 million supporting liberal politicians and ballot initiatives. Swiss billionaire Hansjörg Wyss has contributed $245 million to Arabella entities since 2016, with $208 million going to the Sixteen Thirty Fund. The Atlantic called it 'the indisputable heavyweight of Democratic dark money,' noting it was the second-largest super-PAC donor in 2020. The network faced scrutiny in September 2022 when the D.C. attorney general issued subpoenas seeking information on alleged financial mismanagement.

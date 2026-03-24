@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-15--snap-benefits-40-million-americans-cut
 date: '2025-03-15'
 title: 40 Million Americans Face SNAP Benefits Reduction Under New Work Requirements
@@ -49,7 +49,7 @@ notes: 'These changes represent the human cost of Project 2025 implementation. T
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration implemented strict new work requirements for the Supplemental Nutrition Assistance Program (SNAP, formerly food stamps) in early 2025, affecting an estimated 40 million Americans who depended on the program for food security. The new requirements expanded the categories of SNAP recipients subject to work or training obligations, reducing eligibility for adults who did not meet tightened documentation and reporting standards. Anti-hunger advocates and food bank networks warned the changes would cause millions to lose benefits regardless of their actual employment status, due to administrative hurdles that disadvantaged people with unstable work arrangements or limited access to bureaucratic processes.
 
 Simultaneously, the administration moved to eliminate or sharply reduce Head Start, the federal early childhood education program serving over 1 million children from low-income families. Head Start had operated since 1965, providing preschool education, health screenings, nutrition, and family support services to children who would otherwise lack access to early childhood development resources. The proposed elimination represented one of the largest reductions in federal early education spending in the program's history.

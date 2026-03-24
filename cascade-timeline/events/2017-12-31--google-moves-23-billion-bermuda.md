@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2017-12-31'
 title: Google Moves $23B to Bermuda Tax Haven in Single Year
 description: Dutch regulatory filings revealed Google transferred $23 billion (€19.9 billion) through its Dutch shell company to Bermuda in 2017 alone—one of the largest single-year tax avoidance maneuvers in corporate history. The transfer via Google Netherlands Holdings BV to Google Ireland Holdings (Bermuda-resident) allowed Google to avoid approximately $4 billion in taxes through the Double Irish Dutch Sandwich structure. The massive profit shift occurred despite Google having removed "Don't be evil" from its code of conduct in 2015 and facing international pressure to reform tax practices. The 2017 transfer represented an increase from $15.5 billion in 2016, showing Google accelerated tax avoidance ahead of expected crackdown. Guardian and Bloomberg investigations documented that the money represented legitimate business profits that should have been taxed where earned but were instead routed to zero-tax Bermuda through purely artificial structures.
@@ -55,7 +55,7 @@ connections:
 - Offshore profit accumulation
 notes: One of largest single-year corporate profit shifts to tax havens in history. Saved Google ~$4B in taxes in one year. Filing requirement in Netherlands accidentally exposed scale of ongoing tax avoidance.
 ---
-type: solidarity_event
+type: timeline_event
 
 Dutch regulatory filings revealed that in 2017, Google transferred $23 billion (€19.9 billion) through its Netherlands shell company to its Bermuda-based entity—one of the largest single-year tax avoidance maneuvers in corporate history, allowing Google to avoid approximately $4 billion in taxes on legitimate business profits earned globally.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-07--meta-eliminates-fact-checking-program
 date: '2025-01-07'
 importance: 10
@@ -58,7 +58,7 @@ sources:
 notes: 'Ends program protecting against misinformation. Moves moderation team to Texas. Returns political content. Trump said threats "probably" worked. Complete surrender.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Meta CEO Mark Zuckerberg announced on January 7, 2025, that the company would eliminate its third-party fact-checking program on Facebook and Instagram in the United States, replacing it with a "Community Notes" model similar to the system Twitter/X adopted under Elon Musk. Zuckerberg described the fact-checking program as having become "too politically biased" and framed the change as restoring free expression. The announcement came weeks before Donald Trump's January 20 inauguration, with Trump himself stating that his threats against Meta had "probably" contributed to the policy change.
 
 The fact-checking program, which Meta had implemented in 2016 following criticism of the platform's role in spreading misinformation during that year's election, had enlisted independent organizations to flag false or misleading content on the platform. Under the new Community Notes model, users themselves would flag potentially misleading content, a system that research suggested was significantly less effective at addressing fast-spreading misinformation than professional fact-checkers. Meta simultaneously announced it was ending the diversity, equity, and inclusion programs within the company and relocating its trust and safety team from California to Texas.

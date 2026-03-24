@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-24--trump-executive-order-dakota-access-pipeline
 date: '2017-01-24'
 title: Trump Reverses Dakota Access Pipeline Denial, Orders Expedited Approval
@@ -41,7 +41,7 @@ capture_lanes:
 - Environmental Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Just four days after taking office, President Donald Trump signed an executive memorandum on January 24, 2017, directing the Army Corps of Engineers to expedite approval and review of the Dakota Access Pipeline, reversing the Obama administration's December 2016 decision to halt construction and conduct a full Environmental Impact Statement. The order instructed the Corps to "review and approve in an expedited manner" the easement needed for the pipeline to cross under Lake Oahe on the Missouri River.
 

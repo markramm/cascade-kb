@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-03-12--varsity-blues-college-admissions-scandal-50-indicted
 date: '2019-03-12'
 importance: 9
@@ -37,6 +37,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal prosecutors unveiled Operation Varsity Blues, the largest college admissions fraud case ever prosecuted, charging 50 people including wealthy parents and university coaches. Mastermind Rick Singer ran a $25 million bribery scheme (2011-2018) through his firm The Key, facilitating fraudulent test scores and bribing coaches at elite universities including Yale, Stanford, Georgetown, and USC. Celebrities Lori Loughlin and Felicity Huffman were among parents who paid to game admissions for their children. U.S. Attorney Andrew Lelling stated the parents "flaunted their wealth" to buy access, exposing how the wealthy systematically exploit institutional vulnerabilities while legitimate applicants compete fairly. The scheme revealed regulatory failures as universities failed to detect years of fraudulent athletic recruitment and test administration.

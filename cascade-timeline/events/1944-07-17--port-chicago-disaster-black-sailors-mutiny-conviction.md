@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1944-07-17--port-chicago-disaster-black-sailors-mutiny-conviction
 date: '1944-07-17'
 title: Port Chicago Disaster and Black Sailors Mutiny Conviction
@@ -40,7 +40,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 17, 1944, two transport ships loading ammunition at Port Chicago Naval Magazine in California explode, killing 320 men instantly, including 202 African American enlisted men who comprised the entire loading workforce. Three weeks later, 258 surviving Black sailors refuse to return to loading ammunition under the same dangerous conditions that caused the disaster. The Navy convicts 50 of them of mutiny in the largest mass trial in naval history, sentencing them to 8-15 years in prison.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-26--doge-social-security-data-breach
 date: '2025-08-26'
 title: Whistleblower Reveals Unprecedented Social Security Database Security Breach
@@ -61,7 +61,7 @@ tags:
 - identity-theft-risk
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 Chief Data Officer Charles Borges exposed a critical national security vulnerability involving an unauthorized copy of the entire NUMIDENT Social Security database. Senior DOGE-affiliated officials uploaded a live copy of sensitive personal information for over 450 million Americans to an unsecured cloud environment, potentially compromising the personal data of hundreds of millions.
 
 Key Details:

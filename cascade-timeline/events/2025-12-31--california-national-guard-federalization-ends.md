@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-31--california-national-guard-federalization-ends
 date: '2025-12-31'
 title: Ninth Circuit Forces Trump to Return California National Guard Control to State
@@ -44,7 +44,7 @@ sources:
   tier: 1
   verified: true
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Ninth Circuit Court of Appeals ruled that the Trump administration must return control of the California National Guard to the state. President Trump announced that day he would withdraw National Guard troops from Los Angeles, Portland, and Chicago. The federal government backed down after months of litigation challenging the federalization of state troops without governor approval.

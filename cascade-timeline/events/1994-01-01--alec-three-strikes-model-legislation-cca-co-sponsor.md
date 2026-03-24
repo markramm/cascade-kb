@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1994-01-01--alec-three-strikes-model-legislation-cca-co-sponsor
 date: '1994-01-01'
 title: ALEC Passes Three Strikes Model Legislation Co-Sponsored by Private Prison Industry and NRA
@@ -47,7 +47,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council (ALEC), with Corrections Corporation of America (CCA) serving as co-chair of its Criminal Justice Task Force, passes the "Three Strikes You're Out Act" model legislation requiring mandatory life imprisonment after a third felony conviction. CCA co-sponsors the model bill alongside the National Rifle Association, representing a direct corporate conflict of interest where prison companies write laws guaranteed to increase their profits.
 

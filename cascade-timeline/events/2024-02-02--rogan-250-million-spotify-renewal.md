@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-02--rogan-250-million-spotify-renewal
 date: '2024-02-02'
 importance: 9
@@ -52,5 +52,5 @@ status: confirmed
 capture_lanes:
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Spotify renews Joe Rogan deal worth up to $250 million, but removes exclusivity allowing distribution on Apple, YouTube, marking shift in podcast landscape and cementing Rogan's influence. The new multiyear deal represents a strategic pivot for Spotify, giving up podcast exclusivity in favor of broader distribution.

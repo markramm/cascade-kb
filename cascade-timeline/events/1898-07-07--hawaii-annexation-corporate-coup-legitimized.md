@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1898-07-07--hawaii-annexation-corporate-coup-legitimized
 date: '1898-07-07'
 title: Hawaii Annexation - U.S. Legitimizes Corporate Coup Against Monarchy
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 President McKinley signs the Newlands Resolution (House Joint Resolution 259) annexing the Hawaiian Islands, legitimizing a corporate coup d'état executed five years earlier by American sugar planters who overthrew the constitutional monarchy of Queen Liliuokalani. The annexation occurs despite two petitions with over 20,000 signatures representing more than half the Native Hawaiian population opposing it, and despite President Grover Cleveland's 1893 Blount Commission finding that Liliuokalani was overthrown illegally and ordering the American flag lowered from Hawaiian government buildings. Congress uses the controversial joint resolution procedure requiring only simple majorities in both houses rather than the two-thirds Senate majority needed to ratify a treaty, evading constitutional requirements specifically because the annexation lacks sufficient support. The Spanish-American War provides the strategic justification: use of Pearl Harbor naval base during the conflict convinces Congress that Hawaiian control is militarily necessary for projecting American power in the Pacific.
 

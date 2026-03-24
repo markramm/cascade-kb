@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--federal-workforce-mass-firings-62000
 date: '2025-03-01'
 title: 'Federal Agencies Fire 62,530 Workers in Two Months - 41,311% Increase Over 2024'
@@ -53,7 +53,7 @@ notes: 'This represents the most dramatic purge of federal employees in US histo
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Federal agencies across the government dismissed approximately 62,530 workers in the first two months of 2025—a 41,311% increase compared to the 151 terminations during the same period in 2024, according to analysis by the Partnership for Public Service and Government Executive. The mass firings accompanied approximately 154,000 additional workers accepting the administration's Deferred Resignation Program buyouts. Together, the terminations and voluntary departures represented the most dramatic reduction in the federal civilian workforce since the post-World War II demobilization.
 
 The agencies hit hardest included the Interior Department (approximately 2,300 terminations), the Forest Service (over 2,400), the Consumer Financial Protection Bureau (over 100), and the Small Business Administration (over 100). The patterns were not random: agencies focused on environmental protection, consumer financial regulation, and public lands management faced disproportionate cuts. Simultaneously, the administration revived and expanded Schedule F, an executive order reclassifying up to 50,000 positions previously protected by civil service rules as "at will" political appointments subject to dismissal without cause.

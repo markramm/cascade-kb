@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--trump-national-security-strategy-anti-europe-pro-authoritarian
 date: 2025-12-04
 title: Trump Administration Releases National Security Strategy Denouncing Democratic Allies, Embracing Authoritarian Partnerships
@@ -83,7 +83,7 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 4, 2025, the Trump administration released its 33-page National Security Strategy, marking a fundamental departure from decades of U.S. foreign policy grounded in democratic alliances. The document contained harsh criticism of traditional European partners, warning that certain NATO members may become "majority non-European" within decades and questioning whether European nations could maintain "economies and militaries strong enough to remain reliable allies." The strategy attributed Europe's perceived weakness to immigration policies, declining birthrates, "censorship of free speech and suppression of political opposition," and a "loss of national identities and self-confidence." In an unprecedented endorsement of far-right political movements, the document declared that "the growing influence of patriotic European parties indeed gives cause for great optimism" and called for "cultivating resistance within European nations" — language widely understood as direct support for parties such as France's National Rally and Germany's Alternative für Deutschland. The strategy also identified Austria, Hungary, Italy, and Poland as countries the U.S. should work with to pull away from the European Union.
 

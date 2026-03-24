@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-21--e-jean-carroll-trump-sexual-assault-allegation
 date: '2019-06-21'
 title: E. Jean Carroll Publicly Accuses Trump of Sexual Assault in New York Magazine
@@ -39,7 +39,7 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 E. Jean Carroll, a longtime advice columnist and author, published an excerpt from her forthcoming book in New York Magazine alleging that Donald Trump sexually assaulted her in a Bergdorf Goodman department store dressing room in either late 1995 or early 1996. Carroll, who wrote the "Ask E. Jean" advice column for Elle magazine for over two decades, detailed that she encountered Trump at the luxury Manhattan store, where he asked her to help him pick out a gift. According to her account, they ended up in a dressing room where Trump forcibly kissed her, pulled down her tights, and penetrated her with his fingers before she was able to push him away and escape. The allegation was published as part of Carroll's book "What Do We Need Men For? A Modest Proposal," scheduled for release on July 2, 2019. Two of Carroll's friends, Lisa Birnbach and Carol Martin, corroborated to New York Magazine that Carroll had confided in them about the assault shortly after it occurred, with Birnbach advising her to go to the police and Martin counseling against it due to Trump's powerful connections.
 

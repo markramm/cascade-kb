@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-01-23--ameriquest-325m-predatory-lending-settlement-49-states
 date: '2006-01-23'
 title: Ameriquest Agrees to $325 Million Settlement for Predatory Lending Practices with 49 States
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 23, 2006, Ameriquest Mortgage Company, the nation's largest subprime lender, and its holding company ACC Capital Holdings agreed to pay $325 million to settle allegations of predatory lending practices with 49 states and the District of Columbia. The settlement represents the second-largest state or federal predatory lending settlement in history at the time, after the 2002 $484 million Household Finance Company agreement.
 

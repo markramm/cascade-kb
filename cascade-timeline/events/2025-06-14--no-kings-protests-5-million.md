@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-14--no-kings-protests-5-million
 date: '2025-06-14'
 importance: 10
@@ -56,5 +56,5 @@ sources:
 notes: 'Largest coordinated protest against presidential power in US history. Protests occurred across all 50 states and Washington, D.C., with participation estimated between 4.8-5.3 million people in over 2,100 locations.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A historic nationwide protest against presidential overreach, the 'No Kings' demonstrations involved over 5 million Americans in more than 2,100 cities and towns, marking the largest coordinated resistance action since the Women's March of 2017. Protesters challenged Trump's second administration policies, military parade, and what they viewed as authoritarian governance, drawing inspiration from the '3.5 percent principle' of social movements.

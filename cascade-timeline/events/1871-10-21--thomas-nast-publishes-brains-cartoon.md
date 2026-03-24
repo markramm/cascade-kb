@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1871-10-21--thomas-nast-publishes-brains-cartoon
 date: '1871-10-21'
 title: Thomas Nast Cartoon Depicts Tweed as Money Bag
@@ -33,7 +33,7 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Harper's Weekly publishes Thomas Nast's devastating political cartoon "The BRAINS," depicting Boss Tweed as a corpulent figure with a bag of money for his head. The image crystallizes public outrage over Tammany Hall corruption, making the abstract concept of systematic graft viscerally understandable to voters who cannot read the lengthy newspaper exposés.
 

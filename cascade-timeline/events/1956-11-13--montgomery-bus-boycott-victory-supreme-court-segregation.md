@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-11-13--montgomery-bus-boycott-victory-supreme-court-segregation
 date: '1956-11-13'
 title: Supreme Court Affirms Montgomery Bus Segregation Unconstitutional, Boycott Ends in Victory
@@ -42,7 +42,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 13, 1956, the United States Supreme Court affirmed the district court ruling in Browder v. Gayle, declaring Montgomery, Alabama's bus segregation laws unconstitutional. The decision marked the triumphant conclusion of the 381-day Montgomery Bus Boycott and established Martin Luther King Jr. as a national civil rights leader while demonstrating the power of organized nonviolent economic resistance.
 

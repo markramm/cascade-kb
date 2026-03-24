@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-19--texas-offers-land-deportation-facilities
 date: '2024-11-19'
 importance: 8
@@ -38,6 +38,6 @@ sources:
 notes: Property is flat farmland currently yielding onions, grain sorghum, corn and soybeans. Buckingham stated "We are completely united with President Trump to rid our country of illegal, violent criminals." Represents state-level coordination for federal deportation infrastructure before Trump takes office.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Texas Land Commissioner Dawn Buckingham offered the Trump administration 1,402 acres in Starr County, 35 miles west of McAllen, for mass deportation facilities. The state purchased the farmland for $3.8 million in October 2024, initially for border wall construction. Named the "Jocelyn Initiative" after a murdered 12-year-old, the remote Rio Grande Valley property would serve as "the final stop before deportation." Buckingham controls 13 million acres statewide and promised additional land offers. Tom Homan, Trump's border czar, confirmed plans to use the land with military transport assistance from Governor Abbott.

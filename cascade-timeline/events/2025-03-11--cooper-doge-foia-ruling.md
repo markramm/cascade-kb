@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-11--cooper-doge-foia-ruling
 date: '2025-03-11'
 importance: 6
@@ -42,6 +42,6 @@ tags:
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Christopher Cooper issued preliminary injunction finding DOGE likely subject to FOIA despite Trump administration claims of Executive Office exemption. Cooper cited DOGE's "operations thus far have been marked by unusual secrecy" and "substantial independent authority" over federal government, ordering expedited processing and rolling document production to CREW watchdog group.

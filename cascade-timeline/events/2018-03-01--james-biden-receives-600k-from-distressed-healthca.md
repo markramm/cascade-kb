@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-01--james-biden-receives-600k-from-distressed-healthca
 date: '2018-03-01'
 importance: 6
@@ -36,5 +36,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 James Biden received $600,000 in loans from Americore Health, a financially distressed rural hospital operator, based on representations that his last name 'Biden' could 'open doors' and secure Middle East investments through political connections. On March 1, 2018, Americore wired $200,000 into James and Sara Biden's personal account. The same day, James Biden wrote a $200,000 check to Joe Biden marked as 'loan repayment.' Americore later filed bankruptcy and sued James Biden for fraud, settling in 2022 for $350,000 repayment. House Oversight Committee investigations revealed the timing and questioned whether the then-private citizen Joe Biden knew the funds originated from a failing company.

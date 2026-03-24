@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-08--epstein-birthday-book-trump-contributions
 date: '2025-09-08'
 title: House Oversight Committee Releases Epstein Birthday Book with Trump Contributions Including "Fully Depreciated Woman" Check Photo
@@ -43,7 +43,7 @@ capture_lanes:
 - Legislative Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The House Oversight Committee released Jeffrey Epstein's 238-page birthday book "The First Fifty Years," compiled by Ghislaine Maxwell for Epstein's 50th birthday in 2003. The album contains two deeply disturbing contributions connected to Donald Trump that reveal the culture at Mar-a-Lago and Trump's relationship with Epstein.
 

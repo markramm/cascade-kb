@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-09--fbi-fires-agents-from-jack-smith-january-6-probe
 date: '2025-10-09'
 title: FBI Terminates Two Special Agents Who Worked on January 6 Investigation
@@ -29,6 +29,6 @@ capture_lanes:
 - Electoral Manipulation
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The FBI terminated two special agents involved in Special Counsel Jack Smith's January 6 investigation after they reviewed Republican lawmakers' phone records as part of the probe. A third agent may face similar action. The firings represent systematic retaliation against law enforcement professionals who investigated the January 6 attack and Trump's attempts to overturn the 2020 election. Under FBI Director Kash Patel, the Bureau is purging agents who participated in constitutionally mandated criminal investigations, transforming the FBI from an independent law enforcement agency into a tool for protecting Trump and punishing those who investigated his crimes.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-20--paul-weiss-40-million-settlement
 date: '2025-03-20'
 importance: 6
@@ -40,5 +40,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Paul Weiss, facing what its chair called an "existential threat" that could "destroy our firm," became the first prestigious law firm to settle for $40 million after losing business "within hours" of being targeted by Trump's intimidation campaign.

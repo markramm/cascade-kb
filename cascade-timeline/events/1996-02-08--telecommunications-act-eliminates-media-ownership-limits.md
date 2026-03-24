@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-02-08--telecommunications-act-eliminates-media-ownership-limits
 date: '1996-02-08'
 title: Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV Limits, Triggering Massive Media Consolidation
@@ -79,7 +79,7 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Bill Clinton signs the Telecommunications Act of 1996 into law, eliminating the national cap on radio station ownership (previously 40 stations maximum) and increasing the television audience reach cap from 25% to 35%, triggering one of the largest media consolidation waves in American history. The legislation, described by Fairness and Accuracy in Reporting as "essentially bought and paid for by corporate media lobbies," represents the first major overhaul of U.S. telecommunications law in 62 years and systematically dismantles the ownership diversity protections established through the Radio Act (1927), Communications Act (1934), and FCC ownership limits (1941-1953).

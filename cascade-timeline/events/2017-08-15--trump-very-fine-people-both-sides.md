@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-08-15--trump-very-fine-people-both-sides
 date: '2017-08-15'
 title: Trump Defends White Nationalists with "Very Fine People On Both Sides" Remarks
@@ -35,7 +35,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Three days after a white supremacist murdered Heather Heyer at the "Unite the Right" rally in Charlottesville, President Trump held a press conference that shocked the nation by equating neo-Nazis with anti-racism protesters and defending Confederate statue defenders as "very fine people."
 

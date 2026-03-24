@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1917-12-10--hitchman-coal-supreme-court-upholds-yellow-dog-injunction
 date: '1917-12-10'
 title: 'Hitchman Coal v. Mitchell: Supreme Court Authorizes Injunctions to Enforce Yellow-Dog Contracts'
@@ -33,7 +33,7 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court ruled that federal courts could issue injunctions against union organizing efforts at workplaces where employees had signed yellow-dog contracts, dramatically expanding the legal weapons available to employers. Justice Mahlon Pitney's 6-3 majority opinion held that union attempts to persuade workers to break their non-union agreements constituted unlawful interference with contractual relations.
 

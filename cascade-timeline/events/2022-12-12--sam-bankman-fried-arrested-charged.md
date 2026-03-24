@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-12--sam-bankman-fried-arrested-charged
 date: '2022-12-12'
 title: FTX Founder Sam Bankman-Fried Arrested, Charged with Campaign Finance Violations and $8 Billion Fraud
@@ -42,7 +42,7 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Sam Bankman-Fried is arrested in the Bahamas at the request of U.S. prosecutors and charged with eight criminal counts including wire fraud, securities fraud, commodities fraud, money laundering, and campaign finance law violations. The indictment alleges Bankman-Fried orchestrated a scheme to defraud FTX equity investors and customers, misappropriating billions in customer deposits. Prosecutors charge that he used tens of millions of dollars in misappropriated customer funds to make illegal political donations to both Democratic and Republican candidates to influence cryptocurrency industry regulation.
 

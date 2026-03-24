@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-08-06--voting-rights-act-passage-after-selma-bloody-sunday
 date: '1965-08-06'
 title: Voting Rights Act Signed After Selma Bloody Sunday Defeats Southern Legislative Resistance
@@ -54,7 +54,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law, outlawing discriminatory voting practices that have disenfranchised millions of African Americans since Reconstruction. The legislation passes the Senate 77-19 on May 26 and the House 333-85 on July 9, overcoming a 24-day filibuster by Southern senators who characterize the bill as unconstitutional and punitive to the South.

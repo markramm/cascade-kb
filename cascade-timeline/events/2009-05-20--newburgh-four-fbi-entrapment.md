@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-05-20--newburgh-four-fbi-entrapment
 date: 2009-05-20
 title: Newburgh Four Arrested in FBI Entrapment Sting - "Buffoonery" Made Into Terrorism
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Four men from Newburgh, New York—James Cromitie, David Williams, Onta Williams, and Laguerre Payen—were arrested in an FBI sting operation in which a paid government informant conceived the plot, provided all the means, and coerced economically desperate men into participating. A federal judge condemned the operation, stating the government "came up with the crime, provided the means, and removed all relevant obstacles," creating terrorists out of men "whose buffoonery is positively Shakespearean in scope."
 

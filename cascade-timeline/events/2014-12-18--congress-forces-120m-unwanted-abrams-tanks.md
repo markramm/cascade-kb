@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-12-18--congress-forces-120m-unwanted-abrams-tanks
 date: '2014-12-18'
 title: Congress Appropriates $120 Million for Unwanted Abrams Tanks for Third Consecutive Year Despite Army Opposition
@@ -39,7 +39,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress included $120 million for Abrams tank upgrades in the FY2015 National Defense Authorization Act, marking the third consecutive year lawmakers overrode Army leadership requests to suspend tank production—the first such production halt proposed since World War II. Representative Mike Turner (R-Ohio) stated that "Congress recognizes the necessity of the Abrams tank to our national security and authorizes an additional $120 million for Abrams tank upgrades," directly contradicting Army Chief of Staff General Ray Odierno's repeated testimony that the service possessed sufficient inventory with tanks averaging only 2.5 years old. The appropriation brought total unwanted tank funding to nearly $436 million over three years (2012-2014), converting defense procurement into a jobs program for General Dynamics' Lima, Ohio plant despite explicit military objections and zero operational need.
 

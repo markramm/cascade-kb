@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-10--first-circuit-snap-ruling-trump-appeal
 date: '2025-11-10'
 title: First Circuit Court Unanimously Rules Trump Administration Must Pay Full SNAP Benefits, Citing 'Immense Harm' to 40 Million Recipients
@@ -34,7 +34,7 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 A three-judge panel of the U.S. Court of Appeals for the First Circuit unanimously ruled that the Trump administration must be forced to pay full SNAP food benefits for November, declining to block U.S. District Judge John McConnell's order requiring the administration to use available federal funds to cover the $4 billion shortfall. Judge Julie Rikelman's opinion stated that allowing partial SNAP payments would cause "immense harm nationwide for the more than 40 million people in the program," directly rebuking the administration's claim that complying with the lower court order would harm the government more than food insecurity would harm tens of millions of Americans.
 

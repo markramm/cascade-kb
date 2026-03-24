@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--judge-orders-doge-deposition-videos-removed
 date: '2026-03-13'
 title: Judge Orders Plaintiffs to Remove Viral DOGE Deposition Videos from YouTube
@@ -36,7 +36,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2026, federal Judge Colleen McMahon ordered plaintiffs in a lawsuit challenging DOGE's cancellation of National Endowment for the Humanities grants to remove viral deposition videos from YouTube. The videos, which had been viewed millions of times, showed DOGE staffers Nate Cavanaugh and Justin Fox testifying under oath about their use of ChatGPT to evaluate and cancel NEH grants — and expressing "no regrets" about the impact on people who lost their income as a result.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1977-07-01'
 title: Exxon Internal Climate Research Program Confirms Human-Caused Global Warming
 actors:
@@ -37,6 +37,6 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Senior Exxon scientist James Black delivered a sobering message to company executives about carbon dioxide warming the planet, marking the beginning of documented internal knowledge at Exxon about climate change risks. Internal research from 1977-1982 created remarkably accurate climate models predicting global temperature increases from fossil fuel emissions. A Harvard study found that 63-83% of ExxonMobil's internal climate projections were scientifically accurate, with precise predictions of global temperature increases caused by CO2 emissions. A 1982 internal report to Exxon management stated that consequences could be "catastrophic" and that significant fossil fuel consumption reductions would be necessary.

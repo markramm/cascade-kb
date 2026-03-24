@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-11-09--trump-moscow-miss-universe-agalarov-putin-connections
 date: '2013-11-09'
 title: Trump Holds Miss Universe in Moscow, Partners with Putin-Connected Agalarovs for Trump Tower Moscow
@@ -46,7 +46,7 @@ capture_lanes:
 - International Kleptocracy
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 9, 2013, Donald Trump brought the Miss Universe pageant to Moscow, held at Crocus City Hall owned by Aras Agalarov—a Russian billionaire known as "Putin's Builder" with close Kremlin ties. During the event, Trump pursued meetings with Vladimir Putin (who sent a gift via Agalarov's daughter), finalized a formal business deal with Agalarov for Trump Tower Moscow, and tweeted that Putin might become his "new best friend." The relationship established Trump's financial dependence on Kremlin-connected Russian oligarchs and created potential leverage that would persist through his presidential campaign.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-10-05--papadopoulos-guilty-plea
 date: 2017-10-05
 title: George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty in Mueller Probe
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 George Papadopoulos, a foreign policy adviser to Donald Trump's 2016 presidential campaign, secretly pleaded guilty on October 5, 2017, to making false statements to FBI agents about his contacts with individuals connected to the Russian government. The guilty plea, which became public on October 30, 2017, when court documents were unsealed, marked the first Trump campaign official to plead guilty as part of Special Counsel Robert Mueller's investigation into Russian interference in the 2016 election.
 

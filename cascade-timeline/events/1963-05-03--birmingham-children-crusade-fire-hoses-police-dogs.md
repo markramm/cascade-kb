@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1963-05-03--birmingham-children-crusade-fire-hoses-police-dogs
 date: '1963-05-03'
 title: Bull Connor Orders Fire Hoses and Police Dogs Against Children in Birmingham Campaign
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 3, 1963, Birmingham Public Safety Commissioner Bull Connor ordered police and firefighters to unleash high-pressure fire hoses and attack dogs on more than 1,000 young students, some as young as eight years old, who were marching downtown to protest segregation. The previous day, on May 2, the "Children's Crusade"—organized by SCLC's James Bevel as part of the Birmingham Campaign—had seen 1,200 children arrested. On the second day, Connor realized the jails could hold no more protesters, so he directed police to move from mass arrests to forcibly keeping demonstrators out of the downtown business area using violent methods that shocked the nation and the world.
 

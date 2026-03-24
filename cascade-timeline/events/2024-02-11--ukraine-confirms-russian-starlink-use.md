@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-11--ukraine-confirms-russian-starlink-use
 date: '2024-02-11'
 importance: 6
@@ -51,5 +51,5 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Ukrainian intelligence confirmed "systemic" Russian military use of Starlink terminals since February 2024, with Russians acquiring them through third countries, demonstrating compromise of critical US space infrastructure.

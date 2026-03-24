@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-09-01--segregation-academies-explosion-southern-private-schools
 date: '1964-09-01'
 title: Segregation Academies Proliferate as White Families Flee Integrated Public Schools With Public Subsidies
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Between 1964 and 1975, as public schools in the Deep South begin to slowly desegregate through federal court orders, at least half a million white students are withdrawn from public schools nationwide to avoid mandatory desegregation. Private school enrollment across the South increases by more than 200,000 students from the mid-1960s to 1980, with about two-thirds of that growth occurring in six states: Alabama, Georgia, Louisiana, Mississippi, North Carolina, and South Carolina.
 

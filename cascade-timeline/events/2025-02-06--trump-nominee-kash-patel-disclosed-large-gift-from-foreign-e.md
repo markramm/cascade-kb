@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-06--trump-nominee-kash-patel-disclosed-large-gift-from-foreign-e
 date: '2025-02-06'
 title: Trump Nominee Kash Patel Discloses Millions in Shares from Chinese Company Accused of Forced Labor
@@ -51,6 +51,6 @@ notes: Detailed financial entanglement demonstrates ongoing patterns of potentia
 capture_lanes:
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Kash Patel, a prominent Trump administration figure, disclosed holding between $1 million and $5 million in stock from Elite Depot Limited, the parent company of Shein, a Chinese corporation facing bipartisan criticism for alleged use of forced labor. Senator Adam Schiff demanded a comprehensive explanation of Patel's foreign financial entanglements, highlighting potential conflicts of interest.

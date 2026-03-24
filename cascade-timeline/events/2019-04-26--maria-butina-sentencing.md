@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-04-26--maria-butina-sentencing
 date: '2019-04-26'
 title: Federal Judge Sentences Russian Agent Maria Butina to 18 Months for Conspiracy to Infiltrate Conservative Movement
@@ -39,7 +39,7 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Tanya Chutkan sentenced Maria Butina to 18 months in federal prison on April 26, 2019 for conspiring to act as a Russian agent without registering with the Justice Department. The sentencing took place in Washington, D.C. federal court. Butina had been in custody since her arrest in July 2018.
 

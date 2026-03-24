@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-12-13--wisconsin-voter-purge-200000-conservative-lawsuit
 date: 2019-12-13
 title: Conservative Lawsuit Forces Wisconsin to Purge 200,000 Voters Before 2020 Election
@@ -40,7 +40,7 @@ capture_lanes:
 - Media Capture & Control
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A Wisconsin judge orders the state Elections Commission to immediately remove over 200,000 voters from registration rolls following a lawsuit by the conservative Wisconsin Institute for Law and Liberty (WILL). The purge targets voters flagged as potential "movers" based on data suggesting they may have changed addresses, with the timing designed to impact the 2020 presidential election in this crucial swing state that Donald Trump won by just 23,000 votes in 2016.
 

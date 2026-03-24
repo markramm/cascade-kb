@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1959-01-01--congress-pentagon-revolving-door-hearings
 date: '1959-01-01'
 title: Congress Holds 25 Hearings on Pentagon Revolving Door, General Bradley Testifies Against Contractor Influence
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress holds 25 hearings throughout 1959 to investigate the revolving door between defense contractors and senior military officials, marking the first systematic examination of conflicts of interest in weapons procurement. General Omar Bradley, who served as the first chairman of the Joint Chiefs of Staff, testifies that he does not believe any former government official should "bring any influence" to win contracts for a company. Bradley's testimony represents the World War II generation's concerns about the emerging military-industrial complex, contrasting the values of leaders like "Admiral Spruance, Admiral Nimitz, Admiral Halsey, General Eisenhower, and a host of other characters whom we all know from World War II, who weren't so motivated" by post-service industry employment incentives with the newer pattern of officers cultivating contractor relationships during active duty.
 

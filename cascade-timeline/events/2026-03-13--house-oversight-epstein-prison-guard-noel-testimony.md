@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-13--house-oversight-epstein-prison-guard-noel-testimony
 date: '2026-03-13'
 title: House Oversight Requests Epstein Prison Guard Tova Noel for Transcribed Interview
@@ -39,7 +39,7 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 13, 2026, House Oversight Committee Chairman James Comer formally requested that Tova Noel, one of the two federal prison guards on duty the night Jeffrey Epstein died at the Metropolitan Correctional Center in August 2019, appear for a transcribed interview scheduled for March 26. The request focused on a disturbing detail that had drawn renewed scrutiny: Noel had Googled Epstein's name less than an hour before he was found unresponsive in his cell, raising questions about what she knew and when.
 

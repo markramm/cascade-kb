@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1869-12-10--wyoming-territory-grants-women-voting-rights-first-us
 date: '1869-12-10'
 title: Wyoming Territory Becomes First in U.S. to Grant Women Full Voting Rights
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 10, 1869, Wyoming Territory's all-male territorial legislature passed "An Act to Grant to the Women of Wyoming Territory the Right of Suffrage, and to Hold Office," making Wyoming the first place in the United States to grant women full voting rights since New Jersey rescinded women's voting rights in 1807. The bill, introduced by William Bright and supported by suffrage advocate Esther Hobart Morris, passed both houses of the territorial legislature and was signed into law. This victory came just months after the bitter split in the national suffrage movement over the 15th Amendment in May 1869, demonstrating that western territories offered more fertile ground for democratic expansion than the established eastern states. Wyoming Day has been commemorated in the state every December 10 since this landmark legislation, celebrating the territory's pioneering role in women's suffrage.
 

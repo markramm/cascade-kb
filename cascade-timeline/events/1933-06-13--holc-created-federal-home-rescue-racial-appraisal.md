@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1933-06-13--holc-created-federal-home-rescue-racial-appraisal
 date: '1933-06-13'
 title: Home Owners' Loan Corporation Created, Establishes Racial Appraisal Framework
@@ -36,7 +36,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt signs the Home Owners' Loan Act, creating the Home Owners' Loan Corporation (HOLC) as an emergency response to the mortgage crisis of the Great Depression. Between 1933 and 1936, HOLC refinances approximately one million mortgages (one-tenth of all urban homes with mortgages) that are in default, preventing mass foreclosures and stabilizing the housing market. However, the agency simultaneously establishes a racial appraisal framework that institutionalizes discrimination.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-15--press-pool-restructure
 title: White House restructures press pool, removes permanent wire position
 date: '2025-04-15'
@@ -43,6 +43,6 @@ sources:
 
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 15, 2025, days after a federal court ordered the White House to restore Associated Press access, the Trump administration restructured the presidential press pool and eliminated the permanent wire-service position. This unprecedented move wrested control of press pool composition from the White House Correspondents' Association (WHCA), allowing the administration to hand-pick which journalists cover the president. WHCA and press freedom groups condemned this as an attack on independent journalism.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--pentagon-ig-hegseth-signal-violation
 date: '2025-12-03'
 title: Pentagon IG Finds Hegseth Shared SECRET//NOFORN Classified Information on Signal, Violated National Security Protocols
@@ -85,7 +85,7 @@ legal_status:
   current_status: Administration claims exoneration despite IG findings
 location: Washington, DC
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 2025, the Pentagon Inspector General released findings from a months-long investigation concluding that Defense Secretary Pete Hegseth shared classified SECRET//NOFORN (no foreign nationals) information about a pending U.S. military strike in Yemen through the encrypted messaging app Signal, violating Department of Defense policies and potentially endangering U.S. troops. The investigation, requested by bipartisan Senate Armed Services Committee leadership, found that Hegseth transmitted highly sensitive operational details—including targets, timing, and aircraft types—on his personal cell phone to two Signal group chats that included his wife and brother, neither of whom held security clearances for such information. Despite the Trump administration's claims of "total exoneration," the IG report documents clear policy violations and concludes that the leaked information could have caused "serious damage to national security" if intercepted by adversaries.
 

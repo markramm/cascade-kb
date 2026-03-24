@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-01--medicaid-expansion-funding-cuts-begin
 date: '2026-01-01'
 title: Medicaid Expansion Funding Cuts Take Effect, Threatening 1.3 Million
@@ -54,7 +54,7 @@ sources:
   tier: 1
   verified: true
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Changes from Trump's "One Big Beautiful Bill" took effect, ending special federal financial incentives for the 40 states that expanded Medicaid under the ACA. The Congressional Budget Office projected these cuts would leave 1.3 million more Americans uninsured in 2026, primarily affecting people earning less than $21,000/year.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-07-01--twitter-permanently-suspends-nick-fuentes
 date: '2021-07-01'
 title: Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
@@ -29,6 +29,6 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Twitter indefinitely suspended white nationalist Nick Fuentes' verified account in July 2021, making it among the last mainstream social media platforms to ban him. The suspension completed a comprehensive deplatforming campaign that had already removed Fuentes from YouTube (February 2020), Facebook, Instagram, DLive (following January 6), and numerous other platforms. By March 2021, according to ABC News, Fuentes had been suspended from "almost all" social media platforms. The Twitter ban was particularly significant as it had been one of Fuentes' final remaining mainstream communication channels for reaching supporters beyond encrypted messaging apps like Telegram. Fuentes claimed the deplatforming extended beyond social media, alleging his bank account had been frozen and that he had been placed on a federal no-fly list. The comprehensive deplatforming represented tech companies' response to Fuentes' role in January 6 events and continued promotion of white nationalist, antisemitic, and extremist content. In December 2021, even the alternative platform Gettr permanently suspended Fuentes, demonstrating the breadth of his removal from online discourse.

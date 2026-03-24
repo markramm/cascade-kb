@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-11--judge-merchan-postpones-sentencing-september
 date: '2024-07-11'
 title: Judge Merchan Postpones Trump Sentencing to September After Supreme Court Immunity Ruling
@@ -41,7 +41,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Judge Juan Merchan postponed Donald Trump's sentencing from July 11 to September 18, 2024, to allow time to consider how the Supreme Court's recent presidential immunity ruling might affect the case. The delay represented the first of what would become multiple postponements that ultimately prevented Trump from being sentenced before the 2024 presidential election, demonstrating how legal delays can effectively nullify criminal convictions when defendants possess sufficient resources and political power.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-04-01--thiel-funds-vance-senate
 date: '2022-04-01'
 title: 'Peter Thiel Provides $15 Million to J.D. Vance''s Ohio Senate Campaign'
@@ -49,7 +49,7 @@ notes: 'Thiel''s $15 million investment represents approximately 75% of pro-Vanc
 capture_lanes:
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 Peter Thiel contributed $15 million to Protect Ohio Values PAC, a super PAC supporting J.D. Vance's bid for the Republican Senate nomination in Ohio, representing the largest single investment in a Senate primary race at that time. Vance, author of the memoir "Hillbilly Elegy" and a former Thiel Capital employee, had been a vocal critic of Donald Trump before transforming into a MAGA enthusiast. Despite polling poorly before the investment, Vance's campaign was transformed by the combination of Thiel's money—which funded an extensive advertising campaign—and a late Trump endorsement secured partly through Thiel's network.
 
 Vance won the May 2022 Republican primary, defeating establishment-backed candidates Josh Mandel and Matt Dolan. The win demonstrated Thiel's ability to use concentrated financial investment to elevate preferred candidates in competitive primaries. The $15 million constituted approximately 75% of all pro-Vance super PAC spending and proved decisive in a state that might otherwise have nominated a more conventional conservative. Thiel, a co-founder of PayPal and early Facebook investor who had become one of Silicon Valley's most prominent libertarian figures, simultaneously funded similar campaigns for Blake Masters in Arizona, representing his vision of placing ideologically aligned tech-adjacent politicians in the Senate.

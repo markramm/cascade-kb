@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-09-21--virginia-massive-resistance-laws-stanley-plan
 date: '1956-09-21'
 title: Virginia Enacts Massive Resistance Laws Authorizing School Closures to Prevent Integration
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Following Senator Harry F. Byrd's February 24, 1956 call for "massive resistance" to avoid implementing public school integration in Virginia, the Byrd Organization-controlled Virginia General Assembly passes a series of laws in September 1956 known as the Stanley Plan (after Governor Thomas Bahnson Stanley) to implement this resistance strategy.
 

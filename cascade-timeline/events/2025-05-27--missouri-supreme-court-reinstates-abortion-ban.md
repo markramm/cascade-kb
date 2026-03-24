@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-27--missouri-supreme-court-reinstates-abortion-ban
 date: '2025-05-27'
 title: Missouri Supreme Court Reinstates Abortion Restrictions Despite Voter-Approved Amendment
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Missouri Supreme Court issued a two-page order on May 27, 2025, reinstating abortion restrictions and imposing what providers called a "de facto abortion ban" across the state, despite voters approving Amendment 3 in November 2024 declaring a fundamental right to reproductive freedom. Planned Parenthood immediately halted all abortions at its Kansas City and Columbia clinics.
 

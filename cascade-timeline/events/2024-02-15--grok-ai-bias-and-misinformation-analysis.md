@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-15--grok-ai-bias-and-misinformation-analysis
 date: '2024-02-15'
 title: AI Ethics Study Highlights Systemic Bias and Misinformation Risks in Grok AI
@@ -38,5 +38,5 @@ capture_lanes:
 - 'Media Capture & Control'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Stanford's AI Index 2024 and Northwestern CASMI research reveal critical systemic bias and misinformation risks in AI language models, with a specific focus on Grok AI. The studies highlight significant challenges in developing ethically-aligned artificial intelligence, documenting how advanced AI systems can amplify conspiracy theories, political misinformation, and demonstrate implicit ideological biases. By 2024, the AI Incidents Database reported 233 AI-related incidents—a 56.4% increase from 2023—with many incidents involving large language models spreading unverified or false information.

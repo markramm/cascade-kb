@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-03-27--milwaukee-parental-choice-program-first-voucher-system
 date: '1990-03-27'
 title: Milwaukee Parental Choice Program Creates First Publicly-Funded Private School Vouchers
@@ -37,7 +37,7 @@ capture_lanes:
 - Democratic Erosion
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 27, 1990, Wisconsin Governor Tommy Thompson signed legislation creating the Milwaukee Parental Choice Program (MPCP), the nation's first publicly-funded voucher program allowing public tax dollars to pay private school tuition. The program, initially limited to 1,000 low-income students attending secular private schools, established a template for voucher expansion that would spread nationwide over the following three decades.
 

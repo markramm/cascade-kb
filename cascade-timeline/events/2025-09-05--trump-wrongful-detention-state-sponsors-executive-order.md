@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-05--trump-wrongful-detention-state-sponsors-executive-order
 date: '2025-09-05'
 title: Trump Creates 'State Sponsor of Wrongful Detention' Designation via Executive Order
@@ -33,7 +33,7 @@ capture_lanes:
 - Executive Power Expansion
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed Executive Order 14348 on September 5, 2025, creating a new 'State Sponsor of Wrongful Detention' designation that empowers the Secretary of State to blacklist foreign countries determined to be involved in or supporting wrongful detentions of U.S. nationals. Countries designated as state sponsors face severe penalties including economic sanctions, visa restrictions, foreign assistance cuts, and travel warnings for U.S. passport holders.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-11-03--facebook-rollback-election-safeguards-stop-the-steal
 date: '2020-11-03'
 title: Facebook Rolls Back Election Safety Measures Immediately After 2020 Vote, Enabling "Stop the Steal" Misinformation
@@ -48,7 +48,7 @@ capture_lanes:
 - Electoral Manipulation
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook dismantles election safety measures immediately after the 2020 vote, prematurely rolling back safeguards designed to combat misinformation despite internal warnings. The decision enables "Stop the Steal" conspiracy theories to spread virally through the platform's algorithmic amplification, directly contributing to the January 6 Capitol insurrection.
 

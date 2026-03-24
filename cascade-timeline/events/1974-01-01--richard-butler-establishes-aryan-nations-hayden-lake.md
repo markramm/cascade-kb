@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-01-01--richard-butler-establishes-aryan-nations-hayden-lake
 date: '1974-01-01'
 title: Richard Butler Establishes Aryan Nations Compound in Hayden Lake, Idaho
@@ -96,7 +96,7 @@ notes: Part of comprehensive kleptocracy timeline tracking institutional capture
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 In 1974, Richard Girnt Butler, a 55-year-old retired aeronautical engineer and Christian Identity adherent, uses proceeds from a profitable invention to purchase a 20-acre property near Hayden Lake, Idaho, establishing what will become the nerve center of the white supremacist movement in North America for the next quarter century. Butler, who had been mentored by Christian Identity pastor Wesley Swift and served as director of the Christian Defense League, moves from California to north Idaho with the explicit goal of creating an "Aryan homeland" in the Pacific Northwest.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-01--at-a-dubai-conference-trump-s-conflicts-take-center-stage
 date: '2025-05-01'
 title: At a Dubai conference, Trump’s conflicts take center stage
@@ -71,6 +71,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 World Liberty Financial co-founder Zach Witkoff–who is also Steve Witkoff’s son–announced state-backed Emirati investment firm MGX would use Trump’s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023

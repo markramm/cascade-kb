@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-24--trump-jr-drone-contract
 date: '2025-10-24'
 title: Pentagon Awards Drone Contract to Company Where Trump Jr. Holds $4 Million Stake
@@ -33,6 +33,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Army awarded Unusual Machines a major contract to produce 3,500 drone motors, with expectations of 20,000 additional components in future orders, months after Donald Trump Jr. joined the company's advisory board in November 2024. Trump Jr. holds a disclosed $4 million stake in the company, whose stock has surged over 900% in 2025, nearly tripling after his appointment was announced. The contract award came as the Trump administration aggressively pushed domestic drone production through a $1.4 billion funding initiative and expedited Pentagon procurement policies, including an executive order to 'unleash American drone dominance.' While company representatives claim Trump Jr. never communicated with the administration about the contract, the timing creates severe conflict-of-interest concerns: the President's son financially benefits from Pentagon contracts awarded while his father serves as commander in chief. The arrangement demonstrates how Trump family business interests directly profit from federal procurement decisions.

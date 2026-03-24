@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-03-24--exxon-valdez-oil-spill-corporate-liability-evasion
 date: '1989-03-24'
 title: Exxon Valdez Oil Spill Triggers Corporate Campaign to Limit Pollution Liability
@@ -40,7 +40,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 24, 1989, the Exxon Valdez oil tanker ran aground in Prince William Sound, Alaska, spilling 11 million gallons of crude oil and devastating 1,300 miles of coastline. Beyond the immediate environmental catastrophe, Exxon's response established a template for corporate liability evasion that would influence pollution law for decades.
 

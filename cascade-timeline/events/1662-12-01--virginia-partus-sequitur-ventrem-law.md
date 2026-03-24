@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1662-12-01--virginia-partus-sequitur-ventrem-law
 date: '1662-12-01'
 title: Virginia Enacts Partus Sequitur Ventrem Making Slavery Hereditary Through Mothers
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Virginia House of Burgesses enacts a law establishing that "all children borne in this country shalbe held bond or free only according to the condition of the mother," implementing the Roman legal doctrine of partus sequitur ventrem (literally "that which is born follows the womb"). The law directly responds to litigation uncertainty about the status of children born to enslaved African mothers and English fathers, declaring definitively that such children inherit their mother's enslaved condition regardless of their father's free status. This represents a radical break from English common law tradition of patrilineal inheritance where children's legal status followed their father's position as head of household (pater familias), instead adopting Roman civil law principles previously applied only to livestock and domestic animals.
 

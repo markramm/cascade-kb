@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-04--trump-travel-ban-19-countries-harvard-student-ban
 date: '2025-06-04'
 title: Trump Expands Travel Ban to 19 Countries and Bans Harvard Students from Entry
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 President Trump signed an executive order expanding travel restrictions to 19 countries, while simultaneously ordering that students and scholars from Harvard University be barred from entering the United States. The Harvard ban represented an unprecedented use of immigration authority to punish a specific academic institution.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1953-10-30--eisenhower-new-look-defense-policy-budget-cuts
 date: '1953-10-30'
 title: Eisenhower Approves New Look Defense Policy - Cuts Military Budget by One-Third Despite Pentagon Resistance
@@ -33,7 +33,7 @@ actors:
 - Matthew B. Ridgway
 - Strategic Air Command
 ---
-type: solidarity_event
+type: timeline_event
 
 President Eisenhower approved National Security Council directive NSC 162/2, establishing the "New Look" defense policy that would reduce real defense spending by nearly one-third over his presidency despite intense Pentagon resistance. The policy reflected Eisenhower's conviction that excessive military budgets would undermine the economic foundations essential to long-term national security. Over his eight years, Eisenhower cut defense spending from a peak of $515 billion (in constant 2005 dollars) in fiscal 1953 to $370 billion by fiscal 1956, reducing military personnel from 3.5 million to 2.5 million and shrinking the Army by nearly 40% while making large cuts to naval forces. The policy eliminated six Army divisions, 15 Air Force wings, and 300 Navy ships by 1960.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-12--boebert-summoned-white-house-situation-room-epstein-petition
 date: '2025-11-12'
 title: Rep. Lauren Boebert Summoned to White House Situation Room Over Epstein Files Petition
@@ -46,7 +46,7 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On the morning of November 12, 2025, Rep. Lauren Boebert (R-CO) was summoned to the White House Situation Room for an extraordinary meeting with top Trump administration officials aimed at pressuring her to remove her name from the bipartisan discharge petition to release Jeffrey Epstein files. The meeting, which included Attorney General Pam Bondi, FBI Director Kash Patel, and Deputy Attorney General Todd Blanche, took place just hours before the discharge petition was expected to reach the critical threshold of 218 signatures needed to force a House vote. At the time of the meeting, the petition stood at 217 signatures—one short of the majority required—with all eyes on Rep. Adelita Grijalva, who was scheduled to be sworn in later that day and had pledged to sign the petition immediately upon taking office.
 

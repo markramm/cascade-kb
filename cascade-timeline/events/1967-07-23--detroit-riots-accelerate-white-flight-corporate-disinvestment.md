@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1967-07-23--detroit-riots-accelerate-white-flight-corporate-disinvestment
 date: '1967-07-23'
 title: Detroit Riots Accelerate Pre-Existing White Flight and Corporate Urban Disinvestment Pattern Creating Decades of Economic Decline
@@ -43,7 +43,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 A Detroit Police Department raid on an unlicensed after-hours bar in the heart of the city's predominantly African American inner city ignites one of the most violent and destructive civil disturbances in American history. The five-day uprising leaves 43 people dead, more than 1,000 injured, over 7,000 arrested, and approximately 1,400 buildings burned or looted. Entire city blocks are reduced to rubble, requiring deployment of Michigan National Guard and federal troops to restore order.
 

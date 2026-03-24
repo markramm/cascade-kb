@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-11--trump-dc-police-federal-takeover-national-guard
 date: '2025-08-11'
 title: Trump Federalizes DC Police and Deploys 800 National Guard Troops Despite Declining Crime
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump announced federal takeover of Washington DC's police department and deployment of 800 National Guard troops, invoking emergency powers under the Home Rule Act of 1973. DEA Administrator Terry Cole was designated interim federal commissioner. Attorney General Pam Bondi assumed command despite violent crime being down 32% in 2024 and another 12% in 2025.
 

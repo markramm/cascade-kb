@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-05--musk-s-pac-launches-1-million-tv-ad-buy-touting-trump-s-firs
 date: '2025-03-05'
 title: Musk's America PAC launches $1 million TV ad buy touting Trump's first 6 weeks in office
@@ -43,6 +43,6 @@ capture_lanes:
 - Media Capture & Control
 notes: Detailed 60-second TV ad campaign positioning Trump's early presidency, with commentary criticizing Biden and praising Trump's perceived accomplishments.
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk's America PAC launched a nationwide $1 million television advertisement praising President Donald Trump's early presidency, aired following Trump's joint address to Congress. The ad attacks the Biden administration, highlights Trump's border and efficiency claims, and positions Trump as restoring American strength.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--24-states-sue-epa-endangerment-finding-repeal
 date: '2026-03-19'
 title: 24 States and 15 Local Governments Sue EPA Over Repeal of Greenhouse Gas Endangerment Finding
@@ -39,7 +39,7 @@ capture_lanes:
 - Environmental Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, a coalition of 24 states, 10 cities, and 5 counties filed suit in the D.C. Circuit Court of Appeals challenging the Trump EPA's repeal of the 2009 endangerment finding — the foundational scientific determination that greenhouse gas emissions endanger public health and welfare. The lawsuit represented the second major legal challenge to the repeal and the largest coalition of government plaintiffs assembled against the administration's environmental agenda.
 

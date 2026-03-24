@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-08-15--raytheon-paveway-bomb-destroys-msf-hospital-abs-yemen
 date: '2016-08-15'
 title: Raytheon Paveway Bomb Strikes MSF Hospital in Yemen, Killing 11 Including Healthcare Workers
@@ -45,7 +45,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 At approximately 3:45 PM on August 15, 2016, a Saudi-led coalition airstrike struck the Abs Hospital in Yemen's Hajjah governorate, killing at least 11 people including an MSF staff member and injuring at least 19 others. The hospital was clearly marked as a medical facility and Médecins Sans Frontières (MSF, also known as Doctors Without Borders) had repeatedly provided the hospital's GPS coordinates to all parties to the conflict, including the Saudi-led coalition. Amnesty International weapons experts confirmed that the attack used a US-made precision-guided Paveway-series aerial bomb manufactured by Raytheon and Lockheed Martin. The strike represented the fourth attack on an MSF medical facility in Yemen in less than 12 months, demonstrating a systematic pattern of attacks on protected healthcare infrastructure that violated fundamental principles of international humanitarian law.
 

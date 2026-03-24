@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-04-27--trump-birtherism-campaign-forces-obama-certificate-release
 date: '2011-04-27'
 title: 'Trump''s Birtherism Campaign Forces Obama to Release Long-Form Birth Certificate'
@@ -36,5 +36,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 After weeks of Donald Trump loudly questioning President Obama's citizenship and claiming to have sent private investigators to Hawaii, Obama released his long-form birth certificate to address what he called 'silliness.' Trump had appeared on Good Morning America in March 2011 claiming he was 'a little skeptical of Obama's citizenship' while announcing consideration of a presidential run. Trump immediately claimed credit: 'I am really honored and I am really proud, that I was able to do something that nobody else could do.' However, Trump continued pushing birther conspiracy theories for years afterward, tweeting in August 2012 that 'An "extremely credible source" has called my office and told me that Barack Obama's birth certificate is a fraud.' Trump's birtherism represented a racist conspiracy theory designed to delegitimize the first African American president by questioning his American identity. A 2015 study found birther views were predominantly held by conservatives/Republicans with anti-Black attitudes. The campaign highlighted how 'fundamental American values function to perpetuate and promote white supremacy'—to not be American, Christian, or White was framed as a threat. Trump only admitted Obama was born in the US in September 2016 while falsely claiming Hillary Clinton started the controversy. The birtherism campaign launched Trump's political career and demonstrated the continued potency of racial dog whistles in energizing white nationalist sentiment within the Republican base.

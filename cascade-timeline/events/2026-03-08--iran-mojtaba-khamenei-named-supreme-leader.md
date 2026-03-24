@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-08--iran-mojtaba-khamenei-named-supreme-leader
 date: '2026-03-08'
 title: Iran Names Mojtaba Khamenei Supreme Leader After Father Killed in US-Israeli Strike
@@ -43,7 +43,7 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 8, 2026 -- ten days into Operation Epic Fury -- Iran's Assembly of Experts convened and elected Mojtaba Khamenei, the 56-year-old son of the slain Supreme Leader Ali Khamenei, as the Islamic Republic's third Supreme Leader. Ali Khamenei had been killed in an Israeli airstrike in the earliest hours of the US-Israeli joint military campaign that began February 28, 2026.
 

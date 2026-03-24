@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--emoluments-constitutional-enforcement-crisis
 date: '2025-02-15'
 title: Federal Courts Grapple with Unprecedented Emoluments Enforcement Challenge
@@ -42,5 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 In February 2025, the Supreme Court and federal district courts reached a critical impasse over presidential emoluments enforcement. Following a pattern established in previous cases, the Court repeatedly declined to resolve substantive questions about Trump's potential constitutional violations, instead using procedural maneuvers to avoid direct confrontation. Multiple district courts issued conflicting rulings, creating a constitutional standoff that effectively paralyzed enforcement mechanisms for the Emoluments Clauses.

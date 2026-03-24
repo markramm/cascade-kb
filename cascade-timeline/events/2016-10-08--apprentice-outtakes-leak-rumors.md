@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-08--apprentice-outtakes-leak-rumors
 date: 2016-10-08
 title: 'Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett Refuses Release'
@@ -36,7 +36,7 @@ actors:
 - Donald Trump
 - Mark Burnett
 ---
-type: solidarity_event
+type: timeline_event
 During the 2016 presidential campaign, widespread rumors emerge of damaging outtakes from "The Apprentice" showing Donald Trump using the n-word and other racist and sexist language. Producer Mark Burnett, through his company now owned by MGM, refuses to release any footage, citing contractual and legal restrictions, while sources indicate Burnett threatens to sue anyone who leaks the material. The controversy highlights how entertainment industry NDAs and corporate ownership can suppress potentially consequential information about a presidential candidate.
 
 ## The Rumors Emerge

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-10--ab-inbev-sabmiller-merger-beer-duopoly
 date: '2016-10-10'
 title: 'Anheuser-Busch InBev Completes $107 Billion SABMiller Acquisition: Beer Industry Consolidates Into Duopoly'
@@ -40,7 +40,7 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Anheuser-Busch InBev completed its $107 billion acquisition of SABMiller, the largest-ever deal in the beer industry, after receiving antitrust approval requiring divestiture of SABMiller's U.S. business (MillerCoors stake) to Molson Coors. The merger consolidated the global beer industry into a near-duopoly, with AB InBev and Molson Coors controlling approximately 70% of the U.S. beer market and AB InBev dominating worldwide beer production and distribution.
 

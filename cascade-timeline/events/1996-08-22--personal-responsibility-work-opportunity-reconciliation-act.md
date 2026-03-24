@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1996-08-22'
 title: Personal Responsibility and Work Opportunity Act Ends Welfare Entitlement
 importance: 9
@@ -41,7 +41,7 @@ capture_lanes:
 - Labor Suppression
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bill Clinton signs the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA), fulfilling his 1992 campaign promise to "end welfare as we know it." The legislation represents the most significant overhaul of the American welfare system since the New Deal, replacing the 61-year-old Aid to Families with Dependent Children (AFDC) program with Temporary Assistance for Needy Families (TANF), which places strict time limits on welfare assistance and implements work requirements.
 

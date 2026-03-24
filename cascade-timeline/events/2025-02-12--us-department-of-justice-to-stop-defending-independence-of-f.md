@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-12--us-department-of-justice-to-stop-defending-independence-of-f
 date: '2025-02-12'
 title: DOJ Moves to Undermine Independence of Regulatory Agencies
@@ -52,6 +52,6 @@ capture_lanes:
 - Democratic Erosion
 notes: DOJ seeks to remove constitutional protections for independent agency leadership, marking a significant challenge to regulatory independence.
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice announced plans to challenge the constitutional protections that prevent the president from arbitrarily firing leaders of independent agencies like the Federal Trade Commission (FTC) and National Labor Relations Board (NLRB). Acting Solicitor General Sarah Harris argued that current laws protecting agency leadership are unconstitutional, potentially opening the door to direct executive branch interference in regulatory bodies.

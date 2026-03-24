@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-02-05--powell-un-false-wmd-presentation
 date: '2003-02-05'
 importance: 9
@@ -38,6 +38,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Secretary of State Colin Powell delivered a 76-minute presentation to the UN Security Council presenting fabricated evidence to justify the Iraq War. Powell's presentation included: mobile weapons labs based on testimony from 'Curveball,' a source who later admitted lying; aluminum tubes claims his own staff warned were 'not credible'; and a theatrical anthrax vial demonstration. The CIA and State Department had warned that many claims were false before the presentation. Powell later called the presentation a 'blot' on his record, acknowledging the evidence was fabricated. This false presentation became central to the Bush administration's justification for the 2003 Iraq invasion.

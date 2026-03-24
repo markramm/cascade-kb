@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1984-01-01'
 title: Drexel Burnham Lambert Raises $100 Million Blind Pool for Nelson Peltz Corporate
   Raids
@@ -37,6 +37,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Michael Milken at Drexel Burnham Lambert raised the first major $100 million blind pool for Nelson Peltz and Triangle Industries to finance corporate takeovers. This groundbreaking financial innovation established the template for blind pool financing that would become central to 1980s corporate raider operations. By providing pre-committed capital and Drexel's 'highly confident letters' that functioned as cash equivalents for hostile takeovers, Milken created a new mechanism for corporate restructuring that fundamentally transformed American business strategy.

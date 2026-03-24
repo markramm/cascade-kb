@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-04--jeffrey-clark-signal-messages-scott-perry
 date: '2021-01-04'
 title: Jeffrey Clark admits in Signal messages that classified briefing yielded "nothing helpful" for Trump
@@ -45,6 +45,6 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 DOJ official Jeffrey Clark sent Signal messages to Rep. Scott Perry admitting that a highly classified briefing on foreign election interference "yielded nothing" to support stolen election claims, writing "Bottom line is there is nothing helpful to P" (referring to the President). Despite knowing this, Clark continued pushing DOJ to investigate false fraud claims and engaged in secret communications with Trump "in total violation of Justice Department rules."

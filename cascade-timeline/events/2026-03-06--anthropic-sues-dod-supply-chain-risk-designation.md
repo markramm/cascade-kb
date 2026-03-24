@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-06--anthropic-sues-dod-supply-chain-risk-designation
 date: '2026-03-06'
 title: Anthropic Files Lawsuit Against Pentagon Over Unprecedented National Security Designation
@@ -56,7 +56,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 6, 2026, Anthropic CEO Dario Amodei announced that the company was filing suit against the U.S. government to challenge the Department of Defense's designation of Anthropic as a "supply-chain risk to America's national security." Amodei stated that the company saw "no choice but to challenge it in court," characterizing the designation as legally unsound and an improper use of national security authority to punish a supplier for asserting legitimate contractual safety conditions.
 

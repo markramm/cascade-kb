@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--judge-quraishi-ejects-doj-prosecutor-nj
 date: '2026-03-17'
 title: "Judge Quraishi Ejects DOJ Prosecutor From Courtroom, Orders NJ US Attorney Leadership to Testify"
@@ -42,7 +42,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, U.S. District Judge Zahid Quraishi ejected supervisory Assistant U.S. Attorney Mark Coyne from his courtroom during a child pornography sentencing hearing in what became one of the most dramatic judicial confrontations with the Trump Department of Justice. The extraordinary move reflected the deep erosion of trust between the federal bench and the New Jersey U.S. Attorney's office under Trump-appointed leadership.
 

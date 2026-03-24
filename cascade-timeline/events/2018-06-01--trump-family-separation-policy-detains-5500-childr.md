@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-06-01--trump-family-separation-policy-detains-5500-childr
 date: '2018-06-01'
 importance: 9
@@ -41,6 +41,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration's 'zero tolerance' family separation policy forcibly removed over 5,500 children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. At least 7 children died in custody. The policy's architect, Stephen Miller, called it a deterrent despite knowing it violated international law. Documents revealed the administration knew it would separate families but proceeded anyway. Private prison companies CoreCivic and GEO Group profited billions from expanded detention contracts. Federal judges ordered reunification but over 1,000 children still remained separated by 2021. The UN Human Rights Office called it 'government-sanctioned child abuse.' Physicians for Human Rights documented lasting psychological trauma equivalent to torture.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-01--rybolovlev-trump-palm-beach-purchase
 date: '2016-10-01'
 importance: 8
@@ -34,6 +34,6 @@ sources:
 notes: Use neutral language; multiple outlets reported the demolition and subsequent lot sales. Avoid implying money‑laundering absent evidentiary sourcing.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 After buying Donald Trump's 'Maison de L'Amitié' for $95M in 2008, Dmitry Rybolovlev obtained local approval to demolish the mansion in 2016 and subdivided the oceanfront parcel into three lots that sold for a combined ~$108M by 2019.

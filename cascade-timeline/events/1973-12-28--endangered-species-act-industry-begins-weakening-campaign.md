@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1973-12-28--endangered-species-act-industry-begins-weakening-campaign
 date: '1973-12-28'
 title: Endangered Species Act Signed, Industry Groups Immediately Begin Weakening Campaign
@@ -40,7 +40,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 28, 1973, President Nixon signed the Endangered Species Act (ESA) into law after it passed the Senate 92-0 and the House 355-4. The near-unanimous votes masked deep industry opposition that would fuel decades of efforts to weaken the law through administrative action, litigation, and legislative amendments.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-15--trump-donors-eye-potential-bonanza-if-us-succeeds-with-green
 date: '2025-04-15'
 title: Trump Donors Seek Greenland Investment Opportunities
@@ -46,6 +46,6 @@ notes: Event highlights potential conflicts of interest with Trump donors positi
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Several major Trump donors, including tech billionaires and investment firms, are positioning themselves to potentially profit from the Trump Administration's continued pursuit of strategic interests in Greenland, focusing on rare earth mineral rights and geopolitical positioning.

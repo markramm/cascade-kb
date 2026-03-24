@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-05--treasury-sanctions-intellexa-consortium-tal-dilian
 date: '2024-03-05'
 title: Treasury Department Sanctions Intellexa Consortium and Tal Dilian
@@ -46,6 +46,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The US Treasury Department's Office of Foreign Assets Control (OFAC) designates two individuals and five entities associated with the Intellexa Consortium for developing commercial spyware used to target Americans, including US government officials, journalists, and policy experts. Key sanctioned individuals include Israeli founder Tal Jonathan Dilian and corporate specialist Sara Aleksandra Fayssal Hamou. Five corporate entities operating under Intellexa, Cytrox, and Thalestris Limited across Greece, Hungary, Ireland, and North Macedonia are sanctioned. This marks the first Treasury sanctions against spyware industry actors, representing escalated US efforts to combat systematic surveillance targeting Americans. The sanctions prohibit US persons and companies from engaging in transactions or providing material support to these sanctioned entities.

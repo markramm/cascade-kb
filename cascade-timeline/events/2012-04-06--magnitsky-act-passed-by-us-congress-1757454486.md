@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2012-04-06'
 title: Magnitsky Act Passed by US Congress
 importance: 8
@@ -37,5 +37,5 @@ capture_lanes:
 - Intelligence Penetration
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 The Sergei Magnitsky Rule of Law Accountability Act was introduced in the US House of Representatives, targeting Russian officials responsible for human rights violations and corruption. Named after Sergei Magnitsky, a lawyer who exposed a $230 million tax fraud scheme and subsequently died in Russian custody, the act authorized sanctions against individuals involved in his death and related corruption.

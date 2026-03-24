@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-31--trump-family-to-launch-us-bitcoin-mining-venture-with-hut-8
 date: '2025-03-31'
 title: Trump Family Launches American Bitcoin Corp. with Hut 8
@@ -47,6 +47,6 @@ capture_lanes:
 - Financial Capture
 notes: Event tracked as part of comprehensive kleptocracy timeline. Represents potential conflict of interest and monetization of political position.
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump family partners with Hut 8 Corp. to launch American Bitcoin Corp., a new Bitcoin mining venture aimed at becoming a leading strategic Bitcoin mining and reserve company. Eric Trump serves as co-founder and chief strategy officer, with the company targeting a Nasdaq listing and expansive mining infrastructure.

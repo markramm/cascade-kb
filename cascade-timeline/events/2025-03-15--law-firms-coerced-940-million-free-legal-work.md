@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Trump Administration
 - Major law firms
@@ -57,5 +57,5 @@ tags:
 - executive-power-abuse
 title: Trump administration coerces law firms into $940 million of free legal work
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration pressured nine major law firms to provide $940 million worth of free legal services to defend administration policies and officials. Under threat of losing federal contracts and being blacklisted, firms like Paul Weiss, Kirkland & Ellis, and Skadden agreed to unprecedented pro bono commitments. Firms could be called upon to provide free representation to causes supporting the administration, including defense of police actions, environmental rollbacks, and White House legal challenges. Sixteen Democratic lawmakers warned these agreements may violate federal and state laws, highlighting the coercive nature of the administration's tactics. The deals represent a significant erosion of legal professional independence and raise serious concerns about executive branch overreach.

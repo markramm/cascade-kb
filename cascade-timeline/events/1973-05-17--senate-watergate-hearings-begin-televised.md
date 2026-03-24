@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1973-05-17--senate-watergate-hearings-begin-televised'
 date: '1973-05-17'
 title: 'Senate Watergate Committee Begins Televised Hearings, Exposing Presidential Crimes to Public'
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 17, 1973, the Senate Select Committee on Presidential Campaign Activities—commonly known as the Senate Watergate Committee—opened televised public hearings into the Watergate scandal. Chaired by Senator Sam Ervin of North Carolina, with Senator Howard Baker of Tennessee as vice chairman, the committee would hold hearings for 51 days over the next several months, calling more than 30 witnesses and capturing the riveted attention of millions of Americans. The hearings were broadcast live on national television, transforming what had been a complex political scandal into a national civics lesson about presidential abuse of power, with the public watching in real time as evidence of systematic criminality emerged.
 

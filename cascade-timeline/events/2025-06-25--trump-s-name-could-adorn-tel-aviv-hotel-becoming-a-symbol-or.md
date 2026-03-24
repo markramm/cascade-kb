@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-25--trump-s-name-could-adorn-tel-aviv-hotel-becoming-a-symbol-or
 date: '2025-06-25'
 title: Trump Organization Explores Tel Aviv Hotel Branding Despite Geopolitical Tensions
@@ -44,6 +44,6 @@ notes: Preliminary deal paused by October 7 conflict, but Eric Trump indicates i
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump Organization, led by Eric Trump, held advanced negotiations to brand and manage the Sarona Hotel in Tel Aviv in 2025. These talks, initially promising, were paused following the October 7 conflict. Eric Trump indicated the deal would have been completed if not for the war, suggesting the company intends to pursue the project once tensions subside.

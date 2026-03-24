@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1832-11-24--nullification-crisis-south-carolina-secession-threat
 date: '1832-11-24'
 title: South Carolina Nullification Crisis Previews Slave Power Secession Tactics
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 A South Carolina state convention adopts the Ordinance of Nullification, declaring the federal Tariffs of 1828 and 1832 "null, void, and no law, nor binding upon this State, its officers or citizens," and threatening secession if the federal government attempts to collect tariff duties by force. The ordinance, rooted in Vice President John C. Calhoun's 1828 theory that states can declare federal laws unconstitutional and unenforceable within their borders, forbids appeal to federal courts and requires state officeholders to take an oath supporting nullification. While ostensibly about tariff policy—southern agrarian states opposed protective tariffs that increased costs for imported manufactured goods—the crisis serves as a dry run for the secessionist arguments that slaveholding states will deploy three decades later to defend slavery, establishing the constitutional theories and confrontational tactics that ultimately lead to Civil War.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1819-01-01--panic-of-1819-second-bank-speculation-fraud
 date: '1819-01-01'
 title: Panic of 1819 Erupts from Second Bank Speculation and Baltimore Branch Fraud
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The United States experiences its first major peacetime financial crisis as the speculative bubble in western land collapses, triggering the Panic of 1819 and a prolonged economic depression. The crisis directly results from the Second Bank of the United States' reckless lending practices, fraud at its Baltimore branch, and sudden credit contraction when the institution attempts to save itself from insolvency. Between 1816 and 1818, dishonest managers of the Baltimore branch swindle investors out of more than $1 million through fraud and larceny, with branch directors engaging in self-dealing by making loans to themselves and associates. State banks and even other branches of the U.S. Bank encourage a wave of speculation, with the Second Bank making risky loans, opening branches in the South and West where land fever runs highest, and issuing a steady stream of paper notes that increases inflation and speculation.
 

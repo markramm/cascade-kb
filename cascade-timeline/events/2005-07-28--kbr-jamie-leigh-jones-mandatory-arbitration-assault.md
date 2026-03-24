@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-07-28--kbr-jamie-leigh-jones-mandatory-arbitration-assault
 date: '2005-07-28'
 title: KBR Employee Jamie Leigh Jones Alleges Gang Rape in Iraq, Exposes Systematic Use of Mandatory Arbitration to Shield Contractor Accountability
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 28, 2005, KBR employee Jamie Leigh Jones, then 22 years old and working her fourth day on the job in Baghdad, alleged she was drugged and gang-raped by KBR coworkers at Camp Hope in the Green Zone. Army doctors examined Jones and found evidence of sexual assault "both vaginally and anally," but the rape kit subsequently disappeared after being handed over to KBR security officers, eliminating critical medical evidence. KBR's response to Jones' allegations revealed systematic contractor accountability evasion: the company confined her to a shipping container for at least 24 hours with armed guards who refused to let her leave, effectively holding her in captivity while threatening her employment. Jones borrowed a cell phone from a sympathetic guard and contacted her father in Texas, who reached Representative Ted Poe (R-TX). Poe's office alerted the State Department, which dispatched U.S. Embassy agents to Baghdad to rescue Jones from KBR custody.
 

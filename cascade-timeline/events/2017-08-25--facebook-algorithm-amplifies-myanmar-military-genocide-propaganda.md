@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-08-25--facebook-algorithm-amplifies-myanmar-military-genocide-propaganda
 date: '2017-08-25'
 title: Facebook Algorithm Amplifies Myanmar Military Hate Speech Enabling Rohingya Genocide
@@ -49,7 +49,7 @@ capture_lanes:
 - Media Capture & Control
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook's engagement-maximizing algorithm proactively amplifies Myanmar military's anti-Rohingya hate speech and genocide propaganda, directly contributing to systematic ethnic cleansing that kills thousands and displaces over 700,000 Rohingya Muslims. The platform's surveillance capitalism business model prioritizes engagement over human safety despite years of warnings from civil society.
 

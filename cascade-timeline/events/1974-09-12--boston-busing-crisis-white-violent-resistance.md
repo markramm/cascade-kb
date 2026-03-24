@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-09-12--boston-busing-crisis-white-violent-resistance
 date: '1974-09-12'
 title: Boston Busing Crisis Erupts, Northern White Resistance to Desegregation
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Court-ordered school desegregation begins in Boston amid massive white violence and resistance, shattering illusions that Northern cities differ from Southern segregation. Following Judge W. Arthur Garrity Jr.'s June 1974 ruling in Morgan v. Hennigan that Boston School Committee "knowingly carried out a systematic program of segregation affecting all of the city's students, teachers and school facilities," nearly 17,000 students are transferred by bus to increase racial integration. On September 9, over 4,000 white demonstrators rally at Boston Common to protest, and when busing begins September 12, Black students desegregating South Boston High School are met by white mobs throwing rocks, bottles, eggs and rotten tomatoes while yelling "Niggers, go home!"
 

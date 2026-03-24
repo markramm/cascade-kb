@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-07--openai-kalinowski-resignation-pentagon-deal
 date: '2026-03-07'
 title: OpenAI Robotics Chief Caitlin Kalinowski Resigns Over Pentagon Deal, Citing Surveillance and Autonomous Weapons Concerns
@@ -54,7 +54,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Caitlin Kalinowski, who had led hardware and robotics operations at OpenAI since November 2024, resigned on March 7, 2026, citing the company's Pentagon contract as the direct cause of her departure. Her resignation was the highest-profile employee departure resulting from the deal and crystallized a deep internal fracture at OpenAI over the ethics and governance of military AI deployment.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-07--mit-media-lab-director-joi-ito-resigns-after-conce
 date: '2019-09-07'
 importance: 8
@@ -44,6 +44,6 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 MIT Media Lab director Joi Ito resigned after reports revealed he had concealed millions in donations from Jeffrey Epstein and his associates. The lab received at least $7.5 million in funding linked to Epstein, with Ito actively working to hide Epstein's involvement from MIT administrators and the public. Internal emails showed Ito referred to Epstein donations as 'Voldemort' money that must not be named publicly.

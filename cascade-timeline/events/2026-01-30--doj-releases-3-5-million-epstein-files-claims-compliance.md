@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-30--doj-releases-3-5-million-epstein-files-claims-compliance
 date: '2026-01-30'
 status: confirmed
@@ -41,7 +41,7 @@ capture_lanes:
 - Legislative Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice released over 3 million additional pages, 180,000 images, and 2,000 videos of Epstein-related materials, bringing the total public release to approximately 3.5 million pages. Deputy Attorney General Todd Blanche declared the release marked "the end of a very comprehensive document review process" and claimed full compliance with the Epstein Files Transparency Act. More than 500 attorneys and reviewers contributed to the effort.
 

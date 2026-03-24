@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-01-01--abramoff-reed-tigua-casino-double-dealing-scheme
 date: '2002-01-01'
 title: Abramoff-Reed Execute Double-Dealing Scheme Against Tigua Tribe
@@ -37,6 +37,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Jack Abramoff and Ralph Reed executed a sophisticated multi-stage scam against the Tigua Tribal Nation, first coordinating to close their El Paso casino through targeted religious opposition, then charging the tribe $4.2 million to lobby for its reopening. Century Strategies, Reed's firm, led Christian conservative groups to oppose gambling, while Abramoff simultaneously manipulated both the religious groups and the tribe for maximum financial gain. The scheme demonstrates a cynical exploitation of political and religious networks for personal profit.

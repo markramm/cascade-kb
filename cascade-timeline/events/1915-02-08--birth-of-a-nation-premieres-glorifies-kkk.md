@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1915-02-08--birth-of-a-nation-premieres-glorifies-kkk
 date: '1915-02-08'
 title: 'Birth of a Nation Premieres in Los Angeles: Groundbreaking Film Glorifies KKK, Depicts Black Americans as Evil'
@@ -37,7 +37,7 @@ capture_lanes:
 - Democratic Erosion
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 D.W. Griffith's silent film "The Birth of a Nation" premiered in Los Angeles, becoming the longest and most profitable film produced to that date while securing the future of feature-length films and establishing cinema as a serious artistic medium. With assistance from cinematographer G.W. "Billy" Bitzer, Griffith invented or refined important cinematic techniques including the close-up, scenic long shot, moving-camera shot, fade-in and fade-out, flashback, and parallel editing. Based on Thomas Dixon Jr.'s novel, the three-hour epic depicted the American Civil War and Reconstruction through the experiences of the Northern Stoneman and Southern Cameron families. However, the film's technical brilliance served deeply racist propaganda: Black people, particularly in the film's second part dramatizing Reconstruction, were portrayed as the root of all evil and unworthy of freedom or voting rights. Male African Americans were depicted as constantly lusting after white women. In stark contrast, the Ku Klux Klan was portrayed in heroic terms as a healing force restoring order to the South, riding to rescue white civilization from Black barbarism.
 
 President Woodrow Wilson, a former historian who had written sympathetically about the Klan, reportedly screened the film at the White House and praised it, lending presidential legitimacy to its racist narrative. Protests accompanied the film's Los Angeles premiere in February 1915 and continued when it debuted in New York in March. Boston witnessed the most intense and protracted opposition when the film opened in April. When released nationally, riots broke out in Philadelphia and other major cities, with gangs of white people attacking Black people. The film's inflammatory nature catalyzed widespread racial violence. Despite—or perhaps because of—the controversy, the film became a massive commercial success, demonstrating the profitability of racist propaganda.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-12--doj-proposes-rule-shielding-lawyers-bar-discipline
 date: '2026-03-12'
 title: DOJ Proposes Rule Giving Attorney General Veto Power Over Bar Complaints Against Government Lawyers
@@ -44,7 +44,7 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 12, 2026, the Trump Department of Justice's proposed rule to shield government lawyers from state bar disciplinary proceedings drew renewed attention as the DC Bar opened an investigation into DOJ official Ed Martin. The rule, first proposed in late February 2026, would give the U.S. Attorney General a "right of first review" whenever a bar complaint was filed against a current or former DOJ lawyer for work conducted in an official capacity.
 

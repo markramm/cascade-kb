@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1973-10-01'
 title: Trilateral Commission Founded by David Rockefeller
 actors:
@@ -39,6 +39,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 David Rockefeller, chairman of Chase Manhattan Bank, founded the Trilateral Commission in July 1973 as a private organization to foster cooperation between the United States, Western Europe, and Japan. The initiative was led by Rockefeller and Zbigniew Brzezinski, who became the commission's first full-time director. Emerging during a period of global economic uncertainty following the collapse of the Bretton Woods system, the commission held its inaugural international meeting in Tokyo in October 1973. The organization brought together approximately 60 elite members, including Jimmy Carter (then governor of Georgia), to develop coordinated international policies. Initially funded by the Rockefeller, Ford, and Kettering foundations, the Trilateral Commission aimed to address growing interdependence among industrialized democracies. Critics viewed the organization as an effort to consolidate influence across political, economic, and intellectual spheres, highlighting its potential for elite network formation.

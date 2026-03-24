@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Scott Bessent
 - Steve Witkoff
@@ -63,7 +63,7 @@ tags:
 title: Treasury Imposes New Iran Sanctions Day Before Geneva Nuclear Talks, Undercutting
   Diplomacy
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 25, 2026 - the day before the third round of US-Iran nuclear talks opened in Geneva - the Treasury Department's Office of Foreign Assets Control (OFAC) announced a new wave of sanctions targeting Iran's oil export network. The penalties targeted 12 vessels along with several companies and individuals the US said were involved in Iranian oil sales and weapons procurement.
 

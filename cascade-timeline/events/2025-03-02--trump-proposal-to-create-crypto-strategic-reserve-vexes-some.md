@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-02--trump-proposal-to-create-crypto-strategic-reserve-vexes-some
 date: '2025-03-02'
 title: 'Trump Establishes Strategic Crypto Reserve, Expanding U.S. Digital Asset Strategy'
@@ -47,5 +47,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump signed an executive order establishing a Strategic Bitcoin Reserve, committing the U.S. government to stockpile Bitcoin, Ether, XRP, Solana, and Cardano. The reserve will be capitalized through forfeited assets and aims to position the U.S. as a global leader in cryptocurrency adoption. The initiative sparked both market excitement and industry skepticism.

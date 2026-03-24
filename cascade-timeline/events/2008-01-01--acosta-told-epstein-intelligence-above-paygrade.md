@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-01-01--acosta-told-epstein-intelligence-above-paygrade
 date: '2008-01-01'
 importance: 10
@@ -44,6 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Investigative reporter Vicky Ward wrote in 2019 that, during Donald Trump's transition vetting, Alexander Acosta explained he had been told to 'back off' because Jeffrey Epstein 'belonged to intelligence.' No U.S. government review has substantiated intelligence ties; DOJ's Office of Professional Responsibility later criticized the 2007 non-prosecution agreement on other grounds without noting any intelligence issues.

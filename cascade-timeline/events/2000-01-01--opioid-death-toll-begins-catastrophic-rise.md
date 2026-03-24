@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--opioid-death-toll-begins-catastrophic-rise
 title: Opioid Epidemic Death Toll Reaches 500,000 Americans Between 2000-2020
 date: '2000-01-01'
@@ -38,7 +38,7 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Between 2000 and 2020, approximately 500,000 Americans died from opioid-involved overdoses, representing one of the most devastating preventable public health catastrophes in American history. The death toll resulted from a combination of aggressive pharmaceutical marketing, regulatory capture, and systematic failure to hold corporate executives criminally accountable despite guilty pleas and documented evidence of fraud.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 title: 'Melania Trump Launches NFT Platform with "Melania''s Vision" Collection'
 date: '2021-12-16'
 key_actors:
@@ -44,5 +44,5 @@ importance: 4
 actors:
 - Melania Trump
 ---
-type: solidarity_event
+type: timeline_event
 Former First Lady Melania Trump launched her NFT platform and first collection "Melania's Vision" in December 2021, featuring a watercolor artwork of her eyes priced at 1 Solana (approximately 50), representing the beginning of Trump family exploitation of cryptocurrency markets for personal enrichment. The NFT included a digital watercolor by French artist Marc-Antoine Coulon depicting Trump's "cobalt blue eyes" along with an audio recording where she delivers a "message of hope," demonstrating how political figures began monetizing their celebrity status through speculative digital assets. The venture was promoted as supporting charitable causes for foster care children through her "Be Best" initiative, but primarily served as a vehicle for extracting funds from supporters willing to purchase digital collectibles of minimal intrinsic value. This launch established a pattern of Trump family members leveraging their political brand recognition to create artificial scarcity and demand in volatile cryptocurrency markets. The platform, powered by Parler, promised regular NFT releases, setting the stage for systematic exploitation of political celebrity status in emerging digital asset markets that would generate millions in revenue from politically motivated purchasers.

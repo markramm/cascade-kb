@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-09-15--bob-ney-pleads-guilty-abramoff-corruption-scandal
 date: '2006-09-15'
 importance: 7
@@ -39,6 +39,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Representative Bob Ney (R-OH) pleaded guilty to charges of conspiracy and making false statements in connection with the Jack Abramoff lobbying scandal, becoming the first member of Congress convicted in the case. Ney admitted to receiving gifts including golf trips to Scotland, expensive meals, and tickets to sporting events worth thousands of dollars between 2002 and 2004 in exchange for using his position to help Abramoff's clients. Ney also admitted to placing statements in the Congressional Record supporting Abramoff's clients and helping with legislative matters. He was sentenced to 30 months in federal prison and resigned from Congress on November 3, 2006. The conviction represented a major breakthrough in the federal corruption investigation that ultimately resulted in 24 convictions and exposed systematic corruption in Congress involving Native American casino lobbying.

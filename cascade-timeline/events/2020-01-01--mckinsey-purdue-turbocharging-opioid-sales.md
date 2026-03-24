@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-01--mckinsey-purdue-turbocharging-opioid-sales
 title: McKinsey Advised Purdue on "Turbocharging" OxyContin Sales, Targeting High-Volume Prescribers
 date: '2020-01-01'
@@ -36,7 +36,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Documents released in late 2020 in federal bankruptcy court revealed that elite management consulting firm McKinsey & Company worked closely with Purdue Pharma and the Sackler family, developing detailed plans to "turbocharge" OxyContin sales at a time when opioid abuse had already killed hundreds of thousands of Americans. McKinsey's recommendations focused on intensifying marketing to the highest-volume opioid prescribers in the country, demonstrating how prestigious consulting firms enabled the deadly opioid epidemic.
 

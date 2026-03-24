@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-23--house-oversight-subpoenas-doj
 date: '2025-07-23'
 importance: 6
@@ -37,6 +37,6 @@ sources:
   tier: 1
 notes: The bipartisan vote demonstrated how Trump's reversal on Epstein transparency fractured his own party's support. This followed Musk's explosive claims and public pressure campaign that split the MAGA movement on the issue.
 ---
-type: solidarity_event
+type: timeline_event
 
 The House Oversight subcommittee voted 8-2 to subpoena the DOJ for Epstein files on July 23, 2025, with three Republicans—Nancy Mace (R-SC), Scott Perry (R-PA), and Brian Jack (R-GA)—breaking ranks to join Democrats in demanding transparency. This bipartisan rebellion followed the DOJ's July 7 memo claiming no client list exists and marked unprecedented congressional pushback against Trump's reversal on his campaign promise of "100% transparency" on Epstein files.

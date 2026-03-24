@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1973-06-25'
 title: 'Opus Dei: Canonical Recognition and Unique Ecclesiastical Status'
 importance: 7
@@ -33,6 +33,6 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Contrary to the original description, Opus Dei received its foundational canonical recognition in 1950 under Pope Pius XII as a secular institute. In 1982, Pope John Paul II established it as the first personal prelature through the apostolic constitution Ut sit, giving it a unique autonomous status within the Catholic Church that transcends geographic boundaries.

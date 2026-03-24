@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-06-12--south-korean-economic-transformation-complete
 date: '1998-06-12'
 title: South Korea Completes IMF-Mandated Economic Restructuring
@@ -43,6 +43,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 South Korea finalizes comprehensive economic reforms mandated by the IMF, including massive corporate restructuring, labor market deregulation, and opening financial markets to foreign investment. The reforms fundamentally transformed South Korea's economic model through key changes: financial sector transparency, labor market flexibility, capital account liberalization, and macroeconomic policy adjustments. These structural reforms enabled South Korea's rapid economic recovery after the 1997 Asian Financial Crisis.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-06--attorney-general-pam-bondi-narrowed-fara-prosecutions-to-tra
 date: '2025-02-06'
 title: Attorney General Bondi Dramatically Narrows FARA Prosecutorial Scope
@@ -48,6 +48,6 @@ description: Attorney General Pam Bondi directed DOJ to limit FARA prosecutions 
   traditional espionage cases, effectively reducing the scope of foreign influence
   investigations and disbanding the Foreign Influence Task Force.
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi issued memorandums directing the DOJ to limit Foreign Agents Registration Act (FARA) prosecutions to traditional espionage cases, effectively decriminalizing many forms of foreign financial influence and disbanding the FBI's Foreign Influence Task Force.

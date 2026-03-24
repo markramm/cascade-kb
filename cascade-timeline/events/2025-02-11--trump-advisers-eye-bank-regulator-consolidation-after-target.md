@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-11--trump-advisers-eye-bank-regulator-consolidation-after-target
 date: '2025-02-11'
 title: Trump Administration Explores Consolidating Banking Regulators
@@ -49,6 +49,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump administration explores consolidating banking regulators by potentially merging FDIC and OCC under Treasury Department, reducing regulatory workforce and oversight. Proposed changes include combining regulatory functions, transferring employees, and potentially eliminating independent banking supervision.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-09--trump-offers-buy-tip-on-social-media-hours-before-tariff-pau
 date: '2025-04-09'
 title: Trump offers ‘buy’ tip on social media hours before tariff pause that made stocks soar
@@ -48,5 +48,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted “THIS IS A GREAT TIME TO BUY!!! DJT” on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump—via his 53% stake—over $400 million in a day

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-10--washington-post-ice-defied-court-orders-minneapolis
 date: '2026-03-10'
 title: Washington Post Investigation Details How ICE Systematically Defied Court Orders During Minneapolis Enforcement Surge
@@ -45,7 +45,7 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 10, 2026, The Washington Post published an investigation documenting how U.S. Immigration and Customs Enforcement officers systematically defied federal court orders as immigrant arrests soared during Operation Metro Surge in Minneapolis. The reporting provided granular detail on specific cases, including a 62-year-old dishwasher who had fled El Salvador decades ago with a valid work permit and temporary protected status who was nonetheless swept up in the operation.
 

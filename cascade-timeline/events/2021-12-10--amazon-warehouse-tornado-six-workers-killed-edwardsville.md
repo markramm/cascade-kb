@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-12-10--amazon-warehouse-tornado-six-workers-killed-edwardsville
 date: 2021-12-10
 title: Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse
@@ -40,7 +40,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1975-04-26--church-committee-cia-operations
 date: '1975-04-26'
 title: Church Committee Exposes Systemic Intelligence Agency Abuses
@@ -34,5 +34,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, led by Senator Frank Church, comprehensively investigated illegal activities by US intelligence agencies. The committee exposed widespread constitutional violations including NSA's Project Shamrock (mass telegram surveillance), FBI's COINTELPRO (targeting civil rights leaders), and CIA's MKULTRA (unethical human experimentation). The investigation revealed systematic domestic surveillance, political manipulation, and rights violations, leading to landmark reforms including the creation of permanent intelligence oversight mechanisms and the Foreign Intelligence Surveillance Act (FISA) of 1978.

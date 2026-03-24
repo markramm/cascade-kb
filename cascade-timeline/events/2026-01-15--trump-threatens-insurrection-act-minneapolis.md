@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-15--trump-threatens-insurrection-act-minneapolis
 date: '2026-01-15'
 title: Trump Threatens to Invoke Insurrection Act in Minneapolis, Calls Protesters 'Highly Paid Professionals'
@@ -31,7 +31,7 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump threatened to invoke the Insurrection Act of 1807 in response to protests in Minneapolis against ICE operations following the killing of Renee Good. On Truth Social, Trump wrote that "In Minnesota, the Troublemakers, Agitators, and Insurrectionists are, in many cases, highly paid professionals," echoing authoritarian rhetoric that delegitimizes organic protest movements.
 

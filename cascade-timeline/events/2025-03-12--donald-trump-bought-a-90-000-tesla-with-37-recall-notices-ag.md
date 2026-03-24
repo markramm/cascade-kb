@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-12--donald-trump-bought-a-90-000-tesla-with-37-recall-notices-ag
 date: '2025-03-12'
 title: Trump Turns White House Lawn into Tesla Showroom, Purchases Model S to Support Musk
@@ -43,6 +43,6 @@ capture_lanes:
 - Corporate Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump turned the White House South Lawn into a Tesla showroom, purchasing a red Tesla Model S while Elon Musk was present. The event raised significant ethics concerns about presidential conduct and corporate endorsement, occurring amid Tesla's declining stock performance.

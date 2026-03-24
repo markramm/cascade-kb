@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-11-21--fda-modernization-act-accelerates-drug-approval-weakens-safety
 date: '1997-11-21'
 title: FDA Modernization Act Accelerates Drug Approvals and Expands Direct-to-Consumer Advertising Under Pharma Pressure
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Clinton signs the FDA Modernization Act (FDAMA), codifying accelerated drug approval pathways developed during the AIDS crisis while expanding provisions favorable to pharmaceutical manufacturers including streamlined advertising approval. The law accelerates the transformation of FDA from a public health gatekeeper into an industry partner focused on drug approval speed over safety evaluation.
 

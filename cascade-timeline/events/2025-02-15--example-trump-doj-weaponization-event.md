@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-15--example-trump-doj-weaponization-event
 date: '2025-02-15'
 title: Trump Administration Systematically Removes DOJ Prosecutors
@@ -45,5 +45,5 @@ implications:
 - Potential obstruction of ongoing investigations
 - Escalation of executive branch power consolidation
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration initiated a widespread purge of federal prosecutors, particularly those who previously investigated the president. Over 40 career prosecutors were fired without warning, with the acting attorney general claiming they could not be 'trusted to faithfully implement the President's agenda'. Key targets included prosecutors involved in special counsel Jack Smith's investigations into Trump's handling of classified documents and attempts to overturn the 2020 election.

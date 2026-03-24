@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - 101st Airborne Division
 - Military police battalions
@@ -52,5 +52,5 @@ tags:
 - political-influence
 title: 'Operation Faithful Patriot deploys 5,200 active-duty troops to border'
 ---
-type: solidarity_event
+type: timeline_event
 Trump ordered 5,200 active-duty troops to border with additional 7,000 on 24-hour deployment notice. Politically charged name dropped after two weeks, reverting to "border support" after criticism. Deployment occurred just before midterm elections, with potential scale of up to 15,000 troops, matching the size of U.S. military presence in Afghanistan at the time.

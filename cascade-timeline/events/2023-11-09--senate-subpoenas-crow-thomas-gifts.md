@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-11-09--senate-subpoenas-crow-thomas-gifts
 date: '2023-11-09'
 importance: 8
@@ -52,7 +52,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Senate Judiciary Committee voted on November 9, 2023, to issue subpoenas to Harlan Crow and Leonard Leo, demanding documentation about gifts provided to Supreme Court justices after both men refused voluntary cooperation with the Committee's ethics investigation. Committee Chairman Dick Durbin (D-IL) had spent months attempting to obtain voluntary cooperation from Crow, the Texas real estate developer and Republican megadonor who had given Justice Clarence Thomas undisclosed luxury travel, property transactions, and other gifts valued at potentially millions of dollars. When Crow declined to provide requested records, the Committee voted along party lines to compel production through subpoenas.
 
 The subpoenas sought comprehensive records of gifts, travel, and financial transactions between Crow and Thomas, as well as Leonard Leo's financial relationships with justices. Leo, the co-chairman of the Federalist Society who had played a central role in shaping Trump's Supreme Court nominations, had separately been implicated in payments directed to Ginni Thomas, the Justice's wife. ProPublica's ongoing investigation into Supreme Court ethics had revealed that Leo had directed a consulting firm to make payments to Ginni Thomas while instructing that her name not appear on the documentation.

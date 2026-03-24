@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-15--predpol-rebrands-geolitica-amid-criticism
 date: 2021-01-15
 title: PredPol Rebrands as Geolitica Amid Mounting Criticism of Racial Bias
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 PredPol, the controversial predictive policing software company, rebrands itself as Geolitica in 2021 as criticism of algorithmic bias in law enforcement intensifies. The rebrand represents an attempt to distance the company from growing scrutiny of predictive policing's discriminatory impacts and documented failures to reduce crime.
 

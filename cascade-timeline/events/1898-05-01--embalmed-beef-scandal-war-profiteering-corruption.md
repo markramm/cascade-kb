@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1898-05-01--embalmed-beef-scandal-war-profiteering-corruption
 date: '1898-05-01'
 title: Embalmed Beef Scandal - War Profiteering and McKinley Administration Negligence
@@ -43,7 +43,7 @@ capture_lanes:
 - Systematic Corruption
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The Spanish-American War's largest scandal erupts as U.S. Army soldiers receive widespread distribution of extremely low-quality, heavily adulterated beef products from Chicago meatpacking corporations. General Nelson Miles denounces the meat as "embalmed beef," describing how large quantities of canned beef spoil quickly in tropical heat, with soldiers reporting the meat arrives already rotten, chemically treated to disguise decomposition. Secretary of War Russell A. Alger had arranged the contracts hurriedly and at lowest possible cost from the Chicago "big three" meatpacking corporations—Morris & Co, Swift & Co, and Armour & Co—in the pre-regulation era when these companies operate without meaningful government oversight or food safety standards. The corporations exploit Alger's inattention and favorable attitude toward industry by further cutting corners and reducing quality below even the minimal standards of the rushed contracts.
 

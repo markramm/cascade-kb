@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-09-24--fbi-raids-antiwar-activists-homes
 date: 2010-09-24
 title: FBI Raids Anti-War Activists' Homes in Coordinated Nationwide Operation
@@ -37,7 +37,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI agents executed coordinated early-morning raids on the homes and offices of anti-war and international solidarity activists in Minneapolis, Chicago, and other cities, seizing computers, phones, documents, and political materials. The raids targeted activists organizing against the Iraq and Afghanistan wars and supporting Palestinian and Colombian resistance movements, demonstrating how counterterrorism authorities were being used to criminalize political speech and international solidarity work.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-03--trump-s-truth-social-takes-step-toward-launching-bitcoin-etf
 date: '2025-06-03'
 title: 'Trump''s Truth Social Takes Step Toward Launching Bitcoin ETF with NYSE Arca Filing'
@@ -69,5 +69,5 @@ validation_metadata:
   - Updated summary with more comprehensive context
   - Added SEC and NYSE Arca to actors list
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media & Technology Group Corp. filed a 19b-4 form with the NYSE to list a spot Bitcoin ETF, marking a significant expansion into cryptocurrency financial products. The ETF, part of a broader strategy to leverage Trump's media platform for financial offerings, represents an innovative intersection of media and digital asset markets.

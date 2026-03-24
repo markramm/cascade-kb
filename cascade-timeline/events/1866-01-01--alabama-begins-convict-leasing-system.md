@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1866-01-01--alabama-begins-convict-leasing-system
 date: '1866-01-01'
 title: 'Alabama Initiates Convict Leasing: Slavery by Another Name'
@@ -35,7 +35,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Alabama Governor Robert Patton authorizes convict leasing, declaring that Black prisoners "should feel the hardship of labor in iron and coal mines" rather than mere confinement. The state begins leasing prisoners to private companies that pay monthly fees while providing minimal food, shelter, and no wages. This system, operational until 1928, makes Alabama the last state to abolish convict leasing and creates catastrophic mortality rates among prisoners working in brutal coal mine conditions.
 

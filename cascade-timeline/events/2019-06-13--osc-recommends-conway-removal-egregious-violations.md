@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-13--osc-recommends-conway-removal-egregious-violations
 date: 2019-06-13
 title: Office of Special Counsel Issues Unprecedented Recommendation to Remove Kellyanne Conway for "Egregious, Notorious, and Ongoing" Hatch Act Violations
@@ -43,7 +43,7 @@ capture_lanes:
 - Systematic Corruption
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Office of Special Counsel issued an extraordinary recommendation that White House Counselor Kellyanne Conway be removed from federal service for repeated Hatch Act violations, calling her conduct "egregious, notorious, and ongoing." Special Counsel Henry Kerner, himself a Trump appointee, stated the recommendation was "unprecedented" for a political appointee of Conway's stature, documenting dozens of violations where Conway used her official position to disparage Democratic presidential candidates during television interviews and on social media despite previous warnings.
 

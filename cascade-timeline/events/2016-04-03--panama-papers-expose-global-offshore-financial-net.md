@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-04-03--panama-papers-expose-global-offshore-financial-net
 date: '2016-04-03'
 title: Panama Papers Expose Global Offshore Financial Networks
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The Panama Papers was a groundbreaking investigative journalism project coordinated by the International Consortium of Investigative Journalists (ICIJ) in 2016. Based on 11.5 million leaked documents from Mossack Fonseca, a Panamanian law firm, the investigation exposed a complex global network of offshore financial entities used by political leaders, celebrities, and business elites to hide wealth, avoid taxes, and potentially engage in illegal financial activities.
 
 The leaked documents revealed how over 214,000 offshore companies were used to:

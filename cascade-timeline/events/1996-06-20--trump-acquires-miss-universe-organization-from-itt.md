@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-06-20--trump-acquires-miss-universe-organization-from-itt
 date: '1996-06-20'
 importance: 6
@@ -38,6 +38,6 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump purchases the Miss Universe Organization, including Miss USA and Miss Teen USA pageants, from ITT Corp and Madison Square Garden. This acquisition establishes infrastructure later used for alleged exploitation patterns. Trump would later admit judges were too focused on intelligence, stating he wasn't interested in contestants who had become doctors.

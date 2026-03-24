@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-01--northrop-grumman-31-million-fraud-settlement-labor-overbilling
 date: '2018-11-01'
 title: Northrop Grumman Pays $31.65 Million for Fraudulent Overbilling of Air Force Contracts
@@ -41,7 +41,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Northrop Grumman Systems Corporation agreed to pay $31.65 million to settle civil and criminal charges for systematically defrauding the U.S. Air Force by overbilling labor hours on battlefield communications contracts between January 2011 and October 2013. The settlement included $27.45 million for False Claims Act violations and $4.2 million in criminal forfeiture, resolving allegations that the defense contractor knowingly billed the Air Force for thousands of hours that employees stationed in the Middle East never actually worked on the Battlefield Airborne Communications Node (BACN) and Dynamic Re-tasking Capability (DRC) contracts.
 

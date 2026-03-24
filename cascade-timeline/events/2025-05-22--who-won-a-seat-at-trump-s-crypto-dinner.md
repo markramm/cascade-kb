@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-22--who-won-a-seat-at-trump-s-crypto-dinner
 date: '2025-05-22'
 title: Trump Hosts Controversial $TRUMP Memecoin Crypto Dinner
@@ -50,6 +50,6 @@ patterns:
 - kleptocratic-capture
 - foreign-influence-network
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump hosted a high-profile cryptocurrency dinner at his National Golf Club, with guest list revealing significant foreign national attendance and potential regulatory conflicts. 73% of top attendees are foreign nationals, including Justin Sun, a crypto entrepreneur currently facing SEC fraud lawsuits. The dinner, costing over $1 million per seat, has prompted investigations from Congressional Democrats including Representatives Casten, Smith, and Raskin.

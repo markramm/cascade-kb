@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1793-03-14--cotton-gin-patent-expands-slavery
 date: '1793-03-14'
 title: Cotton Gin Patent Transforms Slavery from Declining Institution to Booming Economic Engine
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Eli Whitney receives a patent for the cotton gin, a machine using rotating brushes and teeth to separate cotton fibers from seeds, revolutionizing the processing of short-staple cotton that grows easily in the Deep South but had been difficult to process profitably. Whitney hopes his invention will reduce labor needs and hasten slavery's end by making manual seed removal unnecessary, but the opposite occurs: the cotton gin transforms slavery from a potentially declining institution into an explosive growth industry by making cotton cultivation extraordinarily profitable while still requiring vast amounts of enslaved labor to plant, tend, and harvest the crops. The economic impact is immediate and dramatic: cotton exports surge from less than 500,000 pounds in 1793 to 93 million pounds by 1810, with cotton becoming over half the value of all U.S. exports from 1820 to 1860 as the nation grows three-quarters of the world's cotton supply.
 

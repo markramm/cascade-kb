@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1970-06-22--vra-1970-extension-voting-age-lowered-literacy-tests-banned
 date: '1970-06-22'
 title: 'Voting Rights Act Extension of 1970: Nationwide Literacy Test Ban and Voting Age Lowered to 18'
@@ -33,7 +33,7 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Nixon signed the Voting Rights Act Amendments of 1970, extending the VRA's special provisions for another five years, banning literacy tests nationwide, and lowering the voting age to 18 for all elections. The legislation represented significant expansion of federal voting rights protections, though the voting age provision was partially invalidated by the Supreme Court, ultimately prompting the Twenty-Sixth Amendment.
 

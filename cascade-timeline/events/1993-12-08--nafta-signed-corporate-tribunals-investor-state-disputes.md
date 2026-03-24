@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-12-08--nafta-signed-corporate-tribunals-investor-state-disputes
 date: '1993-12-08'
 title: Clinton Signs NAFTA Creating Corporate Tribunals to Override National Laws
@@ -48,7 +48,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bill Clinton signs the North American Free Trade Agreement (NAFTA) into law, creating the first major free trade agreement to include Investor-State Dispute Settlement (ISDS) provisions binding developed nations. NAFTA's Chapter 11 establishes corporate tribunals that allow multinational corporations to bypass national court systems and sue governments directly for regulations that might reduce expected future profits, with disputes decided by panels of three corporate attorneys rather than judges.
 

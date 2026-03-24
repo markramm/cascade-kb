@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--hormuz-shipping-reduced-trickle
 date: '2026-03-18'
 title: Strait of Hormuz Shipping Reduced to Trickle — 21 Tankers Transit vs. 100+/Day Pre-War
@@ -28,7 +28,7 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 18, 2026 — three weeks into Operation Epic Fury — commercial shipping through the Strait of Hormuz had been reduced to a trickle. Only 21 tankers had successfully transited the strait since the war began on February 28, compared to a pre-war average of more than 100 transits per day. Over 150 commercial vessels were anchored in international waters outside the strait's approaches, unable or unwilling to risk the passage. Thousands of seafarers were stranded aboard vessels with no timeline for resumption of normal operations.
 

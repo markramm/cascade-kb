@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-28--no-maga-left-behind-trump-s-pardons-get-even-more-political
 date: '2025-05-28'
 title: Trump Pardons Become Explicitly Political with 'No MAGA Left Behind' Directive
@@ -42,6 +42,6 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's pardon attorney Ed Martin explicitly politicized the presidential pardon power, announcing a strategy of pardoning political allies and supporters. This included pardoning Scott Jenkins, a former sheriff convicted of taking over $75,000 in bribes, signaling a dramatic shift in how clemency is applied.

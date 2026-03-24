@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-05--acip-chair-milhoan-admits-members-puppets-on-string
 date: '2025-12-05'
 importance: 9
@@ -73,7 +73,7 @@ sources:
 notes: Extraordinary admission of political control over scientific advisory process. First public acknowledgment by ACIP leadership that committee lacks independence. Occurred same day as hepatitis B vote reversing 34-year policy. Multiple medical organizations boycotted meeting citing lack of credibility.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Dr. Kirk Milhoan, the newly appointed chair of the CDC's Advisory Committee on Immunization Practices (ACIP), tells fellow panel member Dr. Cody Meissner during a lunch break that committee members feel like "puppets on a string" rather than an independent advisory group, according to a transcript captured on the meeting's audio feed. The extraordinary admission, overheard by medical associations and health care providers attending the December 4-5 meeting remotely, publicly exposes concerns about political manipulation of the nation's premier vaccine advisory panel under HHS Secretary Robert F. Kennedy Jr.'s control.
 
 According to a transcript obtained by The Washington Post and confirmed by POLITICO, Milhoan stated: "You know, I feel like, you know, it's, sort of like we feel like a little bit like puppets on a string as opposed to really being an independent advisory panel." The comment was made on what participants believed was a private conversation but was actually broadcast over the videoconferencing sound feed used by liaison representatives from medical associations, pharmaceutical industry representatives, and health care providers participating remotely in the meeting.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-05-01--facebook-removes-5-4-billion-fake-accounts-bot-networks
 date: '2019-05-01'
 title: Facebook Removes 5.4 Billion Fake Accounts in 2019, Exposing Massive Bot Network Infrastructure
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook removes a staggering 5.4 billion fake accounts during 2019, revealing that automated bot networks spreading misinformation and fake engagement vastly outnumber real users. The massive bot infrastructure demonstrates how Facebook's platform design incentivizes coordinated inauthentic behavior that the company profits from before eventual detection and removal.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1988-06-29--beck-decision-supreme-court-weakens-union-dues-requirements
 date: '1988-06-29'
 title: Beck Decision Enables Workers to Withhold Union Dues for Political Activity, Weakening Labor Resources
@@ -41,7 +41,7 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 5-3 in Communications Workers of America v. Beck that workers covered by union contracts can refuse to pay the portion of dues used for political activities, limiting their payments to collective bargaining costs only. The ruling, based on Taft-Hartley's Section 8(a)(3), creates a legal framework for anti-union organizations to encourage workers to reduce union funding. The decision provides a template for subsequent attacks on union financial resources that culminate in the 2018 Janus decision eliminating agency fees for public sector workers entirely.
 

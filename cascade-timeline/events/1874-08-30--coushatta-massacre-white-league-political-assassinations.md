@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1874-08-30--coushatta-massacre-white-league-political-assassinations
 date: '1874-08-30'
 title: 'Coushatta Massacre: White League Assassinates Entire Republican Parish Government'
@@ -36,7 +36,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 30, 1874, the White League—a paramilitary organization of Confederate veterans described as "the military arm of the Democratic Party"—completes a weeklong campaign of terror in Red River Parish, Louisiana, by assassinating six white Republican officeholders and five to twenty Black freedmen witnesses. The massacre represents a dramatic escalation in Reconstruction violence: the officialdom of an entire parish has been virtually decapitated in a single coordinated murder spree. The White League forces the Republican officials to sign statements promising to leave Louisiana immediately, then murders them while they travel under escort—demonstrating that if the White League can take parish officials and simply gun them down with impunity, Republican governance is a hollow shell.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-12-30--appeals-court-upholds-carroll-5-million-verdict
 date: '2024-12-30'
 title: Federal Appeals Court Upholds $5 Million Carroll Verdict Against Trump
@@ -40,7 +40,7 @@ capture_lanes:
 - Judicial Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A three-judge panel of the U.S. Court of Appeals for the Second Circuit unanimously upheld the $5 million jury verdict finding Donald Trump liable for sexually abusing and defaming E. Jean Carroll, rejecting all of Trump's arguments that trial errors warranted overturning the May 2023 verdict or ordering a new trial. The December 30, 2024 decision came just weeks before Trump was scheduled to be inaugurated as president for a second term, ensuring that he would begin his presidency as the only U.S. president found civilly liable for sexual abuse. The appeals court's ruling comprehensively addressed and dismissed Trump's numerous appellate claims, including arguments that U.S. District Judge Lewis A. Kaplan had improperly allowed testimony from two other women who accused Trump of sexual assault, that the jury instructions were flawed, that evidentiary rulings were erroneous, and that the damages award was excessive.
 

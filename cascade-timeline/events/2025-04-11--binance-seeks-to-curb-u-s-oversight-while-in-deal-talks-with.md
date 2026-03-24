@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-11--binance-seeks-to-curb-u-s-oversight-while-in-deal-talks-with
 date: '2025-04-11'
 title: Binance seeks to curb U.S. oversight while in deal talks with Trump’s crypto company
@@ -51,6 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Binance executives met with Treasury officials to request removal of U.S. monitor overseeing anti-money-laundering compliance while simultaneously negotiating deals with Trump's World Liberty Financial crypto venture

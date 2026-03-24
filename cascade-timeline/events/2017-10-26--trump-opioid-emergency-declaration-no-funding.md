@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-10-26--trump-opioid-emergency-declaration-no-funding
 title: Trump Declares Opioid Public Health Emergency Without Requesting Any New Funding
 date: '2017-10-26'
@@ -36,7 +36,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 26, 2017, President Trump declared the opioid crisis a public health emergency—but the declaration provided no new funding and stopped short of the national emergency designation Trump had promised in August. The move was widely criticized as a hollow gesture that failed to match the scale of a crisis killing tens of thousands of Americans annually.
 

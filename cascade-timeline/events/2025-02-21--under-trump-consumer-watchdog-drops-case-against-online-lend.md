@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-21--under-trump-consumer-watchdog-drops-case-against-online-lend
 date: '2025-02-21'
 title: CFPB Drops Lawsuit Against Solo Funds, Signaling Regulatory Capture
@@ -44,6 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Consumer Financial Protection Bureau (CFPB) under the Trump administration permanently dismissed its enforcement action against Solo Funds, a fintech platform providing small-dollar loans. The lawsuit, originally filed in May 2024, alleged deceptive lending practices with loans potentially carrying annual percentage rates over 1,000%. Acting Director Russ Vought claimed the dismissal was stopping 'weaponization' of consumer protection.

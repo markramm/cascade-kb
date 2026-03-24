@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-20--ninth-circuit-allows-portland-national-guard-deployment
 date: '2025-10-20'
 title: Ninth Circuit Panel Allows Trump National Guard Deployment to Portland
@@ -42,7 +42,7 @@ capture_lanes:
 - Judicial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 A three-judge panel of the U.S. Court of Appeals for the Ninth Circuit ruled 2-1 to overturn a district court order blocking President Trump's deployment of approximately 200 Oregon National Guard troops to protect a Portland ICE facility. Circuit Judges Ryan D. Nelson and Bridget S. Bade formed the majority, while Judge Susan P. Graber dissented.
 

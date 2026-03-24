@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-13--aclu-tincher-v-noem-ice-journalist-retaliation-amended
 date: '2026-02-13'
 title: 'ACLU Files Amended Tincher v. Noem Complaint with 80+ Declarations of ICE First Amendment Retaliation'
@@ -34,7 +34,7 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 The ACLU and ACLU of Minnesota filed an amended complaint in Tincher v. Noem on February 13, 2026, dramatically expanding the scope of the case with five new plaintiffs including the NewsGuild-CWA—the nation's largest journalism union—and Status Coup News, an independent media outlet. The amended complaint was supported by over 80 sworn declarations documenting a pattern of ICE retaliation against individuals exercising their First Amendment rights to observe, document, and report on immigration enforcement operations during Operation Metro Surge.
 
 The declarations painted a disturbing picture of systematic intimidation. Witnesses described an ICE agent pepper-spraying a person documenting enforcement activity at close range. Another person was "body-slammed into a hard surface" while observing an arrest. Agents disclosed a person's name and home address as an implicit threat. Multiple declarations described agents following protesters and observers to their private residences after enforcement actions concluded. Rubber bullets were fired at observers standing on public sidewalks—locations where the right to observe and record government activity is firmly established under the First Amendment.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-05-01--powell-whig-crisis-capture-blueprint
 date: '2003-05-01'
 importance: 9
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bush's 'Mission Accomplished' declaration marks the successful establishment of the Powell-WHIG template for crisis-accelerated institutional capture, demonstrating how coordinated corporate-government operations can exploit crisis conditions to achieve rapid democratic transformation that would require decades under normal processes. The Iraq War's propaganda success represents the culmination of systematic coordination between Powell Memorandum institutional networks and WHIG crisis exploitation apparatus, creating the definitive blueprint for oligarchic capture of democratic systems through manufactured or exploited emergency conditions. The Powell-WHIG coordination template proves that established corporate influence networks (think tanks, media, legal institutions) can coordinate with government propaganda operations to exploit crisis conditions for accelerated institutional transformation, bypassing democratic deliberation and constitutional constraints through systematic deception rather than gradual influence building. This template demonstrates that crisis periods provide unprecedented opportunity for rapid implementation of long-term institutional capture objectives, transforming Powell's 50-year gradual strategy into immediate systematic capture through coordinated crisis exploitation. The successful Iraq War propaganda campaign establishes the institutional blueprint for ongoing crisis-accelerated capture: corporate networks coordinate with government operations to exploit manufactured or genuine crisis conditions for systematic transformation of democratic institutions into oligarchic coordination apparatus, providing the template for subsequent crisis exploitation from financial collapse to pandemic response.

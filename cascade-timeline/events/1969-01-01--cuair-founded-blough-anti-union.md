@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1969-01-01--cuair-founded-blough-anti-union
 date: '1969-01-01'
 title: Construction Users Anti-Inflation Roundtable Founded by Roger Blough to Break Construction Unions
@@ -51,7 +51,7 @@ sources:
   outlet: The Washington Post
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 Roger Blough, the 65-year-old retired chairman of U.S. Steel, founds the Construction Users Anti-Inflation Roundtable (CUAIR) in 1969, "affectionately known" as "Roger's Roundtable," with the explicit goal of breaking construction union power. Blough's intention is to forge an alliance of the chief executive officers of approximately 100 of the nation's top corporations which are also the largest corporate spenders on construction, with a simple mission: reorganize and centralize the construction industry to eliminate union control over wages and working conditions. Having lost his effort to raise steel prices during an inflationary period in the early 1960s—blocked by President Kennedy in a famous confrontation—Blough makes it his "personal mission to tame the construction unions" through CUAIR, effectively blaming inflation on workers' wages rather than corporate pricing power.
 
 The membership list demonstrates the breadth of corporate coordination: General Motors, General Electric, Dow Chemical, U.S. Steel, Union Carbide, Exxon, and Alcoa lead more than one hundred construction owners involved in the group. Eleven national contractors, including Atkinson, Bechtel, Dravo, Fluor, Morrison-Knudsen, and Austin, become the "contractor advisory group" to the organization. CUAIR's theory holds that construction workers' wages drive up industrial plant costs and inspire industrial workers to demand higher pay, requiring a coordinated corporate campaign to suppress construction wages as a strategy to restrain labor costs economy-wide. Union power in the construction sector proves particularly problematic for industrial firms in the 1960s because while manufacturers respond to rising labor costs by relocating production offshore, construction unions remain largely impervious to this threat since construction production is inherently localized.

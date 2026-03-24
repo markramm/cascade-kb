@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1957-03-01--indiana-right-to-work-law-passage-repealed-1965
 date: '1957-03-01'
 importance: 7
@@ -41,7 +41,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Republican-controlled Indiana General Assembly passes a right-to-work bill in March 1957 over the objections of Democrats, labor leaders, and workers, making Indiana one of the first northern industrial states to adopt such legislation. Time Magazine reports in its March 11, 1957 issue that "some 7,500 wrought-up Indianans marched into the Statehouse in Indianapolis last week to protest against a 'right-to-work' bill." The law proves immediately controversial and deeply unpopular with Indiana's industrial workforce, demonstrating that right-to-work legislation faces significantly stronger resistance in northern manufacturing states with established union presence compared to the South where such laws had been implemented during the 1940s using racist appeals.
 

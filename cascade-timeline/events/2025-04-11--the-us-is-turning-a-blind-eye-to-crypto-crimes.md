@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-11--the-us-is-turning-a-blind-eye-to-crypto-crimes
 date: '2025-04-11'
 title: The US is turning a blind eye to crypto crimes
@@ -39,5 +39,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges

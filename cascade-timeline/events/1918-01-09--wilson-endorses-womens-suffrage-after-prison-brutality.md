@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1918-01-09--wilson-endorses-womens-suffrage-after-prison-brutality
 date: '1918-01-09'
 title: Wilson Reverses Position and Endorses Women's Suffrage Amendment After Prison Brutality Exposed
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 9, 1918, President Woodrow Wilson announced his support for a women's suffrage constitutional amendment, reversing years of opposition in the face of mounting public outrage over the treatment of suffragist prisoners. Wilson's reversal came less than two months after the November 14, 1917 "Night of Terror" at Occoquan Workhouse, when 33 suffragists were brutalized by guards, and after reports emerged of hunger strikes and brutal force-feeding of prisoners including Alice Paul. The president, appalled by the hunger strikes and worried about negative publicity damaging his administration's credibility, particularly during wartime when he claimed to be making the world safe for democracy, begrudgingly joined the suffrage crusade upon the release of the Occoquan prisoners in late November. His endorsement revealed how direct confrontation and willingness to endure suffering could force institutional power to yield where decades of patient lobbying had failed.
 

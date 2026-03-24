@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-30--congress-sues-ice-detention-access
 date: '2025-07-30'
 importance: 9
@@ -53,6 +53,6 @@ sources:
 notes: Assistant House Minority Leader Joe Neguse stated "Blocking Members of Congress from oversight visits to ICE facilities that house or otherwise detain immigrants clearly violates federal law — and the Trump administration knows it." The lawsuit argues the new DHS policy violates longstanding federal law and "harmed each Plaintiff's right as an individual member of Congress to conduct oversight." This represents an unprecedented attempt to block congressional oversight of detention conditions.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Twelve Democratic members of Congress filed suit in federal court after being systematically denied access to ICE detention facilities nationwide. The lawsuit challenges DHS's new policy requiring seven-day advance notice for visits and blocking all access to ICE field offices, which violates federal law guaranteeing congressional oversight. Plaintiffs include Reps. Jason Crow (CO), Jamie Raskin (MD), Veronica Escobar (TX), and others who were physically blocked from facilities in California, Colorado, Texas, Maryland, and New York despite the law permitting unannounced inspections.

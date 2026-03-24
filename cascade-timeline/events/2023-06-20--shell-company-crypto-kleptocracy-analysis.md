@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-06-20--shell-company-crypto-kleptocracy-analysis
 date: '2023-06-20'
 title: Shell Company Network Analysis Links Cryptocurrency to Kleptocracy Infrastructure
@@ -47,5 +47,5 @@ capture_lanes:
 status: confirmed
 priority_id: RT-COMPLETED-PATTERN-20250906-22
 ---
-type: solidarity_event
+type: timeline_event
 Comprehensive investigation reveals systematic connections between cryptocurrency exchanges, shell company structures, and oligarchic money laundering operations. Analysis exposes how platforms like BitMEX facilitate complex financial networks that enable sanctions evasion, cybercrime funding, and illicit money transfers through intricate corporate structures.

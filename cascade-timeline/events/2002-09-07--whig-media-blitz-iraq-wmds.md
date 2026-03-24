@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-07--whig-media-blitz-iraq-wmds
 date: '2002-09-07'
 status: confirmed
@@ -54,6 +54,6 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 WHIG launches systematic media campaign with Bush administration officials appearing across all major networks in coordinated messaging offensive. Condoleezza Rice delivers "smoking gun to be a mushroom cloud" message on CNN while Cheney appears on Meet the Press and Bush makes CBS appearance. Campaign demonstrates successful implementation of Powell Memo institutional coordination principles accelerated through crisis exploitation, providing blueprint for future rapid democratic transformation efforts. Later Senate Intelligence Committee investigation revealed that administration officials repeatedly presented intelligence as fact when it was unsubstantiated or even non-existent, systematically misleading the American public about the threat from Iraq.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-05--tenet-media-shutdown-youtube-terminations
 date: '2024-09-05'
 title: Tenet Media Shuts Down, YouTube Terminates Channels, Blaze Media Fires Lauren Chen After DOJ Indictment Exposure
@@ -54,7 +54,7 @@ capture_lanes:
 - Intelligence Penetration
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Tenet Media abruptly shut down on September 5, 2024, one day after the Department of Justice unsealed an indictment revealing the company had received nearly $10 million in covert Russian funding. The shutdown triggered cascading actions: YouTube terminated Tenet Media and all Lauren Chen channels, Blaze Media fired Chen, and Turning Point USA removed her author page—all within hours of the DOJ revelation.
 

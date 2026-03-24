@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-09-18--amazon-lehigh-valley-warehouse-heat-exhaustion-scandal
 date: 2011-09-18
 title: Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed
@@ -34,7 +34,7 @@ capture_lanes:
 - Corporate Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed
 

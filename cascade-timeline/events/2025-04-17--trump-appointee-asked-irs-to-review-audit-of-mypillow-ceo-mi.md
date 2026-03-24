@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-17--trump-appointee-asked-irs-to-review-audit-of-mypillow-ceo-mi
 date: '2025-04-17'
 title: Trump Appointee Sought IRS Audit Review for MyPillow CEO Mike Lindell
@@ -43,6 +43,6 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, a known Trump ally. The incident suggests potential misuse of government resources to assist a political supporter, raising concerns about tax enforcement impartiality.

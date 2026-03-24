@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--ice-raids-target-dominican-community-puerto-rico-barrio-obrero
 date: '2025-01-20'
 importance: 8
@@ -46,5 +46,5 @@ sources:
 notes: 'Following Trump''s January 20 Executive Order "Protecting the American People from Invasion," ICE launches unprecedented raids in Barrio Obrero, San Juan. By June 2025, close to 500 immigrants arrested, fewer than 80 with criminal records. Three-quarters Dominican nationals. Puerto Rico government handed over list of 6,000 immigrants with special driver''s licenses. Community reports empty stores, school absenteeism, widespread fear. Advocates document racial profiling of Black residents. ICE top investigator states mandate to find "every deportable immigrant" in Puerto Rico - estimated 20,000 people.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 ICE launches aggressive immigration raids in Puerto Rico's Barrio Obrero following Trump's executive order, targeting Dominican community and arresting nearly 500 immigrants with minimal criminal records, exposing colonial inequality and systematic racial profiling

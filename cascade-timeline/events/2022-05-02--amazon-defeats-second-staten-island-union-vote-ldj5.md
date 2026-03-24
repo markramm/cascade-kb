@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-05-02--amazon-defeats-second-staten-island-union-vote-ldj5
 date: 2022-05-02
 title: Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380
 

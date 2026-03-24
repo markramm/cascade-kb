@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1840-11-02--log-cabin-campaign-deception-defeats-van-buren
 date: '1840-11-02'
 title: Log Cabin Campaign Uses Image Manipulation and Corruption Attacks to Defeat Van Buren
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 William Henry Harrison defeated incumbent President Martin Van Buren in the 1840 election, winning 234 of 294 electoral votes through what would become known as the first modern image-based political campaign. When a Democratic newspaper mockingly suggested giving Harrison "a barrel of hard cider" and a pension to "sit the remainder of his days in his log cabin," Whigs seized the imagery to rebrand their candidate as a man of the people. In reality, Harrison came from a wealthy Virginia planter family while Van Buren's father was a tavernkeeper—the campaign inverted their actual class backgrounds. Campaign materials featured "the eagle of liberty strangling the serpent of corruption" while Whigs smeared Van Buren as an "effete and immoral Eastern sophisticate who had turned the White House into a salon for illicit pleasures."
 

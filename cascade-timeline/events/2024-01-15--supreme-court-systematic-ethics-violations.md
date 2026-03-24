@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-15--supreme-court-systematic-ethics-violations
 date: '2024-01-15'
 title: 'Systematic Supreme Court Ethics Violations Exposed: Thomas-Crow Revelations Reveal Institutional Corruption'
@@ -38,5 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 A comprehensive investigation by ProPublica revealed systematic ethics violations by Supreme Court Justice Clarence Thomas, documenting decades of undisclosed luxury gifts from billionaire donor Harlan Crow. These gifts included private jet flights, yacht vacations, property purchases, and boarding school tuition for Thomas's grandnephew. Senate investigators confirmed at least three previously undisclosed private jet trips, raising serious questions about judicial independence and conflict of interest. The Supreme Court adopted its first-ever code of conduct in late 2023, but the code lacks meaningful enforcement mechanisms.

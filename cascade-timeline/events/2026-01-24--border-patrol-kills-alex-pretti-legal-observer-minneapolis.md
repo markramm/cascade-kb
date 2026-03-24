@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-24--border-patrol-kills-alex-pretti-legal-observer-minneapolis
 date: '2026-01-24'
 title: Border Patrol Agents Kill Alex Pretti, Second Legal Observer Shot in Minneapolis in Three Weeks
@@ -56,7 +56,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Border Patrol agents shot and killed Alex Pretti, a 37-year-old intensive care nurse and U.S. citizen working for the VA, at 26th Street and Nicollet Avenue in Minneapolis during Operation Metro Surge. Pretti was the second legal observer killed by federal agents in Minneapolis in three weeks, following Renee Good's death on January 7. The killing occurred the day after Minnesota's historic general strike.
 

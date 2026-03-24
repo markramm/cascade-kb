@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-14--witkoff-divestiture-conflicts
 date: '2025-09-14'
 title: Trump Envoy Steve Witkoff Divests $120M Real Estate Stake While Retaining $350M in Assets Including Trump Crypto
@@ -35,6 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump's Special Envoy to the Middle East Steve Witkoff sold his stake in the Witkoff Group for $120 million, according to financial disclosures released publicly in mid-September 2025. The sale was described as addressing conflict of interest concerns between his government role and business activities. However, Witkoff's disclosed assets still exceed $350 million, including stakes in SpaceX, Cisco Systems, Reddit, Uber Technologies, hedge funds, airplanes, motorboats, and digital assets. Most controversially, Witkoff has not divested his holdings in World Liberty Financial, a cryptocurrency company he co-founded with members of the Trump family. Senate Democrats led by Adam Schiff demanded answers about Witkoff's failure to divest these Trump-linked crypto assets while serving as a key diplomatic envoy. The partial divestiture demonstrates how Trump administration officials monetize government positions while maintaining entanglements with Trump-linked financial schemes, blurring the lines between public service and personal enrichment.

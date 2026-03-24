@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2008-12-09--rod-blagojevich-arrested-selling-obama-senate-seat
 date: 2008-12-09
@@ -46,7 +46,7 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Illinois Governor Rod Blagojevich and his chief of staff John Harris were arrested at Blagojevich's home on December 9, 2008, on federal corruption charges including conspiracy to commit mail and wire fraud and solicitation of bribery. A 76-page FBI affidavit revealed that Blagojevich was captured on court-authorized wiretaps conspiring to sell or trade the U.S. Senate seat being vacated by President-elect Barack Obama. In one recording from November 5, 2008 — the day after Obama's election — Blagojevich was heard saying: "I've got this thing and it's f***ing golden, and, uh, uh, I'm just not giving it up for f***in' nothing."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-16--trump-jeffrey-epstein-hoax-truth-social
 date: '2025-07-16'
 importance: 6
@@ -32,6 +32,6 @@ sources:
   tier: 2
 notes: Trump's attack on his own base for demanding he keep campaign promises marked unprecedented political self-harm.
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump posted on Truth Social on July 16, 2025, calling the Epstein files issue the "Jeffrey Epstein Hoax" and attacking disappointed supporters as "weaklings" and "past supporters" whose support he no longer wanted. This represented a complete reversal from his campaign promises of "100% transparency."

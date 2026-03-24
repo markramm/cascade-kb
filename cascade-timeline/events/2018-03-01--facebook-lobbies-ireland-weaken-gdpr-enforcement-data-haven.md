@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-01--facebook-lobbies-ireland-weaken-gdpr-enforcement-data-haven
 date: '2018-03-01'
 title: Facebook Lobbies Irish Government to Weaken GDPR Enforcement, Creates EU Data Protection Haven
@@ -45,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook intensively lobbies the Irish government and Data Protection Commission in advance of GDPR implementation, successfully negotiating weaker enforcement and regulatory interpretation that allows continued surveillance practices. The lobbying campaign creates Ireland as a data protection "haven" within the EU where Facebook faces minimal GDPR enforcement despite processing data for hundreds of millions of European users.
 

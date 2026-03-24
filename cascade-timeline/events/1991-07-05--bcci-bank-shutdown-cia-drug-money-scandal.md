@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-07-05--bcci-bank-shutdown-cia-drug-money-scandal
 date: 1991-07-05
 title: BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Customs and bank regulators in seven countries simultaneously raid and shut down the Bank of Credit and Commerce International (BCCI), exposing what becomes known as the largest corporate criminal enterprise in history. The shutdown follows a Price Waterhouse investigation ordered by the Bank of England in March 1991, which finds "evidence of massive and widespread fraud" in the $20 billion rogue banking empire with liabilities of $14 billion.
 

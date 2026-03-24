@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1877-02-26--wormley-agreement-ends-reconstruction
 date: '1877-02-26'
 title: 'Compromise of 1877: Wormley Agreement Abandons Black Americans'
@@ -35,7 +35,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Northern Republicans and Southern Democrats meet secretly at Wormley's Hotel in Washington to negotiate the Compromise of 1877—an unwritten political deal settling the disputed 1876 presidential election by abandoning federal protection of Black civil rights. Southern Democrats agree to accept Republican Rutherford B. Hayes as president in exchange for withdrawal of all remaining federal troops from the South, ending Reconstruction.
 

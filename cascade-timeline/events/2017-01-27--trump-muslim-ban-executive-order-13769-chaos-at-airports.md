@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-27--trump-muslim-ban-executive-order-13769-chaos-at-airports
 date: '2017-01-27'
 title: Trump Signs Muslim Ban (Executive Order 13769) Causing Airport Chaos and Mass Visa Revocations
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed Executive Order 13769, titled "Protecting the Nation from Foreign Terrorist Entry into the United States," banning citizens from seven predominantly Muslim countries—Syria, Iran, Iraq, Libya, Somalia, Sudan, and Yemen—from entering the United States for 90 days. The order indefinitely suspended Syrian refugee entry, reduced 2017 refugee admissions to 50,000, and suspended the U.S. Refugee Admissions Program for 120 days.
 

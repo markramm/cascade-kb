@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2002-08-15'
 title: CNN Executives Meet with White House on Iraq Coverage
 importance: 8
@@ -58,6 +58,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 CNN executives Walter Isaacson and Eason Jordan met with National Security Advisor Condoleezza Rice and White House communications director Karen Hughes to discuss network coverage of the administration's Iraq policy. Internal CNN memos later revealed that Isaacson instructed staff to 'balance' coverage of civilian casualties in Afghanistan with reminders of 9/11, stating 'it seems perverse to focus too much on the casualties or hardship.' The meeting established a pattern of network executives coordinating with White House officials on war coverage, with Jordan admitting in 2003 that CNN had suppressed negative news about Iraq to maintain access. This coordination between news executives and government officials represented a fundamental breach of journalistic independence and enabled the administration's propaganda campaign for war.

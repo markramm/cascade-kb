@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2014-07-16'
 title: EU and US Impose Sectoral Sanctions on Russia
 actors:
@@ -41,5 +41,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Following the downing of Malaysia Airlines Flight MH17 over eastern Ukraine, the European Union and United States imposed comprehensive sectoral sanctions targeting Russian financial, energy, and defense sectors. These sanctions restricted access to EU and US capital markets for major Russian banks and energy companies, and prohibited export of dual-use technologies. The measures marked a significant escalation in Western response to Russian actions in Ukraine.

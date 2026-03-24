@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-01-15--negroponte-establishes-dni-intelligence-coordination-control
 date: '2005-01-15'
 title: John Negroponte Becomes First Director of National Intelligence
@@ -38,6 +38,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 John Negroponte is confirmed as the first Director of National Intelligence, centralizing intelligence coordination under White House control. The DNI position was created by the Intelligence Reform Act following 9/11 Commission recommendations, but critics argued it further politicized intelligence by placing a political appointee over the intelligence community. The consolidation reduced CIA independence and created new opportunities for political manipulation of intelligence products.

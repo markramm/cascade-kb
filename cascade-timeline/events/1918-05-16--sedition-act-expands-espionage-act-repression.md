@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1918-05-16--sedition-act-expands-espionage-act-repression
 date: '1918-05-16'
 title: Sedition Act of 1918 Expands Espionage Act to Criminalize Anti-Government Speech
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Congress passed the Sedition Act on May 16, 1918, extending the Espionage Act of 1917 to cover a broader range of offenses, notably speech and expression of opinion that cast the government or war effort in a negative light or interfered with the sale of government bonds. The Act forbade the use of "disloyal, profane, scurrilous, or abusive language" about the United States government, its flag, or its armed forces, or that caused others to view the American government or its institutions with contempt. Those convicted generally received sentences of imprisonment for five to 20 years. The Act also allowed the Postmaster General to refuse to deliver mail that met those same standards for punishable speech or opinion.
 
 The two broadly worded laws of 1917 and 1918 ultimately came to be viewed as some of the most egregious violations of the Constitution's free speech protections. They were written in an environment of wartime panic and resulted in the arrest and prosecution of more than 2,000 Americans. The targets of prosecution were typically individuals who opposed the war effort, including pacifists, anarchists, and socialists. In Abrams v. United States, the Supreme Court majority upheld the criminal conviction of immigrants who publicly opposed United States intervention in Russia's Bolshevik revolution, though Justice Oliver Wendell Holmes Jr.'s dissent introduced the concept of the free marketplace of ideas, which later gained prominence in the Court's free speech cases.

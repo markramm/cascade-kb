@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1917-06-22--suffragists-arrested-picketing-white-house-begins
 date: '1917-06-22'
 title: First Suffragist Arrests Begin for White House Picketing as State Repression Escalates
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 22, 1917, police arrested six suffragists for picketing the White House, initiating a campaign of state repression against the Silent Sentinels that would eventually result in 168 National Woman's Party members serving time in prison. The arrests came after the United States entered World War I in April 1917, when public tolerance for the suffragists' protests evaporated and they were increasingly viewed as disloyal to the war effort. Eleven more women were detained on July 4, followed by a third group ten days later, establishing a pattern of escalating arrests for the charge of "obstructing traffic"—a pretext that exposed how legal systems could weaponize minor ordinances to suppress political dissent. Alice Paul made the strategic decision to ensure picketing would continue regardless of arrests, understanding that state repression would generate publicity and potentially sympathy for the suffrage cause.
 

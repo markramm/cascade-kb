@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1895-01-21--us-v-ec-knight-supreme-court-guts-antitrust
 date: '1895-01-21'
 title: 'U.S. v. E.C. Knight: Supreme Court Shields Sugar Trust and Eviscerates Antitrust Law'
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 21, 1895, the U.S. Supreme Court decided United States v. E.C. Knight Co. (156 U.S. 1) by a vote of 8-1, effectively gutting the Sherman Antitrust Act just five years after its passage. The case arose when the American Sugar Refining Company (the "Sugar Trust") acquired four Philadelphia sugar refineries in March 1892—including E.C. Knight Company—giving it control of 98% of sugar manufacturing in the United States. President Grover Cleveland ordered the government to sue under the Sherman Act, arguing this near-total monopoly illegally interfered with interstate commerce and should be dissolved.
 

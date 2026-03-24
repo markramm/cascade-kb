@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-06--michigan-voters-not-politicians-independent-redistricting
 date: 2018-11-06
 title: Michigan Voters Approve Independent Redistricting Commission, Ending Partisan Gerrymandering
@@ -40,7 +40,7 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Michigan voters approve Proposal 2 with 61% support, amending the state constitution to create an independent redistricting commission that removes politicians from the line-drawing process. The grassroots "Voters Not Politicians" initiative directly responds to Michigan's status as having some of the nation's worst gerrymandering, where 2011 Republican-drawn maps allowed the GOP to win 64% of House seats and 9 of 14 congressional seats despite winning only 50.1% of statewide votes in 2016.
 

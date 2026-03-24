@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1944-07-01--bretton-woods-conference-creates-imf-world-bank
 date: '1944-07-01'
 title: Bretton Woods Conference Establishes Dollar Hegemony Through IMF and World Bank
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Bretton Woods Conference Establishes Dollar Hegemony
 

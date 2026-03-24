@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-18--catalangate-pegasus-targeting-spanish-politicians
 date: '2020-04-18'
 title: CatalanGate Reveals Systematic Pegasus Targeting of 65 Catalan Independence Leaders
@@ -42,7 +42,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Between 2017-2020, the devices of at least 65 Catalan minority politicians and activists are targeted by a sophisticated espionage operation using NSO Group's Pegasus spyware and Candiru's surveillance tools, in what becomes known as "CatalanGate." The victims include current Catalan president Pere Aragonès (who was deputy leader at the time), former regional leaders Quim Torra and Artur Mas, four Members of the European Parliament supporting independence, and numerous legislators, jurists, and civil society organization members.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-12--noaa-cuts-1029-employees-weather-forecast-threat
 date: '2026-03-12'
 title: DOGE Cuts 1,029 More NOAA Employees, Threatening Weather Forecasting and Disaster Response
@@ -36,7 +36,7 @@ capture_lanes:
 - Institutional Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 12, 2026, the Trump administration carried out another round of firings at the National Oceanic and Atmospheric Administration, cutting 1,029 employees — approximately 10% of the agency's remaining workforce — as part of DOGE-directed reductions.
 

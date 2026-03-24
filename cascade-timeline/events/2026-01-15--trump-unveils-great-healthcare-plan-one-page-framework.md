@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-15--trump-unveils-great-healthcare-plan-one-page-framework
 date: '2026-01-15'
 title: Trump Unveils 'Great Healthcare Plan' - One-Page Framework with No Specifics, Fails to Address ACA Premium Crisis
@@ -39,7 +39,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump released "The Great Healthcare Plan" via social media video, accompanied by a one-page fact sheet—fulfilling a campaign promise made since 2016 that he would reveal his "great healthcare plan." The announcement came as millions faced skyrocketing ACA premiums after enhanced subsidies expired at the end of 2025 due to Republican opposition to extension.
 

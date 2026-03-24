@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-22--fbi-raids-john-bolton-home
 date: '2025-08-22'
 title: FBI Raids Home and Office of Trump Critic John Bolton
@@ -59,7 +59,7 @@ sources:
 validation_status: enhanced
 quality_score: 9
 ---
-type: solidarity_event
+type: timeline_event
 On August 22, 2025, the FBI executed simultaneous, court-authorized searches of John Bolton's Maryland home and Washington, D.C. office, seizing electronic devices and documents related to potential classified information mishandling. The raid stems from an ongoing investigation into Bolton's 2020 memoir, 'The Room Where It Happened', and represents a significant escalation in political tensions.
 
 Key Details:

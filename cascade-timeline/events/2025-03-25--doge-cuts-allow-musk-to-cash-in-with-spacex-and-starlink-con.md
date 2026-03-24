@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-25--doge-cuts-allow-musk-to-cash-in-with-spacex-and-starlink-con
 date: '2025-03-25'
 title: DOGE cuts allow Musk to cash in with SpaceX and Starlink government contracts
@@ -46,6 +46,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former federal employees and watchdog groups warn that the Trump administration's policy changes enable Elon Musk to steer lucrative contracts toward SpaceX and Starlink, potentially privatizing key government space and satellite operations

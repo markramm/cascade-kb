@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-13--michigan-drops-all-flint-criminal-charges
 date: 2019-06-13
 title: Michigan Drops All Criminal Charges in Flint Water Crisis, Promises New Investigation
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Michigan Attorney General Dana Nessel's office dismisses every pending criminal case related to the Flint water crisis, dropping charges against eight people including former state health department director Nick Lyon, former Chief Medical Executive Eden Wells, and former Flint Emergency Manager Darnell Earley. The decision effectively restarts an investigation that began three years earlier, ensuring that no one is held criminally accountable for poisoning thousands of children.
 

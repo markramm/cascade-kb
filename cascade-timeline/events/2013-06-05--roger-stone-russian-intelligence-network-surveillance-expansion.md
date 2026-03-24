@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-06-05--roger-stone-russian-intelligence-network-surveillance-expansion
 date: '2013-06-05'
 title: 'Roger Stone''s Early Connections to Russian Information Networks'
@@ -40,5 +40,5 @@ validation_metadata:
   - Track ongoing investigations and declassified documents
   - Update if new authoritative sources emerge
 ---
-type: solidarity_event
+type: timeline_event
 While specific claims about Russian intelligence surveillance in 2013 could not be verified, Roger Stone's interactions with Russian-linked entities became more prominently documented during the 2016 presidential campaign. Stone had communications with Guccifer 2.0, a hacker persona believed to be operated by Russian military intelligence (GRU), and was a key figure in investigations into Russian interference in the 2016 U.S. election. Investigations revealed his potential role in facilitating communication between the Trump campaign and Russian-sourced information.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-03--epstein-associates-list-public-release
 date: '2024-01-03'
 title: Jeffrey Epstein Associates Documents Released to Public
@@ -39,6 +39,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal court releases approximately 900 pages of previously sealed documents from the Giuffre v. Maxwell case, revealing names of dozens of Epstein associates and new details about his network. The release includes depositions, emails, and court filings, though many documents remain heavily redacted. The disclosure represents the largest public release of Epstein-related documents to date.

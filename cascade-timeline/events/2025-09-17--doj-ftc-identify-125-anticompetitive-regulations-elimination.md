@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-17--doj-ftc-identify-125-anticompetitive-regulations-elimination
 date: '2025-09-17'
 title: DOJ and FTC Identify 125+ Federal Regulations for Elimination as "Anticompetitive"
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The DOJ Antitrust Division and Federal Trade Commission announced they had identified over 125 federal regulations for review and potential elimination under Trump's Executive Order on Reducing Anti-Competitive Regulatory Barriers. The initiative represents a systematic dismantling of regulatory frameworks across multiple sectors.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-26--bondi-voter-rolls-request-minnesota-ice-enforcement
 date: '2026-01-26'
 status: confirmed
@@ -31,7 +31,7 @@ capture_lanes:
 - Media Capture & Control
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Pam Bondi sent a letter to Minnesota state officials on January 26, 2026, requesting the state's voter rolls including information on individuals who receive public assistance, claiming it would be beneficial for Immigration and Customs Enforcement to perform immigration enforcement operations. The request came during ongoing protests against ICE's Operation Metro Surge in Minneapolis, which had included the fatal shooting of Renee Good by an ICE agent on January 7 and the detention of Native Americans and U.S. citizen teenagers through racial profiling.
 

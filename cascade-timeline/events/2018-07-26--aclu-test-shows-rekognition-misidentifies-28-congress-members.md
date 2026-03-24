@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-26--aclu-test-shows-rekognition-misidentifies-28-congress-members
 date: 2018-07-26
 title: ACLU test reveals Amazon Rekognition misidentified 28 Congress members as criminals, showing racial bias
@@ -47,7 +47,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 26, 2018, the American Civil Liberties Union (ACLU) released results of an independently verified test demonstrating that Amazon's Rekognition facial recognition software incorrectly matched 28 members of Congress with mugshots from a database of arrest photos. The test, which cost only $12.33 to conduct, revealed significant accuracy problems and documented racial bias in Amazon's surveillance technology—nearly 40 percent of the false matches were of people of color, despite people of color comprising only 20 percent of Congress. The findings provided concrete evidence of the dangers of deploying facial recognition technology in law enforcement and sparked immediate Congressional demands for a meeting with Amazon CEO Jeff Bezos.
 

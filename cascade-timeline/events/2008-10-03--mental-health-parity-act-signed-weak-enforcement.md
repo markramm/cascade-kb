@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-10-03--mental-health-parity-act-signed-weak-enforcement
 title: Mental Health Parity Act Signed into Law with No Enforcement Mechanism, Enabling Systematic Insurer Non-Compliance
 date: '2008-10-03'
@@ -46,7 +46,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 3, 2008, President George W. Bush signed the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act (MHPAEA) into law as part of the Emergency Economic Stabilization Act (TARP legislation), requiring health insurers to provide mental health and substance use disorder benefits on par with physical health coverage. However, the legislation included no mechanism to regularly monitor compliance, gave the Department of Labor no authority to act directly against insurance companies, and created no front-end enforcement system to ensure compliance before violations harmed patients. The result has been systematic insurer non-compliance—with DOL citing 113 violations in 2017-2018 alone, the Government Accountability Office finding that nearly all comparative analyses contained insufficient information to support compliance findings, and research showing the law has had "minimal effect" on increasing treatment access or decreasing costs due to inadequate enforcement. States have filled some enforcement gaps, assessing over $31 million in fines against 30+ health plans since 2016, but the federal enforcement vacuum has allowed insurance companies to routinely violate parity requirements for 16 years while facing minimal consequences.
 

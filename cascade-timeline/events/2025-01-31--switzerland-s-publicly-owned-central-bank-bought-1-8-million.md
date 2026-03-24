@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-31--switzerland-s-publicly-owned-central-bank-bought-1-8-million
 date: '2025-01-31'
 title: Swiss National Bank purchased 111,300 shares of Trump Media worth $1.78M, stake grows to $5.37M by February
@@ -43,7 +43,7 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline with growing foreign investment.
 ---
-type: solidarity_event
+type: timeline_event
 
 The Swiss National Bank, Switzerland's central bank majority owned by public entities,
 purchased 111,300 shares of Trump Media & Technology Group valued at $1.78 million

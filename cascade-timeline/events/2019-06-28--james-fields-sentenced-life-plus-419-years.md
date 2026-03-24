@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-28--james-fields-sentenced-life-plus-419-years
 date: '2019-06-28'
 title: James Alex Fields Sentenced to Life Plus 419 Years for Charlottesville Murder
@@ -39,7 +39,7 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 James Alex Fields Jr., the white supremacist who murdered Heather Heyer at the 2017 "Unite the Right" rally in Charlottesville, received a federal life sentence on June 28, 2019 for hate crimes, followed by a second life sentence plus 419 years from Virginia state courts on July 15, 2019. The combined sentences ensure Fields will spend the rest of his life in prison for what judges called an act of domestic terrorism.
 

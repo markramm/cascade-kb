@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-01-01--thiel-funds-narya-capital
 date: '2019-01-01'
 title: 'Peter Thiel Backs J.D. Vance''s $93 Million Narya Capital Venture Fund'
@@ -53,5 +53,5 @@ notes: 'Narya Capital, named after Tolkien mythology like many Thiel ventures, s
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Peter Thiel becomes anchor investor in J.D. Vance's new venture capital firm Narya Capital, which raises $93 million. Fund focuses on investments outside Silicon Valley, particularly in Midwest, aligning with Vance's populist branding while maintaining elite financial networks. Represents further deepening of Thiel-Vance financial ties ahead of political pivot.

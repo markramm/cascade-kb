@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-15--operation-charlottes-web-bovino-north-carolina
 date: '2025-11-15'
 title: Bovino Launches 'Operation Charlotte's Web' in North Carolina, 250+ Arrests as 30,000 Students Stay Home
@@ -38,7 +38,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Border Patrol Commander Gregory Bovino launched "Operation Charlotte's Web" in North Carolina on November 15, 2025, arriving unannounced in the state's largest city. Charlotte officials had no advance warning of the operation - none of the officials CNN contacted were aware Bovino and his officers were coming.
 

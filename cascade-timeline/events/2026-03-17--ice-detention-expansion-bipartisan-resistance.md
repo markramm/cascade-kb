@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--ice-detention-expansion-bipartisan-resistance
 date: '2026-03-17'
 title: ICE Detention Population Hits 73,000 as Deaths Mount and Bipartisan Community Opposition Intensifies
@@ -33,7 +33,7 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By mid-March 2026, ICE's detention population had swelled to approximately 73,000 people — an 84 percent increase from the roughly 40,000 held in custody at the start of the Trump administration's second term. The expansion was fueled by $45 billion of the $85 billion in new DHS funding authorized through the reconciliation bill, making detention the single largest line item in the department's immigration enforcement budget.
 

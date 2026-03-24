@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-11--denmark-buying-us-missiles-defend-greenland-from-us
 date: '2026-02-11'
 title: 'Denmark Purchases US Missiles to Defend Greenland as NATO Allies Arm Against Fellow Member'
@@ -37,7 +37,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Denmark announced the purchase of US-manufactured missiles as part of a $13 billion rearmament program focused on defending Greenland—a program driven in significant part by the possibility of US coercion over the Arctic territory. The purchases represented a surreal dynamic in which a NATO member state was arming itself with American weapons to deter potential aggression from the United States itself, while US defense manufacturers profited from both sides of the intra-alliance tension that Trump's territorial ambitions had created.
 
 The NATO Arctic Sentry mission launched on February 11, reflecting the broader alliance response to the Greenland crisis. Germany deployed four Eurofighter jets to support Arctic patrol operations, while the United Kingdom doubled its troop presence in Norway to 2,000 soldiers. These deployments were framed as reinforcing NATO's northern flank against Russian threats, but their timing and context made clear they also served as a signal to Washington that European allies would not passively accept the coercion of a fellow member state. The mission represented the first time in NATO's history that alliance military deployments were motivated in part by the behavior of the alliance's most powerful member.

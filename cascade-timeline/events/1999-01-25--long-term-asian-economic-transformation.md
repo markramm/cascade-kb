@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1999-01-25--long-term-asian-economic-transformation
 date: '1999-01-25'
 title: IMF Concludes Comprehensive Structural Adjustment in Southeast Asia
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 IMF completes its systematic economic restructuring of Southeast Asian economies, fundamentally transforming corporate landscapes. The intervention results in unprecedented foreign corporate access, weakened local economic sovereignty, and a permanent shift in regional economic power dynamics.
 

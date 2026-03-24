@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1843-10-16--tyler-texas-annexation-secret-negotiations
 date: '1843-10-16'
 title: Tyler Begins Secret Texas Annexation Talks to Strengthen Slave Power
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Face-to-face negotiations for Texas annexation secretly commenced on October 16, 1843, between Secretary of State Abel P. Upshur and Texas minister to the United States Isaac Van Zandt, following President John Tyler's order to open secret talks on September 18. Tyler, politically isolated after being expelled from the Whig Party in September 1841, independently pursued annexation as a bid to build a political base for election to a full term in 1844. Unaligned with any political party, Tyler "emerged as a states' rights advocate committed to slavery expansion in defiance of Whig principles" and aligned himself with a small faction of Texas annexationists seeking to strengthen slavery interests.
 

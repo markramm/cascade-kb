@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1967-03-01--ramparts-exposes-cia-foundation-funding-olin-scandal
 date: '1967-03-01'
 title: Ramparts Magazine Exposes CIA Foundation Funding Network, Ending Olin Money Laundering Operation
@@ -42,7 +42,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Ramparts magazine publishes Sol Stern's article "NSA and the CIA" in March-April 1967, exposing that the Central Intelligence Agency has been secretly funding the National Student Association and revealing "the whole system of anti-Communist front organizations in Europe, Asia, and South America" operating through foundation cutouts. The exposures trigger political furor and force the CIA to fold its covert propaganda programs that had been laundering money through tax-exempt foundations including the John M. Olin Foundation, which served as a secret CIA "bank" from 1958 to 1966, channeling $1.95 million to "anti-Communist intellectuals and publications" while concealing government involvement in domestic influence operations.
 

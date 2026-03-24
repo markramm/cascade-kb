@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-09--ftc-sues-facebook-antitrust-monopolization-instagram-whatsapp
 date: '2020-12-09'
 title: FTC Sues Facebook for Illegal Monopolization Through Instagram and WhatsApp Acquisitions, Seeks Breakup
@@ -47,7 +47,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Trade Commission, joined by 46 states, the District of Columbia, and Guam, files major antitrust lawsuit against Facebook alleging illegal monopolization through systematic acquisition of competitors Instagram and WhatsApp. The FTC seeks structural breakup of Facebook through forced divestiture, documenting the company's "buy or bury" strategy to eliminate competitive threats through acquisition rather than competition.
 

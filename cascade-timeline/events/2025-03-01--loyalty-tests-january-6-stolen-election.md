@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--loyalty-tests-january-6-stolen-election
 date: '2025-03-01'
 importance: 6
@@ -41,6 +41,6 @@ sources:
 notes: Merit-based hiring replaced with political loyalty requirements
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal job candidates required to confirm January 6 was an 'inside job' and 2020 election was 'stolen,' with social media screening for MAGA loyalty indicators and campaign participation required for new hires.

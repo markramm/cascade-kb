@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--fbi-redacted-trump-name-epstein-files
 date: '2025-08-01'
 title: FBI Redacted Trump's Name from Jeffrey Epstein Files Under Privacy Protections
@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Bloomberg reported on August 1, 2025, that the FBI redacted President Donald Trump's name and those of other high-profile individuals from approximately 100,000 pages of government files related to Jeffrey Epstein. Internal directives instructed about 1,000 FBI agents to 'flag' any mention of Trump during a March 2025 review. The names were withheld under privacy protections because those individuals were private citizens when the federal investigation into Epstein began in 2006.
 

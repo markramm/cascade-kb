@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-27--arrests-will-continue-memes-will-continue-doctrine
 date: '2025-03-27'
 title: White House Establishes "The Arrests Will Continue. The Memes Will Continue" as Official Communications Doctrine
@@ -41,7 +41,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 27, 2025, after posting an AI-generated image in Studio Ghibli anime style showing a crying Dominican woman being arrested by ICE, White House Deputy Communications Director Kaelan Dorr responded to criticism by establishing what would become the administration's defining communications tagline:
 

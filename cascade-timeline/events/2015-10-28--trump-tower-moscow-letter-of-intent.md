@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-10-28--trump-tower-moscow-letter-of-intent
 date: '2015-10-28'
 importance: 6
@@ -40,6 +40,6 @@ sources:
   tier: 1
 notes: Mueller Report pages 67-80 detail how negotiations continued through June 2016, with Cohen briefing Trump multiple times. Project explicitly linked campaign success to business opportunities in Russia.
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump personally signed Letter of Intent for Trump Tower Moscow project valued at over $1 billion while publicly denying Russian business dealings during campaign. Michael Cohen told Mueller investigators that Trump viewed his campaign as a significant "infomercial" for Trump-branded properties. Financing involved attempts through VTB Group (state-owned Russian bank) and Genbank (owned by convicted fraudster Yevgeny Dvoskin operating in Russian-annexed Crimea). Felix Sater promised "I can get Putin to praise Trump's business acumen" and "We can own this election."

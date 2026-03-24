@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--illinois-warns-federal-agents-license-plate-tampering
 date: '2025-12-04'
 importance: 8
@@ -72,7 +72,7 @@ sources:
 notes: 'Illinois Secretary of State Alexi Giannoulias revoked an Enterprise Rent-A-Car license plate after federal immigration agents illegally swapped plates during Operation Midway Blitz. Multiple reports document DHS officers driving with blacked-out digits on rear plates or swapping plates across multiple vehicles. State officials created tipline after Chicago Sun-Times investigation revealed systematic plate tampering. DHS invoked Supremacy Clause claiming federal law supersedes state vehicle regulations. Gov. Pritzker signed new law allowing lawsuits against agents who violate rights during immigration arrests, with damages increased for unlicensed vehicle use.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Illinois Secretary of State Alexi Giannoulias issues formal warnings to the Department of Homeland Security and multiple car rental companies that federal immigration agents' practice of tampering with, swapping, or removing license plates during immigration enforcement operations violates Illinois state law. The warnings follow documented incidents of DHS officers participating in "Operation Midway Blitz" and other Chicago-area immigration raids driving vehicles with illegally altered or swapped license plates, apparently attempting to avoid detection or identification during enforcement activities.
 
 According to the Chicago Sun-Times, Giannoulias's office put federal immigration agents and car rental firms "on notice" for alleged license plate tampering during the immigration crackdown. The Secretary of State's warnings came after multiple reports that Department of Homeland Security officers drove vehicles with digits blacked out on rear Illinois license plates—an apparent violation of state law—and instances where the same license plate was observed on multiple different vehicles driven by federal agents.

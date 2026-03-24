@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1984-12-03--bhopal-disaster-exposes-corporate-safety-negligence
 date: '1984-12-03'
 title: Bhopal Disaster Kills Thousands, Exposes Union Carbide Safety Negligence and Regulatory Failure
@@ -40,7 +40,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 1984, a catastrophic gas leak at Union Carbide's pesticide plant in Bhopal, India killed an estimated 3,800 people immediately and up to 16,000 in the following weeks. Hundreds of thousands suffered long-term health effects. The disaster exposed how multinational corporations maintained lower safety standards in developing countries and evaded accountability through complex corporate structures.
 

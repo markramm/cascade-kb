@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-07-21--clearview-ai-raises-30-million-despite-privacy-violations
 date: '2021-07-21'
 title: Clearview AI Raises $30 Million Series B Funding Despite Widespread Privacy Violations
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Clearview AI closed a $30 million Series B funding round led by Kirenaga Partners, valuing the controversial facial recognition company at $130 million. The investment came despite ongoing privacy investigations in multiple countries and widespread regulatory findings that the company's practices violated privacy laws. The funding round included institutional investors and family offices, with previous investors including Peter Thiel and Naval Ravikant maintaining their stakes in the company.
 

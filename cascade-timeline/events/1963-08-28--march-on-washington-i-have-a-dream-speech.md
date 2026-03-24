@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1963-08-28--march-on-washington-i-have-a-dream-speech
 date: '1963-08-28'
 title: March on Washington Draws 250,000 for Jobs and Freedom as MLK Delivers I Have a Dream Speech
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 28, 1963, approximately 250,000 people gathered in Washington, D.C., for the March on Washington for Jobs and Freedom, the largest demonstration for civil rights in American history to that point. Organized by Bayard Rustin and A. Philip Randolph, the march built an alliance of civil rights, labor, and religious organizations demanding both racial justice and economic opportunity. From the steps of the Lincoln Memorial, Martin Luther King Jr. delivered his "I Have a Dream" speech to over 250,000 supporters, departing from his prepared text when gospel singer Mahalia Jackson called out from behind him, "Tell 'em about the dream, Martin!" The speech became one of the most iconic moments in American history, articulating a vision of racial equality and justice that resonated across the nation and around the world.
 

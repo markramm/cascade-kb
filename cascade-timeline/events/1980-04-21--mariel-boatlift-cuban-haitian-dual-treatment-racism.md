@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-04-21--mariel-boatlift-cuban-haitian-dual-treatment-racism
 date: '1980-04-21'
 title: Mariel Boatlift Exposes Racist Double Standards as Cubans Welcomed While Haitians Detained
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Between April and October 1980, approximately 125,000 Cubans flee to the United States in the Mariel Boatlift after Fidel Castro opens the port of Mariel to emigration. Simultaneously, thousands of Haitians fleeing the brutal Duvalier dictatorship arrive in Florida by boat, creating a natural experiment exposing the racist double standards embedded in U.S. refugee policy. Despite both groups fleeing authoritarian regimes, the federal government creates a new "Cuban-Haitian entrant" status that maintains de facto distinctions: Cubans receive expedited processing and eventual permanent residency, while Haitians face mass detention, deportation proceedings, and characterization as "economic migrants" rather than political refugees.
 

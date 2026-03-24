@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-11-16--energy-commerce-oil-lobby-climate-denial
 date: '2005-11-16'
 title: Energy Committee Hearings Expose Oil Industry Climate Denial Campaign and Regulatory Capture
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Documents revealed that Vice President Dick Cheney's Energy Task Force had met extensively with executives from major oil companies, though chief executives denied involvement when testifying before the Senate Energy and Commerce committees. The revelation exposed how the Energy and Commerce Committee—responsible for regulating the oil industry and energy policy—had been captured by the very industry it oversaw. Oil company executives provided misleading testimony about climate science and their companies' internal knowledge of climate change, continuing a decades-long disinformation campaign designed to prevent regulatory action.
 

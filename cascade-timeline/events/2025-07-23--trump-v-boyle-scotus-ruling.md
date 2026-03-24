@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-23--trump-v-boyle-scotus-ruling
 title: Supreme Court Emergency Order in Trump v. Boyle
 date: '2025-07-23'
@@ -46,6 +46,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Supreme Court 6-3 unsigned order allows Trump to fire three Democratic CPSC commissioners without cause, reversing district court reinstatement. Kagan dissent warns court 'all but overturned' 90-year Humphrey's Executor precedent protecting independent agencies. Kavanaugh suggests court may formally strike down precedent.

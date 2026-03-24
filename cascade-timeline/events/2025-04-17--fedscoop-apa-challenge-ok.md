@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-17--fedscoop-apa-challenge-ok
 date: '2025-04-17'
 importance: 6
@@ -50,6 +50,6 @@ actors:
 - U.S. Department of Health and Human Services
 notes: Plaintiffs include EPI, Economic Action Maryland Fund, Virginia Poverty Law Center. DOGE given free rein to 40+ CFPB systems with PII. At DOL, accessed OSHA Integrated Management Systems, EBSA Enforcement Management System. HHS records expose Medicare/Medicaid beneficiaries, healthcare providers, employees. Judge allowed APA claims while denying Privacy Act challenges. Unions amended suit to add DOL, HHS, CFPB after DOGE data access.
 ---
-type: solidarity_event
+type: timeline_event
 
 Judge John D. Bates ruled April 17, 2025, that unions (AFL-CIO, AFGE, SEIU, others) can proceed with APA challenge against DOGE's access to Americans' PII at DOL, CFPB, HHS. Court found agencies' "across-the-board policies" granting DOGE personnel access to sensitive records constitute "final agency action" reviewable under APA. DOL told staff give DOGE "anything they want." Privacy Act claims denied.

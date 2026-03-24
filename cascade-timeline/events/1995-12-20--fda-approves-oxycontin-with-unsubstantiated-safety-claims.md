@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1995-12-20'
 title: FDA Approves OxyContin with Unsubstantiated Safety Claims
 importance: 9
@@ -46,6 +46,6 @@ id: 1995-12-20--fda-approves-oxycontin-with-unsubstantiated-safety-claims
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The FDA approved Purdue Pharma's OxyContin application, including a scientifically unsubstantiated claim that delayed absorption 'is believed to reduce the abuse liability of a drug.' This approval occurred without clinical trials to prove the safety claim and marked the beginning of aggressive marketing that would fuel the opioid crisis. The approval demonstrated regulatory capture as two principal FDA reviewers later joined Purdue Pharma, including Dr. Curtis Wright who left the FDA less than two years after approval and joined Purdue on October 9, 1998, with a substantially higher salary. The FDA's label claim became central to Purdue's marketing strategy, enabling sales to grow from $48 million in 1996 to $1.1 billion in 2000. The agency didn't modify the problematic label until 2001, removing the abuse liability claim and admitting it lacked data to establish the true addiction rate.

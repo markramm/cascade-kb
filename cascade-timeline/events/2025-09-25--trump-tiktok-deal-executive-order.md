@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-25--trump-tiktok-deal-executive-order
 date: '2025-09-25'
 title: Trump Signs Executive Order Approving TikTok Deal with Oracle Partnership
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed Executive Order 14352 titled 'Saving TikTok While Protecting National Security' on September 25, 2025, approving a deal that allows TikTok to continue operating in the United States under majority U.S. ownership. The order extended the enforcement deadline by 120 days to January 23, 2026, to allow completion of a transaction that values the U.S. operation at approximately $14 billion. Under the deal, ByteDance will own less than 20% of the new entity, with Oracle serving as TikTok's security provider.
 

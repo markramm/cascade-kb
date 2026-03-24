@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-01-01--purdue-pharma-launches-aggressive-oxycontin-marketing-campaign
 title: Purdue Pharma Launches Aggressive OxyContin Marketing Campaign Based on False Claims
 date: '1996-01-01'
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Purdue Pharma launched the most aggressive marketing campaign ever undertaken for a narcotic drug, introducing OxyContin with false claims about addiction risk. At the 1996 launch party, Dr. Richard Sackler predicted the debut would "be followed by a blizzard of prescriptions that will bury the competition."
 

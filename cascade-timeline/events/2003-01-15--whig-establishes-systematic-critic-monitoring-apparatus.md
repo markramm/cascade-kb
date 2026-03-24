@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-01-15--whig-establishes-systematic-critic-monitoring-apparatus
 title: WHIG Establishes Systematic Opposition Research and Critic Monitoring Apparatus
 date: '2003-01-15'
@@ -73,6 +73,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group (WHIG) formalizes a strategic communications apparatus designed to systematically identify, track, and counter administration critics and potential whistleblowers. Through coordinated media messaging and high-profile official communications, WHIG developed comprehensive strategies to suppress dissent and control the narrative around the Iraq War.

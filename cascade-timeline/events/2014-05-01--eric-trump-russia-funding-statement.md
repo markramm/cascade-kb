@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-05-01--eric-trump-russia-funding-statement
 date: '2014-05-01'
 importance: 9
@@ -45,7 +45,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Golf writer James Dodson reported that Eric Trump told him in 2014: "We don't rely on
 American banks. We have all the funding we need out of Russia." When asked about financing

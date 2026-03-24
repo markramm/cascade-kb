@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1974-09-08--ford-pardons-nixon-preemptive-immunity'
 date: '1974-09-08'
 title: 'Ford Issues Full Pardon to Nixon for All Watergate Crimes, Ensures No Criminal Accountability'
@@ -36,7 +36,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On Sunday, September 8, 1974—exactly one month after Nixon's resignation—President Gerald Ford addressed the nation from the Oval Office to announce his decision to "grant a full, free and absolute pardon unto Richard Nixon for all offenses against the United States which he, Richard Nixon, has committed or may have committed or taken part in" during his presidency. The pardon made Nixon immune from any arrest, investigation, or imprisonment for his involvement in Watergate and related crimes. Ford explained that he felt the pardon was in the best interests of the country, arguing that the Nixon family's situation was "a tragedy in which we all have played a part. It could go on and on and on, or someone must write the end to it. I have concluded that only I can do that, and if I can, I must."
 

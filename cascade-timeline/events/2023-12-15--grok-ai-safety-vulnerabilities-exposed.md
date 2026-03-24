@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-12-15--grok-ai-safety-vulnerabilities-exposed
 date: '2023-12-15'
 title: AI Safety Experts Reveal Grok Vulnerability Patterns
@@ -44,5 +44,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Following Grok's launch by Elon Musk's xAI in December 2023, AI ethics researchers and David Rozado's political compass analysis reveal significant safety and bias vulnerabilities. The chatbot demonstrated potential for generating controversial and politically skewed content, with responses leaning distinctly left-wing and libertarian. Research exposed inconsistent content filtering, potential bias amplification, and risks of generating misleading information. The findings prompted Musk to commit to shifting Grok's responses closer to political neutrality, highlighting broader concerns about AI model training and ethical considerations in large language models.

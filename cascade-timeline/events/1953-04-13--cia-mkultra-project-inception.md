@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1953-04-13--cia-mkultra-project-inception
 date: '1953-04-13'
 title: CIA MKULTRA Project Officially Begins
@@ -36,6 +36,6 @@ sources:
 status: confirmed
 validation_notes: Event verified through multiple archival sources, including Senate Intelligence Committee documentation and CIA FOIA records
 ---
-type: solidarity_event
+type: timeline_event
 
 Under CIA Director Allen Dulles, Project MKULTRA is officially launched as a comprehensive, covert research program exploring behavioral modification and mind control techniques. The program involves 149 subprojects conducted through universities and research institutions, focusing on chemical and psychological manipulation methods.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--noem-220-million-dhs-ad-campaign-senate-scrutiny
 date: '2026-03-04'
 title: DHS $220 Million Self-Deportation Ad Campaign Faces Senate Scrutiny; Contracts
@@ -52,7 +52,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate scrutiny of the Department of Homeland Security's $220 million taxpayer-funded advertising campaign intensified in the days following Kristi Noem's March 3, 2026 Senate Judiciary Committee hearing, with contracting irregularities drawing bipartisan condemnation and the campaign becoming a proximate cause of Noem's eventual removal from office.
 

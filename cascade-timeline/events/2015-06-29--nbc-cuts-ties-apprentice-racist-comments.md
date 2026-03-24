@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-06-29--nbc-cuts-ties-apprentice-racist-comments
 date: 2015-06-29
 title: NBC Fires Trump from The Apprentice Following Racist Comments About Mexican Immigrants
@@ -36,7 +36,7 @@ actors:
 - Donald Trump
 - NBC
 ---
-type: solidarity_event
+type: timeline_event
 NBCUniversal announces on June 29, 2015, that it is ending its business relationship with Donald Trump, firing him from "The Apprentice" and cancelling the Trump-produced Miss USA and Miss Universe pageants in response to Trump's racist comments about Mexican immigrants during his presidential campaign announcement two weeks earlier. The decision follows a petition signed by over 200,000 people and comes despite Trump's highly profitable 11-year relationship with the network.
 
 ## Trump's Racist Campaign Launch

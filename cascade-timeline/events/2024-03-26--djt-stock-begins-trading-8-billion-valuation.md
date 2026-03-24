@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-26--djt-stock-begins-trading-8-billion-valuation
 date: '2024-03-26'
 importance: 10
@@ -52,5 +52,5 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media begins trading under ticker DJT at $8.4 billion valuation, with Trump holding 69-78.75% of shares, creating unprecedented presidential conflict of interest through media and financial entanglement. Trading was volatile, with stock price jumping over 50% and trading briefly halted.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-06-27--zelman-v-simmons-harris-supreme-court-upholds-vouchers
 date: '2002-06-27'
 title: Zelman v. Simmons-Harris - Supreme Court Upholds School Vouchers for Religious Schools
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 27, 2002, the Supreme Court ruled 5-4 in Zelman v. Simmons-Harris that Cleveland's school voucher program did not violate the Establishment Clause, even though 96% of voucher students attended religious schools. The decision, authored by Chief Justice William Rehnquist, removed the primary constitutional barrier to publicly funded private school vouchers and provided legal foundation for nationwide voucher expansion.
 

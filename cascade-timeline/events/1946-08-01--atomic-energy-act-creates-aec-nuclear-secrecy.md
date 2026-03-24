@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1946-08-01--atomic-energy-act-creates-aec-nuclear-secrecy
 date: '1946-08-01'
 title: Atomic Energy Act Creates AEC, Establishes Unprecedented Peacetime Secrecy Regime
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 President Harry Truman signs the Atomic Energy Act of 1946 on August 1, establishing the Atomic Energy Commission (AEC) to control the development and production of nuclear weapons and to develop nuclear power. The act creates unprecedented peacetime secrecy powers and establishes the framework for the nuclear-industrial complex that will channel billions of dollars to private contractors.
 

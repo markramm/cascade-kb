@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-03--pence-ireland-36-million-trump-property
 date: '2019-09-03'
 importance: 5
@@ -38,6 +38,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Vice President Mike Pence's September 2019 stay at Trump Doonbeg in Ireland cost taxpayers $3.6 million total, requiring a 181-mile detour from Dublin meetings. Pence flew across Ireland to stay at Trump's golf resort rather than in Dublin where his official meetings occurred. The unnecessary detour enriched Trump's struggling Irish property while violating domestic emoluments principles through excessive taxpayer expenditure at presidential properties.

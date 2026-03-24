@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2007-10-19--associated-press-exposes-comcast-bittorrent-throttling
 date: '2007-10-19'
 title: Associated Press Investigation Exposes Comcast's Secret BitTorrent Throttling and Blocking
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Associated Press publishes a comprehensive investigation revealing that Comcast, the nation's largest cable company and internet service provider, is secretly interfering with peer-to-peer file sharing applications including BitTorrent by forging network packets to block uploads. The AP investigation, which attempted to transfer public domain files including the Bible through BitTorrent, confirmed earlier allegations from TorrentFreak (August 2007) that Comcast had vehemently denied despite widespread user reports.
 

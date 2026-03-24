@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1937-02-05--fdr-announces-court-packing-plan
 date: '1937-02-05'
 title: FDR Announces Judicial Reorganization Plan to Add Up to Six Supreme Court Justices, Triggering Court-Packing Crisis
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 5, 1937, President Franklin Roosevelt announces the Judicial Procedures Reform Bill, requesting congressional authority to appoint up to six additional Supreme Court justices—one for each sitting justice over age 70—potentially expanding the Court from nine to fifteen members. Roosevelt presents the plan without advance warning to congressional leaders including Vice President John Nance Garner and Representative Hatton Sumners, claiming the aging Court needs additional justices to handle its caseload because current members are "slow and infirm" and behind in their work. The timing is carefully calculated to present legislation before the Supreme Court hears oral arguments on Wagner Act cases (scheduled February 8) but after the annual White House dinner for the Court (February 2), falling between a Senate recess (February 3-5) and the weekend. Roosevelt argues the judiciary should be reorganized "in order that it also may function in accord with modern necessities," noting Congress has changed the number of justices six times previously.
 

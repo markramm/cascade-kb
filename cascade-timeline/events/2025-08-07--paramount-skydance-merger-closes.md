@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-07--paramount-skydance-merger-closes
 title: Paramount-Skydance Merger Completes After FCC Approval
 date: '2025-08-07'
@@ -43,6 +43,6 @@ capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Merger closed with company now trading as Paramount Skydance Corp. (PSKY), led by David Ellison; Paramount's statement and wire coverage link closing to FCC's July approval and contemporaneous settlement of high-profile lawsuit involving presidential speech

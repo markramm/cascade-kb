@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-22--emoluments-enforcement-supreme-court
 date: '2025-03-22'
 title: Supreme Court Continues to Sidestep Definitive Ruling on Presidential Emoluments
@@ -47,6 +47,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Despite ongoing concerns about potential Emoluments Clauses violations, the Supreme Court has continued to avoid definitively ruling on the constitutional questions surrounding presidential financial conflicts. Previous cases from 2021 were dismissed as moot, leaving unclear legal standards about what constitutes an improper emolument. The Court's refusal to review these cases means the anti-corruption provision remains weakened, potentially setting a concerning precedent for future presidential financial accountability.

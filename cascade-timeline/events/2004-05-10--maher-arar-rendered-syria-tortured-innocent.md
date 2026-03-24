@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-05-10--maher-arar-rendered-syria-tortured-innocent
 date: '2004-05-10'
 title: Canada Concludes Maher Arar Wrongly Rendered to Syria for Torture Based on False Intelligence
@@ -44,7 +44,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Canadian inquiry conclusively determines that Maher Arar, a Syrian-born Canadian citizen, was wrongly rendered by the United States to Syria where he was tortured for nearly a year based on false intelligence provided by Canadian police. The inquiry finds Arar had no connection to terrorism and that faulty information sharing by the Royal Canadian Mounted Police led to his detention, rendition, and torture. Despite Canada's official exoneration, apology, and $10.5 million settlement, the U.S. refuses to acknowledge wrongdoing or remove Arar from terror watch lists. His case becomes the most documented example of extraordinary rendition destroying an innocent person's life, yet results in zero American accountability.
 

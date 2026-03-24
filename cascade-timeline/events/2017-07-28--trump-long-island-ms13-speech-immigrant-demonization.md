@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-07-28--trump-long-island-ms13-speech-immigrant-demonization
 date: '2017-07-28'
 title: Trump Weaponizes MS-13 Gang to Demonize Central American Immigrants and Justify Mass Deportations
@@ -36,6 +36,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump traveled to Long Island to deliver a speech linking MS-13 gang violence to immigration policy, using the gang to justify harsh deportation policies. In his 2018 State of the Union, Trump highlighted the murders of teenagers Kayla Cuevas and Nisa Mickens, stating 'Six members of the savage MS-13 gang have been charged with Kayla and Nisa's murders.' The White House claimed these killings demonstrated the need for tougher immigration laws. However, critics argued Trump was 'deliberately demonizing immigrants, who are far more likely to be the gang's victims than its members.' Academic analysis found 'the Trump administration disseminated a misleading representation of MS-13 to figure Central American migrants and their children as threats to Americans, then used this construct to justify anti-immigrant ideology even when not supported by criminological analysis.' Gang researcher Jorja Leap stated: 'This attitude that there's a brand new threat and it's new and it's all immigration, there is not a piece of that narrative that is accurate.' MS-13 is not the largest, most violent, or fastest-growing gang, but became 'the perfect focal point for Trump's message of closed borders' because of its ties to Central America, where most asylum-seeking teenagers originate. Local law enforcement reported less than 1% of unaccompanied minors on Long Island were MS-13 members. Most MS-13 victims are immigrants or children of immigrants. The campaign represented Trump's strategic use of racial fear to build political support for mass deportations.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-05--trump-sons-deals-on-three-continents-directly-benefit-the-pr
 date: '2025-05-05'
 title: Trump sons’ deals on three continents directly benefit the president
@@ -47,6 +47,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Over the last two weeks, Donald Trump Jr. and Eric Trump have traveled the world, announcing real estate, cryptocurrency, and other ventures involving billions of dollars that enrich not only themselves, but also the president

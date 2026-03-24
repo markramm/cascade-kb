@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2011-01-03--evan-bayh-corporate-boards-apollo
 date: '2011-01-03'
 title: Evan Bayh Joins Apollo Global Management and Five Corporate Boards After Senate
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Senator Evan Bayh (D-IN) joined private equity giant Apollo Global Management as a senior adviser and McGuireWoods as a strategic advisor immediately after leaving the Senate in January 2011. Within months, Bayh also secured positions on five corporate boards: Marathon Petroleum, Berry Plastics Group, Fifth Third Bancorp, RLJ Lodging Trust, and McGraw Hill Education. These positions would generate nearly $4 million in compensation over the following five years, transforming Bayh's net worth from his Senate salary to between $13.9 million and $48 million, according to financial disclosures.
 

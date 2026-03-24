@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-15--ryan-zinke-resigns-corruption
 date: '2018-12-15'
 title: Interior Secretary Ryan Zinke Resigns Facing 18 Federal Investigations
@@ -50,7 +50,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Interior Secretary Ryan Zinke resigned while under at least 18 federal investigations 
 for corruption, conflicts of interest, and ethics violations. Scandals included: 

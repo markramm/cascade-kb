@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - International Monetary Fund
 - World Bank
@@ -38,6 +38,6 @@ tags:
 - washington-consensus
 title: Long-term Geopolitical Consequences of IMF Structural Adjustment
 ---
-type: solidarity_event
+type: timeline_event
 
 The IMF's systematic economic intervention during the Asian Financial Crisis created lasting geopolitical shifts, fundamentally altering regional economic sovereignty. With $35 billion in financial support to Indonesia, Korea, and Thailand, the IMF implemented structural reforms that triggered profound changes in global economic governance. Asian nations developed strategic resistance to Western financial institutions, sparking long-term diplomatic and economic recalibration. Key consequences included the birth of the anti-globalization movement, more assertive developing countries in trade negotiations, and the emergence of alternative regional financial architectures.

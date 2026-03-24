@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--iran-missiles-ships-strait-of-hormuz
 date: '2026-03-11'
 title: Iran Strikes Cargo Ship in Strait of Hormuz, IRGC Vows "Not One Litre of Oil" to Pass
@@ -56,7 +56,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026 -- Day 12 of Operation Epic Fury -- Iran's Islamic Revolutionary Guard Corps struck a cargo ship in the Strait of Hormuz with drone and missile fire, further disrupting the critical chokepoint through which approximately 20 percent of the world's seaborne oil trade transits daily. The IRGC simultaneously launched its latest wave of attacks on Gulf nations, with the Israel Defense Forces reporting that ballistic missiles were launched from Iranian territory toward Israel, triggering air raid sirens and interception operations across multiple Israeli cities.
 

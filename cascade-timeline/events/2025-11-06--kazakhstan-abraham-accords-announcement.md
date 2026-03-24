@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-06--kazakhstan-abraham-accords-announcement
 date: '2025-11-06'
 title: Trump Announces Kazakhstan Joining Abraham Accords Despite Existing Diplomatic Relations with Israel Since 1992
@@ -31,7 +31,7 @@ capture_lanes:
 - International Kleptocracy
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump announced at the C5+1 summit in Washington that Kazakhstan would join the Abraham Accords, becoming the first nation to do so during his second term. Kazakh President Kassym-Jomart Tokayev and leaders from four other Central Asian states attended the announcement. However, the substantive significance of the announcement remained unclear, as Kazakhstan has maintained full diplomatic relations with Israel since 1992—over three decades before the Abraham Accords existed. The move appeared to be a largely symbolic rebranding of existing bilateral ties rather than a breakthrough in normalization.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-09-18--volkswagen-emissions-scandal-epa-violation
 date: '2015-09-18'
 title: 'EPA Exposes Volkswagen Dieselgate: 11 Million Cars with Emissions Defeat Devices'
@@ -42,7 +42,7 @@ capture_lanes:
 - Environmental Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 18, 2015, the Environmental Protection Agency issued a Notice of Violation to Volkswagen Group, exposing one of history's largest corporate environmental frauds: VW had intentionally installed "defeat device" software in approximately 11 million diesel vehicles worldwide (590,000 in the U.S.) spanning model years 2009-2016. The sophisticated software detected when vehicles were undergoing emissions testing and activated full pollution controls only during tests, while allowing vehicles to emit nitrogen oxides at up to 40 times the legal limit during normal driving.
 

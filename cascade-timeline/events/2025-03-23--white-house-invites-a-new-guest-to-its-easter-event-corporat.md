@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -54,5 +54,5 @@ tags:
 - corporate-sponsorship
 title: 'Trump White House Sells Corporate Sponsorships for Easter Egg Roll, Marking New Level of Institutional Capture'
 ---
-type: solidarity_event
+type: timeline_event
 The 2025 White House Easter Egg Roll marked an unprecedented moment of corporate capture, with tech giants Meta, YouTube, and Amazon purchasing sponsorship packages ranging from $75,000 to $200,000. These packages included branded activation spaces, event brunch tickets, and potential meet-and-greet opportunities, transforming a traditional presidential event into a corporate marketing platform.

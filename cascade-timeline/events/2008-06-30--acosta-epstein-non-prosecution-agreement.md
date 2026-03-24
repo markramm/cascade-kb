@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-06-30--acosta-epstein-non-prosecution-agreement
 date: '2008-06-30'
 title: Alexander Acosta Approves Secret Non-Prosecution Agreement with Jeffrey Epstein
@@ -37,6 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Attorney Alexander Acosta approves a controversial plea deal allowing Jeffrey Epstein to plead guilty to state charges of soliciting prostitution from a minor, avoiding federal prosecution. The agreement was negotiated in secret without informing victims, violating the Crime Victims' Rights Act. Epstein served 13 months in county jail with work release privileges, despite federal investigators identifying 36 potential victims.

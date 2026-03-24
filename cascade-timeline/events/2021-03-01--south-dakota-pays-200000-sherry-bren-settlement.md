@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-03-01--south-dakota-pays-200000-sherry-bren-settlement
 date: '2021-03-01'
 title: 'South Dakota pays $200,000 to silence appraiser chief fired after Noem intervention'
@@ -35,5 +35,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Sherry Bren, the 70-year-old head of South Dakota's appraiser certification program, was forced to retire after refusing to approve Governor Noem's daughter's license. Bren filed an age discrimination complaint and received a $200,000 settlement to withdraw it. She testified she felt "intimidated" during the meeting at the governor's mansion.

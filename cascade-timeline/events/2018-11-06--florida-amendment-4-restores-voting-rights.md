@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-06--florida-amendment-4-restores-voting-rights
 date: 2018-11-06
 title: Florida Voters Approve Amendment 4 Restoring Voting Rights to 1.4 Million with Felony Convictions
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Florida voters approve Amendment 4 by 64.55%, automatically restoring voting rights to an estimated 1.4 million Floridians with past felony convictions who have completed their sentences. The constitutional amendment represents the largest expansion of voting rights in the United States since the Voting Rights Act of 1965, overturning one of the nation's harshest felony disenfranchisement policies through a grassroots citizen ballot initiative.
 

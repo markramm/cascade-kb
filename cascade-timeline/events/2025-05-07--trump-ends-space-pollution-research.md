@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-07--trump-ends-space-pollution-research
 date: '2025-05-07'
 title: Trump Administration Moves to Eliminate Space and Rocket Launch Environmental Research
@@ -45,5 +45,5 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration proposed executive orders and budget cuts to eliminate environmental research and monitoring for rocket launches and atmospheric pollution, a move that would primarily benefit private space companies like SpaceX by reducing regulatory oversight and potential future restrictions.

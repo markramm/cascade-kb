@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-09-08--northrop-grumman-13-billion-icbm-nuclear-weapons-contract
 date: '2020-09-08'
 title: Northrop Grumman Wins $13.3 Billion Contract for Ground Based Strategic Deterrent Nuclear ICBMs
@@ -39,7 +39,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of the Air Force awarded Northrop Grumman a $13.3 billion contract on September 8, 2020, to develop the Ground Based Strategic Deterrent intercontinental ballistic missile system, initiating the engineering and manufacturing development phase of a program estimated to cost between $93.1 billion and $95.8 billion in total acquisition costs, with lifecycle expenses reaching approximately $264 billion over fifty years. The GBSD program will replace 400 Minuteman III missiles deployed in silos across Montana, North Dakota, and Wyoming, plus an additional 200 missiles used for testing and development, making Northrop Grumman the primary contractor for America's land-based nuclear weapons delivery systems for the next half-century.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-26--mandatory-biometric-collection-noncitizens-begins
 date: '2025-12-26'
 title: DHS Implements Mandatory Biometric Collection for All Non-Citizens at U.S. Borders
@@ -40,7 +40,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 
 New DHS regulations take effect requiring mandatory biometric data collection from all non-citizens entering and leaving the United States at airports, land ports, seaports, and other authorized points of departure. The rule expands facial recognition technology and authorizes CBP to photograph—and potentially fingerprint—every non-citizen at every U.S. border crossing.

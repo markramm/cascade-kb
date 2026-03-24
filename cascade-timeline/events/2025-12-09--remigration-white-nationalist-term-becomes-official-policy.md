@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-09--remigration-white-nationalist-term-becomes-official-policy
 date: '2025-12-09'
 title: '"Remigration" - White Nationalist Term Becomes Official Trump Administration Policy Language'
@@ -31,7 +31,7 @@ capture_lanes:
 - Executive Power
 - Cultural Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 NPR domestic extremism correspondent Odette Yousef reported on December 9, 2025 that the term "remigration"—rooted in the Great Replacement conspiracy theory originated by French novelist Renaud Camus, and popularized as a political slogan by Austrian identitarian activist Martin Sellner—had become an official policy term across multiple Trump administration agencies.
 

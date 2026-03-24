@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-11-15--clean-air-act-amendments-industry-shapes-market-based-approach
 date: '1990-11-15'
 title: Clean Air Act Amendments Pass with Industry-Preferred Market Mechanisms Over Direct Regulation
@@ -40,7 +40,7 @@ sources:
     tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 15, 1990, President George H.W. Bush signed the Clean Air Act Amendments, the most significant update to air pollution law since 1970. While the law achieved real environmental gains, the legislative process demonstrated how industry successfully shaped regulatory approaches to minimize compliance costs and create profitable trading markets.
 

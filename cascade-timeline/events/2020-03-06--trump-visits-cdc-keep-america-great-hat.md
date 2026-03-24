@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-06--trump-visits-cdc-keep-america-great-hat
 date: '2020-03-06'
 title: Trump Wears "Keep America Great" Campaign Hat During CDC Visit, Makes False Testing Claims
@@ -37,7 +37,7 @@ capture_lanes:
 - Media Capture & Control
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump visited the Centers for Disease Control and Prevention headquarters in Atlanta on March 6, 2020, wearing his red "Keep America Great" campaign hat and delivering a chaotic, politically charged performance that included false claims about testing availability, attacks on the Washington governor managing a major outbreak, and bizarre comparisons between COVID test accuracy and his "perfect" Ukraine phone call. The visit—which should have been an opportunity to demonstrate unified federal leadership during an emerging pandemic—instead became a showcase for Trump's inability to separate his political interests from public health crisis management, with the president falsely insisting that "anybody who wants a test, can get a test" even as Vice President Mike Pence would contradict him shortly afterward by acknowledging tests wouldn't be widely available for "weeks."
 

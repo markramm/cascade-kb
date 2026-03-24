@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-06--sec-15pct-staff-departed-cuts-continue
 date: '2025-05-06'
 title: 'US SEC''s new chief says 15% of staff have left, contract cuts to come'
@@ -47,5 +47,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration has rapidly transformed the Securities and Exchange Commission through targeted staff reductions, with approximately 15% of staff already departed and plans for further contract cuts. The administration has implemented a $50,000 voluntary separation offer and imposed a hiring freeze, dramatically reducing the agency's workforce and potentially compromising its regulatory oversight capabilities.

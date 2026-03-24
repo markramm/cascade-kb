@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - J.D. Vance
 - Peter Thiel
@@ -47,5 +47,5 @@ tags:
 - elite-networks
 title: 'J.D. Vance Meets Peter Thiel at Yale Law School, Beginning Political Pipeline'
 ---
-type: solidarity_event
+type: timeline_event
 At a pivotal 2011 Yale Law School talk, Peter Thiel meets J.D. Vance, initiating a mentorship that would transform Vance's career trajectory from law student to venture capitalist to U.S. Senator. Thiel challenged traditional elite career paths, identifying Vance as a potential protégé in his project to create alternative elite networks.

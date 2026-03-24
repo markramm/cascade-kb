@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-21--dhs-shutdown-blocks-family-detention-access
 date: '2026-03-21'
 title: DHS Shutdown Hurts Families Visiting Detained Relatives as Oversight Gutted Amid 26 ICE Deaths
@@ -23,7 +23,7 @@ capture_lanes:
 - Immigration System Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 21, 2026, NPR reported that the partial shutdown of the Department of Homeland Security was directly impacting families' ability to visit relatives held in immigration detention. The shutdown, which had furloughed non-essential DHS personnel and disrupted normal operations, created additional barriers for family members attempting to navigate an already opaque detention system — reducing visiting hours, limiting communication access, and leaving inquiries about detained individuals unanswered.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-09--dc-bar-rejects-trump-candidates
 date: '2025-06-09'
 importance: 6
@@ -43,6 +43,6 @@ sources:
 notes: Bradley Bondi (runs Paul Hastings global white collar defense) represented Elon Musk & Trump Media. Called result "disgusting" and "hijacked" by "rabid partisans." Seltzer endorsed by 24 former DC Bar presidents. Record 43% turnout (38,600 of 90,000 members) vs 9% (7,570) in 2024. Previous record was 1990. Fears of bar politicization/weaponization drove massive turnout.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 DC Bar delivered historic rebuke as 38,600 members (43% turnout, up from 9% last year) rejected Trump allies. Diane Seltzer defeated AG Pam Bondi's brother Bradley 35,000 to 3,500 (91% margin). Amanda Molina defeated DOJ's Alicia Long 75% to 25% for treasurer. Triple previous 1990 voting record. Bondi represented Musk and Trump Media; endorsed by 24 former DC Bar presidents rejected.

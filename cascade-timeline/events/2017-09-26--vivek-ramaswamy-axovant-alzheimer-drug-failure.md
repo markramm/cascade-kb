@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-09-26--vivek-ramaswamy-axovant-alzheimer-drug-failure
 date: '2017-09-26'
 title: Ramaswamy's Axovant Alzheimer drug fails, stock crashes 75% after pump-and-dump
@@ -39,6 +39,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Vivek Ramaswamy's Axovant Sciences announced its Alzheimer's drug intepirdine failed clinical trials, causing the stock to crash 75% in one day from $200 to eventually 40 cents. Ramaswamy had sold $40 million of his personal stake at the peak while hyping the drug in media. The drug had already failed four GlaxoSmithKline trials before Axovant bought it for $5 million, fleecing thousands of retail investors in what critics called a pump-and-dump scheme.

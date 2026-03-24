@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--opm-proposed-rule-performance-over-seniority-rif
 date: '2026-03-05'
 title: OPM Proposes Rule Making Performance Primary Factor in Federal Layoffs, Replacing Seniority
@@ -39,7 +39,7 @@ capture_lanes:
 - Labor Suppression
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 5, 2026, the Office of Personnel Management published a proposed rule in the Federal Register that would make performance ratings — specifically the three most recent annual appraisals — the primary factor in determining which federal employees are retained during reductions in force, replacing the long-standing system that prioritized tenure and seniority. The rule opened a public comment period running through May 4.
 

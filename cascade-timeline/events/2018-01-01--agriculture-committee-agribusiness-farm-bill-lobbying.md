@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-01--agriculture-committee-agribusiness-farm-bill-lobbying
 date: '2018-01-01'
 title: Agriculture Committee Captured by Agribusiness - $523M Lobbying Shapes Farm Bill
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Systematic analysis of lobbying disclosure reports revealed that between 2019 and 2023, giant agribusinesses, food and agriculture industry associations, and special interest groups reported more than $523 million in federal lobby expenditures on disclosure reports listing "farm bill" as a specific lobbying issue. A total of 561 companies and organizations lobbied on the food and farm bill during this period, with agribusiness and crop insurance interests fielding 840 lobbyists—more than one for each member of Congress—demonstrating the extraordinary industry control over agricultural policy through the House and Senate Agriculture Committees.
 

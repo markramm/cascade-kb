@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-26--trump-draft-emergency-election-executive-order
 date: '2026-02-26'
 title: White House Circulates Draft Emergency Order to Seize Control of Federal Elections
@@ -46,7 +46,7 @@ capture_lanes:
 - Electoral Capture
 - Executive Overreach
 ---
-type: solidarity_event
+type: timeline_event
 
 Anti-voting activists who claim to be coordinating with the White House are circulating a 17-page draft executive order that would allow President Trump to declare a national emergency and seize sweeping control over federal elections ahead of the 2026 midterms. The draft order, dated April 12, 2025 but circulated publicly in late February 2026, is premised on the conspiracy theory that China interfered in the 2020 election — a claim that has been repeatedly debunked by Trump's own intelligence officials and courts.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-29--federal-circuit-rules-trump-tariffs-illegal
 date: '2025-08-29'
 title: Federal Circuit Court Rules Trump Tariffs Violated IEEPA, Exceeded Presidential Authority
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Court of Appeals for the Federal Circuit ruled 7-4 that President Trump unlawfully exceeded his emergency powers authority when imposing sweeping tariffs under the International Emergency Economic Powers Act (IEEPA). The full court held that Trump's 'reciprocal tariffs' and other historic import levies were not authorized under IEEPA, which is intended for genuine national security emergencies rather than broad trade policy.
 

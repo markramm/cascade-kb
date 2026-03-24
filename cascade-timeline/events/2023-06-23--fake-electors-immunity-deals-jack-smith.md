@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-06-23--fake-electors-immunity-deals-jack-smith
 date: '2023-06-23'
 title: Jack Smith grants immunity to fake electors for testimony against Trump
@@ -38,5 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 Special Counsel Jack Smith compelled at least two Republican fake electors to testify by granting them limited immunity, including Nevada GOP officials Michael McDonald and Jim DeGraffenreid. Multiple fake electors admitted they would not have participated "had they known the true extent of co-conspirators' plans," with one stating if they knew the plan was to pressure Pence on January 6, "I wouldn't have signed."

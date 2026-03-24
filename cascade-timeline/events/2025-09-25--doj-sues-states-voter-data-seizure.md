@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-25--doj-sues-states-voter-data-seizure
 date: '2025-09-25'
 title: DOJ Sues Six States to Seize Voter Data Including Social Security Numbers and Driver's Licenses
@@ -36,6 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice's Civil Rights Division filed federal lawsuits against California, Michigan, Minnesota, New York, New Hampshire, and Pennsylvania demanding unredacted statewide voter registration lists including driver's license numbers and partial Social Security numbers for millions of Americans. The lawsuits followed similar suits against Oregon and Maine the previous week, part of DOJ demands sent to at least 26 states for voter registration rolls. States cited privacy and legal concerns in refusing the requests, with Minnesota asking DOJ to guarantee data protection but receiving no response before being sued. This represents weaponization of federal law enforcement to acquire sensitive voter information that could be used for voter suppression, intimidation, or purges—particularly targeting states that voted against Trump.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-05--doj-investigation-adam-schiff-mortgage-fraud
 date: '2025-08-05'
 title: DOJ Launches Mortgage Fraud Investigation Targeting Senator Adam Schiff
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Fox News reported on August 5, 2025, that the U.S. Attorney's Office in Maryland launched a federal criminal investigation into Democratic California Senator Adam Schiff for alleged mortgage fraud. The Federal Housing Finance Agency (FHFA) referred Schiff's case to DOJ, accusing him of falsifying bank documents and property records to secure favorable loan terms by misrepresenting his Maryland home as his primary residence from 2003 to 2019, despite representing California in Congress.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-29--charles-borges-forced-resignation
 date: '2025-08-29'
 importance: 9
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Charles Borges, SSA's Chief Data Officer, submitted an "involuntary resignation" citing
 retaliation after his whistleblower complaint about DOGE's mishandling of 300 million

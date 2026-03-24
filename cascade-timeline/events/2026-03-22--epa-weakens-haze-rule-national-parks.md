@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-22--epa-weakens-haze-rule-national-parks
 date: '2026-03-22'
 title: EPA Weakens National Park Haze Rule, Shields Coal Plants from Pollution Control Evaluations
@@ -35,7 +35,7 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 22, 2026, the EPA adopted a new policy allowing states to avoid requiring technology evaluations at coal-fired power plants under the Regional Haze Rule — rolling back approximately 25 years of progress on reducing visibility-impairing pollution in national parks and wilderness areas. The rule change effectively shielded the coal industry from the pollution control assessments that had been the primary mechanism for clearing haze from some of America's most iconic landscapes.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-08-24--trump-surrenders-fulton-county-mugshot
 date: '2023-08-24'
 title: Trump Surrenders at Fulton County Jail, Mugshot Taken - First Presidential Mugshot in History
@@ -40,7 +40,7 @@ capture_lanes:
 - Systematic Corruption
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Former President Donald Trump voluntarily surrendered to authorities at the Fulton County Jail in Atlanta, Georgia, where he was booked, fingerprinted, and photographed in what became the first police mugshot of a U.S. president in American history. The booking photograph, showing Trump glowering at the camera with prisoner identification number P01135809, was released publicly and instantly became one of the most iconic political images of the modern era.
 

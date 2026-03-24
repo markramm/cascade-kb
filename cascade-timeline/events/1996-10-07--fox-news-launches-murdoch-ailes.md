@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-10-07--fox-news-launches-murdoch-ailes
 date: '1996-10-07'
 importance: 9
@@ -39,6 +39,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Rupert Murdoch launched Fox News Channel on October 7, 1996, with Roger Ailes as CEO, explicitly designed as a conservative propaganda outlet disguised as news. The network's 'Fair and Balanced' slogan masked its partisan agenda, while Murdoch paid cable companies $10 per subscriber to carry the channel, eventually reaching 17 million homes. Internal memos later revealed Ailes directed coverage to favor Republicans and attack Democrats from day one.

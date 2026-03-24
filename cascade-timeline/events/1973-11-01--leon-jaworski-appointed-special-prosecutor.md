@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1973-11-01--leon-jaworski-appointed-special-prosecutor'
 date: '1973-11-01'
 title: 'Leon Jaworski Appointed as Special Prosecutor to Replace Fired Archibald Cox'
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 1, 1973, just twelve days after the Saturday Night Massacre, Solicitor General Robert Bork announced he had selected, and President Nixon approved, Leonidas "Leon" Jaworski to serve as the second special prosecutor during the Watergate scandal. Jaworski, a prominent Texas attorney and law professor born September 19, 1905, stepped into a role that had been violently disrupted when Nixon ordered the firing of Archibald Cox on October 20. The appointment came amid a political firestorm, with over 50,000 citizens sending telegrams demanding accountability and impeachment resolutions being introduced in Congress. Nixon had little choice but to accept the appointment of a new prosecutor given the overwhelming public backlash to the Saturday Night Massacre.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-11-02--washington-post-reveals-cia-black-sites-europe
 date: '2005-11-02'
 title: Washington Post Reveals CIA's Secret Prison Network in Eastern Europe
@@ -46,7 +46,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Washington Post journalist Dana Priest publishes a groundbreaking investigation revealing the CIA operates a "hidden global internment network" of secret prisons, including facilities in "several democracies in Eastern Europe." The article exposes the existence of CIA black sites where terrorism suspects are held indefinitely without legal process and subjected to interrogation techniques that amount to torture. The revelation triggers international controversy and forces unprecedented public scrutiny of America's post-9/11 detention practices.
 

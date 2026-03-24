@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-07--cornell-university-settlement-60-million
 date: '2025-11-07'
 title: Cornell University Agrees to Pay $60 Million and Accept Federal Oversight to Restore Research Funding
@@ -33,7 +33,7 @@ capture_lanes:
 - Environmental Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Cornell University announced a $60 million settlement with the Trump administration to restore more than $250 million in federal research funding that had been withheld amid investigations into alleged civil rights violations related to antisemitism. The agreement requires Cornell to pay $30 million directly to the federal government over three years and invest $30 million in "research to strengthen U.S. agriculture." In exchange, the settlement closes pending Title VI and Title IX investigations, reinstates all federal grants, and restores eligibility for future funding.
 

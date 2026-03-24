@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-06-08--trump-federal-indictment-classified-docs
 date: '2023-06-08'
 importance: 10
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Special Counsel Jack Smith's grand jury indicted Donald Trump on 37 federal charges related
 to mishandling classified documents, marking the first federal criminal indictment of a
 former U.S. president. Charges included 31 counts of willful retention of national defense

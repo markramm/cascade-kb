@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--ice-detention-deaths-increase
 date: '2025-08-01'
 importance: 9
@@ -38,6 +38,6 @@ sources:
 notes: Deaths included Ge at GEO Group's Moshannon Valley facility and Marie Ange Blaise on April 25. Previous ACLU reports found 95% of ICE detention deaths could have been prevented with adequate medical care. DHS oversight mechanisms have failed to impose meaningful consequences on contractors.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Fourteen people died in ICE custody by August 2025, with 11 deaths occurring since the start of the Trump administration. Nearly 90% of ICE detainees are held in facilities run by private companies GEO Group and CoreCivic. Reports documented widespread medical neglect, overcrowding, lack of food, and punitive solitary confinement. Despite deteriorating conditions and preventable deaths, the private companies announced adding 6,000+ beds and continued receiving full payment. Advocacy groups state the death count is "very likely an underestimate given ICE's lack of transparency."

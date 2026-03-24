@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--taranto-pardon-raskin-surveillance-detention-request
 date: '2025-12-04'
 importance: 8
@@ -71,7 +71,7 @@ sources:
 notes: 'Taylor Taranto was one of approximately 1,500 January 6 defendants pardoned by Trump on first day of second term. Previously arrested in June 2023 near Obama home with two guns, 400 rounds of ammunition, and machete after Trump posted Obama''s address. Convicted on weapons and false information charges. Taranto was living out of his van while conducting what he described as independent journalism investigating major crimes. Probation violations include failing to check in with parole officer, not participating in mental health treatment, and consuming controlled substances.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice files a motion requesting a federal judge detain Taylor Taranto, a January 6 insurrection participant pardoned by President Trump, after Taranto was discovered surveilling Representative Jamie Raskin's neighborhood in Takoma Park, Maryland. According to Axios, Rep. Raskin (D-Md.) had his security increased this week after Taranto allegedly showed up near the Maryland congressman's house, prompting concerns about witness intimidation and potential violence against the member of Congress who served on the January 6 House Select Committee.
 
 Taranto was pardoned by President Trump for January 6-related charges as part of a mass clemency issued on the first day of Trump's second term, which granted pardons to approximately 1,500 Capitol insurrection participants. Following his pardon, Taranto returned to Washington, D.C., where he was spotted by local police near Raskin's home early Tuesday morning, December 3, conducting surveillance activities that alarmed law enforcement and prompted the Justice Department's detention request.

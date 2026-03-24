@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1950-08-01--paul-robeson-passport-revoked-persecution
 date: '1950-08-01'
 title: State Department Revokes Paul Robeson Passport for Political Views and Soviet Support
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1950, the State Department revoked the American passport of Paul Robeson—All-American football player, Phi Beta Kappa recipient at Rutgers, Columbia Law School graduate, internationally acclaimed concert performer, actor, and persuasive political speaker. The revocation came in response to Robeson's outspoken views and vocal support for the Soviet Union. In 1949, newspaper reports claimed Robeson had made public statements that African Americans would not fight in "an imperialist war." Historians later discovered that Robeson had been misquoted, but the damage was almost instantly done as editorialists and politicians branded him a communist traitor.
 

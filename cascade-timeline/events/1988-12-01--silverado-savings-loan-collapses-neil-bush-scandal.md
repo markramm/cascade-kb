@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1988-12-01--silverado-savings-loan-collapses-neil-bush-scandal
 date: '1988-12-01'
 title: 'Silverado S&L Collapses: Neil Bush Conflict of Interest Costs Taxpayers $1 Billion'
@@ -50,7 +50,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Silverado Savings and Loan collapses with losses exceeding $1 billion to taxpayers, exposing serious conflicts of interest involving Neil Bush, son of Vice President-elect George H.W. Bush. Neil Bush served on Silverado's board of directors from 1985-1988, during which he approved over $130 million in loans to his personal business partners while concealing these relationships from fellow board members. Bush voted to approve a $900,000 line of credit to Good International, which had invested in his oil company JNB Exploration; Good defaulted on $32 million in Silverado loans. He also approved $106 million in loans to Bill Walters, another JNB investor, without disclosing the relationship; Walters defaulted on the entire amount.
 

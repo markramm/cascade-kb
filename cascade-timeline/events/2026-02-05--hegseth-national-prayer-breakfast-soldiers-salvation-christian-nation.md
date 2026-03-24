@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-05--hegseth-national-prayer-breakfast-soldiers-salvation-christian-nation
 date: '2026-02-05'
 status: confirmed
@@ -37,7 +37,7 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 At the National Prayer Breakfast on February 5, 2026, Defense Secretary Pete Hegseth declared "America was founded as a Christian nation. It remains a Christian nation in our DNA, if we can keep it," adding that public officials have "a sacred duty 250 years on to glorify him." Most significantly, Hegseth stated that warriors willing to "lay down his life for his unit, his country, and his Creator" would "find eternal life" — a theological claim that military service for the United States constitutes a path to Christian salvation. Multiple theologians, including evangelical scholars, condemned the remarks as theologically aberrant, drawing comparisons to statements by the Russian Orthodox patriarch about soldiers killed in Ukraine and medieval crusade theology.
 

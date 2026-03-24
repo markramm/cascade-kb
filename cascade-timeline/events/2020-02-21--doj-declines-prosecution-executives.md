@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-02-21--doj-declines-prosecution-executives
 date: '2020-02-21'
 title: DOJ Declines Criminal Prosecution of Wells Fargo Executives
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice announces it will not bring criminal charges against any Wells Fargo executives for their roles in the fake accounts scandal, instead accepting a deferred prosecution agreement with the corporation. Despite Wells Fargo's admission that "top Community Bank leaders" were aware of unlawful conduct as early as 2002, despite 3.5 million fake accounts affecting millions of customers, despite admitted fraud involving forged signatures and stolen identities, the Trump DOJ concludes that no individual executives merit prosecution. The decision becomes definitive proof that senior banking executives operate above criminal law.
 

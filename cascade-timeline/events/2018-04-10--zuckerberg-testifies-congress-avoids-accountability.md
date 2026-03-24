@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-04-10--zuckerberg-testifies-congress-avoids-accountability
 date: '2018-04-10'
 importance: 9
@@ -41,5 +41,5 @@ sources:
 notes: His apology my mistake became meme. Senators showed tech illiteracy. No meaningful regulation followed. Facebook stock rose after testimony. Platform changes minimal. Set precedent for tech CEO impunity.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Facebook CEO Mark Zuckerberg testifies for 10 hours before Congress, apologizing for data breaches and promising reforms while avoiding real accountability for platform's role in election manipulation

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-05-01--palantir-technologies-founded-thiel-karp
 date: '2003-05-01'
 status: confirmed
@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Palantir Technologies was officially incorporated in May 2003 by Peter Thiel and PayPal alumni, just months after Congress defunded DARPA's Total Information Awareness (TIA) program due to privacy concerns. The founders met with John Poindexter, the recently fired director of Total Information Awareness, who told them they had 'an interesting idea.' The five co-founders included Peter Thiel (PayPal co-founder and venture capitalist), Nathan Gettings (PayPal engineer), Joe Lonsdale (Stanford University student), Stephen Cohen (Stanford University student), and Alex Karp, who joined as CEO in 2004.
 

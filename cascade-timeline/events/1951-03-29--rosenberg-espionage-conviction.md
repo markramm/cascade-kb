@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: '1951-03-29--rosenberg-espionage-conviction'
 date: '1951-03-29'
 title: 'Julius and Ethel Rosenberg Convicted of Espionage in Controversial Red Scare Trial'
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 29, 1951, Julius and Ethel Rosenberg were found guilty of conspiracy to commit espionage after a three-week trial that began on March 6, 1951. The couple had been charged with providing top-secret information about American radar, sonar, jet propulsion engines, and nuclear weapon designs to the Soviet Union. Ethel's brother, David Greenglass, who had been a machinist at the Manhattan Project laboratory at Los Alamos, New Mexico, served as the chief witness for the prosecution. Assistant U.S. Attorney Roy Cohn led the prosecution. On April 5, Judge Irving Kaufman sentenced the couple to death.
 

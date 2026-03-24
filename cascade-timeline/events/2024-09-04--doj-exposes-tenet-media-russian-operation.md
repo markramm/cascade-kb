@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-04--doj-exposes-tenet-media-russian-operation
 date: '2024-09-04'
 importance: 10
@@ -51,7 +51,7 @@ sources:
 notes: 'RT funneled $9.7 million to Tenet Media (90% of company''s bank deposits). Influencers like Tim Pool received up to $100,000 per video. Two RT employees (Kostya and Lena) indicted for covert funding. Scheme used shell companies in Turkey, UAE, and Mauritius. Over 2,000 videos produced with 16 million YouTube views. Demonstrates sophisticated foreign influence operation targeting 2024 election.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice unsealed a federal indictment on September 4, 2024, revealing that RT (Russia Today) employees had covertly funneled nearly $10 million through Tenet Media, a Tennessee-based company, to pay prominent American conservative influencers for content advancing Russian interests. The indictment charged two RT employees—Kostya Kalashnikov and Elena Afanasyeva—with conspiracy to violate foreign agent registration requirements and money laundering. The DOJ simultaneously sanctioned RT and its parent company, describing the network as a key tool of Russian state influence operations rather than a genuine journalistic outlet.
 
 The indictment detailed how RT employees used shell companies in Turkey, the UAE, and Mauritius to obscure the Russian origin of payments that constituted approximately 90% of Tenet Media's total bank deposits. Tenet Media contracted with prominent right-wing podcasters including Tim Pool, Benny Johnson, Dave Rubin, Lauren Chen, and Liam Donovan. Pool alone reportedly received approximately $100,000 per video. The influencers collectively commanded millions of followers across YouTube, Spotify, and social media, providing RT with effective distribution of Russian messaging to American audiences who would never watch Russian state television.

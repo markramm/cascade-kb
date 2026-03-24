@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-11--vietnam-farmers-displaced-trump-golf-resort
 date: '2025-08-11'
 title: Vietnamese Farmers Displaced for Trump Golf Resort, Compensated $3,200 and Rice
@@ -34,7 +34,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Vietnamese farmers in Hung Yen province were forced to surrender land for a $1.5 billion Trump-branded golf resort, receiving compensation as low as $3,200 and rice provisions. Thousands of villagers were offered $12-$30 per square meter for farmland, drastically reduced from initial estimates exceeding $500 million.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-07--supreme-court-blocks-full-snap-payments
 date: '2025-11-07'
 title: Supreme Court Temporarily Blocks Full SNAP Payments to 42 Million Americans
@@ -39,7 +39,7 @@ capture_lanes:
 - Legislative Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court on Friday evening, November 7, 2025, temporarily blocked a federal court order requiring the Trump administration to provide full SNAP benefits to approximately 42 million Americans for November during the ongoing government shutdown. Justice Ketanji Brown Jackson issued the temporary stay to give the U.S. Court of Appeals for the First Circuit more time to consider the administration's request for longer emergency relief. The ruling came hours after states had begun distributing full benefits following U.S. District Judge John McConnell Jr.'s Thursday order, forcing states to revert to partial payments.
 

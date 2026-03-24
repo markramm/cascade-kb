@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1993-12-20--epstein-attends-trumps-wedding-to-marla-maples
 date: '1993-12-20'
 importance: 6
@@ -49,6 +49,6 @@ sources:
   tier: 2
 notes: 'The wedding''s 1,000-person guest list included NYC''s political elite: Mayor David Dinkins, Sen. Al D''Amato, Rep. Charles Rangel, and Manhattan DA Robert Morgenthau. When asked about the photos, Trump told CNN "You''ve got to be kidding me" and repeatedly called the outlet "fake news" before hanging up. The photos were discovered in July 2025, confirming for the first time Epstein''s attendance at this high-profile event.'
 ---
-type: solidarity_event
+type: timeline_event
 
 Jeffrey Epstein attended Donald Trump's wedding to Marla Maples on December 20, 1993, at New York's Plaza Hotel. CNN's KFile discovered photos showing Epstein among the 1,000 guests, including one with Howard Stern, Robin Leach, and Swedish model Cecilia Nord.

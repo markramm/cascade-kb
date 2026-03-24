@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-01-14--jeffrey-sterling-indicted-espionage-act
 date: 2013-01-14
 title: Jeffrey Sterling Indicted Under Espionage Act for Alleged Leak to James Risen
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Former CIA officer Jeffrey Alexander Sterling was indicted on espionage charges for allegedly revealing details about Operation Merlin—a botched covert operation to sabotage Iran's nuclear program—to New York Times journalist James Risen. The case became a flashpoint in the conflict between national security prosecutions and press freedom.
 

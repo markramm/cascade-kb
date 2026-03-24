@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-08-31--wells-fargo-admits-3-5-million-fake-accounts
 date: '2017-08-31'
 title: Wells Fargo Revises Fake Account Count to 3.5 Million, Up 67%
@@ -33,7 +33,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Wells Fargo announces that its fake accounts scandal affected approximately 3.5 million accounts—a 67% increase from the initial estimate of 2.1 million accounts disclosed during the 2016 settlement. The revised analysis covers January 2009 to September 2016, nearly twice the timeframe of the original review, revealing that the fraud was far more extensive and long-running than initially acknowledged. The admission demonstrates that even Wells Fargo's own internal investigations systematically minimized the scope of wrongdoing.
 

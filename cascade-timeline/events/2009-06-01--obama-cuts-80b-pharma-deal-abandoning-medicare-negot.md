@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-06-01--obama-cuts-80b-pharma-deal-abandoning-medicare-negot
 date: '2009-06-01'
 importance: 8
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Obama White House secretly negotiated an $80 billion deal with pharmaceutical industry lobbyists, abandoning the president's campaign promise to allow Medicare to negotiate drug prices. White House officials Jim Messina and Rahm Emanuel met with PhRMA CEO Billy Tauzin, agreeing to maintain the Medicare Part D prohibition on price negotiation and block drug reimportation from Canada in exchange for industry support of the ACA. Internal memos later revealed the White House agreed to oppose any additional cost-saving measures beyond the $80 billion cap. The pharmaceutical industry spent $318 million on lobbying in 2009, employing 165 lobbyists of whom 137 were former government employees. This deal preserved approximately $200 billion in pharmaceutical profits over 10 years. Liz Fowler, who architected the provision, moved from WellPoint insurance to Senator Baucus's staff, then to implementing the ACA, before joining Johnson & Johnson.

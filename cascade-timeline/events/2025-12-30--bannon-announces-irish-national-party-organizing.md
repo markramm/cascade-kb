@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-30--bannon-announces-irish-national-party-organizing
 date: '2025-12-30'
 title: Bannon Reveals He Is Organizing 'Irish National Party,' Promises 'Irish Trump'
@@ -26,7 +26,7 @@ capture_lanes:
 - International Kleptocracy
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Steve Bannon revealed he is "spending a ton of time behind the scenes on the Irish situation to help form an Irish national party." He promised an "Irish Trump" and stated the MAGA movement was being mirrored by groups in Ireland, Britain, France, and Italy.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-01-04--tom-delay-elected-majority-whip-k-street-enforcement-architecture
 date: '1995-01-04'
 title: Tom DeLay Elected Majority Whip - Creates K Street PAC Tracking System
@@ -42,6 +42,6 @@ capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Following the Republican Revolution, Tom DeLay is elected House Majority Whip and implements systematic lobbying control mechanisms. DeLay creates the notorious 'friendly/unfriendly' PAC classification system, maintaining a notebook tracking which of the 400 largest PACs contribute to Republicans vs Democrats. This becomes the enforcement mechanism for the K Street Project, with DeLay telling lobbyists: 'If you want to play in our revolution, you have to live by our rules.' The system fundamentally transforms Washington lobbying by creating explicit pay-to-play requirements. By 2003, an estimated 33 of the top 36 jobs on K Street were held by Republicans, demonstrating the project's profound impact on Washington's lobbying infrastructure.

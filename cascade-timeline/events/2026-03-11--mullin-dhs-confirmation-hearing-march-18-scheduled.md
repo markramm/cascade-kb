@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--mullin-dhs-confirmation-hearing-march-18-scheduled
 date: '2026-03-11'
 title: Mullin DHS Confirmation Hearing Formally Scheduled for March 18 Amid Rand Paul Friction
@@ -40,7 +40,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 11, 2026, The Hill confirmed that the Senate Homeland Security and Governmental Affairs Committee formally scheduled the confirmation hearing for Sen. Markwayne Mullin (R-OK) as the next DHS Secretary for March 18, 2026. Bloomberg reported on the shaping confrontation between Mullin and committee chair Sen. Rand Paul (R-KY).
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-15--northrop-b2-bomber-150000-hourly-maintenance-costs
 date: '2010-01-15'
 title: Northrop B-2 Bomber Operating Costs Reach $150,000 Per Flight Hour
@@ -37,7 +37,7 @@ capture_lanes:
 - Financial Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Northrop Grumman B-2 Spirit stealth bomber's operating costs reached approximately $150,000 per flight hour according to U.S. Department of Defense estimates, making it the most expensive military aircraft to operate in history and generating massive ongoing revenue for Northrop Grumman through maintenance contracts that require 120 hours of maintenance for every single hour of flight time. The extraordinary costs stem primarily from the aircraft's fragile stealth coating materials that must be continuously reapplied and maintained in climate-controlled hangars, with each flight requiring an average of 124 man-hours of maintenance to restore the bomber's radar-absorbent coating and recalibrate sensors.
 

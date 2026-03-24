@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-12-31--northrop-grumman-10-million-lobbying-revolving-door
 date: '2023-12-31'
 title: Northrop Grumman Spends $10.86 Million on Lobbying with 29 Revolving Door Officials
@@ -39,7 +39,7 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Northrop Grumman spent $10.86 million on federal lobbying in 2023, employing 36 lobbyists of whom 29—a staggering 80.6 percent—had previously worked in government positions, exemplifying the revolving door between the Pentagon, Congress, and defense contractors that enables systematic corruption of military procurement and defense policy. The company's lobbying efforts focused on the annual defense spending bill, export control reform, foreign military sales, and defense trade policy, allowing former government officials to leverage their insider knowledge, relationships, and access to shape billions in taxpayer-funded contracts and regulatory policies in Northrop Grumman's favor.
 

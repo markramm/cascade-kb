@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-03-06--bush-creates-rangerspioneers-pay-to-play-appointme
 date: '2000-03-06'
 importance: 8
@@ -42,6 +42,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 George W. Bush formalized an unprecedented campaign bundling system where 'Rangers' raising 00,000+ and 'Pioneers' raising 00,000+ received federal appointments. In 2000, 241 Pioneers reached their goals, contributing to Bush raising 7 million in first 4 months. By 2004, the program included 221 Rangers, 327 Pioneers, and 62 'Super Rangers' raising 8.5 million combined. The pay-to-play pipeline was systematic: 173 Rangers/Pioneers received federal appointments, including 29 ambassadors and 4 Cabinet secretaries. Key examples included Mercer Reynolds (Texas Rangers co-owner with Bush) becoming Ambassador to Switzerland, Thomas Scully (Medicare administrator) designing Part D legislation favoring donors, and Sam Fox (Swift Boat funder) becoming Belgium ambassador. Designed by Karl Rove, this represented the most extensive formalization of campaign bundling in presidential politics. Nearly 1 in 5 elite fundraisers received appointments, creating direct quid pro quo between massive donations and government positions. The system institutionalized wealthy donors' access to federal policy-making roles regardless of qualifications.

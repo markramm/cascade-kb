@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--gabbard-worldwide-threats-iran-not-rebuilding
 date: '2026-03-18'
 title: "DNI Gabbard Admits Iran Was 'Not Rebuilding Enrichment' Before War — Omits Finding from Oral Testimony"
@@ -51,7 +51,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 18, 2026, the annual Senate Intelligence Committee "Worldwide Threats" hearing became the most consequential congressional testimony of the Iran war when Director of National Intelligence Tulsi Gabbard's own written assessment contradicted the administration's primary justification for the conflict. Gabbard's written testimony, submitted to the committee in advance, stated that Iran was "not rebuilding enrichment capabilities" prior to the outbreak of hostilities — directly undercutting President Trump's repeated claims that Iran was racing toward a nuclear weapon and that military action was necessary to prevent a nuclear-armed Iran.
 

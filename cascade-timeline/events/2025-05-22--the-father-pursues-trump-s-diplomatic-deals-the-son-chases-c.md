@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-22--the-father-pursues-trump-s-diplomatic-deals-the-son-chases-c
 date: '2025-05-22'
 title: 'Witkoff & Trump: Crypto Deal Blends Diplomatic Access with Financial Venture'
@@ -54,5 +54,5 @@ capture_lanes:
 - Intelligence Penetration
 - 'Digital & Tech Capture'
 ---
-type: solidarity_event
+type: timeline_event
 World Liberty Financial, co-founded by Zach Witkoff, launched USD1 stablecoin and secured a $2 billion investment from MGX, an Abu Dhabi state-backed firm, utilizing diplomatic connections of Steve Witkoff and the Trump family. The deal raised significant ethical concerns, with U.S. Senators Warren and Merkley initiating a congressional investigation into potential conflicts of interest and constitutional violations.

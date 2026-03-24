@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-08-21--cohen-guilty-plea-campaign-finance
 date: 2018-08-21
 title: Michael Cohen Pleads Guilty to Campaign Finance Violations, Implicates Trump as "Individual-1"
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Michael Cohen, President Donald Trump's longtime personal attorney and fixer, pleaded guilty in Manhattan federal court to eight felony counts, including campaign finance violations that he stated were committed "in coordination with and at the direction of a candidate for federal office"—a clear reference to Trump. In his sworn allocution before U.S. District Judge William H. Pauley III, Cohen admitted to orchestrating illegal hush money payments to two women who alleged affairs with Trump, specifically to influence the outcome of the 2016 presidential election.
 

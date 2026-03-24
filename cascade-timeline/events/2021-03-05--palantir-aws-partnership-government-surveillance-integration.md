@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-03-05--palantir-aws-partnership-government-surveillance-integration
 date: 2021-03-05
 title: Palantir and AWS Formalize Strategic Partnership for Government Data Analytics
@@ -39,7 +39,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Palantir Technologies and Amazon Web Services announce a formal strategic partnership to optimize Palantir's Foundry and Gotham platforms for deployment on AWS cloud infrastructure, integrating two of the most powerful surveillance and data analytics systems used by U.S. intelligence and defense agencies. The partnership combines Amazon's cloud infrastructure dominance with Palantir's specialized surveillance analytics capabilities, creating an integrated ecosystem for government data mining and intelligence operations.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-03-09--notorious-big-murdered-las-vegas
 date: '1997-03-09'
 title: Notorious B.I.G. murdered in Los Angeles, Diddy's control through chaos
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Christopher "Notorious B.I.G." Wallace, Bad Boy Records' biggest star, is murdered in a drive-by shooting in Los Angeles, six months after Tupac Shakur's similar death. The murder, which remains officially unsolved, occurs at the height of the East Coast-West Coast hip-hop rivalry that Combs allegedly helped fuel. Some investigators suggest the chaos and violence served to maintain control through fear while eliminating potential threats to Combs' empire. The pattern of using violence and chaos for control mirrors tactics used by intelligence agencies and organized crime.
 

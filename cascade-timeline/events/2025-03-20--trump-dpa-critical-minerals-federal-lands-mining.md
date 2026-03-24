@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-20--trump-dpa-critical-minerals-federal-lands-mining
 date: '2025-03-20'
 title: Trump Invokes Defense Production Act for Critical Mineral Extraction on Federal Lands
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed an executive order invoking the Defense Production Act to declare critical mineral extraction a national emergency, directing federal agencies to fast-track mining operations on public lands. The order dramatically expanded the definition of critical minerals beyond the traditional list maintained by the U.S. Geological Survey to include commercially valuable commodities such as gold, copper, and uranium — minerals with established private markets that had not previously been classified as strategic defense necessities. Federal agencies were given a 10-day deadline to identify federal lands suitable for mineral extraction, a timeline that precluded meaningful environmental review or consultation with affected communities and tribal nations.
 

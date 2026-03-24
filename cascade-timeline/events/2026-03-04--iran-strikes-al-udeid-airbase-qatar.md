@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--iran-strikes-al-udeid-airbase-qatar
 date: '2026-03-04'
 title: Iran Strikes Al Udeid Air Base in Qatar with Ballistic Missiles, Breaching U.S. Defense Shield
@@ -51,7 +51,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 4, 2026, Iran fired two ballistic missiles at Al Udeid Air Base near Doha, Qatar — the largest U.S. military installation in the Middle East and the headquarters of U.S. Air Forces Central Command. Qatari air defense systems intercepted one missile, but the second struck the installation, causing damage. The strike represented the most consequential Iranian hit on a major U.S. military hub since Operation Epic Fury began on February 28.
 

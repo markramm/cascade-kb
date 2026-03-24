@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-01--coristine-fired-path-network-data-leak
 date: '2022-06-01'
 importance: 8
@@ -44,7 +44,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward Coristine, then 16, was fired from his internship at cybersecurity firm Path Network
 for allegedly leaking internal company information to competitors. Path founder Marshal Webb

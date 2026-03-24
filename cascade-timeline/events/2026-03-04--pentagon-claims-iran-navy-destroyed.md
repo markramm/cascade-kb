@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--pentagon-claims-iran-navy-destroyed
 date: '2026-03-04'
 title: Pentagon Claims Iran's Navy Destroyed and Senior Naval Leadership Killed in Operation Epic Fury
@@ -50,7 +50,7 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 4, 2026, Defense Secretary Pete Hegseth held a Pentagon briefing in which he declared that the U.S. had effectively destroyed Iran's navy and killed all of its senior naval leadership. CENTCOM reported having destroyed over 30 Iranian ships — comprising significant portions of both the Islamic Republic of Iran Navy (IRIN) and the Islamic Revolutionary Guard Corps Navy (IRGCN) — in six days of operations. Hegseth stated that Iran "cannot outlast" the U.S. in the conflict and that the goals of Operation Epic Fury remained "laser-focused."
 

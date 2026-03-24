@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-06-06--milo-yiannopoulos-becomes-mtg-intern-white-nationalist-pipeline
 date: '2022-06-06'
 importance: 7
@@ -47,5 +47,5 @@ sources:
 notes: 'Yiannopoulos, 37, posted photo of congressional badge to Telegram announcing unpaid internship. Earlier in 2022, Yiannopoulos connected Greene with Nick Fuentes''s America First Political Action Conference (AFPAC), where Fuentes publicly thanked Yiannopoulos for arranging Greene''s appearance at white supremacist gathering. Yiannopoulos had been banned from Twitter (2016), Facebook (2019), and Australia (2019 after Christchurch comments). Was disinvited from CPAC 2017 after video surfaced appearing to defend pedophilia. In 2021 announced he was ''ex-gay.'' Greene defended hire saying he ''was raped by a priest as a young teen, was gay, has offended everyone at some point, turned his life back to Jesus.'' Represents mainstreaming of alt-right figures into official Republican congressional operations.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Former Breitbart editor and alt-right provocateur Milo Yiannopoulos becomes unpaid congressional intern for Rep. Marjorie Taylor Greene, months after connecting her to white nationalist Nick Fuentes's America First Political Action Conference, demonstrating the pipeline from Gamergate harassment to official Republican Party operations

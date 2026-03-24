@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--gig-economy-worker-misclassification-union-avoidance-model
 date: '2010-01-01'
 title: Gig Economy Emerges Using Worker Misclassification to Avoid Labor Protections and Unions
@@ -43,7 +43,7 @@ capture_lanes:
 - Media Capture & Control
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Digital platform companies including Uber, DoorDash, Instacart, and TaskRabbit pioneer the "gig economy" business model based on systematic worker misclassification as "independent contractors" rather than employees, enabling companies to avoid minimum wage, overtime pay, health benefits, Social Security contributions, unemployment insurance, payroll taxes, and all union organizing rights under the National Labor Relations Act. The misclassification strategy allows Uber and Lyft to avoid billions in labor costs while shifting primary business risks and expenses onto individual workers and public safety net programs.
 

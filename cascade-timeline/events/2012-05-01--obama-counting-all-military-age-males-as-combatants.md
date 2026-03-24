@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-05-01--obama-counting-all-military-age-males-as-combatants
 date: '2012-05-01'
 title: Obama Administration Counts All Military-Age Males Killed by Drones as Combatants
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times reveals that the Obama administration has adopted a secret policy counting "all military-age males in a strike zone as combatants...unless there is explicit intelligence posthumously proving them innocent." This Orwellian methodology allows the administration to claim extraordinarily low civilian casualty numbers from drone strikes while independent investigations document hundreds of civilian deaths. The policy effectively presumes guilt based solely on demographics and geography, transforming being a military-age male in certain regions into a capital offense without trial while enabling the government to systematically lie about civilian casualties.
 

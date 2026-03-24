@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-01-16--war-production-board-created-corporate-government-fusion
 date: "1942-01-16"
 title: "War Production Board Establishes Corporate-Government Fusion Model"
@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 # War Production Board Establishes Corporate-Government Fusion Model
 

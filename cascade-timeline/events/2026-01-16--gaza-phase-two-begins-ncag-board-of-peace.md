@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-16--gaza-phase-two-begins-ncag-board-of-peace
 date: '2026-01-16'
 title: Trump Announces Phase Two of Gaza Plan, Creates 'Board of Peace' with Himself as Chairman
@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Special Envoy Steve Witkoff announced the commencement of Phase Two of Trump's "Comprehensive Plan to End the Gaza Conflict" following the return of the final Israeli hostage. Trump established the National Committee for the Administration of Gaza (NCAG), a 15-member body of Palestinian technocrats led by former PA deputy minister Ali Shaath to manage day-to-day governance and reconstruction.
 

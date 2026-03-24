@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-01-17--hhs-ig-thousands-more-children-separated
 date: '2019-01-17'
 title: HHS Inspector General Reveals Thousands More Children Separated Than Disclosed
@@ -45,7 +45,7 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A damning report from the U.S. Department of Health and Human Services Office of Inspector General revealed on January 17, 2019 that the Trump administration had separated thousands more children from their parents than previously disclosed, beginning as early as summer 2017—nearly a year before the official "zero tolerance" policy announcement. Most shockingly, the government maintained no tracking system to identify or reunite these families, leaving an unknown number of children permanently lost in the system.
 

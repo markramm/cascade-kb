@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-08-03--william-jefferson-freezer-cash-fbi-raid
 date: 2005-08-03
 title: FBI Finds $90,000 in Cash Hidden in Rep. William Jefferson's Freezer
@@ -46,7 +46,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 3, 2005, FBI agents raiding the home of Rep. William J. Jefferson (D-LA) discovered $90,000 in cash hidden in his freezer, wrapped in aluminum foil in $10,000 increments and concealed inside frozen-food containers. The serial numbers matched funds the FBI had provided to informant Lori Mody, a Virginia businesswoman who had delivered the marked cash to Jefferson at the Ritz-Carlton in Arlington on July 30, 2005. Mody was cooperating with investigators after alleging Jefferson was defrauding her in African telecommunications deals; the exchange was captured on camera.
 

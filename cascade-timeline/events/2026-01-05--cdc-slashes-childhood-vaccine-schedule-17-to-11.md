@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-05--cdc-slashes-childhood-vaccine-schedule-17-to-11
 date: '2026-01-05'
 status: confirmed
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Acting CDC Director Jim O'Neill signs a decision memorandum reducing recommended childhood vaccinations from 17 to 11 diseases, implementing a December 5, 2025 Presidential Memorandum from Donald Trump directing review of international vaccination practices. The changes eliminate universal recommendations for rotavirus, COVID-19, influenza, hepatitis A, hepatitis B, and meningococcal vaccines, reclassifying them as either "high-risk only" or requiring "shared clinical decision-making" between parents and providers. The new three-tier framework designates only 11 vaccines for all children (diphtheria, tetanus, whooping cough, Haemophilus influenzae type b, pneumococcal disease, polio, measles, mumps, rubella, HPV, and chickenpox), reducing HPV vaccination to a single dose.
 

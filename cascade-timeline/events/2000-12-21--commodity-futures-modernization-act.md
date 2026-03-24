@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-12-21--commodity-futures-modernization-act
 date: '2000-12-21'
 title: 'Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation'
@@ -60,7 +60,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 President Bill Clinton signed the Commodity Futures Modernization Act (CFMA) into law on his last day before Christmas recess, completing the deregulation of the derivatives market that Brooksley Born had warned against two years earlier. The legislation, inserted into a 10,000-page authorization bill by Senator Phil Gramm, removed regulatory oversight of over-the-counter derivatives, including credit default swaps, and prohibited states from regulating derivatives.
 
 Treasury Secretary Lawrence Summers had lobbied extensively for the legislation, providing testimony that derivatives should remain largely unregulated. The Clinton Administration's letter supporting the act was used by Phil Gramm to help sell the legislation. The CFMA represented the final victory of Wall Street's deregulatory agenda, removing the last major regulatory barrier to the free use of derivatives and setting the stage for the explosive growth of the shadow banking system that would collapse in 2008.

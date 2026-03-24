@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1975-06-10--trump-settles-housing-discrimination-no-admission
 date: 1975-06-10
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 After nearly two years of aggressive legal combat, Donald Trump and his father Fred Trump signed a consent decree settling the Department of Justice's landmark housing discrimination lawsuit. The settlement included the standard legal disclaimer that it was "in no way an admission" of wrongdoing—a phrase that would become central to Trump's lifelong approach to legal accountability.
 

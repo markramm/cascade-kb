@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-01--whig-media-coordination-network
 date: '2002-09-01'
 title: White House Iraq Group Launches Coordinated Media Messaging Campaign
@@ -41,6 +41,6 @@ tags:
 - message-synchronization
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group (WHIG) finalized its systematic media coordination strategy, creating an unprecedented infrastructure for synchronized propaganda dissemination. Led by Karl Rove and including key administration officials like Condoleezza Rice and I. Lewis Libby, the group developed a comprehensive talking points distribution system targeting television networks. Their media blitz in early September 2002 involved coordinated appearances by top officials, using carefully crafted messaging to build public support for military action against Iraq.

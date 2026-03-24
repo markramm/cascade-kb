@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-10-15'
 title: YouTube Bans QAnon Content Only After Years of Algorithmic Amplification
 description: YouTube announced it would ban content promoting QAnon conspiracy theories—but only after the platform's recommendation algorithm had spent 3+ years systematically amplifying QAnon from a fringe 4chan conspiracy to a mass movement with millions of followers. Researchers documented that YouTube was the primary radicalization vector for QAnon, with videos like "Fall of the Cabal" and "Out of Shadows" receiving millions of algorithmic recommendations. By the time YouTube acted, QAnon believers had committed multiple violent crimes, the FBI had labeled it a domestic terrorism threat, and it had become a significant political movement. The ban came only after QAnon became too politically toxic to ignore—a pattern of YouTube monetizing and amplifying dangerous conspiracy theories until forced by external pressure to act. Critics noted the policy was narrower than Facebook's outright ban and came years too late to prevent the radicalization of millions.
@@ -58,7 +58,7 @@ connections:
 - Domestic terrorism
 notes: Classic YouTube pattern - amplify dangerous content for years while monetizing, ban only when politically necessary. By October 2020 QAnon had already radicalized millions through YouTube's algorithm.
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 15, 2020, YouTube announced it would ban content promoting QAnon and related conspiracy theories that "target individuals"—but the policy came approximately three years after YouTube's recommendation algorithm began systematically amplifying QAnon from an obscure 4chan conspiracy to a mass movement with millions of adherents. By the time YouTube acted, the damage was done: QAnon believers had committed acts of violence, been labeled a domestic terror threat, and built a political movement that would contribute to the January 6, 2021 Capitol attack.
 

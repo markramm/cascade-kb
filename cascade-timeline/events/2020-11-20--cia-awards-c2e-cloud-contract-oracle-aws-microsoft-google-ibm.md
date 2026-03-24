@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-11-20--cia-awards-c2e-cloud-contract-oracle-aws-microsoft-google-ibm
 date: '2020-11-20'
 title: CIA Awards Multibillion-Dollar C2E Cloud Contract to Oracle, AWS, Microsoft, Google, IBM
@@ -40,7 +40,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The Central Intelligence Agency awarded its Commercial Cloud Enterprise (C2E) contract to five major technology companies—Oracle, Amazon Web Services, Microsoft, Google, and IBM—on November 20, 2020. The multi-cloud contract, valued at tens of billions of dollars over a 15-year period, represents the intelligence community's next-generation cloud infrastructure serving the CIA and all 16 other U.S. intelligence agencies.
 

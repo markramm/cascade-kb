@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1996-04-29'
 title: Buddhist Temple Fundraising Event Generates Illegal Campaign Contributions
 importance: 8
@@ -42,7 +42,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Vice President Al Gore attends a fundraising luncheon at the Hsi Lai Buddhist temple in Hacienda Heights, California, organized by longtime Democratic fundraiser Maria Hsia and DNC fundraiser John Huang. The event raises $166,750 for the Democratic National Committee through illegal contributions that violate both campaign finance laws and the temple's tax-exempt religious status. The scheme involved $55,000 in contributions laundered through monks and nuns, who made donations in their own names and were then reimbursed by the temple from its general funds.
 

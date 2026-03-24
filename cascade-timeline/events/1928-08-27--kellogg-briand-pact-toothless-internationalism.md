@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1928-08-27--kellogg-briand-pact-toothless-internationalism
 date: '1928-08-27'
 title: Kellogg-Briand Pact Outlaws War While Preserving Imperial Prerogatives
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Secretary of State Frank Kellogg and French Foreign Minister Aristide Briand sign the Kellogg-Briand Pact (officially the General Treaty for Renunciation of War as an Instrument of National Policy) in Paris, eventually ratified by 62 nations. The treaty solemnly renounces war as an instrument of national policy, pledging signatories to resolve all disputes through peaceful means. The Senate ratifies the treaty 85-1, with only Senator John J. Blaine of Wisconsin voting against. Yet the treaty contains no enforcement mechanism, permits "defensive" wars, and explicitly exempts colonial enforcement actions, rendering it largely symbolic.
 

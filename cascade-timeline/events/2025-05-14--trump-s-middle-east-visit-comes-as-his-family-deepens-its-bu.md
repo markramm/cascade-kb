@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-14--trump-s-middle-east-visit-comes-as-his-family-deepens-its-bu
 date: '2025-05-14'
 title: 'Trump’s Middle East visit comes as his family deepens its business, crypto ties in the region'
@@ -49,5 +49,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial

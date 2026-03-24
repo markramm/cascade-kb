@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-16--newsom-launches-trump-criminals-tracker-website
 date: 2025-12-16
 title: California Governor Newsom Launches Official State Website Tracking Trump's "Top 10 Criminal Cronies" as Direct Political Confrontation Escalates
@@ -126,7 +126,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 16, 2025, California Governor Gavin Newsom launched a state government website at gov.ca.gov/trumpcriminals cataloging the criminal records, corruption cases, and extremist ties of individuals that President Donald Trump had pardoned, elevated, or surrounded himself with. The website's launch was timed to coincide with the release of California crime statistics showing continued statewide drops in violent crime, including an 18% decline in homicides, creating a deliberate contrast between what Newsom characterized as California's successful public safety record and Trump's pattern of pardoning convicted criminals. The site featured what it described as "Trump's top 10 criminal convictions that were followed by pardons," prominently listing Trump himself — who held 34 felony convictions in New York for falsifying business records — as the "criminal in chief."
 

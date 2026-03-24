@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-10--v-dem-electoral-autocracy-threshold
 date: '2025-05-10'
 importance: 5
@@ -41,6 +41,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Varieties of Democracy (V-Dem) Institute's quarterly update shows United States rapidly approaching threshold for classification as "Electoral Autocracy," with liberal democracy index falling below critical benchmarks for judicial independence, legislative constraints, and media freedom. The report suggests the U.S. may no longer qualify as a democracy by end of summer 2025 due to expanding executive authority, weakening Congressional power, and undermining independent institutions.

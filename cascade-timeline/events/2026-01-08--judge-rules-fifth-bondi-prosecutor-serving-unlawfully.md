@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-08--judge-rules-fifth-bondi-prosecutor-serving-unlawfully
 date: '2026-01-08'
 title: Fifth Federal Prosecutor Appointed by AG Bondi Ruled Serving Unlawfully by Federal Judge
@@ -30,7 +30,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Lorna Schofield ruled that acting U.S. Attorney John Sarcone III for the Northern District of New York was serving unlawfully, marking the fifth such ruling against prosecutors appointed by Attorney General Pam Bondi. The judge found the Justice Department violated federal procedures by circumventing a 120-day limit for unconfirmed U.S. attorneys through personnel moves and shifting titles.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-15--state-bars-oppose-doj-ethics-shield-rule
 date: '2026-03-15'
 title: Illinois and New York State Bar Associations File Formal Opposition to DOJ Ethics Shield Rule
@@ -39,7 +39,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 15, 2026, the Illinois State Bar Association and the New York State Bar Association filed formal opposition to the Department of Justice's proposed rule that would shield government lawyers from state bar disciplinary proceedings. The filings represented the most significant institutional pushback from the legal profession against the Trump administration's effort to insulate its attorneys from independent ethical oversight.
 

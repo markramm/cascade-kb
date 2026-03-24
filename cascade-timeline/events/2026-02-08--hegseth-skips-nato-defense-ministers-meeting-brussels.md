@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-08--hegseth-skips-nato-defense-ministers-meeting-brussels
 date: '2026-02-08'
 status: confirmed
@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. Defense Secretary Pete Hegseth does not attend the gathering of defense ministers at NATO headquarters in Brussels, marking the second consecutive ministerial-level NATO meeting skipped by top Trump administration officials after Secretary of State Marco Rubio missed the December foreign ministers meeting. This represents only the second time in recent history that a Pentagon chief has not attended a NATO defense ministers meeting.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-12-01--subprime-delinquencies-surge-to-13-percent-double-2005-rate
 date: '2006-12-01'
 title: Subprime Mortgage Delinquencies Surge to 13%, Nearly Double Mid-2005 Rates, as Crisis Accelerates
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 By December 2006, over 13 percent of subprime mortgage loans in the United States were delinquent, up sharply from about 10 percent during the housing boom just a few years earlier. For subprime adjustable-rate mortgages specifically, the delinquency rate exceeded 14 percent in December 2006, double the approximately 10 percent rate from September 2004. Metropolitan areas where house prices decelerated most sharply in 2006 experienced the largest increases in subprime delinquency rates, as borrowers found themselves unable to refinance out of adjustable-rate mortgages when rates reset higher.
 

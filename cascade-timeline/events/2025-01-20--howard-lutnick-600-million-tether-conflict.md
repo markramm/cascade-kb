@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Howard Lutnick
 - Cantor Fitzgerald
@@ -64,5 +64,5 @@ tags:
 - elizabeth-warren
 title: Commerce Secretary Lutnick Maintains $600 Million Tether Stake Despite DOJ Investigation and Senate Scrutiny
 ---
-type: solidarity_event
+type: timeline_event
 Commerce Secretary Howard Lutnick refuses to recuse from Trump's Digital Asset Working Group despite maintaining a $600 million stake in Tether, a cryptocurrency under DOJ investigation. Multiple sources, including Senator Elizabeth Warren's office, highlight Lutnick's significant conflicts of interest. Cantor Fitzgerald remains deeply involved with Tether, managing its Treasury reserves and brokering investments, while Lutnick claims he has 'divested' his interests, though his family maintains substantial connections to the cryptocurrency.

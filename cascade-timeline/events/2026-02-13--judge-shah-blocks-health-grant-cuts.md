@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-13--judge-shah-blocks-health-grant-cuts
 date: '2026-02-13'
 status: confirmed
@@ -37,7 +37,7 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Manish Shah issued a 14-day temporary restraining order blocking the Trump administration from rescinding $600 million in public health grants to California, Colorado, Illinois, and Minnesota. The ruling halts Centers for Disease Control and Prevention funding cuts to programs tracking disease outbreaks and studying health outcomes for LGBTQ+ communities and communities of color in major cities, with the first grants scheduled for termination on February 13.
 

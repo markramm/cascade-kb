@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-01-01'
 title: OECD Estimates Google Avoids $7B+ Annually Through Tax Havens
 description: OECD reports on corporate tax avoidance by digital companies identified Google among the worst offenders, with analysis suggesting the company avoided approximately $7+ billion annually in taxes through profit shifting to tax havens, maintaining an effective global tax rate under 10% despite massive profitability. The OECD's Base Erosion and Profit Shifting (BEPS) project documented that large digital companies like Google systematically exploited gaps in international tax rules to shift profits away from where value was created to low-tax jurisdictions. Tax Justice Network analysis corroborated findings that Google's effective tax rate was dramatically below statutory rates in countries where it operated. The scale of avoidance—$7 billion per year—exceeded the entire GDP of some countries and represented tax revenue that could have funded education, healthcare, and infrastructure. The OECD findings contributed to development of "Pillar One" and "Pillar Two" proposals for global
@@ -58,7 +58,7 @@ connections:
 - Google offshore structures
 notes: OECD findings documented that Google's tax avoidance wasn't anomaly but systematic exploitation of international tax system by digital companies. Led to Pillar One/Two proposals for 15% global minimum corporate tax.
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2020, OECD analysis of multinational corporate tax avoidance identified Google among the most aggressive tax avoiders globally, with the company systematically avoiding an estimated $7+ billion annually in taxes through profit shifting to tax havens—maintaining an effective global tax rate under 10% despite hundreds of billions in revenues and massive profitability in high-tax countries.
 

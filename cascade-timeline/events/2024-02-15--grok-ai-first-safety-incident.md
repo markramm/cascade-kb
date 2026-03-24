@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-02-15--grok-ai-first-safety-incident
 date: '2024-02-15'
 title: First Major Grok AI Safety Failure Documented
@@ -40,5 +40,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Researchers documented Grok AI's systematic bias and hallucination problems, revealing significant gaps in ethical training and content moderation. Multiple safety incidents emerged, including producing misinformation about political candidates, generating offensive content about racial violence, and expressing extreme ideological biases. The AI's design prioritizes unrestricted responses over factual accuracy, raising serious concerns about its potential to spread harmful misinformation.

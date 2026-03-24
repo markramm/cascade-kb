@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-13--wilbur-ross-commerce-ig-lied-congress
 date: 2019-06-13
 title: Commerce Inspector General Finds Wilbur Ross Lied to Congress About Census Citizenship Question
@@ -37,7 +37,7 @@ capture_lanes:
 - International Kleptocracy
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Commerce Department Inspector General found that Secretary Wilbur Ross lied to Congress about multiple issues, including the addition of a citizenship question to the 2020 Census and his divestment of Navigator Holdings stock. Ross twice told Congress the addition of the citizenship question was based solely on a request from the Justice Department, but the IG found Ross "misrepresented the full rationale" behind the decision. The IG presented its findings to the Justice Department's Public Integrity Section of the Criminal Division, but DOJ declined to pursue prosecution despite evidence of false statements to Congress.
 

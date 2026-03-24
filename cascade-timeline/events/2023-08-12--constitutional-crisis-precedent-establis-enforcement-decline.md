@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-08-12--constitutional-crisis-precedent-establis-enforcement-decline
 date: '2023-08-12'
 title: 'Regulatory Enforcement Actions Drop Substantially in 2023: A Strategic Shift'
@@ -61,5 +61,5 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 A comprehensive analysis of 2023 reveals a significant decline in regulatory enforcement actions across multiple federal agencies. The Consumer Financial Protection Bureau and other regulatory bodies show a marked reduction in total enforcement actions, with a strategic pivot towards fewer but more impactful penalties. This trend suggests potential industry influence and a broader shift in regulatory approach, raising questions about institutional capture and oversight effectiveness.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2022-04-15'
 title: 'Trump Endorses Vance Following Thiel''s $15 Million Strategic Political Investment'
 actors:
@@ -39,7 +39,7 @@ capture_lanes:
 - International Kleptocracy
 location: 'Delaware, Ohio'
 ---
-type: solidarity_event
+type: timeline_event
 In April 2022, Donald Trump endorsed J.D. Vance for the Ohio Senate race, a pivotal moment facilitated by Peter Thiel's unprecedented $15 million investment in the Protect Ohio Values SuperPAC. This financial backing marked the most expensive single Senate candidate support in state history, demonstrating the profound influence of tech billionaire oligarchs in contemporary political campaigns.
 
 Key Developments:

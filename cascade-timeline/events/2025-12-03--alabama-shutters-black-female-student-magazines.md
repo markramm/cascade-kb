@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--alabama-shutters-black-female-student-magazines
 date: '2025-12-03'
 title: University of Alabama Shutters Black and Female Student Magazines Under DEI Directives
@@ -72,7 +72,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 On Monday, December 2, 2025, the University of Alabama permanently suspended two student-run magazines—Alice, focused on women, and Nineteen Fifty-Six, focused on Black student life—citing Attorney General Pamela Bondi's July 2025 guidance on what the Trump administration considers unlawful discrimination at federally funded institutions.
 

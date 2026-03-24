@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-30--don-lemon-arrested-federal-charges
 date: '2026-01-30'
 title: Journalist Don Lemon Arrested in Beverly Hills on Federal Grand Jury Indictment
@@ -27,7 +27,7 @@ capture_lanes:
 - Institutional Capture
 - Media Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Former CNN host Don Lemon was arrested in Beverly Hills, California on January 30, 2026, on federal charges stemming from a grand jury indictment. The charge: **conspiracy against religious freedom**.
 

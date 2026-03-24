@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-30--dhs-year-end-enforcement-statistics-record-arrests
 date: '2025-12-30'
 title: DHS Announces Record Immigration Enforcement Numbers, Promotes Self-Deportation Incentive
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 
 DHS releases year-end enforcement statistics claiming ICE arrested the "worst of the worst criminal illegal aliens" including individuals convicted of heinous crimes. The announcements use inflammatory language describing arrests of people convicted of "raping a child under 12-years-old, domestic violence assault, and alien smuggling."

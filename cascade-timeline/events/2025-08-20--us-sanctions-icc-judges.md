@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-20--us-sanctions-icc-judges
 date: '2025-08-20'
 title: US Imposes Unprecedented Sanctions on Four International Criminal Court Officials
@@ -56,7 +56,7 @@ capture_lanes:
 - Democratic Erosion
 validation_status: pending
 ---
-type: solidarity_event
+type: timeline_event
 On August 20, 2025, the United States imposed targeted sanctions on four International Criminal Court (ICC) officials, escalating an ongoing campaign to obstruct international judicial proceedings into potential war crimes.
 
 Key Details:

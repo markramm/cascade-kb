@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-12--israel-strikes-iran-nuclear-sites
 date: '2025-06-12'
 title: Israel Conducts Major Strikes on Iran Nuclear Infrastructure
@@ -43,5 +43,5 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 On June 12-13, 2025, Israel launched a massive coordinated military operation targeting Iran's nuclear infrastructure, military bases, and strategic facilities. The strikes involved approximately 200 aircraft hitting around 100 targets, with a focus on the Natanz nuclear facility, Isfahan uranium conversion site, and key military installations. The operation resulted in the targeted killing of top IRGC leadership, including IRGC Commander Hossein Salami and Armed Forces Chief of Staff Mohammed Bagheri. The United States provided covert support, with subsequent strikes on additional nuclear sites in late June.

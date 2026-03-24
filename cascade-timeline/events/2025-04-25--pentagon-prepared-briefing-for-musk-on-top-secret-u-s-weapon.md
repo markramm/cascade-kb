@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-25--pentagon-prepared-briefing-for-musk-on-top-secret-u-s-weapon
 date: '2025-04-25'
 title: Pentagon Prepared and Then Canceled Classified Briefing for Musk on China War Plans
@@ -46,5 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 Pentagon officials initially planned to brief Elon Musk on 29 ultra-classified weapons programs related to potential conflict with China, but canceled the meeting after media reports. Musk ultimately met with Defense Secretary Pete Hegseth in an unclassified meeting about 'innovation and efficiencies'.

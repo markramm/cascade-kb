@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-15--trump-demands-texas-redistricting
 date: '2025-07-15'
 importance: 10
@@ -42,6 +42,6 @@ sources:
 notes: Unprecedented presidential interference in state redistricting process outside normal census cycle. Abbott initially resisted citing $35M cost and constitutional concerns. 52 House Democrats fled to Illinois breaking quorum. Speaker issued civil arrest warrants and $500/day fines. Mid-cycle redistricting violates traditional decennial census precedent.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump publicly demands Texas Governor Abbott conduct unprecedented mid-cycle redistricting to create 5 new safe Republican congressional seats. Abbott initially resists, citing constitutional concerns and costs. Democratic legislators flee to Illinois to break quorum, with civil arrest warrants issued and $500/day fines imposed for absent members.

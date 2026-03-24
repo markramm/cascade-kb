@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-08-26--whig-establishes-systematic-media-coordination-infrastructure
 title: WHIG Establishes Systematic Media Coordination Infrastructure with Network Executives
 date: '2002-08-26'
@@ -62,5 +62,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 In August 2002, the White House Iraq Group (WHIG) formalized a systematic media coordination infrastructure through strategic meetings with television network executives. By establishing pre-arranged booking protocols, talking point distribution systems, and synchronized messaging frameworks, they transformed media outlets into a unified propaganda apparatus. Network executives agreed to prioritize government access over journalistic independence, creating an unprecedented institutional mechanism for systematic manipulation of public discourse.

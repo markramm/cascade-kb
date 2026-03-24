@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-06--leiweke-pardon-golf-gowdy
 date: '2025-12-06'
 title: Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy
@@ -40,7 +40,7 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy
 

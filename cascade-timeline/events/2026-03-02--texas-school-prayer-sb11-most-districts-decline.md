@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-02--texas-school-prayer-sb11-most-districts-decline
 date: '2026-03-02'
 status: confirmed
@@ -37,7 +37,7 @@ capture_lanes:
 - Democratic Backsliding
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Texas Senate Bill 11 required school boards to decide by March 1, 2026 whether to establish a daily devotional period during which students could pray, read the Bible, or engage in other religious activity. The bill passed in 2025 as part of the Texas Legislature's broader package of Christian nationalist educational mandates — which also included a requirement that every public school classroom display the Ten Commandments. Despite gubernatorial backing and intense pressure from the religious right, reporting from the Texas Tribune found that only approximately 15 school districts had opted into the prayer period, with the vast majority of urban, suburban, and rural districts voting against.
 

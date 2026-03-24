@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-05-03--dc-inaugural-committee-settlement
 date: '2022-05-03'
 importance: 7
@@ -53,7 +53,7 @@ sources:
   verified: true
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 The D.C. Attorney General announced a $750,000 settlement resolving allegations that the
 Presidential Inaugural Committee and Trump Organization improperly overpaid for event space
 at the Trump International Hotel in January 2017. Defendants denied wrongdoing as part of

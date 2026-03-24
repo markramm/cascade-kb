@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1977-01-01--bcci-establishes-pakistan-zia-ul-haq-regime-partnership
 date: '1977-01-01'
 title: BCCI Establishes Partnership with Pakistan's Zia ul-Haq Military Regime
@@ -54,6 +54,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Following General Zia ul-Haq's military coup in Pakistan, BCCI cultivates close relationships with the military ruler and his family, securing lucrative opportunities including trade finance for Pakistan's nuclear program. This partnership positions BCCI as a conduit for sensitive military and intelligence operations, including future CIA funding of Afghan mujahideen and laundering proceeds from Pakistan's heroin trade. The relationship demonstrates how BCCI leverages political connections with authoritarian regimes to facilitate covert operations while avoiding regulatory scrutiny. Zia's protection enables BCCI to operate as an unregulated shadow banking system for intelligence agencies and criminal networks. This template of partnering with military dictatorships becomes central to BCCI's global criminal operations.

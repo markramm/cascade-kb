@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-08--justice-department-will-disband-its-crypto-related-enforceme
 date: '2025-04-08'
 title: Justice Department Disbands National Cryptocurrency Enforcement Team
@@ -46,6 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump Administration's Justice Department, led by Deputy Attorney General Todd Blanche, disbanded the National Cryptocurrency Enforcement Team (NCET), effectively ending federal prosecutorial oversight of complex crypto-related financial crimes. The move represents a significant deregulation of the digital asset sector, shifting enforcement focus away from systemic crypto-related financial investigations.

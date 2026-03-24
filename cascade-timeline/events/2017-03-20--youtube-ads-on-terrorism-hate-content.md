@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2017-03-20'
 title: YouTube Serves Ads on Terror, Hate, Child Exploitation Content; Massive Boycott
 description: A Times of London investigation revealed that advertisements from major brands and the British government were appearing on YouTube videos supporting ISIS, featuring white supremacist David Duke, promoting terrorism, and containing hate speech. The investigation triggered a massive advertiser boycott with over 250 companies including AT&T, Johnson & Johnson, PepsiCo, Walmart pulling advertising from YouTube. The British government immediately suspended all YouTube advertising after discovering taxpayer-funded ads next to ISIS content. The scandal exposed YouTube's complete failure to prevent ad monetization of extremist content despite promising "brand safety." Google's Chief Business Officer apologized and promised fixes, but the problems continued for years—demonstrating that YouTube prioritized advertising revenue over preventing the monetization of terrorism and hate speech. Analysts estimated Google could lose up to $750 million from the boycott.
@@ -58,7 +58,7 @@ connections:
 - Platform accountability failures
 notes: Known as the "Adpocalypse." YouTube's monetization of ISIS and hate content showed platform prioritized ad revenue over preventing terrorism financing. Boycott forced temporary policy changes but structural problems remained.
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17-20, 2017, a Times of London investigation exposed that major brands' advertisements were appearing on YouTube videos supporting terrorism, promoting hate speech, and featuring extremist content—triggering the largest advertiser boycott in digital platform history and exposing YouTube's systematic failure to prevent monetization of dangerous content.
 

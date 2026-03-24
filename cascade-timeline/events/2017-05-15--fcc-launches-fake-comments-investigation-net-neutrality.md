@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-05-15--fcc-launches-fake-comments-investigation-net-neutrality
 date: '2017-05-15'
 title: FCC Begins Investigation into Massive Fake Comments Campaign on Net Neutrality Repeal
@@ -44,5 +44,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Federal Communications Commission (FCC) launched an investigation into the unprecedented manipulation of its public comment system during the net neutrality repeal process. An estimated 18 million out of 22 million comments were found to be fake, generated through coordinated campaigns by broadband industry lead generators who fabricated consumer responses and impersonated real people.

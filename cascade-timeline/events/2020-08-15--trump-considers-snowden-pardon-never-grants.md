@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-15--trump-considers-snowden-pardon-never-grants
 date: '2020-08-15'
 title: Trump Says He Will "Take a Look" at Pardoning Snowden, Ultimately Does Not Grant Pardon
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 At a press conference at his Bedminster, New Jersey golf club, President Donald Trump told reporters he was considering a pardon for Edward Snowden, stating "Many people think he should somehow be treated differently, and other people think he did very bad things, and I'm going to take a very good look at it." This marked a significant shift from Trump's earlier position; in 2013, he had called for Snowden's execution, tweeting that the whistleblower was a "traitor" who "gave serious information to China and Russia" and should receive "the death penalty."
 

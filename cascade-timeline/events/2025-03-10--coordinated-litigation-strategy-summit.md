@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-10--coordinated-litigation-strategy-summit
 date: '2025-03-10'
 title: 'Strategic Litigation Coordination Summit: Multi-State Legal Resistance'
@@ -57,6 +57,6 @@ strategic_focus:
   - Cross-jurisdictional legal collaboration
   - Strategic constitutional challenges
 ---
-type: solidarity_event
+type: timeline_event
 
 A pivotal national summit convened state attorneys general, civil liberties organizations, and constitutional litigation experts to develop a sophisticated, coordinated legal strategy for challenging institutional capture through synchronized legal actions across federal and state jurisdictions.

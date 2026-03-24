@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1961-01-01--operation-coffeecup-ama-reagan-anti-medicare-corporate-campaign
 date: '1961-01-01'
 title: AMA Launches Operation Coffee Cup with Reagan Recording to Defeat Medicare
@@ -80,7 +80,7 @@ sources:
   verified: true
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The American Medical Association launches Operation Coffee Cup in 1961, funding a sophisticated astroturf campaign to defeat Medicare by distributing a long-play record featuring a young Ronald Reagan outlining the dangers of "socialized medicine" to the Women's Auxiliary of the AMA—a group primarily composed of doctors' wives. The campaign instructs these women to host coffee mornings in their homes, play Reagan's recording for guests, and then have attendees immediately write "seemingly spontaneous" letters to Congress detailing their opposition to Medicare. The hosts are advised to have paper, pens, envelopes, and stamps ready "so attendees could write their letters there and then while 'in the mood,'" ensuring the letters appear to embody general public sentiment rather than an orchestrated lobbying campaign.

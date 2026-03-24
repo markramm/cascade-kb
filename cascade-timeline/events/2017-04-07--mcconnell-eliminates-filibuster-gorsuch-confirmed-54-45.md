@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-04-07--mcconnell-eliminates-filibuster-gorsuch-confirmed-54-45
 date: '2017-04-07'
 title: McConnell Invokes Nuclear Option, Eliminates Filibuster for Supreme Court Nominees, Gorsuch Confirmed 54-45
@@ -43,7 +43,7 @@ capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 6, 2017, Senate Majority Leader Mitch McConnell invoked the "nuclear option"—a parliamentary procedure to change Senate rules by simple majority vote—to eliminate the 60-vote filibuster requirement for Supreme Court nominations, lowering the threshold to a simple 51-vote majority. The following day, April 7, 2017, the Senate confirmed Neil Gorsuch to the Supreme Court by a vote of 54-45, filling the seat that Merrick Garland should have occupied. The rule change permanently transformed Supreme Court confirmations from requiring bipartisan consensus to allowing purely partisan appointments, enabling the subsequent confirmations of Brett Kavanaugh and Amy Coney Barrett and creating a 6-3 conservative supermajority that would reshape American law for decades.
 

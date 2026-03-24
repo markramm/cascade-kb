@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1935-08-23--banking-act-restructures-federal-reserve
 date: '1935-08-23'
 title: Banking Act of 1935 Restructures Federal Reserve, Reduces Wall Street Influence Over Monetary Policy
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt signs the Banking Act of 1935 on August 23, 1935, fundamentally restructuring the Federal Reserve System to centralize monetary policy authority in a reformed Board of Governors in Washington rather than the twelve regional Federal Reserve Banks, which had been dominated by private banking interests. The legislation, championed by Federal Reserve Board chairman Marriner Eccles, aims to democratize control over monetary policy by shifting power from Wall Street bankers to publicly-appointed officials, representing a direct challenge to the financial elite's control over the nation's money supply.
 

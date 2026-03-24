@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--maryland-no-kings-act-passes-senate-committee
 date: '2026-03-17'
 title: Maryland Senate Committee Advances "No Kings Act" Making Federal Agents Liable for Civil Rights Violations
@@ -32,7 +32,7 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, the Maryland Senate Judicial Proceedings Committee voted to advance SB 346, the "No Kings Act," a bill that would impose civil liability on federal agents who violate the constitutional rights of Maryland residents. The legislation represented one of the most assertive state-level efforts to create legal accountability for federal enforcement operations that had drawn widespread condemnation.
 

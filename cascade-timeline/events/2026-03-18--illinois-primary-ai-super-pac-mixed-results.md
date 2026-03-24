@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-18--illinois-primary-ai-super-pac-mixed-results
 date: '2026-03-18'
 title: "AI Super PAC \"Think Big\" Spends $2.5M+ in Illinois Primaries With Mixed Results — Fortune Reports AI/Crypto \"Mostly Lost\""
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 18, 2026, results from the Illinois primary elections provided the first major test of AI industry super PAC spending in the 2026 midterm cycle, and the results were decidedly mixed. "Think Big," the super PAC funded by OpenAI co-founder Greg Brockman, Andreessen Horowitz's Marc Andreessen, and Palantir co-founder Joe Lonsdale, spent more than $2.5 million across several Illinois races. Its preferred candidate Jonathan Bean won the Republican primary in Illinois's 8th Congressional District, but Jesse Jackson Jr.'s attempted political comeback in Illinois's 2nd Congressional District ended in defeat despite significant outside spending.
 

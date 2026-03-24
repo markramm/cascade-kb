@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-16--elon-musk-installed-his-top-lieutenants-at-a-feder
 date: '2025-04-16'
 title: Elon Musk installed his top lieutenants at a federal agency you probably haven’t heard of
@@ -46,7 +46,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Elon Musk installed several of his top DOGE lieutenants at the General Services Administration (GSA), a relatively obscure federal agency that serves as the government's primary real estate manager, technology purchaser, and supply chain provider — responsible for procuring goods and services for all federal agencies and managing billions of dollars in government contracts annually. The Associated Press and Washington Post reported in April 2025 that DOGE-affiliated personnel had taken senior operational roles at GSA, positioning Musk's allies to influence the agency's procurement decisions across a broad range of government services including technology infrastructure, building leases, and supply contracts.
 
 The choice of GSA as a target for DOGE infiltration was strategically significant because of the agency's role as a purchasing intermediary for the entire federal government. Control of GSA's procurement and technology decisions would give Musk-aligned personnel influence over which private companies received government contracts, how government technology was architected, and whether existing contracts were renewed or cancelled. The Washington Post noted that SpaceX, Starlink, and other Musk companies had existing and potential future relationships with the federal government that GSA procurement decisions could affect, creating significant conflicts of interest.

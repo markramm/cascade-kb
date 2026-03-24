@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-03-01--tariff-exemption-process-favoritism
 date: '2018-03-01'
 importance: 8
@@ -57,5 +57,5 @@ actors:
 location: 'Washington, DC'
 notes: 'Evidence shows tariff exemption system became a spoils system used to reward Trump''s supporters and punish rivals. Academic research provides statistical confirmation of political favoritism.'
 ---
-type: solidarity_event
+type: timeline_event
 Academic study of over 7,000 tariff exemption requests finds firms with political connections to Trump, especially those donating to Trump or Republican causes, had significantly higher approval rates, while those linked to Democrats were more often denied. Internal government audits describe the 2018 exclusion program as "neither transparent nor objective," overwhelmed by lobbying and informal backdoor appeals.

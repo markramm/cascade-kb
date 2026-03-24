@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-04--trump-says-hell-call-ceos-when-he-disagrees-with-t
 date: '2025-05-04'
 title: 'Trump says he''ll call CEOs when he disagrees with their business decisions'
@@ -46,5 +46,5 @@ notes: Event from comprehensive timeline tracking democratic erosion.
 capture_lanes:
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos after Amazon announced it would indicate the cost of tariffs in customer billing, if their business decisions are seen as unfriendly to his administration

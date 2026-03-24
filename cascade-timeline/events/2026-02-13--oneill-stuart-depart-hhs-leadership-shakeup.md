@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-13--oneill-stuart-depart-hhs-leadership-shakeup
 date: '2026-02-13'
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 HHS Deputy Secretary Jim O'Neill and General Counsel Mike Stuart leave their positions as part of a leadership shakeup orchestrated by Secretary Robert F. Kennedy Jr. ahead of the 2026 midterm elections. O'Neill, who served as Kennedy's top aide and Acting Director of the Centers for Disease Control and Prevention, was a controversial figure who amplified anti-vaccine messaging, promoted concerns about Medicaid fraud, and championed U.S. departure from the World Health Organization. Within the administration, O'Neill was viewed as a shaky public communicator who struggled to find his fit within the department. O'Neill's statutorily temporary acting CDC director appointment was set to expire March 27, 2026—210 days from his initial appointment. He updates his X account bio to "formerly @hhsgov" confirming his departure.
 

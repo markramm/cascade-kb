@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-03-06--holder-testifies-banks-too-big-to-jail
 date: '2013-03-06'
 title: Holder Testifies Some Banks Are Too Big to Jail
@@ -47,7 +47,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 During a critical congressional testimony before the Senate Judiciary Committee on March 6, 2013, Attorney General Eric Holder revealed the Department of Justice's emerging doctrine of 'too big to jail', acknowledging that prosecuting certain financial institutions could potentially destabilize the national and global economy. This testimony marked a pivotal moment in post-financial crisis regulatory approach, where massive banks were effectively shielded from criminal prosecution due to their systemic economic importance.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--trump-media-enters-deal-with-crypto-trading-platform
 date: '2025-04-22'
 title: Trump Media Finalizes Crypto ETF Deal with Crypto.com and Yorkville Digital
@@ -52,5 +52,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Trump Media & Technology Group (TMTG) signed a binding agreement with Crypto.com and Yorkville America Digital to launch a series of exchange-traded funds (ETFs) focusing on digital assets and 'Made in America' industries. The deal involves Crypto.com providing broker-dealer services and global distribution for the new ETF product line, with an initial commitment of up to $250 million in assets.

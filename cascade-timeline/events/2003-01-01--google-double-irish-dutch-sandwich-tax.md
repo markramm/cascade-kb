@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2003-01-01'
 title: Google Establishes "Double Irish, Dutch Sandwich" Tax Avoidance Structure
 description: Google established the "Double Irish with a Dutch Sandwich" tax avoidance scheme, routing profits through Ireland, Netherlands, and Bermuda to avoid billions in US and European taxes. The structure used two Irish subsidiaries (one tax-resident in Bermuda), a Dutch intermediary, and intellectual property licensing to shift profits to zero-tax Bermuda while avoiding withholding taxes. Google routed foreign ad revenues through Irish operations, paid inflated royalties to a Dutch shell company, which then paid the Bermudan entity—resulting in effective tax rates under 3% on non-US profits. The scheme became the template for tech industry tax avoidance, with Google shifting $23 billion annually through the structure by 2017. Ireland and Netherlands enabled the scheme through deliberate tax policy designed to attract multinationals, while Google paid minimal taxes despite generating hundreds of billions in global revenues.
@@ -61,7 +61,7 @@ connections:
 - Wealth concentration
 notes: Largest tax avoidance scheme in history shielded over $100B annually in US multinational profits by 2010. Google became most prominent user after Ireland encouraged tech companies to establish structures there.
 ---
-type: solidarity_event
+type: timeline_event
 
 By 2003, Google had established the "Double Irish with a Dutch Sandwich"—the most sophisticated corporate tax avoidance structure in history—allowing the company to route profits through Ireland, Netherlands, and Bermuda to avoid paying billions in taxes on non-US revenues despite "Don't be evil" motto.
 

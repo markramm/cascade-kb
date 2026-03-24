@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1803-10-20--louisiana-purchase-constitutional-hypocrisy-executive-power
 date: '1803-10-20'
 title: Louisiana Purchase Demonstrates Jefferson Constitutional Hypocrisy and Executive Power Expansion
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Senate approves the Louisiana Purchase treaty by a vote of 24-7, with President Thomas Jefferson abandoning his strict constructionist constitutional principles to complete the acquisition of French territory despite acknowledging the Constitution grants no explicit power to purchase foreign lands. Jefferson, who vehemently opposed Hamilton's Bank of the United States because the Constitution did not mention banking, faces the same constitutional problem with territorial acquisition. He writes to John Dickinson: "The General Government has no powers but such as the Constitution gives it... It has not given it power of holding foreign territory, and still less of incorporating it into the Union. An amendment of the Constitution seems necessary for this."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Office of Personnel Management
@@ -38,5 +38,5 @@ tags:
 - executive-power-expansion
 title: 'Trump Issues Original Schedule F Executive Order: Civil Service Protection Elimination'
 ---
-type: solidarity_event
+type: timeline_event
 President Trump issued an executive order creating Schedule F, a radical reclassification mechanism designed to strip civil service protections from approximately 50,000 federal workers in 'policy-determining, policy-making, or policy-advocating' positions. The order would effectively transform these career civil servants into at-will political appointees, enabling direct presidential control over critical government functions. Despite initial resistance and being initially blocked, Trump has continued to pursue this workforce restructuring strategy, coordinating with the Heritage Foundation's Project 2025 to systematically reshape the federal bureaucracy.

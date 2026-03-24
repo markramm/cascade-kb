@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--judge-strikes-pentagon-press-policy-unconstitutional
 date: '2026-03-20'
 title: Judge Strikes Down Pentagon Press Policy Requiring Pledge Not to Gather Unauthorized Information
@@ -45,7 +45,7 @@ capture_lanes:
 - Media Capture & Control
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 20, 2026, U.S. District Judge Paul L. Friedman ruled that the Pentagon's press access policy — which required journalists to pledge that they would not gather information unless authorized by the Department of Defense — violated both the First and Fifth Amendments. The ruling came in a case brought by the New York Times and its national security correspondent Julian E. Barnes, who had been among scores of journalists denied press badges after refusing to sign the pledge.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-07-13--bernie-ebbers-sentenced-25-years-worldcom-fraud
 date: 2005-07-13
 title: WorldCom CEO Bernard Ebbers Sentenced to 25 Years in Prison
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 13, 2005, former WorldCom CEO Bernard Ebbers was sentenced to 25 years in federal prison for orchestrating the largest corporate accounting fraud in American history. The sentence, handed down by U.S. District Judge Barbara Jones in Manhattan, represented one of the harshest penalties ever imposed on a corporate executive and marked the peak of the post-Enron era of executive accountability.
 

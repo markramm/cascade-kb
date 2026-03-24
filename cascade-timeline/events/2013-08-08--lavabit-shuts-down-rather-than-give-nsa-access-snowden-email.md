@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-08-08--lavabit-shuts-down-rather-than-give-nsa-access-snowden-email
 date: '2013-08-08'
 title: Lavabit Encrypted Email Service Shuts Down Rather Than Comply with NSA Demands
@@ -44,7 +44,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Lavabit, an encrypted email service used by Edward Snowden, abruptly shut down rather than comply with federal government demands for the company's SSL encryption keys, which would have compromised the privacy of all 400,000 users. Founder Ladar Levison announced the closure with a cryptic message: "I have been forced to make a difficult decision: to become complicit in crimes against the American people or walk away from nearly ten years of hard work by shutting down Lavabit."
 

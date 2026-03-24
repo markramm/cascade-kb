@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-13--ice-agents-afraid-minneapolis-deployment-internal-documents
 date: '2026-01-13'
 title: Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting
@@ -28,7 +28,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Internal DHS documents revealed significant hesitation among federal agents about deployment to Minneapolis under Operation Metro Surge following the fatal shooting of Renee Good. A memo from Border Patrol's Acting Assistant Chief Joshua Andrew Post sought 300 volunteer personnel (200 Border Patrol Agents and 100 Processing Coordinators) by January 11, but sources noted: "We do have personnel but some just don't want to go."
 

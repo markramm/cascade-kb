@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-10--trump-sentenced-unconditional-discharge-34-felonies
 date: '2025-01-10'
 title: Trump Receives Unconditional Discharge for 34 Felony Convictions, Zero Penalties
@@ -39,7 +39,7 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Ten days before his inauguration, Donald Trump was sentenced in the New York hush money case to an "unconditional discharge"—meaning he faces zero jail time, no fine, no probation, and no restrictions whatsoever despite being convicted of 34 felony counts of falsifying business records.

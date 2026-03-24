@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-17--texas-first-criminal-charges-abortion-providers
 date: '2025-03-17'
 title: 'First Criminal Charges Filed Under Texas Abortion Ban: Midwife Faces 20 Years'
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Maria Margarita Rojas, a 48-year-old licensed midwife, and Jose Ley, 29, her employee, were arrested and charged with performing illegal abortions at a Houston-area health clinic on March 17, 2025, marking the first criminal charges brought under Texas's near-total abortion ban. The abortion charge is a second-degree felony carrying up to 20 years in prison. Both defendants were also charged with practicing medicine without a license.
 

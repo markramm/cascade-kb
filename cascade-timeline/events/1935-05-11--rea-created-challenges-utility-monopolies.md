@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1935-05-11--rea-created-challenges-utility-monopolies
 date: '1935-05-11'
 title: Rural Electrification Administration Created to Bring Power to Farms Private Utilities Refused to Serve
@@ -40,7 +40,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Roosevelt creates the Rural Electrification Administration (REA) by executive order on May 11, 1935, establishing a federal program to extend electricity to rural areas that private utility companies had refused to serve. At the time of REA's creation, only 10 percent of American farms have electric power—private utilities deem rural service unprofitable due to low population density and limited ability of farmers to pay high rates. The REA represents a direct federal challenge to private utility monopolies' claim that they alone can efficiently provide electrical service.
 

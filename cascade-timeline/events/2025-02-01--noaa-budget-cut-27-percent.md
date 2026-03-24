@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--noaa-budget-cut-27-percent
 date: '2025-02-01'
 importance: 6
@@ -41,6 +41,6 @@ sources:
 notes: Climate programs dismantled wholesale per Project 2025 recommendations
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 National Oceanic and Atmospheric Administration faces 27% budget cut with Office of Oceanic and Atmospheric Research effectively eliminated, dismantling climate science infrastructure and weather forecasting capabilities.

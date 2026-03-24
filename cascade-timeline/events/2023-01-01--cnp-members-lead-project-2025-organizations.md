@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-01-01--cnp-members-lead-project-2025-organizations
 date: '2023-01-01'
 title: CNP Members Lead Project 2025 Coalition Organizations - Coordination Infrastructure for Trump Return
@@ -35,7 +35,7 @@ capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 By 2023, prominent Council for National Policy members held leadership positions in organizations affiliated with Project 2025, Heritage Foundation's comprehensive plan for a second Trump administration, demonstrating how CNP's coordination network extended into the blueprint for executive branch capture.
 
 The Global Project Against Hate and Extremism identified three networks as most influential in conservative politics: Project 2025 organizations (spearheaded by Heritage Foundation), America First Policy Institute, and the Council for National Policy - with significant overlap between them through shared leadership.

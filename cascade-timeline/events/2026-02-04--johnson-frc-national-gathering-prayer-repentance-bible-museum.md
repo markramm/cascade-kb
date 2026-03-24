@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-04--johnson-frc-national-gathering-prayer-repentance-bible-museum
 date: '2026-02-04'
 status: confirmed
@@ -38,7 +38,7 @@ capture_lanes:
 - Democratic Backsliding
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 4, 2026, House Speaker Mike Johnson co-hosted the second annual National Gathering for Prayer and Repentance at the Museum of the Bible in Washington, D.C. — an event organized by the Family Research Council and its president Tony Perkins. House Majority Leader Steve Scalise attended alongside congressional members, Trump administration officials, and state attorneys general. Johnson, who helped found the event, proclaimed that America "was forged on a biblical foundation" and pleaded for God's "continued favor" over the nation while praying for courage to "defend and restore" that heritage.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-12--justice-dept-moving-to-downsize-units-investigating-fraud-an
 date: '2025-03-12'
 title: Justice Department Significantly Downsizes Public Corruption Investigation Unit
@@ -46,6 +46,6 @@ patterns:
 notes: Unit created in 1976 after Watergate, now dramatically reduced under Trump administration. Raises significant concerns about government accountability.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Justice Department dramatically reduced the Public Integrity Section, cutting its staff from dozens to approximately 6 prosecutors, effectively dismantling its capacity to independently investigate government corruption. The unit, created in 1976 following the Watergate scandal, will no longer directly handle corruption investigations, with cases to be reassigned to U.S. attorneys' offices.

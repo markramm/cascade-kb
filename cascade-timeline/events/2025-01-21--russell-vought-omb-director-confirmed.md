@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Russell Vought
 - Donald Trump
@@ -50,7 +50,7 @@ tags:
 title: Russell Vought Becomes OMB Director - Project 2025 Chief Architect
 validation_notes: 'Enhanced event validation: Added three new credible sources providing comprehensive context. Verified nomination details, confirmation vote, and Project 2025 connection across multiple independent outlets. Expanded summary to provide deeper insights into Vought''s role and the potential implications of his OMB leadership.'
 ---
-type: solidarity_event
+type: timeline_event
 Russell Vought, a key architect of Project 2025, is confirmed by the Senate on February 6, 2025, in a 53-47 party-line vote to serve as OMB Director under President Donald Trump. Vought's confirmation represents a critical step in executing Project 2025's blueprint for federal agency transformation. As a primary author of the Heritage Foundation's conservative governance plan, he is positioned to leverage the Office of Management and Budget to implement sweeping changes across federal agencies, potentially including withholding appropriated funds and restructuring agency personnel.
 
 Senate Minority Leader Chuck Schumer characterized Vought as one of the most 'fringe and hard-right individuals' in recent Senate history, warning that Project 2025 would become official federal policy under his leadership. Vought's return to OMB, a role he previously held during Trump's first term, signals a strategic approach to administrative state capture and executive power expansion.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-13--bessent-ethics-violation-farmland-divestment
 date: '2025-08-13'
 title: Treasury Secretary Bessent Violates Ethics Agreement, Retains Millions in Conflicted Assets
@@ -29,7 +29,7 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Treasury Secretary Scott Bessent missed the 90-day ethics deadline for divesting conflicted assets, retaining up to $25 million in North Dakota farmland generating up to $1 million annually in rental income. Bessent owns soybean and corn farmland while shaping agricultural trade policy and farm subsidy decisions.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-10-05--utah-county-carbyne-deployment-provo-orem-lindon
 date: '2023-10-05'
 title: Metro Emergency Communications deploys Carbyne AI-powered 911 system in Provo, Orem, and Lindon, Utah
@@ -39,7 +39,7 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Metro Emergency Communications in Utah County went live with Carbyne's Universe platform on August 28, 2023, deploying AI-powered emergency response technology across Provo, Orem, and Lindon that provides 911 call takers with precise GPS location data, live video streaming from caller smartphones, text chat capabilities, and real-time information sharing with field responders. The Over-The-Top (OTT) Next Generation 9-1-1 system collects and integrates comprehensive multimedia data from emergency callers, moving beyond legacy voice-only 911 technology to create what Carbyne describes as a "holistic, immersive view of an incident."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-02--us-securities-exchange-commission-shakes-up-enforcement-divi
 date: '2025-04-02'
 title: SEC Restructures Enforcement Division Under Trump Administration
@@ -48,6 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The SEC restructures its enforcement and examination divisions under the Trump administration, consolidating regional offices from 10 to 4, reducing senior leadership positions, and implementing a more focused approach to regulatory enforcement

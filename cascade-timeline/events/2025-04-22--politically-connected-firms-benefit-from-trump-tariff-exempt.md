@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-22--politically-connected-firms-benefit-from-trump-tariff-exempt
 date: '2025-04-22'
 title: Politically Connected Firms Exploit Trump Tariff Exemptions Through Opaque Process
@@ -45,6 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 A comprehensive study reveals that politically connected firms significantly benefited from Trump administration tariff exemptions, with companies making Republican political contributions receiving preferential treatment in a deliberately obscure process.

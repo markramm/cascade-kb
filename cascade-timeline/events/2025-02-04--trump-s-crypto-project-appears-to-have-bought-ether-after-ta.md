@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-04--trump-s-crypto-project-appears-to-have-bought-ether-after-ta
 date: '2025-02-04'
 title: Trump's World Liberty Financial Makes Massive Ethereum Purchases Amid Market Volatility
@@ -45,6 +45,6 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 World Liberty Financial, a decentralized finance project linked to Trump's family, strategically acquired approximately $55 million worth of Ether (ETH) following market disruptions caused by Trump's brief tariff imposition on Mexico and Canada. This purchase was part of a larger pattern of aggressive cryptocurrency investment, with the project accumulating over $388 million in digital assets by early 2025.

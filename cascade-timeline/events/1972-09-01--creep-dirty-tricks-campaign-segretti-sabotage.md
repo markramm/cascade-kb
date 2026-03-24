@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-09-01--creep-dirty-tricks-campaign-segretti-sabotage
 date: '1972-09-01'
 title: 'CREEP Dirty Tricks Campaign Exposed: Segretti Orchestrates Political Sabotage
@@ -62,7 +62,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Donald Henry Segretti, hired by his friend Dwight L. Chapin (Nixon's appointments secretary), ran an extensive campaign of political sabotage against Democratic candidates throughout 1972, with his work paid for by Nixon's lawyer Herbert Kalmbach from presidential campaign funds. Segretti referred to these activities as "ratfucking"—dirty tricks that went far beyond normal political opposition research. The most damaging operation was the fabrication of the "Canuck letter," a forged letter to the editor published in the Manchester Union Leader on February 24, 1972, two weeks before the New Hampshire primary, falsely implying that Senator Edmund Muskie held prejudice against Americans of French-Canadian descent.

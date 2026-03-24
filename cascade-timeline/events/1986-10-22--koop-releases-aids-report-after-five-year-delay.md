@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-10-22--koop-releases-aids-report-after-five-year-delay
 date: '1986-10-22'
 title: 'Koop Releases AIDS Report After Five-Year Delay: Public Health vs Politics'
@@ -40,7 +40,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Surgeon General C. Everett Koop releases "The Surgeon General's Report on Acquired Immune Deficiency Syndrome" after being muzzled by the Reagan administration for five years. The groundbreaking 36-page report provides frank, explicit guidance on AIDS prevention including comprehensive sex education and condom use—recommendations that anger Reagan's conservative base but represent essential public health guidance. Koop drafted the report secretly at home to prevent Reagan's domestic policy advisers from censoring crucial medical information, distributing numbered copies to control the review process.
 

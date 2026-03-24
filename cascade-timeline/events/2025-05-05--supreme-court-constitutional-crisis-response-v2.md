@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-05--supreme-court-constitutional-crisis-response-v2
 date: '2025-05-05'
 title: Supreme Court Attempts to Mitigate Constitutional Emergency Powers Dispute
@@ -46,5 +46,5 @@ validation_metadata:
   - 'sources_removed: ''1'' → ''1'''
   - 'summary_updated: ''True'' → ''True'''
 ---
-type: solidarity_event
+type: timeline_event
 In an extraordinary session, the Supreme Court issues an emergency order clearing the way for President Trump to fire two Democratic-appointed independent agency leaders, revealing deep institutional tensions. The fragmented 6-3 ruling exposes unprecedented challenges to constitutional checks and balances, with liberal justices dissenting against expanded executive removal powers.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-21--us-strikes-natanz-nuclear-facility
 date: '2026-03-21'
 title: US Military Strikes Natanz Uranium Enrichment Facility in Major Nuclear Escalation
@@ -34,7 +34,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 21, 2026, the U.S. military struck Iran's Natanz uranium enrichment facility — formally known as the Shahid Ahmadi Roshan Uranium Enrichment Facility — marking the most provocative nuclear-related targeting decision of the war. The deeply buried facility, located in Isfahan province, is one of the most sensitive nuclear sites in the world and had been the subject of decades of diplomatic negotiations, IAEA inspections, and covert sabotage operations. Initial assessments indicated no radioactive leakage from the strike.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1925-11-14--d-c-stephenson-conviction-exposes-klan-leadership-corruption
 date: '1925-11-14'
 title: D.C. Stephenson Convicted of Murder Exposing Klan Leadership Corruption
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 D.C. Stephenson, Grand Dragon of the Indiana Ku Klux Klan and the most powerful Klan leader in America, is convicted of second-degree murder in the death of Madge Oberholtzer, a state education official. Oberholtzer died from infection after Stephenson abducted, raped, and brutally bit her during a train trip; she subsequently poisoned herself but survived long enough to provide a detailed deathbed statement. The conviction demolishes Stephenson's political empire and accelerates the national Klan's collapse, as members desert an organization whose leader of "100% Americanism" proved to be a rapist and murderer.
 

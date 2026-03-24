@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-11--trump-sham-business-conflicts-plan
 date: '2017-01-11'
 title: 'Trump Announces Sham Business Conflicts Plan: Retains Ownership While Sons Run Company - Rejects Divestment'
@@ -35,6 +35,6 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 At a January 11, 2017 press conference, President-elect Trump's tax attorney Sheri Dillon unveiled a plan to address conflicts of interest that ethics experts universally condemned as woefully inadequate. Rather than divesting from his businesses as ethics norms require, Trump would merely transfer management to his sons Don Jr. and Eric while retaining full ownership of the Trump Organization and its hundreds of business entities worldwide. Dillon brazenly dismissed the Constitution's Emoluments Clause, claiming "No one would have thought when the Constitution was written that paying your hotel bill was an Emolument." She admitted the trust was not blind, acknowledging "President Trump can't un-know he owns Trump Tower." The plan allowed Trump to continue receiving reports on the company's overall profits, retain approval rights for new domestic deals, and maintain ownership of all existing assets including foreign properties. Office of Government Ethics Director Walter Shaub condemned the plan, stating "Nothing short of divestiture will resolve these conflicts" and that stepping back from management "is meaningless from a conflicts of interest perspective." Former ethics counsels from both parties predicted the arrangement would "lead to scandal and corruption and a constitutional crisis." The sham plan set the template for four years of systematic corruption: Trump would use the presidency to enrich his businesses while his businesses created leverage points for foreign governments and domestic interests seeking to influence policy.

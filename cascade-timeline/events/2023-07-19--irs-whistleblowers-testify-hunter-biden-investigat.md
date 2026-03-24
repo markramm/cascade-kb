@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-07-19--irs-whistleblowers-testify-hunter-biden-investigat
 date: '2023-07-19'
 importance: 7
@@ -41,6 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 IRS supervisory agent Gary Shapley and case agent Joseph Ziegler testified before House Oversight Committee that the Justice Department investigation into Hunter Biden was 'slow walked' with political interference. They alleged prosecutors blocked scrutiny of Joe Biden's potential involvement, tipped off Hunter Biden's attorneys about evidence searches, and that U.S. Attorney David Weiss said he was 'not the deciding person' on charges despite public statements. Ziegler, a Democrat who didn't vote in 2020, recommended multiple felony charges in 2021 that weren't pursued. Both agents claimed retaliation after their disclosures. Other witnesses disputed some key allegations but confirmed frustration with the probe's pace and venue-shopping for charges.

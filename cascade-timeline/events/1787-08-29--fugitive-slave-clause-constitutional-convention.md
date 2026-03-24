@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1787-08-29--fugitive-slave-clause-constitutional-convention
 date: '1787-08-29'
 title: Constitutional Convention Adopts Fugitive Slave Clause Requiring Northern Complicity
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 28, 1787, South Carolina delegates Pierce Butler and Charles Pinckney attempt unsuccessfully to include "fugitive slaves" in the Constitution's extradition clause during Constitutional Convention debates. The following day, August 29, the South Carolina delegation presents a separate fugitive slave provision that delegates accept and place directly beneath the extradition clause. The Committee of Style later refines the language, ultimately producing Article IV, Section 2, Clause 3: "No Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due."
 

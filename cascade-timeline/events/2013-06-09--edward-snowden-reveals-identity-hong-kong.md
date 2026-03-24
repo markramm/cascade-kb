@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-06-09--edward-snowden-reveals-identity-hong-kong
 date: '2013-06-09'
 title: Edward Snowden Reveals Identity as NSA Whistleblower in Hong Kong Video
@@ -36,7 +36,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward Snowden publicly revealed himself as the source behind the explosive NSA surveillance leaks in a 12-minute video interview filmed at the Mira Hotel in Kowloon, Hong Kong, and published by The Guardian. The 29-year-old former NSA contractor and CIA technical assistant had flown to Hong Kong on May 20, 2013, before the first stories based on his leaks were published.
 

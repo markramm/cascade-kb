@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-03-22--patrick-orlando-fired-dwac-ceo-unprecedented-headwinds
 date: '2023-03-22'
 title: Digital World Acquisition Corp Fires CEO Patrick Orlando Amid SEC Investigation
@@ -42,6 +42,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Digital World Acquisition Corp (DWAC) terminated CEO Patrick Orlando's employment, citing "unprecedented headwinds" that necessitated a leadership change. The board appointed Eric Swider as interim CEO after investigations by the SEC and federal prosecutors into potential securities fraud related to pre-IPO merger discussions with Trump Media & Technology Group. Orlando had been a key figure in the proposed SPAC merger to take Truth Social public, but remained a director of the company after his removal as CEO.

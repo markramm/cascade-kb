@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-12-31--new-century-accounting-fraud-hides-loan-repurchase-surge
 date: '2006-12-31'
 title: New Century Financial Conceals Massive Early Payment Defaults Through Accounting Fraud in 2006
@@ -33,7 +33,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Throughout 2006, New Century Financial Corporation, one of the nation's largest subprime mortgage lenders, engaged in systematic accounting fraud to conceal the deteriorating quality of its loan portfolio. The SEC later charged that the company's top officers misled investors as the business collapsed, failing to disclose dramatic increases in early loan defaults, loan repurchases, and pending loan repurchase requests. New Century made undisclosed changes to its accounting for loan repurchases in both the second and third quarters of 2006 that violated generally accepted accounting principles, allowing the company to improperly avoid substantial repurchase expenses and materially overstate its financial results.
 

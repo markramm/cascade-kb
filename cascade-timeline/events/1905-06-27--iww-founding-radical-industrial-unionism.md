@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1905-06-27--iww-founding-radical-industrial-unionism
 date: '1905-06-27'
 title: Industrial Workers of the World Founded, Challenges AFL Craft Unionism
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 From June 27 through July 8, 1905, two hundred socialists, anarchists, Marxists, and radical trade unionists convened at Brand's Hall in Chicago to found the Industrial Workers of the World (IWW), launching the most significant challenge to corporate capitalism and conservative trade unionism in American history. William "Big Bill" Haywood opened the convention with a declaration that framed the gathering as a revolutionary moment: "This is the Continental Congress of the working class. We are here to confederate the workers of this country into a working class movement that shall have for its purpose the emancipation of the working class from the slave bondage of capitalism." The founding delegates included Eugene V. Debs, Mother Jones, Lucy Parsons, Daniel De Leon, and hundreds of rank-and-file leaders, primarily from the Western Federation of Miners.
 

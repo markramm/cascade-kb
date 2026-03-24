@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-10-01--cca-initial-public-offering-nasdaq
 date: '1986-10-01'
 title: Corrections Corporation of America Goes Public on NASDAQ at $9 Per Share, Wall Street Bets on Mass Incarceration
@@ -39,7 +39,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Corrections Corporation of America (CCA) launches its initial public offering on NASDAQ under the symbol CCAX, selling 2 million shares at $9 per share and raising $18 million to fund expansion. Despite struggling for profitability in its first three years, the company convinces Wall Street investors that privatized incarceration represents a growth industry. By August 1986, CCA manages eight detention centers in Tennessee, Texas, New Mexico, and Florida with average capacity of about 275 inmates.
 

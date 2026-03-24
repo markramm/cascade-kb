@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-04-06--ivanka-trump-receives-chinese-trademarks-during-xi
 date: '2017-04-06'
 importance: 8
@@ -39,6 +39,6 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Ivanka Trump received three valuable Chinese trademarks on the same day she dined with President Xi Jinping at Mar-a-Lago during critical U.S.-China trade negotiations. Throughout Trump's presidency, China approved 34 trademarks for Ivanka's business, including 16 new trademarks in October 2018 while her father's trade war threatened Chinese exports. The trademarks covered voting machines, nursing homes, sausage casings, and other businesses she had never operated. China also approved trademarks for Donald Trump himself during his presidency after years of rejections. Ethics experts called it 'corruption plain and simple,' noting China appeared to be granting valuable intellectual property to influence U.S. policy. Ivanka served as a senior White House adviser throughout, creating unprecedented conflicts between personal business interests and official duties in foreign policy.

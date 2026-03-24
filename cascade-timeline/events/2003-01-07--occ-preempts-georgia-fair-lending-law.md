@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-01-07--occ-preempts-georgia-fair-lending-law
 date: '2003-01-07'
 title: OCC Preempts Georgia Fair Lending Law, Blocking State Consumer Protections
@@ -37,7 +37,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of the Comptroller of the Currency, led by Comptroller John Hawke Jr, issues a preemption determination blocking enforcement of the Georgia Fair Lending Act against national banks, marking a turning point in federal regulators' campaign to shield predatory lenders from state consumer protection laws. Georgia's law, passed in 2002 in response to rampant predatory lending abuses, restricts high-cost loans and holds assignees (including securitization trusts) liable for predatory lending.
 

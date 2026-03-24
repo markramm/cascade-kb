@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1873-04-14--slaughterhouse-cases-gut-fourteenth-amendment
 date: '1873-04-14'
 title: Slaughterhouse Cases Gut Fourteenth Amendment Protections
@@ -35,7 +35,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court issues a 5-4 decision in the Slaughterhouse Cases, its first major interpretation of the Fourteenth Amendment, drastically narrowing the Privileges or Immunities Clause to exclude most individual rights. The ruling upholds Louisiana's grant of a slaughterhouse monopoly to one company while simultaneously opening the door for states to curtail civil rights and for corporations to claim constitutional protections.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-06-15--hurricane-katrina-education-privatizatio-systematic-pattern
 date: '2024-06-15'
 title: Academic Evidence Reveals Systematic Corruption in Hurricane Katrina Education Privatization
@@ -37,5 +37,5 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 Comprehensive research reveals a systematic corruption pattern in Hurricane Katrina's education system transformation. Academic studies and journalistic investigations document how disaster was strategically used to rapidly privatize New Orleans public schools. Before Katrina, the school system was dysfunctional with frequent superintendent turnover. Post-disaster, 100 out of 117 schools were converted to charters, creating the first all-charter school system in the U.S. While metrics like graduation rates improved from 56% to 80%, the transformation displaced over 4,000 experienced teachers and raised significant concerns about institutional capture and potential systemic racism in educational reform.

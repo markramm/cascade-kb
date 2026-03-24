@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--musk-38-billion-government-support
 date: '2025-02-01'
 importance: 6
@@ -38,6 +38,6 @@ sources:
 notes: Unprecedented self-dealing with Musk overseeing agencies that fund his companies
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk's companies have received $38 billion in total government support over 20 years including $18 billion in federal contracts over past decade, while Musk co-directs Department of Government Efficiency with authority over federal spending.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-04-15--giuliani-associate-sought-2-million-pardon-payment
 date: '2021-04-15'
 title: Giuliani Associate Sought $2 Million Payment for Trump Pardons
@@ -44,7 +44,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Florida businessman Harry Sargeant III told federal prosecutors that associates of Rudy Giuliani approached him seeking a $2 million payment to secure presidential pardons for individuals under investigation, according to court filings unsealed in April 2021. The revelation provided direct evidence of a systematic pay-to-play pardon scheme operating through Trump's personal attorney during the final months of his presidency.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1948-07-17--dixiecrat-revolt-strom-thurmond-segregationist-ticket
 date: '1948-07-17'
 title: Dixiecrat Revolt - Strom Thurmond Leads Segregationist Walkout After Democratic Civil Rights Platform
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 17, 1948, approximately 6,000 Southern Democrats from 13 states converge on Birmingham, Alabama, to form the States' Rights Democratic Party (Dixiecrats) after walking out of the Democratic National Convention in protest of the party's civil rights platform. The convention nominates South Carolina Governor Strom Thurmond for president and Mississippi Governor Fielding L. Wright for vice president on an explicitly segregationist platform. The revolt follows the Democratic National Convention's adoption of a stronger civil rights plank than even President Truman supported, triggering the Alabama and Mississippi delegations plus individual delegates from other Southern states to bolt.
 

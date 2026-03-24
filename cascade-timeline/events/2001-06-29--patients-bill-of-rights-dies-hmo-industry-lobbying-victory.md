@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-06-29--patients-bill-of-rights-dies-hmo-industry-lobbying-victory
 date: '2001-06-29'
 title: Patients Bill of Rights Dies After HMO Industry Spends $60 Million Lobbying Against Managed Care Accountability
@@ -39,7 +39,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Patients' Bill of Rights, legislation that would have allowed patients to sue HMOs for denying medically necessary care, dies in Congress after the managed care industry spends over $60 million lobbying against it. Despite bipartisan support and public outrage over HMO denials that resulted in patient deaths, the insurance industry successfully blocks accountability measures, preserving legal immunity for medical decisions made to maximize profits.
 

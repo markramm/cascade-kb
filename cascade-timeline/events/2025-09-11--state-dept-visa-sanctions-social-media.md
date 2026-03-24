@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-11--state-dept-visa-sanctions-social-media
 date: '2025-09-11'
 title: Deputy Secretary Landau Announces Visa Sanctions for Foreign Comments on Charlie Kirk Death
@@ -34,6 +34,6 @@ capture_lanes:
 - International Kleptocracy
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Deputy Secretary of State Christopher Landau announced visa sanctions against foreigners who 'praise or make light of' conservative activist Charlie Kirk's death, inviting Americans to report social media posts to consular officials. The policy weaponizes visa authority to punish speech critical of Trump allies, extending U.S. censorship extraterritorially to foreign nationals in their home countries. Legal experts note that visa denials based on political speech violate First Amendment principles that govern State Department discretion and create chilling effects on global discourse about American political figures. The announcement signals that foreign business leaders, students, journalists, and tourists face visa blacklisting for social media comments, fundamentally transforming visa policy from security screening into political speech enforcement. This represents unprecedented use of immigration authority to silence international criticism and compel global deference to Trump-aligned figures.

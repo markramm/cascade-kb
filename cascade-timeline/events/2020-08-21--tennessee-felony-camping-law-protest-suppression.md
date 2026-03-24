@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-21--tennessee-felony-camping-law-protest-suppression
 date: 2020-08-21
 title: Tennessee Enacts Felony Camping Law to Suppress Black Lives Matter Protests and Strip Voting Rights
@@ -114,7 +114,7 @@ sources:
   verified: true
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 Governor Bill Lee signed legislation on August 21, 2020 that escalated penalties for camping on Tennessee state property from a misdemeanor to a Class E felony punishable by up to six years in prison and permanent disenfranchisement—a transparent effort to suppress Black Lives Matter protests that had occupied the Tennessee State Capitol grounds since June 2020 by threatening demonstrators with felony convictions that would strip their voting rights in a critical election year. The law, rushed through the Republican-controlled legislature in a three-day special session and signed without public announcement, exemplifies the authoritarian tactics Tennessee's GOP supermajority deployed to criminalize racial justice activism and weaponize felony disenfranchisement against Black protesters exercising their constitutional rights.
 
 The legislation directly targeted Black Lives Matter demonstrators who had been camping outside the Tennessee State Capitol since June 2020, demanding meetings with Governor Lee to address racial inequality and police brutality following the May 2020 murder of George Floyd by Minneapolis police. The protesters' sustained presence and demands for racial justice posed an embarrassing challenge to Tennessee's Republican leadership during a period of nationwide reckoning with police violence and systemic racism. Rather than engaging with protesters' substantive demands, the Tennessee GOP chose to criminalize their presence through a draconian law specifically designed to force their removal under threat of felony prosecution.

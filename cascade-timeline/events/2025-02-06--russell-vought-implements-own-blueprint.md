@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-06--russell-vought-implements-own-blueprint
 date: '2025-02-06'
 importance: 6
@@ -41,6 +41,6 @@ sources:
 notes: Project 2025 architect now in position to implement own blueprint
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Russell Vought, who authored Project 2025's chapter on restructuring Executive Office and expanding presidential power, was confirmed as OMB Director on February 6, 2025 by a 53-47 Senate vote. He now implements the exact recommendations he wrote, including using the budget agency to withhold Congressional appropriations and purge agencies of dissenting employees.

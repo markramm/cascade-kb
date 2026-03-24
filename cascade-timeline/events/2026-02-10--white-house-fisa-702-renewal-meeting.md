@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-10--white-house-fisa-702-renewal-meeting
 date: '2026-02-10'
 status: confirmed
@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House convened top-level staff and lawmakers on February 10, 2026, to discuss renewal of Section 702 of the Foreign Intelligence Surveillance Act (FISA), a controversial surveillance authority set to expire on April 20, 2026. The meeting included CIA Director John Ratcliffe, Director of National Intelligence Tulsi Gabbard, Joint Chiefs Chairman Dan Caine, White House Chief of Staff Susie Wiles, senior advisor Stephen Miller, and Republican Representatives Jim Jordan and Rick Crawford.
 

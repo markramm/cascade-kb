@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-15--federal-courts-systemic-integrity-challenge
 date: '2025-06-15'
 title: Federal Judicial System Faces Unprecedented Integrity Challenge
@@ -46,5 +46,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 In June 2025, the United Nations Special Rapporteur for Judicial Independence, Margaret Satterthwaite, released a groundbreaking report documenting systematic attacks on the U.S. federal judiciary. The report detailed executive branch efforts to intimidate judges, including public denigration, threats of impeachment, and attempts to ban law firms from government contracts based on their judicial rulings. The UN investigation identified 127 documented instances of direct executive interference with judicial proceedings, raising international alarm about the erosion of judicial independence in the United States.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-04-26--nation-at-risk-report-launches-education-reform-industry
 date: '1983-04-26'
 title: A Nation at Risk Report Launches Education Reform Industry, Lays Groundwork for Privatization
@@ -38,7 +38,7 @@ capture_lanes:
 - Financial Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 26, 1983, the National Commission on Excellence in Education released "A Nation at Risk: The Imperative for Educational Reform," a report that fundamentally reshaped American education discourse and laid the ideological groundwork for decades of privatization efforts. The report's inflammatory rhetoric—declaring that "the educational foundations of our society are presently being eroded by a rising tide of mediocrity that threatens our very future as a Nation and a people"—created a manufactured crisis that would justify market-based reforms hostile to public education.
 

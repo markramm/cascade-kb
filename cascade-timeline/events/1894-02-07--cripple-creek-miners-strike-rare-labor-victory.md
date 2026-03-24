@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1894-02-07--cripple-creek-miners-strike-rare-labor-victory
 date: '1894-02-07'
 title: Cripple Creek Miners Strike Achieves Rare Victory Through Governor Intervention
@@ -41,7 +41,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Gold miners in Cripple Creek, Colorado, launch a strike after mine owners announce they will either extend the workday from eight to ten hours for the same $3 daily wage or maintain eight-hour days while reducing wages to $2.50 per day. Western Federation of Miners president John Calderwood issues a notice on February 1, 1894, demanding mine owners reinstate the eight-hour day at the $3.00 wage. When owners do not respond, the nascent union strikes on February 7. The conflict escalates with firefights and dynamite attacks, including an explosion at a train platform where a deputized strike-breaking posse was about to disembark, sending the armed strikebreakers fleeing back on the train.
 

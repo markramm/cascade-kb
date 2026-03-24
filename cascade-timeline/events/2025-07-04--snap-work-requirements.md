@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-04--snap-work-requirements
 date: '2025-07-04'
 importance: 6
@@ -41,6 +41,6 @@ sources:
 notes: Congressional Budget Office estimates 2.4-3 million will lose SNAP benefits due to expanded work requirements affecting able-bodied adults 18-64, including parents with children 14+, veterans, homeless individuals, former foster youth. Head Start elimination would affect 750,000-800,000 children.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump administration's "One Big Beautiful Bill" signed July 4, 2025 expanded SNAP work requirements to ages 18-64, affecting parents with children 14+, veterans, homeless individuals, and former foster youth. CBO projects 2.4-3 million Americans will lose benefits. Simultaneously threatens elimination of Head Start program serving 750,000-800,000 children.

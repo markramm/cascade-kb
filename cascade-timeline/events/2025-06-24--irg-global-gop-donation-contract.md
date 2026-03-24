@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-24--irg-global-gop-donation-contract
 date: '2025-06-24'
 importance: 9
@@ -39,6 +39,6 @@ sources:
 notes: IRG executives linked to companies sued for inflating hurricane insurance claims. Employees alleged they were used as "pawns in a plan to file inflated insurance claims in federally-declared disaster areas." Emergency declarations allow bypassing procurement rules and competitive bidding.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 IRG Global Emergency Management donated $10,000 to the Florida GOP on June 24, 2025, and received a $1.1 million Alligator Alcatraz contract hours later. Within a week, the company secured two additional contracts totaling $5.1 million for shuttle transportation, emergency services, and air operations. IRG, formed in February 2025, is an offshoot of Access Restoration Services (ARS), which previously donated $250,000 to DeSantis PACs and holds $108 million in state contracts. The contracts bypassed competitive bidding using emergency powers, with IRG ultimately receiving $20.8 million total despite being a new company.

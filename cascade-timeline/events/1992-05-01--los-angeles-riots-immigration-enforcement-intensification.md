@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1992-05-01--los-angeles-riots-immigration-enforcement-intensification
 date: '1992-05-01'
 title: Los Angeles Riots Trigger Immigration Enforcement Intensification, 1,000 Deportations
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Following the acquittal of Los Angeles police officers in the Rodney King beating and the subsequent civil unrest, the Immigration and Naturalization Service collaborates with the LAPD to conduct sweeping arrests targeting undocumented immigrants among those detained during the riots. INS officials report processing over 1,000 individuals for deportation, with many facing expedited removal without full hearings. The enforcement operation treats immigration status as a marker of criminality, subjecting foreign-born arrestees to detention and deportation while U.S. citizens arrested for identical offenses face standard criminal processing.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-26--trump-suggests-g7-at-doral
 date: '2019-08-26'
 title: Trump Proposes Hosting G-7 Summit at His Doral Golf Resort
@@ -48,7 +48,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump proposed hosting the 2020 G-7 summit at his Trump National Doral 
 golf resort in Miami, which would have directed millions in government spending 

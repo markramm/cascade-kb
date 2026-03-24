@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1967-12-15--age-discrimination-employment-act-protects-older-workers
 date: '1967-12-15'
 title: Age Discrimination in Employment Act Protects Workers Over 40 from Job Discrimination
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 15, 1967, President Lyndon B. Johnson signed the Age Discrimination in Employment Act (ADEA), prohibiting employment discrimination against workers aged 40 to 65 (later extended to all workers over 40). The law banned discrimination in hiring, firing, compensation, and terms of employment based on age, establishing that older workers had legal protections comparable to those created by the Civil Rights Act of 1964.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-12-01'
 title: Tesla Begins Purchasing Russian Aluminum from Rusal
 actors:
@@ -37,5 +37,5 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Tesla began sourcing aluminum from Rusal, a Russian metals company founded by oligarch Oleg Deripaska, in late 2020 for its German Giga Berlin manufacturing plant. The procurement occurred after US sanctions against Rusal were lifted in 2019, with Tesla purchasing millions of euros worth of aluminum through a complex international payment structure involving German, Swiss, and Austrian financial entities. The aluminum was specifically used for casting body shells for the Tesla Model Y, highlighting the intricate global supply chain dynamics in the automotive industry.

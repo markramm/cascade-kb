@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Supreme Court of the United States
 - Chief Justice John Roberts
@@ -48,5 +48,5 @@ tags:
 - judicial-reform
 title: SCOTUS overrules Chevron deference (Loper Bright v. Raimondo)
 ---
-type: solidarity_event
+type: timeline_event
 In a 6-3 decision, the Supreme Court overturned Chevron deference, eliminating the long-standing doctrine that required courts to defer to federal agencies' reasonable interpretations of ambiguous statutes. This landmark ruling fundamentally reshapes administrative law, requiring courts to exercise independent judgment in interpreting federal laws.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-10-20--richard-benda-dies-eb5-visa-scandal-investigation
 date: '2013-10-20'
 importance: 7
@@ -37,6 +37,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Former South Dakota economic development secretary Richard Benda died from a self-inflicted shotgun wound near Lake Andes as state Attorney General Marty Jackley prepared felony theft charges against him. Jackley disclosed his office had drafted a criminal complaint and arrest warrant on October 8, 2013, alleging Benda diverted $550,000 in economic development funds for his personal salary after leaving state government. Benda had negotiated a 2009 contract with Joop Bollen transferring South Dakota's EB-5 immigrant investor visa program to Bollen's private company SDRC Inc., with minimal state oversight. The scandal centered on the failed Northern Beef Packers plant in Aberdeen, which attracted $80 million in EB-5 investments from wealthy Chinese investors seeking green cards, then collapsed into bankruptcy. Bollen later faced charges for transferring $1.2 million from trust accounts for personal use, including purchasing a $97,000 Egyptian artifact, but pleaded guilty to a single felony with two years probation and $2,000 fine. The FBI ended its federal investigation in June 2015 without prosecution. The episode demonstrated how state officials privatized a federal visa program to benefit political insiders, with token accountability after massive investor losses and one official's death under circumstances some questioned.

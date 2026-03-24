@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1940-01-01--wwii-corporate-profit-explosion-cost-plus-contracts
 date: '1940-01-01'
 title: WWII Corporate Profits Soar 113% as Cost-Plus Contracts Enable Massive War
@@ -62,7 +62,7 @@ tags:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 
 # WWII Corporate Profit Explosion Through Cost-Plus Contracts

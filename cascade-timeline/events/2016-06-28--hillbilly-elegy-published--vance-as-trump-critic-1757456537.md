@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2016-06-28'
 title: Hillbilly Elegy Published - Vance as Trump Critic
 actors:
@@ -44,5 +44,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 J.D. Vance publishes Hillbilly Elegy, a memoir that gains national prominence during the 2016 presidential election. Vance openly criticizes Donald Trump, describing him as "the most-raw expression of a massive finger pointed at other people" and privately comparing him to "cultural heroin" and potentially "America's Hitler". In media interviews, Vance argues that while Trump diagnoses working-class white communities' problems, he offers no substantive solutions. The memoir becomes a critical lens for understanding Trump's appeal to white working-class voters, even as Vance positions himself as a staunch "Never Trump" conservative.

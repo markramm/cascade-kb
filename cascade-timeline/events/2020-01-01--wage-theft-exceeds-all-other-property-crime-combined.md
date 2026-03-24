@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-01--wage-theft-exceeds-all-other-property-crime-combined
 date: '2020-01-01'
 title: Wage Theft Steals More from Workers Than All Other Property Crime Combined
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Research documents that wage theft—employers illegally withholding earned wages through minimum wage violations, unpaid overtime, off-the-clock work, illegal payroll deductions, and tip theft—steals more money from workers annually than all robberies, burglaries, larcenies, and motor vehicle thefts combined. Economic Policy Institute estimates wage theft affects millions of workers, particularly in low-wage industries including restaurants, retail, construction, domestic work, and agriculture, disproportionately harming immigrants, women, and workers of color.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-16--republicans-resist-iran-war-hearings
 date: '2026-03-16'
 title: Republican Leadership Actively Avoids Public Hearings on Iran War
@@ -32,7 +32,7 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 16, 2026, Senate Majority Leader John Thune publicly stated that he did not expect the Senate to hold hearings specifically focused on the Iran war, despite mounting Democratic demands for public testimony from Defense Secretary Pete Hegseth and Secretary of State Marco Rubio. The stance reflected a broader pattern of Republican congressional leadership shielding the Trump administration from oversight during the most significant U.S. military engagement since the 2003 invasion of Iraq.
 

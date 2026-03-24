@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Anna Chapman
 - Federal Bureau of Investigation
@@ -42,5 +42,5 @@ tags:
 - gates-network
 title: Anna Chapman and Russian Spy Ring Arrested in Manhattan
 ---
-type: solidarity_event
+type: timeline_event
 FBI arrests Russian spy Anna Chapman and 10 other "illegals" in Operation Ghost Stories. Chapman had been operating in Manhattan since 2009, targeting policy circles and using encrypted wireless networks to communicate with Russian intelligence. The SVR operatives, part of a long-term intelligence-gathering mission, were ultimately arrested, tried, and exchanged in a major Cold War-style spy swap on July 9, 2010.

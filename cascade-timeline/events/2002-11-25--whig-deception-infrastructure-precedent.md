@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-11-25--whig-deception-infrastructure-precedent
 date: '2002-11-25'
 importance: 9
@@ -50,6 +50,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Following the successful manipulation of Congress into authorizing the Iraq War, the White House Iraq Group formalizes its systematic deception apparatus as standard executive branch infrastructure for crisis governance, establishing constitutional precedents that enable ongoing democratic erosion. WHIG's institutionalization of inter-agency coordination for propaganda purposes, systematic intelligence manipulation, media capture protocols, and congressional deception mechanisms creates the operational template for executive branch bypass of constitutional constraints during declared crises. This institutional framework becomes the foundational precedent allowing subsequent administrations to exploit crisis conditions for accelerated capture of democratic institutions. WHIG's systematic violation of separation of powers—converting intelligence agencies into propaganda operations, transforming media into state coordination networks, and reducing Congress to manipulated audience rather than constitutional check—establishes the institutional infrastructure for ongoing constitutional crisis. The precedent demonstrates that coordinated executive deception during crisis periods can effectively suspend constitutional governance without formal emergency powers declaration. WHIG operations prove that systematic institutional capture can be achieved through coordinated crisis exploitation, providing the template for oligarchic capture of democratic systems through manufactured or exploited emergency conditions.

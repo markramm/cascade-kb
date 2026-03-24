@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--sean-combs-associates-offer-payments-trump-pardon
 date: '2025-08-01'
 title: Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for Presidential Pardon
@@ -36,7 +36,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Rolling Stone reported that associates of convicted Sean 'Diddy' Combs offered mid-six-figure payments to Trump administration officials, political operatives, and lobbyists to secure a presidential pardon. The efforts began months before Trump's inauguration and intensified after Combs' conviction on federal prostitution-related charges. On August 5, Combs' attorney Nicole Westmoreland confirmed the defense team had officially approached the Trump administration seeking clemency.
 

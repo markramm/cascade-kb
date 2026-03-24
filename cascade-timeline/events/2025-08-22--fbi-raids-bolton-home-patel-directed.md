@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-22--fbi-raids-bolton-home-patel-directed
 date: '2025-08-22'
 title: FBI Raids Former NSA John Bolton's Home in Patel-Directed Political Targeting
@@ -34,7 +34,7 @@ capture_lanes:
 - Institutional Capture
 - Executive Power
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI agents raided the home of former National Security Advisor John Bolton on August 22, 2025. The raid was directed by FBI Director Kash Patel.
 

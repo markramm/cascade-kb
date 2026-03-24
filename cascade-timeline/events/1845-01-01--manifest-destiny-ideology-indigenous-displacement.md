@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1845-01-01--manifest-destiny-ideology-indigenous-displacement
 date: '1845-01-01'
 title: Manifest Destiny Ideology Provides Racist Justification for Territorial Conquest and Indigenous Genocide
@@ -46,7 +46,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 John L. O'Sullivan coins the term "Manifest Destiny" in 1845 to describe the expansionist belief that American settlers are destined to expand westward across North America, and that this expansion is both obvious (manifest) and certain (destiny). The ideology is rooted in American exceptionalism, romantic nationalism, and white nationalism, implying the inevitable spread of republicanism and the American way of life. However, critics recognize manifest destiny as an ideology used to justify dispossession and genocide against Indigenous peoples. The belief results in the forceful settler-colonial displacement of Indigenous Americans to carry out colonial expansion, ultimately leading to confrontations and wars with several groups of Native peoples through Indian removal policies. Manifest destiny becomes the ideological cover for territorial conquest that serves elite economic interests—land speculators, slaveholders, railroad interests, and mining companies—by providing a veneer of moral and historical inevitability to what is fundamentally theft, violence, and genocide.
 

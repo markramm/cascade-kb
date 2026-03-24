@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-14--florida-detention-facility-funding-concealment
 date: '2025-10-14'
 title: Florida Officials Concealed $608 Million Federal Funding for Immigration Detention Facility
@@ -31,6 +31,6 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Florida officials concealed a $608 million federal funding request for an immigration detention facility nicknamed 'Alligator Alcatraz,' misleading courts about federal involvement to bypass environmental safeguards and legal challenges. The DeSantis administration's secrecy allowed the controversial facility to continue operating while hiding the massive federal subsidy from public and judicial scrutiny. The concealment demonstrates coordination between state and federal officials to obscure the true scale and funding sources of immigration detention infrastructure. By misleading courts about federal involvement, officials evaded requirements for environmental reviews and public input that apply to federally funded projects. The deception exemplifies how Trump-aligned state governments collaborate to expand detention capacity while hiding costs and circumventing legal protections.

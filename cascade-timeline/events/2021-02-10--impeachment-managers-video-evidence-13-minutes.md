@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-02-10--impeachment-managers-video-evidence-13-minutes
 date: '2021-02-10'
 title: Impeachment Managers Present Devastating 13-Minute Video Compilation of January 6 Attack
@@ -44,7 +44,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On the second day of Trump's impeachment trial, House managers led by Jamie Raskin, Stacey Plaskett, and Eric Swalwell presented a devastating 13-minute video compilation synchronizing Trump's January 6 rally speech with the violent assault on the Capitol that followed. The video presentation, which included never-before-seen Capitol security camera footage, body camera footage from Washington D.C. police, and police radio dispatches, provided the fullest view to date of how the Capitol was overrun and came within moments of becoming a mass casualty event. Senators from both parties sat in stunned silence as the video blared at high volume through the Senate chamber, with several visibly shaken and some looking away from the graphic scenes of violence. The presentation fundamentally reframed the trial by making the connection between Trump's words and the mob's actions impossible to ignore, creating what multiple senators called an "overwhelmingly distressing and emotional" experience.
 

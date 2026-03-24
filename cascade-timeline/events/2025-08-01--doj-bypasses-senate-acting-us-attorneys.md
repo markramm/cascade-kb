@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--doj-bypasses-senate-acting-us-attorneys
 date: '2025-08-01'
 title: DOJ Uses Legal Loopholes to Install Trump Loyalists as Acting U.S. Attorneys Without Senate Confirmation
@@ -37,7 +37,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Justice Department used legally dubious tactics to bypass Senate confirmation, re-designating Trump loyalists as 'acting' U.S. attorneys in New Jersey, Nevada, California, and New York. After district judges declined to re-appoint certain interim appointees, Attorney General Pam Bondi used the Federal Vacancies Reform Act to appoint them as 'acting' U.S. attorneys instead, extending their terms by an additional 210 days without Senate approval.
 

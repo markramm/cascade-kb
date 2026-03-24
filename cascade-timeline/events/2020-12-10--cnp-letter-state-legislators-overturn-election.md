@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-12-10--cnp-letter-state-legislators-overturn-election
 date: '2020-12-10'
 title: CNP Leadership Releases Letter Urging State Legislators to Reject 25 Million Votes
@@ -32,7 +32,7 @@ capture_lanes:
 - 'Media Capture & Control'
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 On December 10, 2020, the Council for National Policy leadership released a letter drafted by CNP board member and attorney Cleta Mitchell calling on legislators in swing states to throw out over 25 million votes based on false claims of electoral fraud.
 
 The letter represented the execution of the strategy CNP had coordinated at its November 12-14 meeting, where members discussed promoting election fraud claims and supporting challenges to electors in Republican-controlled statehouses. Mitchell, who had presented at that meeting, now authored the formal call to action.

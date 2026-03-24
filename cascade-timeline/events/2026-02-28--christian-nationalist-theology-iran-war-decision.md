@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-28--christian-nationalist-theology-iran-war-decision
 date: '2026-02-28'
 title: Evangelical End-Times Theology Shapes Trump's Iran War Decision as Hagee and Huckabee Push Biblical Case for Strikes
@@ -57,7 +57,7 @@ capture_lanes:
 - Executive Power Seizure
 - Foreign Policy Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 As Operation Epic Fury launched on February 28, 2026, reporting and advocacy group statements documented the extent to which evangelical end-times theology — not solely geopolitical calculation — had shaped the decision to strike Iran. The convergence was visible across multiple layers of the administration's political ecosystem.
 

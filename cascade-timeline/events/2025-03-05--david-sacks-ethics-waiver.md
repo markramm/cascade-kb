@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-05--david-sacks-ethics-waiver
 date: '2025-03-05'
 importance: 8
@@ -50,6 +50,6 @@ validation_metadata:
   corrections_applied:
   - Event validated - no corrections needed
 ---
-type: solidarity_event
+type: timeline_event
 
 White House issued March 5 ethics waiver allowing David Sacks to shape crypto policy despite remaining financial interests in digital assets through Craft Ventures. Despite selling $200M in liquid crypto holdings, Sacks retained stakes in BitGo and Lightning Labs. Warren questioned the conflict as Sacks co-hosted $1.5M crypto fundraiser while guiding national crypto policy.

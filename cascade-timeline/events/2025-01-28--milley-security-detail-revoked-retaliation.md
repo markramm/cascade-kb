@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Pete Hegseth
 - General Mark Milley
@@ -49,5 +49,5 @@ tags:
 - pentagon-ig-investigation
 title: Defense Secretary Revokes General Milley Security Detail in Political Retaliation
 ---
-type: solidarity_event
+type: timeline_event
 Defense Secretary Pete Hegseth revoked former Joint Chiefs Chairman General Mark Milley's security detail and clearance, ordering an investigation to determine if Milley should be stripped of his four-star rank. The action targets Milley despite active Iranian assassination threats against him for his role in the Soleimani killing. Hegseth orders the Pentagon Inspector General to review "the facts and circumstances" of Milley's conduct to justify potential rank reduction. The move represents systematic retaliation against military leaders who opposed Trump's political demands, including Milley's post-January 6 communications with China to prevent conflict and his criticism of Lafayette Square militarization. Senator Jack Reed criticized the decision as "unconscionable and recklessly negligent", highlighting the ongoing Iranian threats against Milley.

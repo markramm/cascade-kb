@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Ring
 - Amazon
@@ -37,7 +37,7 @@ tags:
 - privacy
 title: Ring announces partnerships with 400+ police departments, building massive surveillance network
 ---
-type: solidarity_event
+type: timeline_event
 
 Ring announced it had established partnerships with more than 400 police departments across the United States, marking the first time the company publicly disclosed the scale of its law enforcement surveillance network. The announcement revealed that since Amazon's 2018 acquisition, Ring had been rapidly expanding a program allowing police to request and access doorbell camera footage from residents, effectively building what civil liberties advocates called "the largest corporate-owned, civilian-installed surveillance network that the US has ever seen."
 

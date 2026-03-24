@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-17--pentagon-transfers-greenland-to-northcom
 date: '2025-06-17'
 title: Pentagon Transfers Greenland from European Command to Northern Command
@@ -26,6 +26,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump ordered the Pentagon to transfer Greenland from US European Command to US Northern Command, placing Pituffik Space Base under NORTHCOM jurisdiction. A Pentagon spokesperson stated the change would "strengthen the Joint Force's ability to defend the U.S. homeland." The military restructuring signaled that Greenland was now being treated as part of US homeland defense considerations rather than as allied European territory. Denmark and the Faroe Islands remained under EUCOM. The move was widely interpreted as a unilateral declaration that Greenland fell within the US sphere of control.

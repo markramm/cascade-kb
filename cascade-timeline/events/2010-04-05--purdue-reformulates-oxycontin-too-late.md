@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-04-05--purdue-reformulates-oxycontin-too-late
 title: Purdue Reformulates OxyContin as "Abuse-Deterrent" After 14 Years, Drives Users to Heroin
 date: '2010-04-05'
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 5, 2010, the FDA approved Purdue Pharma's reformulated OxyContin designed to make it more difficult to crush, snort, or inject—14 years after the original drug's launch and three years after the company's guilty plea to criminal misbranding. Purdue ceased shipping the old formulation on August 5, 2010, and began exclusively shipping the reformulated version on August 9, 2010.
 

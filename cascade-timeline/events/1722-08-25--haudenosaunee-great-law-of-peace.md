@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1722-08-25--haudenosaunee-great-law-of-peace
 date: '1722-08-25'
 title: 'Haudenosaunee Great Law of Peace: Indigenous Democratic Foundation'
@@ -39,6 +39,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Haudenosaunee Confederacy established a sophisticated democratic system predating the US Constitution, featuring consensus-based decision-making, checks on leadership power, and equal representation across member nations. Scholarly research by Donald A. Grinde and James Johansen suggests this system significantly influenced early American democratic principles, though academic debate continues about the precise extent of its impact on the U.S. Constitution.

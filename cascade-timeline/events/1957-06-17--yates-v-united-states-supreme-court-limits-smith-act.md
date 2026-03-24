@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1957-06-17--yates-v-united-states-supreme-court-limits-smith-act
 date: '1957-06-17'
 title: Yates v. United States Limits Smith Act Prosecutions, Supreme Court Begins Retreat from McCarthyism
@@ -59,7 +59,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On June 17, 1957, the Supreme Court issued three decisions that significantly limited McCarthyist overreach: Yates v. United States, Watkins v. United States, and Service v. Dulles. Known as "Red Monday" to conservative critics, these rulings began the judicial rollback of the security state that had flourished during the early Cold War.

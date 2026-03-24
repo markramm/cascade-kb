@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-20--secret-service-spending-trump-properties
 date: '2017-01-20'
 importance: 8
@@ -53,5 +53,5 @@ sources:
   verified: true
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 FOIA-released records compiled by watchdogs show the Secret Service spent nearly $2 million at Trump-owned properties while protecting the president and his family. A 2020 DHS OIG report on the Scotland trip documented specific Turnberry payments but noted incomplete cost capture due to system limitations—suggesting totals likely undercount. Congressional investigations revealed Secret Service was charged room rates well above government-approved standards, with at least 40 instances of excessive billing and over 11 stays at rooms costing more than $800 per night.

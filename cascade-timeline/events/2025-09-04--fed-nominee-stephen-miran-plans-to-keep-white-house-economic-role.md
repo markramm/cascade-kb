@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-04--fed-nominee-stephen-miran-plans-to-keep-white-house-economic-role
 date: '2025-09-04'
 title: Federal Reserve Nominee Plans Unprecedented Dual Role With White House
@@ -34,6 +34,6 @@ capture_lanes:
 - Regulatory Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Stephen Miran, President Trump's nominee for the Federal Reserve Board, announced he intends to maintain his position as White House economic adviser if confirmed, taking unpaid leave rather than resigning. This arrangement is unprecedented in Federal Reserve history, where governors have traditionally severed all ties with political positions to preserve the central bank's independence from executive branch influence. The dual role would allow Trump to maintain a direct channel into Fed deliberations while Miran simultaneously advises on White House economic policy. This conflicts with the Federal Reserve's statutory independence and the principle that monetary policy should be insulated from short-term political pressures. Combined with Trump's concurrent attempts to fire Fed Governor Lisa Cook, this represents a systematic assault on Federal Reserve independence.

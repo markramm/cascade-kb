@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-12-29--ghislaine-maxwell-convicted-trafficking
 date: '2021-12-29'
 title: Ghislaine Maxwell Convicted on Federal Sex Trafficking Charges
@@ -36,6 +36,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Ghislaine Maxwell is convicted on five of six federal charges including sex trafficking of minors and conspiracy, in connection with Jeffrey Epstein's abuse network. The trial revealed extensive details about the systematic recruitment and abuse of minors, but many documents and witness testimonies remained sealed or redacted, limiting public understanding of the full scope of institutional connections.

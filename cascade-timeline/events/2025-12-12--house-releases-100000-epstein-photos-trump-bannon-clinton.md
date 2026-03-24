@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-12--house-releases-100000-epstein-photos-trump-bannon-clinton
 date: '2025-12-12'
 title: House Committee Releases 100,000 Epstein Estate Photos Showing Trump, Bannon, Clinton, Gates
@@ -37,6 +37,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 House Oversight Committee Democrats released nearly 100,000 photos from Jeffrey Epstein's estate showing him with high-profile figures including Donald Trump (multiple photos from 1990s/2000s), Steve Bannon (sitting at desk with Epstein and a selfie in mirror), Bill Clinton (standing with Epstein and Ghislaine Maxwell in a signed photo), Bill Gates (multiple photos including one smiling with Prince Andrew), Alan Dershowitz, Woody Allen, Larry Summers, Richard Branson, Mick Jagger (sitting between Epstein and Clinton), Michael Jackson (next to Clinton), Kevin Spacey, Chris Tucker, and Prince Andrew. Trump dismissed the photos as "no big deal" and defended Clinton, saying "I don't like the pictures of Bill Clinton being shown."

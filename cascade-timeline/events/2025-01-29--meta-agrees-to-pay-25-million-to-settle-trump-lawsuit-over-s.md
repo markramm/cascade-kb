@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Mark Zuckerberg
@@ -45,5 +45,5 @@ tags:
 - first-amendment
 title: Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts
 ---
-type: solidarity_event
+type: timeline_event
 Meta settled a lawsuit brought by Donald Trump for $25 million over his social media account suspensions following the January 6 Capitol attack. Most of the settlement, approximately $22 million, will go to Trump's presidential library. Critics like Senator Elizabeth Warren view the settlement as a form of corporate appeasement.

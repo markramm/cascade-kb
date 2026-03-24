@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-08-14--trump-indicted-georgia-rico-fani-willis
 date: '2023-08-14'
 title: Fulton County DA Fani Willis Indicts Trump and 18 Co-Defendants on Georgia RICO Charges
@@ -49,7 +49,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Fulton County District Attorney Fani Willis announced a sweeping 98-page indictment charging former President Donald Trump and 18 co-defendants with violating Georgia's Racketeer Influenced and Corrupt Organizations (RICO) Act in a conspiracy to overturn the 2020 presidential election results in Georgia. The indictment represented the most comprehensive criminal case against Trump, charging him with 41 counts and detailing 161 criminal acts in what prosecutors described as a "criminal enterprise" to subvert democracy.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-29--doj-moves-to-drop-charges-against-former-gop-lawmaker-in-cas
 date: '2025-01-29'
 title: DOJ moves to drop charges against former GOP lawmaker in case criticized by Trump
@@ -46,6 +46,6 @@ capture_lanes:
 - Financial Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Justice Department, under the Trump administration, moved to dismiss criminal charges against former Representative Jeff Fortenberry (R-NE) in a case involving illegal campaign donations. The charges were dropped with prejudice, following Trump's public criticism of the prosecution as a 'witch hunt' against a conservative politician.

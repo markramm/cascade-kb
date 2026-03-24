@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-13--scotus-transgender-sports-oral-arguments
 date: '2026-01-13'
 status: confirmed
@@ -38,7 +38,7 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court heard more than three hours of oral arguments in consolidated cases Little v. Hecox (Idaho) and West Virginia v. B.P.J., challenging state laws categorically barring transgender girls and women from school sports. Questions from the Court's conservative majority indicated strong support for upholding the bans, with most justices appearing reluctant to find violations of either the Fourteenth Amendment's Equal Protection Clause or Title IX.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1999-02-12'
 title: Senate Acquits President Clinton on Both Impeachment Articles
 importance: 8
@@ -35,7 +35,7 @@ capture_lanes:
 - Legislative Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Senate votes to acquit President Bill Clinton on both articles of impeachment following a five-week trial. On the perjury charge (Article I), the Senate votes 45-55, with 45 Democrats and 10 Republicans voting "not guilty." On the obstruction of justice charge (Article II), the Senate splits 50-50, with all 45 Democrats and 5 Republicans voting "not guilty." Neither charge achieves even a simple majority, far short of the two-thirds supermajority (67 votes) required for conviction and removal from office.
 

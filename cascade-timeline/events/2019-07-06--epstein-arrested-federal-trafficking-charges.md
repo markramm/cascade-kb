@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-07-06--epstein-arrested-federal-trafficking-charges
 date: '2019-07-06'
 title: Jeffrey Epstein Arrested on Federal Sex Trafficking Charges
@@ -38,6 +38,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Jeffrey Epstein is arrested at Teterboro Airport on federal charges of sex trafficking minors and conspiracy. The arrest by the FBI and NYPD comes after a joint investigation by the Southern District of New York, effectively nullifying the controversial 2008 non-prosecution agreement. The indictment alleges a systematic pattern of abuse involving dozens of victims from 2002-2005.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1946-11-09--opc-price-control-termination-corporate-decontrol-campaign
 date: '1946-11-09'
 title: Price Controls End After Corporate Decontrol Campaign, Inflation Spikes
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Office of Price Administration effectively ends on November 9, 1946, when President Truman removes controls on most consumer goods following intense corporate lobbying and deliberate business disruption. The premature decontrol triggers an immediate inflationary spike that harms consumers while enriching corporations that had campaigned to end controls.
 

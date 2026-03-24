@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1887-10-27--sugar-trust-formation-havemeyer-monopoly
 date: '1887-10-27'
 title: 'Sugar Trust Formation: Henry Havemeyer Consolidates 75% of Sugar Refining'
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 27, 1887, after two years of negotiations, Henry Osborne Havemeyer orchestrated the formation of the Sugar Refineries Company, commonly known as the "Sugar Trust," consolidating 17 of the 23 sugar refinery companies operating in the United States. Havemeyer successfully combined nine local refineries in Brooklyn along with eleven others nationwide, creating a trust responsible for refining 75% of the nation's sugar. The consolidation responded to harsh economic conditions in which refineries operated below capacity and smaller, less efficient operations failed—conditions that Havemeyer exploited to justify monopolistic consolidation as industrial "rationalization."
 

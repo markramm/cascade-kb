@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--justin-sun-white-house-crypto-dinner
 date: '2025-01-20'
 importance: 8
@@ -43,6 +43,6 @@ sources:
   tier: 1
 notes: Sen. Richard Blumenthal called this "an unprecedented, pay-to-play scheme to provide access to the presidency to the highest bidder." Bloomberg analysis showed most top $TRUMP holders used foreign exchanges off-limits to US residents. The Trump family directly earned up to $56 million from Sun's investment through their 75% fee structure. SEC mysteriously paused fraud case after Sun's investment, suggesting quid pro quo.
 ---
-type: solidarity_event
+type: timeline_event
 
 Chinese crypto billionaire Justin Sun invested $75 million in Trump's World Liberty Financial (75% of proceeds go to Trump family as fees, netting them ~$56 million) and over $20 million in $TRUMP memecoin, totaling $93+ million in Trump crypto ventures. Sun attended a May 2025 black-tie gala at Trump's Virginia golf club where he received a $100,000 Trump Golden Tourbillon watch. The SEC paused its 2023 fraud charges against Sun after his investment announcement.

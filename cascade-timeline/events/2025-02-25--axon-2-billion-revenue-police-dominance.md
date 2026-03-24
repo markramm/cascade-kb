@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-25--axon-2-billion-revenue-police-dominance
 date: '2025-02-25'
 title: Axon Reports $2.1 Billion Revenue for 2024, Achieving Third Consecutive Year of 30%+ Growth Through Subscription Lock-In Model
@@ -36,7 +36,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 25, 2025, Axon Enterprise reported 2024 annual revenue of $2.1 billion, representing 33% year-over-year growth and marking the company's third consecutive year exceeding 30% revenue expansion. The financial results demonstrated the extraordinary profitability of Axon's subscription-based business model, with Cloud & Services revenue growing 44% to $806 million and annual recurring revenue (ARR) reaching $1.0 billion—a 37% increase from 2023. By Q2 2025, ARR had grown to $1.2 billion, with 95% of total revenue tied to customers on subscription plans and 75% of subscription revenue coming from software services over typical five-year contract terms. The results confirmed Axon's transformation from a stun gun manufacturer into a comprehensive police surveillance platform provider, with Evidence.com cloud storage and AI-powered analysis tools generating higher margins and stronger customer lock-in than hardware sales.
 

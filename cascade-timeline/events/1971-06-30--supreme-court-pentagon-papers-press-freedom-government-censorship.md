@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1971-06-30--supreme-court-pentagon-papers-press-freedom-government-censorship
 date: '1971-06-30'
 title: Supreme Court Rules 6-3 for Press Freedom in Pentagon Papers Case - Rejects Nixon Administration Prior Restraint Attempt
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court decides 6-3 in New York Times Co. v. United States that the Nixon administration cannot prevent newspapers from publishing the Pentagon Papers, marking the first time in American history a publication was temporarily halted due to national security concerns. A federal judge in New York had issued a restraining order against the Times on June 18, and when the Washington Post began publishing its own Pentagon Papers series the same day, Assistant U.S. Attorney General William Rehnquist demanded the Post cease publication and sought an injunction.
 

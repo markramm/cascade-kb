@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1953-08-13--eo-10479-weak-contract-discrimination-rules
 date: '1953-08-13'
 title: Eisenhower Executive Order 10479 Creates Committee on Government Contracts, Weak Anti-Discrimination Enforcement
@@ -38,7 +38,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 13, 1953, President Eisenhower signed Executive Order 10479, establishing the President's Committee on Government Contracts under Vice President Richard Nixon's chairmanship. The committee was charged with ensuring that federal contractors did not discriminate in employment, but its reliance on voluntary compliance and lack of enforcement power made it largely ineffective—a pattern of symbolic civil rights action without substantive enforcement that characterized the Eisenhower approach.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-04-28--trump-dpa-meat-plants-open-industry-drafted-order
 date: '2020-04-28'
 title: Meatpacking Industry Drafts Its Own DPA Executive Order Forcing Plants Open Despite Worker Deaths
@@ -39,7 +39,7 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 28, 2020, President Trump signed an executive order invoking the Defense Production Act to classify meatpacking plants as critical infrastructure and order them to remain open, even as COVID-19 tore through facilities at catastrophic rates. What made this order extraordinary was not just its content but its authorship: subsequent investigations by ProPublica and the House Select Subcommittee on the Coronavirus Crisis revealed that the executive order had been substantially drafted by lawyers and lobbyists for the meatpacking industry itself, including representatives of Tyson Foods, JBS USA, Smithfield Foods, and Cargill. The industry had lobbied the White House and the U.S. Department of Agriculture aggressively, framing plant closures as a threat to the national food supply while simultaneously fighting to avoid mandatory safety protocols that would have slowed production lines.
 

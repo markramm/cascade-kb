@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-11-18--jack-smith-appointed-special-counsel
 date: '2022-11-18'
 importance: 8
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Merrick Garland appointed Jack Smith as Special Counsel to oversee DOJ's
 criminal investigations of Donald Trump, three days after Trump announced his 2024

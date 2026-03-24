@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-09-28--powell-memo-leaked-public-corporate-blueprint-exposed
 date: '1972-09-28'
 importance: 8
@@ -39,6 +39,6 @@ sources:
 notes: The memo was leaked just over a year after Powell wrote it, and nine months after he joined the Supreme Court. The public exposure revealed the systematic corporate strategy for institutional capture that was already being implemented through Heritage Foundation and other initiatives. Anderson's syndicated column "Washington Merry Go Round" broke the story on September 28-29, 1972.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Syndicated columnist Jack Anderson publishes the confidential Powell Memo in his "Washington Merry Go Round" column, exposing Lewis Powell's August 1971 corporate blueprint for institutional capture to public scrutiny. The leak occurs over a year after Powell wrote the memo and nine months after his confirmation to the Supreme Court, revealing the systematic strategy behind the emerging conservative movement. The memo's public exposure shows Powell's call for business to acquire "political power" and use it "aggressively," his identification of the judiciary as "the most important instrument for social, economic and political change," and his detailed plan for corporate infiltration of universities, media, and political institutions. By the time of the leak, the blueprint is already being implemented: the Business Roundtable was established in December 1972, Heritage Foundation would be founded in February 1973, and corporate mobilization is accelerating. The exposure validates concerns about coordinated corporate political strategy while simultaneously demonstrating the effectiveness of Powell's blueprint, as the infrastructure he advocated continues to be built despite public knowledge of the plan.

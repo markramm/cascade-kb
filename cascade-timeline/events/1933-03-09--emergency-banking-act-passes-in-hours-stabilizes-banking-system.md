@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1933-03-09--emergency-banking-act-passes-in-hours-stabilizes-banking-system
 date: '1933-03-09'
 title: Emergency Banking Act Passes in Eight Hours to Stabilize Collapsing Banking System
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 9, 1933, just five days after Franklin Roosevelt's inauguration and three days after his declaration of a national bank holiday, Congress passes the Emergency Banking Act in a mere eight hours—many members voting without even reading the legislation. The act grants the President sweeping powers over banking, authorizes the Treasury to issue emergency currency, and establishes a framework for reopening banks deemed solvent by federal examiners. The legislation marks the beginning of the New Deal's rapid response to the Great Depression and represents the most significant emergency intervention in American financial history to that point.
 

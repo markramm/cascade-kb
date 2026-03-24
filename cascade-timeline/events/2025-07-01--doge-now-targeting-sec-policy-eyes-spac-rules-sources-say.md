@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -45,5 +45,5 @@ tags:
 - trump-administration
 title: DOGE Pushes SEC to Loosen Wall Street Regulations on SPACs and Reporting
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Government Efficiency (DOGE) under the Trump administration is seeking to loosen SEC regulations on Special Purpose Acquisition Companies (SPACs) and confidential reporting requirements, representing a significant deregulatory push that could impact investor protections and financial market oversight.

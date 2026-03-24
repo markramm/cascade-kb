@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-08-09--night-before-epstein-death-cellmate-removed-camera
 date: '2019-08-09'
 importance: 9
@@ -36,6 +36,6 @@ notes: The systematic failure of multiple security protocols on the same night r
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On the night before Jeffrey Epstein's death, his cellmate was mysteriously removed from his cell, surveillance cameras would malfunction during critical hours, and guards assigned to monitor him would fall asleep during their shifts. These 'coincidences' created the perfect conditions for what would be ruled a suicide the following morning.

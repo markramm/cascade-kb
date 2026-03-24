@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--trump-350-million-crypto-revenue
 date: '2025-03-01'
 importance: 6
@@ -35,6 +35,6 @@ sources:
 notes: Twenty-eight ghost wallets among top purchasers remain virtually untraceable
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Financial Times analysis finds Trump's crypto projects netted $350 million through March 2025, with $314 million from direct sales and $36 million in fees, while roughly half of top TRUMP holders received coins from exchanges rejecting U.S. customers.

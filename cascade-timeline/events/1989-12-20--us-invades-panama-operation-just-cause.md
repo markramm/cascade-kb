@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1989-12-20--us-invades-panama-operation-just-cause
 date: 1989-12-20
 title: U.S. Invades Panama to Capture Former CIA Asset Manuel Noriega
@@ -35,7 +35,7 @@ capture_lanes:
 - Military-Industrial Complex
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 The United States launches Operation Just Cause, deploying nearly 26,000 combat troops in the largest and most complex military operation since the Vietnam War to capture Panamanian dictator Manuel Noriega. The invasion targets two dozen locations throughout Panama in a massive show of force designed to apprehend a former CIA asset turned liability who had been indicted by U.S. federal grand juries in Miami and Tampa on drug trafficking, racketeering, and money laundering charges in 1988.
 

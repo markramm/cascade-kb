@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1874-07-02--custer-black-hills-expedition-treaty-violation
 date: '1874-07-02'
 title: Custer's Black Hills Expedition Violates Fort Laramie Treaty, Discovering Gold and Triggering Rush to Sioux Sacred Lands
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Lieutenant Colonel George Armstrong Custer leads a 1,000-man military expedition into the Black Hills of South Dakota in direct violation of the 1868 Fort Laramie Treaty, which guaranteed the Sioux Nation "absolute and undisturbed use and occupancy" of all land west of the Missouri River including the sacred Black Hills (Paha Sapa). Operating under U.S. government orders ostensibly to find a location for a military post, Custer's expedition is accompanied by miners and prospectors—revealing the true purpose of violating Sioux treaty rights to explore for mineral wealth. The Black Hills hold profound spiritual significance for the Lakota, Nakota, and Dakota peoples as the sacred center of their world and the birthplace of their nation, making the military intrusion not merely a legal violation but a desecration of the Sioux's most holy lands. The expedition represents a deliberate choice by the federal government to ignore its treaty obligations when economic interests (gold speculation) and military expansion goals override legal commitments to Indigenous sovereignty, demonstrating the pattern where U.S. treaties with Native nations remain in force only as long as they serve white interests.
 

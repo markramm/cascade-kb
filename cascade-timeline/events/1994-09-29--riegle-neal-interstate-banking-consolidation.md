@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1994-09-29--riegle-neal-interstate-banking-consolidation
 date: '1994-09-29'
 title: Riegle-Neal Act Enables Nationwide Bank Consolidation, Mortgage Market Transformation
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Clinton signs the Riegle-Neal Interstate Banking and Branching Efficiency Act, removing Depression-era restrictions that prevented banks from operating across state lines. The law enables massive consolidation in the banking industry, with the number of commercial banks declining from over 10,000 to fewer than 5,000 over the following two decades. This concentration fundamentally transforms mortgage lending and housing finance.
 

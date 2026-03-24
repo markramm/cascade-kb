@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-16--elon-musk-focuses-donations-on-gop-lawmakers-targeting-judge
 date: '2025-04-16'
 title: Elon Musk Donates to GOP Lawmakers Targeting Judicial Oversight
@@ -48,5 +48,5 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Elon Musk donated maximum campaign contributions of $6,600 to at least seven Republican lawmakers who have publicly called for impeaching or limiting the power of federal judges blocking his government efficiency initiatives. Recipients included Representatives Eli Crane, Lauren Boebert, Andy Ogles, Andrew Clyde, Derrick Van Orden, Brandon Gill, and Senator Chuck Grassley.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-04-01--heritage-foundation-launches-project-2025-initiati
 date: '2023-04-01'
 importance: 8
@@ -72,5 +72,5 @@ fallout_indicators:
 - constitutional crisis
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Heritage Foundation launched $22 million "2025 Presidential Transition Project" published April 2023, bringing together 140+ former Trump staffers and 100+ conservative organizations. Created 920-page "Mandate for Leadership" blueprint, LinkedIn-style personnel database, Presidential Administration Academy training, and 180-day action playbook. Authors include Trump officials Russ Vought (OMB), Chris Miller (Defense), and Stephen Miller.

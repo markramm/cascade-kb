@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-09--trump-debanking-order-guts-cfpb
 date: '2025-09-09'
 title: Trump Signs Anti-Debanking Order While Gutting Agency That Could Investigate It
@@ -31,6 +31,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed an executive order against 'politicized debanking' while simultaneously gutting the Consumer Financial Protection Bureau—the only federal agency equipped to investigate such claims. Most CFPB staff have been purged since Trump took office, and active investigations into banks like JPMorgan and Citibank have been halted. The executive order creates political theater around unproven claims of conservatives being denied banking services, while eliminating the regulatory capacity to actually investigate financial discrimination. This follows a pattern where Trump dismantles enforcement agencies while issuing symbolic orders that cannot be implemented, creating the appearance of action while actually reducing accountability for financial institutions. The timing suggests the order is designed to benefit Trump's own cryptocurrency ventures and provide cover for banks that might refuse services to political enemies while facing no consequences for discriminatory practices.

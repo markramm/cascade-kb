@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-08-08--maui-wildfires-water-diversion-disaster-capitalism
 date: '2023-08-08'
 title: Maui Wildfires Kill Over 100 as Corporate Water Diversions and Land Development Create Tinderbox; Governor Suspends Native Water Rights After Disaster
@@ -56,7 +56,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On August 8, 2023, massive wildfires rage through Lahaina in West Maui, killing at least 100 people in the deadliest wildfire event in the United States in more than a century. The fires destroy thousands of homes and businesses in the historic town, reducing what was once a vibrant wetland community central to Native Hawaiian culture to charred ruins. The catastrophe is not a natural disaster but rather the predictable consequence of more than a century of water and land mismanagement driven by colonial plantation agriculture and modern land development interests. Excessive water diversions by sugar plantations and land developers transformed Lahaina from the "Venice of the Pacific"—a productive wetland community with abundant streams and agriculture—into a desert overrun by dry invasive grasses. Combined with drought worsened by climate change, these corporate-driven water diversions created a tinderbox that ignited with devastating results.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-08--habba-resigns-us-attorney-new-jersey
 date: 2025-12-08
 title: Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
@@ -47,7 +47,7 @@ capture_lanes:
 - Judicial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Alina Habba resigned as acting U.S. attorney for the District of New Jersey on December 8, 2025, one week after the Third Circuit Court of Appeals unanimously ruled her appointment violated the Federal Vacancies Reform Act. The three-judge panel found that Attorney General Pam Bondi unlawfully attempted to circumvent Senate confirmation requirements through a "delegation theory" that would allow anyone to fill U.S. Attorney roles indefinitely. Habba, who served as Trump's personal attorney before her March 2025 interim appointment, immediately became Senior Advisor to Attorney General Bondi for United States Attorneys despite never receiving Senate consideration for her nomination.
 

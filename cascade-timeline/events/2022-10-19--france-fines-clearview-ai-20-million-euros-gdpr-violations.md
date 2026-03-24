@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-10-19--france-fines-clearview-ai-20-million-euros-gdpr-violations
 date: '2022-10-19'
 title: France Fines Clearview AI €20 Million for GDPR Violations and Unlawful Biometric Surveillance
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 France's data protection authority (CNIL) imposed a €20 million fine on Clearview AI - the maximum penalty allowed under GDPR Article 83 - for unlawful processing of biometric data through its facial recognition technology. The CNIL found that Clearview had collected over 20 billion images worldwide and violated multiple GDPR provisions by processing personal data without a legal basis, failing to respect individuals' rights to access and erasure of their data, and refusing to cooperate with the CNIL investigation.
 

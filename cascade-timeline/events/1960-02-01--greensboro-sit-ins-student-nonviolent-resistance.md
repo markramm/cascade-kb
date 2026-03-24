@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1960-02-01--greensboro-sit-ins-student-nonviolent-resistance
 date: '1960-02-01'
 title: Greensboro Four Launch Sit-In Movement at Woolworth Lunch Counter Challenging Segregation
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 1, 1960, at 4:30 PM, four African American freshmen from North Carolina Agricultural and Technical State University—Ezell Blair Jr., David Richmond, Franklin McCain, and Joseph McNeil—sat down at the whites-only lunch counter at the F.W. Woolworth Company store in Greensboro, North Carolina, and requested service. When denied, they remained seated until the store closed, launching a sit-in movement that would spread across the South and fundamentally transform the civil rights struggle. The students, who became known as the Greensboro Four, had meticulously planned their action with the help of Ralph Johns, a local white businessman sympathetic to their cause, and were influenced by the nonviolent protest techniques of Mohandas Gandhi and earlier civil rights actions.
 

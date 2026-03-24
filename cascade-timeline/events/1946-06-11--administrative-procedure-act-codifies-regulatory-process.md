@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1946-06-11--administrative-procedure-act-codifies-regulatory-process
 date: '1946-06-11'
 title: Administrative Procedure Act Codifies Regulatory Process, Creates Industry Capture Opportunities
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Administrative Procedure Act (APA) on June 11, 1946, establishing uniform procedures for federal agency rulemaking and adjudication. While ostensibly designed to ensure fairness and public participation, the APA creates structural opportunities for well-resourced interests to dominate regulatory processes through notice-and-comment rulemaking, judicial review, and procedural requirements that favor those with legal and technical expertise.
 

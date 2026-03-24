@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-04-06--sessions-announces-zero-tolerance-family-separation
 date: '2018-04-06'
 title: Jeff Sessions Announces "Zero Tolerance" Policy Designed to Separate Families
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy for unauthorized border crossings that was explicitly designed to separate children from their parents as a deterrent to asylum seekers and migrants. The policy marked a deliberate escalation from targeted enforcement to systematic family separation, implementing what human rights organizations would condemn as government-sanctioned child abuse.
 

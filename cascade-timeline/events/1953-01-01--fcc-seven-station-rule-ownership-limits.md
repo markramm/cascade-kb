@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1953-01-01--fcc-seven-station-rule-ownership-limits
 date: '1953-01-01'
 title: FCC Adopts Seven-Station Rule Limiting Broadcast Ownership to Prevent Media Monopoly and Ensure Viewpoint Diversity
@@ -73,7 +73,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Federal Communications Commission formally adopts the "seven-station rule" (Report and Order in Docket No. 8967, 18 F.C.C. 288) establishing that no single entity may own more than seven AM radio stations, seven FM radio stations, and seven television stations nationwide, with the television limit further restricted to no more than five VHF (Very High Frequency) stations. The rule codifies the FCC's "consistent adherence to the principle of 'diversification' in order to implement the Congressional policy against monopoly and in order to preserve competition," creating enforceable limits on broadcast media concentration to ensure diverse ownership and viewpoints.

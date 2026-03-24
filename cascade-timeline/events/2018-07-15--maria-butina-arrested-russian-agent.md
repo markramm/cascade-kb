@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-15--maria-butina-arrested-russian-agent
 date: '2018-07-15'
 title: FBI Arrests Maria Butina for Conspiring to Act as Russian Agent to Infiltrate Conservative Organizations
@@ -41,7 +41,7 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The FBI arrested Maria Butina in Washington, D.C. on July 15, 2018, charging her with acting in the United States as an agent of the Russian government without prior notification to the Attorney General, and conspiracy to commit an offense against the United States. The arrest came after an 18-month investigation into her activities. The criminal complaint was publicly unsealed on July 16, 2018.
 

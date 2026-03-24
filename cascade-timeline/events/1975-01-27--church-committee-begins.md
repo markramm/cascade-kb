@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1975-01-27--church-committee-begins
 date: '1975-01-27'
 importance: 6
@@ -62,6 +62,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Senate voted 82-to-4 on January 27, 1975 to form the Select Committee to Study Governmental Operations with Respect to Intelligence Activities, chaired by Senator Frank Church of Idaho. Created after Seymour Hersh's December 1974 NYT revelations about CIA assassination attempts, the committee exposed decades of illegal activities including NSA's Project Shamrock (copying telegrams since 1947), Project Minaret (monitoring MLK, Muhammad Ali, even Church himself), Operation MKULTRA (drugging/torturing citizens), and HTLINGUAL (opening 215,000+ pieces of mail). The committee's April 1976 six-book report triggered reforms including FISA (1978) and permanent oversight, inadvertently creating opportunities for private intelligence firms.

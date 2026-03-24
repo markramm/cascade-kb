@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-07--trump-fair-banking-debanking-executive-order
 date: '2025-08-07'
 title: Trump Signs Executive Order Prohibiting 'Debanking' Based on Political Views
@@ -31,7 +31,7 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed an executive order titled 'Guaranteeing Fair Banking for All Americans' directing federal financial regulators to combat alleged 'debanking'—the denial or termination of financial services based on political considerations. The order requires agencies to investigate and remedy instances where banks allegedly discriminated against customers based on their political affiliations or viewpoints.
 

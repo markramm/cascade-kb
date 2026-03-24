@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-03--iran-drones-strike-us-embassy-riyadh
 date: '2026-03-03'
 title: Iranian Drones Strike U.S. Embassy in Riyadh as War Spreads Across Middle East
@@ -51,7 +51,7 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 3, 2026, Iranian drones struck the U.S. Embassy compound in Riyadh, Saudi Arabia, in one of the most significant escalations since Operation Epic Fury began on February 28. Two suspected Iranian drones hit the embassy compound, causing minor material damage. The building was empty at the time of the attack and no embassy staff casualties were reported, though the strike demonstrated Iran's ability and intent to strike American diplomatic facilities in allied Gulf states.
 

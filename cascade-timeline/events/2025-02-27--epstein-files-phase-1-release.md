@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-27--epstein-files-phase-1-release
 date: '2025-02-27'
 importance: 7
@@ -57,6 +57,6 @@ fallout_indicators:
 - political scandal
 - obstruction of justice
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration staged a theatrical "Phase 1" release on February 27, 2025, inviting right-wing influencers to the White House to receive binders, though these contained mostly previously leaked materials rather than new revelations.

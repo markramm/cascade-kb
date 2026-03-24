@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--comer-subpoenas-bondi-epstein-deposition
 date: '2026-03-17'
 title: House Oversight Chairman Comer Subpoenas AG Bondi for Sworn Deposition on Epstein Files
@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, House Oversight Committee Chairman James Comer issued a subpoena requiring Attorney General Pam Bondi to appear for a sworn deposition on April 14 regarding the Department of Justice's handling of Jeffrey Epstein case files. The subpoena represented a significant escalation by the Republican chairman, who had grown increasingly frustrated with DOJ's refusal to provide transparent accounting of the Epstein-related documents.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1917-06-08--speculator-mine-fire-kills-168-triggers-butte-strike-repression
 date: '1917-06-08'
 title: "Speculator Mine Fire Kills 168 Workers: Anaconda Safety Failures Trigger Butte Strike and Repression"
@@ -33,7 +33,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 8, 1917, a fire broke out 2,400 feet underground in Butte, Montana's Speculator Mine when an assistant foreman's carbide lamp ignited the frayed insulation on an electrical cable. The fire spread rapidly through the mine's timber supports and ventilation system, trapping hundreds of workers. 168 miners died, making it the deadliest hard-rock mining disaster in American history.
 

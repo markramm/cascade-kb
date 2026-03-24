@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-22--ice-no-warrant-memo-revealed-whistleblower
 date: '2026-01-22'
 title: Whistleblowers Reveal Secret ICE Memo Authorizing Agents to Enter Homes Without Judicial Warrants
@@ -44,7 +44,7 @@ capture_lanes:
 - Democratic Erosion
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Two anonymous ICE employees disclosed to Congress an internal DHS memo by acting ICE head Todd Lyons authorizing immigration agents to forcibly enter homes using only administrative warrants signed by ICE officials, bypassing the constitutional requirement for judicial warrants. The Associated Press first reported on the whistleblower disclosure, revealing a sharp reversal of decades of guidance meant to respect Fourth Amendment limits on government searches.
 

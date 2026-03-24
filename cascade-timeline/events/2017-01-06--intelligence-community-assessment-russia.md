@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-06--intelligence-community-assessment-russia
 date: 2017-01-06
 title: Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
@@ -46,7 +46,7 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 6, 2017, the U.S. Intelligence Community released a comprehensive assessment concluding that Russian President Vladimir Putin personally ordered an extensive influence campaign aimed at undermining the 2016 U.S. presidential election. The Intelligence Community Assessment (ICA), titled "Assessing Russian Activities and Intentions in Recent US Elections," represented a unified conclusion from the CIA, FBI, and NSA that Russia conducted an unprecedented cyber and propaganda operation designed to harm Hillary Clinton's candidacy and help Donald Trump win the presidency. The report marked the first official government determination that a foreign adversary had actively intervened in an American presidential election with the explicit goal of determining the outcome.
 

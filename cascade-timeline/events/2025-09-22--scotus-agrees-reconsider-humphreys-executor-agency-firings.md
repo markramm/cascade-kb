@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-22--scotus-agrees-reconsider-humphreys-executor-agency-firings
 date: '2025-09-22'
 title: Supreme Court Agrees to Reconsider Humphrey's Executor, Review Trump's Power to Fire Agency Heads
@@ -36,7 +36,7 @@ capture_lanes:
 - Environmental Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court agreed to hear a rush appeal deciding whether President Trump acted lawfully in firing board members leading independent federal agencies, setting up oral arguments for December 2025. The case will reconsider the landmark 1935 precedent Humphrey's Executor v. United States, which established that Congress can require presidents to show cause before dismissing board members overseeing independent agencies.
 

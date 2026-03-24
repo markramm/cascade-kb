@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-04--pope-leo-xiv-ice-clergy-access
 date: '2025-11-04'
 title: Pope Leo XIV Calls for ICE to Allow Clergy Access to Detained Migrants
@@ -49,7 +49,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Pope Leo XIV issued a direct challenge to U.S. Immigration and Customs Enforcement on November 4, 2025, calling on ICE authorities to allow pastoral workers and clergy to minister to detained migrants. Speaking from Castel Gandolfo, the papal summer residence, Pope Leo XIV stated he "would certainly invite the authorities to allow pastoral workers to attend to the needs" of migrants in ICE detention, while calling for "deep reflection" on the broader treatment of detained immigrants. The statement came amid growing controversy over ICE's denial of religious access at multiple detention facilities, most notably the Broadview ICE Processing Center near Chicago—the Pope's hometown.
 

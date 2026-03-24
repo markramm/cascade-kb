@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-04-09--amazon-defeats-bessemer-union-vote-1798-to-738
 date: 2021-04-09
 title: Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
@@ -36,7 +36,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
 

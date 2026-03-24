@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-28--trump-announces-permanent-pause-third-world-immigration
 date: '2025-11-28'
 title: Trump Announces 'Permanent Pause' on Immigration from 'Third World Countries' Using Racist Terminology
@@ -48,7 +48,7 @@ capture_lanes:
 - Civil Rights Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On Thanksgiving Day, November 28, 2025, President Donald Trump announced on Truth Social his intention to "permanently pause migration from all Third World Countries" in response to the National Guard shooting two days earlier. The announcement, using terminology widely considered outdated and racist by international institutions and scholars, represented the most sweeping immigration ban in modern American history. Trump's post declared: "I will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover," adding that "Only REVERSE MIGRATION can fully cure this situation." The statement threatened to revoke citizenship from naturalized migrants deemed to "undermine domestic tranquility" and deport foreign nationals considered "non-compatible with Western Civilization."
 

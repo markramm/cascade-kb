@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-22--homan-fbi-sting-case-closed-patel-blanche
 date: '2025-09-22'
 title: "DOJ Closes Homan FBI Sting Case Despite Recorded $50K Cash Exchange"
@@ -50,7 +50,7 @@ capture_lanes:
 - Kleptocratic Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI Director Kash Patel and Deputy Attorney General Todd Blanche issued a joint statement closing the FBI investigation into Border Czar Tom Homan, citing "no credible evidence" of criminal conduct.
 

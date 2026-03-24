@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-08-01--north-carolina-redistricting-racial-gerrymander-unconstitutional
 date: 2017-08-01
 title: Courts Strike Down North Carolina Racial Gerrymandering, Legislature Redraws With Explicit Partisan Intent
@@ -37,7 +37,7 @@ capture_lanes:
 - Electoral Manipulation
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Federal courts strike down North Carolina's 2011 legislative redistricting as unconstitutional racial gerrymandering, finding that Republican lawmakers illegally packed African American voters into 28 districts. In response, the Republican-controlled legislature redraws the maps with explicit partisan rather than racial criteria—openly admitting the goal is to maximize Republican seats regardless of voter preferences.
 

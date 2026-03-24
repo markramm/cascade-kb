@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-31--bolton-manuscript-reveals-trump-confession
 date: 2020-01-31
 title: Bolton Book Manuscript Reveals Trump Directly Tied Ukraine Aid to Biden Investigation
@@ -37,7 +37,7 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times obtained portions of former National Security Advisor John Bolton's unpublished book manuscript on January 26, 2020, revealing that President Trump explicitly told Bolton in August 2019 that he wanted to continue freezing military aid to Ukraine until Ukrainian officials announced investigations into Joe Biden and his son Hunter. The timing was explosive—the revelation came in the middle of Trump's Senate impeachment trial, just days before senators would vote on whether to call Bolton as a witness. Bolton's account provided direct, first-hand testimony from Trump's longest-serving National Security Advisor that Trump tied official acts to personal political favors—the precise abuse of power at the heart of the impeachment.
 

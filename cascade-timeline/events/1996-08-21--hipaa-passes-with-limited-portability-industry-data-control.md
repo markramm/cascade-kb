@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-08-21--hipaa-passes-with-limited-portability-industry-data-control
 date: '1996-08-21'
 title: HIPAA Passes with Limited Portability Protections While Granting Healthcare Industry Control Over Patient Data
@@ -37,7 +37,7 @@ capture_lanes:
 - Digital & Tech Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Clinton signs the Health Insurance Portability and Accountability Act (HIPAA), bipartisan legislation that ostensibly addresses insurance portability between jobs but creates a regulatory framework that permits extensive healthcare industry data sharing while blocking more comprehensive reform. The law's limited portability provisions fail to address the fundamental problems of the uninsured while establishing privacy rules that primarily protect industry data practices rather than patient interests.
 

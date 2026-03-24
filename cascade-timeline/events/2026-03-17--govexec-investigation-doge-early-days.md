@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--govexec-investigation-doge-early-days
 date: '2026-03-17'
 title: Government Executive Investigation Reveals DOGE Staffers Fabricated White House Pressure
@@ -31,7 +31,7 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Government Executive published a sweeping investigative report based on 23 hours of court testimony from depositions of DOGE personnel involved in the cancellation of National Endowment for the Humanities grants. The investigation revealed that DOGE staffers had fabricated claims of White House pressure to coerce NEH leadership into complying with their demands — a finding that transformed questions about DOGE's competence into questions about outright fraud.
 

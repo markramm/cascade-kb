@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-20--fda-commissioner-robert-califf-revolving-door-patter
 date: '2024-09-20'
 title: 'FDA Commissioner Califf''s Pharmaceutical Industry Revolving Door Scrutinized'
@@ -37,5 +37,5 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 FDA Commissioner Robert Califf faces ongoing criticism for his extensive pharmaceutical industry ties. Having received over $8 million from drug companies and worked as a consultant for major pharmaceutical firms, Califf pledged to extend post-employment restrictions from 2 to 4 years to mitigate 'revolving door' concerns. His connections include consulting roles with Merck, Biogen, Eli Lilly, and a leadership position at Verily Life Sciences (Alphabet).

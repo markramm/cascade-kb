@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - MGX sovereign fund
 - Tahnoun bin Zayed Al Nahyan
@@ -52,5 +52,5 @@ sources:
 status: confirmed
 notes: 'Massive foreign sovereign investment in Trump family crypto business, revealed at Dubai crypto conference'
 ---
-type: solidarity_event
+type: timeline_event
 At the Token2049 crypto conference in Dubai, World Liberty Financial (WLF) announced a landmark $2 billion investment from Abu Dhabi's MGX sovereign fund, using their USD1 stablecoin. The deal involves Binance and features Eric Trump and Zach Witkoff as key participants, highlighting complex intersections of foreign sovereign wealth, cryptocurrency, and Trump family business interests. USD1, launched in March 2025, became the seventh-largest stablecoin globally with a $2.125 billion market valuation.

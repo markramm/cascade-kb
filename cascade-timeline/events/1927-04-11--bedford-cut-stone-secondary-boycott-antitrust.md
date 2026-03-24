@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1927-04-11--bedford-cut-stone-secondary-boycott-antitrust
 date: '1927-04-11'
 title: Supreme Court Applies Antitrust Law to Union Secondary Boycotts in Bedford Cut Stone
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules that the Journeymen Stone Cutters Association of North America violated the Sherman Antitrust Act by declaring stone from Bedford Cut Stone Company and 23 other Indiana limestone producers "unfair" and prohibiting its 5,000 members from working on buildings using this stone. Justice George Sutherland, writing for the majority, holds that this "secondary boycott"—union members refusing to work on products from non-union companies—constitutes an illegal conspiracy to restrain interstate commerce. The case arises from a 1921 labor dispute in which Bedford-area producers refused to renew contracts with the union and organized an "independent union" at their plants, prompting the national union to invoke a constitutional provision forbidding members to work on stone "cut by men working in opposition to this association."
 

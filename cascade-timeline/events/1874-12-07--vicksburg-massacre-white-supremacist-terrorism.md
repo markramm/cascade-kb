@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1874-12-07--vicksburg-massacre-white-supremacist-terrorism
 date: '1874-12-07'
 title: 'Vicksburg Massacre: White League Kills 150-300 Black Citizens, Overthrows Sheriff'
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 An estimated 150-300 Black citizens and two white citizens are killed during the Vicksburg massacre, a coordinated campaign of white supremacist violence that begins on December 7, 1874, and continues until around January 5, 1875, in Vicksburg, Mississippi. The massacre follows the forced resignation at gunpoint of Peter Crosby, the county's Black sheriff and tax collector, and represents a systematic effort by the White League to destroy Black political and economic power in Warren County. When Black citizens march to the courthouse on December 7 seeking to reinstate Sheriff Crosby, armed white mobs open fire on the mostly unarmed group. White supremacist squads then roam the county for weeks shooting unarmed Black people and conducting door-to-door searches of Black homes to confiscate firearms.
 

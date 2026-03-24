@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-23--bipartisan-inspector-general-protections-enacted
 date: '2022-12-23'
 importance: 6
@@ -41,5 +41,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 Securing Inspector General Independence Act of 2022 enacted as part of NDAA, requiring 30-day advance notice to Congress before IG removal, limiting who can serve as Acting IG, and requiring explanation for failure to nominate replacement. Led by bipartisan coalition including Grassley, Peters, Collins, and Portman.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-28--vought-usaid-funds-security-detail
 date: '2026-01-28'
 status: confirmed
@@ -35,7 +35,7 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Office of Management and Budget began using millions of dollars from the dismantled U.S. Agency for International Development to pay for OMB Director Russell Vought's security detail, allocating $15 million of what remained of USAID operating expenses to cover the costs of his protection by the U.S. Marshals Service through the end of 2026. The allocation came after Vought played a lead role in gutting USAID, an organization that had managed $43 billion in appropriations and assisted 130 countries with disaster relief and economic development in fiscal year 2023.
 

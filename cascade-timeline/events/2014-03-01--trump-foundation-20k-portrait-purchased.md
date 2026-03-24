@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-03-01--trump-foundation-20k-portrait-purchased
 date: 2014-03-01
 title: Trump Foundation Buys $20,000 Portrait of Trump at Charity Auction, Hangs in Trump Golf Club
@@ -34,7 +34,7 @@ capture_lanes:
 - Systematic Corruption
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The Donald J. Trump Foundation spent $20,000 in charitable funds to purchase a portrait of Donald Trump painted by a speed-painter at a charity gala at Mar-a-Lago. The four-foot portrait, created during the event, was supposed to be sold with proceeds benefiting the charity hosting the auction. Instead, the Trump Foundation bid on and purchased the portrait, then displayed it at Trump National Golf Club in Doral, Florida, providing no charitable benefit while decorating Trump's for-profit business property with an image of himself purchased using charitable donations from others.
 

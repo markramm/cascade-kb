@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-06-07--38-studios-bankruptcy-rhode-island-taxpayers
 date: '2012-06-07'
 title: 38 Studios Files Chapter 7 Bankruptcy After $75 Million Rhode Island Loan Guarantee, Leaving Taxpayers with $38.6 Million Loss
@@ -48,7 +48,7 @@ sources:
   verified: true
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 7, 2012, 38 Studios LLC—the video game development company founded by former baseball star Curt Schilling—files for Chapter 7 bankruptcy with $151 million in debt and just $22 million in assets, leaving Rhode Island taxpayers to absorb $38.6 million in losses from a $75 million state loan guarantee. The bankruptcy filing follows 38 Studios' May 2012 default on its loan payment and failure to make payroll, culminating in the mass email termination of its entire 379-person workforce. Many employees had relocated to Rhode Island at significant personal expense based on the company's promises, only to lose their jobs without warning and without receiving final paychecks that wouldn't arrive until 2021—nine years later—after protracted bankruptcy proceedings.
 

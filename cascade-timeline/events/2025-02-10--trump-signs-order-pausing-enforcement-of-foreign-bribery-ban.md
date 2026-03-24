@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -47,5 +47,5 @@ tags:
 - corporate-accountability
 title: Trump signs order pausing enforcement of foreign bribery ban
 ---
-type: solidarity_event
+type: timeline_event
 In an unprecedented move, Trump signed an executive order suspending enforcement of the Foreign Corrupt Practices Act (FCPA), which has banned US firms from bribing foreign officials since 1977. The order mandates a 180-day review of existing investigations and establishes new guidelines that could dramatically reduce anti-bribery prosecutions.

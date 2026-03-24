@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-21--dhs-oversight-offices-mass-layoffs
 date: '2025-03-21'
 importance: 9
@@ -38,6 +38,6 @@ sources:
 notes: Senators warned eliminating CRCL would violate statutory requirements. Federal judge ordered offices must continue statutorily required functions. Cuts left offices unable to investigate civil rights violations or detention conditions.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS implemented a reduction in force eliminating over 300 employees across three oversight offices—the Office for Civil Rights and Civil Liberties (CRCL), Office of the Immigration Detention Ombudsman, and Office of the Citizenship and Immigration Services Ombudsman. Over 100 CRCL employees lost their jobs. DHS spokesperson called these statutorily-required offices "internal adversaries" that "obstructed immigration enforcement." The cuts occurred as 11 people died in ICE custody since FY2025 began. By May, only a handful of executives remained, unable to perform mandated oversight functions.

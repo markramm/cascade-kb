@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-01--alec-develops-big-lie-voter-suppression-models
 date: 2021-01-01
 title: 'ALEC Develops New Model Election Bills to Implement Trump''s "Big Lie"'
@@ -34,7 +34,7 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 and-spending-millions-to-pass-them/
   outlet: Salon
   tier: 1

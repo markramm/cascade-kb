@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1945-08-15--wwii-defense-contractors-peacetime-conversion-sustained-subsidies
 date: '1945-08-15'
 title: WWII Defense Contractors Convert to Peacetime Economy While Maintaining Pentagon Subsidies and Infrastructure
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Following Japan's surrender ending World War II, major defense contractors including Boeing, Lockheed, General Dynamics, and converted automotive manufacturers face the challenge of transitioning from massive wartime production to peacetime economy. The War Production Board, which directed $185 billion worth of armaments and supplies from 1942 to 1945, quickly lifts most production restrictions and is abolished on November 3, 1945, transferring remaining functions to the Civilian Production Administration. American aerospace industry produced over 300,000 military aircraft during WWII, with companies like Boeing increasing B-17 bomber production from 60 per month in 1942 to 362 per month in 1944 through focused industrial mobilization. This enormous productive capacity, built with massive federal investment and cost-plus contracts guaranteeing profits, represents infrastructure corporations seek to preserve.
 

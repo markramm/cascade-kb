@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-28--florida-sb-7066-poll-tax-amendment-4
 date: 2019-06-28
 title: Florida Legislature Enacts "Poll Tax" Requiring Payment of Fines to Undermine Amendment 4
@@ -42,7 +42,7 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Governor Ron DeSantis signs Senate Bill 7066 into law, requiring people with felony convictions to pay all fines, fees, court costs, and restitution before regaining voting rights—directly undermining the intent of Amendment 4, which Florida voters approved with 65% support just seven months earlier. Critics immediately denounce the law as a modern-day poll tax that creates a wealth-based barrier to voting rights restoration.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-27--trump-compels-gm-ventilator-production-dpa
 date: '2020-03-27'
 title: Trump Orders General Motors to Produce Ventilators Under DPA After Nine-Day Delay Costs Lives
@@ -34,7 +34,7 @@ capture_lanes:
 - Corporate Capture
 - Executive Power
 ---
-type: solidarity_event
+type: timeline_event
 
 Nine days after invoking the Defense Production Act without using its compulsory powers, President Trump finally issued a direct order on March 27, 2020, compelling General Motors to accept, perform, and prioritize federal contracts for ventilator production. The order came after a public spat between Trump and GM over pricing and delivery timelines, with Trump attacking the automaker on Twitter for demanding too much money and moving too slowly. Peter Navarro, serving as DPA policy coordinator, had been advocating for mandatory orders for days, but the White House had resisted until political pressure from governors, hospital systems, and mounting death tolls made further delay untenable. By the time the order was issued, New York City hospitals were already developing crisis standards of care and doctors were being forced to make triage decisions about which patients would receive ventilator support.
 

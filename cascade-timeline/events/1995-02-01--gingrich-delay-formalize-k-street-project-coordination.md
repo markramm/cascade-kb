@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1995-02-01--gingrich-delay-formalize-k-street-project-coordination
 date: '1995-02-01'
 title: Gingrich-DeLay Formalize K Street Project Coordination Structure
@@ -50,5 +50,5 @@ validation_metadata:
   validator_id: qa-v2-833
   validation_quality_score: 9.2
 ---
-type: solidarity_event
+type: timeline_event
 In February 1995, Speaker Newt Gingrich and Majority Whip Tom DeLay formalized the K Street Project, a systematic strategy to transform Washington lobbying by pressuring firms to hire Republicans and limit Democratic influence. By 2003, this approach ensured that 33 of 36 top lobbying positions were held by Republicans, fundamentally reshaping the political influence landscape.

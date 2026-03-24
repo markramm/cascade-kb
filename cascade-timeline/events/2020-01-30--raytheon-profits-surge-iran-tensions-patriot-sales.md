@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-01-30--raytheon-profits-surge-iran-tensions-patriot-sales
 date: '2020-01-30'
 title: Raytheon Profits Surge on Iran War Fears, CEO Cites Strong International Patriot Missile Demand
@@ -39,7 +39,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 30, 2020, Raytheon reported better-than-expected quarterly profits driven by surging international weapons demand, with company executives explicitly citing US-Iran tensions as a growth driver. The earnings announcement came just weeks after the January 3, 2020 US drone strike killing Iranian General Qasem Soleimani and Iran's retaliatory missile attack on US bases in Iraq, events that escalated fears of broader US-Iran military conflict. Raytheon CEO Greg Hayes told investors that the company expected "solid growth" in Middle East sales, with integrated defense systems unit sales rising 17.6% to $1.98 billion, boosted by two international missile defense orders received in the third quarter. The company booked Patriot missile defense system contracts worth $1.1 billion during the period, with Saudi Arabia representing a major purchaser despite the systems' spectacular failure protecting Saudi oil facilities just four months earlier in September 2019. The earnings report exemplified how defense contractors explicitly celebrated and profited from escalating military tensions and regional conflicts.
 

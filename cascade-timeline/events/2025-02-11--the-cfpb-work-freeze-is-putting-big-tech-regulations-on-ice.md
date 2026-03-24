@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-11--the-cfpb-work-freeze-is-putting-big-tech-regulations-on-ice
 date: '2025-02-11'
 title: 'Trump Administration Halts CFPB Operations, Freezing Consumer Protection Investigations'
@@ -43,5 +43,5 @@ patterns:
 - regulatory-obstruction
 notes: Event from comprehensive kleptocracy timeline tracking.
 ---
-type: solidarity_event
+type: timeline_event
 Russell Vought, as part of the Trump administration, ordered a complete work stoppage at the Consumer Financial Protection Bureau (CFPB), effectively suspending all ongoing investigations, rule-making, and consumer protection activities. The order closed CFPB headquarters and directed employees to cease all work, representing a significant disruption to federal consumer financial oversight.

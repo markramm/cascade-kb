@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1823-12-02--monroe-doctrine-proclaimed-imperial-expansion
 date: '1823-12-02'
 title: Monroe Doctrine Proclaimed, Establishing Imperial Paradox of Anti-Colonial Rhetoric Masking U.S. Expansion
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President James Monroe articulates the Monroe Doctrine during his seventh annual State of the Union Address to Congress, declaring that any European intervention in the political affairs of the Americas constitutes a potentially hostile act against the United States. The doctrine establishes three main principles—separate spheres of influence for the Americas and Europe, non-colonization, and non-intervention—designed to signify a clear break between the New World and the autocratic realm of Europe. The policy emerges as nearly all Spanish colonies in the Americas have either achieved or approach independence, with Americans fearing that Spain and France might reassert colonialism over Latin American peoples who have just overthrown European rule, and concerns that Russia is expanding its presence southward from Alaska toward Oregon Territory.
 

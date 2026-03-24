@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--lavingia-returns-government-irs-after-doge-firing
 date: '2025-12-04'
 importance: 7
@@ -58,7 +58,7 @@ sources:
 notes: 'Sahil Lavingia, Gumroad founder and former DOGE engineer, rejoined government as career IRS employee in November 2025 after being fired from VA in May for speaking to reporters. Sam Corcos, fellow DOGE operative who became Treasury CIO, facilitated placement. Lavingia revealed return at WIRED Big Interview event in early December 2025. Now manages online account systems at IRS with plans for 10-year tenure. Firing followed Fast Company interview where he said government was more efficient than expected. Represents DOGE-linked infiltration of IRS.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Sahil Lavingia, the Gumroad founder and former Department of Government Efficiency (DOGE) engineer who was fired from the Department of Veterans Affairs in May 2025 for publicly discussing his work with reporters, quietly rejoined the federal government in November 2025 as a career employee at the Internal Revenue Service (IRS), where he now manages online account systems with stated plans to remain for the next decade. Lavingia revealed his return to government service during a WIRED "Big Interview" event in early December 2025, disclosing that Sam Corcos—a fellow DOGE operative who became Treasury's Chief Information Officer—reached out and facilitated his placement at the IRS after reading Lavingia's detailed account of his government experience. The case represents a troubling pattern of DOGE-linked personnel infiltrating agencies despite previous terminations for policy violations, raises serious concerns about whistleblower retaliation and agency capture, and specifically threatens IRS independence by placing a DOGE-affiliated engineer with access to taxpayer data and critical tax systems.
 
 Lavingia originally joined government as a senior advisor to the chief of staff at the Department of Veterans Affairs as part of DOGE's effort to identify inefficiencies and implement cost-cutting measures. However, his tenure ended abruptly in May 2025 when he "got the boot" from DOGE without warning the day after Fast Company published an interview in which he candidly discussed his experiences and findings. In that interview, Lavingia made statements that contradicted DOGE's narrative about rampant government waste and inefficiency, notably telling the publication: "It's not as inefficient as I was expecting, to be honest. I was hoping for more easy wins."

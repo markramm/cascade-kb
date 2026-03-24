@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-07-11--butina-asks-trump-about-russia-sanctions-freedomfest
 date: '2015-07-11'
 title: Russian Agent Maria Butina Questions Trump About Sanctions at FreedomFest, Trump Promises to "Get Along" with Putin
@@ -45,7 +45,7 @@ capture_lanes:
 - International Kleptocracy
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 11, 2015, at the FreedomFest libertarian conference in Las Vegas, Russian intelligence operative Maria Butina publicly questioned presidential candidate Donald Trump about US sanctions on Russia. Trump responded that he knew Putin and believed they would "get along very nicely" and wouldn't need sanctions. The videotaped exchange, which occurred three years before Butina's arrest as an unregistered foreign agent, documented direct contact between a Russian intelligence operation and a presidential candidate, with Trump signaling willingness to lift sanctions in response to a Russian agent's question.
 

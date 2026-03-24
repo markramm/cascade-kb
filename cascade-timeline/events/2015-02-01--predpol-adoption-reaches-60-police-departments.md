@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-02-01--predpol-adoption-reaches-60-police-departments
 date: 2015-02-01
 title: PredPol Predictive Policing Software Adopted by 60 U.S. Police Departments
@@ -33,7 +33,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 PredPol's predictive policing software reaches widespread adoption across the United States, with almost 60 police departments using the technology by early 2015. Major cities including Los Angeles, Atlanta, and numerous smaller jurisdictions have implemented the algorithmic crime prediction system, representing the peak of predictive policing's acceptance in American law enforcement.
 

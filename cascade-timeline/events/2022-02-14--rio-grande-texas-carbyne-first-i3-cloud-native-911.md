@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-02-14--rio-grande-texas-carbyne-first-i3-cloud-native-911
 date: '2022-02-14'
 title: Rio Grande Council of Governments, Texas launches first i3-compliant cloud-native 911 system with Carbyne
@@ -41,7 +41,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Rio Grande Council of Governments (RGCOG) in Texas launched the United States' first i3-compliant cloud-native 911 contact center using Carbyne's APEX platform, deploying across five Public Safety Answering Points (PSAPs) serving Alpine, Brewster, Presidio, Culberson, and Hudspeth counties in only two and a half days. The $490,000 contract marked the first implementation of i3 technical specifications (NENA's standard for enabling next-generation 911 capabilities) with an ESInet connection in a cloud-native solution, representing a significant milestone in Carbyne's penetration of US emergency response infrastructure.
 

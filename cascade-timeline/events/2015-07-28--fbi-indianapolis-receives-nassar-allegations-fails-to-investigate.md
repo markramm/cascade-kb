@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-07-28--fbi-indianapolis-receives-nassar-allegations-fails-to-investigate
 date: '2015-07-28'
 title: FBI Indianapolis Field Office Receives Nassar Allegations from USA Gymnastics, Fails to Open Investigation for 14 Months
@@ -50,7 +50,7 @@ capture_lanes:
 - Intelligence Penetration
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 28, 2015, officials in the FBI's Indianapolis Field Office met with USA Gymnastics leadership who reported sexual abuse allegations against team doctor Larry Nassar from three young gymnasts. The FBI failed to formally document this meeting, failed to properly handle and document receipt of relevant evidence, and failed to open an investigation in Michigan where the abuse occurred and where Nassar was still actively treating gymnasts at Michigan State University. The FBI Indianapolis office did not transfer the case to the FBI Lansing Resident Agency until October 2016—a delay of over 14 months during which approximately 70 or more young athletes were sexually abused by Nassar under the guise of medical treatment.
 

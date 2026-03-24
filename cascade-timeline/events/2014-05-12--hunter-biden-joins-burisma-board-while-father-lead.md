@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-05-12--hunter-biden-joins-burisma-board-while-father-lead
 date: '2014-05-12'
 importance: 7
@@ -37,6 +37,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Hunter Biden joined the board of Ukrainian energy company Burisma Holdings, receiving up to $50,000 per month while his father Vice President Joe Biden led U.S. policy on Ukraine. State Department officials raised conflict of interest concerns in 2015. Devon Archer later testified to Congress that Hunter Biden was selling "the brand" and that Burisma would have "gone out of business" without the Biden name attached. Senate investigators documented over $3.15 million in payments to Hunter Biden's firm Rosemont Seneca Bohai from Burisma between 2014-2019.

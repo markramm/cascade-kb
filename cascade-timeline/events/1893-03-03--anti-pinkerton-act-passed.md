@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1893-03-03--anti-pinkerton-act-passed
 date: '1893-03-03'
 title: 'Anti-Pinkerton Act: Congress Limits Private Armies After Homestead Violence'
@@ -30,6 +30,6 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passed the Anti-Pinkerton Act following public outrage over the Homestead Strike massacre, prohibiting the federal government from hiring "an individual employed by the Pinkerton Detective Agency, or similar organization." The legislation addressed "Congressional concern over the use of private detectives as strikebreakers and labor spies by private industry in the labor disputes of the 1880s and 1890s." Congress declared that "federal officials could not outsource their obligations and capital could not hire its own armies," addressing questions about how much authority the state could turn over to private firms. However, the Act only restricted federal government hiring, not private corporate use of Pinkertons, limiting its effectiveness. The Pinkerton Agency had reached its zenith in the 1870s-1880s, at times employing more agents than the entire U.S. Army. Many bills have been introduced over the years to repeal or modify the Act, but it remains law, codified at 5 U.S.C. 3108.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-11--aclu-exposes-geofeedia-surveillance-black-lives-matter
 date: '2016-10-11'
 title: ACLU Exposes Geofeedia's Surveillance of Black Lives Matter Protests Through Social Media Platforms
@@ -41,7 +41,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The ACLU of Northern California released a report revealing that Twitter, Facebook, and Instagram had provided special data access to Geofeedia, a surveillance technology company that marketed its location-based monitoring tools to law enforcement agencies for tracking Black Lives Matter protesters and other activists of color. The investigation, based on public records requests to 63 California law enforcement agencies, uncovered that police in Oakland, Baltimore, and Ferguson, Missouri used Geofeedia to monitor protests following the police killings of Michael Brown and Freddie Gray, with one Geofeedia email boasting the system had "covered Ferguson/Mike Brown nationally with great success."
 

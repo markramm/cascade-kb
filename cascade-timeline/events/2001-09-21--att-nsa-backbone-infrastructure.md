@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-09-21--att-nsa-backbone-infrastructure
 date: '2001-09-21'
 title: AT&T Establishes Mass Internet Surveillance Infrastructure for NSA
@@ -39,6 +39,6 @@ tags:
 - digital-privacy
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In the weeks following the 9/11 attacks, AT&T began developing a comprehensive infrastructure to provide the NSA direct access to internet backbone traffic. This involved installing sophisticated fiber-optic splitters at key network switching centers in eight major U.S. cities, enabling the NSA to create real-time duplicates of internet traffic. The infrastructure represented a watershed moment in mass surveillance, creating a systematic method for collecting digital communications without traditional warrant processes.

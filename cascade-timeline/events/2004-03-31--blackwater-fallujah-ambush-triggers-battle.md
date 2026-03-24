@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-03-31--blackwater-fallujah-ambush-triggers-battle
 date: '2004-03-31'
 title: Four Blackwater Contractors Killed in Fallujah Ambush, Bodies Hung from Bridge, Triggering First Battle of Fallujah
@@ -45,7 +45,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Four Blackwater contractors—Scott Helvenston, Jerry Zovko, Wesley Batalona and Mike Teague—were ambushed and killed by Iraqi insurgents while conducting a delivery for food caterers ESS in Fallujah. The contractors' bodies were beaten, burned, dragged through the city streets, and hung from a bridge over the Euphrates River, producing one of the most gruesome images of the Iraq War. The incident triggered the First Battle of Fallujah, a major U.S. military operation, demonstrating how private military contractor operations could directly precipitate conventional military engagements.
 

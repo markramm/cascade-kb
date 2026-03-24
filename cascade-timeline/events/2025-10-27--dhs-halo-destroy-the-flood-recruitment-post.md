@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-10-27--dhs-halo-destroy-the-flood-recruitment-post
 date: '2025-10-27'
 title: DHS Posts Halo Video Game Image Comparing Immigrants to Parasitic Aliens Requiring Extermination
@@ -46,7 +46,7 @@ capture_lanes:
 - Environmental Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 27, 2025, the Department of Homeland Security posted an image from the *Halo* video game franchise showing Master Chief and a Spartan in a Warthog vehicle with the text **"DESTROY THE FLOOD"** as an ICE recruitment advertisement. The post was captioned "Finishing this fight" with a link to JOIN.ICE.GOV. In *Halo* lore, the Flood is a parasitic alien species that consumes all sentient life—the explicit comparison of immigrants to this enemy requiring extermination represents one of the most overt examples of government dehumanization through video game imagery.
 

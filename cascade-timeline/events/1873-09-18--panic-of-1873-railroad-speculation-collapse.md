@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1873-09-18--panic-of-1873-railroad-speculation-collapse
 date: '1873-09-18'
 title: 'Panic of 1873: Railroad Speculation Triggers Economic Collapse'
@@ -34,7 +34,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The banking firm Jay Cooke & Company collapses, triggering a devastating financial panic and economic depression lasting until 1879. Cooke's firm, heavily invested in the Northern Pacific Railroad and backed by over 60 million acres of federal land grants used as collateral, becomes overextended and declares bankruptcy. The failure sparks immediate panic in the stock market, causing bank runs across New York City and forcing the Stock Exchange to suspend trading for the first time on September 20.
 

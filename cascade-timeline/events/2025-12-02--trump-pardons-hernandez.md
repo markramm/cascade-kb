@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-02--trump-pardons-hernandez
 date: 2025-12-02
 title: Trump Pardons Former Honduran President Convicted of Drug Trafficking
@@ -42,7 +42,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump formally pardoned former Honduran President Juan Orlando Hernández, who was serving a 45-year federal prison sentence for conspiring to import cocaine into the United States. Federal prosecutors had documented that Hernández facilitated the movement of approximately 400 tons of cocaine through Honduras to the U.S., receiving millions of dollars in bribes from drug cartels that he used to fuel his political rise. Judge P. Kevin Castel noted during sentencing that Hernández employed "considerable acting skills" to appear opposed to drug trafficking while actually protecting the trade.
 

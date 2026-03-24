@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-01--new-orleans-isis-attack
 date: '2025-01-01'
 importance: 5
@@ -38,6 +38,6 @@ notes: Attack demonstrates persistence of both international and domestic terror
 capture_lanes:
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 ISIS-inspired attacker killed 14 people in New Orleans on New Year's Day 2025, marking deadly start to year of escalating political violence. Attack came after temporary decrease in extremist murders in 2024 (13 deaths, lowest since 2000), suggesting respite was temporary. Between 2014-2023, extremists killed 442 people in United States, with right-wing extremists responsible for 336 deaths (76%). FBI domestic terrorism investigations surged 357% from 1,981 in 2013 to 9,049 in 2021. Attack demonstrates continued threat from both international and domestic violent extremism.

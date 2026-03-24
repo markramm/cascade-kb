@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1956-03-29--mississippi-sovereignty-commission-created
 date: '1956-03-29'
 title: Mississippi Creates State Sovereignty Commission for Civil Rights Surveillance and Segregationist Funding
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 In March 1956, the Mississippi Legislature creates the Mississippi State Sovereignty Commission (MSSC), a state agency tasked with fighting integration and controlling civil rights activism. Active from 1956 to 1973 and directed by the governor and other top elected officials, the Commission employs former law enforcement officials and others to observe and report on the activities of private citizens suspected of engaging in civil rights activism.
 

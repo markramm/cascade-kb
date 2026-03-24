@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-28--no-kings-iii-protest-planned-march
 date: '2026-03-28'
 title: No Kings III Protest Announced for March 28 as Movement Plans Third Nationwide Mobilization
@@ -41,7 +41,7 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 In the first week of March 2026, organizers formally announced the third installment of the No Kings protest series — "No Kings III" — scheduled for March 28, 2026, across cities, towns, and suburbs in every U.S. state. The announcement came amid escalating concerns over immigration enforcement shootings and the administration's continued expansion of executive power.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-16--cdt-reveals-pentagon-wanted-anthropic-bulk-data
 date: '2026-03-16'
 title: Time/CDT Op-Ed Reveals Pentagon Wanted Anthropic to Help Collect and Analyze Bulk Commercial Data on Americans
@@ -29,7 +29,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 16, 2026, a joint op-ed published in Time magazine by the Center for Democracy and Technology revealed what it characterized as the core dispute behind the Pentagon's blacklisting of Anthropic: the Department of Defense had wanted Anthropic to help collect and analyze "unclassified, commercial bulk data on Americans, such as geolocation and web browsing data." The disclosure reframed the public narrative around the blacklist, which had previously centered on disagreements about autonomous weapons and military AI safety protocols.
 

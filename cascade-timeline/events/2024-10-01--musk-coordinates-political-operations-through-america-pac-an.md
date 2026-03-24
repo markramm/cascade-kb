@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-10-01--musk-coordinates-political-operations-through-america-pac-an
 date: '2024-10-01'
 title: Musk Coordinates Political Operations Through America PAC and X Platform Information Warfare
@@ -39,5 +39,5 @@ status: confirmed
 priority_id: RT-CLAUDE-2025-musk-twitter-x-speech-manipulation
 category: information-warfare
 ---
-type: solidarity_event
+type: timeline_event
 Elon Musk established comprehensive political warfare operations through America PAC, combining financial, organizational, and information manipulation to support the Trump 2024 campaign. The PAC spent approximately $200 million, with Musk providing the vast majority of funds, to influence voter targeting and platform messaging. Musk transformed X into a conservative megaphone, systematically amplifying unverified claims and conspiracy theories that benefit the Trump campaign.

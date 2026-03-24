@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -44,5 +44,5 @@ title: Fired US Federal Trade Commissioners Sound Alarm on Potential Data Access
 notes: Event from comprehensive kleptocracy timeline tracking.
 connections: []
 ---
-type: solidarity_event
+type: timeline_event
 Democratic FTC Commissioners Slaughter and Bedoya warned that the Trump administration's 'Department of Government Efficiency' (DOGE) was seeking access to highly sensitive, confidential business records that could potentially manipulate markets. They emphasized that under no circumstances should DOGE be permitted to access this data, highlighting a significant regulatory capture attempt.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-09--senate-democrats-iran-war-powers-hegseth-rubio-testify
 date: '2026-03-09'
 title: Senate Democrats Demand Hegseth and Rubio Testify on Iran War, Threaten Repeated War Powers Votes
@@ -57,7 +57,7 @@ capture_lanes:
 - Democratic Erosion
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 9, 2026, a group of Senate Democrats escalated their opposition to the Trump administration's undeclared war on Iran by announcing they would force a series of repeated War Powers Act votes unless Defense Secretary Pete Hegseth and Secretary of State Marco Rubio agreed to testify publicly before Senate committees. The effort was led by Senators Cory Booker (D-NJ), Tim Kaine (D-VA), Chris Murphy (D-CT), Tammy Baldwin (D-WI), Tammy Duckworth (D-IL), Adam Schiff (D-CA), and Minority Leader Chuck Schumer (D-NY).
 

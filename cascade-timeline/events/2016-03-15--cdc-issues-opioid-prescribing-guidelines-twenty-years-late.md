@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-03-15--cdc-issues-opioid-prescribing-guidelines-twenty-years-late
 title: CDC Issues First Opioid Prescribing Guidelines, Twenty Years After OxyContin Launch
 date: '2016-03-15'
@@ -34,7 +34,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 15, 2016, the Centers for Disease Control and Prevention released its first-ever "Guideline for Prescribing Opioids for Chronic Pain"—twenty years after Purdue Pharma launched OxyContin with aggressive marketing based on false addiction claims, and nine years after Purdue's guilty plea to criminal misbranding.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-10--senate-rejects-gao-cut
 title: Senate Appropriators Reject House Proposal to Halve GAO Budget
 date: '2025-07-10'
@@ -46,6 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Senate Appropriations Committee votes 26-1 to reject House's 48% GAO budget cut, approving $812M (current level) vs House's $414M. Dodaro warned House cuts would eliminate 2,220 employees (63% of workforce). 30 good-government groups opposed cuts. GAO has 39 pending impoundment investigations, found 2 Trump violations.

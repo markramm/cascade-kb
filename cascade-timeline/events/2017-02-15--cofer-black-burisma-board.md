@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-15--cofer-black-burisma-board
 date: '2017-02-15'
 title: Cofer Black, Former Blackwater Vice Chairman and CIA Counterterrorism Chief, Joins Burisma Board
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Burisma Holdings, the Ukrainian energy company, announced the appointment of Joseph Cofer Black to its board of directors on February 15, 2017, less than one month after Donald Trump's presidential inauguration. Black, the former vice chairman of Blackwater (the private military contractor founded by Erik Prince), brought extensive intelligence and security credentials to a company already under scrutiny for political connections and corruption allegations. Black served as director of the CIA's Counterterrorism Center during the September 11 attacks and later as Ambassador-at-Large and Coordinator for Counterterrorism under President George W. Bush.
 

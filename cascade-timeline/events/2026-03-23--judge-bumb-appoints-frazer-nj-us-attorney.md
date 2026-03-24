@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-23--judge-bumb-appoints-frazer-nj-us-attorney
 date: '2026-03-23'
 title: Chief Judge Bumb Appoints Career Prosecutor Robert Frazer as NJ US Attorney, Resolving Constitutional Crisis
@@ -40,7 +40,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 23, 2026, Chief Judge Renee Marie Bumb of the District of New Jersey appointed career prosecutor Robert Frazer as the district's U.S. Attorney, resolving a months-long constitutional crisis that had paralyzed federal law enforcement in the state. Frazer, who had more than 20 years of experience as a federal prosecutor, was reportedly agreed upon by both the federal judges in the district and the Trump administration, marking a rare moment of cooperation after months of confrontation.
 

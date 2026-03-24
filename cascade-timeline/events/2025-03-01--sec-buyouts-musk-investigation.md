@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--sec-buyouts-musk-investigation
 date: '2025-03-01'
 importance: 8
@@ -40,6 +40,6 @@ sources:
 notes: Direct interference with oversight of Musk's businesses while he oversees federal spending. SpaceX received $100M NASA contract February 1, 2025 after Musk began DOGE work. FAA considering pivoting communications to Musk's Starlink. SpaceX has $15B in NASA contracts. Process server delivered summons at SpaceX headquarters March 14. Andrews expressed concerns Trump-appointed SEC chair would kill case.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 SEC offered $50,000 buyouts to staff members while they were investigating Elon Musk, creating pressure to leave during active enforcement actions against the DOGE co-director's companies. Lead attorney Robin Andrews resigned April 2025, calling it "heartbreaking" amid concerns Trump-appointed SEC chair would dismiss case or settle for small penalty. Another attorney Bernard Smyth also left. SEC sued Musk January 14, 2025 for Twitter acquisition violations alleging he underpaid by $150+ million through improper disclosure delays.

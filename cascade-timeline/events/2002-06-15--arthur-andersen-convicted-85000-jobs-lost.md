@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-06-15--arthur-andersen-convicted-85000-jobs-lost
 date: 2002-06-15
 status: confirmed
@@ -35,7 +35,7 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 15, 2002, a federal jury convicted Arthur Andersen LLP of obstruction of justice for shredding thousands of Enron-related documents. The verdict effectively destroyed one of the world's most prestigious accounting firms, eliminating 85,000 jobs globally and marking the last time a major corporation faced existential consequences for complicity in fraud.
 

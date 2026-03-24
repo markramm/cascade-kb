@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-10-13--robo-signing-scandal-exposes-foreclosure-fraud
 date: '2010-10-13'
 title: Robo-Signing Scandal Exposes Systematic Foreclosure Fraud by Major Banks
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Bank of America announces a nationwide halt to foreclosures after revelations that employees signed thousands of foreclosure affidavits without reviewing the underlying documents, a practice dubbed "robo-signing." The scandal exposes systematic fraud in the foreclosure process, with banks mass-producing false legal documents to expedite evictions of homeowners who may have had valid defenses.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-21--cbs-bari-weiss-pulls-60-minutes-cecot-deportee-abuse-segment
 date: '2025-12-21'
 title: CBS News Editor Bari Weiss Pulls 60 Minutes CECOT Prison Abuse Segment Hours Before Broadcast
@@ -48,7 +48,7 @@ capture_lanes:
 - Media Capture & Control
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 CBS News editor-in-chief Bari Weiss pulls a 60 Minutes investigative segment about deportee abuse at El Salvador's CECOT prison approximately three hours before its scheduled Sunday night broadcast. The segment, reported by veteran correspondent Sharyn Alfonsi, featured interviews with Venezuelan deportees who described beatings, sexual assault, and torture at the facility where the Trump administration has been sending migrants.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-08-04--fcc-abolishes-fairness-doctrine
 date: '1987-08-04'
 title: 'Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters'
@@ -61,7 +61,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 FCC Chairman Dennis R. Patrick's Commission votes 4-0 to abolish the Fairness Doctrine in the Syracuse Peace Council decision, eliminating the 38-year requirement that broadcast licensees using publicly-owned airwaves must provide balanced coverage of controversial issues and present opposing viewpoints. The decision culminates a coordinated corporate lobbying campaign and Reagan administration deregulation effort to remove public interest obligations from broadcasters, justified by claims that the doctrine violates First Amendment rights and that marketplace competition will ensure media diversity without regulatory enforcement.
 
 The abolition follows systematic groundwork by Reagan-appointed FCC Chairman Mark S. Fowler (1981-1987), a telecommunications attorney and Reagan campaign staffer who releases a 1985 FCC report declaring the Fairness Doctrine "hurt the public interest and violated free speech rights guaranteed by the First Amendment." Reagan judicial appointees Judges Robert Bork and Antonin Scalia provide crucial legal support through a 1986 D.C. Circuit Court opinion declaring that Congress had not actually codified the doctrine into law despite the 1959 amendment to Section 315(a) of the Communications Act explicitly requiring broadcasters to "afford reasonable opportunity for discussion of conflicting views on matters of public importance."

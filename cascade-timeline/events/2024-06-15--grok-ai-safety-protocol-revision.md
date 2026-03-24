@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-06-15--grok-ai-safety-protocol-revision
 date: '2024-06-15'
 title: xAI Implements Controversial AI Safety Framework Amid Industry Scrutiny
@@ -42,5 +42,5 @@ sources:
   date: '2025-07-16'
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 xAI announced a draft AI safety framework following international pressure, but faced severe criticism from AI safety experts for lack of comprehensive risk mitigation strategies. Industry researchers from OpenAI and Anthropic accused xAI of having a 'reckless' safety culture, highlighting concerns about Grok 4's deployment without proper safety assessments. The incident underscores growing tensions around responsible AI development and the need for standardized safety protocols.

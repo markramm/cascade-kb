@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1921-01-03--duplex-printing-v-deering-antitrust-weapons-against-unions
 date: '1921-01-03'
 title: Supreme Court Guts Clayton Act Labor Protections in Duplex Printing Decision
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court rules 6-3 in Duplex Printing Press Co. v. Deering that the Clayton Act's supposed protections for labor organizing do not prevent federal courts from enjoining union boycotts. Justice Mahlon Pitney holds that Section 20 of the Clayton Act, which labor had celebrated in 1914 as its "Magna Carta," applies only to disputes between employer and immediate employees, not to broader solidarity actions by workers at other companies or in other cities. The decision effectively nullifies Congress's intent to exempt labor from antitrust prosecution, returning unions to the legal vulnerability that had prevailed before the Clayton Act's passage.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Doug Collins
 - Department of Veterans Affairs
@@ -58,5 +58,5 @@ tags:
 - institutional-dismantling
 title: 'VA Secretary Doug Collins Announces 72,000 Job Cuts While Claiming "No Cuts to Benefits"'
 ---
-type: solidarity_event
+type: timeline_event
 Veterans Affairs Secretary Doug Collins announces elimination of 72,000 VA jobs - 15% of workforce - claiming 'no cuts to benefits' while targeting medical staff, claims processors, and mental health counselors serving 9 million veterans. ProPublica and PBS investigations reveal potential disruption of critical veteran services.

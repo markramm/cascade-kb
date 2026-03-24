@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-19--fortune-memecoin-selling-access-white-house
 date: '2026-03-19'
 title: Fortune Analysis Finds $TRUMP Memecoin's Only Utility Is Selling Access to the President
@@ -31,7 +31,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 19, 2026, Fortune published a detailed analysis arguing that the $TRUMP memecoin had no meaningful utility beyond selling proximity to the president of the United States. Unlike cryptocurrency projects that at least claim to offer technological innovation or financial services, the $TRUMP token existed primarily as a vehicle for converting cash into presidential access — a function that would be illegal if conducted through traditional political channels without disclosure requirements.
 

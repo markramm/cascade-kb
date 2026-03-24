@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-20--hegseth-operation-hawkeye-strike-syria-isis-retaliation
 date: 2025-12-20
 title: 'Defense Secretary Hegseth Orders ''Operation Hawkeye Strike'': Massive Retaliatory Strikes Against ISIS in Syria'
@@ -65,7 +65,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 20, 2025, Defense Secretary Pete Hegseth authorized Operation Hawkeye Strike, a large-scale retaliatory military operation targeting Islamic State positions across Syria in response to an ambush attack on December 13 in Palmyra, Syria, that killed two Iowa National Guard soldiers — Sgt. Edgar Brian Torres-Tovar, 25, and Sgt. William Nathaniel Howard, 29 — and a civilian interpreter, Ayad Mansoor Sakat. The operation commenced at approximately 4:00 PM Eastern Time and employed more than 70 airstrikes using approximately 100 munitions, deploying F-15 and F-16 fighter jets, A-10 Warthogs, Apache attack helicopters, and HIMARS guided rocket artillery systems. Jordan participated in a supporting role with its own F-16s. The operation's name was chosen as a tribute to the two fallen soldiers from Iowa, known as the "Hawkeye State." U.S. Central Command reported the strikes focused on ISIS weapon storage facilities, infrastructure, and operational positions in central Syria, where an estimated 1,500 to 3,000 ISIS militants remain active across Syria and Iraq.
 

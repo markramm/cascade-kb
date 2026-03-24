@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-01-01--ginni-thomas-joins-cnp-action-board
 date: '2019-01-01'
 title: Ginni Thomas Joins CNP Action Board - Supreme Court Spouse in Conservative Coordination Hub
@@ -33,7 +33,7 @@ capture_lanes:
 - Systematic Corruption
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 Virginia "Ginni" Thomas, wife of Supreme Court Justice Clarence Thomas, joined the nine-member board of directors of CNP Action in 2019, placing the spouse of a sitting Supreme Court justice at the heart of the conservative movement's primary coordination network.
 
 CNP Action is the 501(c)(4) lobbying arm of the Council for National Policy, the secretive organization that serves as the coordination hub for conservative institutions, donors, and political operatives. As a board member, Ginni Thomas participated in strategic planning for the organization that coordinates between Heritage Foundation, ALEC, the Federalist Society, and other conservative groups.

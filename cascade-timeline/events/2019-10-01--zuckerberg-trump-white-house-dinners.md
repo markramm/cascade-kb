@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-10-01--zuckerberg-trump-white-house-dinners
 date: '2019-10-01'
 title: Zuckerberg Holds Secret White House Dinners with Trump, Kushner, and Thiel to Negotiate Content Moderation
@@ -47,7 +47,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Mark Zuckerberg conducts secret, unreported meetings with Donald Trump, Jared Kushner, and Facebook board member Peter Thiel at the White House to negotiate content moderation policies and regulatory pressure. According to later reporting, Zuckerberg promises to avoid fact-checking political speech in exchange for reduced regulation, demonstrating direct political capture at the highest level.
 

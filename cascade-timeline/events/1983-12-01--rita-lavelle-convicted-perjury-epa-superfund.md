@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-12-01--rita-lavelle-convicted-perjury-epa-superfund
 date: '1983-12-01'
 title: 'Rita Lavelle Convicted of Perjury: EPA Superfund Corruption Confirmed'
@@ -49,7 +49,7 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A federal jury convicts EPA official Rita Lavelle of perjury for lying to Congress about her handling of the $1.6 billion Superfund toxic waste cleanup program. Lavelle, who headed the Superfund division, is found guilty on four of five felony counts for false testimony regarding her knowledge that her former employer, Aerojet-General Corporation, was involved in the controversial Stringfellow Acid Pits hazardous waste case. She lied about when she learned of Aerojet's involvement and failed to recuse herself despite obvious conflicts of interest, demonstrating systematic corruption in environmental regulation.
 

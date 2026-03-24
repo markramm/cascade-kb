@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-15--federal-workers-collective-bargaining-discharge-petition-passes
 date: '2025-12-15'
 title: Federal Workers Collective Bargaining Bill Passes via Discharge Petition 231-195
@@ -32,7 +32,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The House passes legislation restoring collective bargaining rights to federal workers by a vote of 231-195, with 20 Republicans voting in favor against explicit Trump administration opposition. The bill reached the floor through a successful discharge petition - the second in one month.
 
 Trump's executive orders had stripped collective bargaining rights from federal workers as part of the Schedule F implementation and mass firings that devastated the federal workforce. The bill would restore those rights.

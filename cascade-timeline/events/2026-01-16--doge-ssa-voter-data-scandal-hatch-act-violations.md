@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-16--doge-ssa-voter-data-scandal-hatch-act-violations
 date: '2026-01-16'
 title: SSA Reveals DOGE Staffers Misused Social Security Data, Signed Secret Voter Roll Agreement While Under Court Order
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Social Security Administration filed a notice of corrections admitting that DOGE staffers had improperly accessed sensitive personal data and traded it among themselves, including transferring it to a non-SSA Cloudflare server outside agency security protocols. The admissions came after previous declarations under oath proved incomplete.
 

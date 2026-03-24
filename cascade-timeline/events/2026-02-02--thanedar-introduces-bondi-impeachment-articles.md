@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-02--thanedar-introduces-bondi-impeachment-articles
 date: '2026-02-02'
 title: Rep. Thanedar Introduces Articles of Impeachment Against AG Pam Bondi
@@ -25,7 +25,7 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Rep. Shri Thanedar (D-MI) announced on February 2, 2026, the introduction of four articles of impeachment against Attorney General Pam Bondi.
 

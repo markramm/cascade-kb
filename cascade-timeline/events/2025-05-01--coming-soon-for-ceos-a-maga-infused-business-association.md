@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -50,5 +50,5 @@ tags:
 - pay-to-play
 title: Trump Administration Monetizes Political Access Through Exclusive Business Networks
 ---
-type: solidarity_event
+type: timeline_event
 In 2025, the Trump Administration has established sophisticated mechanisms for business-government coordination, including the American Growth Partnership and the Executive Branch private club. The latter, co-founded by Donald Trump Jr. and charging a $500,000 membership fee, provides wealthy CEOs unprecedented access to administration officials. Simultaneously, Business Roundtable meetings and White House tech leader dinners further demonstrate the administration's strategy of monetizing political access.

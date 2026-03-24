@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1962-01-17--eo-10988-federal-collective-bargaining
 date: '1962-01-17'
 title: Kennedy Executive Order 10988 Grants Federal Workers Collective Bargaining Rights
@@ -41,7 +41,7 @@ capture_lanes:
 - Executive Power Expansion
 - Federal Workforce Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President John F. Kennedy issues Executive Order 10988 granting federal employees the right to collective bargaining for the first time in U.S. history, catalyzing explosive growth in public sector unionization that transforms the American labor movement. Following Kennedy's executive action, 22 states pass legislation legalizing collective bargaining for state and local government workers between the mid-1960s and early 1970s, with immediate dramatic results: in New York, 360,000 state and local employees unionize within one year of the 1967 Taylor Law passage.
 

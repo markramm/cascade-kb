@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--indigenous-consensus-decision-making
 date: '2000-01-01'
 title: 'Indigenous Consensus Decision-Making: A Democratic Innovation Framework'
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Indigenous governance models demonstrate advanced consensus-building techniques that prioritize collective understanding, respect for diverse perspectives, and holistic problem-solving, offering critical insights for modern democratic reform and institutional design.
 

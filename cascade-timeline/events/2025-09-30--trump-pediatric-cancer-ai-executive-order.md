@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-30--trump-pediatric-cancer-ai-executive-order
 date: '2025-09-30'
 title: Trump Signs Pediatric Cancer AI Executive Order After Cutting Billions in Research Funding
@@ -36,7 +36,7 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed an executive order on September 30, 2025, titled 'Unlocking Cures for Pediatric Cancer with Artificial Intelligence,' committing an additional $50 million to explore AI applications in pediatric cancer research. The order directs the MAHA Commission to coordinate with HHS, the White House AI and Science advisors, and the Special Advisor for AI and Crypto to develop AI-driven solutions for childhood cancer diagnoses, treatments, and prevention.
 

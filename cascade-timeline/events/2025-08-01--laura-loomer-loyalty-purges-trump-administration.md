@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-01--laura-loomer-loyalty-purges-trump-administration
 date: '2025-08-01'
 title: Far-Right Activist Laura Loomer Orchestrates Mass Loyalty Purges Across Trump Administration
@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Politico reported in August 2025 that over a dozen high-ranking officials across multiple federal agencies were forced to leave their jobs or had nominations derailed after being flagged as 'disloyal' by far-right extremist Laura Loomer, with hundreds more terminations planned. Loomer established a 'tip line' for administration staffers to report colleagues deemed insufficiently loyal to Trump, telling reporters: 'I'm happy to take people's tips about disloyal appointees, disloyal staffers and Biden holdovers.' Her campaigns led to departures from the NSA, National Security Council, DOJ, HHS, FDA, and Department of Defense.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-04-09--ben-carson-son-hud-ethics-violations
 date: 2019-04-09
 title: HUD Inspector General Finds Ben Carson Violated Ethics Rules by Involving Son in Official Business
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The HUD Office of Inspector General investigated allegations that Secretary Benjamin Carson used his office for the personal benefit of his son, Benjamin Carson Jr., a federal contractor, by allowing him to participate in official Department matters including a June 2017 HUD "listening tour" in Baltimore, Maryland. HUD lawyers explicitly warned Carson that his son's involvement would constitute an apparent conflict of interest in violation of federal ethics rules, but Carson proceeded anyway. The department's deputy general counsel raised concerns directly with Carson about potential ethics violations before the Baltimore event.
 

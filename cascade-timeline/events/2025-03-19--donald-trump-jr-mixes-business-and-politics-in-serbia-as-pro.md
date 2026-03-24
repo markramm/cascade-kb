@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-19--donald-trump-jr-mixes-business-and-politics-in-serbia-as-pro
 date: '2025-03-19'
 title: Donald Trump Jr. meets Serbian president to promote Trump hotel amid massive protests
@@ -48,7 +48,7 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline.
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump Jr. met with Serbian President Aleksandar Vučić on March 11, 2025, his second
 visit in six months, to promote a Trump International Hotel project in Belgrade—the first

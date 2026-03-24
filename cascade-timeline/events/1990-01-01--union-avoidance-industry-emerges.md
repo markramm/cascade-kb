@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1990-01-01--union-avoidance-industry-emerges
 date: '1990-01-01'
 title: Union Avoidance Consulting Industry Emerges as $400+ Million Annual Business
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The union avoidance consulting industry grows into a $400+ million annual business as corporations systematically hire specialized consultants to defeat union organizing campaigns through sophisticated psychological manipulation and legal intimidation tactics. Union avoidance consultants charge $350 per hour or up to $3,200 per day to conduct "captive audience meetings"—mandatory anti-union sessions held during working hours where employees face termination for refusing to attend or challenging the content presented.
 

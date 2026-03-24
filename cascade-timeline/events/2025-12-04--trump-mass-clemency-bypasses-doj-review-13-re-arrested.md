@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--trump-mass-clemency-bypasses-doj-review-13-re-arrested
 date: '2025-12-04'
 title: Trump's 1,600+ Clemency Grants Bypass DOJ Review as 13 Recipients Re-Arrested for New Crimes
@@ -79,7 +79,7 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By December 2025, Trump had granted executive clemency to over 1,600 individuals since returning to office—a pace far exceeding any previous administration. This clemency spree systematically bypassed the traditional Department of Justice review process managed by the Office of the Pardon Attorney, eliminating safeguards designed to ensure public safety, victim restitution, and demonstration of rehabilitation.
 

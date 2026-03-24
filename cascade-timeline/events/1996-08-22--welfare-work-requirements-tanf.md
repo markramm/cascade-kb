@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1996-08-22'
 title: Welfare Reform Mandates Work Requirements After Two Years of Assistance
 importance: 7
@@ -36,7 +36,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Personal Responsibility and Work Opportunity Reconciliation Act implements strict work requirements mandating that welfare recipients must work or participate in work-related activities after receiving assistance for two years. The law includes "strong work requirements" and a "performance bonus to reward states for moving welfare recipients into jobs," fundamentally redefining welfare as a temporary transition to employment rather than ongoing support for families in need.
 

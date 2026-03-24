@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-05--government-shutdown-longest-history-day-36
 date: '2025-11-05'
 title: Government Shutdown Becomes Longest in U.S. History at Day 36
@@ -36,7 +36,7 @@ capture_lanes:
 - Financial Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration's government shutdown reached its 36th day on November 5, 2025, officially surpassing the previous record of 35 days set during the December 2018-January 2019 shutdown under Trump's first term. Over 1 million federal employees continued working without paychecks, while approximately 600,000 remained furloughed. Though a 2019 law guarantees backpay after shutdown resolution, President Trump's recent comments left many workers worried about whether that commitment would be honored.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1819-02-22--adams-onis-treaty-florida-cession
 date: '1819-02-22'
 title: Adams-Onís Treaty Acquires Florida Through Coerced Spanish Cession After Jackson's Unauthorized Invasion
@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Secretary of State John Quincy Adams and Spanish Minister Luis de Onís sign the Adams-Onís Treaty (also known as the Transcontinental Treaty or Florida Purchase Treaty) in Washington, D.C., under which Spain cedes Florida to the United States and establishes a boundary line extending to the Pacific Ocean. The treaty emerges from Spain's weakened position after General Andrew Jackson's unauthorized 1817-1818 invasion of Spanish Florida, capture of Spanish forts, and execution of two British subjects. Following tense discussions inside the Monroe administration about Jackson's flagrant violation of Spanish sovereignty, President Monroe decides to back Jackson rather than apologize to Spain, effectively using military aggression as leverage in treaty negotiations. Onís, fearing the United States might seize Florida outright through further military action, agrees to cede the territory.
 

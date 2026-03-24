@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-12-16'
 title: 'Texas Leads 10-State Lawsuit: Google-Facebook "Jedi Blue" Collusion'
 description: Texas Attorney General Ken Paxton led a 10-state antitrust lawsuit exposing "Jedi Blue"—a secret 2018 agreement between Google and Facebook to eliminate header bidding competition and maintain Google's ad exchange monopoly. The complaint revealed that when Facebook threatened to support header bidding (which would have reduced Google's market power), Google offered Facebook preferential treatment in its "Open Bidding" system including non-public data, faster processing, and guaranteed win rates. In exchange, Facebook abandoned header bidding and agreed not to compete with Google's exchange. Internal documents showed executives including Mark Zuckerberg and Sundar Pichai personally approved the agreement. The collusion allowed Google to maintain its ad tech monopoly while Facebook received advantages over other advertisers—a textbook example of monopolist coordination to eliminate emerging competition.
@@ -60,7 +60,7 @@ connections:
 - Header bidding competition
 notes: Code-named after Star Wars "Jedi" characters. Revealed CEO-level coordination between monopolists to eliminate competition. One of clearest examples of illegal market allocation and coordinated monopoly maintenance.
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 16, 2020, Texas Attorney General Ken Paxton filed an antitrust lawsuit against Google joined by nine other states, exposing secret agreements between Google and Facebook—including the "Jedi Blue" deal—to eliminate competition in digital advertising and maintain Google's ad exchange monopoly. The complaint revealed CEO-level coordination between the two tech giants to suppress emerging competitive threats.
 

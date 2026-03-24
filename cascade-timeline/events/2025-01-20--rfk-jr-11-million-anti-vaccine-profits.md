@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Robert F. Kennedy Jr.
 - childrens-health-defense
@@ -73,5 +73,5 @@ tags:
 - ethics-violation
 title: HHS Secretary RFK Jr. Confirmed with Ongoing Vaccine Litigation Referral Fees
 ---
-type: solidarity_event
+type: timeline_event
 HHS Secretary Robert F. Kennedy Jr. confirmed with ongoing financial interests in vaccine litigation, earning $856,559 in referral fees while controlling federal health policy. Despite resignation from consulting arrangements, he retains potential profit from Merck vaccine litigation, raising significant conflict of interest concerns flagged by Sen. Elizabeth Warren. Kennedy has dismissed the entire CDC Advisory Committee on Immunization Practices and cut over 20,500 workers from HHS, approximately 18% of the department's workforce.

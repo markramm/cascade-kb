@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-13--maria-butina-guilty-plea
 date: '2018-12-13'
 title: Maria Butina Pleads Guilty to Conspiring as Russian Agent, Admits Years-Long Clandestine Influence Scheme
@@ -36,7 +36,7 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Maria Butina pleaded guilty in federal court on December 13, 2018 to one count of conspiracy to act as an agent of the Russian Federation without registering with the U.S. government, while the original charge of failing to register as a foreign agent was dropped. She became the first Russian national convicted of seeking to influence U.S. policy in the run-up to and through the 2016 election as a foreign agent.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-06-26--nyt-discloses-mckinsey-20-million-ice-contract
 date: '2018-06-26'
 title: 'New York Times Discloses McKinsey''s $20 Million ICE Contract: Employee Outrage and Internal Crisis'
@@ -34,7 +34,7 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Times discloses that McKinsey & Company has done more than $20 million in consulting work for Immigration and Customs Enforcement, triggering immediate outrage among McKinsey employees and alumni. The revelation comes on the same day that ICE announces an end to its 'zero tolerance' policy that separated asylum-seeking children from their parents at the U.S. border—making the timing particularly inflammatory.
 

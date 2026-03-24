@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-08-11--abramoff-indicted-suncruz-casino-fraud
 date: 2005-08-11
 title: Jack Abramoff Indicted for Wire Fraud in SunCruz Casinos Purchase
@@ -42,7 +42,7 @@ sources:
   tier: 3
   outlet: Wikipedia
 ---
-type: solidarity_event
+type: timeline_event
 
 Lobbyist Jack Abramoff and business partner Adam Kidan were indicted by a federal grand jury in Fort Lauderdale, Florida, on charges of wire fraud and conspiracy related to their 2000 purchase of SunCruz Casinos, a fleet of Florida gambling boats. The indictment alleged that Abramoff and Kidan had faked wire transfers to make it appear they contributed $23 million of their own money toward the $147.5 million purchase, when in fact they had contributed almost nothing. The scheme involved creating fraudulent wire transfer confirmations showing that the pair had transferred $23 million from a bank in the Isle of Man, when no such funds existed or were transferred.
 

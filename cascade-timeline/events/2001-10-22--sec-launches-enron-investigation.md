@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-10-22--sec-launches-enron-investigation
 date: 2001-10-22
 title: SEC Launches Investigation Into Enron's Related-Party Transactions
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 22, 2001, the Securities and Exchange Commission announced it was formally investigating Enron's suspicious dealings with partnerships controlled by CFO Andrew Fastow, characterizing them as "some of the most opaque transactions with insiders ever seen." Enron's share price immediately fell to $20.65, down $5.40 in a single day.
 

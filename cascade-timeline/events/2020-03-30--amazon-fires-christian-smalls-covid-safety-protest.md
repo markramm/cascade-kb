@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-03-30--amazon-fires-christian-smalls-covid-safety-protest
 date: 2020-03-30
 title: Amazon Fires Christian Smalls for Organizing COVID Safety Protest
@@ -38,7 +38,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Amazon Fires Christian Smalls for Organizing COVID Safety Protest
 

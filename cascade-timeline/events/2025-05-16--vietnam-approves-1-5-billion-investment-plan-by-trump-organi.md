@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-16--vietnam-approves-1-5-billion-investment-plan-by-trump-organi
 date: '2025-05-16'
 title: Vietnam approves $1.5 billion investment plan by Trump Organization and partner
@@ -49,7 +49,7 @@ _merge_timestamp: '2025-09-05T23:46:55.905827'
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The Vietnamese government approved a $1.5 billion investment plan by the Trump Organization and a Vietnamese development partner in May 2025, covering golf courses, hotels, and luxury real estate projects across multiple Vietnamese cities. Reuters confirmed the approval, with Fortune reporting that the Trump Organization was approved for a $1.5 billion golf resort. The approval came as Vietnam and the United States were actively negotiating tariff rates under Trump's broader trade policy framework — with Vietnam subject to significant proposed tariffs that would dramatically affect its export-dependent economy.
 
 The timing of the investment approval and the parallel trade negotiations created an explicit conflict of interest: the Vietnamese government was simultaneously reviewing a Trump family business proposal and negotiating with the Trump administration over tariff levels that would determine Vietnam's economic fate. NPR's subsequent reporting in June 2025 explicitly linked the $1.5 billion deal to the trade war context, noting that Vietnam's approval of the Trump Organization project appeared connected to efforts to secure favorable tariff treatment. Eric Trump, who managed the Trump Organization, traveled to Vietnam shortly after the approval to break ground on the project.

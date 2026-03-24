@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-25--trump-pardons-financial-criminals-donors
 date: '2025-01-25'
 title: Trump pardons financial criminals including wire fraud convict and money launderers
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump issued pardons to multiple financial criminals in his first week, including a Trump loyalist convicted of wire fraud, a corporation fined $100 million for money laundering violations, and the son of a longtime Republican donor. The pardons extended to Rod Blagojevich who had been convicted of corruption charges for attempting to sell Barack Obama's Senate seat. These pardons established a pattern of using presidential clemency power to protect financial criminals connected to Trump's political network.

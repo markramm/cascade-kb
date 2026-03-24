@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-30--fec-quorum-loss
 title: FEC Loses Policymaking Quorum After Commissioner Resignation
 date: '2025-04-30'
@@ -44,6 +44,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Commissioner Allen Dickerson resigned on April 30, 2025, leaving the FEC with only three members and no quorum. Combined with Trump's February firing of Ellen Weintraub and Sean Cooksey's January resignation, the FEC cannot investigate complaints, conduct audits, levy fines, issue rules or advisory opinions, or hold meetings. This marks the fourth time in FEC history it lacks quorum, effectively shutting down campaign finance enforcement.

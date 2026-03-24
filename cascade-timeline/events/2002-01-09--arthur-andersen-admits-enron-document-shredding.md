@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-01-09--arthur-andersen-admits-enron-document-shredding
 date: 2002-01-09
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 9, 2002, Arthur Andersen, one of the "Big Five" accounting firms, publicly admitted that its employees had destroyed "several tons" of Enron-related documents and deleted nearly 30,000 emails and computer files during October and November 2001. CEO Joseph Berardino informed the Securities and Exchange Commission after discovering the massive document destruction campaign.
 

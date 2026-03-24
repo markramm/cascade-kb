@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-11-25--fcc-bans-huawei-zte-national-security-threats
 date: '2022-11-25'
 importance: 9
@@ -53,7 +53,7 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Communications Commission voted unanimously to ban imports and sales of telecommunications equipment from Chinese companies Huawei and ZTE, citing "unacceptable risk" to national security and critical infrastructure. FCC Chairwoman Jessica Rosenworcel stated the agency was "protecting our national security by ensuring that untrustworthy communications equipment is not authorized for use within our borders." The ban, implemented under the Secure Equipment Act, represented the first time in FCC history that equipment authorizations were prohibited based on national security concerns.
 

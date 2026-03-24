@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-21--caleb-vitello-ice-removal
 date: '2025-02-21'
 importance: 8
@@ -37,6 +37,6 @@ sources:
 notes: White House demanded ICE "defy the math" with unrealistic quotas. Also reassigned were Russell Hott and Peter Berg from enforcement division. Officers struggled because immigrants refused to open doors when ICE knocked.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Acting ICE Director Caleb Vitello, a 20-year ICE veteran, was removed from his position on February 21, 2025, after failing to meet deportation quotas of 3,000 daily arrests despite only achieving 1,200-1,400 per day. Vitello was reassigned to a senior enforcement role after just one month leading the agency. His removal came despite Trump praising his "exceptional leadership" when appointing him in December. The administration deported 37,660 people in Trump's first month, far less than Biden's monthly average of 57,000.

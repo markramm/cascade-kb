@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-05--education-dept-guidance-teachers-can-pray-with-students
 date: '2026-02-05'
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Democratic Backsliding
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 5, 2026, the Trump Department of Education under Secretary Linda McMahon issued new guidance on "Constitutionally Protected Prayer and Religious Expression in Public Elementary and Secondary Schools," superseding the Biden administration's 2023 guidance on the same topic. The most consequential change allowed public school teachers and other school employees to take part in visible prayer with students during the school day — including activities like saying grace together before lunch — so long as it was framed as the teacher's individual expression rather than school-sponsored prayer. McMahon stated: "The Trump Administration is proud to stand with students, parents, and faculty who wish to exercise their First Amendment rights in schools across our great nation."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-03--trump-admits-not-knowing-cz-zhao-60-minutes
 date: '2025-11-03'
 title: Trump Admits on 60 Minutes He Doesn't Know Changpeng Zhao, the Binance Founder He Pardoned
@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 3, 2025, President Trump admitted during a CBS "60 Minutes" interview with Norah O'Donnell that he does not know who Changpeng Zhao is—the Binance cryptocurrency founder he pardoned just 11 days earlier on October 23, 2025. When asked why he pardoned Zhao, Trump stated: "Okay, are you ready? I don't know who he is." He also claimed: "I know nothing about it because I'm too busy doing the other."
 

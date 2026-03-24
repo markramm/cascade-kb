@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-29--hud-fires-fair-housing-whistleblowers
 date: '2025-09-29'
 title: HUD Fires Two Civil Rights Lawyers Who Exposed Fair Housing Enforcement Gutting
@@ -32,6 +32,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Housing and Urban Development fired civil rights lawyers Palmer Heenan and Paul Osadebe on September 29 for speaking publicly about their whistleblower complaint documenting the Trump administration's systematic dismantling of fair housing enforcement. The lawyers were among six current and former HUD employees who exposed to The New York Times a coordinated effort to halt or curtail discrimination cases, with the Fair Housing Office workforce reduced 65-70% since January. Internal documents revealed Trump appointees calling decades of housing discrimination cases 'artificial, arbitrary and unnecessary' while inappropriately closing or halting at least 115 cases. Whistleblowers reported HUD leadership declared fair housing enforcement 'not a priority.' The firings exemplify retaliation against civil servants who expose civil rights violations and corruption.

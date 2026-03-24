@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-29--paramount-board-clears-possible-path-for-settling-trump-s-60
 date: '2025-04-29'
 title: Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit
@@ -49,6 +49,6 @@ _merge_timestamp: '2025-09-05T23:46:55.900070'
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris

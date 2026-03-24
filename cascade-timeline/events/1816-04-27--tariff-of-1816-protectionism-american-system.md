@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1816-04-27--tariff-of-1816-protectionism-american-system
 date: '1816-04-27'
 title: Tariff of 1816 Establishes Protectionism as Core of American System Economic Policy
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Tariff of 1816, the first explicitly protective tariff in American history, taxing imported goods at a remarkable 25% rate to protect emerging domestic industries from cheap British goods flooding American markets after the War of 1812. The tariff represents the first pillar of Henry Clay's "American System," devised in the burst of nationalism following the war, which aims to harmonize the nation's agriculture, commerce, and industry through three mutually reinforcing components: protective tariffs to promote American manufacturing; a national bank to foster commerce; and federal subsidies for roads, canals, and other internal improvements to develop profitable markets for agriculture. Clay argues that a vigorously maintained system of sectional economic interdependence would eliminate the chance of renewed subservience to the free-trade, laissez-faire "British System."
 

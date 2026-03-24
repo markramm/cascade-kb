@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-15--national-legal-resistance-training
 date: '2025-05-15'
 title: Comprehensive Legal Resistance Training Program
@@ -35,5 +35,5 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 First nationwide training program established to equip attorneys with advanced strategies for combating institutional overreach. 672 attorneys from 49 states complete intensive 2-week training on constitutional defense, strategic litigation, and resistance methodologies, supported by federal funding initiatives and professional legal organizations.

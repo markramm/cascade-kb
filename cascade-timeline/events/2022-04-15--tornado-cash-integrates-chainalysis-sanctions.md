@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-04-15--tornado-cash-integrates-chainalysis-sanctions
 date: 2022-04-15
 title: Tornado Cash Integrates Chainalysis Tool to Block OFAC-Sanctioned Addresses
@@ -31,7 +31,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Tornado Cash, the decentralized cryptocurrency mixer designed to enhance transaction privacy, integrates Chainalysis's oracle contract to block OFAC-sanctioned addresses from accessing the dapp. This controversial move represents a significant compromise of the privacy tool's core function, as it implements government sanctions screening through blockchain surveillance technology.
 

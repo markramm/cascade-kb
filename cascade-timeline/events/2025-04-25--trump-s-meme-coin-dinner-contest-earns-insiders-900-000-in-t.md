@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-25--trump-s-meme-coin-dinner-contest-earns-insiders-900-000-in-t
 date: '2025-04-25'
 title: 'Trump''s Meme Coin Dinner Contest Generates $900,000 in Insider Profits'
@@ -48,5 +48,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump's $TRUMP memecoin generated nearly $900,000 in insider trading fees through a dinner contest where top 220 buyers spent over $140 million to secure an invitation. CIC Digital, a Trump Organization affiliate, receives trading revenue, raising significant ethical questions about conflict of interest and regulatory capture in cryptocurrency markets.

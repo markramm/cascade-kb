@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2023-06-29'
 id: 2023-06-29--shvartsman-garelick-dwac-insider-trading-charges
 importance: 8
@@ -45,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Federal prosecutors and the SEC charged Michael Shvartsman, Gerald Shvartsman, and Bruce Garelick with securities fraud in a $22.9 million insider trading scheme centered on the DWAC-Trump Media merger. Bruce Garelick, a former DWAC board member and chief strategy officer at Rocket One Capital, allegedly shared confidential merger information with his boss Michael Shvartsman, who then tipped his brother Gerald. The scheme demonstrated systematic abuse of insider information in SPAC fraud networks.
 
 In a significant follow-up, Michael and Gerald Shvartsman pleaded guilty to securities fraud in April 2024, facing potential prison sentences of up to 20 years for their roles in making over $22 million in illegal profits. The case highlights ongoing regulatory efforts to combat insider trading and protect market integrity.

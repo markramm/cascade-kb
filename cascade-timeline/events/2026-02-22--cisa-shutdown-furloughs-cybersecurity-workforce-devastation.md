@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-22--cisa-shutdown-furloughs-cybersecurity-workforce-devastation
 date: '2026-02-22'
 title: 'DHS Shutdown Furloughs 50%+ of Cybersecurity Agency Workforce'
@@ -34,7 +34,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 The DHS shutdown furloughed more than 50% of the Cybersecurity and Infrastructure Security Agency workforce, compounding losses of approximately 33% of staff since the 2024 election. CISA operates without a Senate-confirmed director and has been systematically weakened through budget cuts and political hostility from the Trump administration, which views the agency's election security mission as a threat. The furloughs left critical infrastructure protection, election security support, and cyber threat monitoring severely degraded at a time of elevated threat from state-sponsored hackers and ransomware groups.
 
 The decimation of CISA represents a deliberate choice to weaken the nation's cybersecurity defenses rather than an unavoidable consequence of budget constraints. The administration's hostility toward CISA stems directly from the agency's role in debunking election disinformation in 2020, when CISA's then-director called the election "the most secure in American history" and was promptly fired by Trump. The ongoing gutting of the agency is retaliation dressed up as fiscal responsibility.

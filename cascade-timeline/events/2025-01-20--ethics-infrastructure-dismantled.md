@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--ethics-infrastructure-dismantled
 date: '2025-01-20'
 importance: 8
@@ -45,6 +45,6 @@ sources:
 notes: Appointees effectively allowed to police themselves. Trump's Executive Order 14148 rescinded multiple Biden orders including ethics requirements. No new ethics order was issued to replace the eliminated restrictions.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump revoked Biden's Executive Order 13989 on ethics commitments on January 20, 2025, eliminating requirements that banned gifts from lobbyists, prohibited shadow lobbying for one year, and imposed two-year cooling-off periods before joining firms that lobby agencies. The rescission allows former lobbyists and foreign agents to immediately join agencies they recently lobbied. Trump followed his first-term pattern—he imposed ethics rules in 2017 then revoked them on his last day in office. Public Citizen called the elimination of ethics safeguards "a very big deal," noting appointees can now effectively police themselves.

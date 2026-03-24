@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-03-19--credit-suisse-forced-merger-ubs-regulatory-failure
 date: '2023-03-19'
 title: Swiss Government Forces Emergency UBS Acquisition of Credit Suisse After Regulatory Failure, Ending 167 Years of Swiss Banking History
@@ -43,6 +43,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In an emergency Sunday night intervention to prevent global financial contagion, the Swiss Federal Council exercises emergency powers to force UBS's acquisition of Credit Suisse without shareholder approval, marking the collapse of one of 30 'globally systemically important banks' and exposing catastrophic regulatory failures. Credit Suisse's implosion follows years of scandals including the Archegos Capital collapse and Greensill debacle, which Swiss regulator FINMA failed to prevent despite having detailed resolution plans that were never activated. A December 2024 parliamentary inquiry found FINMA 'partially ineffective,' noting that while the regulator issued warnings, Credit Suisse management was 'reticent' and FINMA lacked tools available to international peers, including the power to impose fines and intervene earlier. The forced merger includes a CHF 9 billion government guarantee and controversially writes down CHF 16 billion in AT1 bonds to zero while preserving shareholder value—the largest AT1 writedown in history and a reversal of normal creditor priority that shocks global markets. FINMA chair Marlene Amstad acknowledged Credit Suisse 'had a cultural problem that translated into a lack of accountability.' The collapse reveals how even 'too big to fail' post-2008 reforms failed: FINMA admitted implementing resolution plans would have caused 'disastrous impact' and runs on other Swiss banks, exposing the fundamental inadequacy of crisis-prevention frameworks for systemically important institutions.

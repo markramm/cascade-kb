@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1988-08-04--warn-act-weakened-plant-closing-notification-corporate-loopholes
 date: '1988-08-04'
 title: WARN Act Passes with Corporate Loopholes, Toothless Plant Closing Protection
@@ -40,7 +40,7 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Worker Adjustment and Retraining Notification (WARN) Act becomes law on August 4, 1988, requiring employers with 100 or more workers to provide 60 days advance notice before plant closings or mass layoffs. Congress passes the bill over President Reagan's veto threats, responding to the devastation of deindustrialization that has shuttered thousands of factories throughout the Rust Belt. However, corporate lobbying ensures the final bill contains so many exceptions and loopholes that enforcement becomes nearly impossible.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-27--bondi-patel-epstein-files-influencer-stunt
 date: '2025-02-27'
 title: Bondi and Patel Stage Epstein Files Photo Op with Conservative Influencers — Contents Already Public
@@ -36,7 +36,7 @@ capture_lanes:
 - Media Manipulation
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 21, 2025, AG Pam Bondi appeared on Fox News and told host John Roberts that the Epstein client list was "sitting on my desk right now to review," generating significant public expectation.
 

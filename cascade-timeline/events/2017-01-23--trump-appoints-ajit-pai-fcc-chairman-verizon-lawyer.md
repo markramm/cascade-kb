@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-01-23--trump-appoints-ajit-pai-fcc-chairman-verizon-lawyer
 date: '2017-01-23'
 title: Trump Appoints Ajit Pai as FCC Chairman, Installing Former Verizon Lawyer to Regulate His Former Employer
@@ -40,7 +40,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 President Donald Trump designates Ajit Pai as Chairman of the Federal Communications Commission, elevating the sitting Republican commissioner and former Verizon Communications associate general counsel to lead the agency responsible for regulating his former employer and the broader telecommunications industry. Pai, who had served as an FCC commissioner since 2012 (appointed by President Obama in a traditional minority party slot), worked as Associate General Counsel at Verizon from 2001 to 2003, handling competition matters, regulatory issues, and counseling business units on broadband initiatives—the very areas he would now regulate as FCC Chairman.
 

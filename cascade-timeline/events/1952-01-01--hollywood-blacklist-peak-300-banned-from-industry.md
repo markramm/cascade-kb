@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1952-01-01--hollywood-blacklist-peak-300-banned-from-industry
 date: '1952-01-01'
 title: Hollywood Blacklist Reaches Peak with Over 300 Industry Professionals Banned
@@ -43,7 +43,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 By 1952, the Hollywood blacklist had reached its peak, with over 300 writers, directors, actors, and other film industry professionals banned from employment. What began with the Hollywood Ten's 1947 contempt citations expanded through HUAC hearings, private "clearance" systems, and self-policing by studios terrified of advertiser boycotts and box office losses—creating a private-sector enforcement mechanism for political persecution.
 

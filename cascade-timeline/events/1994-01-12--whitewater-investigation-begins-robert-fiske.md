@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1994-01-12'
 title: Whitewater Investigation Launches Under Special Counsel Robert Fiske
 importance: 7
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Janet Reno appoints Robert Fiske, a moderate Republican and former U.S. Attorney, as special counsel to investigate the Whitewater controversy involving President Bill Clinton and First Lady Hillary Clinton. The investigation focuses on the Clintons' 1978 investment in the Whitewater Development Corporation, an Arkansas real estate venture, and their relationships with Madison Guaranty Savings and Loan Association, which was owned by their business partner James McDougal and later failed at a cost of $65 million to taxpayers.
 

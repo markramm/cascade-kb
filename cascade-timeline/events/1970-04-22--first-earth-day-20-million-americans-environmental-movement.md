@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1970-04-22--first-earth-day-20-million-americans-environmental-movement
 date: '1970-04-22'
 title: First Earth Day Mobilizes 20 Million Americans, Launches Modern Environmental Movement
@@ -38,7 +38,7 @@ capture_lanes:
 - Environmental Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On April 22, 1970, approximately 20 million Americans—10% of the nation's population—participated in the first Earth Day, the largest mass demonstration in American history to that point. Organized by Senator Gaylord Nelson of Wisconsin and coordinated by young activist Denis Hayes, Earth Day galvanized public support for environmental protection and catalyzed legislation including the creation of the Environmental Protection Agency and passage of the Clean Air Act, Clean Water Act, and Endangered Species Act.
 

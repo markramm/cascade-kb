@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Kelly Loeffler
 - intercontinental-exchange
@@ -59,5 +59,5 @@ tags:
 - crypto
 title: SBA Administrator Kelly Loeffler With $1 Billion Fortune and Insider Trading History Takes Office
 ---
-type: solidarity_event
+type: timeline_event
 Small Business Administrator Kelly Loeffler, worth $1 billion from husband's Intercontinental Exchange empire, takes office despite 2020 insider trading scandal. The Senate confirmed her 52-46 on February 19, 2025, despite ongoing concerns about financial conflicts of interest.

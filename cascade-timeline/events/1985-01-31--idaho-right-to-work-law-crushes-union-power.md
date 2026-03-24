@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1985-01-31--idaho-right-to-work-law-crushes-union-power
 date: '1985-01-31'
 title: Idaho Legislature Overrides Veto to Impose Right-to-Work Law, Devastating Labor Movement
@@ -56,7 +56,7 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On January 31, 1985, the Republican-controlled Idaho Legislature overrides Democratic Governor John Evans' veto to enact so-called "Right-to-Work" legislation, making Idaho the 21st state to prohibit union security agreements that require workers to pay union dues or fees as a condition of employment. The law passes despite Idaho's historic role as a "hotbed of radical organizing" where miners, loggers, and railroad workers had waged militant battles against corporate power since the 1890s, including the violent Coeur d'Alene miners' strikes of 1892 and 1899 that led to the founding of the Western Federation of Miners.
 

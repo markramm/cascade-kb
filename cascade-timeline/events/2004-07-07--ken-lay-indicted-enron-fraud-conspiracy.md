@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-07-07--ken-lay-indicted-enron-fraud-conspiracy
 date: 2004-07-07
 title: Enron Founder Ken Lay Indicted on 11 Counts of Fraud and Conspiracy
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 7, 2004, a federal grand jury indicted Enron founder and former CEO Kenneth Lay on 11 counts of securities fraud, wire fraud, and making false statements to banks. The indictment charged that Lay repeatedly lied to investors, employees, and federal regulators about Enron's deteriorating financial condition while enriching himself through stock sales and fraudulent transactions.
 

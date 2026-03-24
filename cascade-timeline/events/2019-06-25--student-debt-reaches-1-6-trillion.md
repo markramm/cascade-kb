@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-06-25--student-debt-reaches-1-6-trillion
 date: 2019-06-25
 title: U.S. Student Debt Surpasses $1.6 Trillion - 107% Increase in a Decade
@@ -32,7 +32,7 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. student loan debt surpassed $1.6 trillion in June 2019 according to Federal Reserve data, representing a 107% increase from approximately $772 billion at the end of 2009 and affecting some 44 million American borrowers. The milestone crystallized the student debt crisis as a systemic economic disaster that weaponized debt against an entire generation while enriching lenders, loan servicers, debt collectors, and predatory for-profit colleges.
 

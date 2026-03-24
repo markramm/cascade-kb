@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-27--un-snapback-sanctions-reimposed-on-iran
 date: '2025-09-27'
 title: UN Snapback Mechanism Reimposed Pre-2015 Sanctions on Iran
@@ -27,6 +27,6 @@ status: confirmed
 capture_lanes:
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 The UN snapback mechanism concluded, reimposing all pre-2015 UN sanctions on Iran after the E3 nations (France, Germany, United Kingdom) initiated the process in August 2025, citing Iran's deliberate failure to meet JCPOA commitments since 2019. A Russian/Chinese resolution to extend the October 18 deadline until April 2026 was rejected. Iran subsequently announced termination of the JCPOA on October 18, 2025, claiming Resolution 2231 "ceased to have any legal effect." The restoration of multilateral sanctions represented the final collapse of the 2015 nuclear deal.

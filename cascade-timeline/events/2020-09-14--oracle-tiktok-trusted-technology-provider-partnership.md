@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-09-14--oracle-tiktok-trusted-technology-provider-partnership
 date: '2020-09-14'
 title: Oracle Becomes TikTok's "Trusted Technology Provider" Under Trump Administration Pressure
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle Corporation announced on September 14, 2020, that ByteDance had selected Oracle as TikTok's "trusted technology provider" in the United States, positioning Oracle to provide cloud infrastructure services and security oversight for TikTok's U.S. operations. The announcement came amid intense pressure from the Trump administration, which had threatened to ban TikTok unless ByteDance divested the app to an American company due to national security concerns about Chinese government access to American user data.
 

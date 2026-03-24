@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-01--aca-enhanced-subsidies-expire-premiums-double
 date: '2026-01-01'
 status: confirmed
@@ -34,7 +34,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Enhanced Affordable Care Act premium tax credits expire on January 1, 2026, causing average premium costs to rise 114 percent from $888 to $1,904 annually for the 22 million subsidized marketplace enrollees. The enhanced subsidies, first enacted in 2021 as a temporary COVID-19 pandemic measure and extended through 2025 by the Inflation Reduction Act, allowed households earning between 100-150 percent of the federal poverty level to receive full subsidies with zero-dollar premiums, while eliminating the income cap for higher earners.
 

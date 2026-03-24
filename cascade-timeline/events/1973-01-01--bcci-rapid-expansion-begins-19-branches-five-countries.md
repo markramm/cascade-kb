@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1973-01-01--bcci-rapid-expansion-begins-19-branches-five-countries
 date: '1973-01-01'
 title: BCCI Begins Rapid International Expansion Strategy with 19 Branches Across Five Countries
@@ -43,6 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 BCCI launches aggressive international expansion, starting with 19 branches across five countries in 1973 and growing to 27 branches by 1974. The bank pursues long-term asset growth over immediate profits, targeting high-net-worth individuals and seeking large deposits. This expansion strategy focuses on countries with weak regulatory oversight and bank secrecy laws, enabling future criminal operations. The rapid growth model depends on exploiting regulatory gaps between jurisdictions and building relationships with politically powerful individuals. By 1976, BCCI operates 108 branches with assets growing from $200 million to $1.6 billion, demonstrating how criminal banking networks can achieve legitimacy through rapid international expansion.

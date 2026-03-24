@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2006-05-08--michael-hayden-nominated-cia-director-nsa-militarization
 date: '2006-05-08'
 title: Michael Hayden Nominated as CIA Director Despite NSA Surveillance Controversy
@@ -39,6 +39,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Bush nominates Air Force General Michael Hayden as CIA Director despite his role in implementing illegal NSA warrantless surveillance programs. Hayden's appointment represented unprecedented militarization of CIA leadership and sparked Senate concerns about further politicization of intelligence. His confirmation hearings revealed extensive involvement in constitutional violations and efforts to expand surveillance without legal authorization, breaking traditional civilian control of CIA.

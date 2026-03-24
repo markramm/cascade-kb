@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1934-04-12--nye-committee-investigation-war-profiteering-merchants-of-death
 date: '1934-04-12'
 title: Nye Committee Begins Investigation of War Profiteering and Munitions Industry "Merchants of Death"
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Senate Special Committee on Investigation of the Munitions Industry, chaired by Senator Gerald Nye (R-ND), begins operations on April 12, 1934, to investigate the financial and banking interests underlying American involvement in World War I and the enormous profits reaped by industrial and commercial firms supplying munitions. The committee emerges from widespread public concern that armaments manufacturers—dubbed "merchants of death"—had unduly influenced the American decision to enter the war in 1917, profiting enormously while more than 53,000 Americans died in battle.
 

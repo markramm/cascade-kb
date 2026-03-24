@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-15--legal-resistance-training-academy
 date: '2025-05-15'
 title: Constitutional Defense Training Academy Launched
@@ -32,5 +32,5 @@ tags:
 - legal-resistance
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Legal resistance network establishes a comprehensive training program for attorneys specializing in constitutional defense. The academy provides advanced training in challenging administrative overreach, constitutional litigation strategies, and emerging legal protection techniques. This initiative emerges amid growing concerns about constitutional challenges, with organizations like the National Association of Criminal Defense Lawyers (NACDL) and the Defender Services Office Training Division offering critical support for legal professionals defending constitutional rights.

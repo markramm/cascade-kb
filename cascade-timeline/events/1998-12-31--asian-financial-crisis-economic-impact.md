@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1998-12-31--asian-financial-crisis-economic-impact
 date: '1998-12-31'
 title: 'Asian Financial Crisis: Comprehensive Economic Transformation'
@@ -35,6 +35,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 By year's end, the Asian Financial Crisis results in a fundamental restructuring of Southeast Asian economies. Millions lose jobs, local companies are sold at fire-sale prices to multinational corporations, and national economic policies are effectively rewritten under IMF and World Bank guidance. The crisis triggered $118 billion in international loans, contingent on domestic policy reforms including financial sector restructuring, deleveraging, and improved economic governance. Countries like Thailand, Indonesia, and South Korea underwent dramatic economic transformations, with the IMF providing bailout packages totaling approximately $120 billion.

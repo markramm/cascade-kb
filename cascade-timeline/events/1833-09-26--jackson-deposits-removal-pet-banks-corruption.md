@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1833-09-26--jackson-deposits-removal-pet-banks-corruption
 date: '1833-09-26'
 title: Jackson Removes Federal Deposits to "Pet Banks" Selected Through Political Patronage, Not Financial Merit
@@ -47,7 +47,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Andrew Jackson orders the removal of federal government deposits from the Second Bank of the United States and their redistribution to state-chartered banks derisively called "pet banks" because they are selected based on political loyalty rather than financial soundness. The deposit removal, executed in September 1833 after Jackson fires two Treasury Secretaries who refuse to carry out the order, represents a blatant use of executive power to reward political allies while destabilizing the national banking system. Jackson elevates Attorney General Roger Taney to acting Treasury Secretary specifically to implement the deposit removal, bypassing Senate confirmation and demonstrating how personal vendettas against institutions can override constitutional processes and professional expertise in financial management.
 

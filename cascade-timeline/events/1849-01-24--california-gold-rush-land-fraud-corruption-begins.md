@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1849-01-24--california-gold-rush-land-fraud-corruption-begins
 date: '1849-01-24'
 title: California Gold Rush Enables Massive Land Speculation Fraud and Corruption Schemes
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The California Gold Rush of 1849 created a lawless environment that enabled systematic land fraud and banking corruption as the region lacked effective legal institutions. When gold was discovered at Sutter's Mill, California remained technically under American military occupation following the Mexican-American War, with property rights in the goldfields not yet covered by established law. This legal vacuum was solved through informal systems of staking claims, but created opportunities for fraud at every level. John Sutter himself, on whose land gold was discovered, was bankrupted by 1852 after his property was overrun and his goods and livestock stolen or destroyed by thousands of fortune seekers who faced no legal consequences.
 

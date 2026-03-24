@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1942-04-28--renegotiation-act-partial-war-profit-recovery
 date: '1942-04-28'
 title: Renegotiation Act Enables Limited War Profit Recovery After Corporate Resistance
@@ -40,7 +40,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Renegotiation Act on April 28, 1942, establishing a process to recapture "excessive profits" from war contractors. While presented as a check on war profiteering, the act's weak enforcement mechanisms and industry-friendly implementation allow most excessive profits to remain in corporate hands.
 

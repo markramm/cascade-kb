@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-21--kremlin-weighed-offering-moscow-skyscraper-to-trump-media-re
 date: '2025-04-21'
 title: Kremlin Explored Moscow Skyscraper Offer to Trump as Diplomatic Leverage
@@ -46,6 +46,6 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 As part of complex 2025 diplomatic negotiations, the Kremlin reportedly considered offering Trump a 150-story Moscow skyscraper to entice him into restoring US-Russia relations, revealing the intricate and potentially compromising nature of international diplomacy

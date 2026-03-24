@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-06-09--hastert-sexual-abuse-allegations-emerge
 date: 2015-06-09
 title: Sexual Abuse Allegations Against Dennis Hastert Publicly Emerge
@@ -45,7 +45,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Sexual abuse allegations against former House Speaker Dennis Hastert became public on June 9, 2015, when Jolene Reinboldt Burdge appeared on ABC News' Good Morning America to reveal that her deceased brother, Steve Reinboldt, had told her in 1979 that Hastert had sexually abused him throughout his four years at Yorkville High School in the early 1970s. Burdge stated that her brother — who died of AIDS in 1995 — confided the abuse eight years after his 1971 graduation, saying Hastert had molested him while serving as the school's wrestling coach. Her disclosure marked the first time a victim had been publicly identified in connection with Hastert's May 2015 indictment for bank fraud.
 

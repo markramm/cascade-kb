@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1933-03-06--fdr-declares-bank-holiday-closes-all-banks-nationwide
 date: '1933-03-06'
 title: FDR Declares National Bank Holiday, Closing All Banks to Stop Collapse of Financial System
@@ -39,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 6, 1933, two days after his inauguration, President Franklin D. Roosevelt invokes emergency powers to declare a nationwide "bank holiday," closing all banks in the United States and suspending all banking transactions. The unprecedented action aims to stop the complete collapse of the American banking system, as panic-stricken depositors race to withdraw their savings from institutions many believe are insolvent. By inauguration day, governors of 38 states had already closed their banks or restricted withdrawals; Roosevelt's national holiday brings the entire system to a coordinated halt.
 

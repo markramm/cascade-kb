@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1893-05-15--western-federation-of-miners-founded-militant-organizing
 date: '1893-05-15'
 title: Western Federation of Miners Founded After Coeur d'Alene Massacre
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Hard rock miners establish the Western Federation of Miners (WFM) in Butte, Montana, as a direct response to the catastrophic defeat of the 1892 Coeur d'Alene strike in Idaho and the brutal military repression that followed. The WFM emerges from miners' recognition that existing labor organizations failed to protect them when mine owners deployed Pinkerton infiltrators to spy on unions, federal troops declared martial law, and 600 workers were imprisoned in "bull pens" without trial, charges, or bail for four months. The founding represents a determination to build a more militant and effective organization capable of resisting the combined power of mine owners, private security forces, and state military intervention.
 

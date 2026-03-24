@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-15--blumenthal-crypto-investigation
 date: '2025-03-15'
 importance: 9
@@ -40,6 +40,6 @@ sources:
 notes: Congressional oversight targets unprecedented crypto conflicts
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Senator Richard Blumenthal's Permanent Subcommittee on Investigations opens preliminary inquiry into Trump's digital assets, stating 'TRUMP allows, and even invites, anyone in the world, including foreign governments and unscrupulous individuals, to directly enrich the president.'

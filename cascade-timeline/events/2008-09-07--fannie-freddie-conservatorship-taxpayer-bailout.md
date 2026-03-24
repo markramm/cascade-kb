@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-09-07--fannie-freddie-conservatorship-taxpayer-bailout
 date: '2008-09-07'
 title: Fannie Mae and Freddie Mac Placed in Federal Conservatorship, $187 Billion Taxpayer Bailout
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Treasury Secretary Henry Paulson announces that Fannie Mae and Freddie Mac, the government-sponsored enterprises backing $5 trillion in home mortgages, will be placed into conservatorship under the newly created Federal Housing Finance Agency. The seizure represents the largest government intervention in financial markets in U.S. history, ultimately costing taxpayers $187 billion while executives who oversaw the collapse face no accountability.
 

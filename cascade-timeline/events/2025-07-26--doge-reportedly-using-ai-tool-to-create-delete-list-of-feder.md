@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -43,5 +43,5 @@ tags:
 - trump-administration
 title: 'DOGE Uses AI to Target Elimination of 50% of Federal Regulations'
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration's Department of Government Efficiency (DOGE) developed an AI tool aimed at eliminating 50% of federal regulations by January 2026, targeting approximately 100,000 rules across multiple agencies using AI-driven analysis

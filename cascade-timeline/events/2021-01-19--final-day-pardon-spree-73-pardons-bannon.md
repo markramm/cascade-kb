@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-19--final-day-pardon-spree-73-pardons-bannon
 date: '2021-01-19'
 title: Trump's Final Day Pardon Spree - 73 Pardons Including Bannon and Broidy
@@ -45,7 +45,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 In his final hours as president, Donald Trump issued 73 pardons and 70 commutations—143 acts of clemency in a single day, overwhelming the typical pardon process and demonstrating systematic corruption of executive power. The pardons went almost exclusively to political allies, campaign donors, and loyalists while conspicuously excluding family members and Rudy Giuliani, suggesting Trump's legal advisers warned him against pardons that could be challenged as obstruction of justice.
 

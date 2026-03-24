@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-04--california-special-election-redistricting-response
 date: '2025-11-04'
 title: California Special Election on Redistricting to Counter Texas GOP Gerrymandering
@@ -42,5 +42,5 @@ confirmed_date: '2025-08-14'
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 California voters decide Proposition 50 authorizing new congressional maps to flip 5 Republican seats Democratic, directly countering Trump-ordered Texas redistricting. Newsom's "Election Rigging Response Act" bypasses independent commission through 2030 if any Republican state redistricts mid-decade.

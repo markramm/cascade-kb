@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-13--top-trump-official-s-crypto-ties-raise-red-flags-as-the-admi
 date: '2025-03-13'
 title: Top Trump official's crypto ties raise red flags as the administration touts digital assets
@@ -51,6 +51,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Commerce Secretary Howard Lutnick's deep ties to the cryptocurrency industry have raised concerns about potential regulatory capture. Through his firm Cantor Fitzgerald and personal investments, Lutnick has significant financial interests in crypto firms while leading the Trump administration's push for lighter cryptocurrency regulation. Senator Elizabeth Warren has initiated an investigation into Lutnick's connections, particularly his ties to crypto firms with questionable financial histories.

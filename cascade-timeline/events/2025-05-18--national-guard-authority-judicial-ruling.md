@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-18--national-guard-authority-judicial-ruling
 date: '2025-05-18'
 title: Supreme Court Hearing Challenges Presidential National Guard Federalization Powers
@@ -35,5 +35,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Ongoing federal court cases challenge the president's authority to unilaterally federalize state National Guard units, with multiple states filing legal challenges to Trump's deployment of California's National Guard. The Ninth Circuit Court of Appeals ruled that the president likely has authority to federalize Guard troops, while 20 states argue this power violates constitutional principles of state sovereignty and federal-state balance.

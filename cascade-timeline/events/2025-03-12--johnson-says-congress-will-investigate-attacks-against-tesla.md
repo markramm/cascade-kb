@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-12--johnson-says-congress-will-investigate-attacks-against-tesla
 date: '2025-03-12'
 title: 'Johnson says Congress will investigate attacks against Tesla owners, vehicles'
@@ -45,5 +45,5 @@ capture_lanes:
 - Corporate Capture
 notes: Event demonstrates political manipulation through congressional investigation targeting perceived political opponents with potential broader implications for government-corporate relationships
 ---
-type: solidarity_event
+type: timeline_event
 House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla vehicles and owners, characterizing them as potential 'domestic terrorism' orchestrated by the 'radical Left', coinciding with broader scrutiny of Elon Musk's leadership of the Department of Government Efficiency

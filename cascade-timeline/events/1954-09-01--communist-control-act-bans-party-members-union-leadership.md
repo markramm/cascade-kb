@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1954-09-01--communist-control-act-bans-party-members-union-leadership
 date: '1954-09-01'
 title: Communist Control Act Bans Party Members from Union Leadership, Weaponizing Anti-Communism Against Labor
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Communist Control Act of 1954, preventing members of the Communist Party from holding office in labor unions and other labor organizations. The legislation represents the culmination of systematic efforts to weaponize anti-communism against labor organizing, following the Taft-Hartley Act of 1947, which required union leaders to sign non-communist affidavits or lose National Labor Relations Board protections. The 1954 act provides legal authority to exclude entire categories of political activists from union leadership, effectively criminalizing left-wing political beliefs in the labor context. The law builds on the CIO's 1949-1950 expulsion of eleven communist-led unions representing one million members, now giving federal sanction to purging radical elements from the labor movement.
 

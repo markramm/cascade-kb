@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2009-06-26--koch-network-launches-campaign-defeat-cap-and-trade
 date: '2009-06-26'
 title: Koch Network Mobilizes to Kill Waxman-Markey Cap-and-Trade Climate Bill
@@ -40,7 +40,7 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 After the U.S. House of Representatives passed the Waxman-Markey American Clean Energy and Security Act (cap-and-trade climate bill) on June 26, 2009, the Koch brothers' network immediately launched a massive campaign to kill the legislation in the Senate. Americans for Prosperity, whose top initial funding came from David Koch, deployed its "No Climate Tax" pledge to pressure senators into opposing the bill, ultimately securing enough commitments to prevent passage.
 

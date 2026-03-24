@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-01--starlink-400-million-faa-approval
 date: '2025-03-01'
 importance: 8
@@ -44,5 +44,5 @@ sources:
 notes: Multiple agencies simultaneously benefit Musk companies while he oversees federal spending
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 FAA approves 4,000 Starlink terminals worth $400 million despite existing contract with another company, while State Department announces $400 million Tesla Cybertruck contract and Commerce changes broadband requirements favoring Starlink.

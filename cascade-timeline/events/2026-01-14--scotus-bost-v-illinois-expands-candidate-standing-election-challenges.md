@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-14--scotus-bost-v-illinois-expands-candidate-standing-election-challenges
 date: '2026-01-14'
 title: Supreme Court Rules 7-2 in Bost v. Illinois That Candidates Have Standing to Challenge Election Rules
@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court ruled 7-2 in Bost v. Illinois State Board of Elections that political candidates have standing to challenge election rules governing how votes are counted in their elections, regardless of whether those rules actually harm their electoral prospects. Chief Justice John Roberts delivered the majority opinion, with Justices Jackson and Sotomayor dissenting.
 

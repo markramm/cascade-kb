@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-28--trump-gets-100m-deal-with-skadden-law-firm-amid-pressure-cam
 date: '2025-03-28'
 title: Trump gets $100M deal with Skadden law firm amid pressure campaign
@@ -42,5 +42,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 President Trump negotiated a $100 million pro bono legal services deal with Skadden, Arps, Slate, Meagher & Flom LLP, effectively avoiding an executive order that would have penalized the firm. The agreement includes specific conditions about employment practices and representation.

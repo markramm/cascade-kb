@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-06--trump-announces-dc-federal-takeover
 date: '2025-08-06'
 importance: 9
@@ -45,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump announced federal takeover of Washington DC police department and deployment of
 National Guard, using the assault on Edward Coristine as justification. Trump stated he

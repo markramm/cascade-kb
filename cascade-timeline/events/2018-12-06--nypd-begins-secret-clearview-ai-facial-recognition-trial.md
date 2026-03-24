@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-06--nypd-begins-secret-clearview-ai-facial-recognition-trial
 date: '2018-12-06'
 title: NYPD Begins Secret Trial of Clearview AI Facial Recognition Technology
@@ -29,7 +29,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The New York Police Department signed a nondisclosure agreement with Clearview AI on December 6, 2018, beginning a secret trial period that would run through March 6, 2019. The trial marked one of the first major law enforcement deployments of Clearview's controversial facial recognition technology, which had scraped billions of images from social media and the internet without consent. Emails between NYPD and Clearview AI show that CEO Hoan Ton-That was introduced to NYPD deputy inspector Chris Flanagan in October 2018, leading to the formal trial contract in December.
 

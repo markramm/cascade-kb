@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-07-27--daniel-hale-sentenced-drone-whistleblower
 date: 2021-07-27
 title: Daniel Hale Sentenced to 45 Months for Exposing Drone War Crimes
@@ -38,7 +38,7 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Former Air Force intelligence analyst and NSA contractor Daniel Everette Hale was sentenced to 45 months in federal prison for leaking classified documents that exposed the devastating civilian toll of the U.S. drone warfare program. His disclosures revealed that nearly 90 percent of people killed in drone strikes were not the intended targets.
 

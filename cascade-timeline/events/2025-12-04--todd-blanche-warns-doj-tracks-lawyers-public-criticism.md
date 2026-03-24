@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-04--todd-blanche-warns-doj-tracks-lawyers-public-criticism
 date: '2025-12-04'
 title: Deputy Attorney General Todd Blanche Warns DOJ Tracks Lawyers' Public Criticism of Prosecutions
@@ -61,7 +61,7 @@ capture_lanes:
 - Military-Industrial Complex
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Deputy Attorney General Todd Blanche delivered a chilling warning to corporate defense lawyers at the American Conference Institute's 42nd Annual Conference on Foreign Corrupt Practices Act (FCPA) and Global Anti-Corruption in Washington, DC. Speaking to hundreds of white-collar defense attorneys, Blanche explicitly stated that the Department of Justice monitors lawyers' public commentary and notices when their statements criticize the administration's enforcement priorities. He warned: 'If folks in this room are going to be honest brokers when counseling clients, posting on LinkedIn or writing client alerts, the public narrative should match the private one. If you publicly claim we are not enforcing white-collar crime aggressively enough, but privately insist that your clients are the victims of overreach, we notice that inconsistency.' Blanche also stated: 'It's remarkable how some members of the white-collar bar seem to have an endless stream of clients who are each coincidentally victims of supposed overreach or weaponization, but still publicly draft client alerts suggesting that the department is not prioritizing white-collar cases.' While he did not specify explicit repercussions, the implication was clear: lawyers who publicly criticize DOJ enforcement decisions may face disadvantages when seeking lenient treatment for their corporate clients.
 

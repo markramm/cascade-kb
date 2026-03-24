@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-12-21--fcc-passes-open-internet-order-weak-net-neutrality-rules
 date: '2010-12-21'
 title: FCC Passes First Net Neutrality Rules with Major Wireless Exemption in 3-2 Party-Line Vote
@@ -38,7 +38,7 @@ capture_lanes:
 - Judicial Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Communications Commission approves the Open Internet Order by a 3-2 party-line vote, establishing the first formal net neutrality regulations but with significant weaknesses that would prove legally vulnerable. FCC Chairman Julius Genachowski's order established three core rules: transparency in network management, no blocking of lawful content for fixed broadband, and no unreasonable discrimination for fixed providers. However, the rules created a controversial two-tier system that applied much weaker protections to wireless broadband than to fixed-line internet service.
 

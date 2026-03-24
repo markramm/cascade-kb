@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-06-12--corinthian-colleges-federal-investigation-fraud
 date: 2014-06-12
 title: Federal Government Cuts Off Corinthian Colleges - 72,000 Students Trapped by Fraud
@@ -35,7 +35,7 @@ capture_lanes:
 - Regulatory Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Department of Education imposed a 21-day hold on all federal aid flowing to Corinthian Colleges on June 12, 2014, after the for-profit chain—operating as Everest College, WyoTech, and Heald College—refused to provide documentation substantiating falsified job placement rates. The action came after 20 states, the Securities and Exchange Commission, the Consumer Financial Protection Bureau, and the Justice Department launched concurrent investigations into systemic fraud affecting 72,000 students and 12,000 employees across more than 100 campuses.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-19--noem-increases-self-deportation-stipend-3000
 date: '2025-12-19'
 title: Noem Increases Self-Deportation Incentive to $3,000, Promotes 'Home for the Holidays'
@@ -26,7 +26,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS Secretary Kristi Noem announced on Fox News that immigrants who voluntarily self-deport through the CBP Home app would receive a $3,000 stipend for the final weeks of 2025, tripling the $1,000 incentive introduced in May. Noem framed the increase as a "home for the holidays" message.
 

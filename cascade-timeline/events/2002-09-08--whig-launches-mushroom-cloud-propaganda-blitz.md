@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz
 date: '2002-09-08'
 importance: 9
@@ -43,6 +43,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The White House Iraq Group executes a coordinated propaganda campaign featuring the 'smoking gun/mushroom cloud' metaphor crafted by chief speechwriter Michael Gerson. On September 7-8, 2002, President Bush and top advisers appeared on multiple networks delivering identical nuclear fear messaging. National Security Advisor Condoleezza Rice declared on CNN: 'We don't want the smoking gun to be a mushroom cloud.' Vice President Cheney claimed on NBC's Meet the Press that Saddam was 'moving aggressively to develop nuclear weapons,' while President Bush told CBS that UN inspectors concluded Saddam was 'six months away from developing a weapon.' This sophisticated media blitz represented the culmination of WHIG's marketing strategy, timed for maximum impact after Labor Day as Andrew Card had stated: 'From a marketing point of view, you don't introduce new products in August.' The synchronized messaging campaign relied on fabricated intelligence about aluminum tubes and nuclear programs that CIA analysts had already debunked. WHIG's September rollout transformed unsubstantiated claims into seeming consensus through coordinated repetition across major media outlets, demonstrating the institutionalization of propaganda within the executive branch.

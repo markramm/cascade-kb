@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2024-07-01'
 title: 'Paul Dans Departs Project 2025, Kevin Roberts Takes Leadership'
 actors:
@@ -36,5 +36,5 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 Paul Dans, original Project 2025 director, stepped down from leadership in late July 2024 after tensions with the Trump campaign. Heritage Foundation President Kevin Roberts assumed control, continuing the project's policy development while distancing it from direct campaign involvement.

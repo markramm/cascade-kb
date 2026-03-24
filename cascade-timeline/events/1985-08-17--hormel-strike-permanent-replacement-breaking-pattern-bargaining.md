@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1985-08-17--hormel-strike-permanent-replacement-breaking-pattern-bargaining
 date: '1985-08-17'
 title: Hormel Strike Broken Through Permanent Replacement, Ending Pattern Bargaining in Meatpacking
@@ -41,7 +41,7 @@ capture_lanes:
 - Corporate Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 United Food and Commercial Workers Local P-9 workers at Hormel's flagship Austin, Minnesota plant strike against wage cuts from $10.69 to $8.25 per hour, seeking to maintain the meatpacking industry's traditional "pattern bargaining" where major companies matched union wage standards. Hormel provokes the strike deliberately, then hires permanent replacement workers to maintain production, following the Phelps Dodge template and Reagan's PATCO precedent that striker replacement is an acceptable management tactic.
 

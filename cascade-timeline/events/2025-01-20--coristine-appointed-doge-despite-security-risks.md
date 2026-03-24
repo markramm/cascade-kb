@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--coristine-appointed-doge-despite-security-risks
 date: '2025-01-20'
 importance: 9
@@ -45,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward "Big Balls" Coristine, 19, was appointed to DOGE and granted access to the State
 Department, CISA, DHS, FEMA, and Office of Personnel Management despite being fired from

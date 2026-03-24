@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--trump-lifts-sanctions-140m-barrels-iranian-oil
 date: '2026-03-20'
 title: Trump Issues 30-Day Waiver Allowing Purchase of 140M Barrels of Iranian Oil to Ease Price Surge
@@ -43,7 +43,7 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 20, 2026, the Treasury Department issued a 30-day waiver allowing international buyers to purchase approximately 140 million barrels of Iranian crude oil sitting in floating storage on tankers — an extraordinary policy reversal by an administration that was simultaneously conducting one of the most intensive bombing campaigns in modern history against the same country whose oil it was now releasing for sale. Oil prices had risen more than 50 percent since the war began on February 28, and the waiver was designed to inject supply into a market in crisis.
 

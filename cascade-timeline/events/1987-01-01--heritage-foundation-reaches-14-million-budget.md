@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-01-01--heritage-foundation-reaches-14-million-budget
 date: '1987-01-01'
 title: Heritage Foundation Budget Reaches $14.3 Million - Scale of Corporate Policy Investment
@@ -38,7 +38,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 By 1987, the Heritage Foundation's annual budget had reached $14.3 million, representing a doubling from $7.1 million in 1981 and demonstrating the massive scale of corporate investment in conservative policy infrastructure. The foundation would reach $14.6 million by 1988, establishing Heritage as the largest and best-funded conservative think tank in America.
 
 The dramatic funding growth was driven primarily by two major donors: Joseph Coors, who provided the initial $250,000 seed money in 1973, and Richard Mellon Scaife, who became the primary donor through the Scaife Family Charitable Trust, contributing tens of millions over two decades. Additional corporate support came from trustees affiliated with Chase Manhattan Bank, Dow Chemical, General Motors, Mobil, Pfizer, Sears, and other major corporations.

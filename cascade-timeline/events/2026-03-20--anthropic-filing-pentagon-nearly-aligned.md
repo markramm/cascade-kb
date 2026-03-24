@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--anthropic-filing-pentagon-nearly-aligned
 date: '2026-03-20'
 title: "Anthropic Filing Reveals Pentagon Emailed Day After Blacklist Saying Sides Were \"Very Close\" — Calls DOD Claim of Approval Demand \"A Central Falsehood\""
@@ -26,7 +26,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 20, 2026, Anthropic filed sworn declarations in the Northern District of California that fundamentally contradicted the Pentagon's public narrative about why the company had been blacklisted. The filing revealed that on March 4 — the day after the supply chain risk designation was announced — Under Secretary Emil Michael had emailed Anthropic CEO Dario Amodei stating that the two sides were "very close" on the key issues of autonomous weapons policy and surveillance guardrails. The email directly undermined the Pentagon's claims that negotiations had broken down due to irreconcilable disagreements.
 

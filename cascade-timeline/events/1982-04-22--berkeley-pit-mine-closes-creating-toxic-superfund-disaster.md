@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-04-22--berkeley-pit-mine-closes-creating-toxic-superfund-disaster
 date: '1982-04-22'
 title: Berkeley Pit Mine Closes on Earth Day, Pumps Shut Off, Creating Toxic Lake Superfund Site
@@ -41,7 +41,7 @@ sources:
   date: '2024'
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 Atlantic Richfield Company (ARCO) closed the Berkeley Pit copper mine on Earth Day 1982 and immediately shut off the pumps that had kept groundwater out of the massive excavation, beginning the pit's transformation into one of the most toxic bodies of water in North America. The corporate decision to cease dewatering operations created a growing lake of acidic, metal-laden water that would become the centerpiece of the nation's most expensive Superfund site. This case exemplifies the "privatize profits, socialize costs" model where corporations extract billions in resources then abandon environmental catastrophes for taxpayers to manage in perpetuity.
 

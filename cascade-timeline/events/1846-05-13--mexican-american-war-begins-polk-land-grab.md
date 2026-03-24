@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1846-05-13--mexican-american-war-begins-polk-land-grab
 date: '1846-05-13'
 title: Mexican-American War Begins as Deliberate Land Grab for Slavery Expansion
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President James K. Polk obtains a declaration of war against Mexico after deliberately provoking hostilities by sending American troops into disputed territory between the Nueces River (Mexico's claimed boundary) and the Rio Grande (Texas's claimed boundary) in January 1846. When Mexican forces fire on American troops on April 25, 1846, Polk tells Congress that Mexico has "shed American blood upon American soil," securing his desired war declaration on May 13, 1846, despite knowing the incident occurred in contested territory. The war represents a transparently imperialist land grab designed to acquire Mexican territory—particularly California and the Southwest—to expand slavery and enrich land speculators, demonstrating how executive manipulation of international incidents can manufacture justification for wars of territorial conquest serving elite economic interests.
 

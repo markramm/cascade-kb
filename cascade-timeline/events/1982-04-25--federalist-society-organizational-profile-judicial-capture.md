@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1982-04-25--federalist-society-organizational-profile-judicial-capture
 date: '1982-04-25'
 status: confirmed
@@ -55,7 +55,7 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Comprehensive organizational analysis reveals the Federalist Society as the most successful judicial capture mechanism in American history, systematically placing conservative judges throughout the federal judiciary through a three-division structure spanning law schools, practicing attorneys, and legal academia. Founded at Yale and University of Chicago law schools in 1982 by Steven Calabresi, David McIntosh, and Lee Liberman Otis, the organization expanded from 17 law school chapters (1983) to 200+ chapters coordinating 10,000+ law students, 70,000+ attorneys across 90 cities, and faculty divisions at most law schools.
 

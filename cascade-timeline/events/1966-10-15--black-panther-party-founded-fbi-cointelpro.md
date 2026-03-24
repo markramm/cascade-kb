@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1966-10-15--black-panther-party-founded-fbi-cointelpro
 date: '1966-10-15'
 title: Black Panther Party Formation in Oakland Triggers Immediate FBI COINTELPRO Surveillance and State Repression
@@ -42,7 +42,7 @@ capture_lanes:
 - Surveillance Infrastructure
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 College students Bobby Seale and Huey P. Newton found the Black Panther Party for Self-Defense in West Oakland, California, in response to systemic police brutality against African Americans. The organization emerges from the racial tensions and policing practices that plague Oakland, influenced by the teachings of Malcolm X, who advocated for Black self-determination and defense "by any means necessary."
 

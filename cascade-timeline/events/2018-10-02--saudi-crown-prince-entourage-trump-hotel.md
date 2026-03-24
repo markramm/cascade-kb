@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-10-02--saudi-crown-prince-entourage-trump-hotel
 date: '2018-10-02'
 title: Saudi Crown Prince's Entourage Books Trump Hotel During Khashoggi Crisis
@@ -53,7 +53,7 @@ patterns:
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Crown Prince Mohammed bin Salman's entourage booked approximately 500 rooms at 
 Trump International Hotel in New York during his U.S. visit, generating significant 

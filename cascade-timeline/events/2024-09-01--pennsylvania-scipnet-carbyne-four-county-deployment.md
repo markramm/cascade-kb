@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-01--pennsylvania-scipnet-carbyne-four-county-deployment
 date: '2024-09-01'
 title: Pennsylvania SCIPNet deploys Carbyne APEX across four counties, becoming first state NG911 system with $3.5 million contract
@@ -41,7 +41,7 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 South Central Inter-County Phone Network (SCIPNet)—a four-county Pennsylvania consortium comprising Adams, Cumberland, Dauphin, and Franklin counties—successfully deployed Carbyne APEX cloud-native emergency call-handling platform in September 2024, becoming the first Next Generation 911 system in Pennsylvania and securing $2.6 million in State Interoperability Grants to offset the $3.5 million total contract cost. The deployment brought AI-driven real-time language translation, surge call mitigation, live video streaming, instant messaging, and comprehensive multimedia data integration into a unified platform serving central Pennsylvania's emergency response infrastructure.
 

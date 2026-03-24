@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-07--tillis-calls-for-miller-firing-greenland-comments
 date: '2026-01-07'
 title: GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired
@@ -27,7 +27,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Republican Senator Thom Tillis of North Carolina issued a scathing public rebuke of White House Deputy Chief of Staff Stephen Miller following Miller's declaration that Greenland should "obviously" be part of the United States and that "nobody is going to fight the United States militarily over the future of Greenland."
 

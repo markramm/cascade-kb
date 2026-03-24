@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1965-03-07--bloody-sunday-selma-edmund-pettus-bridge
 date: '1965-03-07'
 title: Alabama State Troopers Attack Voting Rights Marchers on Edmund Pettus Bridge in Selma Bloody Sunday
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 7, 1965, approximately 600 voting rights activists began a march from Selma, Alabama, to the state capital of Montgomery to protest the killing of Jimmie Lee Jackson and the systematic denial of voting rights to Black citizens. Led by Student Nonviolent Coordinating Committee chairman John Lewis and Southern Christian Leadership Conference's Hosea Williams, the marchers proceeded without interruption until they reached the Edmund Pettus Bridge at the edge of Selma. There, they were met by Alabama State Troopers and local law enforcement who had been ordered to stop the march by any means necessary. What followed became known as "Bloody Sunday"—one of the most brutal episodes of state-sanctioned violence against peaceful protesters in American history.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-01-01--epstein-barak-carbyne-surveillance-investment
 date: '2015-01-01'
 title: Epstein and Barak invest in Carbyne surveillance tech founded by Unit 8200 chief
@@ -63,7 +63,7 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 Jeffrey Epstein and Ehud Barak jointly invested in Carbyne (initially Reporty Homeland Security), a sophisticated surveillance technology company co-founded by Unit 8200 veterans Lital Leshem, Amir Elichai, and Alex Dizengof. Barak invested $1.5 million through a limited partnership company called Sum (E.B.) 2015, with Epstein financing much of the investment through a British Virgin Islands company named Southern Trust. The company's board included Pinchas Buchris (former commander of Unit 8200) and Nicole Junkermann, both close Epstein associates.
 
 Carbyne developed an advanced Next-Generation 911 platform providing complete GPS location, live video streaming, and camera access during emergency calls, with the explicit goal of interconnecting all 911 systems nationwide. Co-founder Leshem, who served in Unit 8200 from 2005-2011, would later work for both Black Cube private intelligence and Erik Prince's Frontier Resource Group while maintaining her Carbyne shareholding. The partnership strategically positioned the company to seek opportunities in the surveillance industry, with Epstein arranging meetings between Barak and Peter Thiel in May 2014, ultimately attracting Thiel's Founders Fund investment in the $15 million Series B round in August 2018.

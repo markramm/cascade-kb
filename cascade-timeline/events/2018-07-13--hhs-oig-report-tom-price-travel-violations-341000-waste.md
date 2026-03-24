@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-13--hhs-oig-report-tom-price-travel-violations-341000-waste
 title: HHS Inspector General Finds Tom Price Violated Federal Travel Rules, Wasted $341,000 on Private Jets
 date: '2018-07-13'
@@ -43,7 +43,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 13, 2018, the Department of Health and Human Services Office of Inspector General released a report finding that former HHS Secretary Tom Price violated federal travel regulations on 20 of 21 trips reviewed, wasting at least $341,000 in taxpayer funds through improper use of chartered aircraft and military planes. The OIG determined Price's office failed to complete required cost comparisons to commercial airline service, did not properly authorize charter flights, violated contract requirements, and approved travel that started or ended in locations other than Price's official duty station. The report—issued 10 months after Price's September 2017 resignation amid private jet scandals—documented systematic violations of federal travel rules and recommended HHS seek to recoup $341,000 plus the $59,390 Price had already repaid, exposing weak oversight that enabled Cabinet-level corruption.
 

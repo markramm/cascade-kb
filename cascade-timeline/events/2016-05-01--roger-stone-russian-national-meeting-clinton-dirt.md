@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-05-01--roger-stone-russian-national-meeting-clinton-dirt
 date: '2016-05-01'
 title: Roger Stone Meets Russian National Offering Clinton Dirt for $2 Million
@@ -52,7 +52,7 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 Roger Stone and Michael Caputo met with a Russian national calling himself "Henry Greenberg" in May 2016 at a cafe in Sunny Isles, Florida. Greenberg claimed to have access to damaging information about Hillary Clinton, demanding that Donald Trump pay $2 million for it. Stone reportedly rejected the offer, saying "You don't understand Donald Trump" — implying Trump would not pay. The meeting was arranged by Trump campaign aide Michael Caputo.
 
 Greenberg, also identified as Henry Oknyansky, claimed to be an FBI informant, though records indicated he had stopped working with the agency after 2013. Neither Stone nor Caputo initially disclosed the meeting to congressional investigators probing Russian election interference. Their failure to report the contact raised concerns about consciousness of the meeting's problematic nature. The encounter was first reported by The Washington Post in June 2018.

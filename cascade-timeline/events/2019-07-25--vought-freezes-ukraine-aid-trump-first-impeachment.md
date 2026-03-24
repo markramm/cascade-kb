@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-07-25--vought-freezes-ukraine-aid-trump-first-impeachment
 date: '2019-07-25'
 title: Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
@@ -32,6 +32,6 @@ capture_lanes:
 - Executive Power Expansion
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Acting OMB Director Russell Vought ordered the freeze of $214 million in congressionally approved security assistance to Ukraine in July 2019 after the Trump White House pressured Ukraine's government to investigate then-candidate Joe Biden and his son Hunter. On July 25, 2019, Trump made his infamous phone call to Ukrainian President Volodymyr Zelenskyy, and in mid-June, White House aide Robert Blair had told Vought "we need to hold it up." Vought obliged despite concerns from career officials about the legality of withholding funds Congress had appropriated. The Government Accountability Office later determined the impoundment was illegal, violating the Impoundment Control Act. The aid freeze became central to Trump's first impeachment, with House Democrats seeking to interview Vought as part of their investigation. Vought refused to cooperate, stating: "We will not be participating in a sham process that's designed to relitigate the last election." The Ukraine aid freeze demonstrated Vought's willingness to execute Trump's illegal orders and disregard congressional appropriations authority—tactics he would refine and expand during Trump's second term when freezing hundreds of billions in blue state funding. The episode established Vought's role as Trump's enforcer for undermining congressional power through budget manipulation, a blueprint he would follow systematically in 2025 as "shadow president."

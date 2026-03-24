@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1983-03-09--anne-gorsuch-resigns-epa-superfund-scandal
 date: '1983-03-09'
 title: 'Anne Gorsuch Resigns EPA After Contempt of Congress: Regulatory Capture Exposed'
@@ -49,7 +49,7 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Anne Gorsuch Burford resigns as EPA Administrator after becoming the first cabinet-level official in American history held in contempt of Congress. Gorsuch had refused to turn over Superfund records related to a $1.6 billion hazardous waste cleanup program, citing executive privilege on Reagan's orders. Her 22-month tenure exemplifies industry capture of environmental regulation: she cut EPA's budget by 22%, reduced enforcement cases against polluters, relaxed Clean Air Act regulations, and facilitated spraying of restricted pesticides. The scandal forces 21 EPA officials out of the agency.
 

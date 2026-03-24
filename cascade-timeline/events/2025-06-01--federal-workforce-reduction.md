@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-01--federal-workforce-reduction
 date: '2025-06-01'
 importance: 6
@@ -44,6 +44,6 @@ sources:
 notes: Labor Department confirmed 59,000 jobs lost by June 4, 2025, with 22,000 in May alone. OPM confirmed 154,000 employees opted into deferred resignation program (6% of civilian workforce), receiving full pay/benefits through fiscal year end Sept 30. Partnership for Public Service tracking shows 148,000 total separations by July 21.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Department of Labor reported 59,000 federal jobs eliminated by June 2025 under DOGE initiative, with additional 154,000 employees (6% of 2.3 million civilian workforce) participating in deferred resignation program paying full salary and benefits through September 30, 2025 to accelerate exodus of career officials.

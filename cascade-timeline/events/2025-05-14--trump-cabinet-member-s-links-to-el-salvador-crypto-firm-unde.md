@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Howard Lutnick
@@ -55,5 +55,5 @@ tags:
 - el-salvador
 title: 'Trump Commerce Secretary''s Crypto Firm Ties to El Salvador Reveal Complex Business Networks'
 ---
-type: solidarity_event
+type: timeline_event
 Commerce Secretary Howard Lutnick's Cantor Fitzgerald has significant business interests in cryptocurrency, including a 5% stake in Tether and a $775 million investment in Rumble. These investments reveal complex connections between the Trump administration, cryptocurrency firms, and El Salvador's government, highlighting potential regulatory capture and conflict of interest.

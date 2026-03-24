@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-18--trump-eo-independent-agencies-control
 date: '2025-02-18'
 title: Trump Signs Order to Claim Power Over Independent Agencies
@@ -52,6 +52,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump signed executive order "Ensuring Accountability for All Agencies" requiring independent agencies like FTC, SEC, and FCC to submit regulations for White House review, effectively ending 90 years of agency independence and bringing them under direct presidential control.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-28--judge-schiltz-ice-violated-96-court-orders-minnesota
 date: '2026-01-28'
 status: confirmed
@@ -34,7 +34,7 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Court Chief Judge Patrick Schiltz, a George W. Bush appointee, issued a blistering order finding that ICE violated at least 96 court orders across 74 cases in Minnesota during January 2026 alone. Schiltz stated that ICE "has likely violated more court orders in January 2026 than some federal agencies have violated in their entire existence." The judge acknowledged that his "hurriedly compiled" list was incomplete and that "undoubtedly, mistakes were made, and orders that should have appeared on this list were omitted."
 

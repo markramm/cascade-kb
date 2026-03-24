@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-10-16--ivanka-16-chinese-trademarks
 date: '2018-10-16'
 importance: 6
@@ -41,6 +41,6 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Chinese government approved 16 trademarks for Ivanka Trump's fashion business in October 2018 while she served as White House senior advisor during U.S.-China trade negotiations. Approvals included rare categories like voting machines. Earlier in April 2017, China approved 3 trademarks the same day she dined with President Xi at Mar-a-Lago. Additional approvals came days before Trump announced support for lifting ZTE ban. CREW documented 3,403 conflicts of interest during her government service.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1980-01-01--banking-industry-glass-steagall-erosion-campaign-begins
 date: '1980-01-01'
 title: Banking Industry Launches Systematic Campaign to Erode Glass-Steagall Act
@@ -54,7 +54,7 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Large commercial banks launch a coordinated, multi-pronged campaign to systematically dismantle the Glass-Steagall Act's financial regulations. This strategic effort involves regulatory capture through administrative reinterpretations, academic influence to discredit Depression-era banking safeguards, and sustained legislative pressure for formal repeal. The campaign represents a fundamental shift from New Deal financial protections toward aggressive financial deregulation, driven by banks' claims of reduced global competitiveness.
 

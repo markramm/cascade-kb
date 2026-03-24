@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-12--mussayev-alleges-putin-trump-epstein-kompromat
 date: '2025-08-12'
 title: Former Kazakhstan intelligence chief alleges Putin holds Trump-Epstein kompromat files
@@ -43,7 +43,7 @@ sources:
   tier: 2
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 Alnur Mussayev, former chief of Kazakhstan's National Security Committee, alleged that Vladimir Putin possesses comprehensive kompromat files on Donald Trump, linking Trump to the Epstein network. Mussayev claims the FSB holds materials documenting financial transactions, sexual crimes, and potential blackmail material. However, these allegations remain unverified, with significant credibility questions surrounding Mussayev's claims.
 

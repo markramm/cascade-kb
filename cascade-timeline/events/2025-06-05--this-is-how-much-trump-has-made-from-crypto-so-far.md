@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-05--this-is-how-much-trump-has-made-from-crypto-so-far
 date: '2025-06-05'
 title: This is how much Trump has made from crypto—so far
@@ -51,5 +51,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-10-12--alex-jones-sandy-hook-defamation-trial-verdict
 date: '2022-10-12'
 title: Alex Jones Ordered to Pay $965 Million in Sandy Hook Defamation Trial
@@ -39,5 +39,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 A Connecticut jury awarded $965 million in damages to families of Sandy Hook victims, representing the largest defamation verdict against conspiracy theorist Alex Jones. The landmark decision stemmed from Jones' repeated false claims that the 2012 school shooting was a 'hoax', causing significant emotional distress to victims' families who endured years of harassment and threats. This verdict marked a critical moment in holding media personalities accountable for spreading harmful misinformation.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1829-03-04--jackson-inaugurates-spoils-system-patronage-corruption
 date: '1829-03-04'
 title: Andrew Jackson Inaugurates Spoils System, Replacing Merit with Political Loyalty
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Upon assuming office in March 1829, President Andrew Jackson immediately implements the "spoils system," sweeping employees from over 900 political offices—approximately 10 percent of all federal appointments—and replacing them with political supporters, friends, and relatives as rewards for working toward his electoral victory. The practice, named after New York Senator William Marcy's 1832 defense that "to the victor belong the spoils," represents a fundamental shift from merit-based civil service to patronage appointments where political loyalty takes precedence over qualifications, competence, or experience. Jackson argues that rotation in office will make government more representative and prevent the creation of a permanent bureaucracy, but the system instead produces widespread corruption and administrative incompetence.
 

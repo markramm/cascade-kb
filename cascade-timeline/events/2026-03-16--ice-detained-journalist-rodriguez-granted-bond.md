@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-16--ice-detained-journalist-rodriguez-granted-bond
 date: '2026-03-16'
 title: ICE-Detained Journalist Estefany Rodriguez Granted $10K Bond After 12 Days in Custody
@@ -34,7 +34,7 @@ capture_lanes:
 - Media Capture & Control
 - Immigration System Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 16, 2026, an immigration judge granted a $10,000 bond to Estefany Rodriguez, a reporter for Nashville Noticias who had been detained by ICE on March 4 without a warrant while covering immigration enforcement operations in Nashville. The bond ruling came after Rodriguez had spent 12 days in federal custody, during which she was transferred to a detention facility in Louisiana far from her legal counsel and community.
 

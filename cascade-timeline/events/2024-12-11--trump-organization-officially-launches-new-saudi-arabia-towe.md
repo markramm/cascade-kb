@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-12-11--trump-organization-officially-launches-new-saudi-arabia-towe
 date: '2024-12-11'
 title: Trump Organization launches $530M Saudi Arabia tower weeks before inauguration
@@ -51,7 +51,7 @@ patterns:
 - kleptocratic-capture
 notes: Event extracted from comprehensive timeline tracking kleptocratic patterns.
 ---
-type: solidarity_event
+type: timeline_event
 
 Eric Trump announced the Trump Organization's first Saudi Arabia project—a 47-floor,
 SAR 2 billion ($530M) Trump Tower in Jeddah, developed with London-listed Dar Global.

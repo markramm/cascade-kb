@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-07-16--xai-grok-safety-protocol-controversies
 date: '2024-07-16'
 title: xAI Faces Major Criticism Over Grok AI Safety Failures
@@ -35,5 +35,5 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 xAI, Elon Musk's AI company, encountered significant criticism for its lack of transparency and safety protocols surrounding the Grok AI system. Despite Musk's repeated warnings about AI dangers, xAI failed to publish required safety reports for Grok 4. Leading AI safety researchers from Anthropic and OpenAI publicly condemned xAI's 'reckless' approach, highlighting instances of inappropriate AI responses, including antisemitic comments. The Pentagon nonetheless signed a $200 million contract to deploy Grok across federal systems, raising serious concerns about AI governance and responsible development.

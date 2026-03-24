@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1917-08-01--frank-little-lynched-butte-iww-organizer-murdered-vigilantes
 date: '1917-08-01'
 title: 'Frank Little Lynched: IWW Executive Board Member Murdered by Vigilantes in Butte'
@@ -34,7 +34,7 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 In the early morning hours of August 1, 1917, six masked men dragged IWW executive board member Frank Little from his Butte, Montana boarding house, tied him to the rear bumper of an automobile, dragged him through the streets, and hanged him from a railroad trestle. A note pinned to his body read "3-7-77," a reference to Montana vigilante violence, along with the first initial and names of six other union organizers targeted for death.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-21--trump-drops-or-pauses-cases-against-17-corporations-that-fun
 date: '2025-04-21'
 title: Trump drops or pauses cases against 17 corporations that funded his inauguration
@@ -46,7 +46,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 Public Citizen and Truthout documented in April 2025 that the Trump administration had dropped, paused, or settled federal enforcement actions against at least 17 corporations that had donated to Trump's inauguration fund — a $50 million pool drawn significantly from corporations that were simultaneously under federal investigation or facing enforcement proceedings. The pattern, which Public Citizen termed "corporate clemency," showed a systematic correlation between inaugural donations and favorable regulatory or legal treatment, constituting what critics characterized as a large-scale pay-to-play scheme operated through the presidential inauguration apparatus.
 
 The affected corporations included companies facing Federal Trade Commission antitrust investigations, Securities and Exchange Commission enforcement actions, Department of Justice investigations, and regulatory proceedings at multiple agencies. In case after case, the pattern was similar: a company facing federal enforcement donated to Trump's inaugural fund, and the case against it was subsequently dropped, paused, or settled on favorable terms. Public Citizen's report — "Corporate Clemency: How Trump Is Halting Enforcement Against Corporate Lawbreakers" — catalogued the cases and their resolution timelines, documenting the correlation between donation and case resolution.

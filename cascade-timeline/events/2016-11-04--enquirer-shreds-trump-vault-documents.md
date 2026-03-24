@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-11-04--enquirer-shreds-trump-vault-documents
 date: '2016-11-04'
 importance: 9
@@ -52,5 +52,5 @@ capture_lanes:
 - Electoral Manipulation
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 After Wall Street Journal calls about McDougal payment, Dylan Howard orders staff to "get everything out of the safe" and shred documents, destroying evidence days before election. The Enquirer's leadership, including CEO David Pecker, maintained a 'catch and kill' safe containing damaging stories about Trump during the 2016 campaign.

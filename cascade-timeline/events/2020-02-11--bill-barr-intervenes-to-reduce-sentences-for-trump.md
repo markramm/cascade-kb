@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-02-11--bill-barr-intervenes-to-reduce-sentences-for-trump
 date: '2020-02-11'
 importance: 8
@@ -41,6 +41,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Bill Barr personally intervened to reduce sentencing recommendations for Trump allies Roger Stone and Michael Flynn, causing four career prosecutors to withdraw from Stone's case in protest and one to resign from DOJ entirely. After prosecutors recommended 7-9 years for Stone's witness tampering and lying to Congress, Barr overruled them following a Trump tweet calling the sentence 'horrible and unfair.' Barr then moved to dismiss charges against Flynn despite his guilty plea for lying to the FBI. Over 2,000 former DOJ officials signed a letter calling for Barr's resignation, stating he 'assaulted the rule of law.' Federal Judge Emmet Sullivan accused Barr of a 'gross abuse of prosecutorial power.' This politicization of justice marked an unprecedented use of DOJ to protect presidential allies from criminal consequences.

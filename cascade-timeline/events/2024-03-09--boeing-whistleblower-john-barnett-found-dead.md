@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-09--boeing-whistleblower-john-barnett-found-dead
 date: '2024-03-09'
 title: 'Boeing Whistleblower John Barnett Found Dead During Deposition, Ruled Suicide'
@@ -44,7 +44,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 John Barnett, a 32-year Boeing quality control manager and prominent whistleblower who had raised numerous safety concerns about the 787 Dreamliner, was found dead from a gunshot wound to the head in his truck in a hotel parking lot in Charleston, South Carolina. He was in Charleston for deposition in his ongoing whistleblower retaliation lawsuit against Boeing. His death occurred on March 9, 2024, during a break in the deposition proceedings, and was ruled a suicide by the Charleston County Coroner.
 
 Barnett had worked in quality control at Boeing for 32 years, spending his final seven years as a manager at Boeing South Carolina. He became a prominent whistleblower after reporting systematic quality control failures in 787 Dreamliner production, including metal shavings left near flight control wiring, defective oxygen systems, and compromised emergency equipment. He filed substantiated safety reports with the FAA and was featured in the 2022 Netflix documentary "Downfall: The Case Against Boeing."

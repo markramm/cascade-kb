@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1986-11-25--iran-contra-scandal-publicly-exposed
 date: 1986-11-25
 title: Attorney General Meese Reveals Iran-Contra Scandal to Public
@@ -37,7 +37,7 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Edwin Meese announces that proceeds from secret arms sales to Iran were illegally diverted to fund Nicaraguan Contra rebels, publicly exposing the Iran-Contra scandal that had been revealed three weeks earlier by the Lebanese magazine Ash-Shiraa on November 3. The announcement comes after National Security Advisor John Poindexter and NSC staff member Oliver North have spent four days systematically destroying incriminating documents.
 

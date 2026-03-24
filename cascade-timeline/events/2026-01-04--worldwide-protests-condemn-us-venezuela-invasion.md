@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-04--worldwide-protests-condemn-us-venezuela-invasion
 date: '2026-01-04'
 title: Worldwide Protests Condemn U.S. Invasion of Venezuela, Over 100 U.S. Cities Plan Demonstrations
@@ -28,7 +28,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Protesters around the world took to the streets to condemn the U.S. military invasion of Venezuela and capture of President Nicolas Maduro, which was announced on January 3, 2026. In the United States, weekend protests were planned in over 100 cities as anti-war coalitions mobilized against what many described as an illegal act of aggression violating international law and Venezuelan sovereignty.
 

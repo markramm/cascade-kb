@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-09-13--air-force-turnberry-stays-prestwick-review
 date: '2019-09-13'
 importance: 6
@@ -61,5 +61,5 @@ sources:
   verified: true
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 An Air Force internal review reported that about 6% (39 of 659) of aircrew overnights near Prestwick Airport were at Trump Turnberry; most crews stayed closer to the airfield or in Glasgow. Separately, DHS OIG reported about $9,662 in Secret Service payments to Turnberry for rooms, golf carts, and logistics during the President's July 2018 visit—while also noting incomplete cost data due to system limitations. The reviews raised questions about the ethical implications of government personnel staying at a resort owned by the sitting president, even when technically complying with existing policies.

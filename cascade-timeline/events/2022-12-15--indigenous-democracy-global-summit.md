@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-15--indigenous-democracy-global-summit
 date: '2022-12-15'
 title: Global Indigenous Democracy and Governance Summit
@@ -38,5 +38,5 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 International conference exploring indigenous democratic practices, highlighting the sophisticated governance models developed by Indigenous peoples across North America. Researchers from multiple disciplines presented evidence of complex democratic institutions in Indigenous societies, challenging Western-centric views of democratic governance. The summit emphasized how Indigenous governance systems facilitate broad participation, consensus-building, and equitable power distribution through unique institutional arrangements.

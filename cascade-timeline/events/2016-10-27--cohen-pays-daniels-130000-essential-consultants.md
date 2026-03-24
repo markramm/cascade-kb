@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-10-27--cohen-pays-daniels-130000-essential-consultants
 date: '2016-10-27'
 importance: 9
@@ -48,7 +48,7 @@ sources:
 notes: Payment made 11 days before election. Cohen used fraudulent home equity loan. Criminal campaign finance violation. Trump later convicted of falsifying records related to reimbursement.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Michael Cohen wires $130,000 from Essential Consultants LLC to Stormy Daniels' attorney, using fraudulent HELOC loan, completing hush money payment days before election
 
 On October 27, 2016 — just 12 days before the presidential election — Michael Cohen wired $130,000 from his Essential Consultants LLC shell company to attorney Keith Davidson, who represented adult film actress Stormy Daniels. Cohen funded the payment using a fraudulent home equity line of credit on his personal residence, bypassing normal bank channels. The wire transfer completed a non-disclosure agreement in which Daniels agreed to stay silent about an alleged 2006 sexual encounter with Trump.

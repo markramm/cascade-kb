@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-19--ashli-babbitt-s-family-to-receive-5-million-in-settlement-wi
 date: '2025-05-19'
 title: 'DOJ Settles Ashli Babbitt Lawsuit for $5 Million, Sparking Law Enforcement Controversy'
@@ -45,5 +45,5 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration's Department of Justice agreed to pay $5 million to settle a wrongful death lawsuit brought by the family of Ashli Babbitt, the January 6 rioter fatally shot while attempting to breach the Capitol. The settlement, which resolves a $30 million suit, drew criticism from Capitol Police leadership who argued it sends a 'chilling message' to law enforcement.

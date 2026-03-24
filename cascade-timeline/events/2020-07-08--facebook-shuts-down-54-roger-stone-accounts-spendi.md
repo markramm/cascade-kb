@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-07-08--facebook-shuts-down-54-roger-stone-accounts-spendi
 date: '2020-07-08'
 importance: 6
@@ -39,6 +39,6 @@ sources:
 notes: Digital influence operations parallel to Russian active measures tactics
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook removed network of 54 accounts, 50 pages, and 4 Instagram accounts linked to Roger Stone in July 2020. Network spent over $308,000 on advertising since 2015, used fake accounts to pose as Florida residents and evade enforcement. Connected to Proud Boys and active during 2016 election when Stone advised Trump campaign.

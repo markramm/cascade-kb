@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-08-26--supreme-court-strikes-down-cdc-eviction-moratorium
 date: '2021-08-26'
 importance: 6
@@ -44,6 +44,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Supreme Court ruled 6-3 to block the Biden administration's CDC eviction moratorium covering areas with high COVID transmission, finding the agency exceeded its statutory authority. The Court held that '[i]f a federally imposed eviction moratorium is to continue, Congress must specifically authorize it.' President Biden had acknowledged the legal vulnerability when issuing the August 3 order, admitting 'I can't guarantee you the court won't rule we don't have that authority,' but proceeded to buy time for rental assistance distribution. The moratorium, challenged by the Alabama Association of Realtors, was costing landlords $19 billion monthly. This decision, along with the OSHA mandate ruling, established precedent limiting executive agency emergency powers without explicit Congressional authorization.

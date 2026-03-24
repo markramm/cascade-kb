@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-23--oil-prices-slide-ceasefire-hopes
 date: '2026-03-23'
 title: Oil Prices Drop Sharply on Ceasefire Hopes — Brent Falls 11% to $99.94 After Touching $126 Peak
@@ -26,7 +26,7 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 23, 2026, global oil prices fell sharply after President Trump postponed his threatened strikes on Iran's power grid and claimed productive conversations were underway. Brent crude dropped approximately 11 percent to $99.94 per barrel, pulling back from a war-time peak of $126 per barrel. West Texas Intermediate fell more than 10 percent to $88.13. The price decline represented the largest single-day drop since the conflict began on February 28.
 

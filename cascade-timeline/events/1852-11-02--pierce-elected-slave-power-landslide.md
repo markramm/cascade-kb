@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1852-11-02--pierce-elected-slave-power-landslide
 date: '1852-11-02'
 title: Pierce Elected in Slave Power Landslide as Whig Party Collapses Over Slavery
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Franklin Pierce won the presidency on November 2, 1852, in a devastating landslide with 254 electoral votes to Winfield Scott's 42, as divisions within the Whig Party over slavery enforcement came to a catastrophic head. Pierce ran as a pro-slavery Northern Democrat—a "doughface" willing to support Southern slavery interests—against his former commanding officer from the Mexican-American War. The election marked the effective end of the Whig Party as a national political force, with their crushing defeat signaling that opposition to slavery expansion had become politically impossible within the two-party system as currently constituted.
 

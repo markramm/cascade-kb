@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-11-18--elizabeth-holmes-sentenced-prison
 date: '2022-11-18'
 title: Elizabeth Holmes Sentenced to 11 Years in Prison for Theranos Fraud, Exposing Regulatory Failures
@@ -42,7 +42,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Edward Davila sentences Theranos founder Elizabeth Holmes to 135 months (11 years, 3 months) in federal prison plus three years supervised release for defrauding investors of over $140 million. Holmes is ordered to surrender on April 27, 2023 to begin serving her sentence. Prosecutors had sought 15 years, while Holmes' defense requested house arrest or minimal prison time. The sentencing follows her January 2022 conviction on one count of conspiracy to commit investor fraud and three counts of wire fraud. Holmes defrauded sophisticated investors including Rupert Murdoch ($125 million), the Walton family ($150 million), and Betsy DeVos's family ($100 million) by lying about Theranos' technology capabilities and falsifying revenue projections.
 

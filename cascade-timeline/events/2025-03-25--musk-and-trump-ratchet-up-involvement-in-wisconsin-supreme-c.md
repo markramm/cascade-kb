@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-25--musk-and-trump-ratchet-up-involvement-in-wisconsin-supreme-c
 date: '2025-03-25'
 title: Musk and Trump ratchet up involvement in Wisconsin Supreme Court race
@@ -45,6 +45,6 @@ capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Musk's PAC spent over $20 million in Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's 'factory store' law. The race is the most expensive judicial election in U.S. history, with potential implications for car sales, abortion rights, redistricting, and labor unions.

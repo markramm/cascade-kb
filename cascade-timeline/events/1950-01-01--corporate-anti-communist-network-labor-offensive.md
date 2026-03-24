@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1950-01-01--corporate-anti-communist-network-labor-offensive
 date: '1950-01-01'
 title: Corporate Anti-Communist Network Coordinates Labor Suppression Through NAM, Chamber of Commerce Infrastructure
@@ -92,7 +92,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 A sophisticated anti-communist network coordinated by the National Association of Manufacturers (NAM) and Chamber of Commerce reaches peak effectiveness in suppressing labor organizing during the early Cold War. The Hagley Museum and Library's NAM collection contains extensive materials from 1924 to 1968 describing alleged communist threats to unions, identifying suspected communists, and recommending responses. Unlike the broader American public's general anti-communist sentiment, this network comprises "zealous partisans who often made the eradication of the so-called Communist menace a full-time career," staffing organizations and imposing their agenda on national politics. The network operates with institutional bases in patriotic organizations including the American Legion and Chamber of Commerce, subscribing to an expansive anti-communism that targets "parlor pinks" and nonconformists as dangerous as "flaming Bolsheviks."

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1988-11-18--anti-drug-abuse-act-aggravated-felony-deportation-expansion
 date: '1988-11-18'
 title: Anti-Drug Abuse Act Creates "Aggravated Felony" Category, Merging War on Drugs with Deportation
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Ronald Reagan signs the Anti-Drug Abuse Act of 1988, introducing the "aggravated felony" concept into immigration law for the first time. Initially defined narrowly to include murder, federal drug trafficking, and illicit trafficking in certain firearms or destructive devices, the category carries severe immigration consequences including mandatory detention, deportation without possibility of relief, and permanent bars to future entry. The law merges the War on Drugs with immigration enforcement, creating legal infrastructure that subsequent legislation dramatically expands to encompass a vast array of offenses bearing no relationship to the original categories.
 

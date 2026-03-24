@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-07-01--countrywide-bofa-acquisition-mozilo-fraud
 date: '2008-07-01'
 title: Bank of America Completes $4 Billion Acquisition of Countrywide Financial After Predatory Lending and Fraud Schemes Targeting Minorities Caused $50 Billion in Losses, with CEO Angelo Mozilo Paying Only $67.5 Million SEC Settlement and Facing Zero Criminal Charges
@@ -45,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Bank of America completed its acquisition of Countrywide Financial on July 1, 2008, purchasing the nation's largest mortgage lender for approximately $4 billion in a Federal Reserve-approved transaction that would ultimately cost Bank of America and its shareholders at least $50 billion in legal settlements, mortgage repurchases, and related expenses. Countrywide, under CEO Angelo Mozilo's leadership, had grown from its founding in 1969 to become the largest originator of single-family mortgages in the United States by 1992, and by 2006 was ranked 122 on the Fortune 500 list. The company's dominance was built on a systematic race to the bottom in lending standards, where Mozilo's quest to control the mortgage market led Countrywide to repeatedly relax borrowing requirements, lending to people with weak credit scores and sometimes no documented income or employment. The acquisition allowed Mozilo and President David Sambol to exit Countrywide before the full scale of its fraudulent lending practices became public, while Bank of America acquired what would become one of the worst corporate deals in American banking history.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1943-06-25--smith-connally-act-criminalizes-union-political-activity
 date: '1943-06-25'
 importance: 8
@@ -43,7 +43,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress overrides President Franklin D. Roosevelt's veto to pass the Smith-Connally Act (War Labor Disputes Act), which prohibits unions from making contributions in federal elections and empowers the federal government to seize industries threatened by strikes. The legislation is hurriedly created after 400,000 coal miners struck for wage increases to offset wartime inflation, reflecting Congressional response to 1,200 recorded strikes from December 1941 through late summer 1942. The Act makes it unlawful for any labor organization to make contributions in elections involving Presidential, Vice Presidential, or congressional candidates, with violations punishable by fines up to $5,000 for organizations and $1,000 or one year imprisonment for consenting officers.
 

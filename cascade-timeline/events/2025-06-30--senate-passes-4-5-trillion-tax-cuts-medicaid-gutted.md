@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-30--senate-passes-4-5-trillion-tax-cuts-medicaid-gutted
 date: '2025-06-30'
 title: 'Senate Passes $4.5 Trillion Tax Cuts with $1 Trillion Medicaid Cuts, 12 Million to Lose Insurance'
@@ -119,7 +119,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 After a record-breaking vote-a-rama with the most amendment votes in Senate history, the Senate passed Trump's "One Big Beautiful Bill" 51-50 with Vice President Vance casting the tie-breaking vote.
 
 The Congressional Budget Office confirmed the bill cuts over $1 trillion from Medicaid (affecting 72 million people), imposes 80-hour monthly work requirements, and will cause 12 million people to lose health insurance. The bill includes $4.5 trillion in tax cuts over 10 years—primarily benefiting wealthy individuals and corporations—along with $170 billion for immigration enforcement and mass deportations, while slashing clean energy funding.

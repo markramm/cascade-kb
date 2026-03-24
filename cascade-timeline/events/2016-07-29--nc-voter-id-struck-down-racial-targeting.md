@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-07-29--nc-voter-id-struck-down-racial-targeting
 date: '2016-07-29'
 title: North Carolina Voter ID Law Struck Down for Targeting African Americans
@@ -40,6 +40,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 The Fourth Circuit Court of Appeals struck down North Carolina's comprehensive voter restriction law, ruling it targeted African American voters 'with almost surgical precision.' The 2013 law eliminated same-day registration, reduced early voting, ended out-of-precinct voting, and required strict photo ID. The court found Republicans requested data on voting patterns by race, then restricted voting methods used disproportionately by Black voters. The decision revealed how lawmakers used racial data to craft restrictions, with the court noting the law's 'invidious discriminatory intent.' This ruling became a landmark case demonstrating how modern voter suppression uses data analysis to target minority communities while maintaining plausible deniability.

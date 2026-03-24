@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-30--white-house-urges-pro-innovation-mind-set-to-crypto-in-new-r
 date: '2025-07-30'
 title: White House Releases Comprehensive Crypto Policy Roadmap
@@ -46,6 +46,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The Trump administration released a 166-page digital assets report recommending federal regulatory clarity for cryptocurrency markets, aimed at positioning the United States as the global leader in digital financial technology. The report calls for congressional action to provide CFTC authority over non-security digital assets, implement new tax classifications, and create regulatory sandboxes to promote crypto innovation.

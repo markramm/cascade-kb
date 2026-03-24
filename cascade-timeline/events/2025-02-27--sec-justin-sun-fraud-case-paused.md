@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -46,5 +46,5 @@ tags:
 - trump-administration
 title: 'US SEC, Tron founder Justin Sun explore resolution of civil fraud case'
 ---
-type: solidarity_event
+type: timeline_event
 The SEC moved to pause its civil fraud case against cryptocurrency entrepreneur Justin Sun, a key adviser to Trump's World Liberty Financial, signaling a potential negotiated resolution. Sun, who invested at least $75 million in Trump-linked crypto assets, appears to have secured a temporary reprieve from regulatory action.

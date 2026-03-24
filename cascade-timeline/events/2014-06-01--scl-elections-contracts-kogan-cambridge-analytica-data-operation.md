@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - SCL Group
 - SCL Elections
@@ -52,5 +52,5 @@ tags:
 - digital-surveillance
 title: SCL Elections Contracts with Kogan to Launch Cambridge Analytica Data Operation
 ---
-type: solidarity_event
+type: timeline_event
 Strategic Communication Laboratories (SCL) Group enters into contract with Aleksandr Kogan's Global Science Research to acquire Facebook user data for Cambridge Analytica's political targeting operations. This partnership transforms Kogan's academic research into a commercial data harvesting operation serving political campaigns. SCL, a private intelligence company describing itself as a "global election management agency," seeks to weaponize social media data for electoral manipulation. The contract establishes the systematic pipeline from Facebook's platform to political operatives, demonstrating how academic research can be corrupted for partisan purposes. Approximately 270,000 users take Kogan's quiz, but the app harvests data from up to 87 million Facebook users through friend network access.

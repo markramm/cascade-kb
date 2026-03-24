@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-05--gao-nih-ica
 title: GAO says NIH grant delays violated the Impoundment Control Act
 date: '2025-08-05'
@@ -47,6 +47,6 @@ sources:
 capture_lanes:
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Government Accountability Office (GAO) determined on August 5, 2025, that HHS and NIH illegally froze approximately 1,800 medical research grants in violation of the Impoundment Control Act. The Trump administration's delay of these congressionally appropriated funds for medical research constituted an unlawful withholding of funds that Congress had directed to be spent.

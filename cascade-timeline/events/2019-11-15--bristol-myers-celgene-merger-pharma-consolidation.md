@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-11-15--bristol-myers-celgene-merger-pharma-consolidation
 date: '2019-11-15'
 title: Bristol-Myers Squibb Completes $74 Billion Celgene Acquisition Despite FTC Concerns
@@ -40,7 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Bristol-Myers Squibb completed its $74 billion acquisition of Celgene after the Federal Trade Commission approved the merger in a controversial 3-2 party-line vote, with Republican commissioners overruling Democratic dissents warning about competitive harm. The FTC required divestiture of blockbuster psoriasis drug Otezla to Amgen for $13.4 billion—the largest merger divestiture in FTC history—but approved the deal despite concerns about reduced competition and pharmaceutical innovation.
 

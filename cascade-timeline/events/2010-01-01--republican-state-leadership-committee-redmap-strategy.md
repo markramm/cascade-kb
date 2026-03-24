@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--republican-state-leadership-committee-redmap-strategy
 date: 2010-01-01
 title: Republican State Leadership Committee Launches REDMAP Gerrymandering Project
@@ -41,7 +41,7 @@ capture_lanes:
 - Electoral Manipulation
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Republican State Leadership Committee (RSLC) launches REDMAP (Redistricting Majority Project), a strategic initiative to gain control of state legislatures before the 2011 redistricting cycle following the 2010 Census. The project represents an unprecedented systematic approach to gerrymandering designed to secure Republican congressional majorities for the next decade.
 

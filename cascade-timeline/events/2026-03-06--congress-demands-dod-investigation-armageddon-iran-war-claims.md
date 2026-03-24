@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-06--congress-demands-dod-investigation-armageddon-iran-war-claims
 date: '2026-03-06'
 title: 29 Congress Members Demand DOD Inspector General Investigate Commanders Framing Iran War as Biblical Armageddon
@@ -45,7 +45,7 @@ capture_lanes:
 - Military Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 6, 2026, Congressional Freethought Caucus Co-Chairs Representative Jared Huffman (CA-02) and Jamie Raskin (MD-08), along with House Armed Services Subcommittee on Military Personnel Ranking Member Chrissy Houlahan (PA-06), led 27 Democratic colleagues in formally requesting that the U.S. Department of Defense Inspector General open an investigation into reports that active-duty military commanders were framing the U.S. war against Iran in explicitly religious, end-times prophecy terms.
 

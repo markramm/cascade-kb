@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-02-14--northrop-grumman-5-million-settlement-usps-fraud
 date: '2019-02-14'
 title: Northrop Grumman Pays $5.2 Million for Fraudulent USPS Contract Labor Billing
@@ -38,7 +38,7 @@ capture_lanes:
 - Systematic Corruption
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Northrop Grumman Systems Corporation agreed to pay $5.2 million to resolve False Claims Act allegations that it fraudulently billed the United States Postal Service for personnel who lacked the required education and experience qualifications specified in their contract labor categories. The settlement resolved government allegations that NGSC knowingly charged for certain personnel working under the Enterprise Technology Support (ETS) Contract using inflated labor categories for which those workers did not possess the credentials, education, or experience required, systematically overbilling the Postal Service for lower-skilled labor presented as senior technical expertise.
 

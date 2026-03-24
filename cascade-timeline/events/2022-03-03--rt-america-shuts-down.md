@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-03-03--rt-america-shuts-down
 date: '2022-03-03'
 title: Russian State Media Outlet RT America Ceases Operations and Lays Off All Staff After Major Distributors Drop Channel
@@ -44,7 +44,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 RT America, the U.S.-based arm of Russia's state-controlled media network RT (Russia Today), announced on March 3, 2022 that it was immediately ceasing production and laying off more than 100 employees after major American cable distributors dropped the channel in response to Russia's invasion of Ukraine. RT America general manager Misha Solodovnikov informed staff during a brief meeting that the company was shutting down immediately, citing "unforeseen business interruption events."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-02--trump-threatens-military-intervention-iran-protests
 date: '2026-01-02'
 title: Trump Threatens Military Intervention in Iran Protests, Says US 'Locked and Loaded'
@@ -26,6 +26,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Trump posted on Truth Social: "If Iran shots (sic) and violently kills peaceful protesters, which is their custom, the United States of America will come to their rescue. We are locked and loaded and ready to go." He later stated: "You better not start shooting because we'll start shooting too." Iran's parliament speaker Mohammad Bagher Ghalibaf warned in response: "All American centers and forces across the entire region will be legitimate targets for us in response to any potential actions." The threats came as Iranian security forces had already killed dozens of protesters.

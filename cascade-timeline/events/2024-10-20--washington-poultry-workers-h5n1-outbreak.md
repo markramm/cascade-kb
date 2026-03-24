@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-10-20--washington-poultry-workers-h5n1-outbreak
 date: '2024-10-20'
 title: Eight Washington State Poultry Workers Infected with H5N1 During Depopulation Operations
@@ -36,7 +36,7 @@ capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 20, 2024, the Washington State Department of Health and Benton-Franklin Health District reported the first presumptive positive cases of avian influenza A(H5) virus in agricultural workers at a commercial egg farm in Franklin County, Washington. CDC testing ultimately confirmed HPAI A(H5) virus in 8 poultry farm workers who were exposed to H5N1 virus-infected poultry during depopulation efforts to control an outbreak among poultry.
 

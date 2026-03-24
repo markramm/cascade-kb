@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-17--dhs-launches-stronger-border-stronger-america-campaign
 date: '2025-02-17'
 title: DHS Launches $200M "Stronger Border, Stronger America" Ad Campaign at Trump's Direction
@@ -50,7 +50,7 @@ capture_lanes:
 - Kleptocratic Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 DHS Secretary Kristi Noem announced a "nationwide and international multimillion-dollar ad campaign" warning undocumented immigrants to "self-deport" or face deportation. At CPAC, Noem confirmed Trump "personally directed" both messaging and execution: "President Trump talked to me several times during the transition. He said, 'I want you to do those for the border, and I want them around the world.'"
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-01-05--boeing-737-max-scandal-summary-346-deaths-zero-prosecutions
 date: '2024-01-05'
 title: 'Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions'
@@ -49,7 +49,7 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Boeing 737 MAX scandal represents the deadliest case of regulatory capture and corporate crime in modern aviation history. Between 2011 and 2024, Boeing's decision to prioritize profit over safety killed 346 people, cost $2.5 billion in fines, and resulted in zero criminal prosecutions of executives. The scandal demonstrates how corporate power has corrupted regulatory agencies, transformed the justice system into a two-tier structure, and created complete impunity for executives who kill through fraud and negligence.
 
 **Timeline of Corporate Crime:**

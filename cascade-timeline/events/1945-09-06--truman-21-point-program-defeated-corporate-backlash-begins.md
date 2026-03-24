@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1945-09-06--truman-21-point-program-defeated-corporate-backlash-begins
 date: '1945-09-06'
 title: Truman 21-Point Program Defeated, Corporate Backlash Against New Deal Begins
@@ -41,7 +41,7 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Harry Truman delivers a special message to Congress on September 6, 1945, presenting an ambitious 21-point program for postwar America that includes full employment legislation, minimum wage increases, national health insurance, expanded Social Security, and permanent Fair Employment Practices Committee legislation. Over the following two years, business interests and the conservative coalition in Congress defeat or gut nearly every major proposal.
 

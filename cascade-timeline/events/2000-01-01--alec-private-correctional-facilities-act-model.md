@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-01-01--alec-private-correctional-facilities-act-model
 date: '2000-01-01'
 title: ALEC Promotes Private Correctional Facilities Act Written by CCA Executives on Criminal Justice Task Force
@@ -48,7 +48,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council (ALEC) actively promotes its "Private Correctional Facilities Act" model legislation, which allows any unit of government to contract with for-profit corporations to operate prisons. The model bill is developed and voted on by ALEC's Criminal Justice Task Force, which is co-chaired by CCA executives Brad Wiggins (Director of Business Development) and John Rees (Vice President), representing the ultimate conflict of interest: prison company executives writing laws to privatize the very prisons they will operate.
 

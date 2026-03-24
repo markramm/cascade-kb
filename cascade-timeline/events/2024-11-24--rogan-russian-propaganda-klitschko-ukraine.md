@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-24--rogan-russian-propaganda-klitschko-ukraine
 date: '2024-11-24'
 title: Vitali Klitschko Confronts Joe Rogan for Promoting Russian Propaganda on Ukraine, Rogan Defends Kremlin Narratives
@@ -39,7 +39,7 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: solidarity_event
+type: timeline_event
 
 Vitali Klitschko, Mayor of Kyiv and former world heavyweight boxing champion, publicly confronted Joe Rogan on November 24, 2024, accusing him of **"repeating Russian propaganda"** after Rogan promoted Kremlin narratives about Ukraine's 2014 Maidan Revolution and declined an interview with President Volodymyr Zelensky. Rogan had characterized the Maidan Revolution as a **"coup orchestrated by the United States"**—a narrative directly from Russian state media—and suggested Ukraine's government lacks democratic legitimacy.
 

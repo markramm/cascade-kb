@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-05--us-sovereign-wealth-fund-could-stockpile-bitcoin-trump-s-cry
 date: '2025-02-05'
 title: US sovereign wealth fund could stockpile Bitcoin, Trump's crypto czar says
@@ -47,7 +47,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 David Sacks, Trump's "AI and Crypto Czar" and a Silicon Valley venture capitalist and PayPal co-founder, announced in February 2025 that the proposed U.S. sovereign wealth fund could include Bitcoin among its holdings. Sacks stated he was studying the feasibility of a Bitcoin reserve as the White House simultaneously pushed for executive action to create a sovereign wealth fund. Bloomberg reported that Sacks was examining whether the U.S. could establish a strategic Bitcoin reserve, with CNBC reporting that Sacks had identified stablecoin legislation as an immediate regulatory priority.
 
 The proposal generated significant controversy because it would constitute an unprecedented use of U.S. government resources to prop up cryptocurrency markets in which Trump and his allies held substantial personal financial interests. Trump had launched the $TRUMP memecoin days before his January 2025 inauguration, his family held significant cryptocurrency assets through World Liberty Financial, and Sacks himself was a major crypto investor. A sovereign wealth fund purchasing Bitcoin would effectively use taxpayer resources to support an asset class in which the administration's senior officials had massive personal stakes.

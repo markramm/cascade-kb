@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-10--civicus-watchlist-us-democracy
 date: '2025-03-10'
 importance: 5
@@ -34,6 +34,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 International civil society organization CIVICUS Monitor places United States on watchlist due to rapid degradation of democratic guardrails, marking first time U.S. appears on international democracy concern list.

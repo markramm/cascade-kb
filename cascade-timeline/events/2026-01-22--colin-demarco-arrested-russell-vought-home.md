@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-22--colin-demarco-arrested-russell-vought-home
 date: '2026-01-22'
 status: confirmed
@@ -33,7 +33,7 @@ sources:
 capture_lanes:
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Arlington County Police arrested Colin Demarco, 26, on charges of first-degree attempted murder, first-degree solicitation to commit murder, wearing a mask in certain places, and carrying a concealed firearm after he appeared at OMB Director Russell Vought's Northern Virginia home on August 10, 2025. Witnesses reported Demarco wearing a surgical mask and rubber gloves, appearing to conceal a firearm under his shirt, looking through Vought's mailbox, and asking neighbors if anyone was home. Vought was not home at the time.
 

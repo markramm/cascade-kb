@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2025-06-09'
 importance: 6
 title: 'CPJ: Law enforcement injure multiple journalists covering Los Angeles protests'
@@ -49,6 +49,6 @@ sources:
 
   tier: 2
 ---
-type: solidarity_event
+type: timeline_event
 
 Law enforcement shot over 20 journalists with rubber bullets and pepper balls during June 6-9 immigration protests in Los Angeles amid 2,000 National Guard deployment. Nick Stern required emergency surgery from plastic bullet; Lauren Tomasi shot on live TV; Toby Canham struck in forehead. Reporters Without Borders documented 35 attacks (30 by law enforcement). LA Press Club filed federal lawsuit. CPJ, First Amendment Coalition warned DHS that officers appeared to deliberately target journalists.

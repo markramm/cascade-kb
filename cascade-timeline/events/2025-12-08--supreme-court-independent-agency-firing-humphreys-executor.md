@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-08--supreme-court-independent-agency-firing-humphreys-executor
 date: '2025-12-08'
 title: Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
@@ -44,7 +44,7 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 # Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--senators-request-gao-audit-doj-epstein-files-handling
 date: '2026-03-11'
 title: Bipartisan Senators Request GAO Audit of DOJ Handling of Epstein Files
@@ -46,7 +46,7 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, a bipartisan group of U.S. senators -- Dick Durbin (D-IL), Ben Ray Lujan (D-NM), Jeff Merkley (D-OR), and Lisa Murkowski (R-AK) -- sent a formal letter to Acting Comptroller General Orice Williams Brown of the U.S. Government Accountability Office requesting an audit of the Department of Justice's handling of the Jeffrey Epstein files.
 

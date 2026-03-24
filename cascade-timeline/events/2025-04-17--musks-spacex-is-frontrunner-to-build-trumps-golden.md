@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-17--musks-spacex-is-frontrunner-to-build-trumps-golden
 date: '2025-04-17'
 title: Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield
@@ -46,7 +46,7 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 Reuters and CNBC reported in April 2025 that Musk's SpaceX had emerged as the frontrunner to win the contract to design and build significant components of Trump's proposed "Golden Dome" missile defense system — a space-based missile interception network that could ultimately cost hundreds of billions of dollars. Trump had announced the Golden Dome initiative as a major defense priority, envisioning a comprehensive system to protect the continental United States from ballistic and hypersonic missiles. SpaceX's Starshield division, which handled classified government satellite work, was described as central to the proposal.
 
 The conflict of interest was explicit and widely noted: Musk served as DOGE's de facto leader with access to federal agency operations and decision-making, while simultaneously running SpaceX as its CEO and largest shareholder. A decision to award the Golden Dome contract to SpaceX would be worth potentially hundreds of billions of dollars to a company owned by the man who wielded unofficial but substantial influence over the executive branch agencies reviewing the contract. NPR reported on the enormous technical requirements and cost estimates for the Golden Dome project, noting the program would involve procurement decisions across multiple agencies.

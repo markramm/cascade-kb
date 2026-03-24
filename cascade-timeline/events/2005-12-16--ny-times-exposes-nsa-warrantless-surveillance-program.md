@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-12-16--ny-times-exposes-nsa-warrantless-surveillance-program
 date: '2005-12-16'
 importance: 10
@@ -63,6 +63,6 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 James Risen and Eric Lichtblau published a groundbreaking front-page New York Times article revealing the NSA had been conducting warrantless surveillance of Americans since 2001 under President Bush's secret authorization. The story exposed that the NSA, traditionally focused on foreign intelligence, had been turned inward to spy on Americans without search warrants or FISA court approval, listening to international phone calls and collecting email records of millions of Americans. The program, codenamed 'Stellar Wind,' violated decades of surveillance law and constitutional protections. The Times had initially spiked the story at White House request before the 2004 presidential election, delaying publication for over a year until Risen threatened to publish the information in his book 'State of War.' The article triggered congressional hearings, FBI investigations into Risen's sources with 25 agents and 5 prosecutors assigned, and sparked a national debate about the balance between national security and civil liberties. The story later won the 2006 Pulitzer Prize for National Reporting and became a landmark moment in post-9/11 journalism, demonstrating the critical role of the press in exposing government overreach.

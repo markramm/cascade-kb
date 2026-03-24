@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-05--musk-explosive-trump-epstein-claim
 date: '2025-06-05'
 importance: 6
@@ -35,6 +35,6 @@ sources:
   tier: 1
 notes: This explosive claim split the MAGA movement and prompted congressional action.
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk posted on X/Twitter on June 5, 2025: "Time to drop the really big bomb: @realDonaldTrump is in the Epstein files. That is the real reason they have not been made public." The post garnered over 10 million views before Musk deleted it on June 11 with an apology, saying his comments "went too far." This explosive allegation split the MAGA movement and transformed the Epstein files from a fringe issue into a mainstream political crisis, prompting congressional action.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-10-15--osp-whig-coordination-meetings-intelligence-manipulation
 date: '2002-10-15'
 importance: 8
@@ -44,5 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 Pentagon's Office of Special Plans under Douglas Feith establishes regular coordination protocols with the White House Iraq Group to create an intelligence manipulation pipeline that bypassed traditional CIA vetting processes. OSP officials including Michael Maloof and David Wurmser met regularly with WHIG coordinators Karl Rove and Scooter Libby to coordinate the production and dissemination of fabricated intelligence reports. The Pentagon Inspector General later found that OSP developed 'alternative intelligence assessments on the Iraq and al-Qaida relationship' specifically designed for WHIG's propaganda campaign, presenting 'conclusions that were not fully supported by available intelligence' directly to senior policymakers. This coordination created what Karen Kwiatkowski, an NSA officer assigned to OSP, described as 'a propaganda shop' where 'intelligence was being cooked' to support predetermined policy conclusions. The OSP-WHIG pipeline systematically transformed speculative raw intelligence into authoritative-sounding briefings that WHIG then used to justify the Iraq invasion. This institutional coordination represented a fundamental corruption of the intelligence process, creating parallel channels that deliberately circumvented CIA analysis and quality controls to manufacture the appearance of intelligence consensus supporting the administration's war plans.

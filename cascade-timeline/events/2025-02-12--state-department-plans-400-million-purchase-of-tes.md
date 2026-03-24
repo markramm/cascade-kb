@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-12--state-department-plans-400-million-purchase-of-tes
 date: '2025-02-12'
 title: State Department Plans $400 Million Purchase of Tesla Cybertrucks
@@ -49,5 +49,5 @@ capture_lanes:
 - 'Media Capture & Control'
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 State Department procurement documents showed plans for a 400 million purchase of armored Tesla vehicles, dramatically expanding a smaller Biden-era EV plan. After media scrutiny, the State Department removed Tesla from documents and claimed the purchase was on hold with no plans to proceed.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-11--bloomberg-18000-epstein-emails
 date: '2025-09-11'
 title: Bloomberg Obtains 18,000+ Epstein Emails Revealing Maxwell Relationship and Trump Name Removal Request
@@ -33,7 +33,7 @@ capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Bloomberg News published a trove of over 18,000 emails from Jeffrey Epstein's personal Yahoo account spanning 2002-2022, three years after his death in custody. The authenticated emails, concentrated between 2005-2008 during Epstein's first criminal investigation, directly contradict Ghislaine Maxwell's public claims that she distanced herself from Epstein after the early 2000s.
 

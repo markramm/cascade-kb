@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-05--may-day-general-strike-organizing-national-momentum
 date: '2026-03-05'
 title: Labor Unions and Activist Groups Escalate May Day 2026 General Strike Organizing Nationwide
@@ -43,7 +43,7 @@ capture_lanes:
 - Democratic Erosion
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 By early March 2026, labor unions, immigrant rights organizations, and progressive activist groups were engaged in active national organizing toward a May Day general strike — the most ambitious coordinated labor action attempted in the United States in decades.
 

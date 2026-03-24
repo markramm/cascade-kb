@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-12--unhcr-32-million-iranians-displaced-humanitarian-explosion
 date: '2026-03-12'
 title: UNHCR Reports 3.2 Million Iranians Displaced as UN Warns of "Humanitarian Explosion"
@@ -58,7 +58,7 @@ capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 12, 2026 -- Day 13 of Operation Epic Fury -- the United Nations High Commissioner for Refugees (UNHCR) issued a major humanitarian warning, reporting that up to 3.2 million people had been forcibly displaced inside Iran since the war began on February 28. The figure represented between 600,000 and 1 million Iranian households. UNHCR warned of a looming "humanitarian explosion" if hostilities continued.
 

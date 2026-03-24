@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2017-12-14'
 title: FCC Under Ajit Pai Repeals Net Neutrality in 3-2 Party-Line Vote
 importance: 9
@@ -44,5 +44,5 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 The FCC, led by Chairman Ajit Pai, votes 3-2 along party lines to repeal Obama-era net neutrality rules, marking a major victory for telecommunications industry interests over consumer protections. Pai, a former Verizon attorney appointed by Trump, argued the regulations represented government 'micromanaging the Internet' despite broad public support for net neutrality across party lines. The repeal eliminated rules prohibiting internet providers like Comcast, AT&T, and Verizon from blocking, throttling, or creating paid 'fast lanes' for content. Democratic Commissioner Mignon Clyburn warned in dissent that the repeal left consumers with 'no single authority with the power to protect' them. The decision came despite massive public opposition, with the FCC receiving millions of comments predominantly opposing the repeal. This represented a classic case of regulatory capture, with a former industry attorney using his regulatory position to advance the agenda of his former employer and the broader telecommunications industry. The repeal demonstrated how the revolving door between industry and regulators can undermine public interest protections.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-22--doj-eliminates-consumer-protection-branch
 date: '2025-09-22'
 title: DOJ Eliminates Consumer Protection Branch, Guts Civil Rights Division Enforcement
@@ -43,7 +43,7 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 22, 2025, the U.S. Department of Justice formally dissolved the Consumer Protection Branch (CPB), one of the primary federal enforcement arms protecting Americans from corporate fraud, pharmaceutical misconduct, and consumer safety violations. The elimination was part of a broader restructuring of the DOJ's Civil Division that effectively dismantled the institutional infrastructure built over decades to hold corporations accountable to federal law.
 

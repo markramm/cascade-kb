@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-03-04--trump-falsely-accuses-obama-wiretapping
 date: '2017-03-04'
 title: Trump Falsely Accuses Obama of Wiretapping Trump Tower Based on "A Little Bit of a Hunch"
@@ -32,7 +32,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 4, 2017, President Trump tweeted a series of explosive and completely false accusations that former President Barack Obama had wiretapped his phones at Trump Tower "just before the victory." Trump claimed he had "just found out" about the wiretapping but provided zero evidence to support the allegations. The tweets represented a dangerous escalation in Trump's authoritarian attacks on his predecessor and the rule of law.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-09-21--ny-ag-files-250-million-fraud-lawsuit
 date: '2022-09-21'
 title: NY Attorney General Files $250 Million Fraud Lawsuit Against Trump Organization
@@ -47,7 +47,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 New York Attorney General Letitia James filed a comprehensive 220-page civil lawsuit in Manhattan Supreme Court against Donald Trump, his three adult children (Donald Jr., Eric, and Ivanka), former CFO Allen Weisselberg, former controller Jeffrey McConney, and ten Trump Organization entities, alleging systematic financial fraud spanning more than a decade. The lawsuit documented over 200 false and misleading valuations of assets across Trump's real estate portfolio, claiming the defendants "grossly inflated" property values to obtain favorable loans and insurance terms while deflating values for tax purposes. James sought $250 million in penalties—representing the financial benefits Trump obtained through fraud—and permanent bans preventing Trump and his children from serving as officers of any New York company, effectively seeking to dismantle Trump's business empire in the state where it was built.
 

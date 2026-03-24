@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-01-01--leo-payments-to-ginni-thomas
 date: 2012-01-01
 title: Leonard Leo Directs Hidden Payments to Ginni Thomas Through Kellyanne Conway, Instructs "No Mention of Ginni"
@@ -89,7 +89,7 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 In January 2012, conservative judicial activist Leonard Leo directed $25,000 in payments to Ginni Thomas — wife of Supreme Court Justice Clarence Thomas — through GOP pollster Kellyanne Conway, while explicitly instructing that there be "no mention of Ginni" in the paperwork. The payments were routed from Leo's Judicial Education Project to Conway's polling firm, The Polling Company, which in turn paid Ginni Thomas's Liberty Consulting firm for what was billed as "Constitution Polling and Opinion Consulting." According to documents obtained by The Washington Post in 2023, Leo told Conway to "give" Thomas "another $25K," with the payments totaling $80,000 between June 2011 and June 2012.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--donorstrust-organizational-profile-dark-money-atm
 date: '2010-01-01'
 title: 'DonorsTrust Organizational Profile: Dark Money ATM Enabling Anonymous Billionaire Political Spending'
@@ -52,7 +52,7 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Comprehensive organizational analysis reveals DonorsTrust and Donors Capital Fund as the central infrastructure for conservative dark money operations, earning designation as 'Dark Money ATM of The Right.' Founded in 1999 by Whitney Lynn Ball and Kimberly Dennis (both from Philanthropy Roundtable), these donor-advised funds enable billionaires to fund political operations while maintaining complete anonymity. The mechanism is elegant: wealthy donors contribute to DonorsTrust (tax-deductible), which then distributes to advocacy organizations, with neither the original donor nor the ultimate recipient required to disclose the relationship. This creates perfect opacity for billionaire capture of democratic institutions.
 

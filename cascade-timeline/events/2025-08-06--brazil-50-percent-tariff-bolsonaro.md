@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-06--brazil-50-percent-tariff-bolsonaro
 date: '2025-08-06'
 title: 'Trump Imposes 50% Tariff on Brazil to Punish Prosecution of Bolsonaro'
@@ -51,7 +51,7 @@ notes: 'This represents a dangerous new precedent: using trade policy to punish 
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 President Trump declared a "national emergency" on August 6, 2025, and imposed a 50% tariff on Brazilian goods — the highest tariff rate the administration had applied to any country — explicitly citing Brazil's prosecution of former president Jair Bolsonaro as the reason. Trump's executive order characterized the Brazilian legal proceedings against Bolsonaro as "politically motivated persecution" and framed the tariff as a response to what Trump characterized as an injustice. Brazil's prosecution of Bolsonaro arose from his alleged involvement in the January 8, 2023, attacks on Brazil's Congress, Supreme Court, and presidential palace — events strikingly parallel to the January 6, 2021, U.S. Capitol attack — as well as other charges related to alleged coup plotting during the 2022 election.
 
 Brazil's government condemned the tariffs as "discriminatory" and filed a complaint with the World Trade Organization. The White House's own economic data showed that the United States had a $7.4 billion trade surplus with Brazil — meaning the United States exported more to Brazil than it imported — making the tariff economically self-defeating for American exporters dependent on the Brazilian market. The Financial Times reported the tariff and noted the paradox: the United States was imposing economic harm on itself and on Brazil specifically to pressure a democratic ally's legal system on behalf of a foreign politician aligned with Trump.

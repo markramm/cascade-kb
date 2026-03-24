@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-06--doj-public-integrity-section-two-lawyers-anti-corruption-collapse
 date: '2026-03-06'
 title: DOJ Public Integrity Section Collapses to Two Lawyers, Gutting Federal Anti-Corruption Enforcement
@@ -39,7 +39,7 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 By March 2026, the Department of Justice's Public Integrity Section -- the unit created after Watergate specifically to prosecute corruption by government officials at all levels -- had been reduced from 36 full-time lawyers to just two. NOTUS reported the collapse in detail, noting it represented the smallest the section had been since its founding in 1976.
 

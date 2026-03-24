@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-12-15--billy-tauzin-pharma-revolving-door
 date: '2004-12-15'
 title: Billy Tauzin Joins PhRMA as CEO After Shepherding $200B Medicare Drug Bill
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Pharmaceutical Research and Manufacturers of America (PhRMA) announced that former House Energy and Commerce Committee Chairman Billy Tauzin (R-LA) would become its president and CEO, effective January 2005. The announcement came shortly after Tauzin's retirement from Congress, where from 2001 to 2004 he had chaired the powerful committee that oversees the Food and Drug Administration. Tauzin would earn an estimated $2 million annually, making him one of the highest-paid lobbyists in Washington.
 

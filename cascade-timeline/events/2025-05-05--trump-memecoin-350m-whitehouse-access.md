@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-05--trump-memecoin-350m-whitehouse-access
 date: '2025-05-05'
 title: Trump Generates $350M Through Memecoin, Offering White House Access to Top Investors
@@ -53,6 +53,6 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump's $TRUMP memecoin raised $350 million, with top token holders gaining exclusive access to White House dinners. The project created a controversial 'access-for-tokens' model, raising significant ethical concerns about monetizing presidential access and potential conflicts of interest.

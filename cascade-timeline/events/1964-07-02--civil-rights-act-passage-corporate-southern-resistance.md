@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1964-07-02--civil-rights-act-passage-corporate-southern-resistance
 date: '1964-07-02'
 title: Civil Rights Act of 1964 Passes After Filibuster Defeats Corporate Southern Resistance
@@ -40,7 +40,7 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 President Lyndon B. Johnson signs the Civil Rights Act of 1964 into law, prohibiting discrimination based on race, color, religion, sex, or national origin in employment and public accommodations. The legislation passes only after defeating a 60-working-day filibuster led by the "Southern Bloc" of 18 southern Democratic Senators and Republican John Tower of Texas, organized by Senator Richard Russell (D-GA).
 

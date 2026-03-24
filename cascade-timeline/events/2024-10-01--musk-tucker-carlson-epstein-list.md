@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-10-01--musk-tucker-carlson-epstein-list
 date: '2024-10-01'
 importance: 6
@@ -32,6 +32,6 @@ sources:
   tier: 3
 notes: This statement foreshadowed Musk's later explosive intervention in June 2025.
 ---
-type: solidarity_event
+type: timeline_event
 
 Elon Musk's October 2024 claim on Tucker Carlson's show that billionaires backing Kamala Harris were "terrified" of the Epstein list becoming public garnered 56.7 million views and set the stage for post-election pressure on Trump to release the files.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-10-11--iraq-war-authorization-vote-based-on-whig-manipulation
 date: '2002-10-11'
 importance: 9
@@ -49,6 +49,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Authorization for Use of Military Force Against Iraq Resolution based on the systematically manipulated intelligence provided by the White House Iraq Group, representing the successful completion of WHIG's campaign to corrupt legislative war powers. The House votes 296-133 and the Senate votes 77-23 to authorize President Bush to use military force against Iraq, with legislators explicitly citing the fabricated intelligence about WMD programs, nuclear weapons development, and Iraq-Al Qaeda connections that WHIG had coordinated through intelligence agencies. Congressional floor debates feature representatives and senators referencing the aluminum tubes intelligence, mushroom cloud scenarios, and terrorist connections that WHIG knew were false or unsubstantiated. Key Democratic leaders including Hillary Clinton, John Kerry, and Joe Biden vote for authorization based on intelligence assessments they believed represented genuine intelligence community consensus, unaware that WHIG had systematically filtered and fabricated the underlying analysis. The authorization vote represents the culmination of WHIG's institutional corruption of the constitutional separation of powers, demonstrating how coordinated executive branch deception can manipulate legislative decision-making on fundamental questions of war and peace. This constitutional crisis establishes the precedent for systematic executive deception of Congress on matters of national security.

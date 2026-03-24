@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1873-01-06--house-investigates-credit-mobilier
 date: '1873-01-06'
 title: House Launches Credit Mobilier Investigation
@@ -35,7 +35,7 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. House of Representatives launches an investigation into the Credit Mobilier scandal following the September 1872 New York Sun exposé revealing systematic bribery of congressmen with railroad company stock. The investigation examines how Congressman Oakes Ames distributed discounted Credit Mobilier shares to two senators and nine representatives in exchange for favorable legislation protecting the $44 million fraud against Union Pacific.
 

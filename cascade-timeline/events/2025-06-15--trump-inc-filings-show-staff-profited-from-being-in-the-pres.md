@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-15--trump-inc-filings-show-staff-profited-from-being-in-the-pres
 date: '2025-06-15'
 title: 'Trump Officials'' Extensive Financial Conflicts Exposed in Comprehensive Report'
@@ -55,5 +55,5 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 A comprehensive investigation reveals extensive financial conflicts of interest within the Trump administration, including cryptocurrency ventures funded by foreign investors, real estate deals with international connections, and a private executive club that blurs lines between government and personal business.

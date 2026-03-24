@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-08-01--ellison-buys-277-million-florida-resort-near-mar-a-lago
 date: '2024-08-01'
 title: Larry Ellison Buys $277 Million Florida Resort Near Mar-a-Lago, $450M Total Investment
@@ -37,7 +37,7 @@ capture_lanes:
 - Electoral Manipulation
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Oracle Chairman Larry Ellison purchased the Eau Palm Beach Resort & Spa in Manalapan, Florida, for $277 million in August 2024, bringing his total real estate investment in the exclusive 400-resident island town to $450 million. Located approximately 20 minutes from Donald Trump's Mar-a-Lago estate, Ellison's acquisitions position him as a major property owner in an ultra-wealthy enclave that has become a magnet for billionaires seeking proximity to Trump's political power center.
 

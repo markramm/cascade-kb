@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-08-01--stone-guccifer-communications
 date: '2016-08-01'
 importance: 6
@@ -41,5 +41,5 @@ sources:
 notes: 'Direct evidence of Stone coordination with Russian military intelligence. First time anyone in Trump''s orbit acknowledged contact with a hacker that claimed responsibility for hacking the DNC. July 2018 Mueller indictment states Russian officers posing as Guccifer 2.0 "wrote a person who was in regular contact with senior members" of Trump campaign, matching Stone''s messages.'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 From August 14 to September 9, 2016, Roger Stone exchanged private Twitter DMs with Guccifer 2.0, a persona US Intelligence concluded with "high confidence" was operated by Russian GRU military intelligence. On August 17, Guccifer told Stone - "please tell me if i can help u anyhow. it would be a great pleasure to me." Stone also publicly tweeted calling Guccifer a "HERO" on August 13.

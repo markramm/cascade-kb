@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -40,5 +40,5 @@ tags:
 - justice-weaponization
 title: 'Paramount settles Trump ''60 Minutes'' lawsuit for $16 million'
 ---
-type: solidarity_event
+type: timeline_event
 Paramount has paid $16 million to President Trump to settle a lawsuit over a 60 Minutes pre-election interview with Kamala Harris, as part of its strategy to gain DOJ approval for a merger with Skydance. The settlement includes no apology and funds for Trump's presidential library.

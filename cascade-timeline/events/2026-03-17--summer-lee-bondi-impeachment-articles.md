@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--summer-lee-bondi-impeachment-articles
 date: '2026-03-17'
 title: Rep. Summer Lee Introduces Articles of Impeachment Against Attorney General Pam Bondi
@@ -35,7 +35,7 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Rep. Summer Lee of Pennsylvania introduced articles of impeachment against Attorney General Pam Bondi, marking the most significant formal accountability effort against the nation's top law enforcement official since the beginning of Trump's second term. The articles were co-sponsored by Reps. Ansari, Foushee, Min, Tlaib, and Dexter, and were drafted in collaboration with the legal advocacy organization Free Speech For People.
 

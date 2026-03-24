@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-20--trump-defends-saudi-arabia-despite-cia-khashoggi-finding
 date: 2018-11-20
 title: Trump Defends Saudi Arabia Despite CIA High-Confidence Finding MBS Ordered Khashoggi Murder - "Maybe He Did, Maybe He Didn't"
@@ -47,7 +47,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 20, 2018, President Trump issues an extraordinary written statement titled "Statement from President Donald J. Trump on Standing with Saudi Arabia" that explicitly rejects CIA findings and defends Crown Prince Mohammed bin Salman despite the intelligence community's high-confidence assessment that MBS ordered Jamal Khashoggi's murder. The statement, which begins with the subheading "America First!" and is filled with exclamation points, prioritizes arms sales and geopolitical alliances over accountability for the assassination of a Washington Post journalist and U.S. resident.
 

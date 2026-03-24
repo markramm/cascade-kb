@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2021-10-03'
 title: 'Pandora Papers Expose Global Elite''s Offshore Financial Networks'
 actors:
@@ -68,5 +68,5 @@ validation_metadata:
   - 'source_quality_score: ''9.5'' → ''9.5'''
   - 'sources_updated: ''4'' → ''4'''
 ---
-type: solidarity_event
+type: timeline_event
 The International Consortium of Investigative Journalists (ICIJ) released the Pandora Papers, the largest leak of offshore financial documents in history, exposing the secret wealth and tax avoidance schemes of world leaders, politicians, and billionaires. The 11.9 million documents from 14 financial services companies revealed how more than 330 politicians and public officials from 90+ countries used offshore companies and trusts to hide assets worth billions of dollars. Key revelations included King Abdullah II of Jordan's $100 million property empire, Czech Prime Minister Andrej Babiš's undisclosed French Riviera properties, and Ukrainian President Volodymyr Zelenskyy's offshore network. The leak exposed systematic abuse of offshore financial systems by the global elite, highlighting how legal loopholes enable massive wealth concealment while ordinary citizens face increasing tax burdens. The revelations sparked investigations, resignations, and renewed calls for international tax reform.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-11-06--facebook-admits-myanmar-genocide-role
 date: '2018-11-06'
 title: Facebook Admits Platform Used to "Incite Offline Violence" in Myanmar Genocide, Implements No Systemic Changes
@@ -46,7 +46,7 @@ capture_lanes:
 - Media Capture & Control
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook publicly admits that its platform was used to "foment division and incite offline violence" in Myanmar's genocide against Rohingya Muslims, acknowledging the UN's determination that Facebook played a "determining role" in violence that killed thousands and displaced over 700,000 people. Despite this extraordinary corporate admission of facilitating genocide, Facebook implements no fundamental changes to its engagement-maximizing algorithm or surveillance capitalism business model.
 

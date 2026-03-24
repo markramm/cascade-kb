@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-07--world-liberty-financial-occ-bank-charter-application
 date: '2026-01-07'
 status: confirmed
@@ -37,7 +37,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 World Liberty Financial, the Trump family-linked cryptocurrency company, announced that its subsidiary WLTC Holdings LLC filed a de novo application to the Office of the Comptroller of the Currency (OCC) to establish World Liberty Trust Company, National Association—a proposed national trust bank purpose-built for stablecoin operations. The trust firm, if approved, would directly issue the USD1 stablecoin, which has reached over $3.3 billion in circulation, and offer custody and conversion services for digital assets.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-20--trump-energy-emergency-declaration
 date: '2025-01-20'
 title: Trump Declares National Energy Emergency on First Day to Bypass Environmental Regulations
@@ -28,6 +28,6 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On his first day in office, President Trump issued a National Energy Emergency declaration to fast-track fossil fuel production and bypass environmental regulations, including NEPA requirements and Clean Air Act standards. The White House fact sheet claimed the emergency would 'increase our competitive edge, protect our sovereignty, and strengthen our national and economic security,' but legal experts noted there was no actual energy crisis or supply shortage justifying emergency powers. The declaration invoked executive authority to expedite federal permitting for oil, gas, and coal projects on federal lands, suspend environmental reviews, and override state environmental protections. Trump's use of emergency powers for routine energy policy represented a dramatic expansion of presidential authority, transforming the National Emergencies Act from a tool for genuine crises into a mechanism for circumventing congressional opposition and regulatory oversight. The move allowed energy companies to accelerate extraction projects without normal environmental impact assessments, public comment periods, or judicial review. Critics argued the declaration exemplified Trump's pattern of manufacturing emergencies to consolidate executive power and serve corporate interests, particularly in the fossil fuel sector. The energy emergency set a precedent for using crisis rhetoric to bypass democratic processes and environmental protections established by Congress.

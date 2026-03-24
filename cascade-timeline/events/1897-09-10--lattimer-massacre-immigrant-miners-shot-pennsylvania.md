@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1897-09-10--lattimer-massacre-immigrant-miners-shot-pennsylvania
 date: '1897-09-10'
 title: Lattimer Massacre - 19 Unarmed Immigrant Strikers Killed by Sheriff's Posse
@@ -50,7 +50,7 @@ capture_lanes:
 - Labor Suppression
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Sheriff James Martin and 150 armed deputies open fire on 300-400 unarmed striking coal miners marching to support a newly formed United Mine Workers union at Calvin Pardee's Lattimer mine near Hazleton, Pennsylvania. The peaceful demonstration consists mostly of Polish, Slovak, Lithuanian, and German immigrant workers protesting brutal working conditions in Luzerne County anthracite mines where 32,000 miners have died since 1870. At least 19 miners are killed and between 17 and 49 are wounded in the attack at 3:45 PM. Many victims are shot in the back, and several have multiple gunshot wounds indicating they were deliberately targeted by deputies, contradicting claims of self-defense or accidental shooting.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-04-18--mueller-report-full-release
 date: 2019-04-18
 title: Mueller Report Released - 448 Pages Documenting Russian Interference and Obstruction Episodes
@@ -38,7 +38,7 @@ capture_lanes:
 - Executive Power Expansion
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Department of Justice released Special Counsel Robert Mueller's 448-page Report on the Investigation into Russian Interference in the 2016 Presidential Election, the culmination of a 22-month investigation that issued more than 2,800 subpoenas, executed nearly 500 search warrants, and interviewed approximately 500 witnesses. The report documented in extraordinary detail Russia's "sweeping and systematic" interference in American democracy and presented substantial evidence of presidential obstruction of justice, explicitly stating it "does not exonerate" President Trump.
 

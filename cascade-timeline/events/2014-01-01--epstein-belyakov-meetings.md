@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-01--epstein-belyakov-meetings
 date: '2014-01-01'
 importance: 6
@@ -54,5 +54,5 @@ sources:
 notes: 'Based on Dossier Center investigation. No primary documents (court filings, government records) have independently corroborated these specific alleged meetings beyond Dossier Center''s source materials. Properly categorized as ''reported'' pending independent verification.'
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 The Dossier Center published emails and travel/activity records purporting to show Jeffrey Epstein sought meetings and advice via Sergei Belyakov—an FSB Academy graduate and then‑Russian economic official—about sanctions, introductions, and a model's alleged blackmail. The Dossier Center's reporting has not been independently verified by U.S. authorities or other news organizations.

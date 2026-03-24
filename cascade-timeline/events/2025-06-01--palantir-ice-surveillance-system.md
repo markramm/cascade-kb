@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-01--palantir-ice-surveillance-system
 date: '2025-06-01'
 importance: 9
@@ -39,6 +39,6 @@ sources:
 notes: The Trump administration spent $113 million on Palantir contracts with DHS and Pentagon by May 2025, plus $795 million with DOD. Between 2020-2024, Palantir received $228-542 million annually in government contracts. The data integration violates privacy laws designed to keep tax and immigration records separate.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Palantir Technologies received a $30 million contract to deliver ImmigrationOS, an AI platform that integrates previously-segregated government databases including IRS tax records, Social Security files, passport records, and license-plate reader data for immigration enforcement. The system, to be delivered by September 2025, enables ICE to track and identify individuals across multiple government databases. Eight members of Congress warned this creates "a surveillance nightmare" and potential "mega-database" for targeting political enemies. Palantir engineers internally raised ethical concerns about building mass surveillance infrastructure.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-05-01--council-national-policy-founded-conservative-coordination
 date: '1981-05-01'
 title: Council for National Policy Founded - Secret Conservative Coordination Network
@@ -41,7 +41,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.
 
 Critically, two of the three primary founders had direct ties to the John Birch Society: Tim LaHaye had "regularly lectured and ran training seminars for the John Birch Society in the 1960s and 70s" according to the Southern Poverty Law Center, while Nelson Bunker Hunt was "a one-time member of the John Birch Society's ruling council" who served on the JBS National Council from 1976-1985 and again from 2007 until his death in 2014. Hunt, along with his brother William Herbert, provided the CNP's start-up funding.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '1985-01-01'
 title: Carl Icahn Phillips Petroleum Hostile Takeover Attempt
 actors:
@@ -40,6 +40,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Carl Icahn launched a multi-billion dollar hostile takeover attempt against Phillips Petroleum, offering $60 per share for half the company's stock. Coordinating with T. Boone Pickens' earlier attempt, Icahn used Michael Milken and Drexel Burnham Lambert's junk bond financing network to demonstrate the power of leveraged corporate raids. After an intense three-month battle that culminated in a local shareholder protest in Bartlesville, Oklahoma, Icahn ultimately settled with Phillips. The company agreed to buy back his shares for over $75 million and pay $25 million of his legal fees, while Icahn pledged not to attempt another takeover for eight years. This event established Icahn as a major 1980s corporate raider and showcased how junk bond financing could enable small investor groups to threaten large corporations through financial leverage.

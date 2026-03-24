@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-11--sec-revokes-staff-s-authority-to-launch-formal-probes-notice
 date: '2025-03-11'
 title: SEC Revokes Staff's Investigative Authority, Requiring Direct Commissioner Approval
@@ -43,6 +43,6 @@ notes: Significant restructuring of SEC investigative processes under Trump admi
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The SEC's Republican-controlled commission voted to revoke the enforcement division's longstanding authority to independently launch formal investigations, requiring direct commissioner approval. This change potentially slows investigative processes and increases political oversight of SEC enforcement actions.

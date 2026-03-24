@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-11-16--60-minutes-investigation-trump-binance-pardon-corruption
 date: '2025-11-16'
 title: '60 Minutes Investigation: Former DOJ Officials Call Trump''s Binance Pardon ''Unprecedented Corruption'''
@@ -47,7 +47,7 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On November 16, 2025, CBS News' 60 Minutes aired a major investigative report examining President Trump's October 23, 2025 pardon of Binance founder Changpeng Zhao, revealing extensive financial ties between Zhao's cryptocurrency empire and the Trump family's crypto venture. The investigation, reported by Scott Pelley and Maria Gavrilovic, featured damning assessments from former Justice Department officials who characterized the pardon as "unprecedented corruption."
 

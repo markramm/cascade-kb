@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-05-02--feulner-returns-heritage-interim-president
 date: 2017-05-02
 title: Ed Feulner Returns as Heritage Foundation Interim President After DeMint Ousted for Management Failures
@@ -82,7 +82,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On May 2, 2017, the Heritage Foundation's Board of Trustees unanimously voted to oust president Jim DeMint, citing "significant and worsening management issues" that had created internal turmoil and damaged the organization's effectiveness. DeMint, who had resigned from the U.S. Senate in 2012 to lead Heritage, had centralized decision-making among a small group of advisers, alienating long-time staff and triggering significant turnover among experienced policy analysts and researchers. The board immediately called on founder Edwin Feulner — retired since 2013 after 36 years as president — to return as interim leader.
 

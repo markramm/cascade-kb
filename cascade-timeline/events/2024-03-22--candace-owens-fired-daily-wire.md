@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-22--candace-owens-fired-daily-wire
 date: '2024-03-22'
 importance: 8
@@ -36,5 +36,5 @@ status: confirmed
 capture_lanes:
 - 'Media Capture & Control'
 ---
-type: solidarity_event
+type: timeline_event
 Daily Wire announces Candace Owens departure following months of escalating conflict with co-founder Ben Shapiro over Israel-Gaza coverage. Owens had posted increasingly provocative content including "Christ is King" messaging perceived as antisemitic dog whistling, culminating in public social media feuding with Shapiro. The split represents the first major fracture in MAGA media coalition, exposing deep divisions over Israel policy that would widen throughout 2024-2025.

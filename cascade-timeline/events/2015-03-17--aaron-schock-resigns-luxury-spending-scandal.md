@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-03-17--aaron-schock-resigns-luxury-spending-scandal
 date: 2015-03-17
 title: Rep. Aaron Schock Resigns Amid Luxury Spending and Mileage Fraud Scandal
@@ -44,7 +44,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Rep. Aaron Schock (R-IL), at 33 one of the Republican Party's most prominent rising stars, announced his resignation from Congress effective March 31, 2015, amid mounting allegations of misusing federal funds and campaign finance violations. The scandal ignited when Schock's Washington office — renovated in a "Downton Abbey" style at a reported cost of over $100,000 in taxpayer funds — became public. Decorator Annie Brahler was paid $35,000, and the renovation spanned Schock's Washington and district offices from January 2009 to 2014.
 

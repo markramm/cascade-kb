@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-07-31--fisa-court-finds-nsa-surveillance-unconstitutional-violations
 date: '2008-07-31'
 title: FISA Court Finds NSA Surveillance Programs Systematically Unconstitutional
@@ -38,6 +38,6 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Foreign Intelligence Surveillance Court issues classified ruling finding NSA's warrantless surveillance programs violated the Fourth Amendment and FISA statute on a systematic basis. The court documented that intelligence agencies had misled judges about the scope and nature of surveillance programs, collected vast amounts of domestic communications without legal authority, and failed to implement required minimization procedures. The ruling revealed years of constitutional violations by intelligence agencies operating under political direction.

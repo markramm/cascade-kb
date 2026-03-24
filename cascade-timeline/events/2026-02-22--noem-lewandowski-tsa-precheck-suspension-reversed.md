@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-22--noem-lewandowski-tsa-precheck-suspension-reversed
 date: '2026-02-22'
 title: 'Noem and Lewandowski Secretly Devise TSA PreCheck Suspension, White House Reverses Within Hours'
@@ -42,7 +42,7 @@ capture_lanes:
 - Democratic Backsliding
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 DHS Secretary Kristi Noem and top adviser Corey Lewandowski secretly devised a plan to suspend TSA PreCheck enrollment and renewals at 6:00 AM on February 22, 2026, a move that would have affected millions of travelers who depend on the expedited screening program. The decision was made without inter-agency coordination and announced with virtually no advance notice, catching both the White House and TSA leadership off guard. The White House intervened within hours to reverse the PreCheck suspension, though Global Entry enrollment remained suspended.
 
 The episode exposed the significant informal power wielded by Lewandowski, who held no formal government role or title at DHS but exercised outsized influence over departmental decisions. Reporting revealed that Lewandowski had been operating as a de facto senior adviser to Noem, shaping policy and operational decisions despite lacking the security clearances, ethics disclosures, or Senate confirmation that typically accompany such authority. His presence at DHS represented a shadow governance structure operating outside normal accountability channels.

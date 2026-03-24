@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-08-01--shotspotter-expansion-nypd-sacramento-acoustic-surveillance
 date: 2015-08-01
 title: ShotSpotter Gunshot Detection System Expands to Major U.S. Cities
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 ShotSpotter's acoustic gunshot detection system undergoes major expansion across the United States during 2015, with significant deployments in New York City and Sacramento representing the technology's growing adoption by major metropolitan police departments.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-10--the-recruitment-effort-that-helped-build-elon-musk-s-doge-ar
 date: '2025-02-10'
 title: Musk Recruits Engineers for Department of Government Efficiency via Targeted Online Networks
@@ -39,5 +39,5 @@ connections:
 - SpaceX recruitment network
 - Peter Thiel tech connections
 ---
-type: solidarity_event
+type: timeline_event
 Elon Musk launched a strategic recruitment campaign targeting engineers from Palantir and SpaceX networks through Discord servers and online chat groups, seeking to build a team to cut federal spending by one-third. The recruitment effort focused on finding 'hardcore engineers' willing to work in Washington, D.C. for six months, leveraging professional networks from tech companies.

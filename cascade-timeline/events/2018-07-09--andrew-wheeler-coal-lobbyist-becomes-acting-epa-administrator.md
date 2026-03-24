@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-07-09--andrew-wheeler-coal-lobbyist-becomes-acting-epa-administrator
 date: '2018-07-09'
 title: Coal Lobbyist Andrew Wheeler Becomes Acting EPA Administrator After Pruitt Resignation
@@ -44,7 +44,7 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 9, 2018, Donald Trump named Andrew Wheeler as Acting EPA Administrator following Scott Pruitt's resignation amid 14 federal corruption investigations. Wheeler, a former coal industry lobbyist who had represented Murray Energy—one of America's largest coal companies—embodied regulatory capture even more systematically than Pruitt. While Pruitt's tenure featured spectacular corruption scandals, Wheeler brought disciplined industry expertise to dismantling environmental protections with less public drama but potentially greater long-term damage to climate and environmental regulation.
 

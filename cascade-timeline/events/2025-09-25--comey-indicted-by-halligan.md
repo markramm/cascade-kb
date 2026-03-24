@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-25--comey-indicted-by-halligan
 date: '2025-09-25'
 title: Former FBI Director James Comey Indicted by Unlawfully Appointed Prosecutor Halligan
@@ -39,7 +39,7 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Just three days after her appointment as EDVA U.S. Attorney, Lindsey Halligan indicted former FBI Director James Comey on two federal counts:
 

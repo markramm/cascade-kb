@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-10--senators-stablecoin-genius-act-trump-crypto-conflicts
 date: '2026-03-10'
 title: Senate Stablecoin Bill Stalls as Democrats Cite Trump Crypto Conflicts of Interest
@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 As of March 10, 2026, Senate negotiations over the GENIUS Act -- federal stablecoin regulation legislation -- remained stalled, with Democratic senators blocking the bill over its failure to address President Trump's direct financial conflicts of interest. Senators Elizabeth Warren and Jeff Merkley called the situation a "staggering" conflict of interest, noting that Trump stood to profit enormously from the legislation he was actively lobbying for.
 

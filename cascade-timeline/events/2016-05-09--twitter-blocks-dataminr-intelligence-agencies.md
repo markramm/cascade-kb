@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-05-09--twitter-blocks-dataminr-intelligence-agencies
 date: '2016-05-09'
 title: Twitter Blocks Intelligence Agencies from Using Dataminr for Social Media Surveillance
@@ -37,7 +37,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Twitter exercised its contractual veto power to block U.S. intelligence agencies from accessing Dataminr's social media surveillance platform, marking a rare instance of a tech company refusing to facilitate government intelligence gathering. The decision came as Dataminr was conducting an unpaid pilot program with intelligence agencies, allowing them to test the platform's capabilities for monitoring Twitter's complete data stream in real-time. Twitter's intervention prevented intelligence services from converting this trial into a permanent surveillance relationship, despite In-Q-Tel, the CIA's venture capital arm, being a major investor in Dataminr and the intelligence community's strong interest in acquiring the monitoring capabilities.
 

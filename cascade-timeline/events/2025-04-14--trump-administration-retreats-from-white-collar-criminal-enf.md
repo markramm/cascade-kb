@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-14--trump-administration-retreats-from-white-collar-criminal-enf
 date: '2025-04-14'
 title: Trump Administration Restructures White-Collar Crime Enforcement Strategy
@@ -51,5 +51,5 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 The Department of Justice announced a strategic realignment of white-collar crime enforcement, introducing a new framework with 10 targeted priority areas. While not a complete reduction, the policy involves resource constraints, shifting investigative focus, and implementing more efficient prosecution strategies. Key changes include a narrower enforcement scope, potential for reduced corporate penalties, and an 'America First' economic approach.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-01-28--reagan-appoints-watt-interior-capture
 date: '1981-01-28'
 title: Reagan Appoints James Watt as Interior Secretary - Oil Industry Capture
@@ -49,6 +49,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 President Reagan appoints James Watt, former president of Mountain States Legal Foundation (funded by Coors and oil companies), as Interior Secretary. Watt immediately opens federal lands to mining and drilling, reverses environmental protections, and staffs the department with industry executives. His tenure represents systematic capture of natural resource regulation by extractive industries, implementing the Powell Memorandum's strategy of placing corporate advocates in key regulatory positions.

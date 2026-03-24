@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-09-04--doj-seizes-doppelganger-domains
 date: '2024-09-04'
 title: Justice Department Seizes 32 Russian Disinformation Domains Mimicking U.S. News Sites, Exposes Kremlin Operation Directed by Putin Aide
@@ -37,7 +37,7 @@ capture_lanes:
 - Electoral Manipulation
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Attorney General Merrick Garland announced on September 4, 2024 that the Justice Department seized 32 internet domains used in Russian government-directed foreign malign influence campaigns known as "Doppelganger." The operation, established in 2022 by Russian IT firm Social Design Agency (SDA), created fake websites designed to appear as legitimate U.S. news outlets like The Washington Post, Fox News, CNN, and others by registering similar domain names.
 

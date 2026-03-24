@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2007-09-01--fbi-watchlist-35-percent-error-rate
 date: 2007-09-01
@@ -36,7 +36,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A Department of Justice Inspector General audit revealed that the FBI's terrorist watchlist contained approximately 35% errors, with large portions of the list governed by no formal processes for updating or removing records. The report exposed systematic failures in a watchlist system that had grown to include hundreds of thousands of names, with devastating consequences for innocent people wrongly flagged as terrorism suspects.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1929-03-31--bernays-torches-freedom-tobacco-propaganda-campaign
 date: '1929-03-31'
 title: Bernays "Torches of Freedom" Campaign Uses Feminism to Sell Cigarettes
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Edward Bernays orchestrates his most famous propaganda campaign, hiring a group of young women to march in New York's Easter Parade while smoking cigarettes and announcing to press photographers that they are lighting "torches of freedom" in a strike against male domination. The staged event, presented as spontaneous feminist protest, generates nationwide newspaper coverage and helps break the taboo against women smoking in public. American Tobacco Company's Lucky Strike brand sales to women increase dramatically, demonstrating how corporate PR can hijack social movements for commercial purposes.
 

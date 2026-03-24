@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-30--not-just-big-tech-under-the-radar-corporations-rushed-to-don
 date: '2025-01-30'
 title: 'Not just Big Tech: under-the-radar corporations rushed to donate to Trump''s inauguration'
@@ -48,5 +48,5 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 Major corporations donated millions to Trump's 2025 inauguration, with private prison firms CoreCivic and GEO Group contributing $2.8 million, and Carrier Global Corporation donating $1 million, while holding significant government contracts

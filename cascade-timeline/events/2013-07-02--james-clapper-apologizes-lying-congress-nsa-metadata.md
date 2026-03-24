@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2013-07-02--james-clapper-apologizes-lying-congress-nsa-metadata
 date: '2013-07-02'
 title: Director of National Intelligence Clapper Apologizes for "Clearly Erroneous" Testimony to Congress
@@ -36,7 +36,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Director of National Intelligence James Clapper sent a letter to Senate Intelligence Committee Chair Dianne Feinstein apologizing for his March 12, 2013 testimony to Congress, in which he denied that the NSA collected data on millions of Americans. In response to a direct question from Senator Ron Wyden asking "Does the NSA collect any type of data at all on millions or hundreds of millions of Americans?", Clapper had answered "No, sir" and "Not wittingly."
 

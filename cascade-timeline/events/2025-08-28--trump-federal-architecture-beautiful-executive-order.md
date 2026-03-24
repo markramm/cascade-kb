@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-08-28--trump-federal-architecture-beautiful-executive-order
 date: '2025-08-28'
 title: Trump Executive Order Mandates Classical Architecture for Federal Buildings
@@ -28,7 +28,7 @@ capture_lanes:
 - Executive Power Expansion
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump signed an executive order titled 'Making Federal Architecture Beautiful Again' mandating that all new federal public buildings embrace classical architecture styles to 'honor tradition, foster civic pride, and inspire the citizenry.' The order represents an unprecedented assertion of presidential control over federal aesthetic and design standards, overriding established processes involving professional architects, local communities, and federal agencies.
 

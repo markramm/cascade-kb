@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2006-01-01--aspen-dental-private-equity-rollup-begins-consolidation-wave
 date: '2006-01-01'
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 Private equity firm Ares Management acquired Aspen Dental in 2006, launching an aggressive roll-up strategy that would help consolidate the fragmented dental industry and establish the template for private equity's systematic monopolization of healthcare sectors including dental, veterinary, dermatology, and ophthalmology. The Aspen Dental model—using serial acquisitions and debt extraction to build market power while maintaining the illusion of independent local practices—would be replicated across healthcare specialties over the following two decades.
 

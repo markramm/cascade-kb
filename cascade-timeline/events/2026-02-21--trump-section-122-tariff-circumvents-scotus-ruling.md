@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-21--trump-section-122-tariff-circumvents-scotus-ruling
 date: '2026-02-21'
 title: 'Trump Invokes Section 122 to Impose New Tariffs Within 24 Hours of Supreme Court Ruling'
@@ -41,7 +41,7 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Backsliding
 ---
-type: solidarity_event
+type: timeline_event
 Within 24 hours of the Supreme Court's 6-3 decision striking down his IEEPA-based tariffs, President Trump invoked Section 122 of the Trade Act of 1974 to impose a new global tariff, effectively circumventing the Court's ruling. Section 122 allows the president to impose tariffs of up to 15 percent for a period of 150 days to address "large and serious" balance-of-payments deficits. The speed of the response suggested the administration had prepared the Section 122 action as a contingency well before the Supreme Court issued its decision.
 
 Treasury Secretary Scott Bessent defended the action as a lawful exercise of a separate and distinct statutory authority, arguing that the Supreme Court's IEEPA ruling said nothing about the president's powers under the Trade Act. Bessent pointed to the nation's persistent trade deficits as justification for the balance-of-payments determination required by Section 122. Critics countered that the administration's transparent intent to maintain the exact same tariff regime the Court had just struck down—using a different legal label—constituted bad-faith circumvention of judicial authority rather than good-faith compliance with the ruling.

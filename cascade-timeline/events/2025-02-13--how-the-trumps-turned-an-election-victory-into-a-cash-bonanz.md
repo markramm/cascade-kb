@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Alphabet Inc.
@@ -60,5 +60,5 @@ tags:
 - platform-litigation
 title: How the Trumps Turned Social Media Platform Litigation into a Profitable Strategy
 ---
-type: solidarity_event
+type: timeline_event
 In early 2025, Donald Trump successfully negotiated a series of lucrative settlements with major media and tech platforms, including a $24 million settlement with YouTube over account suspension, a $25 million settlement with Meta, a $10 million settlement with X (Twitter), a $15 million settlement with Disney, and a $16 million settlement with Paramount. These settlements reveal a strategic approach to transforming legal challenges into significant financial gains, targeting platforms that suspended his accounts following the January 6 events.

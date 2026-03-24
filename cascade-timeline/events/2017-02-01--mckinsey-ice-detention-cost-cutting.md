@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-02-01--mckinsey-ice-detention-cost-cutting
 date: '2017-02-01'
 title: McKinsey Redirected from Obama-Era ICE Reform to Trump Immigration Crackdown Consulting
@@ -50,7 +50,7 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Just days after President Trump takes office in January 2017 and issues executive orders to shift 'all legally available resources' to border detention facilities and hire 10,000 new immigration officers, ICE quickly redirects McKinsey & Company - originally brought on under the Obama administration to help engineer an 'organizational transformation' - toward helping execute the White House's clampdown on illegal immigration. McKinsey proposes cuts in spending on food for migrants, as well as on medical care and supervision of detainees, according to interviews and 1,500 pages of documents obtained by ProPublica through a Freedom of Information Act lawsuit. The consultants encourage ICE to adopt a 'longer-term strategy' with 'operational decisions to fill low cost beds before expensive beds,' which in practice means shunting detainees to less expensive and sometimes less safe facilities, often rural county jails. McKinsey's team also looks for ways to accelerate the deportation process, provoking worries among some ICE staff members that the recommendations risk short-circuiting due process protections for migrants fighting removal from the United States. The consulting team becomes so driven to save money that consultants sometimes ignore - and even complain to agency managers about - ICE staffers who object that McKinsey's cost-cutting proposals risk jeopardizing the health and safety of migrants. In 'heated meetings' with McKinsey consultants, agency staff members question whether saving pennies on food and medical care for detainees justifies the potential human cost. McKinsey's suggestions are sometimes too harsh even for ICE officials to implement.

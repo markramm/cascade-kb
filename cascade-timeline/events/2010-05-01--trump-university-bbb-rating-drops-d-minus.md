@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-05-01--trump-university-bbb-rating-drops-d-minus
 date: 2010-05-01
 title: Better Business Bureau Drops Trump University Rating to D- After Flood of Consumer Complaints
@@ -35,7 +35,7 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: solidarity_event
+type: timeline_event
 
 The Better Business Bureau issued Trump University a D- rating in 2010, the lowest rating the enterprise received during its active operations. The rating resulted from multiple consumer complaints the BBB received documenting deceptive practices, high-pressure sales tactics, and unfulfilled promises. Students complained that Trump University promised personal involvement from Trump in selecting instructors and developing curriculum, but this never materialized. The "mentors" were not the vetted experts students had been promised, and many students felt defrauded after paying thousands of dollars for courses that failed to deliver the advertised value. Trump would later falsely claim during his 2016 presidential campaign that Trump University had an A rating from the BBB, when in fact the D- rating from 2010 represented the organization's actual performance during its operational period.
 

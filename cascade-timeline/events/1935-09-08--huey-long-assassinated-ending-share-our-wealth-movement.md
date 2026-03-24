@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1935-09-08--huey-long-assassinated-ending-share-our-wealth-movement
 date: '1935-09-08'
 title: Huey Long Assassinated, Ending "Share Our Wealth" Challenge to Both Corporate Power and New Deal Moderation
@@ -39,7 +39,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Louisiana Senator Huey P. Long dies on September 10, 1935, two days after being shot by Dr. Carl Weiss in the Louisiana State Capitol, ending the most significant populist challenge to both concentrated wealth and New Deal moderation. Long's "Share Our Wealth" movement, which he founded in 1934, claimed 7.5 million members in 27,000 clubs nationwide by 1935, promising to cap personal fortunes at $50 million and redistribute the excess to guarantee every American family a minimum income, free education, and a homestead. Roosevelt privately acknowledged that Long represented his most dangerous political threat, a demagogue who attacked the New Deal from the left as insufficiently radical.
 

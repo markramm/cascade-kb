@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-24--sonny-perdue-hatch-act-violation
 date: 2020-08-24
 title: Agriculture Secretary Sonny Perdue Violates Hatch Act by Campaigning for Trump at Official USDA Event
@@ -36,7 +36,7 @@ capture_lanes:
 - Executive Power Expansion
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Agriculture Secretary Sonny Perdue violated the Hatch Act at an August 24, 2020 event in Mills River, North Carolina, related to the Farmers to Families Food Box Program. During the official USDA event attended by President Trump, Perdue told the crowd that people lined up along the motorcade route were "part of those forgotten people that voted for you for 2016," and added "they and many others are going to vote for you for four more years in 2020. Because they understand, under your administration, they've not been forgotten." Perdue also stated, "that's what's gonna continue to happen — four more years — if America gets out and votes for this man, Donald J. Trump," prompting the crowd to chant "four more years."
 

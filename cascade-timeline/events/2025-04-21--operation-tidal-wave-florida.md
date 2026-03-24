@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-21--operation-tidal-wave-florida
 date: '2025-04-21'
 importance: 8
@@ -37,6 +37,6 @@ sources:
 notes: 63% of those arrested had existing criminal arrests or convictions, meaning 37% did not. 378 had final removal orders. State officials described the first week as "just a warm up," indicating plans for continued operations. The operation was explicitly framed as a political "model for other states."
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Operation Tidal Wave (April 21-26, 2025) resulted in 1,120 arrests across Florida, the largest number in a single state in one week in ICE's history. While ICE claimed all were "criminal aliens," 37% had no criminal convictions beyond immigration violations. Governor DeSantis and ICE Deputy Director Madison Sheahan called it a "test run" and "warm up" for future operations. The operation utilized 287(g) agreements to integrate state and local law enforcement into immigration enforcement.

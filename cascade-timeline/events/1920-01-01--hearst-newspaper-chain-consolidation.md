@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1920-01-01--hearst-newspaper-chain-consolidation
 date: '1920-01-01'
 title: Hearst Newspaper Empire Reaches 28 Papers Controlling One in Four American Readers Through Yellow Journalism Tactics
@@ -44,7 +44,7 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 William Randolph Hearst's media empire reaches its peak expansion in the 1920s, controlling 28 major newspapers and 18 magazines that reach one in every four Americans (20 million readers by mid-1930s), representing the largest newspaper chain consolidation in American history and demonstrating the dangers of unchecked media monopoly concentration. The Hearst empire grows through aggressive acquisition: three papers in 1921, six in 1922, one in 1923, and three in 1924, including major metropolitan dailies such as the Los Angeles Examiner, Boston American, Atlanta Georgian, Chicago Examiner, Detroit Times, Seattle Post-Intelligencer, Washington Herald, and San Antonio Light.
 

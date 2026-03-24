@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-16--house-hearing-doj-antitrust-corruption-pay-to-play
 date: 2025-12-16
 title: House Judiciary Subcommittee Hearing Exposes How Trump Administration Corrupted DOJ Antitrust Enforcement Through Pay-to-Play Schemes and Political Interference
@@ -141,7 +141,7 @@ capture_lanes:
 - Legislative Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 16, 2025, the House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust held a hearing nominally titled "Anti-American Antitrust: How Foreign Governments Target U.S. Businesses," which became a forum for explosive whistleblower testimony about systematic corruption within the Department of Justice's Antitrust Division. The central witness was Professor Roger P. Alford, a Notre Dame Law School professor who had served as Principal Deputy Assistant Attorney General — the number two position in the Antitrust Division — beginning in April 2025, before being fired in July 2025 for "insubordination" after raising concerns about politically motivated enforcement decisions. Ranking Member Jamie Raskin (D-MD) used his opening statement to detail how Attorney General Pam Bondi's political appointees — including Chief of Staff Chad Mizelle and Counselor Stanley Woodward — had systematically overridden career antitrust attorneys' professional judgments to approve mergers benefiting companies whose executives hired well-connected Trump lobbyists or made financial contributions to Trump family business ventures.
 

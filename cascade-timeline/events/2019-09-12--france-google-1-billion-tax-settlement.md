@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2019-09-12'
 title: France Orders Google to Pay €1B for Tax Fraud, Settles for €945M
 description: French authorities ordered Google to pay nearly €1 billion ($1.1 billion) to settle tax fraud investigation after a 2016 raid on Google's Paris offices exposed systematic tax evasion. The investigation found Google routed French revenues through Ireland to avoid French taxes despite substantial operations and sales in France. Google paid €500 million penalty plus €465 million in back taxes to settle without admitting wrongdoing—a pattern allowing corporations to buy their way out of tax fraud prosecution. The settlement represented 4+ years of avoided French taxes but no jail time or criminal prosecution despite evidence of deliberate tax fraud. French Finance Minister Bruno Le Maire called it an "historic settlement" while critics noted it rewarded tax fraud with negotiated settlement rather than criminal penalties that individuals would face for equivalent evasion.
@@ -56,7 +56,7 @@ connections:
 - European pushback on tax evasion
 notes: Settlement amount was less than one year of Google's tax avoidance in France. No executives faced criminal liability despite evidence of systematic fraud. Created precedent that tech giants can buy way out of tax fraud prosecution.
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 12, 2019, Google agreed to pay €945 million ($1.1 billion) to French authorities to settle a four-year tax fraud investigation—avoiding criminal prosecution by negotiating a financial settlement despite evidence of systematic tax evasion. The case exemplified how corporate tax fraud is treated as a civil matter with negotiated settlements while ordinary citizens face criminal prosecution for equivalent violations.
 

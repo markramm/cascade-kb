@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-12-27--carlo-jimenez-whistleblower-retaliation
 date: '2022-12-27'
 importance: 8
@@ -39,6 +39,6 @@ status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2022-12-27--ice-whistleblower-faces-retaliation-after-reportin'
 _merge_timestamp: '2025-09-05T23:46:55.906002'
 ---
-type: solidarity_event
+type: timeline_event
 
 Carlo Jimenez, a Navy Iraq War veteran and ICE supervisory detention officer, reported weapons violations after an officer distributed pocketknives to staff at Montgomery Processing Center in December 2022. Despite weapons being banned, leadership took no action. After Jimenez reported to DHS Inspector General, he faced immediate retaliation including schedule changes, demotion, and falsified negative evaluations. The Merit Systems Protection Board found violations of his rights and whistleblower retaliation requiring a full hearing. Just months earlier, Jimenez had received a 4.7/5.0 rating and cash award for performance.

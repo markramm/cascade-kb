@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-25--h5n1-first-detected-us-dairy-cattle
 date: '2024-03-25'
 title: H5N1 Bird Flu First Detected in U.S. Dairy Cattle in Texas
@@ -36,7 +36,7 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 25, 2024, highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b was confirmed in a dairy cow in Texas, marking the first detection of H5N1 in U.S. dairy cattle. The USDA, FDA, and CDC jointly announced this unprecedented development after a multistate investigation into unexplained milk production losses. Veterinarians at Cornell University College of Veterinary Medicine were among the first to sequence the virus using samples from sick cattle in Texas.
 

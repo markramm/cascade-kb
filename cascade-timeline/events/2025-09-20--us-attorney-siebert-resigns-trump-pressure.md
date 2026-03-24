@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-20--us-attorney-siebert-resigns-trump-pressure
 date: '2025-09-20'
 title: Eastern District of Virginia US Attorney Erik Siebert Resigns Under Trump Pressure to Charge Letitia James
@@ -35,7 +35,7 @@ capture_lanes:
 - Media Capture & Control
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 20, 2025, Erik Siebert resigned as U.S. Attorney for the Eastern District of Virginia after President Trump publicly stated he wanted Siebert "out" following a monthslong mortgage fraud investigation into New York Attorney General Letitia James that failed to produce criminal charges. Siebert, whom Trump had nominated to lead the office earlier in 2025 after more than a decade of service there, faced intense pressure from the Trump administration to bring charges against James based on alleged paperwork discrepancies involving her Brooklyn townhouse and a Virginia home.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-11-18--trump-university-25-million-settlement
 date: 2016-11-18
 title: Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After Election Victory
@@ -36,7 +36,7 @@ capture_lanes:
 - Executive Power Expansion
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Donald Trump agreed on November 18, 2016 to pay $25 million to settle all three Trump University fraud lawsuits—two class actions and the New York Attorney General civil suit—just 10 days after winning the presidential election and less than two weeks before the San Diego class action was scheduled to go to trial. The settlement was reached despite Trump's repeated insistence throughout the campaign that he would never settle and would win at trial. The $25 million settlement distributed $21 million to participants in the class actions, $3 million to New Yorkers not covered by the class actions, and up to $1 million in penalties to the state of New York. The settlement agreement specified that Trump did not admit any wrongdoing, though the settlement amount and timing eliminated the possibility that Trump would be forced to testify under oath about his fraud scheme during his presidential transition.
 

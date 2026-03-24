@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1868-02-24--andrew-johnson-impeached-reconstruction-obstruction
 date: '1868-02-24'
 title: Andrew Johnson Impeached for Obstructing Reconstruction
@@ -42,7 +42,7 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 The House of Representatives votes 126-47 to impeach President Andrew Johnson on February 24, 1868—the first presidential impeachment in American history. The precipitating event is Johnson's February 21 attempt to fire Secretary of War Edwin Stanton and replace him with Lorenzo Thomas in apparent violation of the Tenure of Office Act. Stanton, a Lincoln appointee and staunch Radical Republican who controls military presence in the South including the Freedmen's Bureau, refuses to vacate his office, barricades himself inside, and orders Thomas arrested. But the impeachment represents far more than a technical violation: it is the culmination of Johnson's three-year campaign to sabotage Reconstruction.
 

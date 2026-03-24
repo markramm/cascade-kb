@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2002-03-14--arthur-andersen-indicted-obstruction-justice
 date: 2002-03-14
 status: confirmed
@@ -36,7 +36,7 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 14, 2002, the U.S. Department of Justice announced the indictment of Arthur Andersen LLP on one count of obstruction of justice for destroying "literally tons of paper documents and other electronic information" related to the Enron collapse. The indictment, handed down by a federal grand jury in Houston, marked the first time a major accounting firm faced criminal prosecution for complicity in corporate fraud.
 

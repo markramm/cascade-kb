@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1932-07-28--bonus-army-suppressed-macarthur-tanks-tear-gas-veterans
 date: '1932-07-28'
 title: MacArthur Uses Tanks and Tear Gas to Violently Suppress Bonus Army of 43,000 Veterans
@@ -40,7 +40,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 On July 28, 1932, U.S. Army troops under the command of General Douglas MacArthur violently disperse the Bonus Army—43,000 demonstrators including 17,000 World War I veterans, their families, and affiliated groups—who had marched on Washington, D.C. to demand early payment of service bonus certificates. MacArthur deploys 600 soldiers, cavalry, and six light tanks that use tear gas and set fire to the veterans' makeshift camps, clearing the protesters from the nation's capital in a display of military force against impoverished veterans that shocks the American public and dooms President Herbert Hoover's reelection prospects.
 

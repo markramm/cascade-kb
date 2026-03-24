@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1997-10-01--287g-program-created-local-police-immigration-enforcement
 date: '1997-10-01'
 title: 287(g) Program Created, Deputizing Local Police for Immigration Enforcement
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 Section 287(g) of the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA) takes effect, creating a program allowing the Immigration and Naturalization Service to deputize state and local law enforcement officers to perform immigration enforcement functions. Under 287(g) agreements, local officers receive training and authority to interrogate individuals about immigration status, process immigrants for removal, and issue immigration detainers—holds requesting that local jails detain individuals beyond their release date for immigration pickup. The program fundamentally transforms the relationship between immigrant communities and local police.
 

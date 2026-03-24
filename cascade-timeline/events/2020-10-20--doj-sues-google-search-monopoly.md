@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2020-10-20'
 title: DOJ Sues Google for Search Monopoly Through Exclusionary Contracts
 description: The U.S. Department of Justice filed the most significant antitrust case since United States v. Microsoft, suing Google for illegally monopolizing search and search advertising markets through exclusionary contracts that blocked competitors. The complaint alleged that Google maintained approximately 90% search market share by paying Apple, Samsung, and other companies over $12 billion annually to make Google the default search engine on devices and browsers. These agreements foreclosed rivals from reaching users and allowed Google to collect vast quantities of user data that reinforced its monopoly. The case was joined by eleven state Attorneys General and represented the federal government's first major antitrust challenge to Big Tech's market power. Trial began in 2023, with Judge Mehta ruling in August 2024 that Google illegally maintained monopolies in general search and search advertising.
@@ -60,7 +60,7 @@ connections:
 - User data collection for monopoly reinforcement
 notes: Most significant antitrust case in decades. Trial testimony revealed Google paid Apple $18 billion in 2021 alone for default search placement. Judge Mehta ruled Google an illegal monopolist in August 2024.
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 20, 2020, the United States Department of Justice, joined by eleven state Attorneys General, filed a landmark antitrust lawsuit against Google LLC for illegally monopolizing search and search advertising markets. The case represented the federal government's most significant antitrust enforcement action since United States v. Microsoft Corporation two decades earlier.
 

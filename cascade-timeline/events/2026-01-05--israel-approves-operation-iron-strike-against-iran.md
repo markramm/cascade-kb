@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-01-05--israel-approves-operation-iron-strike-against-iran
 date: '2026-01-05'
 title: Israeli Security Cabinet Approves 'Operation Iron Strike' Against Iran
@@ -28,6 +28,6 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Israeli Security Cabinet held a 5-hour meeting and authorized a new military operation against Iran codenamed "Operation Iron Strike" - a play on "strike while the iron is hot." The plan was reportedly discussed during Netanyahu's meeting with Trump in Florida. The authorization came as Iran faced its largest protests since 1979 and security forces were killing hundreds of demonstrators. Iranian officials, including Foreign Minister Araghchi, described the government as being in "survival mode" as the regime faced simultaneous military threats and domestic unrest.

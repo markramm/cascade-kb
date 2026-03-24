@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-19--melania-launches-melania-coin-suspicious-trading
 date: '2025-01-19'
 title: Melania Trump launches $MELANIA coin with suspicious trading netting insiders $99.6M
@@ -45,7 +45,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Melania Trump launched her $MELANIA cryptocurrency two days after Donald Trump's coin, with highly suspicious trading patterns. Trading data reveals that just 24 wallets rapidly purchased massive amounts of Melania tokens immediately after launch, netting a combined $99.6 million windfall within hours. The coordinated buying pattern suggested insider trading or manipulation, as these wallets appeared to have advance knowledge of the coin's launch and timing.
 
 The coin initially launched at nearly $7 per token, peaked above $13, and dropped below $5 by the next day. Sen. Chris Murphy (D-Conn.) introduced the MEME Act to prevent U.S. presidents or members of Congress from issuing memecoins in response to these suspicious cryptocurrency ventures.

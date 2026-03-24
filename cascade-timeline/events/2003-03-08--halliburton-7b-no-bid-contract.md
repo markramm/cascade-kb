@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-03-08--halliburton-7b-no-bid-contract
 date: '2003-03-08'
 title: Halliburton KBR Receives $7 Billion No-Bid Iraq Contract Through Systematic
@@ -64,6 +64,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 The U.S. Army Corps of Engineers awards Kellogg Brown & Root (KBR), subsidiary of Halliburton, a $7 billion no-bid contract for Iraqi oil infrastructure restoration, demonstrating systematic corporate-state fusion beyond WHIG's media coordination template. Internal Pentagon emails reveal the contract was 'coordinated with VP's [Vice President's] office,' documenting direct corporate-government integration where Vice President Dick Cheney's former CEO position at Halliburton (1995-2000) enables systematic bypass of competitive bidding processes during crisis conditions. The no-bid award represents expansion of WHIG corporate coordination template from media manipulation to systematic fusion of government policy implementation with corporate profit maximization through established personal networks and revolving door infrastructure. Cheney's ongoing $398,548 annual deferred compensation from Halliburton while Vice President, combined with 433,000 stock options, creates systematic corporate-government integration where policy decisions directly benefit corporate financial interests through established personal coordination mechanisms. This demonstrates evolution from episodic corporate-media coordination to systematic corporate-state fusion where government functions are systematically transferred to private corporate control through crisis-accelerated contract implementation that bypasses constitutional accountability mechanisms.

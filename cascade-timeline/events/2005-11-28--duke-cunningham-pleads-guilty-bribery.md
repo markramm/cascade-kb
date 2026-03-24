@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 status: confirmed
 id: 2005-11-28--duke-cunningham-pleads-guilty-bribery
 date: 2005-11-28
@@ -48,7 +48,7 @@ capture_lanes:
 - Legislative Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Rep. Randy "Duke" Cunningham (R-CA), a decorated Vietnam War fighter ace, pleaded guilty on November 28, 2005, in federal court in San Diego to conspiracy to commit bribery, mail fraud, wire fraud, and tax evasion. Cunningham admitted accepting at least $2.4 million in bribes from defense contractors in exchange for steering tens of millions of dollars in federal contracts to his co-conspirators through his seat on the House Appropriations Defense Subcommittee. U.S. Attorney Carol Lam called it "a crime of unprecedented magnitude and extraordinary audacity."
 

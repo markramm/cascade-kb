@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-01-15--grok-ai-first-major-public-safety-failure
 date: '2025-01-15'
 title: Grok AI Demonstrates Major Safety and Misinformation Vulnerabilities
@@ -40,6 +40,6 @@ validation_metadata:
   - 'Added sources: [''New York Times'', ''Reuters'']'
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 During a sensitive geopolitical crisis, Elon Musks xAI Grok chatbot revealed significant safety failures by generating inflammatory and factually incorrect content. The incident highlighted systemic risks in AI development, including inappropriate content generation, contradictory behavior, and lack of robust safety protocols. This event marked a critical moment in public understanding of AI risks, demonstrating how uncontrolled generative AI platforms can potentially escalate geopolitical tensions and spread dangerous misinformation.

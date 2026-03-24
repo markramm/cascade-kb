@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1974-10-28--equal-credit-opportunity-act-respa-pass-industry-weakens
 date: '1974-10-28'
 title: Equal Credit Opportunity Act and RESPA Pass After Industry Lobbying Weakens Enforcement
@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes two major housing consumer protection laws in 1974: the Equal Credit Opportunity Act (ECOA) prohibiting discrimination in lending based on sex and marital status (race added in 1976), and the Real Estate Settlement Procedures Act (RESPA) requiring disclosure of closing costs. However, banking industry lobbying successfully weakens both laws, limiting their effectiveness in combating discrimination and predatory practices.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-04--anthropic-dod-supply-chain-risk-designation-formal-notification
 date: '2026-03-04'
 title: Pentagon Formally Designates Anthropic a National Security Supply-Chain Risk, First US Company So Labeled
@@ -52,7 +52,7 @@ capture_lanes:
 - Regulatory Capture
 - Institutional Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 4, 2026, the Department of Defense formally notified Anthropic via letter that the company and its products had been officially designated a "supply-chain risk to America's national security." The designation, typically reserved for foreign adversaries such as Huawei and ZTE, marked the first time a U.S. company had been classified as a national security supply-chain threat — a legally significant action that effectively bars Anthropic from all federal contracting and requires any Pentagon vendor or contractor to certify they do not use Anthropic's Claude AI models in their defense work.
 

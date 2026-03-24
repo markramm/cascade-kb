@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-15--pentagon-extends-defense-contractor-naughty-list-review
 date: '2026-02-15'
 status: confirmed
@@ -37,7 +37,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Pentagon announces it needs more time to finalize its "naughty list" of defense contractors subject to potential restrictions on stock buybacks and dividend payments under President Trump's January executive order "Prioritizing the Warfighter in Defense Contracting." The 30-day review deadline has passed, with the department now entering an "extended review period" to make "noncompliance determinations."
 

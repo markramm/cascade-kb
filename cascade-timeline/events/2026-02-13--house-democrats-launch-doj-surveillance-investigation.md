@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-13--house-democrats-launch-doj-surveillance-investigation
 date: '2026-02-13'
 status: confirmed
@@ -43,7 +43,7 @@ capture_lanes:
 - Environmental Capture
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 House Judiciary Ranking Member Jamie Raskin, Immigration Subcommittee Ranking Member Pramila Jayapal, and Oversight Committee Ranking Member Robert Garcia launched a formal investigation into DOJ's "clandestine congressional surveillance operation" after Attorney General Bondi was photographed with Representative Jayapal's detailed search history from the Epstein files reading room. The lawmakers demanded DOJ immediately cease tracking and cataloguing members' searches, calling it an attempt to "obstruct and intimidate Members of Congress."
 

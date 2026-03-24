@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-30--grok-ai-transparency-mandate
 date: '2025-07-30'
 title: California Judicial Council Establishes First Comprehensive AI Transparency Regulations
@@ -37,5 +37,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 On July 18, 2025, the California Judicial Council approved Rule 10.430, establishing the nation's first comprehensive AI transparency and accountability regulations. The rules mandate human oversight, bias prevention, and mandatory disclosure of AI-generated documents in judicial operations. This landmark decision sets a precedent for AI system governance, requiring generative AI tools like Grok to demonstrate transparency in training data, model architecture, and safety testing procedures.

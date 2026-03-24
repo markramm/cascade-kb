@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-01-01--amazon-pays-zero-federal-income-tax-112-billion-profit
 date: 2018-01-01
 title: Amazon Pays Zero Federal Income Tax Again on $11.2 Billion Profit—Receives $129 Million Tax Rebate
@@ -35,7 +35,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Amazon paid zero federal income tax for the second consecutive year despite nearly doubling its U.S. profits to $11.2 billion in 2018. Beyond avoiding all federal taxes, Amazon actually received a $129 million tax rebate from the federal government—yielding a negative 1% effective tax rate. This occurred after the 2017 Tax Cuts and Jobs Act reduced the statutory corporate tax rate from 35% to 21%, demonstrating that even drastically lower tax rates could not compel Amazon to contribute to federal revenue.
 

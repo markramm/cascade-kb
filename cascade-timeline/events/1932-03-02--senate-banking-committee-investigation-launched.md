@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1932-03-02--senate-banking-committee-investigation-launched
 date: '1932-03-02'
 title: Senate Banking Committee Launches Investigation into Wall Street Crash
@@ -30,5 +30,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 The U.S. Senate passed Senate Resolution 84, authorizing the Committee on Banking and Currency to investigate "practices with respect to the buying and selling and the borrowing and lending" of stocks and securities following the 1929 Wall Street crash. The investigation, chaired initially by Republican Senator Peter Norbeck, was initially criticized as ineffective political theater designed to appease public anger during the Great Depression. The committee struggled through its first year, firing two chief counsels for ineffectiveness and accepting the resignation of a third who requested broad subpoena power. The investigation's early failures masked what would become one of the most consequential congressional inquiries in American history once Ferdinand Pecora took over as chief counsel in January 1933. This resolution marked the beginning of what would become known as the Pecora Commission, which would expose systematic corruption in the financial industry and lead directly to landmark New Deal financial regulations including Glass-Steagall and the creation of the Securities and Exchange Commission.

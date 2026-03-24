@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2010-01-01--cnp-tea-party-coordination-jenny-beth-martin
 date: '2010-01-01'
 title: CNP Coordinates Tea Party Movement Through Member Organizations
@@ -34,7 +34,7 @@ capture_lanes:
 - Legislative Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 By 2010, the Council for National Policy had integrated Tea Party movement leaders into its coordination network, with Tea Party Patriots co-founder Jenny Beth Martin serving on CNP's executive committee and coordinating grassroots mobilization with the broader conservative infrastructure.
 
 Jenny Beth Martin's dual role as Tea Party Patriots CEO and CNP executive committee member exemplified how CNP coordinated what appeared to be spontaneous grassroots movements. The Tea Party's rapid mobilization, consistent messaging across states, and coordination with conservative think tanks and donors reflected CNP's behind-the-scenes coordination function.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-06-03--firings-pardons-and-policy-changes-have-gutted-doj-anti-corr
 date: '2025-06-03'
 title: Mass DOJ Firings Reshape Federal Law Enforcement Landscape
@@ -41,5 +41,5 @@ patterns:
 - institutional-restructuring
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration's systematic removal of FBI and DOJ personnel, initially targeting those involved in January 6 investigations, effectively dismantled key anti-corruption enforcement mechanisms. By June 2025, eight senior FBI executives had been terminated, with dozens of field office heads facing potential dismissal, fundamentally altering the Justice Department's investigative capabilities.

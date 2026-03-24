@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-13--usps-removes-mailboxes-in-democratic-areas
 date: 2020-08-13
 title: USPS Removes Mailboxes in Democratic Areas, Reverses After Public Outcry
@@ -41,7 +41,7 @@ capture_lanes:
 - Media Capture & Control
 - Legislative Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The United States Postal Service confirmed that it removed dozens of public mailboxes from streets in Democratic-leaning areas across multiple states, including Oregon, Montana, Pennsylvania, and New York. In Portland, four blue collection boxes were removed from city streets, while 27 additional boxes were removed from Eugene, Oregon. Photos of USPS workers loading the signature blue mailboxes onto trucks went viral, triggering widespread public alarm about election interference.
 

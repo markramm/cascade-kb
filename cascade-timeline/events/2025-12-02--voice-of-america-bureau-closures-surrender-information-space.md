@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-02--voice-of-america-bureau-closures-surrender-information-space
 date: '2025-12-02'
 title: Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
@@ -45,7 +45,7 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
 

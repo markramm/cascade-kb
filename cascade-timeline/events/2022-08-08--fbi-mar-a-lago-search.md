@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2022-08-08--fbi-mar-a-lago-search
 date: '2022-08-08'
 importance: 10
@@ -45,7 +45,7 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 FBI agents executed an unprecedented search warrant at Donald Trump's Mar-a-Lago residence,
 recovering 33 boxes containing 11 sets of classified documents, including top secret and

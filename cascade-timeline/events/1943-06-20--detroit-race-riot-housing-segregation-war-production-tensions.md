@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1943-06-20--detroit-race-riot-housing-segregation-war-production-tensions
 date: '1943-06-20'
 title: Detroit Race Riot Exposes Housing Segregation and War Production Tensions
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The Detroit race riot erupts on June 20, 1943, killing 34 people, injuring over 400, and causing $2 million in property damage. The violence exposes how federal housing policy enforces residential segregation while demanding integrated war production, creating explosive tensions that government policy itself generates.
 

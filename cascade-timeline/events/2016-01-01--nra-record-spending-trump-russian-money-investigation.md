@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-01-01--nra-record-spending-trump-russian-money-investigation
 date: '2016-01-01'
 title: NRA Spends Record $30-55 Million Supporting Trump, FBI Investigates Russian Money Laundering
@@ -48,7 +48,7 @@ capture_lanes:
 - Electoral Manipulation
 - Digital & Tech Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 During the 2016 election cycle, the National Rifle Association spent a record $30-55 million supporting Donald Trump's presidential campaign—triple its 2012 spending for Mitt Romney. The unprecedented spending occurred during and after Maria Butina and Alexander Torshin's systematic infiltration of the NRA, leading to FBI and Congressional investigations into whether Russian money was illegally laundered through the NRA to support Trump. The Senate Finance Committee later concluded the Kremlin used the NRA as a vehicle to help Trump's campaign.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1814-12-15--hartford-convention-federalist-secession-threat
 date: '1814-12-15'
 title: Hartford Convention Federalist Secession Threat Establishes Nullification Precedent
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Twenty-six New England Federalist leaders from Massachusetts, Connecticut, Rhode Island, Vermont, and New Hampshire convene in Hartford, Connecticut, to discuss grievances concerning the War of 1812 and federal government overreach under Democratic-Republican control. The convention addresses fears that southern Democratic-Republicans are undermining states' rights and that the war damages New England's economic interests, which already suffered from Jefferson's 1807 Embargo Act. Rumors abound that the convention will call for New England's secession from the United States, though most participants hold more moderate views and fear that secession talk might trigger civil war.
 

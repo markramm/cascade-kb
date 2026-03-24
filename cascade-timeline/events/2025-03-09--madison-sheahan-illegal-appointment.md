@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-09--madison-sheahan-illegal-appointment
 date: '2025-03-09'
 importance: 9
@@ -37,6 +37,6 @@ sources:
 notes: Sheahan served as Political Director for Noem in South Dakota from 2021-2024 and Executive Director of the South Dakota Republican Party from 2023-2024. She was sworn in March 26, 2025. Advocates expressed concern about her promotion given her role in homeless sweeps.
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Madison Sheahan, a 28-year-old former aide to DHS Secretary Kristi Noem with no law enforcement experience, was appointed ICE Deputy Director on March 9, 2025. Federal law requires the ICE Director to have "a minimum of 5 years professional experience in law enforcement, and a minimum of 5 years of management experience," qualifications Sheahan lacks. Her only prior role was overseeing Louisiana Wildlife and Fisheries, where she conducted controversial homeless sweeps in New Orleans. She now oversees 20,000 employees and a $9 billion budget.

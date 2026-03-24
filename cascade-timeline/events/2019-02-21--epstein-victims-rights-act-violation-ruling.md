@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-02-21--epstein-victims-rights-act-violation-ruling
 date: '2019-02-21'
 title: Federal Judge Rules Epstein Plea Deal Violated Crime Victims' Rights Act
@@ -39,6 +39,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 U.S. District Judge Kenneth Marra rules that federal prosecutors violated the Crime Victims' Rights Act by failing to inform victims about the 2008 non-prosecution agreement with Jeffrey Epstein. The ruling found that prosecutors deliberately concealed the agreement from victims and their attorneys, constituting a fundamental breach of federal law requiring victim consultation.

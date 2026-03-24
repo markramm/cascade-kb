@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2023-04-06--tennessee-three-expulsion-racist-suppression
 date: 2023-04-06
 title: Tennessee House Expels Two Black Lawmakers in Racist Suppression of Gun Control Protest
@@ -106,7 +106,7 @@ sources:
   date: '2023-04-07'
   tier: 1
 ---
-type: solidarity_event
+type: timeline_event
 The Tennessee House of Representatives expelled two young Black Democratic lawmakers—Justin Jones of Nashville and Justin Pearson of Memphis—while sparing white Democratic Representative Gloria Johnson, in a blatantly racially discriminatory vote that temporarily disenfranchised approximately 140,000 voters in primarily Black districts. The expulsions followed the three legislators' participation in a gun control protest on the House floor after the March 27, 2023 Covenant School shooting that killed three students and three adults in Nashville. The Republican supermajority's decision to remove elected representatives for peaceful protest while exempting their white colleague exposed the authoritarian tactics increasingly deployed by the Tennessee GOP to suppress dissent and consolidate one-party rule.
 
 On March 30, 2023, Representatives Jones, Pearson, and Johnson joined hundreds of protesters at the Tennessee State Capitol demanding action on gun reform following the Covenant School massacre. During House proceedings that day, the three representatives gathered at the well of the chamber and chanted "No action, no peace" using a bullhorn, temporarily disrupting legislative business. Republican House Speaker Cameron Sexton immediately moved to expel all three representatives for alleged violations of House decorum rules, an extraordinary measure historically reserved for lawmakers accused of serious criminal misconduct.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-09-12--trump-threatens-racketeering-investigation-against-george-soros
 date: '2025-09-12'
 title: Trump Threatens Racketeering Investigation Against George Soros for Funding Protests
@@ -35,6 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump renewed threats to investigate philanthropist George Soros under racketeering laws (RICO), accusing him of funding protests against the administration and calling it 'real agitation.' Trump has repeatedly targeted Soros with antisemitic conspiracy theories and blamed him for various opposition activities. The threat to use federal racketeering statutes—designed for organized crime—against constitutionally protected political advocacy and protest funding represents criminalization of dissent. Soros's Open Society Foundations denied funding the specific protests Trump referenced, but even if they had, funding protests is protected First Amendment activity. The racketeering threat follows a pattern where Trump uses DOJ investigations to harass political enemies, NGO leaders, philanthropists who support causes Trump opposes, and journalists. This signals to all philanthropic organizations that funding progressive causes or criticism of Trump could trigger federal criminal investigations.

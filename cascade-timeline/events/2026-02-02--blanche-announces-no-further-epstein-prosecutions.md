@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-02-02--blanche-announces-no-further-epstein-prosecutions
 date: '2026-02-02'
 status: confirmed
@@ -38,7 +38,7 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Deputy Attorney General Todd Blanche declared on CNN's "State of the Union" that there would be no additional prosecutions related to Jeffrey Epstein, despite the 3.5 million pages of documents released containing references to numerous powerful individuals. Blanche acknowledged the materials contain "disturbing content" including correspondence, emails, and photographs, but stressed they do not meet the threshold for prosecution: "There's a lot of horrible photographs that appear to be taken by Mr. Epstein or people around him, but that doesn't allow us necessarily to prosecute somebody."
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1831-08-21--nat-turner-rebellion-triggers-slave-code-crackdown
 date: '1831-08-21'
 title: Nat Turner Rebellion Triggers Brutal Repression and Tightening of Slave Codes
@@ -53,7 +53,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 
 On the night of August 21, 1831, enslaved preacher Nat Turner leads a rebellion in Southampton County, Virginia, that kills between 55 and 65 white people over approximately 48 hours before being suppressed by local militias and federal troops. Turner, deeply religious and literate, interpreted a solar eclipse in February 1831 as a divine sign to launch a violent uprising against slavery. The rebellion represents the deadliest slave revolt in U.S. history for white victims, and the violent white reaction demonstrates how slaveholding states use state-sponsored terror and legal repression to maintain control over enslaved populations while crushing any possibility of emancipation through democratic means.

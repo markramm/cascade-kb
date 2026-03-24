@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Billy Long
@@ -45,5 +45,5 @@ tags:
 - irs
 title: Ex-Congressman Billy Long Confirmed as IRS Commissioner Despite Controversy
 ---
-type: solidarity_event
+type: timeline_event
 The Senate confirmed Billy Long, a former Republican congressman who previously sought to abolish the IRS, as the agency's new commissioner. Long was confirmed on a 53-44 party-line vote despite concerns about his past work with a firm involved in pandemic tax credit fraud and his lack of tax administration experience. Notably, he was removed from the position in August 2025, making him the shortest-tenured IRS commissioner in history.

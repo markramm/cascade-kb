@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2000-08-30--clear-channel-conservative-talk-radio-infrastructure-dominance
 date: '2000-08-30'
 title: Clear Channel Radio Empire Reaches 1,240 Stations After AMFM Acquisition - Conservative Talk Radio Infrastructure Dominates American Airwaves
@@ -51,7 +51,7 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 By August 30, 2000, Clear Channel Communications completed its acquisition of AMFM Inc., creating a radio empire of 1,240 stations nationwide—representing a 30-fold increase from the 40 stations Clear Channel owned before the 1996 Telecommunications Act eliminated ownership caps. This unprecedented consolidation gave Clear Channel control over conservative talk radio infrastructure across America, with Rush Limbaugh's $400 million 8-year contract as the company's largest deal, enabling coordinated right-wing messaging to dominate the AM dial and fundamentally reshape American political discourse.
 

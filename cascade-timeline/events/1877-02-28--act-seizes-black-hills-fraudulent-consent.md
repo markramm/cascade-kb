@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1877-02-28--act-seizes-black-hills-fraudulent-consent
 date: '1877-02-28'
 title: Congress Seizes Black Hills With Only 10% Sioux Consent, Violating Fort Laramie Treaty Requirement for 75% Approval
@@ -37,7 +37,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 Congress passes the Act of February 28, 1877, implementing an "agreement" signed by only 10 percent of adult male Sioux—far below the three-fourths (75%) threshold explicitly required by the 1868 Fort Laramie Treaty for any cession of reservation lands. The Act strips over 7 million acres from the Great Sioux Reservation, including the entire Black Hills (Paha Sapa), which the 1868 treaty guaranteed to the Sioux Nation for their "absolute and undisturbed use and occupation." In negotiating the 1877 "agreement," a special federal commission deliberately ignores the Fort Laramie Treaty's three-fourths requirement and instead presents the treaty only to Sioux chiefs and leading men rather than conducting a democratic vote of the adult male population. The commission obtains signatures from approximately 10 percent of adult Sioux males, then Congress simply enacts this fraudulent agreement into law—effectively using legislative power to legitimize what the Supreme Court would later acknowledge as an illegal taking of property. The 1877 Act also terminates Sioux rights to hunt in unceded territories in exchange for subsistence rations "for as long as they would be needed," converting a sovereign nation with treaty-protected territorial rights into dependent wards reliant on federal handouts.
 

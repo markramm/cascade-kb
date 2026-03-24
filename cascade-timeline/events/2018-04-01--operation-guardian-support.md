@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-04-01--operation-guardian-support
 date: '2018-04-01'
 importance: 6
@@ -41,5 +41,5 @@ sources:
 notes: Military support for border operations under legal constraints
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Operation Guardian Support mobilized over 4,000 National Guard troops from nine states for border support, operating under Title 32 authority while maintaining careful legal constraints against law enforcement activities.

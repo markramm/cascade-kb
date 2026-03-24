@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-07-14--plame-cia-identity-leaked-retaliation-wilson
 date: '2003-07-14'
 importance: 9
@@ -57,6 +57,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Conservative columnist Robert Novak published his 'Mission to Niger' column exposing Valerie Plame as a CIA operative, citing 'two senior administration officials' later identified as Deputy Secretary of State Richard Armitage and White House advisor Karl Rove. The leak was retaliation for Plame's husband Joseph Wilson's July 6, 2003 New York Times op-ed 'What I Didn't Find in Africa,' which criticized President Bush's Iraq WMD claims and revealed that Wilson had investigated Niger uranium allegations in 2002 for the CIA and found them baseless. The exposure of Plame, a covert CIA officer working on weapons of mass destruction nonproliferation, compromised ongoing intelligence operations and assets worldwide. Vice President Dick Cheney and his chief of staff Scooter Libby orchestrated the campaign to discredit Wilson, with Libby later convicted of obstruction of justice and perjury. The scandal sparked a constitutional crisis over executive privilege, press freedom, and the politicization of intelligence, ultimately revealing how the Bush administration manipulated intelligence to justify the Iraq War and retaliated against critics who exposed the truth.

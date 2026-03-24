@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1955-12-01--rosa-parks-arrested-montgomery-bus-segregation
 date: '1955-12-01'
 title: Rosa Parks Arrested for Refusing to Give Up Bus Seat Sparking Montgomery Bus Boycott
@@ -39,7 +39,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On the evening of December 1, 1955, Rosa Parks, a 42-year-old African American seamstress and NAACP secretary, was arrested for violating Chapter 6, Section 11 of the Montgomery City Code, which upheld racial segregation on public buses. Parks refused to give up her seat to a white passenger on a Montgomery city bus when the white section became full, defying driver James F. Blake's order to move to the back. Her arrest was not a spontaneous act of defiance but a deliberate challenge to institutionalized segregation—Parks had attended a workshop on implementing integration at the Highlander Folk School that summer, and the Montgomery NAACP had been searching for a test case to challenge Alabama's segregation laws in federal court.
 

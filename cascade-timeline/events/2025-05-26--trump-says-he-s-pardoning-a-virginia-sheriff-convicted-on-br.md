@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-26--trump-says-he-s-pardoning-a-virginia-sheriff-convicted-on-br
 date: '2025-05-26'
 title: Trump Pardons Virginia Sheriff Convicted of Bribery
@@ -44,6 +44,6 @@ notes: Pardon highlights ongoing patterns of executive intervention in corruptio
 capture_lanes:
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump pardoned Scott Jenkins, former Culpeper County Sheriff, who was convicted of accepting $75,000 in bribes in exchange for appointing wealthy businessmen as unpaid auxiliary deputies. Trump claimed Jenkins was a victim of an 'overzealous Biden Department of Justice'.

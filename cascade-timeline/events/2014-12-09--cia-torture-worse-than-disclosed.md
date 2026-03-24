@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-12-09--cia-torture-worse-than-disclosed
 date: '2014-12-09'
 title: Senate Report Documents CIA Torture Worse Than Disclosed - Rectal Feeding, Mock Executions, Deaths
@@ -44,7 +44,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Senate Intelligence Committee report reveals that CIA torture was far more brutal and sadistic than the agency disclosed, documenting techniques that go beyond the authorized list to include rectal feeding and rehydration used as punishment, mock executions, threats to sexually assault detainees' mothers, and at least one death from hypothermia. The findings expose systematic cruelty that amounts to war crimes under international law, including treatment that the International Committee of the Red Cross characterizes as "torture" and "cruel, inhuman and degrading treatment" prohibited by the Geneva Conventions.
 

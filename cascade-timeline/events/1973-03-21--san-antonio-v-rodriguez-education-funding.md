@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1973-03-21--san-antonio-v-rodriguez-education-funding
 date: '1973-03-21'
 title: San Antonio v. Rodriguez - Supreme Court Upholds Property Tax School Funding, Entrenches Inequality
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 21, 1973, the Supreme Court ruled 5-4 in San Antonio Independent School District v. Rodriguez that the Texas school finance system—which relied on local property taxes and created vast spending disparities between wealthy and poor districts—did not violate the Equal Protection Clause. The decision, written by Justice Lewis Powell, rejected education as a fundamental right and poverty as a suspect classification, permanently entrenching educational inequality as constitutionally permissible.
 

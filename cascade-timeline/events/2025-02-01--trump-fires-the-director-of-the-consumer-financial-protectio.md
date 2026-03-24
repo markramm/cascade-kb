@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-01--trump-fires-the-director-of-the-consumer-financial-protectio
 date: '2025-02-01'
 title: Trump fires the director of the Consumer Financial Protection Bureau
@@ -45,6 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Trump fired Rohit Chopra, the CFPB director appointed during the Biden administration, removing a key consumer protection advocate. Trump appointed Scott Bessent as acting director, signaling a significant shift in the agency's leadership and approach to financial regulation.

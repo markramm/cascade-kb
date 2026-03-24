@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--foreign-service-officers-exodus-diplomatic-collapse
 date: '2025-12-03'
 title: 25% of Foreign Service Officers Resigned or Forced Out, Diplomatic Corps Collapses
@@ -72,7 +72,7 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On December 3, 2025, the American Foreign Service Association (AFSA) released a comprehensive report revealing that nearly 25% of the U.S. Foreign Service workforce—approximately 4,250 career diplomats—have left the State Department since January 2025 through resignations, retirements, layoffs, and forced departures.
 

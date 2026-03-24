@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-07--cuellar-party-switch-criticism
 date: '2025-12-07'
 title: Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon
@@ -38,7 +38,7 @@ capture_lanes:
 - Electoral Manipulation
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon
 

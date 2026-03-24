@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-15--ice-seven-deaths-four-days-deadliest-month
 date: '2025-12-15'
 title: Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year Since 2004
@@ -46,7 +46,7 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Seven people die in ICE custody in December 2025, with four deaths occurring within a four-day span from December 12-15, making it the deadliest month of Trump's second term. The deaths occur as ICE holds a record 68,000+ people in detention, and 2025 becomes the deadliest year for ICE custody since 2004 with at least 30-32 total deaths.

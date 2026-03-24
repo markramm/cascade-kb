@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-02-21--doj-drops-spacex-immigration-investigation
 date: '2025-02-21'
 importance: 8
@@ -42,6 +42,6 @@ sources:
 notes: Original lawsuit filed August 2023; part of broader pattern where Trump administration halted regulatory matters involving Musk companies
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 Department of Justice formally dropped immigration discrimination lawsuit against SpaceX alleging the company "routinely discouraged asylees and refugees from applying" for jobs. The dismissal with prejudice came as part of broader regulatory relief for Musk's companies under Trump administration, with DOJ indicating case cannot be brought again.

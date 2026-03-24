@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-11-13--nlrb-bans-captive-audience-meetings-employer-coercion
 date: '2024-11-13'
 title: NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likely Reversed 2025)
@@ -33,7 +33,7 @@ capture_lanes:
 - Regulatory Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The National Labor Relations Board rules that mandatory captive audience meetings—where employers force workers to attend anti-union presentations under threat of termination—violate the National Labor Relations Act as illegal employer coercion. The Biden-era NLRB finds that compelling workers to listen to employer anti-union messaging interferes with employees' Section 7 rights to freely choose whether to support union organizing, overturning decades of precedent allowing such meetings.
 

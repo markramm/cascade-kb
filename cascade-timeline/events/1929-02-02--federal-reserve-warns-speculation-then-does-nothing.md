@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1929-02-02--federal-reserve-warns-speculation-then-does-nothing
 date: '1929-02-02'
 title: Federal Reserve Warns Against Speculation But Takes No Effective Action
@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Federal Reserve Board issues a public warning that banks should not make loans for stock market speculation, expressing concern about the use of Federal Reserve credit to finance the securities boom. The announcement signals regulatory awareness that margin lending and speculative excess pose systemic risks. Yet the Fed takes no effective action to curtail speculation, torn between raising interest rates (which would harm legitimate business) and direct intervention in securities lending (which the financial industry opposes). The warning proves hollow as speculation accelerates through 1929.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-03-15--federal-judges-constitutional-crisis-response
 date: '2025-03-15'
 title: Federal Judiciary Responds to Mounting Constitutional Threats in Emergency Closed-Door Conference
@@ -39,7 +39,7 @@ capture_lanes:
 - Executive Power Expansion
 location: 'Washington, D.C.'
 ---
-type: solidarity_event
+type: timeline_event
 In an unprecedented response to mounting threats and potential constitutional crisis, federal judges convened emergency discussions in March 2025 to address challenges to judicial independence. The Judicial Conference, the national policymaking body for federal courts, held closed-door meetings where judges discussed escalating threats, potential security measures, and strategies to preserve constitutional integrity.
 
 Key Developments:

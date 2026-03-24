@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-02-18--leeanne-walters-water-tests-reveal-lead-poisoning
 date: 2015-02-18
 title: LeeAnne Walters' Water Tests Show Lead at 104 ppb—Nearly 7 Times EPA Limit
@@ -36,7 +36,7 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The City of Flint tests water at the home of LeeAnne Walters, a mother of four who has been complaining about health problems since the water switch, and finds lead levels at 104 parts per billion (ppb)—nearly seven times greater than the EPA action level of 15 ppb. Walters had first informed the city of water problems in late 2014 after her twin sons developed rashes and her daughter's hair began falling out, but officials took months to respond to her complaints.
 

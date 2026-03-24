@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2001-01-29--cheney-creates-secret-energy-task-force-with-oil-e
 date: '2001-01-29'
 importance: 8
@@ -41,6 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 Vice President Dick Cheney established the National Energy Policy Development Group conducting secret meetings with oil industry executives while excluding environmental groups. Between late January and April 2001, Cheney's task force held at least 40 meetings with energy interests versus just one with environmental groups. Participants included ExxonMobil's James Rouse, Shell's Mark Moody-Stuart, BP's Bob Malone, Conoco's Archie Dunham, and Enron's Kenneth Lay. The May 16, 2001 final report incorporated industry recommendations 'often word for word,' including 3.5 billion in tax breaks for fuel production, opening Arctic National Wildlife Refuge to drilling, and streamlining regulations. Released documents included Iraqi oil field maps and foreign contract analysis, suggesting broader geopolitical energy planning. The Bush administration fought multiple FOIA lawsuits to maintain secrecy, with the Supreme Court case Cheney v. U.S. District Court (2004) ultimately protecting executive privilege. This represented unprecedented corporate capture of energy policy development, with industry priorities directly translated into national policy through secret meetings and minimal environmental input.

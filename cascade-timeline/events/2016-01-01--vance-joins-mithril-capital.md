@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-01-01--vance-joins-mithril-capital
 date: '2016-01-01'
 title: 'J.D. Vance Joins Peter Thiel''s Mithril Capital as Principal'
@@ -53,5 +53,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 Following publication of "Hillbilly Elegy," J.D. Vance joins Peter Thiel's venture capital firm Mithril Capital as principal, deepening financial and ideological ties with Silicon Valley's tech elite.

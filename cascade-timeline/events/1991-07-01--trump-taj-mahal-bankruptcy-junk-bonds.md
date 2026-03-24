@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1991-07-01--trump-taj-mahal-bankruptcy-junk-bonds
 date: 1991-07-01
 title: Trump Taj Mahal Files First Bankruptcy After Junk Bond Collapse
@@ -35,7 +35,7 @@ capture_lanes:
 actors:
 - Donald Trump
 ---
-type: solidarity_event
+type: timeline_event
 Donald Trump's Trump Taj Mahal casino in Atlantic City filed for Chapter 11 bankruptcy protection in July 1991, just over one year after its lavish April 1990 opening. The casino, which Trump had called "the eighth wonder of the world," was buried under nearly $3 billion in debt, much of it raised through junk bonds carrying interest rates as high as 14 percent. Trump had personally guaranteed $833 million of the debt despite having a reported net worth of only $206 million according to the Casino Control Commission.
 
 ## The Debt Trap

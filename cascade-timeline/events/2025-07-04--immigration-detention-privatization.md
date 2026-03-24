@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-07-04--immigration-detention-privatization
 date: '2025-07-04'
 importance: 6
@@ -38,6 +38,6 @@ sources:
   tier: 1
 notes: Funding structured to flow primarily through private contractors rather than expanding federal capacity, ensuring public funds generate private profits while reducing public control over detention operations.
 ---
-type: solidarity_event
+type: timeline_event
 
 One Big Beautiful Bill provides $45 billion for building new immigration detention centers, with overwhelming majority going to private companies contracted to build and run facilities. Represents 308% increase over ICE's FY2024 detention budget, creating capacity for 125,000 beds operated by private contractors rather than federal employees. Part of $170 billion immigration enforcement funding channeled through reconciliation to avoid congressional oversight.

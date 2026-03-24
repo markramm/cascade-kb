@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2012-05-18--facebook-ipo-morgan-stanley-manipulation
 date: '2012-05-18'
 title: Facebook IPO Market Manipulation by Morgan Stanley
@@ -35,5 +35,5 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 Morgan Stanley and other underwriters engaged in selective disclosure during Facebook's initial public offering, revealing sensitive financial information only to institutional investors. Massachusetts securities regulators fined Morgan Stanley  million for creating an 'unlevel playing field' by verbally disclosing potentially negative financial projections to select clients ahead of the IPO. This action violated fair disclosure principles and potentially manipulated market sentiment, leading to investigations by FINRA and multiple shareholder lawsuits.

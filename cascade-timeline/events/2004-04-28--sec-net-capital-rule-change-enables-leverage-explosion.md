@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2004-04-28--sec-net-capital-rule-change-enables-leverage-explosion
 date: '2004-04-28'
 title: SEC Net Capital Rule Change Enables Investment Bank Leverage Explosion Fueling Housing Bubble
@@ -70,7 +70,7 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 
 The Securities and Exchange Commission votes unanimously to allow the five largest investment banks to dramatically increase their leverage ratios, removing a 1970s-era rule that limited debt to 12 times capital. Goldman Sachs, Morgan Stanley, Merrill Lynch, Lehman Brothers, and Bear Stearns successfully lobby for the change, which allows them to hold $30 or $40 of debt for every $1 of capital. The rule change enables these banks to massively expand their purchases of mortgage-backed securities, pouring fuel on the housing bubble.

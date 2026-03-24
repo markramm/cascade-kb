@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1951-06-04--dennis-v-united-states-supreme-court-upholds-smith-act
 date: '1951-06-04'
 title: Dennis v. United States Supreme Court Upholds Smith Act Convictions, Criminalizes Political Advocacy
@@ -42,7 +42,7 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On June 4, 1951, the United States Supreme Court ruled 6-2 in Dennis v. United States, upholding the convictions of eleven Communist Party leaders under the Smith Act of 1940. The decision effectively criminalized political advocacy, allowing prosecution for teaching or advocating revolutionary ideas even without evidence of imminent illegal action. It represented the nadir of First Amendment protection during the McCarthy era.
 

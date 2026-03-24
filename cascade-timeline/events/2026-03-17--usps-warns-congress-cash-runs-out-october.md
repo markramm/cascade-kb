@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-17--usps-warns-congress-cash-runs-out-october
 date: '2026-03-17'
 title: Postmaster General Warns Congress USPS Could Run Out of Cash by October 2026
@@ -39,7 +39,7 @@ capture_lanes:
 - Institutional Capture
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 17, 2026, Postmaster General David Steiner testified before the House Oversight Committee that the United States Postal Service could run out of cash by October 2026, warning Congress of an imminent fiscal crisis threatening one of the nation's oldest and most essential institutions. Steiner said that reducing mail delivery from six days to five was "on the table," a move he estimated could save approximately $3 billion per year but would mark the first reduction in standard delivery frequency in the Postal Service's modern history.
 

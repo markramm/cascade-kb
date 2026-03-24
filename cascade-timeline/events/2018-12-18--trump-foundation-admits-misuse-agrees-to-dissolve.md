@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-12-18--trump-foundation-admits-misuse-agrees-to-dissolve
 date: 2018-12-18
 title: Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
@@ -37,7 +37,7 @@ capture_lanes:
 - Judicial Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The Donald J. Trump Foundation reached a settlement with the New York Attorney General agreeing to dissolve under court supervision and admitting to a pattern of illegal coordination with Trump's 2016 presidential campaign. The stipulation filed in New York State Supreme Court required the Foundation to distribute all remaining assets (approximately $1.7 million) to legitimate charities approved by the Attorney General and the court. Critically, the agreement included admissions by Trump that his Foundation coordinated illegally with his campaign during the January 2016 Iowa veterans fundraiser and that campaign staff directed foundation activities in violation of federal law prohibiting 501(c)(3) organizations from participating in political campaigns.
 

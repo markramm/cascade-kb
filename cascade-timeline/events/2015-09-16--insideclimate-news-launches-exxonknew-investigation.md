@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2015-09-16--insideclimate-news-launches-exxonknew-investigation
 date: '2015-09-16'
 title: InsideClimate News Launches
@@ -43,7 +43,7 @@ capture_lanes:
 - Media Capture & Control
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 On September 16, 2015, InsideClimate News began publishing an eight-month investigation revealing that Exxon's own scientists warned executives as early as 1977 that burning fossil fuels was heating the planet, yet the company then worked at the forefront of climate denial for decades. The nine-part investigative series "Exxon: The Road Not Taken" exposed how Exxon conducted cutting-edge climate research in the 1970s-80s, confirming human-caused global warming, then systematically funded campaigns to manufacture doubt about the scientific consensus its own scientists had confirmed.
 

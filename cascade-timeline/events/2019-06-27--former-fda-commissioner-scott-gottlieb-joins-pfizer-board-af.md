@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2019-06-27'
 title: Former FDA Commissioner Scott Gottlieb Joins Pfizer Board After 3-Month Gap
 importance: 8
@@ -39,6 +39,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Pfizer announced that Dr. Scott Gottlieb, who served as FDA Commissioner from May 2017 to April 2019, would join the pharmaceutical giant's board of directors as an independent member. The appointment came just 85 days after Gottlieb resigned from the FDA, raising immediate concerns about regulatory capture and the revolving door between government agencies and the industries they regulate. During his tenure as FDA Commissioner, Gottlieb had overseen numerous decisions affecting Pfizer and other major pharmaceutical companies. The move prompted Senator Elizabeth Warren to call for Gottlieb's resignation from the Pfizer board, citing conflicts of interest. Gottlieb's rapid transition from chief drug regulator to board member of one of the world's largest pharmaceutical companies exemplified critics' concerns about how the prospect of lucrative private sector positions might influence regulatory decisions while officials are still in government service.

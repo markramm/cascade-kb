@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2003-03-01--vanity-fair-editor-removes-epstein-victim-allegati
 date: '2003-03-01'
 importance: 9
@@ -39,6 +39,6 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 Vanity Fair editor Graydon Carter removes allegations from reporter Vicky Ward's exposé about Jeffrey Epstein's abuse of underage girls after a meeting with Epstein. The original story included detailed accounts from victims, but the published version omitted these crucial allegations, representing a major media cover-up that protected Epstein for years.

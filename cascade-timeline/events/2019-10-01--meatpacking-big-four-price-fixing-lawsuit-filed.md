@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2019-10-01--meatpacking-big-four-price-fixing-lawsuit-filed
 date: '2019-10-01'
 title: Class Action Lawsuit Alleges Big Four Meatpackers Conspired to Fix Beef Prices and Manipulate Markets
@@ -41,7 +41,7 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 A class-action lawsuit filed in U.S. District Court for Minnesota accused the four largest U.S. beef processors—Tyson Foods, JBS, Cargill, and National Beef—of conspiring to manipulate cattle supplies and inflate beef prices for consumers, marking a major legal challenge to meatpacking consolidation that has given four companies control over 85% of the U.S. beef market, up from just 36% in 1980.
 

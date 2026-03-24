@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2018-10-11--trump-continues-saudi-arms-despite-khashoggi-murder
 date: '2018-10-11'
 title: Trump Vows to Continue Raytheon, Lockheed Arms Sales Despite Khashoggi Murder and Yemen Atrocities
@@ -47,7 +47,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 11, 2018, just nine days after Saudi agents murdered journalist Jamal Khashoggi in the Saudi consulate in Istanbul, President Trump declared on CBS's "60 Minutes" that he would not cancel arms sales to Saudi Arabia despite the killing and mounting evidence of Saudi war crimes in Yemen. Trump explicitly cited the economic benefits of weapons contracts with Lockheed Martin, Boeing, and Raytheon as reasons to maintain the relationship, stating that Saudi Arabia would simply purchase weapons from Russia and China if the US withdrew. The statement prioritized defense contractor profits over both justice for Khashoggi's murder and accountability for Yemen civilian casualties, establishing that no Saudi action—whether murdering a US-resident journalist or massacring Yemeni children with US weapons—would prompt arms sale suspensions. Trump's position represented a decisive victory for defense contractors who lobbied aggressively to preserve Saudi deals worth billions of dollars annually.
 

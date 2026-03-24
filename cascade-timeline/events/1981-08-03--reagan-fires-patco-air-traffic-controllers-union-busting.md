@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1981-08-03--reagan-fires-patco-air-traffic-controllers-union-busting
 date: '1981-08-03'
 status: confirmed
@@ -46,7 +46,7 @@ sources:
 capture_lanes:
 - Labor Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 President Ronald Reagan fires 11,345 striking air traffic controllers who refused to return to work, permanently banning them from federal service. When 13,000 PATCO members went on strike August 3 seeking better pay, improved working conditions, and a reduced workweek, Reagan declared the strike a "peril to national safety" under the Taft-Hartley Act and gave strikers 48 hours to return. Despite having supported PATCO during his 1980 campaign, Reagan made good on his ultimatum, destroying the union and signaling to private employers that aggressive union-busting would face no consequences.
 

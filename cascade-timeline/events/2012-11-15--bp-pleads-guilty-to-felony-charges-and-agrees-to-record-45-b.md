@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 date: '2012-11-15'
 title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement
 actors:
@@ -56,5 +56,5 @@ validation_metadata:
   - 'sources_removed: ''3'' → ''3'''
   - 'sources_validated: ''3'' → ''3'''
 ---
-type: solidarity_event
+type: timeline_event
 BP reached a landmark $4.5 billion criminal settlement with the U.S. Department of Justice, pleading guilty to 14 criminal charges including 11 felony counts of misconduct or negligent homicide related to the deaths of the 11 workers in the Deepwater Horizon explosion. The settlement included $4 billion in criminal fines and penalties, plus $525 million to the Securities and Exchange Commission for misleading investors about the flow rate of the spill. This marked the largest criminal resolution in U.S. history at the time. The agreement also included a five-year probationary period during which BP's safety and environmental compliance would be monitored. Two BP executives, Donald Vidrine and Robert Kaluza, were charged with manslaughter, while former BP executive David Rainey was charged with obstruction of justice for allegedly lying to federal agents about the oil flow rate. The case set important precedents for holding corporations and individual executives criminally accountable for environmental disasters.

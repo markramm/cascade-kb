@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1987-02-26--tower-commission-report-released
 date: 1987-02-26
 title: Tower Commission Report Released, Criticized as Whitewash of Iran-Contra
@@ -38,7 +38,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: solidarity_event
+type: timeline_event
 
 The Tower Commission delivers its report on the Iran-Contra affair to President Reagan, producing findings widely criticized as a whitewash that shields Reagan from accountability while blaming subordinates for the illegal scheme. The commission, composed of former Senator John Tower, former Secretary of State Edmund Muskie, and former National Security Advisor Brent Scowcroft, concludes that Reagan "clearly didn't understand the nature of this operation" and faults his "lax management" rather than deliberate wrongdoing.
 

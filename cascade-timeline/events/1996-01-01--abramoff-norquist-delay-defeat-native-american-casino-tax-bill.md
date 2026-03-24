@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1996-01-01--abramoff-norquist-delay-defeat-native-american-casino-tax-bill
 date: '1996-01-01'
 title: Abramoff-Norquist-DeLay Network Defeats Native American Casino Tax Bill
@@ -37,6 +37,6 @@ capture_lanes:
 status: confirmed
 priority_id: RT-EXP-95366B7D-jack-abramoff-indian-casino-network
 ---
-type: solidarity_event
+type: timeline_event
 
 Jack Abramoff, working for the Mississippi Band of Choctaw Indians, successfully mobilized a network including Grover Norquist's Americans for Tax Reform and House Majority Whip Tom DeLay to defeat a Congressional bill that would have imposed unrelated business income tax (UBIT) on Native American casinos. This early collaboration established the operational template for the Abramoff lobbying network, demonstrating how strategic political relationships could be leveraged to block targeted legislation.

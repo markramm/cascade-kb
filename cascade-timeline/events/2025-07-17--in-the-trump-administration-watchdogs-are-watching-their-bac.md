@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -44,5 +44,5 @@ tags:
 - institutional-corruption
 title: Mass Firing of Inspectors General Signals Systematic Government Oversight Erosion
 ---
-type: solidarity_event
+type: timeline_event
 In a significant escalation of institutional capture, President Trump fired 17 inspectors general across multiple federal agencies in late January 2025. The mass firings, done without the legally required 30-day congressional notice, targeted watchdogs investigating potential misconduct in agencies including Defense, Agriculture, and Transportation. The move created a culture of fear among government oversight personnel and raised serious concerns about potential obstruction of ongoing investigations.

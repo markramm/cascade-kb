@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1837-05-10--panic-1837-begins-bank-failures
 date: '1837-05-10'
 title: Panic of 1837 Begins as Banks Refuse Specie Conversion, Triggering Five-Year
@@ -59,7 +59,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 
 Just two months into Martin Van Buren's presidency, major New York state banks refuse to convert paper money into gold or silver on May 10, 1837, having exhausted their hard currency reserves. Other financial institutions across the country quickly follow suit, triggering the Panic of 1837—a financial crisis that initiates the worst depression in U.S. history to that point, lasting approximately five years until the mid-1840s. The panic results from the toxic combination of Andrew Jackson's destruction of the Second Bank of the United States, unregulated lending by state "pet banks" holding federal deposits, the Specie Circular's sudden demand for hard money, and collapsing commodity prices—particularly cotton, which fell 25 percent in February and March 1837. Hundreds of banks and businesses fail, thousands lose their lands, profits and wages plummet, unemployment soars, and westward expansion stalls, demonstrating the catastrophic consequences when monetary policy serves political ideology rather than economic stability.

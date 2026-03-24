@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-29--bannon-turns-against-jd-vance
 date: '2025-12-29'
 title: Bannon Turns Against Vice President JD Vance Amid Escalating MAGA Civil War
@@ -26,7 +26,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: solidarity_event
+type: timeline_event
 
 Steve Bannon turned sharply against Vice President JD Vance, igniting what observers described as "fresh MAGA fireworks" in the ongoing conservative civil war. The attack represented a dramatic reversal for Bannon, who had previously supported Vance's rise and Senate campaign.
 

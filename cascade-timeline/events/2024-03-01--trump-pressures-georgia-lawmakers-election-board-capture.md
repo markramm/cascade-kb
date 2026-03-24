@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2024-03-01--trump-pressures-georgia-lawmakers-election-board-capture
 date: '2024-03-01'
 title: Trump Pressures Georgia Lawmakers to Capture State Election Board
@@ -48,5 +48,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 Donald Trump spends months calling Georgia lawmakers and MAGA supporters demanding removal of Republican Ed Lindsey from the State Election Board, saying "He's got to go" due to Lindsey's insufficient loyalty on the "very important" election board. Trump's systematic pressure campaign succeeds when Lindsey resigns and is replaced with Janelle King, completing MAGA capture of the board majority. A Trump source describes "Georgia as our laboratory" for election manipulation strategies. The capture follows Republican lawmakers removing Secretary of State Brad Raffensperger as chair despite his overwhelming re-election, demonstrating coordinated legislative and executive pressure to install compliant election officials.

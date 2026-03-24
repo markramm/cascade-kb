@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-20--hegseth-quotes-psalm-144-pentagon-briefing
 date: '2026-03-20'
 title: Hegseth Quotes Psalm 144 at Pentagon Briefing, Calls Iranian Leaders "Religious Fanatics"
@@ -46,7 +46,7 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: solidarity_event
+type: timeline_event
 
 At an official Pentagon press briefing on March 20, 2026, Defense Secretary Pete Hegseth opened his remarks on the Iran campaign by quoting Psalm 144:1 — "Blessed be the Lord, my rock, who trains my hands for war, my fingers for battle." Speaking to assembled reporters and with the briefing livestreamed on the Department of Defense website, Hegseth then characterized Iran's clerical leadership as "religious fanatics" driven by "prophetic Islamic delusions," drawing a contrast between what he described as America's righteous purpose and Tehran's apocalyptic ideology.
 

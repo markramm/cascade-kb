@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-09-01--constellis-acquired-apollo-global-management
 date: '2016-09-01'
 title: Apollo Global Management Acquires Constellis Holdings (Blackwater Successor) for Approximately $1 Billion
@@ -35,7 +35,7 @@ capture_lanes:
 - Financial Capture
 - Military-Industrial Complex
 ---
-type: solidarity_event
+type: timeline_event
 
 Private equity firm Apollo Global Management acquired Constellis Holdings—the entity descended from Blackwater through successive rebrandings as Xe Services, Academi, and merger with Triple Canopy—for approximately $1 billion. The acquisition represented the complete financialization of the private military corporation founded by Erik Prince, transforming systematic accountability failures and documented war crimes into investable assets for one of the world's largest private equity firms.
 

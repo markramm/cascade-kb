@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2026-03-11--doj-powell-probe-lead-prosecutor-replaced
 date: '2026-03-11'
 title: Lead Prosecutor in DOJ Criminal Probe of Fed Chair Jerome Powell Replaced
@@ -44,7 +44,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On March 11, 2026, the top Republican on the Senate Banking Committee disclosed that the lead prosecutor handling the Department of Justice's criminal investigation into Federal Reserve Chair Jerome Powell had been replaced. Bloomberg reported the development as "a potentially notable shift in the highly consequential probe," raising fresh questions about the political direction and management of the case.
 

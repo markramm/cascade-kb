@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1901-03-01--jp-morgan-northern-securities-railroad-monopoly
 date: '1901-03-01'
 title: 'J.P. Morgan Creates Northern Securities: $400 Million Railroad Monopoly'
@@ -38,7 +38,7 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 In 1901, J.P. Morgan orchestrated the creation of the Northern Securities Company, a $400 million holding company that gave him control over approximately one-third of the country's railways. The consolidation emerged from a fierce competition between James J. Hill, head of the Great Northern Railroad and Morgan ally, and Edward H. Harriman, head of the Union Pacific Railroad, to purchase controlling stock in the Northern Pacific Railroad. When Hill sought Morgan's help, Morgan instructed his staff to purchase all available Northern Pacific stock, triggering massive stock market movements that affected the entire economy and caused a financial panic that ruined many businesses.
 

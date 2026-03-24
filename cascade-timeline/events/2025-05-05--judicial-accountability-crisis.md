@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-05-05--judicial-accountability-crisis
 date: '2025-05-05'
 title: Trump Administration Escalates Judicial Oversight Tensions
@@ -34,5 +34,5 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 The Trump administration initiated unprecedented legal actions challenging judicial independence, including multiple court orders blocking administrative actions and mounting tensions between the executive and judicial branches. Multiple federal courts issued restraining orders against sweeping government restructuring efforts, with the administration responding through legal challenges and attempts to limit judicial review.

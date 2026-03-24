@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-08-21--trump-speaks-cnp-meeting-coordination
 date: '2020-08-21'
 title: Trump Speaks at CNP Meeting - President Addresses Conservative Coordination Hub
@@ -34,7 +34,7 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 On August 21, 2020, President Donald Trump attended and spoke at a Council for National Policy meeting, becoming the first sitting president to publicly address the secretive conservative coordination organization that had operated largely in the shadows since its 1981 founding.
 
 Trump's attendance and speech at the CNP meeting represented an extraordinary acknowledgment of the organization's central role in conservative movement coordination. The president thanked CNP leaders Bob McEwen, Kelly Shackelford, and Jenny Beth Martin for their leadership, publicly recognizing the organization that had kept its very existence secret for decades.

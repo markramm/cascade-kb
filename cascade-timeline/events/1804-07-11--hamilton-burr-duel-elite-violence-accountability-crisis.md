@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1804-07-11--hamilton-burr-duel-elite-violence-accountability-crisis
 date: '1804-07-11'
 title: Hamilton-Burr Duel Demonstrates Elite Violence and Honor Culture Replacing Law
@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Vice President Aaron Burr shoots former Treasury Secretary Alexander Hamilton in an illegal duel in Weehawken, New Jersey, culminating fifteen years of political rivalry and demonstrating how elite honor culture supersedes law and democratic accountability. The confrontation stems from Hamilton's characterization of Burr as a "dangerous man, and not to be trusted" and references to "more despicable" statements published in the Albany Register following Burr's defeat in the 1804 New York governor's race. Burr treats political criticism as a personal affront to honor requiring violent resolution rather than democratic debate, reflecting elite assumptions that reputation maintenance through violence matters more than legal constraints or electoral legitimacy.
 

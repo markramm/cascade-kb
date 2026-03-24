@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-12-03--va-creates-non-citizen-employee-database-deportation
 date: '2025-12-03'
 title: Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting
@@ -44,7 +44,7 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: solidarity_event
+type: timeline_event
 
 # Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1920-06-05--merchant-marine-act-jones-act-protectionism
 date: '1920-06-05'
 title: Jones Act Establishes Shipping Protectionism Still Harming Consumers Today
@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Woodrow Wilson signs the Merchant Marine Act of 1920, commonly known as the Jones Act after its sponsor Senator Wesley Jones of Washington, mandating that all goods shipped between U.S. ports must be transported on ships that are American-built, American-owned, and American-crewed. The law creates a captive market for the domestic shipbuilding industry and maritime unions while dramatically increasing shipping costs for consumers, particularly in Hawaii, Alaska, Puerto Rico, and other non-contiguous U.S. territories entirely dependent on maritime transport.
 

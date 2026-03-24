@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
@@ -46,5 +46,5 @@ tags:
 - judicial-abuse
 title: 'Trump Pardons Eliminate $1.3 Billion in Restitution, Costing Victims and Taxpayers'
 ---
-type: solidarity_event
+type: timeline_event
 A House Judiciary Committee review revealed that Trump's pardons eliminated $1.3 billion in restitution from white-collar criminals and January 6 defendants. Notable cases include Todd Chrisley's $17.7 million tax fraud pardon, Carlos Watson's $36.7 million investor fraud clemency, and Lawrence Duran's $87 million Medicare fraud pardon. Only 15% of $3 million in Capitol riot damages had been recovered before these pardons.

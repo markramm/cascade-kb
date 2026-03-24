@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2017-05-01--epstein-blackmail-attempt-gates-affair
 date: '2017-05-01'
 title: Epstein Attempts to Blackmail Bill Gates Over Russian Affair
@@ -39,5 +39,5 @@ capture_lanes:
 verified: true
 verification_notes: 'Corroborated by multiple tier-1 sources, including Wall Street Journal report'
 ---
-type: solidarity_event
+type: timeline_event
 Jeffrey Epstein attempted to blackmail Bill Gates in 2017 by emailing him about reimbursement for a coding school course for Mila Antonova, a Russian bridge player with alleged intelligence connections. Epstein's email implied knowledge of Gates' extramarital affair with Antonova, who was photographed with Russian spy Anna Chapman in 2010. Gates did not pay and denied any financial dealings with Epstein.

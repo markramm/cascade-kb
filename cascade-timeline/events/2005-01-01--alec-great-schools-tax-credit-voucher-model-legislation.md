@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2005-01-01--alec-great-schools-tax-credit-voucher-model-legislation
 date: '2005-01-01'
 title: ALEC Approves 'Great Schools Tax Credit' Model - Launches Systematic Education Privatization Campaign
@@ -51,7 +51,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 The American Legislative Exchange Council (ALEC) Board of Directors approves the 'Great Schools Tax Credit Program Act' in January 2005, following Task Force adoption in December 2004. This model legislation creates tax credit scholarships that redirect public education funds to private and religious schools through a backdoor mechanism: corporations receive tax credits for donations to 'scholarship organizations' that pay private school tuition, effectively privatizing public education funding without direct state budget appropriations. The model becomes ALEC's most popular education bill, with 17 bills introduced across 13 states by 2015.
 

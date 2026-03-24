@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-02-13--senate-acquits-trump-57-43-bipartisan-majority
 date: '2021-02-13'
 title: Senate Acquits Trump 57-43 Despite Bipartisan Majority Finding Him Guilty
@@ -46,7 +46,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-type: solidarity_event
+type: timeline_event
 
 On February 13, 2021, the Senate voted 57-43 to acquit former President Donald Trump on the charge of incitement of insurrection, with the vote falling ten short of the two-thirds majority (67 votes) required for conviction. Despite the acquittal, the vote represented the most bipartisan presidential impeachment in American history, with seven Republican senators joining all fifty Democrats to form a clear majority finding Trump guilty of the most serious presidential offense in U.S. history. The 57-43 vote marked the first time in American history that a president was convicted by a bipartisan majority of the Senate, even though the constitutional supermajority requirement prevented that majority from resulting in conviction. Trump became the only president to be impeached twice and to be tried after leaving office, and the trial concluded with the unprecedented result of a bipartisan guilty verdict that nonetheless failed to meet the Constitution's conviction threshold.
 

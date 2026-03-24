@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2014-01-17--obama-nsa-speech-modest-reforms-bulk-collection-continues
 date: '2014-01-17'
 title: Obama Announces Limited NSA Reforms While Preserving Core Surveillance Programs
@@ -42,7 +42,7 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 President Obama delivered a major address at the Department of Justice outlining reforms to NSA surveillance programs in response to Edward Snowden's revelations, but the proposed changes left core bulk collection authorities largely intact while adding modest procedural safeguards. The speech represented Obama's attempt to balance public outrage over mass surveillance with pressure from intelligence agencies to preserve existing capabilities.
 

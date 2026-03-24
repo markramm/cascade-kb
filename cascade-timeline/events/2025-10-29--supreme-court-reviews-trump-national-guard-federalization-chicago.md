@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - April Perry
 - Donald Trump
@@ -42,7 +42,7 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 29, 2025, the U.S. Supreme Court took the rare step of requesting additional briefing in a high-profile emergency case challenging President Trump's federalization of the National Guard in Chicago for immigration enforcement, signaling the Court is grappling with fundamental questions about presidential authority over state military forces. The Court's decision will have nationwide implications for National Guard deployments, with similar litigation pending in California, Oregon, and other states.
 

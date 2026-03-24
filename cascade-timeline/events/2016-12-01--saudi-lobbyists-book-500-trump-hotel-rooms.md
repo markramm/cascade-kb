@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms
 date: '2016-12-01'
 title: Saudi Lobbyists Book 500 Rooms at Trump Hotel After Election
@@ -48,6 +48,6 @@ patterns:
 capture_lanes:
 - Electoral Manipulation
 ---
-type: solidarity_event
+type: timeline_event
 
 Within weeks of the 2016 election, Saudi-funded lobbyists booked about 500 nights at Trump's Washington, D.C., hotel as part of a campaign flying U.S. veterans to lobby against JASTA (the 9/11 victims' law). This booking was part of a broader pattern of foreign government spending at the Trump International Hotel, which raised significant constitutional questions about potential Emoluments Clause violations.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2020-06-09--fbi-expands-dataminr-contract-george-floyd-protests
 date: '2020-06-09'
 title: FBI Expands Dataminr Contract During George Floyd Protests for Social Media Surveillance of Demonstrations
@@ -42,7 +42,7 @@ capture_lanes:
 - Media Capture & Control
 - Civil Rights Suppression
 ---
-type: solidarity_event
+type: timeline_event
 
 The FBI signed an expedited agreement to extend its relationship with Dataminr on June 9, 2020, just days after nationwide demonstrations erupted following the police killing of George Floyd in Minneapolis. The expanded contract provided FBI agents with enhanced access to Dataminr's "First Alert" service, which delivered real-time monitoring of Twitter posts, protest locations, and activist organizing activities across the country. Documents obtained by The Intercept revealed that Dataminr provided police departments with detailed alerts identifying specific protest locations, including addresses like "US Bank Stadium on 400 block of Chicago Avenue," along with images and eyewitness accounts posted by protesters and ordinary social media users.
 

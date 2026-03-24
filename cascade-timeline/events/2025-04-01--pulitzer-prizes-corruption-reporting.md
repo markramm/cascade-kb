@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2025-04-01--pulitzer-prizes-corruption-reporting
 date: '2025-04-01'
 importance: 6
@@ -41,6 +41,6 @@ sources:
   tier: 1
 notes: Multiple major news organizations independently documenting same kleptocratic patterns. Represents validation of systematic corruption framework by journalism's highest honors.
 ---
-type: solidarity_event
+type: timeline_event
 
 Multiple Pulitzer Prize-winning investigations in 2025 documented systematic kleptocratic patterns. Reuters won for "boldly reported exposé" of systematic regulatory failures enabling widespread corruption. Wall Street Journal's national reporting prize covered Elon Musk's systematic coordination between business interests and political power, including private conversations with Putin. Boston Globe's collaboration with Organized Crime and Corruption Reporting Project showed how "corporate malfeasance, personal greed and government neglect led to compromised care and deaths." Awards recognize unprecedented journalistic documentation of institutional capture.

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2021-01-07--facebook-bans-trump-only-after-losing-power-post-insurrection
 date: '2021-01-07'
 title: Facebook Bans Trump Only After He Loses Power, Following January 6 Insurrection It Enabled
@@ -46,7 +46,7 @@ capture_lanes:
 - Media Capture & Control
 - Corporate Capture
 ---
-type: solidarity_event
+type: timeline_event
 
 Facebook bans Trump from the platform on January 7, 2021, one day after the Capitol insurrection his election fraud lies helped incite, but only after he has lost political power and can no longer retaliate against the company. The ban follows four years of systematic Terms of Service violations that Facebook tolerated to avoid regulatory consequences, demonstrating enforcement only when politically safe.
 

@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 2008-03-20--sprint-nextel-nsa-gps-surveillance
 date: '2008-03-20'
 title: Sprint Nextel GPS Location Data Sharing with Law Enforcement
@@ -50,6 +50,6 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: solidarity_event
+type: timeline_event
 
 Between September 2008 and October 2009, Sprint Nextel disclosed GPS location data for wireless subscribers over 8 million times via a specialized secure government portal, illustrating the extensive telecommunications surveillance capabilities during this period.

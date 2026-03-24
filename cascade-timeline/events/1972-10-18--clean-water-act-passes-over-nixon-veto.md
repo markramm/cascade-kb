@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 id: 1972-10-18--clean-water-act-passes-over-nixon-veto
 date: '1972-10-18'
 title: Clean Water Act Passes Over Nixon Veto After Industry Fails to Block Strong Provisions
@@ -41,7 +41,7 @@ sources:
     tier: 1
 status: confirmed
 ---
-type: solidarity_event
+type: timeline_event
 
 On October 18, 1972, Congress overrode President Nixon's veto of the Federal Water Pollution Control Act Amendments, known as the Clean Water Act. The overwhelming bipartisan override (52-12 in the Senate, 247-23 in the House) represented a rare defeat for industrial polluters who had lobbied intensively to weaken or kill the legislation.
 

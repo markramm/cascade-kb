@@ -1,5 +1,5 @@
 ---
-type: solidarity_event
+type: timeline_event
 actors:
 - Anthropic
 - Palantir
@@ -48,7 +48,7 @@ tags:
 - government-contracts
 title: Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment
 ---
-type: solidarity_event
+type: timeline_event
 Anthropic achieved comprehensive FedRAMP High certification for Claude across multiple cloud platforms, enabling secure AI deployment across all three branches of the U.S. government. Through a groundbreaking $1 OneGov deal with the General Services Administration (GSA), Anthropic offers Claude AI to federal, legislative, and judicial agencies with unprecedented accessibility.
 
 Key achievements include:
