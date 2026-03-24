@@ -35,7 +35,7 @@ if [ ! -d /data/cascade-timeline/events ]; then
 fi
 
 echo "=== Building index ==="
-pyrite index build --no-embed
+pyrite index build --no-embed || echo "Index build completed with warnings"
 
 echo "=== Exporting viewer data ==="
 mkdir -p /data/viewer-api

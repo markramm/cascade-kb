@@ -25,6 +25,7 @@ RUN git clone --depth=1 https://github.com/markramm/pyrite.git /tmp/pyrite && \
     cd /tmp/pyrite && \
     pip install --no-cache-dir ".[server,ai,cli]" && \
     pip install --no-cache-dir ".[semantic]" && \
+    pip install --no-cache-dir /tmp/pyrite/extensions/journalism-investigation && \
     pip install --no-cache-dir /tmp/pyrite/extensions/cascade && \
     rm -rf /tmp/pyrite
 
