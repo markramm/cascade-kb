@@ -93,7 +93,7 @@ export function TimelineTable() {
                                 <td className="col-date">{event.date}</td>
                                 <td className="col-title">
                                     <a href={`${SITE_BASE}/${encodeURIComponent(event.id)}`} className="event-title">{event.title}</a>
-                                    <div className="event-summary">{event.summary.substring(0, 100)}...</div>
+                                    <div className="event-summary">{(event.summary || '').substring(0, 100)}</div>
                                 </td>
                                 <td>
                                     <div className="tags-list">
