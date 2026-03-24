@@ -10,7 +10,7 @@ from pathlib import Path
 
 config_path = Path('/data/config.yaml')
 if not config_path.exists():
-    dump_yaml_file(config_path, {
+    dump_yaml_file({
         'knowledge_bases': [{
             'name': 'cascade-timeline',
             'path': '/data/cascade-timeline',
@@ -22,7 +22,7 @@ if not config_path.exists():
             'host': '0.0.0.0',
             'port': 8088,
         }
-    })
+    }, config_path)
     print('Config written')
 else:
     print('Config exists, skipping')
