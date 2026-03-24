@@ -2,8 +2,7 @@ import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { syncEvents, type SyncResult } from './db/loader';
 import { TimelineTable } from './components/visualization/TimelineTable';
-import { LayoutDashboard, Clock, Settings as SettingsIcon } from 'lucide-react';
-import { Settings as SettingsView } from './components/Settings';
+import { LayoutDashboard, Clock } from 'lucide-react';
 import { TimelineView } from './components/visualization/TimelineView';
 
 function App() {
@@ -44,7 +43,6 @@ function App() {
           <Routes>
             <Route path="/" element={<TimelineTable />} />
             <Route path="/d3" element={<TimelineView />} />
-            <Route path="/settings" element={<div className="page-padding"><SettingsView /></div>} />
           </Routes>
         </main>
       </div>
@@ -59,7 +57,6 @@ function Sidebar({ count }: { count: number }) {
   const navItems = [
     { path: '/', icon: LayoutDashboard, label: 'Timeline' },
     { path: '/d3', icon: Clock, label: 'Visual Timeline' },
-    { path: '/settings', icon: SettingsIcon, label: 'Settings' },
   ];
 
   return (
