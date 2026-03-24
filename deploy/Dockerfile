@@ -21,7 +21,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # Install pyrite from PyPI (or local if needed)
-RUN pip install --no-cache-dir "pyrite-kb[server,ai,cli,semantic]"
+RUN pip install --no-cache-dir "pyrite[server,ai,cli,semantic]"
 
 RUN apt-get purge -y build-essential gcc && \
     apt-get autoremove -y && \
