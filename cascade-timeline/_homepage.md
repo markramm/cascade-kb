@@ -30,8 +30,7 @@ Event frequency has increased from ~8 events per year (1970-2000) to 95+ events 
 
 ## Explore
 
-- [Browse the Timeline](/site/cascade-timeline) — 4,500+ verified events with source citations
-- [Interactive Viewer](/viewer/) — Searchable table and D3 visual timeline
+- [Browse & Search the Timeline](/viewer/) — 4,700+ verified events in a searchable table with D3 visualization
 - [About & Methodology](/site/cascade-timeline/_about) — Data standards, sourcing, and the cascade framework
 
 ## Data Standards
