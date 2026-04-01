@@ -46,7 +46,6 @@ capture_lanes:
 - Electoral Manipulation
 status: confirmed
 ---
-type: timeline_event
 
 On June 21, 1964, three civil rights workers—James Chaney, 21, of Mississippi; Andrew Goodman, 20, of New York; and Michael Schwerner, 24, of New York—were murdered by the Ku Klux Klan with the direct participation of Neshoba County law enforcement officials. The killings, during the first week of the Freedom Summer voter registration campaign, demonstrated how local law enforcement had been captured by white supremacist violence to suppress Black political participation.
 

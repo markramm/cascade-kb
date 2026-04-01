@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 Just three years after settling the landmark housing discrimination case with a court-supervised consent decree, the Department of Justice returned to federal court with new allegations: the Trump Organization had violated the settlement terms and continued systematic discrimination against Black rental applicants. A DOJ attorney wrote to Roy Cohn in 1978 stating bluntly, "We believe that an underlying pattern of discrimination continues to exist in the Trump Management organization."
 

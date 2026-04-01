@@ -42,7 +42,6 @@ capture_lanes:
 - Corporate Capture
 - Financial Capture
 ---
-type: timeline_event
 
 On July 30, 2012, the Senate Health, Education, Labor, and Pensions (HELP) Committee released the Harkin Report, a devastating two-year investigation documenting systematic fraud, abuse, and taxpayer exploitation in the for-profit college industry. The 2,000-page report, based on subpoenaed documents and testimony from 30 for-profit college companies enrolling over 1.1 million students, revealed an industry that spent more on marketing and profits than on educating students while driving a student debt crisis.
 

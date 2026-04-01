@@ -39,6 +39,5 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 President Trump and Elon Musk appear together at Charlie Kirk's memorial service in Phoenix, publicly ending their months-long feud in a display of conservative movement unity following the assassination. The emotional service draws thousands of TPUSA activists and conservative leaders, with both Trump and Musk delivering eulogies praising Kirk's contributions to the movement. The reconciliation, staged against the backdrop of tragedy, temporarily restores the Trump-tech alliance though new factional conflicts would emerge within months over immigration policy.

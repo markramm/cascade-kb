@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 In June 1959, the Prince Edward County Board of Supervisors votes not to appropriate any money to operate public schools, choosing to close all public schools rather than comply with federal desegregation orders. The public schools in Prince Edward County remain closed from 1959 to 1964—the only school district in the country to resort to such extreme measures.
 

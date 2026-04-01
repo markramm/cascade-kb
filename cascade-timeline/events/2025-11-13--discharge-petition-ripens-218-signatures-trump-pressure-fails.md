@@ -51,7 +51,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On November 13, 2025, Rep.-Elect Adelita Grijalva (D-AZ) was sworn in to the House of Representatives at 4:00 PM, becoming the **218th and final signature** needed on the Epstein Files Transparency Act discharge petition. The signature **remained valid** through the end of the legislative day despite intense pressure from the Trump administration on Republican co-signers to withdraw their signatures.
 

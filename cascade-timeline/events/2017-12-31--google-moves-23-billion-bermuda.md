@@ -55,7 +55,6 @@ connections:
 - Offshore profit accumulation
 notes: One of largest single-year corporate profit shifts to tax havens in history. Saved Google ~$4B in taxes in one year. Filing requirement in Netherlands accidentally exposed scale of ongoing tax avoidance.
 ---
-type: timeline_event
 
 Dutch regulatory filings revealed that in 2017, Google transferred $23 billion (€19.9 billion) through its Netherlands shell company to its Bermuda-based entity—one of the largest single-year tax avoidance maneuvers in corporate history, allowing Google to avoid approximately $4 billion in taxes on legitimate business profits earned globally.
 

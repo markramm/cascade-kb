@@ -38,7 +38,6 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 Chief Justice John Roberts led a critical federal judicial conference highlighting unprecedented challenges to judicial independence. Roberts warned about four major threats: escalating violence against judges, intimidation tactics, disinformation spread through social media, and potential political attempts to disregard court rulings. The U.S. Marshals Service reported investigating over 1,000 serious threats against judges in the previous five years, signaling a profound breakdown in institutional respect for the judiciary.
 
 Key details revealed by Roberts include:

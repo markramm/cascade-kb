@@ -48,5 +48,4 @@ patterns:
 - regulatory-dismantling
 - climate-denial
 ---
-type: timeline_event
 EPA Administrator Lee Zeldin announced plans to cut EPA workforce by approximately 23% and reduce the agency's budget by 65%, representing the most aggressive environmental deregulation in agency history. The cuts would return EPA staffing to Reagan-era levels, eliminating scientific research capacity and terminating $20 billion in climate grants.

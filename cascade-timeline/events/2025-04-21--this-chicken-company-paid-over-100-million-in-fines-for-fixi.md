@@ -46,6 +46,5 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 
 Pilgrim's Pride, a meat processor that paid over $100 million in antitrust fines, made the largest single $5 million donation to the Trump-Vance Inaugural Committee. Senator Elizabeth Warren launched an investigation into potential quid pro quo, highlighting the company's simultaneous SEC listing and regulatory benefits.

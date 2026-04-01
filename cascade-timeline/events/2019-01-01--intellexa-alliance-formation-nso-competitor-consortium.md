@@ -47,5 +47,4 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 The Intellexa Alliance is formed as a marketing consortium of mercenary surveillance vendors to compete against NSO Group and Verint. The alliance includes Nexa Technologies (formerly Amesys), WiSpear/Passitora Ltd., Cytrox, and Senpai Technologies. Former Israeli Defense Forces commander Tal Dilian acquires Cytrox for under $5 million, rescuing the company and integrating it into the broader Intellexa ecosystem. This systematic coordination creates a European-based alternative to Israeli spyware dominance, with operations spanning North Macedonia, Greece, Hungary, and Ireland. The consortium specializes in sophisticated network injection and mobile surveillance technologies, with products like Predator spyware and SpearHead Wi-Fi interception systems.

@@ -69,5 +69,4 @@ validation_metadata:
   - Updated summary with more comprehensive context
   - Added SEC and NYSE Arca to actors list
 ---
-type: timeline_event
 Trump Media & Technology Group Corp. filed a 19b-4 form with the NYSE to list a spot Bitcoin ETF, marking a significant expansion into cryptocurrency financial products. The ETF, part of a broader strategy to leverage Trump's media platform for financial offerings, represents an innovative intersection of media and digital asset markets.

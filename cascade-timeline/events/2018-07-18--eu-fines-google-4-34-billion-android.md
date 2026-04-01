@@ -60,7 +60,6 @@ connections:
 - App store monopolization
 notes: Largest antitrust fine in history. Documented how Google used "free" Android to cement mobile search monopoly through anticompetitive contracts that foreclosed competition and consumer choice.
 ---
-type: timeline_event
 
 On July 18, 2018, the European Commission imposed a record €4.34 billion ($5 billion) fine on Google for breaching EU antitrust rules through three separate illegal practices involving its Android mobile operating system. The penalty was the largest antitrust fine ever imposed globally, exceeding the Commission's previous €2.42 billion Google Shopping fine from 2017.
 

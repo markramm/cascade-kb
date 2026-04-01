@@ -34,7 +34,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Commerce Secretary Howard Lutnick announced the U.S. government would take a 10% equity stake in Intel worth $8.9 billion, converting previously committed CHIPS Act grants into government ownership. SoftBank simultaneously invested $2 billion, purchasing 2% of Intel. The equity-for-funding model represents a fundamental policy shift from the Biden administration's grant approach.
 

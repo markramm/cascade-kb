@@ -34,7 +34,6 @@ capture_lanes:
 - Corporate Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 In September 2015, Turing Pharmaceuticals under CEO Martin Shkreli purchased the American marketing rights to Daraprim (pyrimethamine) and immediately raised the price from $13.50 to $750 per pill—a price increase of over 5,000%. The move became a symbol of pharmaceutical price gouging and exposed how generic drug manufacturers could exploit monopoly positions on essential medicines without regulatory intervention.
 

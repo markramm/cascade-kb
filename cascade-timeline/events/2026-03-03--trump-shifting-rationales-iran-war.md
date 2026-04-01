@@ -61,7 +61,6 @@ capture_lanes:
 - Information Environment Capture
 - Executive Power Seizure
 ---
-type: timeline_event
 
 As US bombs fell on Iran beginning February 28, 2026, Trump and his senior officials offered a cascade of justifications that shifted, contradicted each other, and in several cases were directly contradicted by the administration's own intelligence assessments.
 

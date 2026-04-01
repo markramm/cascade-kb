@@ -106,5 +106,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 Trump launched a cryptocurrency memecoin right before his inauguration to make millions of dollars, then increased the value of those coins by signing executive orders making crypto a priority. He also launched a meme coin for Melania Trump.

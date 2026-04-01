@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 On August 25, 1967, FBI Director J. Edgar Hoover authorized the expansion of the Counter Intelligence Program (COINTELPRO) to create a new initiative targeting "Black Nationalist–Hate Groups." This program represented a systematic effort by the nation's premier law enforcement agency to "expose, disrupt, misdirect, discredit, or otherwise neutralize" civil rights organizations and their leaders through surveillance, infiltration, psychological warfare, and illegal disruption tactics. The FBI had been monitoring civil rights leaders since the founding of the Southern Christian Leadership Conference in 1957, but the 1967 expansion marked an intensification of efforts to destroy the movement from within, using the full power of federal law enforcement against American citizens exercising constitutional rights.
 

@@ -44,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Major multinational tobacco companies secretly coordinated a long-running
 strategy to resist regulation and scientific consensus on smoking harms—an

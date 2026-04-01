@@ -50,7 +50,6 @@ capture_lanes:
 - Democratic Erosion
 - Labor Suppression
 ---
-type: timeline_event
 
 Minnesota witnessed its largest general strike in nearly a century as tens of thousands of workers walked off the job and took to the streets to protest Trump administration immigration enforcement and the killing of Renee Good by an ICE agent. The strike, organized by a coalition of 90 organizations including the Minnesota AFL-CIO, major unions, and community groups, saw over 700 businesses close across the state despite temperatures of minus 20°F with wind chills reaching minus 35°F.
 

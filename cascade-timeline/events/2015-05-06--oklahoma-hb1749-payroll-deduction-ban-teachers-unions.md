@@ -44,7 +44,6 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: timeline_event
 
 On May 6, 2015, Oklahoma Governor Mary Fallin signed House Bill 1749 into law, prohibiting state agencies from making payroll deductions for membership dues to public employee associations that engage in collective bargaining. The legislation, which took effect November 1, 2015, specifically targeted teachers' unions despite technical flaws critics argued made the bill ambiguous if not unconstitutional. The measure exemplified how American Legislative Exchange Council (ALEC) model legislation flows through state legislatures to weaken labor organizations under the guise of administrative efficiency.
 

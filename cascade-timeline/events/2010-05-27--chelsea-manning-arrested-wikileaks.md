@@ -37,7 +37,6 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: timeline_event
 
 U.S. Army Private First Class Bradley Manning (later Chelsea Manning) was arrested at Forward Operating Base Hammer in Iraq for allegedly leaking hundreds of thousands of classified documents to WikiLeaks, including evidence of war crimes and civilian casualties. The arrest initiated what would become one of the most significant whistleblower prosecutions in American history.
 

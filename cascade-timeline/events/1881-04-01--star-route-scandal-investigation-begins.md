@@ -36,7 +36,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 President James A. Garfield launches an investigation in April 1881 into the Star Route scandal, a massive postal fraud scheme that has defrauded the Post Office of $4 million through rigged bidding on rural mail delivery contracts. The scandal involves a ring of contractors, brokers, and appointed postal officials—including Second Assistant Postmaster-General Thomas J. Brady and Arkansas Senator Stephen W. Dorsey (who served as Secretary of the Republican National Committee during Garfield's 1880 presidential campaign). The investigation reveals how Gilded Age corruption operates through sophisticated bid-rigging schemes where straw bidders submit artificially low bids while ring members bid extremely high, then use default patterns to award contracts at inflated rates and divide profits among conspirators.
 

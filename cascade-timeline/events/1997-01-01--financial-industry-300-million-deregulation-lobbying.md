@@ -47,7 +47,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 In 1997 and 1998, the banking, insurance, and securities industries spend over $300 million to advance financial deregulation, including $58 million in direct campaign contributions to Democratic and Republican candidates, $87 million in soft money contributions to both parties, and $163 million on lobbying. This massive financial commitment buys bipartisan support for dismantling Depression-era financial regulations, particularly Glass-Steagall.
 

@@ -54,7 +54,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Media Capture & Control
 ---
-type: timeline_event
 
 ICE data obtained through FOIA litigation revealed that approximately 75,000 of the 220,000 people arrested between January 20 and October 15, 2025—representing one-third of all arrests—had no criminal history whatsoever. The data, released by the Deportation Data Project (a joint initiative of UCLA and UC Berkeley Law), exposes the mass dragnet nature of immigration enforcement under the Trump administration's quota system, contradicting official claims of targeting "the worst of the worst criminal illegal aliens."
 

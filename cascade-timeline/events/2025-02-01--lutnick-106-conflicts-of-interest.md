@@ -37,5 +37,4 @@ sources:
 notes: Most conflicts of interest ever tracked for a cabinet
 status: confirmed
 ---
-type: timeline_event
 Howard Lutnick, Commerce Secretary worth $3.1 billion, faces 106 potential conflicts of interest requiring recusal - the most of any cabinet member ever tracked by government watchdog groups. Transferred control of Cantor Fitzgerald to 27-year-old son while maintaining family financial interests.

@@ -57,6 +57,5 @@ fallout_indicators:
 - political scandal
 - obstruction of justice
 ---
-type: timeline_event
 
 The Trump administration staged a theatrical "Phase 1" release on February 27, 2025, inviting right-wing influencers to the White House to receive binders, though these contained mostly previously leaked materials rather than new revelations.

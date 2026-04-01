@@ -69,5 +69,4 @@ validation_metadata:
   - 'new: (added) ''[''kleptocracy'', ''corruption'', ''political-access'', ''donor-influence'', ''trump-administration'']'''
   - 'old: (added) ''[''kleptocracy'', ''corruption'']'''
 ---
-type: timeline_event
 Former Democratic donor and Silicon Valley investor Chamath Palihapitiya bragged on a podcast that his donations to Trump now grant him direct access to top White House officials, including the deputy chief of staff, citing a recent call made on behalf of a friend affected by tariffs

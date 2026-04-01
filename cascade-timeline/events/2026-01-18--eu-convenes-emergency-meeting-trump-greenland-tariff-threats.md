@@ -29,7 +29,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 The European Union convenes an emergency meeting in Brussels to discuss its response to President Trump's tariff threats against eight NATO allies over Greenland. EU leaders consider retaliatory measures including counter-tariffs and the activation of the bloc's Anti-Coercion Instrument, informally known as the "trade bazooka."
 

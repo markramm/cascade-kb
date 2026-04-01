@@ -35,5 +35,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Legislative Capture
 ---
-type: timeline_event
 Kristi Noem falsely claimed in her memoir that she met North Korean dictator Kim Jong Un while serving in Congress. The claim was impossible as Kim did not leave North Korea until 2018, years after her claimed meeting date. After media scrutiny, Noem's publisher removed the passage from future editions. Noem refused to directly admit the meeting never happened, only saying the anecdote "should not have been included."

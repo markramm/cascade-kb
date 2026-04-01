@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 Facebook removes a staggering 5.4 billion fake accounts during 2019, revealing that automated bot networks spreading misinformation and fake engagement vastly outnumber real users. The massive bot infrastructure demonstrates how Facebook's platform design incentivizes coordinated inauthentic behavior that the company profits from before eventual detection and removal.
 

@@ -36,6 +36,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 McKinsey & Company releases a strategic report recommending extensive market liberalization and corporate restructuring across Southeast Asian economies during the Asian Financial Crisis. The report becomes a blueprint for IMF and World Bank interventions, prioritizing foreign investment and corporate interests over local economic sovereignty. Recommendations included strengthening financial sector regulation, increasing transparency, and opening markets to foreign participants. The crisis revealed systemic weaknesses in Southeast Asian economies, including inadequate financial supervision, overheated real estate markets, and high reliance on foreign short-term borrowing.

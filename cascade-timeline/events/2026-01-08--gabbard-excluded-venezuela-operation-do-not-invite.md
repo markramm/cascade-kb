@@ -30,7 +30,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The White House excluded Director of National Intelligence Tulsi Gabbard from months of planning to capture Venezuelan President Nicolás Maduro because her previous opposition to military action in Venezuela cast doubt on her willingness to support the operation. The move to cut Gabbard out of meetings was so well-known that some White House aides joked that the acronym of her title, DNI, stood for "Do Not Invite."
 

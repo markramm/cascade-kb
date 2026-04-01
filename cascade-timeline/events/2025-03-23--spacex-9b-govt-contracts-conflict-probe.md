@@ -46,5 +46,4 @@ patterns:
 - government-contract-manipulation
 notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional contract details and congressional investigation information.
 ---
-type: timeline_event
 SpaceX continues to receive substantial federal contracts, totaling $9.5 billion from the Department of Defense in 2025, despite congressional investigations into potential conflicts of interest stemming from Elon Musk's role in the Trump administration. These contracts include a $5.9 billion Space Force rocket launch support agreement through 2029 and a $102 million Air Force rocket cargo study.

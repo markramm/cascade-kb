@@ -33,6 +33,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The American Legislative Exchange Council officially registered as a federal nonprofit agency in 1975 with support from the American Conservative Union, moving from Chicago to Washington D.C. under Paul Weyrich's leadership. This transition marked ALEC's evolution from a state legislative caucus to a national corporate-legislative coordination mechanism.

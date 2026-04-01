@@ -55,5 +55,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 William Pulte, Trump's FHFA Director, accesses private mortgage application data to accuse Fed Governor Lisa Cook of fraud for listing two properties as primary residences, part of pattern targeting Trump's political opponents.

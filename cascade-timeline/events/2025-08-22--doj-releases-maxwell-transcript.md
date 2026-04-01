@@ -41,5 +41,4 @@ sources:
 notes: 'Maxwell previously convicted for perjury in 2016 deposition, now given limited immunity by Deputy AG Blanche (Trump''s former criminal defense lawyer). Legal experts question credibility given her conviction status and potential motivation for clemency. Maxwell claims "no recollection" of Mar-a-Lago spa despite being convicted of recruiting Virginia Giuffre from that same spa for trafficking. Criticized trial victim testimony as "not correct" while claiming no awareness of inappropriate behavior. DOJ grand juries never heard directly from victims.'
 status: confirmed
 ---
-type: timeline_event
 Justice Department releases 377-page transcript of July 2025 interview between convicted sex trafficker Ghislaine Maxwell and Deputy AG Todd Blanche (Trump's former defense lawyer). Maxwell given limited immunity, denies client list exists, claims Trump never acted inappropriately, raising credibility concerns.

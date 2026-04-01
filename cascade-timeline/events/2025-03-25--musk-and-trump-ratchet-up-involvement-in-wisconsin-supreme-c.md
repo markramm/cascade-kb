@@ -45,6 +45,5 @@ capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Musk's PAC spent over $20 million in Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's 'factory store' law. The race is the most expensive judicial election in U.S. history, with potential implications for car sales, abortion rights, redistricting, and labor unions.

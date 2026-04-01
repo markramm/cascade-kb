@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: timeline_event
 
 The U.S. Court of Appeals for the Federal Circuit ruled 7-4 that President Trump unlawfully exceeded his emergency powers authority when imposing sweeping tariffs under the International Emergency Economic Powers Act (IEEPA). The full court held that Trump's 'reciprocal tariffs' and other historic import levies were not authorized under IEEPA, which is intended for genuine national security emergencies rather than broad trade policy.
 

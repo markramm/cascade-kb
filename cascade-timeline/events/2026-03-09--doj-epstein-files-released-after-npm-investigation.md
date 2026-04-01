@@ -44,7 +44,6 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Beginning on March 9, 2026, the U.S. Department of Justice released additional Epstein files following an NPR investigation that exposed the selective withholding of documents related to sexual abuse allegations against President Donald Trump. NPR's investigation found 53 pages missing from the DOJ's public Epstein database, including notes from law enforcement interviews, a law enforcement report, and license records.
 

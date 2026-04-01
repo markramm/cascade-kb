@@ -41,7 +41,6 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 
 
 On May 10, 1875, Treasury Secretary Benjamin H. Bristow conducted coordinated raids across the nation that exposed the Whiskey Ring—a massive conspiracy involving whiskey distillers, Treasury Department officials, and politicians who had been systematically defrauding the federal government of tax revenues. Operating primarily in St. Louis, Milwaukee, and Chicago, the ring bribed Internal Revenue officials to neglect collecting the required 70-cent per gallon excise tax, then split the illegal proceeds. By 1873, what had begun as a political slush fund had evolved into a purely criminal enterprise defrauding the Treasury of an estimated $1.5 million annually—equivalent to tens of millions in today's dollars.

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Kansas Territory held its first territorial legislative election on March 30, 1855, which was stolen through systematic fraud and violence by approximately 5,000 "Border Ruffians" who invaded from western Missouri. Under the leadership of U.S. Senator David Rice Atchison and other pro-slavery leaders, these armed invaders threatened election judges with injury or death, intimidated voters, and stuffed ballot boxes throughout the territory. The town of Leavenworth recorded five times as many votes as its entire population. A territorial census taken at the beginning of March counted 2,905 voters, yet the election 30 days later tallied over 6,000 votes. By some estimates, up to 60 percent of the votes cast were fraudulent, with some counties recording more pro-slavery votes than total residents.
 

@@ -45,5 +45,4 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-type: timeline_event
 In January 2022, Peter Thiel receives a second documented invitation to meet privately with Vladimir Putin, this time through Russian diplomat Daniil Bisslinger. The invitation came amid rising tensions before Russia's invasion of Ukraine, demonstrating persistent Russian intelligence targeting of Silicon Valley leaders. As a confidential FBI informant with the code name 'Philosopher', Thiel immediately reported the invitation to his bureau handlers, suspecting a potential psychological operation designed to cultivate relationships with influential tech figures. Bisslinger, identified as an employee of the Kremlin's Ministry of Foreign Affairs, had previously extended a similar invitation in 2018 during a birthday celebration in Vienna.

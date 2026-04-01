@@ -46,5 +46,4 @@ tags:
 - media-consolidation
 title: Skydance-Paramount deal closes with contentious FCC regulatory conditions
 ---
-type: timeline_event
 Skydance's $8 billion acquisition of Paramount Global closed after FCC approval with controversial conditions. The merger included commitments to hire a CBS ombudsman and explicit agreements about media representation, reflecting ongoing tensions in media regulation and political influence.

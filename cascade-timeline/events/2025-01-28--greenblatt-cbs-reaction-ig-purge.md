@@ -43,5 +43,4 @@ sources:
 notes: 'Greenblatt was a Trump appointee from his first term, making the firing particularly puzzling. Received notification via email at 7:30 PM Friday while returning from Tae Kwon Do practice.'
 status: confirmed
 ---
-type: timeline_event
 Interior Inspector General Mark Greenblatt, who was originally appointed by Trump in his first term, told CBS News he was "stunned" by his Friday night firing on January 24, 2025. Greenblatt said "It's very bizarre" and questioned the motives, offering two interpretations - either Trump "doesn't believe in our independence" or "wants lackeys to rubber stamp what he's trying to do."

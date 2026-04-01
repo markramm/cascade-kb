@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On the evening of August 8, 1974, President Richard Nixon addressed the nation and announced his intention to resign, effective at noon the following day. At noon on August 9, 1974, Nixon officially ended his term, departing with his family in a helicopter from the White House lawn. Minutes later, Gerald R. Ford was sworn in as the 38th President of the United States in the East Room of the White House, declaring "Our long national nightmare is over." Nixon became the first and thus far only U.S. president to resign from office. The immediate cause of his decision was the release of the "smoking gun" tape on August 5, which showed he had obstructed the FBI's Watergate investigation from the beginning and destroyed his remaining political support in Congress.
 

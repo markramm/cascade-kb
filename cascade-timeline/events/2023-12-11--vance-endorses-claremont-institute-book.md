@@ -43,6 +43,5 @@ tags:
 - conservative-movement
 status: confirmed
 ---
-type: timeline_event
 
 Senator J.D. Vance spoke at the Claremont Institute's 'Up from Conservatism' book launch on Capitol Hill, praising a controversial essay collection that advocates for a more aggressive conservative approach. Vance emphasized the need for conservatives to 'wield power' and suggested appointing Department of Justice officials 'who take a side in the culture war'. The book, edited by Arthur Milikh, proposes radical conservative reforms including potential repeal of the Civil Rights Act and challenging existing institutional norms.

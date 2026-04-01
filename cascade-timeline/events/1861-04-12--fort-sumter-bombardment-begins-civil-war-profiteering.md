@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 At 4:30 a.m. on April 12, 1861, Confederate batteries open fire on Fort Sumter in Charleston Harbor, South Carolina, launching more than 4,000 rounds over 34 hours at the Union garrison commanded by Major Robert Anderson. The fort, which Anderson's forces had occupied since December 26, 1860, after secretly moving from the more vulnerable Fort Moultrie, controls the entrance to Charleston Harbor and represents federal authority in the heart of secession. President Abraham Lincoln's decision to resupply the fort with unarmed merchant ships precipitates the crisis—Confederate President Jefferson Davis, after sending a peace commission that Lincoln refuses to receive, issues an ultimatum demanding the fort's immediate evacuation. Anderson refuses, and Confederate forces commence bombardment. Despite the intensity of the attack, no one dies in direct combat, though a gun explosion during surrender ceremonies on April 14 kills two U.S. soldiers. Anderson surrenders the fort, and the Confederate flag rises over the installation. Lincoln immediately calls for 75,000 volunteers to serve for 90 days to suppress the rebellion, triggering Virginia, North Carolina, Arkansas, and Tennessee to join the Confederacy.
 

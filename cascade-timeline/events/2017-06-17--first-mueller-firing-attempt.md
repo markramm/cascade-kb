@@ -39,6 +39,5 @@ sources:
   tier: 1
 notes: Mueller Report pages 77-89, 113-119 document multiple attempts. Represents conscious crisis escalation to test institutional resistance, invoking Nixon precedent to normalize extraordinary obstruction.
 ---
-type: timeline_event
 
 Trump called White House Counsel Don McGahn at home and directed him to call Acting Attorney General and say Special Counsel had conflicts of interest and must be removed. McGahn refused, deciding he would resign rather than trigger what he viewed as potential "Saturday Night Massacre" referencing Nixon's constitutional crisis. When episode became public in 2018, Trump pressured McGahn to create false records denying the firing attempt. Trump told Staff Secretary Rob Porter that McGahn should "create a record that makes clear Trump never directed McGahn to fire the Special Counsel."

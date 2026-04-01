@@ -56,7 +56,6 @@ connections:
 - European pushback on tax evasion
 notes: Settlement amount was less than one year of Google's tax avoidance in France. No executives faced criminal liability despite evidence of systematic fraud. Created precedent that tech giants can buy way out of tax fraud prosecution.
 ---
-type: timeline_event
 
 On September 12, 2019, Google agreed to pay €945 million ($1.1 billion) to French authorities to settle a four-year tax fraud investigation—avoiding criminal prosecution by negotiating a financial settlement despite evidence of systematic tax evasion. The case exemplified how corporate tax fraud is treated as a civil matter with negotiated settlements while ordinary citizens face criminal prosecution for equivalent violations.
 

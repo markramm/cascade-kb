@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 President George Washington signs legislation creating the First Bank of the United States, establishing a national bank chartered for twenty years despite fierce constitutional opposition from Thomas Jefferson and James Madison. Treasury Secretary Alexander Hamilton's proposal creates an institution that concentrates financial power among urban elites and foreign investors, sparking the fundamental debate over concentrated economic power that continues throughout American history. Jefferson denounces Hamilton's financial system as having "two objects; 1st, like a puzzle, to exclude popular understanding and inquiry; 2nd, as a machine for the corruption of the legislature."
 

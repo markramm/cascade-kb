@@ -39,7 +39,6 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: timeline_event
 
 In June 2020, NPR analysis revealed that the federal government had awarded over 250 COVID-19 related contracts worth more than $1 million each without full competitive bidding, totaling billions of dollars in federal spending. Many contracts went to companies with no experience in medical equipment, some with direct political connections to the Trump administration. The contracts included widespread price gouging (markups of 50-1,300%), defective equipment, and outright fraud, exposing how public health emergencies become profit opportunities for politically connected contractors while regulatory oversight collapses.
 

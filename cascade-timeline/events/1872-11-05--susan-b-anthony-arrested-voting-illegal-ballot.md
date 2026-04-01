@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On November 5, 1872, Susan B. Anthony voted in the presidential election between Ulysses S. Grant and his opponent in Rochester, New York, along with 14 other women, in a deliberate act of civil disobedience designed to test whether the 14th Amendment granted women voting rights as citizens. Four days earlier, on November 1, Anthony had walked with her sisters Guelma, Hannah, and Mary to a voter registration office in a nearby barber shop and demanded registration. When election inspectors hesitated, Anthony quoted the 14th Amendment to justify her claim and threatened to sue them personally if they refused. The inspectors consulted prominent local lawyer John Van Voorhis, a strong women's suffrage supporter, who advised them to register the women. On November 18, a deputy federal marshal confronted Anthony at her home to arrest her for the crime of voting. When asked to accompany him downtown, Anthony demanded to be "arrested properly" like a man, highlighting the discriminatory nature of her treatment.
 

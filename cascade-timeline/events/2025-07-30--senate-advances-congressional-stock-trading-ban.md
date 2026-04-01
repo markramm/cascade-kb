@@ -42,5 +42,4 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 The Senate Homeland Security Committee voted 8-7 to advance the Honest Act, which would prohibit members of Congress, the president, and vice president from trading stocks. Senator Josh Hawley joined Democrats to pass the bill, facing criticism from fellow Republicans like Rick Scott and pushback from former President Trump.

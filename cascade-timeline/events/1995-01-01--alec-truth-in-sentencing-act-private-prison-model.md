@@ -44,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The American Legislative Exchange Council (ALEC), co-chaired by Corrections Corporation of America (CCA) executives, promotes its "Truth-in-Sentencing Act" model legislation requiring prisoners to serve at least 85% of their sentences before parole eligibility. The model bill, developed by the ALEC Criminal Justice Task Force with direct participation from CCA and GEO Group representatives, becomes law in 27 states over the next 15 years.
 

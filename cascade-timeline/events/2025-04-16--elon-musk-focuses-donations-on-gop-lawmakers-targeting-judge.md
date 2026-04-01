@@ -48,5 +48,4 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 Elon Musk donated maximum campaign contributions of $6,600 to at least seven Republican lawmakers who have publicly called for impeaching or limiting the power of federal judges blocking his government efficiency initiatives. Recipients included Representatives Eli Crane, Lauren Boebert, Andy Ogles, Andrew Clyde, Derrick Van Orden, Brandon Gill, and Senator Chuck Grassley.

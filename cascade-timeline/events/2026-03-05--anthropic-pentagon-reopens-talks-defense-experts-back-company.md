@@ -56,7 +56,6 @@ capture_lanes:
 - Institutional Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 By March 5, 2026, simultaneous pressure from multiple directions had forced a partial reversal of the Pentagon's confrontational posture toward Anthropic. Reports confirmed that Anthropic and the Department of Defense had reopened negotiations, driven by the Pentagon's growing recognition that its operational dependence on Claude during the Iran campaign had severely undermined the credibility of the blacklisting. A senior Pentagon official described the internal moment of realization — when defense leaders became fully aware how deeply Claude was embedded in their targeting systems and what losing access would mean for operational capability — as a "whoa moment."
 

@@ -49,6 +49,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Reagan appoints James Watt, former president of Mountain States Legal Foundation (funded by Coors and oil companies), as Interior Secretary. Watt immediately opens federal lands to mining and drilling, reverses environmental protections, and staffs the department with industry executives. His tenure represents systematic capture of natural resource regulation by extractive industries, implementing the Powell Memorandum's strategy of placing corporate advocates in key regulatory positions.

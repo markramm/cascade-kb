@@ -43,6 +43,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 DHS Inspector General Joseph Cuffari disclosed Secret Service erased text messages from January 5-6, 2021, during a "device replacement program" after oversight officials requested electronic communications. Despite requesting month of records for 24 personnel, Secret Service provided only one text exchange. Deletion occurred shortly after OIG's February 26, 2021 records request. Congressional leaders condemned potential Federal Records Act violations and obstruction of oversight.

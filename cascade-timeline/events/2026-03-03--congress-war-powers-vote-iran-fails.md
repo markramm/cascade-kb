@@ -70,7 +70,6 @@ capture_lanes:
 - Executive Power Seizure
 - Separation of Powers Collapse
 ---
-type: timeline_event
 
 On March 3, 2026, the Senate voted on a bipartisan War Powers Resolution introduced by Senator Tim Kaine (D-VA) and co-led by Minority Leader Chuck Schumer (D-NY) and Senator Adam Schiff (D-CA). The resolution, which had been introduced on January 29, 2026 - weeks before the strikes began - sought to stop what Democrats and some legal experts called Trump's unauthorized war against Iran and require explicit congressional authorization for continued US participation in hostilities. The Senate resolution failed. A parallel House vote was expected the following day and faced the same fate.
 

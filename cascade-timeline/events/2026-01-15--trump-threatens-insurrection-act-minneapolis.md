@@ -31,7 +31,6 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump threatened to invoke the Insurrection Act of 1807 in response to protests in Minneapolis against ICE operations following the killing of Renee Good. On Truth Social, Trump wrote that "In Minnesota, the Troublemakers, Agitators, and Insurrectionists are, in many cases, highly paid professionals," echoing authoritarian rhetoric that delegitimizes organic protest movements.
 

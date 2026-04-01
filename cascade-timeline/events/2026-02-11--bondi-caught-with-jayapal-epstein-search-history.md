@@ -43,7 +43,6 @@ capture_lanes:
 - Environmental Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 During a House Judiciary Committee hearing on February 11, 2026, Attorney General Pam Bondi was photographed by Reuters and Agence France-Presse with a document in her binder titled "Jayapal Pramila Search History." The sheet listed at least eight different files from DOJ's Epstein records database that Representative Pramila Jayapal had searched two days earlier in the DOJ reading room, including file numbers and content descriptions. Jayapal confirmed in an NPR interview that the listed searches corresponded exactly to ones she had made.
 

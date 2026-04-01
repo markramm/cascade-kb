@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 By 1989, over 1,000 savings and loan institutions have failed, representing approximately one-third of the entire S&L industry and marking one of the worst financial industry collapses in American history. The systemic failure stems directly from 1980s deregulation that eliminated prudential lending standards while maintaining federal deposit insurance, creating massive moral hazard that incentivized fraud and reckless speculation. The Federal Savings and Loan Insurance Corporation (FSLIC) becomes insolvent trying to cover losses, ultimately requiring a $160 billion taxpayer bailout when the Resolution Trust Corporation is created to liquidate failed institutions.
 

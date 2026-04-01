@@ -48,5 +48,4 @@ capture_lanes:
 importance: 9
 status: confirmed
 ---
-type: timeline_event
 In response to Project 2025's comprehensive policy proposals, major civil rights organizations launched a coordinated litigation and advocacy strategy to challenge potential executive overreach. The coalition, including the ACLU, Brennan Center, Lawyers for Civil Rights, and EarthJustice, prepared multi-pronged legal challenges focusing on election official protections, voting rights, immigration enforcement, healthcare access, and constitutional freedoms. Their strategy included federal lawsuits, state-level advocacy, and grassroots mobilization to block proposed policies threatening civil rights.

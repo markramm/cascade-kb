@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Gabriel, a 24-year-old enslaved blacksmith from Brookfield plantation in Henrico County, Virginia, plans to lead what may be the most extensive slave rebellion in American history up to that point, with an estimated several thousand participants prepared to seize Richmond, kill white inhabitants (except Methodists, Quakers, and Frenchmen), capture Governor James Monroe, and establish an independent Kingdom of Virginia. Inspired by the successful Haitian Revolution and the egalitarian rhetoric of the American and French Revolutions, Gabriel and fellow organizers including Jack Bowler and George Smith spend months recruiting hundreds of supporters and organizing them into military units, with enslaved blacksmiths producing swords and pikes from farm tools. The conspiracy spans multiple Virginia localities, demonstrating sophisticated organization and communication networks among the enslaved population that white authorities believed impossible.
 

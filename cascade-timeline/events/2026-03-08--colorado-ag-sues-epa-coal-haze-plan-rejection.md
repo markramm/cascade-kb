@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Colorado Attorney General Phil Weiser and a coalition of environmental groups including the National Parks Conservation Association and the Sierra Club (represented by Earthjustice) filed separate petitions in the U.S. Court of Appeals for the Tenth Circuit in early March 2026, challenging the Trump EPA's January 26 rejection of Colorado's state implementation plan for regional haze.
 

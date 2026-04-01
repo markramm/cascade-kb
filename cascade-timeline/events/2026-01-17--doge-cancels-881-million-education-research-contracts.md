@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The Department of Government Efficiency announced cancellation of education research contracts it claimed totaled $881 million in savings, targeting the Institute of Education Sciences and numerous long-term research programs. The terminations, posted to DOGE's "wall of receipts" website, included contracts supporting critical education data infrastructure and research that educators, policymakers, and school districts rely on for evidence-based decision making. Independent analysis by EdWeek Market Brief found the numbers did not add up, identifying four instances where DOGE claimed savings larger than the total contract value listed, raising questions about the accuracy of reported savings figures.
 

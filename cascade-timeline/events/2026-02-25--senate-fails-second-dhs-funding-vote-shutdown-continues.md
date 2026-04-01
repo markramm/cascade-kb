@@ -36,7 +36,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 The United States Senate voted 50-45 on February 25, falling ten votes short of the sixty-vote threshold needed to advance DHS funding legislation and end the department's shutdown, now entering its second week. It was the second failed vote on DHS appropriations, with no signs of movement toward a bipartisan compromise. Senate Majority Leader Chuck Schumer described negotiations as "nonexistent," signaling that the two parties remained fundamentally deadlocked over the terms of any funding agreement.
 
 Democrats conditioned their support on a package of ICE reform measures that Republicans dismissed as nonstarters. The Democratic demands included requirements for judicial warrants before agents could enter private homes, a ban on facial coverings worn by agents during enforcement operations, mandatory body cameras, standardized uniforms with visible identification, a prohibition on racial profiling, and a bar on immigration enforcement at sensitive locations including schools, churches, hospitals, and polling places. Each demand reflected specific documented abuses from recent enforcement operations, particularly Operation Metro Surge in Minnesota, but Republicans characterized them as attempts to hamstring immigration enforcement.

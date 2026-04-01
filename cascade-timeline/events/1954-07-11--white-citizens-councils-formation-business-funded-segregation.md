@@ -45,7 +45,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 Two months after the Brown v. Board of Education ruling, Mississippi Circuit Court Judge Tom P. Brady delivers a strident speech opposing integration that is later expanded into a ninety-page tract titled "Black Monday" and distributed widely as a rallying cry for organized white resistance. On July 11, 1954, Robert B. Patterson, a plantation manager and former Mississippi State University football captain, forms the first White Citizens' Council in Indianola, Mississippi, bringing together business and civic leaders to design a plan to preserve segregation.
 

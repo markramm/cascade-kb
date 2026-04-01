@@ -35,5 +35,4 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: timeline_event
 First nationwide training program established to equip attorneys with advanced strategies for combating institutional overreach. 672 attorneys from 49 states complete intensive 2-week training on constitutional defense, strategic litigation, and resistance methodologies, supported by federal funding initiatives and professional legal organizations.

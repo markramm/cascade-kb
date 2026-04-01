@@ -45,5 +45,4 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 The Trump administration proposed executive orders and budget cuts to eliminate environmental research and monitoring for rocket launches and atmospheric pollution, a move that would primarily benefit private space companies like SpaceX by reducing regulatory oversight and potential future restrictions.

@@ -44,7 +44,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 In late February and continuing into early March 2026, a coalition of environmental and public health groups pressed legal challenges against the Trump EPA's repeal of the landmark "endangerment finding" — the 2009 scientific determination that greenhouse gases constitute a threat to public health and welfare. The endangerment finding was the foundational legal basis for nearly all federal climate regulation, and its repeal represented the most sweeping environmental deregulatory act since the modern regulatory state was established.
 

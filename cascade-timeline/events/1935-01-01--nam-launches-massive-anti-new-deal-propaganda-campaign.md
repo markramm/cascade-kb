@@ -58,7 +58,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 
 In 1935, the National Association of Manufacturers (NAM) under president Robert Lund launches what Business Week headlines as "The NAM Declares War" (December 14, 1935)—an unprecedented multi-million dollar propaganda campaign to discredit Roosevelt's New Deal and promote "free enterprise" ideology as synonymous with American democracy. NAM's budget explodes from $250,000 in 1933 to $1.5 million annually by 1937, with 55 percent devoted to public relations by 1937, making propaganda NAM's primary function. The campaign is bankrolled by 262 "nationally known" corporations including Du Pont (the largest contributor), General Motors (second largest), AT&T, Standard Oil, Monsanto, Procter & Gamble, IBM, and Westinghouse Electric, with larger firms providing 40 percent of revenues as NAM membership doubles.

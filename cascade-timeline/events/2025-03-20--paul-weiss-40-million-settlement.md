@@ -40,5 +40,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Paul Weiss, facing what its chair called an "existential threat" that could "destroy our firm," became the first prestigious law firm to settle for $40 million after losing business "within hours" of being targeted by Trump's intimidation campaign.

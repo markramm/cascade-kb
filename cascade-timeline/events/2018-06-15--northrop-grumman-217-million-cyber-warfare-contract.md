@@ -39,7 +39,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Northrop Grumman received a contract as part of a potential $217 million five-year U.S. military cyber warfare program called Unified Platform, which aims to develop a coordinated cyber weapons infrastructure enabling U.S. Cyber Command to conduct offensive and defensive cyber operations independent of National Security Agency systems. The Unified Platform program represents a major expansion of military cyber warfare capabilities, creating a common tool set that enables cyber warriors to operate as a coordinated unit while maintaining separation from NSA intelligence-gathering infrastructure to avoid interfering with signals intelligence collection operations.
 

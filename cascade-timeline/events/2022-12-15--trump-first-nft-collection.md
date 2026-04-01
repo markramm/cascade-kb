@@ -43,5 +43,4 @@ sources:
 notes: Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago dinner
 status: confirmed
 ---
-type: timeline_event
 Trump launches first NFT collection of 45,000 'Trump Digital Trading Cards' for $99 each, selling out in under 12 hours and generating over $16 million in primary sales, marking his crypto debut one month after announcing presidential campaign.

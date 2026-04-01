@@ -53,6 +53,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Trump White House announced it will continue its policy of not releasing visitor logs, effectively preventing public and press access to information about who is meeting with the president. This approach, first implemented during Trump's first term and challenged by transparency advocates like Tom Blanton of the National Security Archive, breaks with the Obama-era practice of disclosing visitor information.

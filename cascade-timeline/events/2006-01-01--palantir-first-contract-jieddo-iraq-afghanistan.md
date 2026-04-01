@@ -32,7 +32,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 In 2006, Palantir Technologies secured one of its first major government contracts with the Joint IED Defeat Organization (JIEDDO), marking the company's transition from CIA-backed startup to operational defense contractor. The contract focused on using Palantir's data analysis platform to detect patterns in improvised explosive device (IED) attacks in Iraq and Afghanistan, helping U.S. military forces identify bomb-making networks and predict attack locations.
 

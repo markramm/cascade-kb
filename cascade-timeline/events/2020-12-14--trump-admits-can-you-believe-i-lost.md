@@ -42,5 +42,4 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 Trump privately acknowledged he lost the 2020 election, telling a White House staffer "Can you believe I lost to this f'ing guy?" after seeing Biden on television, according to the Jack Smith report. Trump also told family members "you still have to fight like hell" even if he lost, and berated Mike Pence for being "too honest" to challenge the results. These private admissions contradict his public claims of election fraud.

@@ -51,6 +51,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Binance executives met with Treasury officials to request removal of U.S. monitor overseeing anti-money-laundering compliance while simultaneously negotiating deals with Trump's World Liberty Financial crypto venture

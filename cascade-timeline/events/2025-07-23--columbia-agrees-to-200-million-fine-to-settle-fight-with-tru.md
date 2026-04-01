@@ -54,6 +54,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Columbia University agreed to pay a $200 million fine to settle federal investigations into alleged discrimination violations after the Trump administration froze $1.3 billion in funding and terminated grants

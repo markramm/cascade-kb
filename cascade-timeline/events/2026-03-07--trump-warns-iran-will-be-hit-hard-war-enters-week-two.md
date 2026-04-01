@@ -56,7 +56,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 As the U.S.-Israeli war on Iran entered its second week on March 7, 2026, President Trump declared that Iran "will be hit very hard" and refused to consider any diplomatic resolution short of what he described as unconditional surrender. The U.S. State Department simultaneously moved to evacuate American citizens from multiple Middle Eastern countries, reflecting growing concern that the conflict was spreading beyond initial boundaries and putting civilians at risk across the region.
 

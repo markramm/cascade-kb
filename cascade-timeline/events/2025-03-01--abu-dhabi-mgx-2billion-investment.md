@@ -40,7 +40,6 @@ sources:
 notes: Potential emoluments violation through foreign government crypto investment
 status: confirmed
 ---
-type: timeline_event
 Abu Dhabi's MGX, an artificial intelligence-focused investment vehicle backed by the Abu Dhabi sovereign wealth fund, committed approximately $2 billion to invest in World Liberty Financial (WLF), the cryptocurrency platform controlled by the Trump family. The deal, reported by the Financial Times and subsequently confirmed by multiple outlets in May 2025 in connection with a separate Binance partnership, represented one of the largest single foreign investments in a Trump family business venture. Under the arrangement, MGX would invest using WLF's USD1 stablecoin—a cryptocurrency pegged to the U.S. dollar that generated fees for the Trump family.
 
 The transaction raised profound Foreign Emoluments Clause concerns. A state-backed investment fund from the United Arab Emirates—a country with ongoing foreign policy and commercial relationships with the United States—was providing $2 billion to a financial platform owned by a sitting U.S. president. Unlike traditional foreign investments in U.S. businesses that operate at arm's length from government policy, this investment went directly to a Trump family enterprise while Trump administered policy affecting UAE interests including arms sales, military basing agreements, and sanctions enforcement.

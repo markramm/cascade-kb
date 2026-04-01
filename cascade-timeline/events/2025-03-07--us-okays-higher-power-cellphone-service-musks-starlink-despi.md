@@ -48,5 +48,4 @@ tags:
 - satellite-technology
 title: FCC Grants Starlink Controversial Direct-to-Cell Service Approval at Higher Power Levels
 ---
-type: timeline_event
 The FCC granted SpaceX's Starlink a conditional waiver to operate a high-power direct-to-cell satellite service with T-Mobile at -110.6 dBW/m²/MHz, a 770% power increase. Despite strong objections from AT&T and Verizon about potential network interference, the FCC approved the service with a condition that SpaceX must address any harmful interference or risk losing the waiver.

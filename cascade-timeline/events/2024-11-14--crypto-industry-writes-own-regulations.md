@@ -35,5 +35,4 @@ capture_lanes:
 - Financial Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 In November 2024, the cryptocurrency industry accelerated its self-regulatory efforts in response to intensifying global regulatory pressures. Following the EU's Markets in Crypto-Assets (MiCA) regulation and the Financial Stability Board's global framework, crypto firms began proactively developing comprehensive compliance mechanisms. Key developments include enhanced KYC/AML protocols, transparent reporting standards, and collaborative efforts to preempt strict governmental oversight.

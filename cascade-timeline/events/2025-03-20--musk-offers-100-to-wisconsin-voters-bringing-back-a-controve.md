@@ -45,5 +45,4 @@ capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 Elon Musk's America PAC launched a controversial campaign offering Wisconsin voters $100 to sign a petition against 'activist judges', directly targeting the April 1 Wisconsin Supreme Court election. The campaign involves a $1 million voter outreach strategy, including $100 per signature and $100 referral bonuses, which prompted a legal challenge from Wisconsin's Attorney General Josh Kaul for potential voter inducement.

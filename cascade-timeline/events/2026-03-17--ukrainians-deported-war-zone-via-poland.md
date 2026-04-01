@@ -40,7 +40,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 17, 2026, reporting by NHPR and WBUR confirmed that two charter flights operated by Journey Aviation had departed from Phoenix, stopped at Portsmouth, New Hampshire, and refueled at Shannon Airport in Ireland before landing in Rzeszow, Poland — the closest major airport to the Ukrainian border. The flights carried approximately 15 Ukrainian nationals who were transported to the Poland-Ukraine border and effectively returned to an active war zone where Russian forces continued to conduct military operations.
 

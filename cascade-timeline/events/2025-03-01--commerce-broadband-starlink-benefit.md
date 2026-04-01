@@ -43,6 +43,5 @@ sources:
 notes: BEAD director Evan Feinman resigned in protest, condemning efforts to "strand rural America with worse internet to make the world's richest man even richer"
 status: confirmed
 ---
-type: timeline_event
 
 Commerce Secretary Howard Lutnick overhauled the $42.5B BEAD broadband program to adopt "tech-neutral approach" allowing satellite providers like Starlink to receive $10-20B instead of expected $4.1B, while directing staff to "increase satellite usage regardless of other considerations" and specifically recommending Elon Musk's Starlink to rural broadband leaders.

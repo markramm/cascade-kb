@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 George M. Pullman establishes the town of Pullman, Illinois, just outside Chicago city limits as one of the most substantial and comprehensive company towns in the United States. Entirely company-owned, the town provides housing, stores, a library, churches, parks, and entertainment facilities for 6,000 Pullman Palace Car Company employees and their families. Pullman conceives and designs the town as a model community where every aspect of workers' lives falls under corporate control, marketed as enlightened paternalism but functioning as a system of total economic and social domination through property ownership and the private law of contract.
 

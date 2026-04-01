@@ -48,7 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 President George H.W. Bush signs the Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA), authorizing a $160.1 billion taxpayer bailout of the savings and loan industry—with $132 billion coming directly from taxpayers through higher taxes and fees. The legislation creates the Resolution Trust Corporation (RTC) to liquidate over 1,000 failed S&L institutions that collapsed due to deregulation-enabled fraud, risky speculation, and regulatory capture during the 1980s. FIRREA represents one of the largest financial bailouts in American history, transferring massive losses from fraudulent bankers and failed thrifts onto taxpayers who had no role in the crisis.
 

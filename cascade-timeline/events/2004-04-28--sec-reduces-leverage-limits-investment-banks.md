@@ -44,6 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: timeline_event
 
 The SEC voted to allow five major investment banks (Goldman Sachs, Morgan Stanley, Merrill Lynch, Lehman Brothers, and Bear Stearns) to use alternative net capital rules, effectively eliminating previous debt-to-net capital ratio limits. This voluntary program allowed banks to use their own internal risk management models to calculate capital requirements, potentially increasing their leverage ratios from traditional 15:1 to over 30:1. The decision, intended to reduce regulatory costs, was later critiqued as a significant factor contributing to the 2008 financial crisis.

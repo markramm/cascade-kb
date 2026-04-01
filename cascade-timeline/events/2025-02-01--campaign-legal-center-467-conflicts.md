@@ -36,6 +36,5 @@ sources:
 notes: Unprecedented scale of conflicts compared to all previous administrations
 status: confirmed
 ---
-type: timeline_event
 
 Campaign Legal Center identifies 467 potential conflicts of interest requiring recusal across Trump appointees, compared to minimal conflicts in previous administrations, with ethics experts describing this as potentially ending government accountability.

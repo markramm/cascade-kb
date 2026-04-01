@@ -41,7 +41,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Pursuant to the newly reauthorized Ethics in Government Act, a special three-judge division of the D.C. Circuit Court appoints Kenneth Starr, former U.S. Solicitor General under George H.W. Bush, as independent counsel to continue the Whitewater investigation, replacing Robert Fiske. The Special Division's decision to remove Fiske, a moderate Republican appointed by Attorney General Janet Reno, and replace him with Starr, a more conservative figure, raises questions about political motivations.
 

@@ -42,7 +42,6 @@ capture_lanes:
 - Institutional Capture
 - Immigration System Capture
 ---
-type: timeline_event
 
 The partial shutdown of the Department of Homeland Security, which began on February 14, 2026, entered its sixth week on March 22 with no resolution in sight. More than 400 TSA officers had quit since the funding lapse began, with many citing inability to work indefinitely without pay and the erosion of morale across the agency. The departures created staffing shortfalls at security checkpoints nationwide, with wait times at some airports exceeding three hours during peak travel periods.
 

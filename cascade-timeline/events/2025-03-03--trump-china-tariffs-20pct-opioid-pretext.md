@@ -76,7 +76,6 @@ tags:
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 On March 3, 2025, President Trump issued an executive order titled "Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China," doubling tariffs on Chinese imports from 10 to 20 percent.
 
 ## Synthetic Opioid Justification

@@ -43,6 +43,5 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: timeline_event
 
 CIVICUS Monitor's comprehensive report documents systematic decline in U.S. civic freedoms including freedom of association, peaceful assembly, and expression, warning that democratic institutions are under severe threat.

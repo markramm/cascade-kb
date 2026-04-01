@@ -29,7 +29,6 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 President Trump issued Proclamation 11002 imposing a 25% tariff on certain advanced computing chips critical to artificial intelligence, effective January 15, 2026, pursuant to Section 232 of the Trade Expansion Act of 1962 based on claims of national security threats. The tariff targets logic integrated circuits meeting specific technical parameters including defined ranges for Tera Tensor Performance (TTP) and total DRAM bandwidth, such as the NVIDIA H200 and AMD MI325X chips, while exempting imports that support U.S. data centers, research and development, startups, and other domestic technology needs.
 

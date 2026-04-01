@@ -43,5 +43,4 @@ capture_lanes:
 - Systematic Corruption
 notes: Event demonstrates innovative methods of avoiding stock market delisting and potential regulatory arbitrage.
 ---
-type: timeline_event
 Chinese firms GD Culture Group and Addentax Group pledged hundreds of millions of dollars to purchase Trump's memecoin, aiming to boost their stock prices and prevent delisting from Nasdaq. The strategy involves buying cryptocurrency to temporarily raise share values and potentially gain favor with the Trump administration.

@@ -45,6 +45,5 @@ sources:
 notes: The 2025 federal mass layoffs exceed 275,000 civil service positions announced, not including federal contractors. Multiple agencies saw cuts exceeding 50% of workforce, with some like USAID and GSA regions experiencing 90%+ reductions.
 status: confirmed
 ---
-type: timeline_event
 
 CNN tracked at least 128,709 federal workers laid off or targeted for layoffs by June 26, 2025. The New York Times reported over 58,500 confirmed cuts, 76,000 employee buyouts, and 149,000 other planned reductions totaling 12% of the 2.4 million civilian federal workforce. This represents the most aggressive federal workforce reduction in modern American history, exceeding the Reagan administration's cuts. The Center on Budget and Policy Priorities argues these mass layoffs are not only unprecedented but potentially illegal, as they may violate congressional appropriations and statutory requirements.

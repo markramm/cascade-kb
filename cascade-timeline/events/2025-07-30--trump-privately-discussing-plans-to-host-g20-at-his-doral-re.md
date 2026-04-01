@@ -47,6 +47,5 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 
 President Trump plans to host the 2026 G20 Summit at his Doral resort in Miami from December 14-15, 2026. The White House claims the event will be hosted 'at-cost' with no profit to Trump, but the move raises significant conflict of interest concerns, echoing his previously abandoned attempt to host the G7 at the same venue in 2020.

@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Lincoln signs the False Claims Act into law on March 2, 1863, creating a revolutionary mechanism to combat rampant war profiteering after unscrupulous contractors sell the Union Army defective equipment including sawdust-filled crates instead of muskets, diseased mules, substandard uniforms, rotten food, and even the same cavalry horses multiple times. The Act, sometimes called "Lincoln's Law," is enacted after Lincoln realizes pervasive contractor fraud could undermine the entire war effort. One profiteer boasts that "You can sell anything to the government at almost any price if you've got the guts to ask," exemplifying the culture of corruption that costs the Union millions while endangering soldiers' lives. The legislation is groundbreaking because it allows private citizens to act as "private attorney generals" by filing qui tam lawsuits on the government's behalf against those committing fraud—the Latin phrase qui tam derives from "qui tam pro domino rege quam pro se ipso in hac parte sequitur" ("he who brings a case on behalf of our lord the King, as well as for himself"). As incentive, whistleblowers receive up to 50 percent of funds recovered, creating powerful financial motivation to expose fraud. Defendants face both civil and criminal penalties, paying $2,000 for each fraudulent claim plus double the government's actual damages.
 

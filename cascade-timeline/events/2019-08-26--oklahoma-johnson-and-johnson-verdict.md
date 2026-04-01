@@ -36,7 +36,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 On August 26, 2019, Cleveland County District Judge Thad Balkman delivered a landmark $572 million judgment against pharmaceutical giant Johnson & Johnson for the company's role in fueling Oklahoma's opioid epidemic. The decision marked the first time a drugmaker was held culpable in court for the fallout from years of liberal opioid dispensing that began in the late 1990s.
 

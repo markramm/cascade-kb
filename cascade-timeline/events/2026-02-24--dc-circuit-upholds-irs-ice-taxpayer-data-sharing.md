@@ -38,7 +38,6 @@ capture_lanes:
 - Immigration System Capture
 - Financial Capture
 ---
-type: timeline_event
 A three-judge panel of the D.C. Circuit Court of Appeals rejected a preliminary injunction that would have blocked the IRS from sharing taxpayer data with ICE on February 24, 2026. The panel ruled that immigrant-rights nonprofits challenging the arrangement were "unlikely to succeed on the merits" of their claims under Internal Revenue Code Section 6103, the longstanding statute that governs the confidentiality of taxpayer information. The ruling effectively greenlit the continued operation of a data-sharing memorandum of understanding signed by Treasury Secretary Scott Bessent and DHS Secretary Kristi Noem in April 2025.
 
 The MOU allows ICE to submit names and addresses of undocumented immigrants for cross-referencing against IRS tax records. The arrangement creates what critics described as a perverse trap: millions of undocumented immigrants who had voluntarily paid federal taxes using Individual Taxpayer Identification Numbers—doing so specifically to comply with the law and demonstrate good faith—now found that their compliance records were being weaponized against them. The very act of following the law became the mechanism for their identification and potential deportation.

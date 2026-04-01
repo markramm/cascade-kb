@@ -76,6 +76,5 @@ historical_significance: The systematic talking points distribution network repr
   messaging that appeared organic while actually being centrally orchestrated.
 status: confirmed
 ---
-type: timeline_event
 
 The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. Members like Karl Rove strategically leaked information to media outlets like The New York Times, then used those articles as 'independent' confirmation of administration narratives about Iraq.

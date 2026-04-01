@@ -33,7 +33,6 @@ capture_lanes:
 - Immigration System Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 A joint investigation by the Associated Press and the Washington Post published on March 15, 2026, documented a crisis of data integrity at the Department of Homeland Security. Reporters found that DHS had publicly cited three different deportation figures over a span of just three days: 675,000, 622,000, and 700,000. None of these numbers were accompanied by methodology, time period specifications, or consistent definitions of what counted as a "deportation."
 

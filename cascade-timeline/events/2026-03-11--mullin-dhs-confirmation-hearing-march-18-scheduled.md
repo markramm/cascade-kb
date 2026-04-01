@@ -40,7 +40,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 By March 11, 2026, The Hill confirmed that the Senate Homeland Security and Governmental Affairs Committee formally scheduled the confirmation hearing for Sen. Markwayne Mullin (R-OK) as the next DHS Secretary for March 18, 2026. Bloomberg reported on the shaping confrontation between Mullin and committee chair Sen. Rand Paul (R-KY).
 

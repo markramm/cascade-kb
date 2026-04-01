@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The Democratic National Convention convenes in Charleston, South Carolina, with Senator Stephen A. Douglas of Illinois as the front-runner for presidential nomination. Before the convention begins, delegations from seven Deep South states (Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, and Texas) meet in a separate caucus led by Alabama's William Yancey and reach a consensus to "stop Douglas" by demanding a pro-slavery party platform that would force him to either accept positions he opposes or withdraw. When the convention majority refuses to endorse a federal slave code for the territories that would secure slaveholders' rights to enter any territory with their human property, Southern delegates march out. After fifty-seven ballots over ten days, Douglas remains fifty votes short of the required two-thirds majority, and the convention adjourns without selecting a nominee. At a reconvened convention in Baltimore in June, the same Southern delegates walk out again, prompting Northern delegates to reinterpret the two-thirds rule as applying only to delegates present and nominate Douglas. Southern Democrats hold their own convention and nominate Vice President John C. Breckinridge on a pro-slavery platform, creating two Democratic tickets that split the party vote.
 

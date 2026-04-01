@@ -36,7 +36,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 At the World Economic Forum in Davos, President Trump announces he has "formed the framework of a future deal" on Greenland after a meeting with NATO Secretary General Mark Rutte, and declares he will not impose the February 1 tariffs on eight European allies. Trump describes the framework as covering "Greenland and, in fact, the entire Arctic Region" and characterizes it as a "long-term deal" that "puts everybody in a really good position."
 

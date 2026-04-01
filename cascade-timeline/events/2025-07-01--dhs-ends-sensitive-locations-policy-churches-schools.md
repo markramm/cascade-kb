@@ -51,6 +51,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 The Department of Homeland Security ended a long-standing policy that restricted ICE agents' ability to arrest undocumented people at sensitive locations including houses of worship, schools, and hospitals. DHS stated "Criminals will no longer be able to hide in America's schools and churches to avoid arrest," marking a significant escalation in enforcement tactics that breaks with decades of precedent.

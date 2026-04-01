@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 Governor Greg Abbott signed Senate Bill 33 into law on August 20, 2025, banning cities and counties from using public funds or entering contracts to provide "logistical support" for abortions, including travel assistance, lodging, meals, childcare, or counseling when intended to help residents obtain abortion care out of state. The law targets voter-approved programs in Austin and San Antonio designed to help Texans access legal abortion care in other states.
 

@@ -34,7 +34,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Tribal leaders reported that ICE detained multiple Native Americans during Minneapolis enforcement operations without providing names, records, or confirming whereabouts or citizenship status. The Oglala Sioux Tribe raised urgent concerns about members swept up in Operation Metro Surge who effectively disappeared into the immigration detention system despite being U.S. citizens with tribal sovereignty rights.
 
 The incidents highlighted the indiscriminate nature of ICE enforcement operations that targeted people based on appearance rather than immigration status, with Native Americans—who are by definition citizens—caught up in a system designed to find and remove noncitizens. The detention of indigenous people by an immigration agency on their own ancestral lands carried a bitter historical irony, echoing centuries of federal government actions that treated Native Americans as foreigners in their own homeland.

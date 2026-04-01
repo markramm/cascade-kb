@@ -43,7 +43,6 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Conservative activist Paul Weyrich, with Representatives Henry Hyde and others, founds the American Legislative Exchange Council (ALEC) in Chicago—the same year Weyrich co-founds the Heritage Foundation with financial backing from beer magnate Joseph Coors. ALEC is established specifically to coordinate corporate-written model legislation across state legislatures, creating a "pay-to-play" platform where corporations fund the organization and draft bills in their own interest, while state legislators introduce those bills as their own work.
 

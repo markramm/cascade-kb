@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 # Truman Committee Established to Investigate War Profiteering
 

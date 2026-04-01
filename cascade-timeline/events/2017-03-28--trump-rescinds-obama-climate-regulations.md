@@ -34,5 +34,4 @@ capture_lanes:
 - Environmental Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 President Trump signed a sweeping executive order at the EPA that effectively dismantled Obama's climate change policies, targeting the Clean Power Plan and lifting restrictions on carbon emissions. The order represented a significant regulatory rollback, prioritizing fossil fuel industry interests over environmental protections. Trump was accompanied by coal miners and industry executives, symbolizing the administration's commitment to deregulation and supporting traditional energy sectors.

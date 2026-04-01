@@ -38,6 +38,5 @@ sources:
 notes: Where possible, cite sources that reproduce or directly quote the POA document and Wexner's 2019 letter. Avoid speculative numbers beyond those Wexner acknowledged publicly.
 status: confirmed
 ---
-type: timeline_event
 
 A 1991 legal instrument granted Jeffrey Epstein sweeping power of attorney over Leslie Wexner's finances. In August 2019, Wexner stated publicly that Epstein had 'misappropriated vast sums of money' from him, later quantified by Wexner as 'at least $46 million' in statements to the Wexner Foundation.

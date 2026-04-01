@@ -38,6 +38,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Newly appointed CIA Director Porter Goss, accompanied by his 'Gosslings' staff from House Intelligence Committee, begins systematic removal of senior CIA officials who had challenged Bush administration intelligence claims. The purge targeted the Directorate of Operations and included firing Deputy Director John McLaughlin and other senior analysts. Intelligence professionals described it as unprecedented political retaliation that destroyed institutional independence and analytical integrity.

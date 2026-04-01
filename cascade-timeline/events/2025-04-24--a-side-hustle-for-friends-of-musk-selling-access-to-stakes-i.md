@@ -42,6 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Financial Capture
 ---
-type: timeline_event
 
 Antonio Gracias and Valor Equity Partners are selling access to tightly controlled shares in Musk's private companies like SpaceX and xAI. The deal involves a limited partnership holding $250 million in xAI shares and $750 million in SpaceX shares, with a minimum $1 million investment required.

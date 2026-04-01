@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 South Carolina adopts an ordinance of secession on December 20, 1860, becoming the first state to withdraw from the United States following Abraham Lincoln's election. The state's authorities immediately demand that the U.S. Army abandon federal facilities in Charleston Harbor, initiating a constitutional crisis. Six additional Southern states—Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas—follow by February 1, 1861, driven by fears that Lincoln's Republican administration threatens slavery despite his explicit statements that he would not interfere with slavery where it already exists. Delegates from these seven states convene in Montgomery, Alabama, on February 4, 1861, where they draft a provisional constitution and elect Jefferson Davis as provisional president and Alexander Stephens as vice president on February 9. The Confederate Constitution, adopted February 8, closely mirrors the U.S. Constitution but includes explicit protections for slavery and prohibits tariffs designed to protect domestic industry. Davis is inaugurated February 18 in Montgomery. After Fort Sumter's bombardment in April 1861, Virginia, North Carolina, Arkansas, and Tennessee join the Confederacy, bringing total membership to eleven states.
 

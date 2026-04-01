@@ -39,7 +39,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 15, 2026, the Illinois State Bar Association and the New York State Bar Association filed formal opposition to the Department of Justice's proposed rule that would shield government lawyers from state bar disciplinary proceedings. The filings represented the most significant institutional pushback from the legal profession against the Trump administration's effort to insulate its attorneys from independent ethical oversight.
 

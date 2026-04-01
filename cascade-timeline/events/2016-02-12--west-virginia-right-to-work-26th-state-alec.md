@@ -44,7 +44,6 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: timeline_event
 
 The West Virginia Legislature overrides Governor Earl Ray Tomblin's veto of the "Workplace Freedom Act," making West Virginia the 26th state to enact right-to-work legislation prohibiting mandatory union membership or fees. The override follows the coordinated Koch-backed playbook documented by SourceWatch: ALEC provides model legislation, State Policy Network think tanks generate supporting research, and Americans for Prosperity mobilizes "grassroots" pressure campaigns.
 

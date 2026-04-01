@@ -48,7 +48,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 President Jimmy Carter signed the Airline Deregulation Act into law on October 24, 1978, marking the first time in U.S. history that an industry was deregulated and removing federal control over airline fares, routes, and market entry. In 1977, Carter had appointed Cornell economics professor Alfred Kahn to chair the Civil Aeronautics Board (CAB), where Kahn implemented his neoliberal vision that government regulation stifled competition and increased consumer prices. The legislation was pushed by Democrats led by Senator Edward Kennedy, with strong support from Kennedy aide Stephen Breyer (later Supreme Court Justice), in the hope of bringing more affordable air travel to millions of Americans through market competition.

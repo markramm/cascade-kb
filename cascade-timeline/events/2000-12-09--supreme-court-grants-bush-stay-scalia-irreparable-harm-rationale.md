@@ -60,6 +60,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Supreme Court grants George W. Bush's request for an emergency stay to halt the Florida recount, with Justice Antonin Scalia arguing that counting votes would cause Bush "irreparable harm" by casting "a needless and unjustified cloud" over his legitimacy. This reasoning fundamentally inverts democratic principles by treating vote counting as harmful to a candidate rather than essential to democracy. The 5-4 partisan split along ideological lines reveals coordinated conservative judicial activism to install Bush as president. Scalia's rationale that verifying vote counts threatens electoral legitimacy establishes dangerous precedent for judicial intervention in elections. This decision demonstrates systematic judicial capture, where partisan justices prioritize preferred outcomes over democratic processes.

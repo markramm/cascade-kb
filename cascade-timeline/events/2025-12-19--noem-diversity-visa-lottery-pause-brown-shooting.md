@@ -68,7 +68,6 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: timeline_event
 
 On December 19, 2025, Secretary of Homeland Security Kristi Noem announced the immediate suspension of the diversity visa lottery program, linking the decision directly to a mass shooting at Brown University that killed two students and wounded nine others, and a separate killing of an MIT professor. The alleged shooter — Claudio Manuel Neves Valente, a 48-year-old Portuguese national — had been found dead from a self-inflicted gunshot wound in a New Hampshire storage unit on the same day as the suspension announcement. Noem stated that Neves Valente had obtained his green card through the diversity visa lottery in 2017 and declared, "This heinous individual should never have been allowed in our country." Secretary of State Marco Rubio simultaneously announced the State Department would pause diversity visa issuance pending a comprehensive security review. At President Trump's direction, U.S. Citizenship and Immigration Services was ordered to immediately halt the DV1 program.
 

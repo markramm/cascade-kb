@@ -55,6 +55,5 @@ tags:
 - media-control
 title: X prioritizes verified accounts for recommendations and polls
 ---
-type: timeline_event
 
 Elon Musk stated that only verified (paid) accounts would be eligible for 'For You' recommendations and for voting in polls, tying organic reach to paid verification. This represented a fundamental change in Twitter's algorithmic distribution of content, effectively creating a pay-to-play information ecosystem.

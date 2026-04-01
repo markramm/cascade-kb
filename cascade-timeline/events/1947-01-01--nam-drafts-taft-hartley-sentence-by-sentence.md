@@ -44,7 +44,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Legislative aides and representatives from business and industry, particularly members of the National Association of Manufacturers, draft committee bill H.R. 3020 that becomes the Taft-Hartley Act during 1947, with Congressman Donald O'Toole of New York later revealing that the anti-union legislation was prepared "sentence by sentence, paragraph by paragraph, by the National Association of Manufacturers." The NAM's direct role in drafting the legislation represents the culmination of decades of corporate organizing against the 1935 Wagner Act, with the organization working since the late 1930s and 1940s for repeal of the National Labor Relations Act that guaranteed employees the right to organize into trade unions. The 1946 midterm elections leave Republicans in control of Congress for the first time since the early 1930s, with many newly elected congressmen strongly conservative and seeking to overturn or roll back New Deal legislation.
 

@@ -41,7 +41,6 @@ tags:
 - privacy
 title: Ring partners with Flock Safety and Axon, reversing privacy commitments and expanding police surveillance
 ---
-type: timeline_event
 
 Amazon's Ring announced partnerships with both Flock Safety and Axon, marking a dramatic reversal of its January 2024 commitment to limit police access to user footage. The partnerships enable law enforcement agencies to request Ring doorbell camera footage through third-party platforms operated by companies whose surveillance technologies are used by ICE, federal agencies, and police departments nationwide. The timing was particularly notable: the same day as Ring's announcement, 404 Media reported that ICE, the Secret Service, and the Navy already had access to Flock's camera network.
 

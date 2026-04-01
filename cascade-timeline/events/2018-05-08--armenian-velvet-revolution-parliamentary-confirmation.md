@@ -34,5 +34,4 @@ capture_lanes:
 - 'Digital & Tech Capture'
 status: confirmed
 ---
-type: timeline_event
 On May 8, 2018, the Armenian Parliament voted 59-42 to confirm Nikol Pashinyan as Prime Minister, marking the successful conclusion of the Velvet Revolution. The peaceful, grassroots-driven movement removed the ruling Republican Party's kleptocratic leadership through sustained non-violent civil disobedience. Pashinyan's rise represented a significant democratic breakthrough, leveraging digital activism, social media mobilization, and decentralized civic organizing to challenge and ultimately transform the country's political system without a single casualty.

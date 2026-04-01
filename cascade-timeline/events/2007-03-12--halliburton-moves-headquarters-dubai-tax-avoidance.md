@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Halliburton announced on March 12, 2007, that it was relocating its corporate headquarters and CEO David Lesar from Houston, Texas, to Dubai in the United Arab Emirates, citing business opportunities in the Middle East where 38% of its $13 billion in oil field services revenue originated and 16,000 of its 45,000 employees worked. The announcement came just weeks before Halliburton would complete its spin-off of scandal-plagued subsidiary KBR on April 5, 2007, revealing a coordinated corporate strategy to distance Halliburton from Iraq War controversies while repositioning in a jurisdiction with minimal taxation and regulatory oversight. Dubai's friendly tax laws offered substantial financial advantages, with analysts noting the move "could eventually save the firm a fortune in U.S. taxes"—allowing Halliburton to profit from Middle East operations while reducing obligations to the American government that had generated its Iraq War revenues through multi-billion dollar contracts.
 

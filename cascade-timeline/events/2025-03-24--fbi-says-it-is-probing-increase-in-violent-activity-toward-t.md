@@ -48,5 +48,4 @@ tags:
 - tesla
 title: FBI launches task force investigating violent attacks on Tesla
 ---
-type: timeline_event
 The FBI launched a specialized task force to investigate over 80 reported incidents of vandalism, arson, and violent attacks targeting Tesla vehicles, dealerships, and facilities across multiple U.S. states. FBI Director Kash Patel characterized these attacks as 'domestic terrorism' and pledged to pursue and prosecute those responsible.

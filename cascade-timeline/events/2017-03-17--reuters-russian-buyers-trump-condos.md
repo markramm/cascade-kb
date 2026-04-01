@@ -45,7 +45,6 @@ notes: 'Investigation examined seven Trump-branded towers in South Florida. Foun
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Reuters investigation revealed at least 63 Russian nationals invested $98.4 million in
 Trump-branded properties in South Florida, primarily in Sunny Isles Beach. The buyers

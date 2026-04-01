@@ -49,7 +49,6 @@ sources:
 notes: 'Searched 6,809 camera networks across multiple states including where abortion is legal. Initially misrepresented as missing person welfare check.'
 status: confirmed
 ---
-type: timeline_event
 Electronic Frontier Foundation reveals that a Johnson County, Texas sheriff's officer searched data from more than 83,000 automated license plate reader cameras across 6,809 different Flock Safety camera networks to track down a woman suspected of self-managing an abortion. The search spanned multiple states, including Washington and Illinois where abortion access is protected by law. The officer's search query included: "had an abortion, search for female."
 
 Sheriff Adam King initially described the investigation as a welfare check for a woman "believed to be harmed or in danger," claiming they were "just trying to check on her welfare." However, court records obtained by EFF reveal that police actually opened a "death investigation" into the fetus and consulted the District Attorney about criminal charges on the same day they conducted the Flock search—directly contradicting claims that the search was for her medical safety.

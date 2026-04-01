@@ -50,7 +50,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 On September 29, 2006, the Office of the Comptroller of the Currency, Federal Reserve, Federal Deposit Insurance Corporation, Office of Thrift Supervision, and National Credit Union Administration issued final "Interagency Guidance on Nontraditional Mortgage Product Risks," published in the Federal Register on October 4, 2006. The guidance addressed risks from interest-only mortgages and payment-option adjustable-rate mortgages. However, the final rules were significantly weakened from the proposed December 2005 version, and came nearly a year too late to prevent the crisis already underway.
 

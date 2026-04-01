@@ -46,5 +46,4 @@ tags:
 - technological-infrastructure
 title: SpaceX gets FAA permission for fivefold increase in Starship launches from Texas
 ---
-type: timeline_event
 The Federal Aviation Administration granted SpaceX a significant expansion of launch permissions, increasing Starship launch capacity from 5 to 25 annually at the Boca Chica, Texas site. The FAA issued a Finding of No Significant Impact (FONSI) after a Tiered Environmental Assessment, allowing up to 25 launches and 50 landings per year, including nighttime launches and static fire tests.

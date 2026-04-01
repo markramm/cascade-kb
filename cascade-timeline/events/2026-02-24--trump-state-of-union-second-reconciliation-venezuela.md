@@ -37,7 +37,6 @@ capture_lanes:
 - Corporate Capture
 - Military-Industrial Capture
 ---
-type: timeline_event
 President Trump delivered his 2026 State of the Union address on February 24, calling on Congress to pass a second budget reconciliation bill to extend and expand the 2025 tax cuts that were set to expire. The centerpiece of the domestic agenda was a push for permanent extension of individual rate reductions, further corporate tax cuts, and elimination of the estate tax—a package analysts estimated would add trillions to the national debt while disproportionately benefiting the wealthiest Americans. Trump framed the cuts as essential to economic growth, though the promised revenue surge from the first round of cuts had failed to materialize.
 
 The foreign policy portions of the address were notably selective in their focus. Trump celebrated the US military operation that had ousted Nicolas Maduro from power in Venezuela, calling the country "our new friend and partner" with no mention of the more than 100 civilian deaths documented during the intervention. China and North Korea were not mentioned at all—striking omissions given ongoing tensions in both relationships. The Venezuela rhetoric illustrated the administration's tendency to frame regime change as liberation while obscuring its human costs and the corporate interests driving policy.

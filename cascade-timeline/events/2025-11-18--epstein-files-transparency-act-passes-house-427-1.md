@@ -37,7 +37,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 The House of Representatives passes the Epstein Files Transparency Act by a vote of 427-1, forcing the Department of Justice to release all unclassified Jeffrey Epstein files within 30 days. Only Rep. Clay Higgins (R-LA) votes against.
 
 The bill reached the floor through a rare successful discharge petition - only the seventh in 40 years at that point. Rep. Thomas Massie (R-KY) filed the petition on September 2, 2025, despite Trump administration officials calling signing it "a very hostile act."

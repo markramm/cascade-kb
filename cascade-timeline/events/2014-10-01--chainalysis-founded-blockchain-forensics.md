@@ -36,7 +36,6 @@ capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
 ---
-type: timeline_event
 
 Michael Gronager, Jonathan Levin, and Jan Møller found Chainalysis in late 2014, creating the first startup dedicated to Bitcoin tracing for government agencies and financial institutions. The company emerges from Gronager's work investigating the Mt. Gox cryptocurrency exchange collapse, where he realizes that digital forensics tools could help governments track illicit cash flows and enable banks to comply with know-your-customer regulations.
 

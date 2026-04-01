@@ -35,7 +35,6 @@ capture_lanes:
 - Media Capture & Control
 - Environmental Capture
 ---
-type: timeline_event
 
 The Michigan Department of Health and Human Services (MDHHS) reviews data from Hurley Medical Center and finally verifies what residents have been saying for 18 months: Flint's water is poisoning children with lead. The state begins testing drinking water in schools and distributing free water filters—actions that should have been taken immediately after residents first complained in April 2014.
 

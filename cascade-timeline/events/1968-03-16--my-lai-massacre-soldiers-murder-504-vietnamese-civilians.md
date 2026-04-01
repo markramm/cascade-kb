@@ -37,7 +37,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: timeline_event
 
 U.S. Army soldiers from Charlie Company, 1st Battalion, 20th Infantry Regiment massacre between 347 and 504 unarmed South Vietnamese civilians—mostly women, children, elderly men, and infants—in the village of My Lai during a search-and-destroy mission. Led by Lieutenant William Calley, approximately 100 soldiers enter the village expecting to encounter Viet Cong forces but face no resistance. Instead of conducting a legitimate military operation, the soldiers systematically murder civilians using automatic weapons, grenades, and bayonets, and commit widespread rape and torture.
 

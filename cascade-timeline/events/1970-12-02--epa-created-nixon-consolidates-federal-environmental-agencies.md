@@ -47,7 +47,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 On December 2, 1970, the Environmental Protection Agency began operations after President Richard Nixon's Reorganization Plan No. 3 consolidated environmental programs scattered across fifteen federal agencies. The creation of EPA represented the first comprehensive federal approach to environmental protection, unifying air and water pollution control, radiation standards, pesticide regulation, and solid waste management under a single independent agency.

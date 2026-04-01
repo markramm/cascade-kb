@@ -35,6 +35,5 @@ capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
 ---
-type: timeline_event
 
 Jack Abramoff orchestrated a complex lobbying scheme involving the Tigua tribe's Speaking Rock Casino, first helping to lobby for its closure through Texas legislation, and then charging the tribe $4.2 million to allegedly reopen the casino. The case exemplifies Abramoff's fraudulent 'both sides' strategy, where he simultaneously worked to harm and then supposedly help the same tribal client, ultimately collecting millions while providing no meaningful resolution.

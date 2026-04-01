@@ -69,6 +69,5 @@ legal_context:
   initial_charges: Market manipulation and fraud (2023)
   political_connections: Attended Trump crypto dinner, May 2025
 ---
-type: timeline_event
 
 Chinese-born crypto billionaire Justin Sun invested $75 million in World Liberty Financial (WLF) through staged investments, simultaneously facing SEC fraud investigations. The investment coincided with the SEC pausing legal proceedings against Sun, raising questions about potential political influence and quid pro quo arrangements.

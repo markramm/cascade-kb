@@ -60,7 +60,6 @@ connections:
 - Advertising on harmful content
 notes: One of most disturbing examples of algorithmic harm. YouTube's recommendation system actively clustered content attractive to predators and monetized child exploitation for years before Matt Watson's viral exposure forced action.
 ---
-type: timeline_event
 
 On February 17, 2019, YouTuber Matt Watson published a viral investigation exposing how YouTube's recommendation algorithm facilitated what he called a "wormhole into a soft-core pedophile ring"—systematically clustering videos of minors and serving them to predators while monetizing the exploitation through major brand advertising.
 

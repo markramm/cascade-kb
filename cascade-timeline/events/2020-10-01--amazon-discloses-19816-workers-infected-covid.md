@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 # Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment
 

@@ -36,7 +36,6 @@ capture_lanes:
 - Military-Industrial Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 On March 21, 2026, Deputy Secretary of Defense Steve Feinberg signed a memorandum designating Palantir's Maven Smart System as an official Department of Defense "program of record" — a bureaucratic milestone that locked in long-term stable funding and institutional permanence for what had become the Pentagon's primary AI-powered intelligence and targeting platform. The designation transferred primary oversight responsibility from the National Geospatial-Intelligence Agency (NGA) to the Chief Digital and Artificial Intelligence Office (CDAO), consolidating control over the program within the office that had been most aggressive in pursuing the Anthropic blacklist. Palantir's stock surged on the news.
 

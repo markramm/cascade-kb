@@ -48,6 +48,5 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-type: timeline_event
 
 Final Church Committee report reveals extensive details about Project MKULTRA, documenting systematic psychological manipulation techniques developed by CIA during Cold War. The investigation exposed how intelligence agencies conducted unethical human experimentation, including drug-based mind control research, raising critical questions about government ethics and institutional accountability.

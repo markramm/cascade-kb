@@ -93,7 +93,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Richard Mellon Scaife, the billionaire heir to the Mellon banking and aluminum fortune, died on July 4, 2014, one day after his 82nd birthday, following a battle with cancer. Known as "the funding father of the right" by The Washington Post, Scaife directed an estimated $620 million specifically toward conservative causes over his lifetime, making him the most important private financier of the modern conservative movement. Reagan Attorney General Edwin Meese III described Scaife as "the unseen hand" of the conservative movement — a characterization reflecting his deliberate avoidance of publicity while systematically funding institutions that reshaped American governance.
 

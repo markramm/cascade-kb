@@ -36,7 +36,6 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 American Bitcoin, a cryptocurrency mining venture with significant involvement from Donald Trump Jr. and Eric Trump, reported a $59 million loss as its stock price collapsed approximately 90 percent from peak valuations reached earlier in the year. The company had been formed through a merger with Hut 8, a Canadian-listed mining firm, and had been marketed heavily on the strength of the Trump family brand and the implicit promise that the Trump administration's pro-crypto regulatory stance would create favorable conditions for the business.
 
 The collapse exposed the speculative dynamics underlying Trump-branded cryptocurrency ventures. Retail investors had poured money into American Bitcoin stock based on the assumption that political connections would translate into business advantages—regulatory relief, government contracts, or simply the marketing power of the presidential brand. When the company's actual mining operations proved unprofitable amid volatile bitcoin prices and rising energy costs, the gap between the political hype and business fundamentals became impossible to ignore. The $59 million loss represented real money extracted from investors who had bet on political access rather than operational performance.

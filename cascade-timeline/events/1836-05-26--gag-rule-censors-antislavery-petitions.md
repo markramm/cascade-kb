@@ -53,7 +53,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 
 The House of Representatives passes the Pinckney Resolutions, authored by Henry L. Pinckney of South Carolina, establishing what becomes known as the "gag rule"—a resolution automatically "tabling" all antislavery petitions, prohibiting them from being printed, read, discussed, or voted on. The rule responds to an unprecedented influx of antislavery petitions beginning in 1835, orchestrated by the newly formed American Anti-Slavery Society, with over 130,000 petitions arriving during the 24th Congress alone representing the voices of hundreds of thousands of Americans. Pro-slavery politicians who control Congress implement the gag rule to prevent any discussion of slavery, demonstrating the Slave Power's institutional capture of the legislative branch and its willingness to suspend constitutional rights—specifically the First Amendment right to petition government—to protect the institution of slavery from even rhetorical challenge.

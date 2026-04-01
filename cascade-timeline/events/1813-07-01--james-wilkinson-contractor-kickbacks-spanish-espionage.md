@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 General James Wilkinson, the highest-ranking federal official ever tried for treason and espionage, commands two unsuccessful military invasion campaigns in the St. Lawrence River valley theater in Canada during the War of 1812 while simultaneously accepting kickbacks from contractors and receiving payments as a Spanish spy. As commanding general of the U.S. Army, Wilkinson betrays virtually everyone he works with to advance his career and finances, demonstrating how military leadership positions enable systematic corruption and foreign espionage with minimal accountability. His contractor kickback scheme involves accepting bribes to favor certain suppliers while actively sabotaging competing contractors, including urging contractors not to perform in hopes that rival commanders' campaigns would fail and he would be appointed to replace them.
 

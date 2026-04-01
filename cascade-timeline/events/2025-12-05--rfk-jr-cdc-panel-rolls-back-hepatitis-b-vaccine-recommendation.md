@@ -49,7 +49,6 @@ capture_lanes:
 - Environmental Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 # RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation
 

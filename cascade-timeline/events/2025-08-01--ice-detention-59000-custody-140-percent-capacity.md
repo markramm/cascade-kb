@@ -48,6 +48,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 ICE detention facilities hold approximately 59,000 immigrants, exceeding capacity by 140%. Over 70% of detainees have no criminal record, and 93% have never been convicted of a violent crime, contradicting Trump's repeated claims of targeting violent criminals. The overcrowding has led to deteriorating conditions and humanitarian concerns. Multiple sources, including NPR, ACLU, and the American Immigration Council, report record-high detention levels fueled by a $45 billion federal budget allocation, with civil rights oversight positions being simultaneously cut.

@@ -33,6 +33,5 @@ capture_lanes:
 - Military-Industrial Complex
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Anduril Industries closed an oversubscribed $2.5 billion funding round at a $30.5 billion valuation, more than doubling its previous $14 billion valuation from 2024. Peter Thiel's Founders Fund led the round with a $1 billion investment—the fund's largest single check ever—demonstrating extraordinary venture capital concentration in autonomous weapons development. Existing investors including Andreessen Horowitz, General Catalyst, Lux Capital, and Altimeter participated in the eight-times oversubscribed round. Anduril reported revenue nearly doubled to $1 billion in 2024, with $1.5 billion in total contract value secured. The company plans to use the capital for mergers and acquisitions, scaling its Arsenal-1 weapons manufacturing facility, hiring across U.S., Australia and Europe, and new product launches. At $30.5 billion, Anduril's valuation approaches century-old defense contractors, positioning an eight-year-old Silicon Valley startup as a peer to the traditional military-industrial complex. The round epitomizes venture capital's bet that AI-powered autonomous weapons represent a multi-hundred-billion dollar market.

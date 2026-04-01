@@ -44,7 +44,6 @@ notes: 'Nearly one executive order per day pace. Multiple analyses confirm two-t
 status: confirmed
 validation_status: validated
 ---
-type: timeline_event
 By August 7, 2025, President Trump had signed 202 executive orders, with independent analyses confirming that approximately two-thirds mirror the Heritage Foundation's Project 2025 proposals - an agenda Trump previously disavowed during his campaign. Key domains include civil rights dismantling, gender policy reversion, energy deregulation, and border security militarization.
 
 Key Policy Domains:

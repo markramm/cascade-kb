@@ -31,6 +31,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 The Justice Department indicted New York Attorney General Letitia James on one count of bank fraud and one count of making false statements to a financial institution, alleging she misled a bank by stating a Norfolk, Virginia property would be a second home rather than an investment property, saving $18,933 over 30 years. The indictment was advanced by Trump appointee Lindsey Halligan after career prosecutors declined, citing weak evidence. James previously pursued Trump fraud cases, making this a clear retaliatory prosecution. Legal experts questioned the indictment's merits, noting James' grandniece and three children live at the property, James stays there during the year, and she never received rental payments. This represents systematic weaponization of mortgage fraud charges to target Trump's political adversaries.

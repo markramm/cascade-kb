@@ -46,6 +46,5 @@ sources:
 notes: Trump toured facility July 1. Environmental groups filed suit for violating federal environmental review requirements. Sen. Carlos Guillermo Smith calculated the $90,000+ per person annual cost. Facility evacuated after less than two months of operation.
 status: confirmed
 ---
-type: timeline_event
 
 Florida opened a 3,000-5,000 person tent detention facility dubbed "Alligator Alcatraz" in the Everglades wetlands, costing $450 million annually—three times the cost of existing facilities. Attorney General James Uthmeier boasted detainees who escape would face "alligators and pythons." Built on Dade-Collier Airport runway without environmental review during hurricane season, the facility housed migrants in tents in extreme heat. By August 28, state officials evacuated all detainees after mounting legal challenges and safety concerns. The cost exceeded $90,000 per person annually.

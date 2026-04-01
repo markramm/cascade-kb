@@ -45,7 +45,6 @@ sources:
   tier: 2
   verified: true
 ---
-type: timeline_event
 
 The Bush administration's Environmental Protection Agency and Army Corps of Engineers jointly revise Clean Water Act regulations to classify mining debris and waste rock as "fill material" that can legally be dumped into streams and valleys. The rule change enables the coal industry's mountaintop removal mining technique to accelerate dramatically by providing regulatory cover for burying headwater streams under millions of tons of mining spoil—a practice environmental groups argue constitutes flagrant Clean Water Act violations.
 

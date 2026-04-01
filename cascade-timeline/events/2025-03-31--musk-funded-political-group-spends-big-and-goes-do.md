@@ -46,7 +46,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 Elon Musk's America PAC spent over $4.3 million on door-to-door canvassing and political outreach in the April 1, 2025, Wisconsin Supreme Court race, backing conservative candidate Brad Schimel against liberal incumbent Susan Crawford. The Wisconsin Supreme Court race was one of the highest-profile state judicial elections in American history, driven by its implications for abortion rights, redistricting cases, and the court's ideological balance. Musk personally traveled to Wisconsin, attended events, and used his X platform to amplify the effort, framing the race as a battle between "common sense" and "radical liberal judges."
 
 Wisconsin Attorney General Josh Kaul sought to block Musk's plans to distribute million-dollar cash payments to registered voters in the state as part of America PAC's canvassing operation, arguing the payments constituted illegal vote buying. Despite the legal challenge and Musk's massive financial commitment — total spending associated with him and affiliated groups reached approximately $21 million — liberal candidate Susan Crawford won the April 1 election by a comfortable margin. Newsweek reported that Musk had "wasted $21M on Wisconsin Supreme Court election failure," with Crawford's win maintaining the liberal majority on the court.

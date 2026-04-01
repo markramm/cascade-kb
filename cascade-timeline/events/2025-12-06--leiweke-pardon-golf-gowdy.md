@@ -40,7 +40,6 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: timeline_event
 
 # Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy
 

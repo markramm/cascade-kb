@@ -48,7 +48,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 President Trump issued a full pardon to HDR Global Trading Limited, the parent company of cryptocurrency exchange BitMEX, which had pleaded guilty in 2022 to violating the Bank Secrecy Act by failing to implement anti-money laundering programs, allowing criminals to use the platform. The company had been fined $100 million as part of its guilty plea. Trump also simultaneously pardoned BitMEX's four individual co-founders and a senior employee, who had separately pleaded guilty or been convicted of related charges. The Intercept noted this was "unprecedented" — no previous president had issued a formal pardon to a corporation.
 
 The constitutional authority for pardoning corporations was itself contested. The pardon power under Article II applies to "offenses against the United States," and legal scholars debated whether it extended to corporate entities that had pleaded guilty in federal court. The episode highlighted the Trump administration's sweeping approach to pardoning cryptocurrency industry figures as part of its broader crypto-friendly regulatory posture. The administration had already pardoned the founders of the Silk Road dark web marketplace and others convicted of cryptocurrency-related crimes, signaling that crypto industry actors who had committed federal offenses could seek presidential clemency as part of the administration's ideological alignment with the industry.

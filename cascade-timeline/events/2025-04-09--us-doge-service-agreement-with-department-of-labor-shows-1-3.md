@@ -43,6 +43,5 @@ capture_lanes:
 - Democratic Erosion
 notes: Detailed service agreement reveals complex financial arrangements between DOGE and Department of Labor, highlighting potential conflicts of interest and discrepancies in cost claims.
 ---
-type: timeline_event
 
 A leaked service agreement between the Department of Labor and the Department of Government Efficiency (DOGE) shows a $1.3 million fee for DOGE's work, contradicting Elon Musk's previous claims that DOGE would cost taxpayers nothing. The agreement covers four DOGE affiliates over an 18-month period, with an implied annual salary of approximately $217,000 per staff member.

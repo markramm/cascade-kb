@@ -39,7 +39,6 @@ capture_lanes:
 - Immigration System Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 By March 2026, ICE's 287(g) program — which deputizes local law enforcement to perform federal immigration enforcement functions — had expanded to 1,547 agreements spanning 39 states. An ACLU analysis found that 77.2 million Americans, roughly 32 percent of the U.S. population, now lived in a county where local police had formal authority to act as immigration agents. The scale of the expansion was unprecedented: at the start of the Trump administration's second term, the program had included fewer than 300 agreements.
 

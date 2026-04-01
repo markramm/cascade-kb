@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Federal Reserve Board issues a public warning that banks should not make loans for stock market speculation, expressing concern about the use of Federal Reserve credit to finance the securities boom. The announcement signals regulatory awareness that margin lending and speculative excess pose systemic risks. Yet the Fed takes no effective action to curtail speculation, torn between raising interest rates (which would harm legitimate business) and direct intervention in securities lending (which the financial industry opposes). The warning proves hollow as speculation accelerates through 1929.
 

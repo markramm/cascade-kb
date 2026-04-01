@@ -54,6 +54,5 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 DOGE operative Chris Young worked to undermine the CFPB, which has jurisdiction over Tesla and X, while simultaneously earning between $100,001 and $1 million annually as a political adviser to Elon Musk, raising significant conflict of interest concerns

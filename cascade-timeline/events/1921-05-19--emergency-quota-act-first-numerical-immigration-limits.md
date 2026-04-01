@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 President Warren G. Harding signs the Emergency Quota Act (also called the Emergency Immigration Act or Johnson Quota Act), establishing for the first time numerical limits on immigration to the United States based on national origin. The law restricts annual immigration from any country to 3% of the number of foreign-born persons from that country living in the United States according to the 1910 census, capping total immigration at approximately 357,000 per year. The legislation specifically targets Southern and Eastern European immigrants, whom nativist groups characterized as racially inferior, politically radical, and economically threatening to American workers.
 

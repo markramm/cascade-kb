@@ -40,5 +40,4 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 Sean "Diddy" Combs joins Uptown Records as an intern and rapidly rises to executive position under Andre Harrell's mentorship. This marks the beginning of Combs' unprecedented ascent in the music industry, which investigators later compare to Epstein's unexplained rise in finance. Harrell, who had connections to Russell Simmons and the broader entertainment establishment, provided Combs with unusual access and opportunities for someone his age.

@@ -46,6 +46,5 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: timeline_event
 
 Eric Trump and Donald Trump Jr. launched New America Acquisition I Corp, a $300 million SPAC targeting US manufacturing companies. The blank-check firm aims to acquire businesses with an enterprise value of at least $700 million, focusing on revitalizing domestic manufacturing and strengthening critical supply chains. Led by CEO Kevin McGurn, the SPAC represents a strategic move to capitalize on Trump's protectionist economic policies.

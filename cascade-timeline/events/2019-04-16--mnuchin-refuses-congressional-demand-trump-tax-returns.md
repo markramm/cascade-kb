@@ -40,5 +40,4 @@ tags:
 - oversight-resistance
 title: Treasury Secretary Mnuchin Refuses Congressional Demand for Trump Tax Returns
 ---
-type: timeline_event
 Treasury Secretary Steven Mnuchin defied a congressional request by House Ways and Means Committee Chairman Richard Neal, refusing to provide six years of President Trump's tax returns. Mnuchin claimed the request 'lacks a legitimate legislative purpose', marking an unprecedented moment where the Treasury Department failed to comply with a standard congressional information request. This action represented a systematic effort to obstruct congressional oversight and protect presidential financial information from public and legislative scrutiny.

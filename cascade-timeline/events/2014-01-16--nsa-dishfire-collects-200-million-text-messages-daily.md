@@ -36,7 +36,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Guardian, citing documents leaked by Edward Snowden, revealed that the National Security Agency was collecting almost 200 million text messages per day from around the world through a program codenamed DISHFIRE. According to the leaked documents from 2011, the program collected "pretty much everything it can" from global SMS traffic, storing the messages for later analysis regardless of whether the senders or recipients were intelligence targets.
 

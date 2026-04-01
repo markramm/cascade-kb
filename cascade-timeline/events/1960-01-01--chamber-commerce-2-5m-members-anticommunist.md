@@ -35,7 +35,6 @@ sources:
   tier: 2
   date: '2024-01-01'
 ---
-type: timeline_event
 
 At the dawn of the 1960s, the U.S. Chamber of Commerce membership has grown to over 2.5 million dues-paying members, unified behind the organization's aggressive support of capitalism and anti-communist mobilization in the face of what it characterizes as domestic and foreign threats. The Chamber spends much of the late 1950s training 150,000 businessmen to serve as what one account describes as "a cadre of pro-business, anticommunist militants" deployed "to make sure capitalism won the 1960 elections," demonstrating systematic political mobilization of the business community years before the Powell Memo supposedly awakened corporate political consciousness.
 

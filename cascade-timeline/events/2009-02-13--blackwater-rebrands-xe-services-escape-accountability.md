@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Blackwater Worldwide officially changed its name to Xe Services LLC in a strategic rebranding effort to distance the company from its toxic reputation following the 2007 Nisour Square massacre, congressional investigations documenting 195 shooting incidents in Iraq, and widespread accusations of war crimes and contractor impunity. The name change represented a systematic attempt to escape accountability through corporate identity transformation while maintaining the same ownership, leadership, and operational practices.
 

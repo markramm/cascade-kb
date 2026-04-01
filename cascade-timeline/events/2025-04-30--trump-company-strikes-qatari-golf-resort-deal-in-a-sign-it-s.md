@@ -50,5 +50,4 @@ capture_type: monetizing_position
 notes: 'Controversial deal involving government-linked entities during active presidency, raising significant ethical and policy conflict concerns.'
 status: confirmed
 ---
-type: timeline_event
 The Trump Organization signed a massive $5.5 billion golf resort deal with Qatari Diar and Dar Global, developing an 18-hole golf course and luxury villas in the Simaisma community north of Doha, Qatar. The project raises significant conflict of interest concerns, as it involves a government-owned developer during Trump's second presidential term.

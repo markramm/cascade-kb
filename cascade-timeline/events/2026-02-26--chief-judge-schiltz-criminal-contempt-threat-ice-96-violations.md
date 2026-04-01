@@ -44,7 +44,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Chief U.S. District Judge Patrick Schiltz issued the strongest judicial rebuke yet of ICE conduct on February 26, 2026, explicitly threatening criminal contempt proceedings against ICE officials who continued to defy court orders. In a written order, Schiltz stated unequivocally: "This court will continue to do whatever is required to protect the rule of law, including, if necessary, moving to the use of criminal contempt. One way or another, ICE will comply with this court's orders." Criminal contempt, unlike civil contempt, carries the possibility of arrest and imprisonment of the individuals found in violation.
 
 The chief judge documented that ICE had violated at least 96 court orders in the District of Minnesota in January 2026 alone—a figure that exceeded the total lifetime violations accumulated by some entire federal agencies. Schiltz called it "beyond the pale" that the Trump administration had surged 3,000 officers into Minnesota to conduct the largest domestic enforcement operation in DHS history without the Department of Justice being prepared to handle the legal challenges that would inevitably arise. The lack of DOJ preparedness, he suggested, reflected either incompetence or deliberate indifference to the rule of law.

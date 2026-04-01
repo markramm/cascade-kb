@@ -38,7 +38,6 @@ capture_lanes:
 - Legislative Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President George H.W. Bush issues sweeping pardons to six Iran-Contra defendants on Christmas Eve, twelve days before former Defense Secretary Caspar Weinberger's trial was scheduled to begin. The pardons cover Weinberger, former National Security Adviser Robert McFarlane, former Assistant Secretary of State Elliott Abrams, former CIA Central American Task Force Chief Alan Fiers Jr., former CIA Deputy Director for Operations Clair George, and former CIA Counter-Terrorism Chief Duane Clarridge.
 

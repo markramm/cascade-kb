@@ -34,7 +34,6 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: timeline_event
 
 President George W. Bush signed the Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006, extending Section 5 preclearance requirements for 25 years with overwhelming bipartisan support. The House passed the bill 390-33 and the Senate 98-0, demonstrating that the VRA retained broad political legitimacy even as conservative legal activists prepared the judicial assault that would gut it seven years later.
 

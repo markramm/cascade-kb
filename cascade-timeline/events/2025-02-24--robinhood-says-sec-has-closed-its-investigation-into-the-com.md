@@ -45,6 +45,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The SEC closed its investigation into Robinhood's crypto division on February 24, 2025, without taking any enforcement action. Robinhood Chief Legal Officer Dan Gallagher claimed the investigation 'never should have been opened,' marking a significant moment in the Trump administration's approach to cryptocurrency regulation.

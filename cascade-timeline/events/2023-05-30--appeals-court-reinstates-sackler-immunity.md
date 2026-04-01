@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 ---
-type: timeline_event
 
 On May 30, 2023, the United States Court of Appeals for the Second Circuit reversed U.S. District Judge Colleen McMahon's December 2021 ruling, holding that bankruptcy courts do have authority to approve non-consensual third-party releases. The divided 2-1 decision reinstated the Purdue Pharma bankruptcy plan granting the Sackler family immunity from opioid-related lawsuits, clearing the path for the controversial settlement to proceed.
 

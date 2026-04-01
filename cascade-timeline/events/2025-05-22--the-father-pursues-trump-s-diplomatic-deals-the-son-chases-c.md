@@ -54,5 +54,4 @@ capture_lanes:
 - Intelligence Penetration
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 World Liberty Financial, co-founded by Zach Witkoff, launched USD1 stablecoin and secured a $2 billion investment from MGX, an Abu Dhabi state-backed firm, utilizing diplomatic connections of Steve Witkoff and the Trump family. The deal raised significant ethical concerns, with U.S. Senators Warren and Merkley initiating a congressional investigation into potential conflicts of interest and constitutional violations.

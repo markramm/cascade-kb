@@ -35,7 +35,6 @@ capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 Ukraine's defense ministry began using Clearview AI's facial recognition technology in early March 2022, just weeks after Russia's invasion, after CEO Hoan Ton-That offered free access to the company's database of over 10 billion photos. Ton-That first demonstrated the tool to Ukrainian defense officials via Zoom in early March, followed by a training session for 85 National Police members. The deployment gave Ukraine access to more than 2 billion images from Russian social media service VKontakte, which Clearview had scraped without authorization.
 

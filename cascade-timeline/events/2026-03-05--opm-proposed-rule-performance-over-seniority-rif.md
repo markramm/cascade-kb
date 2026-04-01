@@ -39,7 +39,6 @@ capture_lanes:
 - Labor Suppression
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 5, 2026, the Office of Personnel Management published a proposed rule in the Federal Register that would make performance ratings — specifically the three most recent annual appraisals — the primary factor in determining which federal employees are retained during reductions in force, replacing the long-standing system that prioritized tenure and seniority. The rule opened a public comment period running through May 4.
 

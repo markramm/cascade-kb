@@ -43,7 +43,6 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 
 Manhattan District Attorney Alvin Bragg announced a historic grand jury indictment of former President Donald Trump on 34 felony counts of falsifying business records in the first degree. The charges related to a scheme to suppress damaging information about Trump during the 2016 presidential campaign, specifically payments made to adult film actress Stormy Daniels through Trump's lawyer Michael Cohen.
 

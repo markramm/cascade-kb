@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On January 10, 1917, Alice Paul and the National Woman's Party (NWP) became the first people ever to picket the White House, initiating an 18-month campaign of nonviolent protest that would eventually involve over 2,000 women. The "Silent Sentinels," as they became known, stood quietly at the White House gates six days per week regardless of weather, holding banners that read "Mr. President How Long Must Women Wait for their Liberty?" and "Mr. President What Will you do for Woman Suffrage?" Dressed in hues of purple and gold, they maintained their vigil without speaking or interacting with passersby, using silence as a powerful protest tactic. The picketing represented a strategic escalation by the more militant wing of the suffrage movement, frustrated after decades of continued opposition to a federal women's suffrage amendment. Paul's tactics reflected lessons learned from British suffragettes and marked a departure from the more conservative approach of the larger National American Woman Suffrage Association.
 

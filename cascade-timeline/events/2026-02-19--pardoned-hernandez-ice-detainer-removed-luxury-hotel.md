@@ -36,7 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Immigration System Capture
 ---
-type: timeline_event
 Pardoned Honduran ex-president Juan Orlando Hernández, who had been convicted of drug trafficking charges in U.S. federal court, received special treatment including ICE detainer removal and a taxpayer-funded transfer to a luxury hotel. Hernández had been convicted of facilitating the shipment of tons of cocaine to the United States, making his pardon and VIP treatment a stark illustration of the two-tier justice system under Trump.
 
 Ordinary immigrants face mass detention and deportation while a convicted drug trafficker who was a useful political ally receives presidential clemency and luxury accommodations. The contrast between Hernández's treatment and that of asylum seekers detained in overcrowded facilities underscored how the administration's immigration enforcement apparatus serves political rather than public safety objectives, extending leniency to powerful allies while imposing maximum harshness on vulnerable populations.

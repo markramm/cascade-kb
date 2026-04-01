@@ -48,5 +48,4 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 On February 19, 2009, CNBC reporter Rick Santelli delivered his infamous 'Rant Heard Round the World' from the Chicago Mercantile Exchange, criticizing Obama's mortgage bailout plan and calling for a 'Chicago Tea Party.' Within hours, Koch network organizations like Americans for Prosperity and FreedomWorks launched coordinated digital infrastructure. Domain names were rapidly registered (TaxDayTeaParty.com, ChicagoTeaParty.com), and social media platforms were activated. By February 20th, a Facebook page was created, and the next day, 50 national conservative leaders formalized the national Tea Party movement. This meticulously orchestrated response revealed the sophisticated pre-existing organizational infrastructure of the Koch network, transforming what appeared to be a spontaneous grassroots uprising into a carefully managed political movement.

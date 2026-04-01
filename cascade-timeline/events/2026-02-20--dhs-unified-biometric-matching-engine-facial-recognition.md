@@ -36,7 +36,6 @@ capture_lanes:
 - Immigration System Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 DHS announced plans for a unified "matching engine" merging facial recognition and fingerprint databases across multiple agencies into a single searchable system. The combined biometric database would enable any DHS component to instantly cross-reference faces and fingerprints against records from immigration enforcement, border crossings, and other government interactions. Privacy advocates warned the system creates a mass surveillance infrastructure that could be used to track not just immigrants but any person whose biometric data has been collected by the government, including U.S. citizens who have traveled internationally or applied for government benefits.
 
 The consolidation of biometric databases represents a qualitative leap in surveillance capability. Previously siloed databases limited the scope of any single search; a unified engine means a fingerprint collected during a routine border crossing can be instantly matched against facial recognition data from immigration proceedings, law enforcement encounters, and other government touchpoints. The result is a comprehensive biometric profile accessible to every enforcement agency within DHS.

@@ -45,7 +45,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Cardinal Robert Francis Prevost of Chicago was elected the 267th Pope of the Catholic Church on May 8, 2025, taking the name Leo XIV and becoming the first American pontiff in the Church's 2,000-year history. The 69-year-old Augustinian missionary was elected on the fourth ballot by 133 cardinal electors during a papal conclave held just 17 days after the death of Pope Francis. Prevost had been serving as Prefect of the Dicastery for Bishops, one of the most influential positions in the Vatican, overseeing the selection of bishops worldwide.
 

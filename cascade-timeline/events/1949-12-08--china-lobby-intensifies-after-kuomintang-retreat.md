@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Chinese Nationalist government relocates its capital to Taiwan on December 8, 1949, after Communist forces complete their victory in the Chinese Civil War, intensifying the "China Lobby's" campaign to shape U.S. foreign policy in support of Chiang Kai-shek's regime. The China Lobby refers to a coalition of American politicians, journalists, missionaries, and business interests who actively seek to influence U.S. policy on behalf of the Nationalist Republic of China (ROC) and in opposition to Communist China, funded by the Kuomintang through T.V. Soong, one of the world's wealthiest individuals and Chiang Kai-shek's brother-in-law.
 

@@ -47,7 +47,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 President Bill Clinton signs the U.S.-China Relations Act of 2000, granting China Permanent Normal Trade Relations (PNTR) status and ending the annual congressional review process that had existed since 1980 under Jackson-Vanik provisions. The House passed the legislation on May 24, 2000 and the Senate approved it 83-15 on September 19, 2000, following a massive corporate lobbying campaign.
 

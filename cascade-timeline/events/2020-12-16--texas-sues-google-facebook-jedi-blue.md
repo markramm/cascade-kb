@@ -60,7 +60,6 @@ connections:
 - Header bidding competition
 notes: Code-named after Star Wars "Jedi" characters. Revealed CEO-level coordination between monopolists to eliminate competition. One of clearest examples of illegal market allocation and coordinated monopoly maintenance.
 ---
-type: timeline_event
 
 On December 16, 2020, Texas Attorney General Ken Paxton filed an antitrust lawsuit against Google joined by nine other states, exposing secret agreements between Google and Facebook—including the "Jedi Blue" deal—to eliminate competition in digital advertising and maintain Google's ad exchange monopoly. The complaint revealed CEO-level coordination between the two tech giants to suppress emerging competitive threats.
 

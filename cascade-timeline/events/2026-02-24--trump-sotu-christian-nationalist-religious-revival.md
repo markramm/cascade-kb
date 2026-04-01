@@ -42,7 +42,6 @@ capture_lanes:
 - Church-State Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 In his February 24, 2026 State of the Union address — the longest in recorded history at nearly two hours — President Trump delivered a series of statements framing the United States as a divinely chosen nation undergoing a Christian religious revival, using language that religious studies experts characterized as distinctly different from the generic civil religion of previous presidents.
 

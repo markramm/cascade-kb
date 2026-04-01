@@ -31,7 +31,6 @@ capture_lanes:
 - Intelligence Penetration
 - Labor Suppression
 ---
-type: timeline_event
 
 Conservative political commentator Lauren Chen (known online as "Roaming Millennial") and her husband Liam Donovan officially incorporated Tenet Media as a Tennessee corporation on January 19, 2022. The company would later become the vehicle for a Russian influence operation funneling nearly $10 million from RT (Russia Today) to American right-wing influencers.
 

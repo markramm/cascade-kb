@@ -35,6 +35,5 @@ sources:
   tier: 2
 notes: This quote would later become politically damaging when Trump attempted to distance himself from Epstein.
 ---
-type: timeline_event
 
 Donald Trump's 2002 comment to New York Magazine calling Jeffrey Epstein a "terrific guy" who likes women "on the younger side" becomes key evidence of their relationship and Trump's awareness of Epstein's preferences.

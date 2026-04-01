@@ -44,5 +44,4 @@ sources:
 notes: 'DOJ cites ongoing investigations to block releases despite Epstein dead since 2019. Bondi claims "client list" exists but investigators confirm no such list found. Pattern of protecting intelligence operation continues. Cover-up spans multiple administrations.'
 status: confirmed
 ---
-type: timeline_event
 Department of Justice blocks release of Epstein investigation files while incoming AG Pam Bondi falsely claims there's a "client list" being hidden, continuing years-long cover-up of intelligence operation

@@ -41,5 +41,4 @@ tags:
 - national-security
 title: 'How Elon Musk''s SpaceX Secretly Allows Investment From China'
 ---
-type: timeline_event
 SpaceX executives allowed Chinese investment through Cayman Islands shell companies, raising significant national security concerns about foreign ownership in a critical U.S. military contractor. Investor testimony revealed direct Chinese stakes in SpaceX, with a potential $50 million investment canceled after public disclosure.

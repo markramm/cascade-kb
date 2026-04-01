@@ -48,5 +48,4 @@ sources:
 notes: 'Bondi initially ordered DC to accept DEA boss Terry Cole as "emergency police commissioner" with full control, requiring MPD approval for all directives. Federal Judge Ana Reyes threatened restraining order, forcing DOJ to negotiate. Cole now serves as Bondi''s "designee" rather than replacement chief. Represents attempted federal seizure of local law enforcement using emergency powers.'
 status: confirmed
 ---
-type: timeline_event
 Trump administration orders federal takeover of DC Metropolitan Police, attempting to replace Chief Pamela Smith with DEA Administrator Terry Cole as "emergency police commissioner." Federal judge forces administration to back down after DC lawsuit, Smith retains position.

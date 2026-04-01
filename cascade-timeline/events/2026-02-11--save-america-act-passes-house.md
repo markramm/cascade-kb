@@ -58,7 +58,6 @@ capture_lanes:
 - Electoral Capture
 - Voter Suppression
 ---
-type: timeline_event
 
 The Republican-controlled House of Representatives passed the Safeguard American Voter Eligibility (SAVE) America Act on February 11, 2026, by a vote of 218 to 213, with all Republicans voting in favor and all but one Democrat opposed. The bill, championed by Rep. Chip Roy (R-TX) and backed by President Trump, requires individuals to provide documentary proof of U.S. citizenship when registering to vote in federal elections and mandates photo identification at the polls.
 

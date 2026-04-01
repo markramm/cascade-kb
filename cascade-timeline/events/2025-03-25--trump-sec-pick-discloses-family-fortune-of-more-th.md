@@ -47,7 +47,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 Paul Atkins, Trump's nominee to chair the Securities and Exchange Commission, disclosed personal assets in March 2025 ranging from $328 million to as much as $588.8 million, making him one of the wealthiest individuals ever nominated to lead the agency. The disclosure included significant holdings in cryptocurrency-related companies: Fortune reported Atkins held up to $6 million in crypto-related assets, including stakes in Securitize, Anchorage Digital, and Off the Chain Capital — companies that stood to benefit directly from SEC regulatory decisions under his leadership. Senator Elizabeth Warren called the crypto holdings a disqualifying conflict of interest.
 
 Atkins had previously served as an SEC commissioner from 2002 to 2008 and had spent the intervening years at Patomak Global Partners, a financial consulting firm advising crypto and financial industry clients on regulatory strategy. The revolving-door nature of his career — from SEC regulator, to industry consultant advising clients on how to navigate the SEC, back to SEC chair — exemplified the regulatory capture dynamic critics identified in the nomination. His clients at Patomak had included cryptocurrency exchanges, digital asset firms, and financial institutions with significant interests in SEC enforcement and rulemaking.

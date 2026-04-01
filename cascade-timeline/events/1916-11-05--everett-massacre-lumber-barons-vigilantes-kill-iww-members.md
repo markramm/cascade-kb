@@ -33,7 +33,6 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 On November 5, 1916, an armed posse of business owners and deputized vigilantes opened fire on a boatload of IWW members attempting to land at Everett, Washington's city dock, killing at least five Wobblies and two deputies in what became known as the Everett Massacre or "Bloody Sunday." The IWW members were traveling from Seattle to support striking shingle weavers and to test their right to free speech after months of vigilante violence.
 

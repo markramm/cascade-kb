@@ -79,7 +79,6 @@ sources:
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The Heritage Foundation reached over 100 staff members and a $10 million annual budget by 1983, representing explosive growth during the Reagan administration's active implementation of Heritage policy recommendations. In just six years since Ed Feulner became president in 1977, Heritage had grown from 9 staff with a $1 million budget into the dominant conservative policy organization in Washington. Heritage's "Mandate for Leadership" blueprint, published in January 1981, contained over 2,000 specific policy recommendations, approximately 60 percent of which the Reagan administration implemented during its first year.
 

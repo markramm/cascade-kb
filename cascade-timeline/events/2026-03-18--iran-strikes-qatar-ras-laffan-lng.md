@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 18, 2026, Iranian ballistic missiles struck Ras Laffan Industrial City in Qatar — the world's largest liquefied natural gas export facility — in a retaliatory strike following Israel's bombing of Iran's South Pars gas field earlier that day. The attack knocked out approximately 17 percent of Qatar's LNG production capacity, and QatarEnergy immediately declared force majeure on affected contracts, sending global LNG spot prices surging.
 

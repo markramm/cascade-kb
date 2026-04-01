@@ -42,6 +42,5 @@ sources:
 notes: Elon Musk alone worth $448 billion, cabinet excluding Musk worth $13.8 billion. Combined wealth more than GDP of 175 countries. Includes wrestling magnate Linda McMahon, Howard Lutnick ($1.5B), Scott Bessent. Trump's first cabinet was $6.2 billion, Biden's was $118 million. Fortune called it "stacking his Cabinet with billionaires who will put Wall Street over Main Street."
 status: confirmed
 ---
-type: timeline_event
 
 Trump assembled wealthiest administration in history with $450+ billion combined net worth, including 13 billionaires. Elon Musk alone worth $448 billion. Cabinet excluding Musk worth $13.8 billion vs Biden's $118 million cabinet. Net worth exceeds GDP of 175 countries, representing government by top 0.0001% of American wealth.

@@ -41,7 +41,6 @@ tags:
 - sanctions-evasion
 title: Russian Military Systematically Acquires and Uses Starlink Terminals in Ukraine
 ---
-type: timeline_event
 In February 2024, Ukrainian military intelligence confirmed that Russian forces were systematically using Starlink satellite internet terminals on the front lines in Ukraine, acquired through complex international intermediary networks. Despite SpaceX's claims of non-involvement, Russian troops have successfully deployed tens of Starlink terminals, significantly enhancing their military communications and operational capabilities.
 
 Key Findings:

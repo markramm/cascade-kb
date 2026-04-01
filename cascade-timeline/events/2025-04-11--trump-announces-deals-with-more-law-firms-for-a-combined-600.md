@@ -46,7 +46,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 President Trump announced agreements with five additional major law firms on April 11, 2025, committing a combined $600 million in pro bono legal services to causes designated by the Trump administration. The new agreements brought the total pledged pro bono commitments from major law firms to nearly $1 billion, following earlier deals with Willkie Farr & Gallagher, Paul Weiss, Skadden Arps, and Kirkland & Ellis. The Washington Post, CNBC, Axios, and Bloomberg Law all reported on the expansion, noting that the volume of commitments represented a transformation of how major law firms related to presidential power.
 
 The pro bono commitments were directed toward causes aligned with Trump's political priorities, including veterans' legal services, causes designated by the administration, and other projects Trump chose. Critics argued that the pro bono framing obscured what was functionally a protection payment: firms provided valuable legal resources to the president's preferred causes in exchange for immunity from executive orders that had devastated targeted firms. The American Bar Association and other legal professional organizations expressed concern that the agreements undermined the legal profession's independence and created a two-tier system in which large law firms purchased protection while smaller firms lacked the resources to do so.

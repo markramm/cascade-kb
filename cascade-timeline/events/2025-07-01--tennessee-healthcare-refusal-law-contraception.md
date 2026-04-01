@@ -34,7 +34,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 Tennessee enacted legislation in July 2025 allowing healthcare providers—including individuals, institutions, and insurers—to refuse to participate in or pay for healthcare procedures, treatments, or services that conflict with their personal beliefs. While birth control was not specifically mentioned in the bill, the bill's author confirmed it would allow pharmacists to refuse to dispense contraception based on personal objections.
 

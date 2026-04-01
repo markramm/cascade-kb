@@ -39,7 +39,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Defense Department cancels the controversial $10 billion JEDI (Joint Enterprise Defense Infrastructure) cloud computing contract previously awarded to Microsoft in 2019, ending two years of bitter litigation with Amazon Web Services. The Pentagon announces a new multi-vendor procurement approach called the Joint Warfighter Cloud Capability (JWCC), valued at up to $9 billion through 2028, initially soliciting proposals from both Amazon and Microsoft as "the only companies at the moment that can meet the military's requirements."
 

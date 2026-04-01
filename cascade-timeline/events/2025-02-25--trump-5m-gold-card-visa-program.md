@@ -47,7 +47,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 President Trump announced a proposed "Gold Card" visa program on February 25, 2025, that would grant permanent U.S. residency and a pathway to citizenship to foreign nationals paying $5 million to the U.S. government. Trump described the program as replacing the existing EB-5 investor visa program, which required minimum investments of $800,000 to $1.05 million in U.S. businesses that created American jobs. The Gold Card program notably had no job creation requirement, functioning instead as a direct payment to the government for residency rights. Trump explicitly mentioned Russian oligarchs as potential beneficiaries, stating they might want to purchase the cards.
 
 Bloomberg, NBC News, NPR, CBS News, and CNN all reported extensively on the announcement, with outlets noting the extraordinary implications of a sitting president explicitly inviting wealthy foreigners—including Russians subject to U.S. sanctions—to purchase American residency. Ethics and immigration law experts raised multiple concerns: that the program could facilitate sanction evasion if Russian oligarchs used intermediaries to purchase cards; that selling residency to the highest bidder without job creation requirements represented a fundamental departure from immigration policy principles; and that the $5 million price point effectively created a two-tier citizenship system accessible only to the ultra-wealthy.

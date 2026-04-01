@@ -39,7 +39,6 @@ tags:
 - home-security
 title: Amazon acquires Ring for over $1 billion, creating foundation for private surveillance network
 ---
-type: timeline_event
 
 Amazon announced its acquisition of Ring, a maker of smart doorbell cameras and home security systems, in a deal Reuters reported cost over $1 billion. The acquisition marked one of Amazon's largest purchases and represented a major expansion into home surveillance infrastructure. Ring, founded in 2013 by Jamie Siminoff as the crowdfunded startup Doorbot, manufactures video doorbells, security cameras, and alarm systems that continuously monitor and record activity around homes.
 

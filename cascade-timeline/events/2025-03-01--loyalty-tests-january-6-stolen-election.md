@@ -41,6 +41,5 @@ sources:
 notes: Merit-based hiring replaced with political loyalty requirements
 status: confirmed
 ---
-type: timeline_event
 
 Federal job candidates required to confirm January 6 was an 'inside job' and 2020 election was 'stolen,' with social media screening for MAGA loyalty indicators and campaign participation required for new hires.

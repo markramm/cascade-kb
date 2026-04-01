@@ -40,7 +40,6 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 
 On October 10, 1963, Attorney General Robert F. Kennedy signed an authorization permitting the FBI to wiretap the telephones of Dr. Martin Luther King Jr. and the Southern Christian Leadership Conference offices in New York and Atlanta. The authorization, requested by FBI Director J. Edgar Hoover, marked the beginning of the most intensive surveillance operation ever conducted against an American civil rights leader.
 

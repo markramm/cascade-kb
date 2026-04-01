@@ -66,6 +66,5 @@ sources:
 notes: Massive cash purchases during credit crisis raise money laundering concerns. More than $205 million in sales were to corporations based in foreign jurisdictions known for banking secrecy. FinCEN identified Delaware as providing "the least transparency" with corporate records of any state. Treasury Department has said all-cash purchases by shell companies signal possible money laundering.
 status: confirmed
 ---
-type: timeline_event
 
 From 2008-2012, shell companies spent $890 million buying 823 Trump condos in cash – 25% of units sold. Delaware LLCs bought an additional 75 Trump condos for $129 million. More than 87% were in Trump-licensed buildings, with sales surging during Trump's financial troubles when he couldn't make a $40 million loan payment and faced $2 billion in accumulated debt.

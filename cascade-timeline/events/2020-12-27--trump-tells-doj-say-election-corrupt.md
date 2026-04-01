@@ -45,6 +45,5 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 In a phone call with Acting Attorney General Jeffrey Rosen and Deputy AG Richard Donoghue, Trump pressured them to declare the 2020 election corrupt despite no evidence of fraud. Trump stated "just say the election was corrupt and leave the rest to me and the Republican congressmen." This conversation, revealed in the Jack Smith report, demonstrates Trump's attempt to weaponize DOJ to overturn the election results.

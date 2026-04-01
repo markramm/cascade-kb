@@ -36,7 +36,6 @@ capture_lanes:
 - Labor Suppression
 - Systematic Corruption
 ---
-type: timeline_event
 
 More than 750 Washington Post journalists and staff members staged a one-day strike on December 7, 2023—the first work stoppage at the paper in nearly 50 years—to protest stalled contract negotiations, planned layoffs of 240 workers, and management's refusal to bargain in good faith. The strike highlighted the fundamental contradiction of billionaire Jeff Bezos owning a major newspaper: workers at the Post faced job cuts and wage stagnation while Bezos—worth over $150 billion—controlled the institution that proclaimed "Democracy Dies in Darkness" and positioned itself as a defender of workers and accountability.
 

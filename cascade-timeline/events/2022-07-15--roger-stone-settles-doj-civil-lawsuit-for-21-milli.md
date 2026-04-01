@@ -41,5 +41,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Roger Stone and wife settled DOJ civil lawsuit for $2.1 million over unpaid taxes (2007-2018) and alleged fraudulent transfers. DOJ claimed Stones used Drake Ventures entity and Bertran Trust to evade $1.7M in taxes and hide assets from IRS collection efforts, funding their political influence operations.

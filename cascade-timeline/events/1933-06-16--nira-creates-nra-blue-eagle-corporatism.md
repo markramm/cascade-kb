@@ -70,7 +70,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 President Roosevelt signs the National Industrial Recovery Act (NIRA) on June 16, 1933, creating the National Recovery Administration (NRA) to oversee the development of industry-wide "codes of fair competition" establishing minimum wages, maximum hours, collective bargaining rights, and production limits. The NRA launches its iconic Blue Eagle campaign, with businesses displaying the Blue Eagle emblem and slogan "We Do Our Part" to signal compliance. The program represents the most extensive experiment in government-supervised industrial self-regulation in American history—and demonstrates how corporate interests can capture ostensibly reform-minded institutions.
 
 General Hugh Johnson, appointed NRA administrator, presides over the drafting of 557 basic codes and 208 supplementary codes covering approximately 23 million workers. While the codes establish important labor protections including Section 7(a)'s guarantee of collective bargaining rights, the code-drafting process is dominated by large corporations and trade associations that use the opportunity to cartelize their industries. Major corporations dominate the code authorities that administer each industry's regulations, effectively allowing big business to write the rules governing their own conduct. Small businesses complain bitterly that the codes favor large competitors, while labor unions find that enforcement of Section 7(a) collective bargaining provisions is weak to nonexistent.

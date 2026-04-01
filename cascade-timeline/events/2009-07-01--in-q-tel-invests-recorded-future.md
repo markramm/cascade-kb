@@ -39,7 +39,6 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 On July 1, 2009, In-Q-Tel and Google Ventures simultaneously invested in Recorded Future, a startup founded by Christopher Ahlberg that specialized in using artificial intelligence to monitor the open web, dark web, and social media to predict future events. Each firm invested under $10 million in the Series A funding round, marking another collaboration between the CIA's venture capital arm and Google's investment division following their earlier joint involvement with Keyhole.
 

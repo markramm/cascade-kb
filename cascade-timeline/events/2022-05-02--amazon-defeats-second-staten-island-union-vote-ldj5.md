@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 # Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380
 

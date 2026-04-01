@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Thomas Jefferson and other Democratic-Republican leaders spent 1826 denouncing the Adams-Clay arrangement as a fundamental betrayal of democratic principles, helping Jackson's supporters organize what would become the Democratic Party. Jefferson had privately expressed horror at the "corrupt bargain" that elevated John Quincy Adams to the presidency despite Andrew Jackson winning both the popular vote and electoral plurality in 1824. The former president and other party elders recognized the 1825 House election as symptomatic of deeper institutional problems—an elite conspiracy that overrode the expressed will of voters through backroom dealing among political insiders.
 

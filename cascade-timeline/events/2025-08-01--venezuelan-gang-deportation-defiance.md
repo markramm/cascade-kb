@@ -37,6 +37,5 @@ sources:
 notes: First instance where a judge explicitly found probable cause of contempt for the Trump administration's deliberate defiance of a court order. The administration attempted to remove Judge Boasberg from the case after defying his order.
 status: confirmed
 ---
-type: timeline_event
 
 U.S. District Judge James Boasberg found probable cause that the Trump administration showed "willful disregard" for his order to halt deportation flights of Venezuelan migrants. The administration flew planes with hundreds of Venezuelans to El Salvador despite the judge's order to return them to the U.S., deliberately rushing planes into international airspace to evade jurisdiction. A whistleblower reported DOJ official Emil Bove told attorneys they may need to tell courts "f*** you" regarding such orders.

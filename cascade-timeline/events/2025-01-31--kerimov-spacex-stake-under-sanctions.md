@@ -50,5 +50,4 @@ notes: 'This event represents a significant example of kleptocratic capture, dem
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 Russian oligarch Suleiman Kerimov held a 1% stake in SpaceX through Delaware-based Heritage Trust for four years while under U.S. sanctions (2018-2022), with the stake acquired in 2017 before sanctions and disposed of before the trust was blocked in June 2022.

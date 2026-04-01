@@ -50,6 +50,5 @@ notes: Comprehensive documentation of regulatory capture and lobbying influence 
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 In Q1 2025, Trump-affiliated lobbying firms like Ballard Partners and Mercury Public Affairs experienced a massive surge in profits, with Ballard Partners increasing revenues from $4.4M to $14.4M. The firms added over 120 new clients, including major corporations like JPMorgan Chase, Chevron, and Netflix, highlighting the lucrative 'revolving door' between the Trump administration and lobbying industry.

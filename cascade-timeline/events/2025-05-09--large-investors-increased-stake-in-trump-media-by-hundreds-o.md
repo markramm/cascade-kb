@@ -50,5 +50,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Executive Power Expansion
 ---
-type: timeline_event
 Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president

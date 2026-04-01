@@ -33,7 +33,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 On June 8, 1917, a fire broke out 2,400 feet underground in Butte, Montana's Speculator Mine when an assistant foreman's carbide lamp ignited the frayed insulation on an electrical cable. The fire spread rapidly through the mine's timber supports and ventilation system, trapping hundreds of workers. 168 miners died, making it the deadliest hard-rock mining disaster in American history.
 

@@ -91,7 +91,6 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 Virginia "Ginni" Thomas — wife of Supreme Court Justice Clarence Thomas and a board member of CNP Action, the lobbying arm of the Council for National Policy — attended the "Stop the Steal" rally in Washington, D.C., on January 6, 2021, before the violent assault on the U.S. Capitol. Thomas acknowledged her attendance in March 2022 only after lawmakers obtained evidence of her presence. She stated she left before Trump took the stage at noon, but her participation placed the spouse of a sitting Supreme Court justice at the center of efforts to pressure Congress to reject the certified 2020 election results.
 

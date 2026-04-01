@@ -49,5 +49,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Regulatory Capture
 ---
-type: timeline_event
 State Department procurement documents showed plans for a 400 million purchase of armored Tesla vehicles, dramatically expanding a smaller Biden-era EV plan. After media scrutiny, the State Department removed Tesla from documents and claimed the purchase was on hold with no plans to proceed.

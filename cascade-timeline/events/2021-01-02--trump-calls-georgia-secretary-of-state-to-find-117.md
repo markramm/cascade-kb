@@ -39,6 +39,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump called Georgia Secretary of State Brad Raffensperger on January 2, 2021, demanding he 'find 11,780 votes' to overturn Biden's victory in Georgia. In the recorded hour-long call, Trump threatened Raffensperger with criminal prosecution, saying 'you know what they did and you're not reporting it. That's a criminal offense.' Trump made numerous false claims about dead voters, ballot destruction, and Dominion voting machines while pressuring Raffensperger to 'recalculate' the results. Chief of Staff Mark Meadows and lawyer Cleta Mitchell participated in the call. Raffensperger refused, stating 'the data you have is wrong.' This call became central evidence in Trump's Georgia indictment for criminal conspiracy to overturn the election, with prosecutors calling it the 'smoking gun' of election interference.

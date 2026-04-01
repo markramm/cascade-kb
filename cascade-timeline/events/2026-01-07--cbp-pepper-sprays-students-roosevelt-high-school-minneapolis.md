@@ -37,7 +37,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 Federal agents deployed chemical irritants outside Roosevelt High School in Minneapolis during student dismissal around 3:30 PM. Witnesses reported agents spraying students and staff, with Education Minnesota president Monica Byron stating agents were "pepper spraying students." Video showed an agent spraying a student with a chemical irritant after the student threw a snowball. Multiple staff members were hit with the chemicals, described as feeling like pepper spray in gas form.
 

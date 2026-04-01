@@ -45,6 +45,5 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 A comprehensive study reveals that politically connected firms significantly benefited from Trump administration tariff exemptions, with companies making Republican political contributions receiving preferential treatment in a deliberately obscure process.

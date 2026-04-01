@@ -56,7 +56,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 In August 1988, Ron Arnold and Alan Gottlieb convened the Multiple Use Strategy Conference in Reno, Nevada, launching the "Wise Use" movement. The conference brought together 250 representatives from timber, mining, ranching, and oil interests to coordinate an industry-funded campaign against environmental regulation disguised as grassroots activism.
 
 The conference produced a "Wise Use Agenda" demanding the opening of all public lands to resource extraction, weakening of the Endangered Species Act, elimination of wilderness designations, and legal protections for corporations against environmental lawsuits. Arnold explicitly described the strategy as creating the appearance of popular opposition to environmentalism while serving industry interests.

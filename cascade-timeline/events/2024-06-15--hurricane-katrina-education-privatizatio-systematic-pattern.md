@@ -37,5 +37,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 Comprehensive research reveals a systematic corruption pattern in Hurricane Katrina's education system transformation. Academic studies and journalistic investigations document how disaster was strategically used to rapidly privatize New Orleans public schools. Before Katrina, the school system was dysfunctional with frequent superintendent turnover. Post-disaster, 100 out of 117 schools were converted to charters, creating the first all-charter school system in the U.S. While metrics like graduation rates improved from 56% to 80%, the transformation displaced over 4,000 experienced teachers and raised significant concerns about institutional capture and potential systemic racism in educational reform.

@@ -45,6 +45,5 @@ capture_lanes:
 - Executive Power Expansion
 - Environmental Capture
 ---
-type: timeline_event
 
 In a significant move of regulatory capture, President Trump terminated Nuclear Regulatory Commission Commissioner Christopher T. Hanson on June 24, 2025. Hanson, originally appointed by Trump in 2020 and reappointed by Biden in 2024, was fired without cause, raising serious concerns about the independence of nuclear energy oversight. The action follows Trump's recent executive order mandating a 'wholesale revision' of NRC safety regulations, potentially compromising public safety to benefit industry interests.

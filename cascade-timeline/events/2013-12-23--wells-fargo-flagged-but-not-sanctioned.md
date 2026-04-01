@@ -36,5 +36,4 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 The Los Angeles Times investigates Wells Fargo's aggressive sales practices, revealing systematic pressures on employees to create unauthorized accounts. The investigation exposes a corporate culture that incentivized fraud, with employees opening fake accounts to meet impossible sales quotas. While initially flagged, Wells Fargo was not immediately sanctioned, allowing problematic practices to continue for several more years.

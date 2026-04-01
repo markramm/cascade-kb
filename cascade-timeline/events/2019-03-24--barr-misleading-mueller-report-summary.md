@@ -38,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Attorney General William Barr released a four-page letter to Congress purporting to summarize the 448-page Mueller Report's "principal conclusions" just 48 hours after receiving it. Barr's summary fundamentally mischaracterized the report's findings on obstruction of justice and selectively quoted from the report to create a false exoneration narrative. This strategic distortion shaped public perception for nearly a month before the actual report's release, achieving Trump's political goal of declaring "total exoneration" despite Mueller's explicit statement that the report "does not exonerate" the President.
 

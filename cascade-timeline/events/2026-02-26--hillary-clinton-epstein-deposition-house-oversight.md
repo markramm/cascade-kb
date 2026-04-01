@@ -46,7 +46,6 @@ capture_lanes:
 - Legislative Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 Former Secretary of State Hillary Clinton gave a roughly six-hour closed-door deposition before the House Oversight Committee on February 26, 2026, testifying about her knowledge of Jeffrey Epstein. The deposition took place at the Clintons' home in Chappaqua, New York. In her opening statement Clinton said: "I had no idea about their criminal activities. I do not recall ever encountering Mr. Epstein. I never flew on his plane or visited his island home or offices." She later stated she "answered every one of their questions as fully as I could based on what I knew" and characterized the proceeding as Republican "political theater."
 

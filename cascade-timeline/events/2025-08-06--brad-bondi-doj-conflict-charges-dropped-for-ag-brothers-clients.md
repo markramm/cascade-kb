@@ -37,7 +37,6 @@ capture_lanes:
 - Kleptocratic Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 By August 2025, a pattern had emerged: defendants who hired Brad Bondi—AG Pam Bondi's brother and a DC defense attorney—were seeing their federal charges evaporate.
 

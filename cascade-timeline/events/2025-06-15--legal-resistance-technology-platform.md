@@ -48,5 +48,4 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 Legal technology networks launch a secure, encrypted digital platform to facilitate rapid coordination, document sharing, and strategic planning among resistance lawyers nationwide. Leveraging AI-powered cybersecurity tools and emerging legal technology trends, the platform enables cross-functional collaboration and secure communication in an increasingly complex digital landscape.

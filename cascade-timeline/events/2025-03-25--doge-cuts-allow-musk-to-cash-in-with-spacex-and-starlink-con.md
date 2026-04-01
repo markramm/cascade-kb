@@ -46,6 +46,5 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Former federal employees and watchdog groups warn that the Trump administration's policy changes enable Elon Musk to steer lucrative contracts toward SpaceX and Starlink, potentially privatizing key government space and satellite operations

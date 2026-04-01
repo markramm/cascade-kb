@@ -43,7 +43,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: timeline_event
 
 Over 100 armed white men—members of paramilitary "rifle clubs" called the Red Shirts—attack approximately 30 Black National Guard servicemen at the Hamburg, South Carolina armory on July 8, 1876, killing seven men (six of them Black) in what becomes the first of a series of planned civil disturbances designed to suppress Black voting rights and disrupt Republican meetings before the November election. The violence begins July 4 when two white planters encounter a Black militia company drilling on Hamburg's Market Street. Although the farmers pass through after an initial argument, they file a formal complaint two days later—attracting armed white rifle clubs to the court hearing.
 

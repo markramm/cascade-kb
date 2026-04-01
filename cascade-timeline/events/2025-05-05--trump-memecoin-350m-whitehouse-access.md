@@ -53,6 +53,5 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 President Trump's $TRUMP memecoin raised $350 million, with top token holders gaining exclusive access to White House dinners. The project created a controversial 'access-for-tokens' model, raising significant ethical concerns about monetizing presidential access and potential conflicts of interest.

@@ -35,7 +35,6 @@ capture_lanes:
 - Democratic Erosion
 - Judicial Capture
 ---
-type: timeline_event
 
 On April 18, 1912, approximately 7,500 coal miners in the Paint Creek and Cabin Creek districts of West Virginia went on strike against abysmal conditions in company-owned towns, initiating fifteen months of armed conflict that would see the declaration of martial law, the imprisonment of octogenarian labor organizer Mother Jones, and dozens of deaths.
 

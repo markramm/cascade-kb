@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Former U.S. Ambassador to Ukraine Marie Yovanovitch delivered powerful public testimony on November 15, 2019, describing a systematic smear campaign orchestrated by Rudy Giuliani and corrupt Ukrainian prosecutors to remove her from her post because she refused to assist with investigations targeting Joe Biden. Yovanovitch, a 33-year Foreign Service veteran with bipartisan support, testified that she was told to "watch her back" by a Ukrainian official who warned that Giuliani and his associates were "looking to hurt" her. In a dramatic moment during her live testimony, Trump attacked her on Twitter, prompting Chairman Adam Schiff to read the tweet aloud and note that it constituted witness intimidation in real-time.
 

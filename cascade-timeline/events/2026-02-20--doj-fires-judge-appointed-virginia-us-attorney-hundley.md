@@ -34,7 +34,6 @@ capture_lanes:
 - Democratic Backsliding
 - Systematic Corruption
 ---
-type: timeline_event
 The Justice Department fired James W. Hundley, whom federal judges had unanimously appointed as interim U.S. attorney for the Eastern District of Virginia, one of the most important federal prosecutor offices in the country. The firing continued DOJ's pattern of replacing experienced, independent prosecutors with political loyalists. The Eastern District of Virginia handles major national security, espionage, and public corruption cases, making control of the office a strategic priority for an administration seeking to politicize federal law enforcement.
 
 Replacing a judge-appointed interim with a political appointee undermines prosecutorial independence and signals that DOJ prioritizes loyalty over competence. The Eastern District's caseload includes some of the most sensitive matters in federal law enforcement, from counterintelligence investigations to terrorism prosecutions to the kind of public corruption cases that could implicate administration allies.

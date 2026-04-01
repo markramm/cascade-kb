@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 President Calvin Coolidge signs the Revenue Act of 1924, the second installment of Treasury Secretary Andrew Mellon's systematic campaign to slash taxes on the wealthy. The act reduces the maximum income tax rate from 58 percent to 46 percent on incomes over $500,000 (raised from the previous $200,000 threshold), cuts estate taxes, and provides preferential treatment for capital gains. The legislation continues the post-World War I rollback of progressive taxation that Mellon initiated with the Revenue Act of 1921, implementing his theory that lower rates on the wealthy will stimulate economic growth through increased investment—an early articulation of "supply-side" economics that later becomes foundational to conservative tax policy.
 

@@ -40,7 +40,6 @@ capture_lanes:
 - Environmental Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 # Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
 

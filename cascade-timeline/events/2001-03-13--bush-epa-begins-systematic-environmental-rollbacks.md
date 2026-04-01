@@ -42,7 +42,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On March 13, 2001, President George W. Bush announced the United States would not implement the Kyoto Protocol on climate change, signaling the beginning of a systematic rollback of environmental protections coordinated with fossil fuel industry lobbyists. The decision came just weeks after Vice President Dick Cheney began secret energy task force meetings with industry executives.
 

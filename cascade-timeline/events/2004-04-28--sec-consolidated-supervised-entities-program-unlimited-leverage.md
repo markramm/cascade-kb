@@ -47,6 +47,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The SEC establishes the Consolidated Supervised Entities (CSE) program under Chair William Donaldson, eliminating the 12-to-1 leverage limit that had constrained broker-dealers and investment banks since 1975. The program allows firms with over $15 billion in assets—Bear Stearns, Lehman Brothers, Merrill Lynch, Goldman Sachs, and Morgan Stanley—to leverage themselves unlimited times. These firms quickly increase leverage to 30-40 times their equity, making them extraordinarily vulnerable to market shocks. The program removes capital cushion requirements and essentially allows self-regulation. Former SEC official Lee Pickard, who helped write the original 1975 limits, later stated: "The SEC gave up the very protections that caused these firms to go under." All five firms collapsed or required bailouts during the 2008 crisis.

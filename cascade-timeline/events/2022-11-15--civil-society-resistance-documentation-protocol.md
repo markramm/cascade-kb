@@ -37,5 +37,4 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 International NGOs and human rights organizations convened to establish a comprehensive, transnational documentation framework for tracking and resisting democratic backsliding. The protocol creates systematic methodologies for collecting, verifying, and rapidly disseminating evidence of institutional capture and human rights threats, leveraging collaborative efforts from organizations like Amnesty International, Human Rights Watch, and UN human rights mechanisms.

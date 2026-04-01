@@ -46,7 +46,6 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: timeline_event
 
 Facebook embeds staff directly in Trump campaign headquarters in San Antonio, working side-by-side with campaign staff including Cambridge Analytica to optimize Facebook advertising for voter targeting and suppression. The unprecedented corporate-political coordination provides Trump's campaign with platform expertise and optimization tools not offered to the Clinton campaign, directly contributing to electoral manipulation through precision targeting of vulnerable voters.
 

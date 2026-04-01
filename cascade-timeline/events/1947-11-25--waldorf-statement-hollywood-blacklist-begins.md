@@ -58,7 +58,6 @@ sources:
   tier: 3
 status: confirmed
 ---
-type: timeline_event
 
 Eric Johnston, president of the Motion Picture Association of America, issues the two-page Waldorf Statement on November 25, 1947, following a closed-door meeting by forty-eight motion picture company executives at New York City's Waldorf-Astoria Hotel on November 24, 1947. The statement is prompted by the stormy HUAC hearings into alleged Communist influence in Hollywood, particularly the confrontation with the Hollywood Ten who refused to cooperate with the committee. Forty-eight of the most powerful men in America meet in secrecy at 11 AM on Monday, November 24, 1947, in a suite at the Waldorf-Astoria. These studio executives include Louis B. Mayer and Eddie Mannix from MGM, Harry Cohn from Columbia Pictures, Y. Frank Freeman and Barney Balaban from Paramount, Spyros Skouras from 20th Century Fox, Nicholas Schenck from Loews Theatres, William Goetz from Universal-International, Dore Schary from RKO, Albert Warner from Warner Bros., Samuel Goldwyn, and former Academy president Walter Wanger. Also present are MPAA attorneys Paul McNutt and James Byrnes, former Secretary of State under President Truman.
 

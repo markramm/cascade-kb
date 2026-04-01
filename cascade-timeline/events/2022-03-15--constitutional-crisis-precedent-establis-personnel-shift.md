@@ -40,6 +40,5 @@ capture_lanes:
 - Federal Workforce Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Comprehensive analysis of Biden administration's 2022 financial disclosures reveals a complex landscape of potential conflicts of interest and efforts to mitigate them. The Office of Government Ethics certified financial reports showing high compliance, with 48 out of 56 White House assistants and deputy assistants either divesting potential conflicts or having minimal holdings. Key appointees like Antony Blinken, Lloyd Austin, and Avril Haines disclosed extensive corporate ties, including consulting work and board memberships, necessitating ethics agreements and recusals. Janet Yellen reported $7 million in speaking fees, highlighting the financial complexities of high-level political appointments. While the administration implemented stricter ethics pledges than previous administrations, ethics watchdogs like the Revolving Door Project continue to call for more comprehensive reforms to truly close the 'revolving door' between government and private sector.

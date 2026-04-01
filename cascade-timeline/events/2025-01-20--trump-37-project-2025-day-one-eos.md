@@ -61,6 +61,5 @@ implementation_details:
   - Federal Workforce Restructuring
   implementation_rate_by_june_2025: 41%
 ---
-type: timeline_event
 
 On Inauguration Day, the Trump administration signed 37 executive orders implementing core Project 2025 priorities, systematically transforming federal governance. Orders targeted climate policy, international organizations, federal workforce, diversity programs, and national emergency declarations, marking a comprehensive reengineering of administrative infrastructure.

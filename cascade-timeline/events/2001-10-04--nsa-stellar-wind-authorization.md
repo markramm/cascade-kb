@@ -51,7 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President George W. Bush authorized the NSA's Stellar Wind warrantless domestic surveillance program, completely bypassing FISA court oversight in a fundamental alteration of constitutional checks and balances. The program allowed the NSA to collect phone metadata and internet communications of US citizens without warrants, establishing a parallel legal framework where executive authorization alone sufficed for domestic surveillance.
 

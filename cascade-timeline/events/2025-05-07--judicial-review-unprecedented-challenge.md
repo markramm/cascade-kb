@@ -37,5 +37,4 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 In a landmark hearing, the Supreme Court began addressing complex constitutional challenges surrounding executive branch financial entanglements. The court explored unprecedented legal territory regarding potential emoluments violations, signaling a willingness to directly examine potential conflicts of interest at the highest levels of government. This hearing represents a critical moment in constitutional accountability, probing the boundaries of presidential financial independence and potential foreign influence.

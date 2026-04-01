@@ -40,7 +40,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 
 New DHS regulations take effect requiring mandatory biometric data collection from all non-citizens entering and leaving the United States at airports, land ports, seaports, and other authorized points of departure. The rule expands facial recognition technology and authorizes CBP to photograph—and potentially fingerprint—every non-citizen at every U.S. border crossing.

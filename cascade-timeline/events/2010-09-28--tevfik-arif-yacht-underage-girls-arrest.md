@@ -38,5 +38,4 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 Tevfik Arif, Trump's business partner in Trump SoHo, was arrested aboard the Savarona yacht in Turkey during a police raid that found "underage Eastern European girls" allegedly involved in a prostitution ring. The Kazakh "trio" of oligarchs - Alexander Mashkevich, Patokh Shodiev, and Alijan Ibragimov - were reportedly also on the yacht. Though charges were later dropped, the incident established patterns of post-Soviet oligarch networks involved in trafficking operations connected to both Trump and Epstein circles.

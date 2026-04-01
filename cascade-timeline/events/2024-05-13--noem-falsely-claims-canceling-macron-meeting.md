@@ -38,6 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Kristi Noem claimed in her memoir that she canceled a scheduled meeting with French President Emmanuel Macron over his comments about Hamas. French officials from the Élysée Palace directly contradicted this, stating there was no record of any scheduled meeting and no invitation was ever extended to Noem. This was the second false claim about meeting world leaders discovered in her book.

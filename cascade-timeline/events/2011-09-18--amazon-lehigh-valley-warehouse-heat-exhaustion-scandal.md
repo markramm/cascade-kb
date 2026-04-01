@@ -34,7 +34,6 @@ capture_lanes:
 - Corporate Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 # Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed
 

@@ -39,7 +39,6 @@ capture_lanes:
 - Democratic Erosion
 - Legislative Capture
 ---
-type: timeline_event
 
 Following a closed-door Senate Armed Services Committee briefing on Operation Epic Fury on March 10, 2026, Senate Democrats escalated their demands for public accountability on the Iran war — a conflict now in its second week that Congress never authorized.
 

@@ -26,7 +26,6 @@ capture_lanes:
 - International Kleptocracy
 - Democratic Erosion
 ---
-type: timeline_event
 
 Steve Bannon revealed he is "spending a ton of time behind the scenes on the Irish situation to help form an Irish national party." He promised an "Irish Trump" and stated the MAGA movement was being mirrored by groups in Ireland, Britain, France, and Italy.
 

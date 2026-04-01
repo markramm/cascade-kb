@@ -42,7 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Joint Chiefs of Staff authorize Operation Paperclip on September 3, 1945, establishing a secret program to recruit German scientists, engineers, and technicians for American military and intelligence agencies. The program ultimately brings over 1,600 German scientists and their families to the United States, including many with documented Nazi Party membership and involvement in war crimes.
 

@@ -52,6 +52,5 @@ validation_metadata:
   - 'summary_updated: ''True'' → ''True'''
   - 'tags_added: ''[''treasury-investigation'']'' → ''[''treasury-investigation'']'''
 ---
-type: timeline_event
 
 Treasury Department records obtained by Senator Ron Wyden reveal 4,725 wire transfers totaling $1.1 billion through Epstein's account, with hundreds of millions flowing through sanctioned Russian banks. The transfers were correlated to the movement of women and girls from Russia, Belarus, Turkey, and Turkmenistan, indicating a potential international trafficking network.

@@ -34,7 +34,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: timeline_event
 
 Congress officially repeals the congressional portion of the Salary Grab Act on January 20, 1874, sustaining only the salary increases for the President and Supreme Court Justices. The repeal comes after months of intense public fury over the March 1873 legislation that doubled congressional salaries from $5,000 to $7,500 and made the increase retroactive for nearly two full years—giving each member a $4,000-$5,000 lump sum payment. The scandal demonstrates how Gilded Age politicians routinely convert public office into personal profit, while also showing that electoral accountability can still force retreat when corruption becomes too brazen.
 

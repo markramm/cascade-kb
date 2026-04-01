@@ -27,7 +27,6 @@ capture_lanes:
 - Cultural Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 Beginning November 17, 2025, board members of the Heritage Foundation—the conservative think tank that spearheaded Project 2025—resigned over controversy surrounding white nationalist Nick Fuentes.
 

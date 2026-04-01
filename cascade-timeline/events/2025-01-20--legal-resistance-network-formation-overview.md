@@ -34,6 +34,5 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 In response to increasing institutional challenges, a network of pro bono legal organizations begins systematic coordination to challenge unconstitutional policies and administrative overreach. Key civil rights and constitutional law organizations form a unified strategic litigation approach, including the ACLU, Lawyers' Committee for Civil Rights, and emerging Pro Bono Litigation Corps, focusing on strategic constitutional defense.

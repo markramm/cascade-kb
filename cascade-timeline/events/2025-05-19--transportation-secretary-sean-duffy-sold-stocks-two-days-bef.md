@@ -52,6 +52,5 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 
 Transportation Secretary Sean Duffy sold stocks in 34 companies worth up to $650,000 just before Trump's market-moving tariff announcement, representing a pattern of potential insider trading among Trump administration officials. The sales occurred on February 11, two days before the tariff announcement, near the stock market's historic peak.

@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Congress authorizes attacks on French warships and effectively declares an undeclared naval war against France, establishing the foundation for permanent American military expansion and the military-industrial complex. The Quasi-War begins after French privateers attack over 316 American merchant ships following U.S. suspension of Revolutionary War debt repayment and the 1794 Jay Treaty with Britain. President Adams exploits the XYZ Affair bribery scandal and the "Millions for defense, but not one cent for tribute" outrage to justify massive naval expansion, founding the Department of the Navy and Marine Corps in 1798 as independent from the War Department.
 

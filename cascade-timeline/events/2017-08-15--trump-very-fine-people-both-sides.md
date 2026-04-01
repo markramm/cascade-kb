@@ -35,7 +35,6 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Three days after a white supremacist murdered Heather Heyer at the "Unite the Right" rally in Charlottesville, President Trump held a press conference that shocked the nation by equating neo-Nazis with anti-racism protesters and defending Confederate statue defenders as "very fine people."
 

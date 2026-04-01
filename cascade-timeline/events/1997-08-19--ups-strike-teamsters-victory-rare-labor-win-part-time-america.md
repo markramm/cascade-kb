@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The International Brotherhood of Teamsters ends a 15-day strike against United Parcel Service on August 19, 1997, winning a contract that creates 10,000 new full-time jobs from part-time positions, increases wages for part-time workers by 36 percent over five years, and maintains the union pension fund. The strike represents labor's most significant victory in decades, achieved through public support, strategic framing around "Part-Time America," and the credible threat that 185,000 workers could shut down the nation's package delivery system during peak summer shipping season.
 

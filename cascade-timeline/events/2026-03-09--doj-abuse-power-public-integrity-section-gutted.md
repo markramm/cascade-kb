@@ -42,7 +42,6 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 By March 9, 2026, reporting confirmed that the Trump administration had effectively dismantled the U.S. Department of Justice's Public Integrity Section -- the office created in response to the Watergate scandal specifically to investigate corruption by public officials. The section had been reduced from 36 career prosecutors to just 2, stripped of its authority to review potential cases against public officials, and barred from filing new cases.
 

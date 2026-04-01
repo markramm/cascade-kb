@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 On January 4, 1847, Connecticut gun manufacturer Samuel Colt rescues the future of his faltering gun company by winning a contract to provide the U.S. government with 1,000 of his .44 caliber revolvers for use in the Mexican-American War. Colt had received a U.S. patent for a revolver mechanism in 1836 that enabled a gun to be fired multiple times without reloading, and founded a company to manufacture his revolving-cylinder pistol; however, sales were slow and the business floundered. Colt's fortunes change dramatically during the Mexican-American War (1846-1848) when Captain Samuel Walker, a Texas Ranger and military officer who had previously used Colt's revolvers, approaches him with ideas for improvements. Together they design the Colt Walker revolver, a more powerful and reliable firearm tailored for cavalry use—Walker wants an improved version that would hold six bullets, be easier to reload, and be powerful enough to kill a man with a single shot.
 

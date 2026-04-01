@@ -34,5 +34,4 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 Carl Icahn permanently closed the Trump Taj Mahal casino in Atlantic City on October 10, 2016, after a bitter 102-day labor dispute with Unite-HERE Local 54 union workers. Icahn, who had acquired the casino through Trump Entertainment Resorts in 2014, cited substantial financial losses, claiming to have lost nearly $100 million in the past 18 months. The closure marked the end of Trump's Atlantic City casino empire, with Icahn ultimately selling the property to Hard Rock International in March 2017.

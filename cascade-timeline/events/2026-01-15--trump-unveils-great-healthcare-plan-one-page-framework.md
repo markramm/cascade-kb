@@ -39,7 +39,6 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 President Trump released "The Great Healthcare Plan" via social media video, accompanied by a one-page fact sheet—fulfilling a campaign promise made since 2016 that he would reveal his "great healthcare plan." The announcement came as millions faced skyrocketing ACA premiums after enhanced subsidies expired at the end of 2025 due to Republican opposition to extension.
 

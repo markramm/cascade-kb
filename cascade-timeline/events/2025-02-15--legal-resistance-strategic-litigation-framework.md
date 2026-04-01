@@ -38,5 +38,4 @@ capture_lanes:
 - Judicial Capture
 validation_notes: Enhanced sources from ACLU press release and strategic documents. Expanded summary to reflect comprehensive litigation strategy focused on state-level constitutional challenges and strategic response to federal judicial landscape.
 ---
-type: timeline_event
 A comprehensive strategic litigation framework is developed by the Constitutional Litigation Consortium, Electronic Frontier Foundation, and American Civil Liberties Union, focusing on coordinated legal challenges to administrative overreach. The strategy prioritizes state-level constitutional litigation and rapid response to systemic constitutional challenges, creating a centralized legal strategy to defend civil liberties through state supreme courts in response to a more conservative federal judiciary.

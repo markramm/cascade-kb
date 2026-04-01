@@ -46,7 +46,6 @@ capture_lanes:
 - Federal Workforce Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 Following the Supreme Court's decision authorizing federal workforce reductions, HHS officially laid off approximately 10,000 employees at the National Institutes of Health, Food and Drug Administration, and Centers for Disease Control and Prevention. The restructuring consolidated 28 divisions into 15 under HHS Secretary RFK Jr.'s direction.

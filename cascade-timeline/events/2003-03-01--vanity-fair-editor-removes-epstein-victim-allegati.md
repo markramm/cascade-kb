@@ -39,6 +39,5 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Vanity Fair editor Graydon Carter removes allegations from reporter Vicky Ward's exposé about Jeffrey Epstein's abuse of underage girls after a meeting with Epstein. The original story included detailed accounts from victims, but the published version omitted these crucial allegations, representing a major media cover-up that protected Epstein for years.

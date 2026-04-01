@@ -34,7 +34,6 @@ capture_lanes:
 - Immigration System Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 On March 19, 2026, U.S. District Judge William K. Sessions III ordered the immediate release of Castro Guaman, a man who had been detained by ICE after a traffic stop in Vermont when agents were actually looking for a different individual. In his order, Judge Sessions stated plainly: "Other than a mistake by ICE, he would not have been detained." The ruling underscored a growing pattern of ICE arrests based on flawed intelligence, incorrect addresses, and mistaken identity.
 

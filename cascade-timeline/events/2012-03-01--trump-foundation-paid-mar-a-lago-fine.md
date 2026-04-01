@@ -36,7 +36,6 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Donald J. Trump Foundation used $158,000 in tax-exempt charitable funds to settle a legal dispute between the Town of Palm Beach and Trump's for-profit Mar-a-Lago Club over an illegal 80-foot flagpole. The town had fined Trump's private club for violating local ordinances by erecting an oversized flagpole, and after protracted litigation, Trump's business owed the town money as part of the settlement. Instead of paying the fine from Mar-a-Lago's business accounts or Trump's personal funds, Trump directed his charitable foundation to pay the settlement, effectively using charitable donations from others to cover his business's legal obligations.
 

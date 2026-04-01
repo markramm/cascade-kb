@@ -50,6 +50,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 After losing his Parliamentary seat in 1970, Robert Maxwell focuses intensively on expanding his business connections with Eastern Bloc countries, becoming heavily involved in publishing scientific literature and biographies of communist leaders throughout the 1970s. Through his Pergamon Press, Maxwell creates a systematic channel for Soviet-influenced academic and scientific publications in the West, potentially serving as a conduit for intelligence influence operations. This publishing network provides cover for ongoing intelligence relationships while building Maxwell's media empire foundation.

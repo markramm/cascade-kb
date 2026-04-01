@@ -35,7 +35,6 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 A federal court sentenced AFL President Samuel Gompers to one year in prison, Vice President John Mitchell to nine months, and Secretary Frank Morrison to six months for contempt of court in the Buck's Stove and Range Company boycott case. The case exemplified how federal courts had become instruments of corporate power, criminalizing fundamental labor organizing tactics through creative application of antitrust law and injunctions.
 

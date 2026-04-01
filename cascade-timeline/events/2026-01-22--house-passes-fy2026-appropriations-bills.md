@@ -32,7 +32,6 @@ sources:
 capture_lanes:
 - Legislative Capture
 ---
-type: timeline_event
 
 The House passed a roughly $1.25 trillion spending package in a pair of votes that overcame internal GOP divisions and Democratic protests over the Trump administration's immigration policies. H.R. 7148, the Consolidated Appropriations Act of 2026, passed with a vote of 341 to 88, funding the Departments of Defense, Transportation, HUD, HHS, Labor, Education, and other related agencies. H.R. 7147, the Department of Homeland Security Appropriations Act of 2026, narrowly passed 220 to 207, with seven Democrats joining almost all Republicans and Kentucky Rep. Thomas Massie as the lone GOP dissenter.
 

@@ -39,6 +39,5 @@ sources:
 notes: Video evidence showed Baraka was arrested on public property after complying with orders to leave. Rep. Menendez called it "an act of intimidation." Governor Phil Murphy called the arrest "unjust" and demanded Baraka's immediate release. Baraka had sued GEO Group in April alleging the facility lacked proper permits.
 status: confirmed
 ---
-type: timeline_event
 
 ICE agents arrested Newark Mayor Ras Baraka on May 9, 2025, while he attempted to join three Democratic members of Congress conducting an oversight visit to the Delaney Hall ICE detention center. Over 20 armed ICE officers surrounded and arrested Baraka on public property after he had already left the facility grounds. Representatives LaMonica McIver, Bonnie Watson Coleman, and Robert Menendez Jr. reported being physically assaulted by ICE agents during the incident. The arrest occurred as Baraka campaigned against GEO Group's $1 billion contract to operate the facility.

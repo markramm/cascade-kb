@@ -44,6 +44,5 @@ category: democratic_subversion
 verification_status: extensively_documented
 status: confirmed
 ---
-type: timeline_event
 
 The White House Iraq Group (WHIG) systematically developed individualized disinformation strategies to manipulate congressional skeptics of the Iraq War authorization, using fabricated intelligence reports, coordinated media messaging, and targeted pressure tactics to secure legislative support.

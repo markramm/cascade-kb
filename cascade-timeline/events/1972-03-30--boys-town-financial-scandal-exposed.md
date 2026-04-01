@@ -40,7 +40,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 The Omaha Sun publishes a bombshell investigation on March 30, 1972, revealing that Boys Town, the iconic Catholic charity founded by Father Edward Flanagan, is sitting on a $209 million endowment—making it richer than any Nebraska company and ranking approximately 230th in Fortune magazine's 1970 list of top-500 industrials—even as it continues nationwide fundraising campaigns portraying the organization as operating in Dickensian poverty. The investigation, led by managing editor Paul Williams and publisher Stanford Lipsey, is directly enabled by investor Warren Buffett, whose Berkshire Hathaway had purchased the Sun Newspapers in 1968. Buffett tips off the newspaper to newly available IRS Form 990 filings and even contributes unpublished investment analysis showing Boys Town's portfolio returns were "about half what it should have been" while risk was "about twice what it should have been."
 

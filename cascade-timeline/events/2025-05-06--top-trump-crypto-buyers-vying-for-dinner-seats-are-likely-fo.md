@@ -42,5 +42,4 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: timeline_event
 Over 56% of Trump's memecoin top buyers invited to a 220-person dinner were foreign nationals, raising significant ethical concerns about presidential access being sold to international investors. The top cryptocurrency holders spent $394 million to attend the event, with billionaire Justin Sun prominently featured.

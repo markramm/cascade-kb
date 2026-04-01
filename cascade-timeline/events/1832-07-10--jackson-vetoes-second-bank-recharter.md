@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 President Andrew Jackson vetoes legislation to renew the Second Bank of the United States' charter, four years before its scheduled expiration, delivering a "popular and effective" message declaring the Bank "unauthorized by the Constitution, subversive to the rights of States, and dangerous to the liberties of the people." While Jackson frames his opposition as defending "the planters, the farmers, the mechanic and the laborer" against "the monied interest," the veto triggers a cycle of financial manipulation by both the president and Bank president Nicholas Biddle that destabilizes the economy and demonstrates how personal power struggles between political actors can supersede public interest. The recharter application, submitted early by Biddle in alliance with Senators Henry Clay and Daniel Webster, represents a calculated political maneuver to pressure Jackson into making a decision before the 1832 presidential election, hoping to use the Bank as a wedge issue.
 

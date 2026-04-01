@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Georgia Governor George Mathews signs the Yazoo Act, transferring 35 million acres in present-day Alabama and Mississippi to four land development companies for $500,000—approximately $0.014 per acre—in the largest land fraud perpetrated during the Federalist Era. Georgia's Federalist U.S. Senator James Gunn orchestrates the corrupt scheme by distributing money and Yazoo land stock options to state legislators, officials, newspaper editors, and other influential Georgians. All but one member of the Georgia Legislature accepts bribes—either stock options in the companies or direct cash payments—in return for their votes, representing near-total capture of state government by private land speculation interests.
 

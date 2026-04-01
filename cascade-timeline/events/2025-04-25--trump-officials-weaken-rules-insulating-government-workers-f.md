@@ -54,5 +54,4 @@ tags:
 - institutional-capture
 title: Trump Administration Dramatically Weakens Independent Hatch Act Enforcement
 ---
-type: timeline_event
 Trump eliminated the independent board overseeing Hatch Act violations by removing Special Counsel Hampton Dellinger and replacing OSC leadership with partisan appointees like Doug Collins and Jamieson Greer. The administration rescinded prior enforcement policies, weakening accountability for political activities by federal employees and reducing independent oversight of executive branch conduct.

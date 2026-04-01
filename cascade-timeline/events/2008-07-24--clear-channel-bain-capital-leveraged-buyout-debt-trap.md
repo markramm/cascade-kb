@@ -47,7 +47,6 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: timeline_event
 
 On July 24, 2008, Bain Capital and Thomas H. Lee Partners completed a historic $26.7 billion leveraged buyout of Clear Channel Communications, the nation's largest radio broadcaster with over 1,200 stations. The transaction, led by Bain Capital (founded by Mitt Romney in 1984), loaded the company with approximately $20 billion in debt—more than doubling its previous $8 billion debt burden—and exemplified how private equity uses financial engineering to extract wealth while destroying viable companies and consolidating media power.
 

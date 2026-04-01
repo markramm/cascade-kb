@@ -35,7 +35,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Democratic Backsliding
 ---
-type: timeline_event
 The Brennan Center revealed that Trump's DOJ obtained voter registration files covering 37 million voters from more than 10 states through secret agreements that allow voter removals within 45 days with minimal data protections. The agreements were negotiated without public notice or transparency, creating a framework for politically-motivated voter purges ahead of the 2026 midterm elections.
 
 The combination of voter data with DHS immigration databases and IRS taxpayer records raises the specter of systematic targeting of naturalized citizens and communities with large immigrant populations for voter roll challenges. Voting rights advocates warned that the secret nature of the agreements—combined with the administration's documented hostility toward immigrant communities—suggests the voter files will be weaponized to suppress legitimate voter participation rather than address genuine election integrity concerns.

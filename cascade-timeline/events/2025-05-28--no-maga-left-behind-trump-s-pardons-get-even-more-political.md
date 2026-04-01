@@ -42,6 +42,5 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: timeline_event
 
 Trump's pardon attorney Ed Martin explicitly politicized the presidential pardon power, announcing a strategy of pardoning political allies and supporters. This included pardoning Scott Jenkins, a former sheriff convicted of taking over $75,000 in bribes, signaling a dramatic shift in how clemency is applied.

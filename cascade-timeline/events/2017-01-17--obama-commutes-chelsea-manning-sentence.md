@@ -36,7 +36,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 President Barack Obama commuted the sentence of Chelsea Manning, reducing her 35-year prison term to seven years served with a release date of May 17, 2017. The commutation came after Manning attempted suicide twice in 2016 while serving her sentence as a transgender woman in a men's military prison, prompting widespread concerns that she would not survive her full sentence.
 

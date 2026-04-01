@@ -55,7 +55,6 @@ validation_metadata:
   corrections_applied:
   - 'Validation completed (corrections format: int)'
 ---
-type: timeline_event
 
 Inspector General report revealed Transportation Secretary Elaine Chao repeatedly 
 used her office and staff to benefit her family's shipping business, Foremost Group, 

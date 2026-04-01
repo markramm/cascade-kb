@@ -36,7 +36,6 @@ capture_lanes:
 - Environmental Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On May 28, 2025, the Department of Health and Human Services notified Moderna that it was canceling contracts worth $766 million to develop, test, and license vaccines for flu subtypes that could trigger future pandemics, including the dangerous H5N1 bird flu virus. The cancellation came as H5N1 had spread to 1,072 dairy herds, more than 173 million poultry, and caused 70 human cases with one death in the United States.
 

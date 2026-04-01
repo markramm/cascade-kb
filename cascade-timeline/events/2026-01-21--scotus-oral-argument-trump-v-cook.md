@@ -31,7 +31,6 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court heard oral arguments in Trump v. Cook (No. 25A312), a case examining presidential removal authority over independent agency officials that closely parallels the December 8, 2025 arguments in Trump v. Slaughter regarding FTC Commissioner Rebecca Slaughter. The consolidated cases threaten to overturn Humphrey's Executor v. United States (1935), the unanimous 90-year precedent upholding statutory removal protections for independent agencies as constitutional.
 

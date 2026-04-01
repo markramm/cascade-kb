@@ -51,5 +51,4 @@ tags:
 - private-club
 title: 'Trump Jr. Launches ''Executive Branch'', Ultra-Exclusive $500K Private Club in D.C.'
 ---
-type: timeline_event
 Donald Trump Jr. launched 'Executive Branch', an exclusive private club in Georgetown for ultra-wealthy Trump allies, with a $500,000 membership fee and founding members including tech moguls David Sacks, Chamath Palihapitiya, and the Winklevoss twins.

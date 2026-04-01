@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: timeline_event
 
 The Senate Homeland Security Committee voted 8-7 on March 19, 2026, to advance Markwayne Mullin's nomination to lead the Department of Homeland Security, with the outcome hinging on two members who broke with their respective parties. Sen. Rand Paul cast the lone Republican "no" vote, following through on his objections from the previous day's contentious hearing. Sen. John Fetterman of Pennsylvania was the lone Democrat to vote "yes," making his crossover the decisive vote that sent the nomination to the full Senate floor.
 

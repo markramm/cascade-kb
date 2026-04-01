@@ -44,5 +44,4 @@ sources:
 notes: Multiple agencies simultaneously benefit Musk companies while he oversees federal spending
 status: confirmed
 ---
-type: timeline_event
 FAA approves 4,000 Starlink terminals worth $400 million despite existing contract with another company, while State Department announces $400 million Tesla Cybertruck contract and Commerce changes broadband requirements favoring Starlink.

@@ -35,7 +35,6 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: timeline_event
 
 Donald Trump launched his political career by promoting the racist "birther" conspiracy theory, publicly questioning whether Barack Obama—the nation's first Black president—was born in the United States and therefore eligible to serve as president. In a March 23, 2011 appearance on Good Morning America, Trump announced he was "seriously considering" running for president while expressing skepticism about Obama's citizenship, beginning a years-long campaign of racist conspiracy theories that would propel Trump to prominence in Republican politics.
 

@@ -35,5 +35,4 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 On January 20, 2025, the Trump administration implements Schedule F executive order, enabling systematic purge of federal civil service workforce by stripping job protections from approximately 50,000 nonpartisan public servants. This restructuring, developed by the Heritage Foundation, allows immediate termination of career employees and replacement with political loyalists, fundamentally transforming the executive branch bureaucracy.

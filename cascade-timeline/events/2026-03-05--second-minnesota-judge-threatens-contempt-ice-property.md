@@ -34,7 +34,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 5, 2026, a second federal judge in Minnesota issued contempt threats against federal immigration authorities over the government's failure to return property seized from ICE detainees who had been released under court orders. The development came two days after U.S. District Judge Jeffrey Bryan had convened a widely reported contempt hearing against Minnesota U.S. Attorney Daniel Rosen on the same property issue, and signaled that the judicial resistance to ICE noncompliance was broader than a single courtroom confrontation.
 

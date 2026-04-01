@@ -39,7 +39,6 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: timeline_event
 
 U.S. District Judge Tanya Chutkan sentenced Maria Butina to 18 months in federal prison on April 26, 2019 for conspiring to act as a Russian agent without registering with the Justice Department. The sentencing took place in Washington, D.C. federal court. Butina had been in custody since her arrest in July 2018.
 

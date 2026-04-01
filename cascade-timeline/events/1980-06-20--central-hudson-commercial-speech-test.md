@@ -49,5 +49,4 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Justice Lewis Powell delivers 8-1 majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission of New York (447 U.S. 557), striking down New York ban on utility promotional advertising and establishing four-part "Central Hudson test" for commercial speech regulation. Powell's decision extends First Amendment protection to corporate advertising and promotional speech, ruling that complete advertising bans violate corporate free speech rights. Creates framework requiring government restrictions on commercial speech to be "not more extensive than necessary" to serve substantial interests, significantly expanding corporate speech protections beyond political contexts established in Bellotti.

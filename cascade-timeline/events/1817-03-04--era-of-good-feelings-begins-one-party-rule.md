@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 James Monroe assumes the presidency, inaugurating what becomes known as the "Era of Good Feelings" (1817-1825)—a period marked by the collapse of the Federalist Party and an end to bitter partisan disputes, creating nearly a decade of one-party Democratic-Republican dominance. The era reflects a sense of national purpose and desire for unity among Americans in the aftermath of the War of 1812, with Monroe's presidency so closely associated with this apparent harmony that his name and the era become virtually synonymous. The Federalist Party, which had been discredited by the Hartford Convention's secessionist threats during the War of 1812, effectively dissolves as a national force, leading to a period of one-party rule and relative surface political calm.
 

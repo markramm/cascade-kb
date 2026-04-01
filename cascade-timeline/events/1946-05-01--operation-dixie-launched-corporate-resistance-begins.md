@@ -47,7 +47,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 The Congress of Industrial Organizations launches Operation Dixie in spring 1946, the most ambitious post-World War II campaign to unionize industry in the Southern United States, particularly targeting the textile industry across 12 Southern states. A permanent Southern Organizing Committee is appointed including top officials of the United Auto Workers, United Electrical Workers, Textile Workers' Union of America, and Amalgamated Clothing Workers of America. Veteran Steelworkers' Union organizer Van Bittner is named director with Textile Workers' Union Vice President George Baldanzi as his right-hand man. The campaign is backed by millions of dollars and more than 400 professional organizers, with the Steelworkers and UCWA contributing $200,000 each, Textile Workers $125,000, and Auto Workers, UE, and CIO headquarters each contributing $100,000.
 

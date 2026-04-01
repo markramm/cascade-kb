@@ -45,6 +45,5 @@ capture_lanes:
 - Systematic Corruption
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 The Trump administration eliminated NASA's Office of Technology, Policy, and Strategy, the Office of the Chief Scientist, and its Diversity office, affecting 23 employees and raising concerns about potential SpaceX influence and reduced climate research capabilities

@@ -53,6 +53,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Consumer Financial Protection Bureau (CFPB), under acting director Russell Vought, abruptly dropped five significant lawsuits, including a $2 billion case against Capital One. The dismissals, which came during Jonathan McKernan's Senate confirmation hearing, represent an unprecedented reversal of previous enforcement actions and suggest a fundamental shift in regulatory approach.

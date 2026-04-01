@@ -36,7 +36,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On June 21, 2013, U.S. District Judge Sim Lake approved a deal reducing former Enron CEO Jeffrey Skilling's prison sentence from 24 years to 14 years—a 10-year reduction that symbolized the erosion of corporate accountability in the decade following the Enron prosecutions. The sentence reduction came five years after the 2008 financial crisis, during which no major Wall Street executives faced criminal prosecution despite fraud far exceeding Enron's scale.
 

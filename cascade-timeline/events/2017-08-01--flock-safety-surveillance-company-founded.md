@@ -39,7 +39,6 @@ sources:
 notes: Founded by Georgia Tech alumni targeting HOA neighborhoods. Would later pivot to law enforcement creating nationwide surveillance network.
 status: confirmed
 ---
-type: timeline_event
 Garrett Langley founds Flock Safety in Atlanta and presents at Y Combinator Demo Day in Mountain View. The company initially targets homeowners associations and neighborhoods with automated license plate recognition (ALPR) cameras, charging $25-50 per home annually to create surveillance networks ostensibly for catching property criminals.
 
 The business model positions Flock as a "police multiplier" - extending law enforcement reach into residential communities through camera networks funded by neighborhoods themselves. Early implementations focus on tracking stolen lawnmowers and bicycles in Atlanta suburbs, but the infrastructure being built would later evolve into a warrantless mass surveillance network used by thousands of police departments nationwide.

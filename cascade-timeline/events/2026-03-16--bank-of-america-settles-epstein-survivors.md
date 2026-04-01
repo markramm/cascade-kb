@@ -40,7 +40,6 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On March 16, 2026, Bank of America reached a settlement with survivors of Jeffrey Epstein's sex trafficking operation, resolving a lawsuit that alleged the bank had ignored approximately $170 million in suspicious transactions flowing through Epstein's accounts. The transactions included substantial payments from billionaire Leon Black, whose financial entanglements with Epstein had previously drawn intense scrutiny. The settlement terms were not immediately disclosed, with a hearing scheduled for April 2 before Judge Jed S. Rakoff in the Southern District of New York.
 

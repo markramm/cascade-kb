@@ -30,7 +30,6 @@ capture_lanes:
 - Democratic Erosion
 - Media Capture & Control
 ---
-type: timeline_event
 
 At Turning Point USA's AmericaFest conference in Phoenix, Steve Bannon described escalating conservative infighting as "a proxy on '28" for the 2028 presidential election succession battle. Bannon sharply attacked Ben Shapiro, calling him "a cancer" and a "hardcore never-Trumper," and accused Shapiro and Mark Levin of prioritizing Israel over American interests.
 

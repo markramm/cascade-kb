@@ -41,5 +41,4 @@ capture_lanes:
 - Financial Capture
 - Judicial Capture
 ---
-type: timeline_event
 $25 billion settlement with five major banks over foreclosure abuses provides limited relief to homeowners. The agreement settled widespread 'robosigning' practices where banks mass-signed foreclosure documents without proper review. While nominally $25 billion, only $1.5 billion went directly to victims, with most banks receiving credits for loan modifications. One whistleblower, Lynn Szymoniak, received $18 million for exposing the fraud, highlighting the systematic nature of the foreclosure abuse.

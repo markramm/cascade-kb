@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On May 15, 1869, the women's rights movement fractured when Elizabeth Cady Stanton and Susan B. Anthony formed the National Woman Suffrage Association (NWSA) after breaking with the American Equal Rights Association (AERA) over support for the 15th Amendment. The proposed amendment would prohibit voter discrimination based on race but not sex, granting voting rights to Black men while continuing to exclude all women. This split occurred against the backdrop of Reconstruction, when the insertion of the word "male" into the 14th Amendment in 1868 had already signaled that constitutional recognition of voting rights might prioritize formerly enslaved men over women of any race. Stanton and Anthony argued that any constitutional amendment failing to grant women's suffrage was unacceptable and deployed increasingly racist rhetoric to make their case, revealing how white supremacy could corrupt even progressive movements for democratic expansion.
 

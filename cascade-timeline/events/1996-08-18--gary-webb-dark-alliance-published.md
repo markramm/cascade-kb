@@ -35,7 +35,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Investigative journalist Gary Webb publishes his explosive three-part "Dark Alliance" series in the San Jose Mercury News, examining connections between the CIA, U.S.-backed Nicaraguan Contra rebels, and the crack cocaine epidemic that devastated African American communities during the 1980s. The 20,000-word investigation becomes an unprecedented internet sensation when posted on the newspaper's website with supporting documents and audio recordings, receiving up to 1.3 million hits daily and becoming one of the first major national security stories to gain traction online.
 

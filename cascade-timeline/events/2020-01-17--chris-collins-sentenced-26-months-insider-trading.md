@@ -40,7 +40,6 @@ sources:
   tier: 2
   outlet: Roll Call
 ---
-type: timeline_event
 
 Former U.S. Representative Chris Collins (R-NY) was sentenced to 26 months in federal prison, one year of supervised release, and a $200,000 fine by Judge Vernon S. Broderick for insider trading and making false statements to the FBI. Collins, who was the first member of Congress to endorse Donald Trump in the 2016 presidential race, committed securities fraud by tipping his son Cameron to confidential information about a failed drug trial while attending the Congressional Picnic at the White House on June 22, 2017.
 

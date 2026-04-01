@@ -42,7 +42,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 11, 2026, the Trump administration announced new trade investigations targeting China, Mexico, the European Union, and more than a dozen other economies under Section 301 of the Trade Act of 1974, explicitly designed to reconstruct the tariff architecture that the Supreme Court had struck down on February 20.
 

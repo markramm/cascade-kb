@@ -36,7 +36,6 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: timeline_event
 On January 6, 2021, at least six current or former members of the Council for National Policy played central roles in organizing and promoting the rally that became a violent insurrection at the U.S. Capitol, demonstrating how CNP's coordination infrastructure was deployed to execute the strategy planned at the organization's November 2020 meeting.
 
 CNP members involved in January 6 coordination included: Charlie Kirk (Turning Point USA founder, CNP member who tweeted he was sending "80+ buses full of patriots to DC"), Jenny Beth Martin (Tea Party Patriots CEO, CNP Executive Committee member whose phone number was on the rally permit application), Ali Alexander (former CNP fellow who organized Stop the Steal), Cleta Mitchell (CNP board member who had coordinated legal strategy), and Ginni Thomas (CNP Action board member who promoted the event).

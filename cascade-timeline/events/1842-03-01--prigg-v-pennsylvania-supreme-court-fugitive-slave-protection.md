@@ -42,7 +42,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court issues its decision in Prigg v. Pennsylvania, 41 U.S. 539 (1842), with Justice Joseph Story writing for an 8-1 majority that strikes down Pennsylvania's "personal liberty law" and establishes sweeping protections for slave catchers that enable systematic kidnapping of free Black Americans. The case involves Maryland slave catcher Edward Prigg who in 1837 captured Margaret Morgan and her children in Pennsylvania and forcibly removed them to Maryland for sale, violating Pennsylvania's law requiring slave catchers to appear before state courts and prove their claims. Morgan was likely freed by a previous owner and her children were never enslaved, but Prigg simply "snatched" them without legal process and sold them to a slave trader for shipment to the Deep South. Pennsylvania prosecuted Prigg for kidnapping, but the Supreme Court reverses his conviction and declares Pennsylvania has no authority to regulate fugitive slave captures.
 

@@ -40,7 +40,6 @@ capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 ---
-type: timeline_event
 
 In the immediate aftermath of Kristi Noem's dismissal as DHS Secretary on March 5, 2026, reporting from Axios and the Washington Post catalogued the overlapping controversies that defined her 13-month tenure and accelerated her removal — providing a consolidated portrait of institutional dysfunction at the Department of Homeland Security during the first phase of the Trump second-term deportation campaign.
 

@@ -39,7 +39,6 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 ---
-type: timeline_event
 
 Edward Snowden boarded an Aeroflot commercial flight from Hong Kong to Moscow's Sheremetyevo Airport on June 23, 2013, accompanied by Sarah Harrison of WikiLeaks, just days after the U.S. filed espionage charges and requested his extradition. The Hong Kong government allowed Snowden to leave despite the U.S. extradition request, stating that the American request "did not fully comply with the legal requirements under Hong Kong law."
 

@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 The DOJ Antitrust Division and Federal Trade Commission announced they had identified over 125 federal regulations for review and potential elimination under Trump's Executive Order on Reducing Anti-Competitive Regulatory Barriers. The initiative represents a systematic dismantling of regulatory frameworks across multiple sectors.

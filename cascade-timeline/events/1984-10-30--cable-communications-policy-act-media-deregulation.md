@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - 'Media Capture & Control'
 ---
-type: timeline_event
 On October 30, 1984, President Ronald Reagan signed the Cable Communications Policy Act of 1984, fundamentally deregulating the cable television industry and setting the stage for massive media consolidation. Written and championed by conservative Senator Barry Goldwater of Arizona, the act amended the Communications Act of 1934 with a new Title VI governing cable communications.
 
 The legislation freed cable companies from federal price controls and rate regulation, gave them renewal expectancy for franchise agreements, and allowed them to default on previous promises in certain circumstances. Local governments were given nominal oversight of cable franchise agreements, but the act represented a major victory for cable corporations over broadcasters and telephone companies.

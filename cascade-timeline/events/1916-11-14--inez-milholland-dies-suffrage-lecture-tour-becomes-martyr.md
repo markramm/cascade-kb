@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On November 14, 1916, Inez Milholland collapsed and died at age 30 during a western suffrage lecture tour, making her a martyr for the women's suffrage movement. Milholland, the glamorous lawyer and activist who had led the March 3, 1913 suffrage parade in Washington, D.C. astride a white horse while wearing a white cape and golden tiara, had been pushing herself relentlessly despite failing health. She collapsed during a speech in Los Angeles, reportedly with the words "Mr. President, how long must women wait for liberty?" on her lips—though like many elements of suffrage hagiography, this may have been embellished for dramatic effect. Alice Paul and the National Woman's Party immediately recognized the propaganda value of Milholland's death and organized elaborate memorial services that transformed her into a symbol of suffragist sacrifice and dedication. Her image—beautiful, young, educated, and white—represented the movement's strategic decision to emphasize respectable femininity to counter arguments that suffragists were unwomanly radicals.
 

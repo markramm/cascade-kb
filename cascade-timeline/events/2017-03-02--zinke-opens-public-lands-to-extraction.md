@@ -39,6 +39,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Interior Secretary Ryan Zinke, who rode a horse to his first day while claiming to be like Teddy Roosevelt, opened 10 million acres of public lands to oil and gas drilling while his wife ran a consulting firm doing business with those seeking Interior Department approval. Zinke shrunk Bears Ears National Monument by 85% and Grand Staircase-Escalante by 50%, the largest rollback of federal land protection in U.S. history. He met with Halliburton executives, then approved Arctic drilling projects. Zinke spent 39,000 on new office doors, took private jets costing 2,375 for a speech to hockey team owners, and mixed political fundraising with official travel. After resigning under 18 investigations, his successor David Bernhardt, a former oil lobbyist with 26 potential conflicts of interest, accelerated the sell-off of public lands.

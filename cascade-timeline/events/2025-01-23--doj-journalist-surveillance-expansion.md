@@ -40,5 +40,4 @@ capture_lanes:
 - Electoral Manipulation
 status: confirmed
 ---
-type: timeline_event
 The Department of Justice implements a new national security data security program that potentially allows for increased surveillance of journalists. Under the program, DOJ creates mechanisms to access bulk data that could be used to track reporters, particularly those investigating administration actions related to the 2016 election and subsequent investigations.

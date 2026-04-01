@@ -44,6 +44,5 @@ status: confirmed
 source_count: 4
 validation_priority: 8
 ---
-type: timeline_event
 
 Governor Newsom announces plan to redraw California congressional maps to "put a stake in the heart" of Trump's Texas redistricting, stating "We can sit on the sidelines and talk about the way the world should be, or we could recognize the existential nature that is this moment." The move represents an unprecedented mid-decade redistricting effort bypassing California's independent redistricting commission, with a special election scheduled for November 4, 2025.

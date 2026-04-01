@@ -49,5 +49,4 @@ tags:
 - political-manipulation
 title: Trump Campaign Staff Hired by Sanctioned Albanian Opposition Leader for Election Campaign
 ---
-type: timeline_event
 In a strategic move, Sali Berisha, an indicted Albanian opposition leader, hired Continental Strategy, a Trump-linked lobbying firm led by Chris LaCivita, to advise his party's 2025 parliamentary election campaign. Berisha hopes to leverage these connections to potentially overturn US sanctions imposed for alleged corruption.

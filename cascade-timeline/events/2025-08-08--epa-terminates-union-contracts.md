@@ -47,6 +47,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The EPA terminated all union contracts on August 8, 2025, immediately after the Ninth Circuit Court of Appeals stayed a lower court injunction blocking Trump's March executive order. EPA became the second federal agency (after VA) to cancel collective bargaining for its employees, affecting over 8,000 workers represented by AFGE, NAGE, and other unions. The agency claimed national security justifications despite EPA's environmental mission. Union leaders called it "unlawful and authoritarian" and vowed court challenges.

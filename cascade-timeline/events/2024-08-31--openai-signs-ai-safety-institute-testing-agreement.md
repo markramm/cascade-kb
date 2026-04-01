@@ -59,6 +59,5 @@ notes: The agreement exemplifies a sophisticated approach to technological gover
   where industry leaders proactively engage with regulatory bodies to shape oversight
   mechanisms while maintaining strategic flexibility.
 ---
-type: timeline_event
 
 OpenAI formally signed a Memorandum of Understanding (MOU) with the U.S. AI Safety Institute at NIST, establishing an unprecedented framework for pre-release AI model testing and safety evaluation. The agreement represents a strategic approach to industry self-regulation, allowing OpenAI to proactively shape emerging AI governance standards while maintaining a public posture of technological responsibility.

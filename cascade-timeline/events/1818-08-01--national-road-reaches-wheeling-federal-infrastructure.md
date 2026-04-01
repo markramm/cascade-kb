@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The National Road, also known as the Cumberland Road, reaches Wheeling, Virginia (now West Virginia) on the Ohio River after seven years of construction, completing the first federally funded interstate highway in American history. President Thomas Jefferson had promoted the road to support westward expansion and unify the developing nation, and Congress authorized its construction in 1806 with the contract for the first section awarded to Henry McKinley on May 8, 1811. The 131-mile alignment over the Allegheny Mountains from Cumberland, Maryland to Wheeling features a stone-surfaced, cambered roadway with masonry bridges, culverts, and cast-iron mileposts that set engineering standards for antebellum turnpikes. George Washington and Thomas Jefferson believed that a trans-Appalachian road was necessary for unifying the young country and promoting westward expansion.
 

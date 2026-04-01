@@ -43,6 +43,5 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, a known Trump ally. The incident suggests potential misuse of government resources to assist a political supporter, raising concerns about tax enforcement impartiality.

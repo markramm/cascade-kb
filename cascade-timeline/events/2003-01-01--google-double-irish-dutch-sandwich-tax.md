@@ -61,7 +61,6 @@ connections:
 - Wealth concentration
 notes: Largest tax avoidance scheme in history shielded over $100B annually in US multinational profits by 2010. Google became most prominent user after Ireland encouraged tech companies to establish structures there.
 ---
-type: timeline_event
 
 By 2003, Google had established the "Double Irish with a Dutch Sandwich"—the most sophisticated corporate tax avoidance structure in history—allowing the company to route profits through Ireland, Netherlands, and Bermuda to avoid paying billions in taxes on non-US revenues despite "Don't be evil" motto.
 

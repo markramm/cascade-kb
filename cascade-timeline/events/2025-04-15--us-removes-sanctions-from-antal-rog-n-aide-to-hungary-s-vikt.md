@@ -53,5 +53,4 @@ tags:
 - trump-administration
 title: 'US Removes Sanctions from Antal Rogán, Top Orbán Aide'
 ---
-type: timeline_event
 The Trump administration lifted US sanctions against Antal Rogán, a top Hungarian government official previously sanctioned for corruption, signaling a significant shift in diplomatic approach toward Hungary and potentially demonstrating geopolitical leverage.

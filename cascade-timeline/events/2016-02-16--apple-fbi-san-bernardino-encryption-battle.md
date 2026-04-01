@@ -45,7 +45,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 A federal magistrate judge ordered Apple to create special software to bypass security features on an iPhone 5C used by San Bernardino terrorist Syed Rizwan Farook, triggering the most public battle over encryption in U.S. history. The FBI sought to unlock the device after the December 2015 attack that killed 14 people, but Apple's iOS 8 encryption made the phone inaccessible even to the company itself.
 

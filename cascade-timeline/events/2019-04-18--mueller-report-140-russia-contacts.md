@@ -44,7 +44,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 The Mueller Report documented at least 140 contacts between Trump and 18 associates with
 Russian nationals and WikiLeaks during the 2016 campaign and transition. The report found
 Russian interference was "sweeping and systematic" and violated U.S. criminal law. While

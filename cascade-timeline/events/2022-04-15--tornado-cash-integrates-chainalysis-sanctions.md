@@ -31,7 +31,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Tornado Cash, the decentralized cryptocurrency mixer designed to enhance transaction privacy, integrates Chainalysis's oracle contract to block OFAC-sanctioned addresses from accessing the dapp. This controversial move represents a significant compromise of the privacy tool's core function, as it implements government sanctions screening through blockchain surveillance technology.
 

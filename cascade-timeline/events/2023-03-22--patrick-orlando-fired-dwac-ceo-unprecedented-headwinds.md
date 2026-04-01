@@ -42,6 +42,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Digital World Acquisition Corp (DWAC) terminated CEO Patrick Orlando's employment, citing "unprecedented headwinds" that necessitated a leadership change. The board appointed Eric Swider as interim CEO after investigations by the SEC and federal prosecutors into potential securities fraud related to pre-IPO merger discussions with Trump Media & Technology Group. Orlando had been a key figure in the proposed SPAC merger to take Truth Social public, but remained a director of the company after his removal as CEO.

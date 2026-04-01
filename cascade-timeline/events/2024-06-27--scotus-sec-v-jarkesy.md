@@ -51,5 +51,4 @@ sources:
   date: '2024-07-11'
   tier: 1
 ---
-type: timeline_event
 In a 6-3 decision on June 27, 2024, the Court held the Seventh Amendment requires jury trials when the SEC seeks civil penalties for securities fraud, ending the agency's use of in-house administrative law judge proceedings for such cases. Chief Justice Roberts' majority opinion found SEC fraud actions replicate common law fraud traditionally heard by juries, rejecting the public rights exception. The ruling forces SEC to bring civil penalty cases in federal court and potentially affects over two dozen agencies that use administrative tribunals. Justice Sotomayor's dissent warned this substantially curtails enforcement powers.

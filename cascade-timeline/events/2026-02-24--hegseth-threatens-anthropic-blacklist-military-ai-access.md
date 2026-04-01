@@ -48,7 +48,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Defense Secretary Pete Hegseth issued an ultimatum to Anthropic CEO Dario Amodei on February 24, 2026, setting a deadline of February 27 for the company to grant the Pentagon unrestricted access to its Claude AI models "for all legal purposes" or face being declared a "supply chain risk" and losing approximately $200 million in Pentagon contracts. Hegseth threatened to invoke the Defense Production Act—a Korean War-era emergency authority designed to ensure industrial mobilization during wartime—to compel Anthropic's compliance if the company refused to capitulate.
 
 Anthropic had objected to specific military applications of its AI technology, particularly uses involving domestic mass surveillance and autonomous weapons systems. The company's Responsible Scaling Policy had included commitments to halt the training of models deemed potentially unsafe—guardrails that reflected the AI safety principles on which Anthropic had been founded. Under the pressure of Hegseth's ultimatum, by February 26 Anthropic had dropped core clauses from the Responsible Scaling Policy, including the commitment to halt training of unsafe models. Yet in a paradoxical move, the company simultaneously rejected the Pentagon's latest compromise offer, creating an uncertain standoff.

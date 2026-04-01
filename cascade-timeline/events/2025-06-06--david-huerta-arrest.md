@@ -43,7 +43,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 David Huerta, president of SEIU California and son of longtime labor leader Dolores Huerta, was arrested on June 6, 2025, near a garment warehouse in Los Angeles during a federal immigration enforcement operation. Huerta had arrived at the scene as a union representative to observe and document a federal Immigration and Customs Enforcement (ICE) raid affecting SEIU members — garment workers who were among the union's represented workforce. Federal law enforcement subsequently charged Huerta with felony conspiracy to impede a federal officer, a charge that carried significant criminal penalties. CBS News reported he was later released on bond.
 
 ABC News and LAist covered the arrest extensively, with ABC noting that Huerta's arrest was remarkable both because of his prominence as a labor leader — son of the civil rights icon who co-founded the United Farm Workers with Cesar Chavez — and because felony charges for observing and documenting federal enforcement operations raised serious First Amendment concerns. Legal observers noted that labor representatives, journalists, and legal observers had traditionally been permitted to document federal enforcement actions as a form of oversight and accountability. The felony conspiracy charge against Huerta for allegedly impeding officers by his presence and documentation suggested a broadened interpretation of federal obstruction statutes.

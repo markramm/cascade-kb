@@ -45,7 +45,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On June 19, 1953, Julius and Ethel Rosenberg were executed by electric chair at Sing Sing prison, becoming the first American civilians executed for espionage during peacetime and the only Americans executed for Cold War spy activities. Their case remains the most controversial capital punishment in American history, with evidence suggesting Ethel was executed primarily to pressure Julius despite minimal involvement.
 

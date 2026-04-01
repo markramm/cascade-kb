@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On November 7, 1893, Colorado held a referendum on women's suffrage that resulted in voter approval, making it the first time in U.S. history that voters—as opposed to legislators—approved women's voting rights. The referendum passed with support from the short-lived Populist Party, which had endorsed women's suffrage as part of its broader agenda of democratic reforms and challenges to concentrated corporate power. This marked Colorado as the first state to grant women voting rights through a constitutional amendment approved by popular vote, following Wyoming's 1890 statehood with women's suffrage already established through territorial legislation. The victory demonstrated that democratic expansion could succeed through direct democracy when voters themselves decided, bypassing legislative gatekeepers often captured by corporate interests opposed to expanding the electorate.
 

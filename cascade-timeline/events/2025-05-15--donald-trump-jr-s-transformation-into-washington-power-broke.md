@@ -49,5 +49,4 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 Donald Trump Jr. has amassed significant wealth and power through cryptocurrency ventures like World Liberty Financial and American Bitcoin, establishing himself as a major Washington power broker. His ventures include a World Liberty Financial stablecoin USD1 that became the fifth-largest globally, and a Bitcoin mining company that raised $220 million.

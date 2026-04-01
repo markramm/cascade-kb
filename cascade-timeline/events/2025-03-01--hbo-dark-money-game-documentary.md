@@ -39,6 +39,5 @@ sources:
   tier: 1
 notes: Officials caught on FBI wiretaps explicitly stating Citizens United decision enabled their corruption. Documentary reveals coordinated astroturfing networks and algorithmic manipulation systems.
 ---
-type: timeline_event
 
 HBO's "The Dark Money Game" by Academy Award-winning filmmaker Alex Gibney exposed systematic corruption through FBI wiretaps of officials saying "it's good now because of Citizens United." Documentary series revealed how untraceable funding enables institutional capture at state and federal levels through coordinated astroturfing networks and algorithmic manipulation. Film provides unprecedented inside look at how dark money corrupts democratic institutions, featuring recordings of officials explicitly acknowledging Citizens United enabled their corruption schemes.

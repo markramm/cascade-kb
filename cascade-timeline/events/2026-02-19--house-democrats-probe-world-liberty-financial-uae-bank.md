@@ -37,7 +37,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 House Democrats launched a formal investigation on February 19, 2026, into World Liberty Financial, a decentralized finance platform with significant Trump family financial ties, after reports emerged that the platform was pursuing a bank charter in the United Arab Emirates. The UAE banking license would give Trump-connected entities direct access to Middle East banking infrastructure while Trump served as president, raising acute concerns about emoluments violations and conflicts of interest. The platform had already generated millions of dollars in fees and token sales benefiting Trump-connected individuals.
 
 The investigation focused on several dimensions of potential corruption. Democrats raised questions about whether the UAE charter pursuit was connected to favorable diplomatic treatment of Gulf monarchies, noting that the Trump administration had consistently aligned its Middle East policy with UAE and Saudi interests. The timing of the bank charter application—while Trump held office and maintained direct authority over US-UAE relations—created an appearance of self-dealing that critics said would have been unthinkable in prior administrations. World Liberty Financial's governance structure made it difficult to determine the precise financial flows to Trump family members, a design feature critics characterized as deliberately opaque.

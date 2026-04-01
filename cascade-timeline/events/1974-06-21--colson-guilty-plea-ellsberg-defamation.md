@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 On June 21, 1974, Charles Wendell "Chuck" Colson—Nixon's Special Counsel and the official known as the President's "hatchet man"—pleaded guilty to obstruction of justice in connection with attempts to discredit Pentagon Papers whistleblower Daniel Ellsberg. Colson received a sentence of one to three years and a $5,000 fine. Originally charged along with John Ehrlichman and members of the White House Plumbers for the September 1971 break-in at Ellsberg's psychiatrist's office, Colson's guilty plea resulted in all other charges against him being dropped. He admitted to leaking information from Ellsberg's confidential FBI file to the press, but denied organizing Hunt's burglary of Ellsberg's psychiatrist's office.
 

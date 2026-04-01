@@ -43,7 +43,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 The Pegasus Project, a groundbreaking collaborative investigation by more than 80 journalists from 17 media organizations across 10 countries coordinated by Paris-based Forbidden Stories with technical support from Amnesty International, reveals that NSO Group's Pegasus spyware has been used to facilitate massive human rights violations worldwide. The investigation centers on a leaked list of over 50,000 phone numbers belonging to individuals identified as "people of interest" by NSO Group clients, including heads of state, activists, journalists, and their family members.
 

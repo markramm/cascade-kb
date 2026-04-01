@@ -39,6 +39,5 @@ sources:
 notes: By March, Krome detention increased 249% from pre-inauguration levels. Investigation based on interviews with correctional staff, law enforcement, attorneys, detainees, doctors, and nurses. DHS systematically obstructed site visits and detainee interviews.
 status: confirmed
 ---
-type: timeline_event
 
 Senator Jon Ossoff's investigation identified 510 credible reports of human rights abuse in ICE detention, including 41 cases of physical or sexual abuse, 18 reports of child mistreatment, and 14 reports of pregnant women abuse. At Krome detention center, the facility held 1,200 more people than capacity—three times its operational limit. Women were detained in small visitation rooms with 30 others, no beds, no shower, no privacy for toilets. Detainees spent nights shackled on buses waiting to enter overcrowded facilities. DHS obstructed congressional oversight and called the documented allegations "garbage."

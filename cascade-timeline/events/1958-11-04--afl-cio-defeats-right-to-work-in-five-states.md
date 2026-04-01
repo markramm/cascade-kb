@@ -43,7 +43,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 The AFL-CIO achieves a major victory in its confrontation with the National Right-to-Work Committee's coordinated efforts to extend right-to-work laws to six additional states through ballot initiatives. Union organizing and voter mobilization efforts result in the defeat of right-to-work proposals in five of the six states where campaigns were mounted: California, Ohio, Washington, Idaho, and Colorado. Only Kansas approves a right-to-work measure in the 1958 elections. This represents one of labor's most significant defensive victories against the corporate-funded anti-union movement in the postwar period, demonstrating that organized labor can successfully resist systematic right-to-work campaigns when unions invest resources in voter education and political mobilization.
 

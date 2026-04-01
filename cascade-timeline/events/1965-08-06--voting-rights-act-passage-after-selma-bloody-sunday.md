@@ -54,7 +54,6 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law, outlawing discriminatory voting practices that have disenfranchised millions of African Americans since Reconstruction. The legislation passes the Senate 77-19 on May 26 and the House 333-85 on July 9, overcoming a 24-day filibuster by Southern senators who characterize the bill as unconstitutional and punitive to the South.

@@ -31,7 +31,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 Attorney General Pam Bondi appointed Lindsey Halligan as U.S. Attorney for the Eastern District of Virginia on September 22, 2025, using the Federal Vacancies Reform Act to bypass Senate confirmation.
 

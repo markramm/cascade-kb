@@ -43,5 +43,4 @@ sources:
   date: '2023-01-03'
   tier: 1
 ---
-type: timeline_event
 X (Twitter) announced it would expand permitted political advertising in the United States, loosening a ban in place since 2019. This decision marks a significant shift in the platform's approach to political content, potentially increasing the platform's revenue and impact on political communication.

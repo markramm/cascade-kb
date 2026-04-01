@@ -49,6 +49,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Lewis F. Powell Jr. was sworn in as Associate Justice of the Supreme Court on January 7, 1972, after being nominated by President Nixon and confirmed by the Senate with an overwhelming 89-1 vote. A corporate lawyer with board memberships in 11 major corporations, Powell's appointment represented a strategic placement of a corporate interests advocate on the nation's highest court. His 1971 memo to the Chamber of Commerce had outlined a blueprint for corporate influence in American institutions, and his Supreme Court seat provided a direct mechanism to reshape constitutional interpretation in favor of business interests.

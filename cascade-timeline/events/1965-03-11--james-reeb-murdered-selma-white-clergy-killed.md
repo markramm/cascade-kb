@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On March 11, 1965, Reverend James Reeb, a white Unitarian minister from Boston, died from injuries sustained two days earlier when he was attacked by white supremacists outside a Selma, Alabama restaurant. Reeb had answered Martin Luther King Jr.'s call for clergy to come to Selma following Bloody Sunday on March 7, when state troopers brutally attacked voting rights marchers on the Edmund Pettus Bridge. On the evening of March 9, after participating in the "Turnaround Tuesday" march, Reeb and fellow ministers Orloff Miller and Clark Olsen were walking to dinner when they were ambushed near the Silver Moon Cafe by several white men who attacked them with clubs. Reeb, 38 years old and father of four, received a devastating blow to his head that sent him into a coma. He died two days later, becoming a martyr to the voting rights cause.
 

@@ -36,7 +36,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Defense Secretary Pete Hegseth rescinded key components of Biden-era policies providing abortion access for military families on January 29, 2025. The Pentagon announced that funding for military abortion travel ended immediately, eliminating reimbursement for service members who needed to travel out of state for reproductive care including abortion.
 

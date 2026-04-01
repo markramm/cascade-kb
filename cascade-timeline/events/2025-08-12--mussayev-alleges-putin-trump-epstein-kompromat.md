@@ -43,7 +43,6 @@ sources:
   tier: 2
 status: reported
 ---
-type: timeline_event
 
 Alnur Mussayev, former chief of Kazakhstan's National Security Committee, alleged that Vladimir Putin possesses comprehensive kompromat files on Donald Trump, linking Trump to the Epstein network. Mussayev claims the FSB holds materials documenting financial transactions, sexual crimes, and potential blackmail material. However, these allegations remain unverified, with significant credibility questions surrounding Mussayev's claims.
 

@@ -37,7 +37,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The North Dakota Supreme Court reinstated the state's near-total abortion ban on November 21, 2025, despite three of five justices agreeing the ban is unconstitutionally vague under the state constitution. The ban went back into effect because the state constitution requires at least four of five justices to agree for a law to be found unconstitutional—a supermajority requirement that allowed the minority to impose abortion prohibition despite the majority finding constitutional defects.
 

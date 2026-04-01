@@ -44,6 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On April 22, 1975, the Senate formally established the Church Committee to investigate systematic abuses by U.S. intelligence agencies. Led by Senator Frank Church, the committee exposed unprecedented violations of constitutional rights by the CIA, NSA, and FBI, including illegal surveillance of American citizens, political activists, and civil rights leaders. Their comprehensive investigation revealed massive domestic spying programs, leading to landmark reforms like the Foreign Intelligence Surveillance Act (FISA) and permanent congressional intelligence oversight mechanisms.

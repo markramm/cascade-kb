@@ -35,5 +35,4 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Regulatory Capture
 ---
-type: timeline_event
 Special Counsel Robert Mueller publicly clarified his investigation\u0027s constraints, stating that DOJ policy prohibits charging a sitting president with a federal crime. Mueller emphasized that \u0027under long-standing Department policy, a President cannot be charged with a federal crime while he is in office. That is unconstitutional.\u0027 He further explained that \u0027charging the President with a crime was therefore not an option we could consider\u0027 due to Department of Justice regulations, and the Constitution requires alternative processes like impeachment to address potential presidential misconduct.

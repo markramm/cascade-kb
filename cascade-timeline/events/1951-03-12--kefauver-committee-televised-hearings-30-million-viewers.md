@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The United States Senate Special Committee to Investigate Crime in Interstate Commerce, popularly known as the Kefauver Committee after chairman Senator Estes Kefauver (D-TN), convenes televised hearings in New York City in March 1951 that become the most widely viewed congressional investigation to date. An estimated 30 million Americans tune in to watch the live proceedings, making the committee a household name - in March 1951, 72 percent of Americans are familiar with the Kefauver Committee's work. The broadcasts exemplify television's emerging power to shape public consciousness and political discourse.
 

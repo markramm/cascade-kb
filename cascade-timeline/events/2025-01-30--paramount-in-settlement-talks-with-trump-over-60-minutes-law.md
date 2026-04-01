@@ -50,6 +50,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Paramount is negotiating a settlement with Trump over his $10 billion lawsuit against CBS for allegedly deceptively editing a “60 Minutes” interview with Vice President Kamala Harris, as it seeks federal approval for a merger

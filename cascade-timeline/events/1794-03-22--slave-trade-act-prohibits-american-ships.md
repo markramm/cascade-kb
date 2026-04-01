@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Congress passes and President George Washington signs the Slave Trade Act of 1794, prohibiting American ships from being used in the international slave trade and making it illegal to build, outfit, equip, or dispatch vessels for slave trading purposes. The Act represents an early federal acknowledgment that the Atlantic slave trade is morally problematic, but it carefully limits its scope: the law prohibits only American participation in the trade between Africa and other nations, not the importation of enslaved people into the United States itself, which continues legally until 1808 under the Constitution's 20-year protection clause. Foreign ships can still bring enslaved Africans to American ports, and American slaveholders can still purchase newly imported captives—only American vessels are barred from the international trafficking business.
 

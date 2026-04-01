@@ -45,7 +45,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Golf writer James Dodson reported that Eric Trump told him in 2014: "We don't rely on
 American banks. We have all the funding we need out of Russia." When asked about financing

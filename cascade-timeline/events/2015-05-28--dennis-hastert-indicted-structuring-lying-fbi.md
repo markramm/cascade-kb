@@ -44,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 A seven-page federal indictment was unsealed on May 28, 2015, charging former House Speaker Dennis Hastert with structuring bank withdrawals to evade reporting requirements and making false statements to the FBI. Hastert, who served as the longest-serving Republican House Speaker in history (1999-2007) and was third in line to the presidency, faced charges for illegally withdrawing approximately $1.7 million from bank accounts in amounts under $10,000 to avoid triggering mandatory bank reporting requirements — a federal crime known as "structuring."
 

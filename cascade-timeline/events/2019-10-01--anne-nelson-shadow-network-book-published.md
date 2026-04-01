@@ -30,7 +30,6 @@ capture_lanes:
 - 'Media Capture & Control'
 - International Kleptocracy
 ---
-type: timeline_event
 In October 2019, journalist Anne Nelson published "Shadow Network: Media, Money, and the Secret Hub of the Radical Right," providing the first comprehensive investigation of the Council for National Policy and its role as the coordination mechanism explaining how conservative institutions move in lockstep.
 
 Nelson's book documented how CNP links "the manpower and media of the Christian right," "finances of Western plutocrats," and "strategy of right-wing Republican political operatives" through a single secretive coordination network. She revealed how Heritage Foundation, ALEC, and CNP functioned as a "three-legged stool for the right, with Heritage as the think tank; ALEC as a state-level 'bill mill'; and the CNP as a coordinating body for donors, media, and activists."

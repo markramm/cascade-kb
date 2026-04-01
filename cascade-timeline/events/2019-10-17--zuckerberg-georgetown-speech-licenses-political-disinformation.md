@@ -46,7 +46,6 @@ capture_lanes:
 - Electoral Manipulation
 - Corporate Capture
 ---
-type: timeline_event
 
 Mark Zuckerberg delivers major policy speech at Georgetown University announcing that Facebook will not fact-check political advertisements, effectively licensing the Trump campaign and other political actors to spread unlimited disinformation through paid advertising on the platform. The policy disproportionately benefits Trump's campaign and follows weeks after secret White House dinners with Trump, Kushner, and Peter Thiel.
 

@@ -32,5 +32,4 @@ tags:
 - social-media-influence
 title: Russian Digital Sky Technologies Invests $200M in Facebook
 ---
-type: timeline_event
 Digital Sky Technologies, primarily funded by Russian oligarch Alisher Usmanov, invested $200 million in Facebook in May 2009, acquiring a 1.96% equity stake at a $10 billion valuation. The investment, led by CEO Yuri Milner, was accompanied by an additional offer to purchase $100 million in common stock from existing stockholders. Beyond the financial investment, the deal highlighted growing Russian investment in Silicon Valley tech platforms, with Kremlin-connected entities like VTB Bank and Gazprom Investholding indirectly participating through DST Global.

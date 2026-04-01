@@ -69,7 +69,6 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 Reporting published on March 12, 2026 revealed that AI industry super PACs had committed over $125 million to the 2026 midterm elections — deploying a campaign finance strategy specifically designed to elect lawmakers who would oppose AI regulation while running advertisements that made no mention of artificial intelligence whatsoever. The disclosure crystallized what critics called the most sophisticated and well-funded corporate influence operation in the history of technology policy.
 

@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 On October 10, 1962, President John F. Kennedy signed the Kefauver-Harris Amendment to the Federal Food, Drug, and Cosmetic Act, fundamentally transforming pharmaceutical regulation in the United States. The legislation, driven by the thalidomide disaster in Europe, required drug manufacturers to prove both safety and efficacy before FDA approval, mandated informed consent from patients in clinical trials, and established Good Manufacturing Practice requirements.
 

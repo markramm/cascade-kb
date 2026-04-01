@@ -52,6 +52,5 @@ category: intelligence_corruption
 status: confirmed
 verification_status: documented
 ---
-type: timeline_event
 
 Following the successful Iraq authorization vote, WHIG coordinates a systematic campaign to suppress contradictory intelligence that might undermine the war narrative. This involves pressuring intelligence agencies to suppress dissenting analysis and intimidating potential whistleblowers.

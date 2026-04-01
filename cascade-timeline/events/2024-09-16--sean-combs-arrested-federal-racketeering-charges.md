@@ -39,5 +39,4 @@ importance: 10
 status: confirmed
 notes: 'This case represents a landmark federal prosecution of a high-profile music industry figure, alleging systemic criminal behavior spanning over a decade.'
 ---
-type: timeline_event
 Sean "Diddy" Combs was arrested on September 16, 2024, by the Southern District of New York (SDNY) on federal charges including racketeering conspiracy, sex trafficking, and transportation for purposes of prostitution. The indictment alleges Combs led a criminal enterprise from 2008 to the present that engaged in sex trafficking, forced labor, kidnapping, arson, bribery, and obstruction of justice. The charges carry potential life sentences, with Combs denied bail and held in the Special Housing Unit of the Metropolitan Detention Center in Brooklyn. The arrest follows multiple sexual assault lawsuits and federal raids on his properties in March 2024.

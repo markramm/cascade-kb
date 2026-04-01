@@ -37,7 +37,6 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 The reliability and accuracy of ShotSpotter's gunshot detection technology face a major crisis in August 2021 as the Chicago Office of Inspector General releases a damning report on the system's effectiveness, while the Michael Williams case exposes evidence that ShotSpotter analysts modified forensic reports at police request.
 

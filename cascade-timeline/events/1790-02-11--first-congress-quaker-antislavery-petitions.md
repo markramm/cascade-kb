@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Two groups of Quakers enter the House of Representatives in New York and submit petitions calling on the federal government to ban the African slave trade and take steps toward abolishing slavery. The petitions come from three organizations: the Philadelphia and New York Yearly Meetings of the Society of Friends and the Pennsylvania Society for Promoting the Abolition of Slavery, the latter led by 84-year-old Benjamin Franklin serving as its president. Franklin's petition, signed February 3, 1790, asks Congress to "devise means for removing the Inconsistency from the Character of the American People" and to "promote mercy and justice toward this distressed Race." This represents Franklin's last public act before his death, submitting what becomes the first unified antislavery petition campaign to the new federal government.
 

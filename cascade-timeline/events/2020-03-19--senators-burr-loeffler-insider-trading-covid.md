@@ -47,7 +47,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 In early 2020, multiple U.S. senators sold significant amounts of stock after receiving classified briefings about the COVID-19 pandemic, but before the public understood the crisis's severity and before markets crashed. Senator Richard Burr (R-NC), chair of the Senate Intelligence Committee, sold between $600,000 and $1.7 million in stocks on February 13, 2020 — his largest single-day trade in 14 months. Senator Kelly Loeffler (R-GA) began selling stocks worth up to $3.1 million on January 24, 2020, the very day senators received a classified briefing on COVID-19's potential impact.
 

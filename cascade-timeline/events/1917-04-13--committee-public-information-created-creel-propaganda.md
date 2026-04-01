@@ -34,7 +34,6 @@ capture_lanes:
 - Democratic Erosion
 - Media Capture & Control
 ---
-type: timeline_event
 
 One week after Congress declared war on Germany, President Woodrow Wilson created the Committee on Public Information (CPI) by executive order, establishing the first large-scale government propaganda apparatus in American history. Journalist George Creel was appointed chairman, heading a massive operation that would employ 150,000 people and pioneer techniques of psychological manipulation later studied by both democratic and authoritarian governments worldwide.
 

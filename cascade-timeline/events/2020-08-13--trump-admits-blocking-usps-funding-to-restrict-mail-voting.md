@@ -42,7 +42,6 @@ capture_lanes:
 - Media Capture & Control
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 In a Fox Business interview with Maria Bartiromo, President Trump explicitly admitted that he was blocking emergency funding for the United States Postal Service in order to prevent the expansion of mail-in voting during the 2020 presidential election. "They need that money in order to have the Post Office work so it can take all of these millions and millions of ballots," Trump stated, directly connecting his opposition to postal funding with restricting Americans' ability to vote by mail during the COVID-19 pandemic.
 

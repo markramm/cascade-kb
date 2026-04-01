@@ -42,6 +42,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The SEC's Division of Corporation Finance announced that meme coins, including Trump's $TRUMP token, are classified as 'collectibles' and not subject to federal securities laws, creating a significant regulatory precedent in cryptocurrency classification.

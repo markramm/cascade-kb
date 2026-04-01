@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The U.S. Supreme Court issues its landmark decision in Marbury v. Madison, with Chief Justice John Marshall declaring for the first time that federal courts possess the power to strike down laws passed by Congress that violate the Constitution. Marshall writes that "A Law repugnant to the Constitution is void," establishing the doctrine of judicial review—a power not explicitly granted to courts in the Constitution itself. The case arises from the midnight judges controversy when William Marbury, denied his commission as justice of the peace by the Jefferson administration, sues Secretary of State James Madison seeking a writ of mandamus compelling delivery of his appointment.
 

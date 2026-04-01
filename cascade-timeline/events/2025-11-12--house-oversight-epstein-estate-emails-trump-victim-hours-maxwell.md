@@ -51,7 +51,6 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: timeline_event
 
 House Democrats on the Oversight Committee released three emails from Jeffrey Epstein's estate documents (obtained via subpoena from 23,000-document archive) providing direct documentary evidence of Trump's contact with Epstein trafficking victims, Trump's knowledge of the trafficking operation, and strategic coordination on media responses.
 

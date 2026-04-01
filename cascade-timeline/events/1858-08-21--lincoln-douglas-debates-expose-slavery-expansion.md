@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The first of seven Lincoln-Douglas debates took place on August 21, 1858, in Ottawa, Illinois, as Republican challenger Abraham Lincoln faced Democratic Senator Stephen A. Douglas in a contest focused almost entirely on slavery's expansion into the territories. The debates exposed fundamental conflicts over whether the Dred Scott decision and Kansas-Nebraska Act represented efforts to nationalize slavery throughout the United States. Lincoln argued against slavery expansion while stressing he was not advocating abolition where it already existed, emphasizing "the moral iniquity of slavery" and attacking popular sovereignty for the bloody results it had produced in Kansas. Douglas defended his doctrine of "popular sovereignty," declaring that territorial settlers should decide whether to permit slavery as a matter of local self-governance.
 

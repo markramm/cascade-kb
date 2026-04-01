@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 President Jimmy Carter signs legislation establishing the Select Commission on Immigration and Refugee Policy (SCIRP), a sixteen-member bipartisan body charged with conducting a comprehensive review of U.S. immigration policy and recommending reforms. Chaired by Father Theodore Hesburgh, president of the University of Notre Dame, the commission includes four cabinet members, four senators, four representatives, and four public members. The commission's work establishes the intellectual framework for the Immigration Reform and Control Act of 1986, with members Alan Simpson and Romano Mazzoli later sponsoring that legislation.
 

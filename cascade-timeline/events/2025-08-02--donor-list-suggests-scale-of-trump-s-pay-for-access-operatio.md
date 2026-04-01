@@ -49,6 +49,5 @@ _merge_timestamp: '2025-09-05T23:46:55.900242'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president–and, at times, policy outcomes, pardons, and ambassadorships

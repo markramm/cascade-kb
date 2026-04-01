@@ -40,5 +40,4 @@ capture_lanes:
 - Financial Capture
 notes: Quick FTC approval raised questions about tech merger oversight and antitrust effectiveness
 ---
-type: timeline_event
 The Federal Trade Commission approved Amazon's $13.7 billion acquisition of Whole Foods Market on August 23, 2017, without an in-depth investigation. This decision demonstrated regulatory challenges in addressing 21st-century tech monopolies, as the FTC did not find substantial anticompetitive concerns despite Amazon's growing market power in retail and grocery sectors. The approval came with key insights: the merger involved 470 stores across North America and the U.K., and FTC's acting Competition Bureau director Bruce Hoffman stated the deal would not hamper market competition.

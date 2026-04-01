@@ -51,5 +51,4 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 Ukrainian intelligence confirmed "systemic" Russian military use of Starlink terminals since February 2024, with Russians acquiring them through third countries, demonstrating compromise of critical US space infrastructure.

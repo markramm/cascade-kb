@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Violent confrontation erupts between striking silver and lead miners and company guards at mines in Coeur d'Alene, Idaho, after union workers discover a Pinkerton agent has infiltrated their organization and routinely provided confidential union information to mine owners. The violence follows months of labor tensions triggered by mine operators installing steam-powered drilling machines that increase low-skilled jobs like shoveling while eliminating highly skilled hand-drill miner positions. On the night of July 10, armed union miners gather on hills above the Frisco mine as reinforcements arrive from surrounding communities. At five in the morning of July 11, sustained gunfire breaks out—with each side claiming the other fired first—and the conflict escalates throughout the day. Union miners dynamite a mill during the battle, which ultimately leaves six people dead and dozens wounded.
 

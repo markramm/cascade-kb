@@ -44,7 +44,6 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Scripps-McRae League is renamed Scripps-Howard Newspapers in early November 1922, recognizing company executive Roy W. Howard as co-director and consolidating control of the nation's second-largest newspaper chain after William Randolph Hearst's empire. Founder E.W. Scripps incorporates all stock, news services, and newspapers into The E.W. Scripps Company based in Cincinnati, with profits directed to the Scripps Trust for his heirs, while transferring direct operational control to his son Robert Scripps and business partner Roy Howard.
 

@@ -44,5 +44,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 The Federal Reserve Bank of Kansas City reversed its 2017 denial and approved Reserve Trust Company's master account application in May 2018, approximately nine months after former Fed Governor Sarah Bloom Raskin allegedly contacted Kansas City Fed President Esther George. The approval raised significant corruption concerns about the revolving door between government regulatory positions and private sector financial firms. Senator Pat Toomey claimed he was 'stonewalled' when requesting documents about the decision process, and the incident later contributed to Raskin's withdrawn nomination as Fed vice chair for supervision in 2022.

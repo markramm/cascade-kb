@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On April 12, 1954, the Atomic Energy Commission's Personnel Security Board commenced hearings against J. Robert Oppenheimer, the American scientist who had directed the Los Alamos Laboratory during World War II as part of the Manhattan Project to develop the atomic bomb. The hearing resulted from a November 7, 1953 letter from William L. Borden, former executive director of Congress' Joint Atomic Energy Committee, to J. Edgar Hoover stating his opinion "based upon years of study, of the available classified evidence, that more probably than not J. Robert Oppenheimer is an agent of the Soviet Union." On December 21, 1953, AEC Chairman Lewis Strauss informed Oppenheimer that his security clearance had been suspended and suggested he resign.
 

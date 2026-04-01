@@ -38,7 +38,6 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 
 The Supreme Court decides 6-3 in New York Times Co. v. United States that the Nixon administration cannot prevent newspapers from publishing the Pentagon Papers, marking the first time in American history a publication was temporarily halted due to national security concerns. A federal judge in New York had issued a restraining order against the Times on June 18, and when the Washington Post began publishing its own Pentagon Papers series the same day, Assistant U.S. Attorney General William Rehnquist demanded the Post cease publication and sought an injunction.
 

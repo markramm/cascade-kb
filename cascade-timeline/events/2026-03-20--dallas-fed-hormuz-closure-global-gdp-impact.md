@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 20, 2026, the Federal Reserve Bank of Dallas published a detailed economic analysis of the Strait of Hormuz closure, concluding that the ongoing disruption was on track to become the most severe oil supply shock in modern history — three to five times larger in magnitude than the 1973 Arab oil embargo, the 1979 Iranian Revolution, the 1980 Iran-Iraq War onset, or the 1990 Iraqi invasion of Kuwait.
 

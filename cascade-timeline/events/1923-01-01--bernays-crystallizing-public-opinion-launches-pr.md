@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 Edward Bernays, nephew of Sigmund Freud and veteran propagandist for the Committee on Public Information during World War I, publishes "Crystallizing Public Opinion," the first book to codify techniques for manipulating mass psychology in service of corporate and political interests. Bernays synthesizes his uncle's theories of the unconscious mind with wartime propaganda techniques to create what he calls "public relations counsel" - professional manipulation of public perception on behalf of paying clients. The book launches an industry designed to manufacture consent for corporate agendas while obscuring the source of influence.
 

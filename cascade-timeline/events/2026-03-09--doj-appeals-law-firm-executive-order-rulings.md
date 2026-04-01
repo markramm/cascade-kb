@@ -44,7 +44,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Department of Justice filed appeals with the U.S. Court of Appeals for the D.C. Circuit around March 9, 2026, seeking to overturn district court rulings that had blocked President Trump's executive orders targeting four major law firms: Perkins Coie, WilmerHale, Jenner and Block, and Susman Godfrey.
 

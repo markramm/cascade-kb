@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On September 1, 2021, U.S. Bankruptcy Court Judge Robert Drain approved a bankruptcy settlement granting the Sackler family "global peace" from civil liability for the opioid epidemic, despite vigorous opposition from the Department of Justice and nine state attorneys general. The ruling allowed billionaires who never filed for bankruptcy to purchase immunity from future lawsuits through their company's bankruptcy proceedings.
 

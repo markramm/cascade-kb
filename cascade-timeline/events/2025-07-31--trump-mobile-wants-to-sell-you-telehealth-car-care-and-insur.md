@@ -50,6 +50,5 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 
 Trump Mobile, led by Eric Trump and Donald Trump Jr., launched a comprehensive wireless service offering a $499 smartphone, $47.45 monthly plan, and bundled services including telehealth and car insurance. The venture operates on Liberty Mobile's network and targets conservative consumers with patriotic branding.

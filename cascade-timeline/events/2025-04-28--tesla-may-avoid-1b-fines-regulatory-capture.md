@@ -51,5 +51,4 @@ patterns:
 - regulatory-influence
 status: confirmed
 ---
-type: timeline_event
 Senate Democrats released a report detailing how Elon Musk's companies could avoid more than $1.19 billion in potential legal and regulatory fines, highlighting systemic regulatory capture under the Trump administration. The report specifically focuses on Tesla's Full Self-Driving (FSD) technology, which faces multiple federal investigations for misleading consumer claims and safety concerns.

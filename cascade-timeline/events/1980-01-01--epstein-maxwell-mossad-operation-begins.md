@@ -53,6 +53,5 @@ sources:
 notes: Use cautious language and identify this as a claim attributed to Ari Ben-Menashe. No primary documentary evidence has been produced in U.S. courts, and recent statements by Israeli officials, including former PM Naftali Bennett, reject the 'Mossad' narrative. Balance any inclusion of this item with clear labeling as 'disputed'.
 status: disputed
 ---
-type: timeline_event
 
 Former Israeli intelligence officer Ari Ben-Menashe alleges that Jeffrey Epstein and Ghislaine Maxwell ran a sexual-blackmail operation potentially connected to Israeli intelligence in the 1980s–1990s. Multiple sources, including a former NSA counterspy and academic research, explore this hypothesis, though no definitive official confirmation exists. Israeli officials, including former PM Naftali Bennett, strongly deny these claims.

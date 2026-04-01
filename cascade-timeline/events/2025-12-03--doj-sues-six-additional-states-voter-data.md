@@ -77,7 +77,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 On December 3, 2025, the Department of Justice filed federal lawsuits against six states—Delaware, Maryland, New Mexico, Rhode Island, Vermont, and Washington—for refusing to provide complete, unredacted voter registration databases containing sensitive personal information including driver's license numbers and partial Social Security numbers.
 

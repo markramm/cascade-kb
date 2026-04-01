@@ -44,7 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 Microsoft and Google filed federal lawsuits challenging government gag orders that prohibited them from disclosing details about Foreign Intelligence Surveillance Act (FISA) requests and National Security Letters (NSLs) they receive for customer data. The companies argued these blanket nondisclosure orders violated their First Amendment rights to inform users about government surveillance.
 

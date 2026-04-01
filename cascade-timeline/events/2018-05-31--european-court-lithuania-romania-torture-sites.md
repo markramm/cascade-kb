@@ -46,7 +46,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 The European Court of Human Rights issues rulings finding that Romania and Lithuania violated the European Convention on Human Rights by hosting CIA secret prisons where terrorism suspects were tortured. The court conclusively determines that Romania operated a CIA black site from September 2003 to November 2005, and Lithuania from February 2005 to March 2006, where Abu Zubaydah and Abd al-Rahim al-Nashiri were held and subjected to waterboarding, stress positions, sleep deprivation, and other torture. The rulings order both countries to pay 100,000 euros in damages to each victim, but result in no criminal prosecutions of officials who facilitated the torture sites.
 

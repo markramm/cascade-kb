@@ -49,7 +49,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 McKinsey consultants propose controversial 'detention savings opportunities' to ICE that include reducing spending on food for migrants, medical care, and supervision of detainees. An internal ICE email dated March 30, 2017 documents that McKinsey is 'looking for ways to cut or reduce standards because they are too costly,' albeit 'without sacrificing quality, safety and mission.' The money-saving recommendations shock and disturb some career ICE staff members, who raise concerns that the proposals prioritize cost-cutting over human welfare.

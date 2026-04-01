@@ -40,6 +40,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Trump campaign organized groups of fake electors to meet and cast fraudulent electoral votes in seven states Biden won - Arizona, Georgia, Michigan, Nevada, New Mexico, Pennsylvania, and Wisconsin. These 84 fake electors signed false certificates claiming to be the 'duly elected' electors and sent them to Congress and the National Archives. RNC officials assisted at Trump's direct request, with emails showing campaign lawyers coordinating the scheme. Multiple participants have been criminally charged, with Michigan charging 16 fake electors with forgery and conspiracy. Kenneth Chesebro and Sidney Powell pleaded guilty to conspiracy charges in Georgia. The fake certificates were intended for use on January 6 when Vice President Pence would count electoral votes. The scheme represented an unprecedented attempt to subvert the Electoral College system.

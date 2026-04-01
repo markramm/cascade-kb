@@ -49,7 +49,6 @@ sources:
 notes: 'Paxum Bank part-owned by Postolnikov, relation of former Russian official. SDNY prosecutors investigating Russian ties as of March 2023. Loans provided when company desperate for cash.'
 status: confirmed
 ---
-type: timeline_event
 In late 2021, Trump Media & Technology Group received emergency loans totaling approximately $8 million when the company was near financial collapse before completing its SPAC merger. Two entities provided these funds: Paxum Bank, a digital payments company, contributed $2 million, and the ES Family Trust provided $6 million. Paxum Bank was partly owned by Anton Postolnikov, a Russian national described as a relation of a former Russian government official with ties to the Kremlin.
 
 The loans attracted scrutiny from federal investigators. Southern District of New York prosecutors examined whether the transactions constituted potential money laundering, according to reporting by the Irish Times and other outlets. The Washington Post reported in May 2023 that Trump Media had taken the $8 million loan from Paxum Bank and the ES Family Trust when the company was desperately short of cash and could not access the funds raised through DWAC's IPO due to regulatory restrictions on using SPAC funds before merger completion.

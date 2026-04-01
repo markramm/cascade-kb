@@ -49,7 +49,6 @@ capture_lanes:
 - Democratic Backsliding
 - Legislative Capture
 ---
-type: timeline_event
 
 An NPR investigation published February 24, 2026 revealed that the Department of Justice secretly withheld and removed dozens of pages from the public Epstein files database — specifically records related to sexual abuse accusations against President Donald Trump. The revelation directly contradicted AG Pam Bondi's February 14 letter to Congress asserting that no records had been withheld "on the basis of embarrassment, reputational harm, or political sensitivity, including to any government official."
 

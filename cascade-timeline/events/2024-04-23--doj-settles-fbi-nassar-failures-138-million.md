@@ -48,7 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On April 23, 2024, the U.S. Justice Department announced a $138.7 million settlement with more than 100 survivors who accused the FBI of grossly mishandling allegations of sexual assault against Larry Nassar in 2015 and 2016. The settlement acknowledged that the FBI's 14-month delay in investigating credible reports from elite Olympic gymnasts enabled Nassar to sexually assault approximately 70 additional young athletes—abuse that could have been prevented if the FBI had fulfilled basic investigative obligations. The settlement represented a rare admission of federal law enforcement failure, though the Justice Department under both Trump and early Biden administrations had declined to bring criminal charges against the FBI agents who lied to investigators about their handling of the case.
 

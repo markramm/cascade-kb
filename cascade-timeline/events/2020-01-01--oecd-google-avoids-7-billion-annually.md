@@ -58,7 +58,6 @@ connections:
 - Google offshore structures
 notes: OECD findings documented that Google's tax avoidance wasn't anomaly but systematic exploitation of international tax system by digital companies. Led to Pillar One/Two proposals for 15% global minimum corporate tax.
 ---
-type: timeline_event
 
 By 2020, OECD analysis of multinational corporate tax avoidance identified Google among the most aggressive tax avoiders globally, with the company systematically avoiding an estimated $7+ billion annually in taxes through profit shifting to tax havens—maintaining an effective global tax rate under 10% despite hundreds of billions in revenues and massive profitability in high-tax countries.
 

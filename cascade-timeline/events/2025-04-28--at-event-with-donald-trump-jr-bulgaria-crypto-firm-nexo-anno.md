@@ -44,6 +44,5 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Nexo Capital announced its return to the U.S. market during a conference in Bulgaria, featuring Donald Trump Jr. as a keynote speaker. The company, which previously paid a $45 million regulatory settlement, cited 'productive' discussions with regulators and optimism about the current cryptocurrency regulatory environment.

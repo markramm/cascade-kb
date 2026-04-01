@@ -46,6 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The Trump Administration's Justice Department, led by Deputy Attorney General Todd Blanche, disbanded the National Cryptocurrency Enforcement Team (NCET), effectively ending federal prosecutorial oversight of complex crypto-related financial crimes. The move represents a significant deregulation of the digital asset sector, shifting enforcement focus away from systemic crypto-related financial investigations.

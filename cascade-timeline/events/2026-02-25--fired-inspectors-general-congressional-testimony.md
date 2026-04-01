@@ -46,7 +46,6 @@ tags:
 title: Fired Inspectors General Testify to Congress That Trump Administration Dismantled
   Federal Oversight Ecosystem
 ---
-type: timeline_event
 
 On February 25, 2026, a former Inspector General for the U.S. Office of Personnel Management testified before a congressional committee that the Trump administration had systematically dismantled the institutional infrastructure of federal oversight — firing dozens of IGs without legally required notice, cutting off funding for watchdog offices, disabling whistleblower hotlines, and embedding DOGE personnel inside agencies to demand access to sensitive data while circumventing normal oversight channels.
 

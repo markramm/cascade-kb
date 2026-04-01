@@ -42,7 +42,6 @@ capture_lanes:
 - Executive Power Expansion
 - Legislative Capture
 ---
-type: timeline_event
 
 On March 8, 2026, President Trump announced he would refuse to sign any legislation until Congress passed the SAVE America Act, a federal voter ID bill requiring proof of citizenship and photo ID to vote in federal elections. The act had already passed the Republican-led House in February 2026 but faced resistance in the Senate.
 

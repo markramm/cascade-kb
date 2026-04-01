@@ -44,6 +44,5 @@ capture_lanes:
 - Executive Power Expansion
 - Regulatory Capture
 ---
-type: timeline_event
 
 Stephen Gardner, Amtrak's CEO since 2022, was forced to resign by the Trump administration following public pressure from Elon Musk to privatize the national passenger rail service. Despite Amtrak achieving record ridership of 32.8 million customer trips in 2023, the administration signaled potential major changes, including freezing railway support and challenging existing operational policies.

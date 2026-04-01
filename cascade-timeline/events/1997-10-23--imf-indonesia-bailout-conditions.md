@@ -37,6 +37,5 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: timeline_event
 
 The International Monetary Fund provides a $40 billion bailout to Indonesia with unprecedented conditions, forcing mass privatization, financial sector restructuring, and the elimination of government subsidies. These conditions systematically dismantle Indonesia's economic sovereignty, benefiting Western corporate interests.

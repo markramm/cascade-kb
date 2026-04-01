@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Former CIA officer John Kiriakou pleaded guilty to violating the Intelligence Identities Protection Act after being indicted under the Espionage Act for publicly confirming that waterboarding was official U.S. government policy. In a profound miscarriage of justice, Kiriakou became the only person connected to the CIA's torture program to serve prison time—not for conducting torture, but for revealing it.
 

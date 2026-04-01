@@ -48,6 +48,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The CFPB dismissed a lawsuit against Comerica Bank that had accused the bank of systematically mistreating 3.4 million federal benefits cardholders through disconnected customer service, illegal fees, and mishandled fraud complaints. The lawsuit, originally filed in December 2024 by then-Director Rohit Chopra, was dropped without prejudice, potentially allowing future refiling.

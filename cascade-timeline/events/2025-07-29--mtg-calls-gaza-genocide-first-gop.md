@@ -39,6 +39,5 @@ capture_lanes:
 - Legislative Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 Representative Marjorie Taylor Greene breaks with Republican consensus by becoming the first GOP lawmaker to publicly describe Israeli military operations in Gaza as "genocide." The statement represents a dramatic departure from bipartisan support for Israel and aligns Greene with the populist-nationalist faction of MAGA skeptical of foreign interventionism. The move creates immediate tension with pro-Israel conservative establishment figures and foreshadows the deeper factional warfare that would erupt within the movement by year's end.

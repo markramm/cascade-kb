@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 On Saturday evening, October 20, 1973, President Richard Nixon ordered Attorney General Elliot Richardson to fire special prosecutor Archibald Cox, who had been appointed on May 18, 1973, to investigate Watergate and had refused Nixon's "Stennis Compromise" proposal the previous evening. Richardson, who had promised the House Judiciary Committee he would appoint an independent prosecutor, refused Nixon's order and resigned effective immediately. Nixon then ordered Deputy Attorney General William Ruckelshaus to fire Cox; Ruckelshaus also refused and resigned. Nixon finally turned to Solicitor General Robert Bork, who as acting head of the Justice Department accepted the President's order and dismissed Cox. Less than half an hour later, the White House dispatched FBI agents to physically close off and secure the offices of the Special Prosecutor, Attorney General, and Deputy Attorney General.
 

@@ -38,6 +38,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Grover Norquist launched his weekly Wednesday Meeting series at Americans for Tax Reform (ATR) headquarters in 1993, initially to coordinate opposition to President Clinton's healthcare plan. The meetings became a critical coordination mechanism for conservative movement strategy, bringing together over 150 Republican congressional leaders, right-leaning think tanks, conservative advocacy groups, and K Street lobbyists. These weekly gatherings served as the 'Grand Central station of the conservative movement', establishing a nationwide network to advance conservative political initiatives.

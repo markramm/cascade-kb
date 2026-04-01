@@ -60,7 +60,6 @@ connections:
 - QAnon amplification
 notes: Research directly contradicted YouTube's claims that recommendations were neutral. Documented systematic bias toward conspiratorial content because it generated more engagement than factual reporting.
 ---
-type: timeline_event
 
 By 2018, comprehensive academic research from UC Berkeley, Harvard, and other institutions documented that YouTube's recommendation algorithm systematically amplified conspiracy theories and misinformation over factual content—with some studies showing conspiracy videos received dramatically higher algorithmic promotion than fact-based alternatives.
 

@@ -30,7 +30,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 U.S. District Judge Lorna Schofield ruled that acting U.S. Attorney John Sarcone III for the Northern District of New York was serving unlawfully, marking the fifth such ruling against prosecutors appointed by Attorney General Pam Bondi. The judge found the Justice Department violated federal procedures by circumventing a 120-day limit for unconfirmed U.S. attorneys through personnel moves and shifting titles.
 

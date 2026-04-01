@@ -38,7 +38,6 @@ capture_lanes:
 - Democratic Backsliding
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 19, 2026, former FBI Director James Comey was subpoenaed by federal prosecutors in the Southern District of Florida as part of a sprawling "grand conspiracy" investigation targeting Obama-era intelligence officials. The probe, led by Trump-appointed U.S. Attorney Jason A. Reding Quinones, also targeted former CIA Director John Brennan and former Special Counsel Jack Smith, representing the most aggressive use of federal prosecutorial power against former government officials in modern American history.
 

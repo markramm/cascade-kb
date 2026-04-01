@@ -49,5 +49,4 @@ validation_metadata:
   - 'sources_removed: ''2'' → ''2'''
   - 'summary_updated: ''True'' → ''True'''
 ---
-type: timeline_event
 In a pivotal moment for American democracy, federal judicial leadership publicly acknowledged the systemic breakdown of constitutional checks, revealing that existing legal mechanisms have proven insufficient to constrain executive overreach. Discussions at the Judicial Conference and Senate Judiciary Committee hearings highlighted the growing tension between judicial independence and executive power, with some judges arguing that traditional oversight tools are no longer effective in the current political landscape.

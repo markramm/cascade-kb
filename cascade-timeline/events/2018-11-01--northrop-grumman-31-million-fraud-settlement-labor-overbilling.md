@@ -41,7 +41,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: timeline_event
 
 Northrop Grumman Systems Corporation agreed to pay $31.65 million to settle civil and criminal charges for systematically defrauding the U.S. Air Force by overbilling labor hours on battlefield communications contracts between January 2011 and October 2013. The settlement included $27.45 million for False Claims Act violations and $4.2 million in criminal forfeiture, resolving allegations that the defense contractor knowingly billed the Air Force for thousands of hours that employees stationed in the Middle East never actually worked on the Battlefield Airborne Communications Node (BACN) and Dynamic Re-tasking Capability (DRC) contracts.
 

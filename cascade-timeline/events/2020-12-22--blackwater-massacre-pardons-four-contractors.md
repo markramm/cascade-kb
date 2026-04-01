@@ -46,7 +46,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-type: timeline_event
 
 President Trump pardoned four Blackwater private military contractors convicted of killing 14 Iraqi civilians, including two children, in Baghdad's Nisour Square in 2007. Nicholas Slatten, Paul Slough, Evan Liberty, and Dustin Heard were serving sentences ranging from 12 years to life imprisonment after a lengthy federal prosecution proved they opened fire on unarmed civilians without provocation, killing 14 and wounding 17 others. The massacre sparked international outrage and became a symbol of unaccountable private military contractors operating in Iraq.
 

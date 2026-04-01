@@ -49,5 +49,4 @@ patterns:
 - kleptocratic-capture
 - institutional-transformation
 ---
-type: timeline_event
 The FBI's Washington Field Office disbanded its 'CR15' public corruption squad, a unit critical to investigating potential misconduct in the Trump administration. This move follows broader cuts to the Justice Department's Public Integrity Section and represents a significant shift in investigative priorities under the Trump administration. The dissolution of CR15, which was deeply involved in the 'Arctic Frost' investigation and Jack Smith's probe into efforts to overturn the 2020 election, signals a major transformation in the FBI's approach to political corruption investigations.

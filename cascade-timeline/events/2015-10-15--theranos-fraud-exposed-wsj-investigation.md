@@ -42,7 +42,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Wall Street Journal reporter John Carreyrou publishes the first investigative article exposing Theranos' fraudulent blood-testing technology, revealing that the company was using traditional blood testing machines instead of its proprietary 'Edison' devices and that test results were inaccurate. The exposé marks the beginning of the unraveling of Elizabeth Holmes' $9 billion fraud scheme. Despite Theranos' attempts to intimidate Carreyrou and the WSJ with legal threats from high-powered lawyers, the investigation reveals systematic deception of investors, patients, and regulatory partners including Walgreens.
 

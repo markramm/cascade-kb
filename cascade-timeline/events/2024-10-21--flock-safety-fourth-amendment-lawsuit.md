@@ -43,7 +43,6 @@ sources:
 notes: 'Challenges 172 Flock cameras in Norfolk. Court later rejects city''s motion to dismiss, finding Fourth Amendment violation plausible.'
 status: confirmed
 ---
-type: timeline_event
 The Institute for Justice files a federal lawsuit on behalf of Norfolk residents Lee Schmidt and Crystal Arrington, challenging the city's deployment of 172 Flock Safety automated license plate recognition (ALPR) cameras as an unconstitutional violation of the Fourth Amendment's protection against unreasonable searches.
 
 The lawsuit argues that "strategically blanketing Norfolk's roads with AI-equipped ALPR cameras—and storing everyone's location data without a warrant for weeks at a time—violates the Fourth Amendment." Unlike traffic violation cameras that photograph specific violations, Flock's system photographs every vehicle that passes and uses AI to create comprehensive tracking profiles stored in massive databases that law enforcement can search without warrants.

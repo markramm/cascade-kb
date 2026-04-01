@@ -45,7 +45,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 FBI agents executed an unprecedented search warrant at Donald Trump's Mar-a-Lago residence,
 recovering 33 boxes containing 11 sets of classified documents, including top secret and

@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Cambridge University researcher Aleksandr Kogan developed a personality-quiz
 app that collected data via Facebook's API and shared it with Cambridge

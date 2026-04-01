@@ -55,6 +55,5 @@ patterns_summary:
   power_monetization: Presidential clemency power used as a transactional political tool
   selective_justice: White-collar criminals with political connections receive preferential treatment
 ---
-type: timeline_event
 
 In a systematic display of political patronage, Trump granted executive clemency to a series of convicted individuals, prioritizing wealthy campaign contributors and ardent MAGA loyalists. These pardons represent a dramatic expansion of Trump's first-term pardon strategy, transforming the presidential clemency power into a transactional political tool.

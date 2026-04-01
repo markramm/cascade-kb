@@ -30,7 +30,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Financial Capture
 ---
-type: timeline_event
 
 The Internal Revenue Service announces a Virtual Currency Compliance Campaign to address tax noncompliance related to cryptocurrency use, heavily relying on Chainalysis blockchain surveillance software. The IRS Cyber Crimes Unit (CCU), a five-year-old division of IRS Criminal Investigation, deploys Chainalysis's "Reactor" software to identify taxpayers who may be non-compliant with tax laws or involved in criminal activity related to cryptocurrency transactions.
 

@@ -50,5 +50,4 @@ sources:
 notes: Major reversal from this position to launching $2.9 billion crypto empire by 2025. Initial skepticism transformed into enthusiastic crypto advocacy.
 status: confirmed
 ---
-type: timeline_event
 Donald Trump calls Bitcoin 'a scam' competing with the dollar in 2021, marking his initial skepticism before his dramatic transformation to 'crypto president' by 2025. In a Fox Business interview, Trump argued that Bitcoin threatens dollar hegemony and should be heavily regulated.

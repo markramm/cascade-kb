@@ -55,7 +55,6 @@ sources:
   tier: 2
   verified: true
 ---
-type: timeline_event
 
 
 The Trump DOJ, through Civil Rights Division head Harmeet Dhillon, sent a letter to Minnesota Secretary of State Steve Simon demanding voter registration records within 15 days. The DOJ is specifically targeting Minnesota's same-day registration and "vouching" system, where voters can prove residence by having another registered voter vouch for them.

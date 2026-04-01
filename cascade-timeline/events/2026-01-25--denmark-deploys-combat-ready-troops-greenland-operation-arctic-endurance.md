@@ -31,7 +31,6 @@ sources:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Denmark deploys additional combat-ready troops to Greenland as part of Operation Arctic Endurance, a multinational military exercise accelerated and intensified in response to U.S. annexation threats. Major General Søren Andersen confirms that approximately 100 Danish soldiers have arrived in Nuuk, with similar numbers deployed to Kangerlussuaq, bringing the total deployment to several hundred personnel including the Chief of the Royal Danish Army, General Peter Harling Boysen.
 

@@ -41,7 +41,6 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Special Counsel Robert Mueller indicted twelve officers of the Russian Federation's Main Intelligence Directorate (GRU) for hacking the Democratic National Committee, the Democratic Congressional Campaign Committee, and the Clinton presidential campaign during the 2016 election. The 29-page indictment provided extraordinary technical detail about the most consequential cyberattack in American political history, revealing how Russian military intelligence weaponized stolen information to influence a U.S. presidential election.
 

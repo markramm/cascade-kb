@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 President Harry S. Truman signs Executive Order 9981 on July 26, 1948, abolishing discrimination "on the basis of race, color, religion or national origin" in the United States Armed Forces and repudiating 170 years of officially sanctioned discrimination. The order states "there shall be equality of treatment and opportunity for all persons in the armed forces without regard to race, color, religion, or national origin" and creates the President's Committee on Equality of Treatment and Opportunity in the Armed Services to investigate and implement the policy. The order represents a major achievement of the post-war civil rights movement and marks one of the first times a U.S. commander in chief uses executive action to implement civil rights policy.
 

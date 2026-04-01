@@ -48,6 +48,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Trump's EPA established an email portal allowing fossil fuel companies to request Presidential Exemptions from Clean Air Act regulations, enabling up to two-year compliance waivers for pollution control standards on nearly 200 toxic pollutants.

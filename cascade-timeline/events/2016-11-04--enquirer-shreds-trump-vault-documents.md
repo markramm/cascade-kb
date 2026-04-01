@@ -52,5 +52,4 @@ capture_lanes:
 - Electoral Manipulation
 - 'Media Capture & Control'
 ---
-type: timeline_event
 After Wall Street Journal calls about McDougal payment, Dylan Howard orders staff to "get everything out of the safe" and shred documents, destroying evidence days before election. The Enquirer's leadership, including CEO David Pecker, maintained a 'catch and kill' safe containing damaging stories about Trump during the 2016 campaign.

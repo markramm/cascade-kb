@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 In 2006, option adjustable-rate mortgages (option ARMs) reached 42 percent of all ARM loan volume in non-subprime, non-agency securitizations, up from 32 percent in 2005 and just 12 percent in 2004. Leading issuers included Washington Mutual, IndyMac, Countrywide, Wachovia, BankUnited Financial, Downey Savings, FirstFed Financial, and Guaranty Financial Group. These toxic mortgage products allowed borrowers to make artificially low minimum monthly payments for up to five years, with the difference between the minimum payment and actual interest being added to the loan balance, creating negative amortization.
 

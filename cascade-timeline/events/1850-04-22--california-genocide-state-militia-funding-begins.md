@@ -45,7 +45,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 California achieves statehood on September 9, 1850, and the newly formed state legislature immediately begins authorizing and funding militia expeditions explicitly designed to kill Indigenous Californians and drive them from their ancestral lands. Between 1850 and 1861, California governors call out or authorize no fewer than 24 state militia expeditions that kill at least 1,340 California Indians—a number that represents only documented militia killings and excludes the far larger number of deaths from massacres by local vigilantes, starvation, disease, and displacement. The California legislature raises up to $1.51 million to pay for these state militia expeditions against California Native Americans, creating what is not an exaggeration to describe as a state-sponsored killing machine. The state pays these expenses nearly in full, and remarkably, the U.S. Congress later reimburses California for most of these genocide costs: of the $1.5 million California spends on 24 different Indian-killing militia campaigns, Congress pays the state back all but $200,000.
 

@@ -34,7 +34,6 @@ sources:
 notes: Timing suggests potential witness elimination after money laundering revelations
 status: confirmed
 ---
-type: timeline_event
 
 Three weeks after Epstein expressed fear about revealing Trump's money laundering operations to Michael Wolff, Epstein was arrested at Teterboro Airport on sex trafficking charges.
 

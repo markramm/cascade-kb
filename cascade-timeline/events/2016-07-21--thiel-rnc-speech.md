@@ -47,7 +47,6 @@ notes: 'Thiel''s RNC speech represents watershed moment in tech-politics alignme
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Tech billionaire Peter Thiel delivers prime-time RNC speech endorsing Trump, marking Silicon Valley's entry into MAGA movement and first openly gay speaker at Republican convention
 
 PayPal co-founder and venture capitalist Peter Thiel took the stage at the 2016 Republican National Convention in Cleveland on July 21, 2016, delivering a brief but historically significant speech endorsing Donald Trump. The address lasted less than six minutes but made headlines as the first time an openly gay speaker had identified himself as such at a Republican convention, with Thiel stating: "I am proud to be gay. I am proud to be a Republican. But most of all, I am proud to be an American." The speech marked a watershed moment in the alignment of tech-sector billionaires with the MAGA movement.

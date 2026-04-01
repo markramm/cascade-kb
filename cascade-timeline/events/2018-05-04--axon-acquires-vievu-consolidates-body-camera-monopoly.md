@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 On May 4, 2018, Axon Enterprise acquired VieVu LLC, its primary competitor in the police body camera industry, for $7.1 million ($4.6 million cash and $2.5 million in stock) plus performance-based milestone payments of 141,000 additional shares. The acquisition eliminated meaningful competition in the police body camera market, giving Axon control of approximately 80% of body camera deployments in major US cities. VieVu had supplied body cameras and cloud-based evidence management systems to hundreds of law enforcement agencies including the New York City Police Department, Miami-Dade Police Department, Phoenix Police Department, Oakland Police Department, and Aurora, Colorado Police Department—representing some of the largest urban police forces in the United States.
 

@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 On August 3, 1948, Whittaker Chambers, a former Communist Party USA member, testified under subpoena before the House Un-American Activities Committee that Alger Hiss—a former State Department official who had accompanied FDR to Yalta—had secretly been a communist while in federal service. Hiss categorically denied the charge and subsequently sued Chambers for libel. Richard Nixon, then an unknown first-term congressman from California, seized upon the case as his political vehicle. During the pretrial discovery process, Chambers produced new evidence allegedly indicating espionage, including the famous "Pumpkin Papers"—microfilm hidden in a hollowed-out pumpkin at his Maryland farm.
 

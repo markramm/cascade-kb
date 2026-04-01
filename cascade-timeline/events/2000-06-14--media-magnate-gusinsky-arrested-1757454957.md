@@ -36,6 +36,5 @@ sources:
 status: confirmed
 priority_id: RP-20250909-intelligence-privatization-timeline
 ---
-type: timeline_event
 
 Putin's government arrested Vladimir Gusinsky, owner of Media-Most and Russia's largest independent television network, on alleged fraud charges. The arrest was widely seen as a politically motivated attempt to silence critical media, marking an early example of Putin's systematic assault on independent press. Gusinsky was held for three days, forced to sell his media assets, and subsequently left Russia.

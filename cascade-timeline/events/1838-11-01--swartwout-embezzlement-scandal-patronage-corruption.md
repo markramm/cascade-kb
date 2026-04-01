@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Samuel Swartwout, Jackson's political appointee as Collector of the Port of New York, absconds with $1,225,705.09 (equivalent to $36.2 million in 2024 dollars) after his term expires, fleeing to England in what becomes the most spectacular embezzlement scandal of the era. Swartwout, an old army comrade and political sycophant of President Jackson, received the appointment in April 1829 despite strong opposition from Secretary of State Martin Van Buren and other advisors who warned against placing him in the position. The New York customhouse collected nearly half the federal government's annual revenue, making it one of the most financially critical positions in government, yet Jackson awarded it purely on the basis of personal loyalty and political service during the 1828 presidential campaign rather than qualifications or fiscal competence.
 

@@ -60,5 +60,4 @@ notes: 'Comprehensive tracking of Trump family''s financial ventures, highlighti
 _merge_note: Enhanced with information from duplicate event and additional sources
 _merge_timestamp: '2025-10-07T02:30:00Z'
 ---
-type: timeline_event
 World Liberty Financial, a crypto venture backed by Trump's family, announced it raised $250 million in its second token sale, bringing total sales to $550 million. The project demonstrates potential conflicts of interest and regulatory capture in the cryptocurrency sector.

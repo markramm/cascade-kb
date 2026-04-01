@@ -34,6 +34,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 International civil society organization CIVICUS Monitor places United States on watchlist due to rapid degradation of democratic guardrails, marking first time U.S. appears on international democracy concern list.

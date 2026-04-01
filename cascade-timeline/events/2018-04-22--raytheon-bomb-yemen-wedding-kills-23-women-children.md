@@ -43,7 +43,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On April 22, 2018, a Saudi-led coalition airstrike struck a wedding celebration in northern Yemen, killing 23 people including the bride and predominately women and children. The weapon used was identified as a GBU-12 Paveway II precision-guided bomb, manufactured jointly by Lockheed Martin and Raytheon and provided to the Saudi military through US government-approved arms sales. The Guardian and Bellingcat investigations confirmed that the majority of casualties were women and children attending a wedding ceremony in a rural village with no apparent military targets in the vicinity. The strike occurred in daylight hours when wedding celebrations were clearly visible, and witnesses reported no Houthi military presence or activity that could have constituted a legitimate military objective. The attack represented another instance in a documented pattern of Saudi coalition forces using US-supplied precision-guided munitions to strike civilian gatherings in Yemen.
 

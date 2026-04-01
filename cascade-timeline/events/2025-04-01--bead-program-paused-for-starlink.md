@@ -38,5 +38,4 @@ capture_lanes:
 - Financial Capture
 location: 'Washington, D.C.'
 ---
-type: timeline_event
 Trump administration pauses the $42 billion Broadband Equity Access and Deployment (BEAD) program to implement 'tech-neutral' approach, potentially allowing Elon Musk's Starlink to receive $10-20 billion in federal grants instead of the original $4.1 billion. Critics argue this delays rural broadband deployment to benefit the world's richest man while providing inferior and more expensive satellite internet compared to fiber optic networks.

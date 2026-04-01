@@ -43,6 +43,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Supreme Court ruled 6-3 to block President Biden's OSHA mandate requiring businesses with 100+ employees to enforce COVID vaccination or weekly testing, affecting 84 million workers. The Court held that while OSHA can regulate 'occupational dangers,' it lacks authority to 'regulate public health more broadly.' The majority wrote that requiring vaccination of 84 million Americans 'selected simply because they work for employers with more than 100 employees' exceeded OSHA's statutory authority. The Biden administration withdrew the mandate on January 26. The Court simultaneously upheld a narrower CMS mandate for healthcare workers receiving federal funds. This marked a significant limit on executive agency power to address emergencies without clear Congressional authorization.

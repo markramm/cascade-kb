@@ -42,7 +42,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Elon Musk publicly supported and financially backed Republican congressional efforts to impeach federal judges who had issued rulings blocking Trump administration policies in March 2025. Musk used his X social media platform to amplify calls for judicial impeachment and pledged financial support to Republican members of Congress who pursued impeachment proceedings against judges whose rulings he opposed. The campaign targeted judges who had issued temporary restraining orders and injunctions blocking DOGE-related actions, the administration's mass firings, and other executive branch initiatives.
 

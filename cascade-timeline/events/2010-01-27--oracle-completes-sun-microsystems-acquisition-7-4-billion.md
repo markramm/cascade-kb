@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Oracle Corporation completed its acquisition of Sun Microsystems on January 27, 2010, for approximately $7.4 billion ($9.50 per share in cash), gaining control of critical software infrastructure including the Java programming language, MySQL open-source database, and Sun's hardware systems business. The acquisition, announced in April 2009, was delayed for nearly a year due to regulatory scrutiny from the European Commission over concerns about Oracle's control of MySQL, a competitor to Oracle's flagship database product.
 

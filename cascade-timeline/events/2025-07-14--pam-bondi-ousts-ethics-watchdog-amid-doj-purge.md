@@ -58,5 +58,4 @@ old:
 - ethics-violations
 - justice-weaponization
 ---
-type: timeline_event
 Attorney General Pam Bondi fired Joseph Tirrell, the Department of Justice's top ethics director responsible for advising senior leadership on federal employee ethics, as part of a broader personnel purge affecting investigators of Trump-related cases.

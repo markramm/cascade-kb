@@ -66,7 +66,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Health and Human Services Secretary Tom Price resigned after revelations he spent 
 over $1 million in taxpayer funds on private jets and military aircraft for travel 

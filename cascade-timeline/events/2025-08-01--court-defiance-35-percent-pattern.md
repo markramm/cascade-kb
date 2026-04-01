@@ -41,6 +41,5 @@ sources:
 notes: Unprecedented systematic rejection of judicial authority
 status: confirmed
 ---
-type: timeline_event
 
 According to Washington Post analysis, the Trump administration has been accused of flouting courts in about a third of more than 160 lawsuits where judges issued substantive rulings against them. CNN reports the administration is "at war with the federal judiciary," evading court orders blocking its agenda and suing judges for alleged misconduct, with multiple federal judges warning this could precipitate a constitutional crisis.

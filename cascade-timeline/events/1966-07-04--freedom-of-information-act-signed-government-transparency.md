@@ -37,7 +37,6 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 
 On July 4, 1966, President Lyndon B. Johnson reluctantly signed the Freedom of Information Act (FOIA), establishing for the first time a legal right for citizens to access federal agency records. The legislation overturned the presumption of government secrecy that had prevailed since the founding, replacing it with a presumption of openness with specific, limited exemptions.
 

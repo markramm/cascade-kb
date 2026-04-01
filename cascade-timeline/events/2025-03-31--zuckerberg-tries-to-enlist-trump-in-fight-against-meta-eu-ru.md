@@ -47,7 +47,6 @@ capture_lanes:
 - Media Capture & Control
 - Judicial Capture
 ---
-type: timeline_event
 Meta CEO Mark Zuckerberg lobbied the Trump administration in late March 2025 to intervene on Meta's behalf in European Union regulatory proceedings that threatened to require Facebook and Instagram to offer ad-free subscription options and restrict Meta's ability to monetize user data for targeted advertising. The Wall Street Journal reported that Zuckerberg was seeking Trump's help ahead of an anticipated EU ruling under the Digital Markets Act (DMA) that could cost Meta billions in annual revenue and fundamentally change its advertising business model in Europe. Fortune had previously reported that Meta had warned EU regulators that it would "run to Trump" whenever it felt it was being unfairly treated.
 
 The appeal to Trump reflected the transactional relationship Zuckerberg had cultivated with the administration following Meta's $1 million donation to Trump's inaugural fund, the elimination of its third-party fact-checking program, the appointment of Republican-aligned board members, and other gestures of alignment with Trump's political preferences. In exchange, Meta sought U.S. government pressure on European regulators on its behalf — using American diplomatic and trade leverage to shield a private corporation from foreign regulatory accountability. Platformer reported on the full accounting of what Zuckerberg had received from Trump, and what Trump had received from Zuckerberg, as a documented exchange of political favors.

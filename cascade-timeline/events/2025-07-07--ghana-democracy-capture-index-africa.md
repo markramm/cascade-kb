@@ -40,5 +40,4 @@ capture_lanes:
 - Federal Workforce Capture
 validation_notes: Comprehensive verification of Democracy Capture Index details. Enhanced with source from Ghana News Agency providing additional context and systematic findings. Updated summary with more precise details from research.
 ---
-type: timeline_event
 The Ghana Centre for Democratic Development (CDD-Ghana) launched the inaugural Democracy Capture Index (DEMCAP), a comprehensive study revealing systemic vulnerabilities in African democratic institutions. The index analyzed 370 institutions across 10 countries, finding that 60% of agencies experience some level of democracy capture. Countries were categorized from low to very high capture levels, with Kenya, Benin, Tanzania, and DR Congo showing the most severe institutional vulnerabilities. The study identified the Chief Executive (president) as the primary perpetrator in most studied democracies, highlighting the complex challenges facing democratic governance in Africa.

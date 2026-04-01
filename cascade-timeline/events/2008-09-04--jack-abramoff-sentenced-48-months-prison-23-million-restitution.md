@@ -46,6 +46,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Former lobbyist Jack Abramoff was sentenced to 48 months in federal prison and ordered to pay $23,134,695 in restitution for his role in the massive congressional corruption scandal. This Washington D.C. sentencing was for conspiracy to commit honest services fraud, honest services fraud involving public officials, and tax evasion. Combined with his earlier 70-month sentence in the SunCruz casino boat fraud case in Florida, Abramoff faced substantial prison time. The restitution amount represented funds defrauded from Native American tribal clients including the Mississippi Band of Choctaw Indians, Louisiana Coushatta, Tigua Tribe, and Saginaw Chippewa. Abramoff and partner Michael Scanlon had charged tribes an estimated $85 million in inflated fees while secretly splitting profits. The scandal ultimately resulted in convictions of 24 individuals including members of Congress, White House officials, and congressional staff, making it one of the largest congressional corruption cases in modern U.S. history.

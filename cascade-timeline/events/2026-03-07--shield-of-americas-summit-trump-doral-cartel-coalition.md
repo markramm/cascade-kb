@@ -61,7 +61,6 @@ capture_lanes:
 - Systematic Corruption
 - Military Capture
 ---
-type: timeline_event
 
 President Trump hosted the Shield of the Americas Summit at Trump National Doral Miami on March 7-8, 2026, gathering leaders from 12 allied Western Hemisphere nations to sign a proclamation launching the Americas Counter-Cartel Coalition — a multinational military cooperation initiative committing signatories to "using lethal military force to destroy the sinister cartels." The summit served simultaneously as the formal debut of Kristi Noem's new role as Special Envoy for the Shield of the Americas, days after Trump fired her as DHS Secretary, and as a venue for Trump to threaten "imminent action" against Cuba and boast about the ongoing Iran war.
 

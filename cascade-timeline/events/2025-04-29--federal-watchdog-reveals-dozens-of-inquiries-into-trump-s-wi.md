@@ -47,6 +47,5 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The Government Accountability Office (GAO) is investigating 39 separate instances where the Trump administration potentially violated the Impoundment Control Act by illegally withholding over $430 billion in congressional appropriations from various federal agencies. The investigations span multiple sectors including transportation, education, medical research, and public safety, revealing a systematic pattern of blocking congressionally mandated funding.

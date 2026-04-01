@@ -37,7 +37,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court rules 8-1 in Buck v. Bell to uphold Virginia's compulsory sterilization law, providing constitutional blessing for the eugenics movement's campaign to sterilize those deemed "unfit." Justice Oliver Wendell Holmes writes for the majority that the state may sterilize individuals judged "feebleminded" to prevent transmission of hereditary defects, declaring: "Three generations of imbeciles are enough." The decision validates forced sterilization as a legitimate exercise of state police power and accelerates eugenics programs nationwide.
 

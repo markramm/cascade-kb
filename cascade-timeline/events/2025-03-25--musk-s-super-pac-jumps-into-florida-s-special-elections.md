@@ -51,6 +51,5 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Elon Musk's America PAC spent $20,488.90 on texting services to support two Republican candidates in Florida special House elections: Jimmy Patronis (1st District) and Randy Fine (6th District). The strategic spending demonstrates Musk's continued political engagement while serving as a White House adviser, with Randy Fine ultimately winning his race.

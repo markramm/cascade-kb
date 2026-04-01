@@ -41,7 +41,6 @@ sources:
   tier: 2
 notes: Damon Hewitt of Lawyers' Committee for Civil Rights Under Law called this "beyond unusual — it's unprecedented. We've never seen this before at this scale with any transfer of power." The freeze affects at least eight communities with pending police reform efforts. By May 2025, approximately 250 lawyers (70% of the Civil Rights Division) had left or planned to leave.
 ---
-type: timeline_event
 
 Trump's Justice Department leadership ordered a complete freeze on all Civil Rights Division litigation and enforcement activities through internal memos sent by Chief of Staff Chad Mizelle to acting division head Kathleen Wolfe. The memos prohibited attorneys from filing "any new complaints, motions to intervene, agreed-upon remands, amicus briefs, or statements of interest" until further notice. The freeze was justified as necessary to ensure "the federal government speaks with one voice in its view of the law and to ensure that the President's appointees or designees have the opportunity to decide whether to initiate new cases."
 

@@ -43,6 +43,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Three-judge panel (2 Trump, 1 Biden appointees) unanimously extends stay allowing Trump control of 4,000 CA Guard troops. Court applies 'highly deferential' standard under Title 10, rejects claim this is political question. Trump posts 'BIG WIN' while case proceeds on merits.

@@ -58,7 +58,6 @@ connections:
 - Publisher exploitation
 notes: First attempted corporate breakup since AT&T 1982. Represents shift from behavioral remedies to structural separation for platform monopolies. Trial began September 2024 before Judge Brinkema in Virginia.
 ---
-type: timeline_event
 
 On January 24, 2023, the United States Department of Justice filed a civil antitrust lawsuit against Google seeking to break up the company's advertising technology business—marking the first government attempt to structurally dismantle a major corporation since AT&T in 1982. The case represents a fundamental shift in antitrust enforcement toward structural remedies for platform monopolies.
 

@@ -44,6 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Attorney General Pamela Bondi issued a memorandum and President Trump signed an executive order directing the Department of Justice to pause FCPA enforcement for 180 days, prioritizing cases involving cartels and transnational criminal organizations while reviewing existing investigations. The pause allows U.S. companies temporary immunity from foreign bribery prosecutions, fundamentally altering the DOJ's approach to corporate anti-corruption enforcement.

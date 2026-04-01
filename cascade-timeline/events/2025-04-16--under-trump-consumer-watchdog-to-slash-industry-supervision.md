@@ -63,5 +63,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 The Consumer Financial Protection Bureau (CFPB) underwent a massive restructuring under the Trump administration, with approximately 90% of its workforce (1,482 employees) laid off, reducing staff to around 200. A federal appeals court ruled in favor of these workforce reductions, despite challenges from the National Treasury Employees Union. The agency's focus narrowed dramatically, effectively eliminating robust supervision of student loans, medical debt, digital payments, and other consumer financial services, leaving only minimal protections primarily for military personnel.

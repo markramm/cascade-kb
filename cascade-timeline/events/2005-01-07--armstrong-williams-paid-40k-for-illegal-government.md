@@ -39,6 +39,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Department of Education violated federal law by paying conservative commentator Armstrong Williams 40,000 through Ketchum Inc. PR firm to promote the No Child Left Behind Act without disclosing the government funding to audiences. Williams regularly promoted NCLB on his syndicated TV and radio shows, interviewed Education Secretary Rod Paige in government-funded segments, and encouraged other black journalists to cover the program favorably while hiding his financial relationship with the government. The GAO found this constituted 'covert propaganda' in violation of federal publicity prohibitions and the Antideficiency Act. Two other journalists, Maggie Gallagher (1,500 from HHS) and Michael McManus (0,000 from HHS), were similarly paid to promote Bush's marriage initiative without disclosure. The scandal represented systematic illegal government-funded media manipulation, with the GAO explicitly finding violations of federal law prohibiting covert propaganda operations within the United States. Williams' contract required him to regularly comment on NCLB during the school year and interview Paige at least once, creating a direct quid pro quo between taxpayer money and favorable media coverage.

@@ -44,7 +44,6 @@ capture_lanes:
 - Electoral Manipulation
 - Judicial Capture
 ---
-type: timeline_event
 
 On October 28, 2025, while President Trump was returning from a three-country Asia trip, the administration executed a major purge of Immigration and Customs Enforcement (ICE) leadership, reassigning 12 field office directors across the country and replacing them with Customs and Border Protection (CBP) officials and Border Patrol agents known to be more loyal to Trump and more willing to escalate immigration enforcement beyond constitutional limits.
 

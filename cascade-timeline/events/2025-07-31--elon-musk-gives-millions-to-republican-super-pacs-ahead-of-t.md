@@ -50,5 +50,4 @@ capture_lanes:
 - Systematic Corruption
 - Electoral Manipulation
 ---
-type: timeline_event
 Despite public tensions, Elon Musk donated $5 million to Trump's MAGA Inc. super PAC, part of a broader $277 million spending campaign to support Trump and Republican candidates in the 2024-2025 election cycle

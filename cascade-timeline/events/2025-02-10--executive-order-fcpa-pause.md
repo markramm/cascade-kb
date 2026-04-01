@@ -52,5 +52,4 @@ tags:
 - america-first
 title: Trump Executive Order Pauses Foreign Corrupt Practices Act Enforcement
 ---
-type: timeline_event
 President Trump issued an executive order on February 10, 2025, pausing Foreign Corrupt Practices Act (FCPA) enforcement for 180 days. The order directs the Department of Justice to halt all new FCPA investigations and review existing enforcement guidelines, effectively suspending investigations into U.S. corporate foreign bribery while maintaining the law's technical validity. As of 2024, 26 FCPA-related enforcement actions were active, with 31 companies under investigation. The pause aims to reduce regulatory burdens on U.S. businesses and reassess enforcement strategies under an 'America First' economic policy.

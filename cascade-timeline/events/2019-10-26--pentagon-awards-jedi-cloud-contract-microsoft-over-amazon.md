@@ -40,7 +40,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Pentagon awards the $10 billion, 10-year Joint Enterprise Defense Infrastructure (JEDI) cloud contract to Microsoft, stunning observers who widely expected Amazon Web Services to win based on its established relationship with the intelligence community through the CIA's C2S contract. Under the JEDI contract, Microsoft will manage sensitive military data storage and provide the U.S. military access to artificial intelligence technologies for tactical and strategic operations.
 

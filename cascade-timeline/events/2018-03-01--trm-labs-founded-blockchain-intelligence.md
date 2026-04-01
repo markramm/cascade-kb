@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Esteban Castano and Rahul Raina found TRM Labs in San Francisco, creating a blockchain intelligence platform designed to help government agencies, financial institutions, and cryptocurrency businesses detect and investigate crypto-related fraud and financial crime. The company enters a rapidly growing market for cryptocurrency surveillance technology, positioning itself to compete with established players like Chainalysis and Elliptic.
 

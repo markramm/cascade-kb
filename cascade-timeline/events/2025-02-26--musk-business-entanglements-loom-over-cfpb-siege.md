@@ -57,5 +57,4 @@ capture_lanes:
 - 'Digital & Tech Capture'
 notes: 'Event documents the intersection of tech industry interests and regulatory capture through systematic dismantling of consumer protection agencies, with potential conflicts of interest surrounding X''s payment platform.'
 ---
-type: timeline_event
 The Trump administration, led by Elon Musk's Department of Government Efficiency (DOGE), began a comprehensive dismantling of the Consumer Financial Protection Bureau (CFPB). Key actions included firing most of its 1,700 employees, closing its Washington headquarters, and effectively neutralizing its consumer protection capabilities. Approximately 200 probationary and term employees were immediately terminated, with plans to reduce staff to just five members. This move raised significant conflict of interest concerns, particularly given Musk's plans to launch X's digital payment platform without robust regulatory oversight.

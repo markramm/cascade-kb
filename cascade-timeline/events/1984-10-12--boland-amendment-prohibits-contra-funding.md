@@ -35,7 +35,6 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: timeline_event
 
 Congress passes the most restrictive version of the Boland Amendment, explicitly prohibiting any U.S. government agency involved in intelligence activities from providing support for military or paramilitary operations in Nicaragua. The amendment, effective from October 3, 1984, to December 3, 1985, states unambiguously that "no funds available to the Central Intelligence Agency, the Department of Defense, or any other agency or entity of the United States involved in intelligence activities" may be used for "supporting, directly or indirectly, military or paramilitary operations in Nicaragua."
 

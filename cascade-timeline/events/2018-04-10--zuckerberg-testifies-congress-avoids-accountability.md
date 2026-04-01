@@ -41,5 +41,4 @@ sources:
 notes: His apology my mistake became meme. Senators showed tech illiteracy. No meaningful regulation followed. Facebook stock rose after testimony. Platform changes minimal. Set precedent for tech CEO impunity.
 status: confirmed
 ---
-type: timeline_event
 Facebook CEO Mark Zuckerberg testifies for 10 hours before Congress, apologizing for data breaches and promising reforms while avoiding real accountability for platform's role in election manipulation

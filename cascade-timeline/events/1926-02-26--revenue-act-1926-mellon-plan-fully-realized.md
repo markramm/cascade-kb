@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Calvin Coolidge signs the Revenue Act of 1926, the crowning achievement of Treasury Secretary Andrew Mellon's multi-year campaign to restructure federal taxation in favor of the wealthy. The act slashes the top marginal income tax rate from 46 percent to 25 percent on incomes over $100,000, cuts the maximum estate tax rate from 40 percent to 20 percent on estates over $10 million, completely abolishes the gift tax enacted in 1924, and ends the requirement for public disclosure of tax returns. The House approves the legislation by an overwhelming 355-28 vote on February 23, reflecting Republican dominance and the political power of Mellon's supply-side arguments. Mellon expresses extreme satisfaction that the 1926 act, unlike the compromised 1921 and 1924 versions, fully implements his vision for taxation.
 

@@ -32,7 +32,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 The House passes legislation restoring collective bargaining rights to federal workers by a vote of 231-195, with 20 Republicans voting in favor against explicit Trump administration opposition. The bill reached the floor through a successful discharge petition - the second in one month.
 
 Trump's executive orders had stripped collective bargaining rights from federal workers as part of the Schedule F implementation and mass firings that devastated the federal workforce. The bill would restore those rights.

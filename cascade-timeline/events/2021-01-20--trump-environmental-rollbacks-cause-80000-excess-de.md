@@ -40,6 +40,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Harvard researchers calculated that Trump's environmental rollbacks would cause 80,000 excess deaths per decade from increased air pollution, with 18,000 deaths from repealing the Clean Power Plan alone. The administration reversed or weakened over 100 environmental regulations, including mercury emissions, coal ash disposal, methane leaks, and vehicle fuel efficiency standards. EPA enforcement dropped 72% with criminal prosecutions hitting a 30-year low. The rollbacks increased greenhouse gas emissions by 1.8 billion tons by 2035, equivalent to Russia's annual emissions. Children faced increased asthma and developmental disorders from mercury exposure. The administration suppressed EPA scientists' climate research and removed climate change from government websites. Interior Secretary Bernhardt carried a card listing his conflicts of interest because there were so many. Courts struck down 78% of Trump's deregulatory actions for violating legal procedures, but damage was already done. The human and environmental toll represented the most destructive assault on public health protections in American history.

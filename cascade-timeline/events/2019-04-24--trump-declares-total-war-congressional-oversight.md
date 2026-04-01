@@ -40,6 +40,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Donald Trump explicitly declares blanket resistance to congressional oversight, stating "We're fighting all the subpoenas" and dismissing House Democrats as not "impartial people." This systematic escalation represents an unprecedented challenge to legislative branch oversight, marking a critical moment in constitutional tensions. The Trump administration's resistance encompassed multiple investigations, including the Mueller report, tax return requests, and testimony from key White House officials like former counsel Don McGahn. By categorically rejecting congressional subpoenas, Trump challenged fundamental principles of checks and balances, potentially setting a dangerous precedent for executive power expansion.

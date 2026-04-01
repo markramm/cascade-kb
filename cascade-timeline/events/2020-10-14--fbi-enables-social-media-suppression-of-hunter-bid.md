@@ -46,6 +46,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Twitter and Facebook suppressed the New York Post's Hunter Biden laptop story after months of FBI warnings about potential Russian 'hack-and-leak' operations. The FBI had possessed the laptop since December 2019 and confirmed its authenticity, but when social media companies asked directly about it, FBI officials responded 'no comment,' allowing platforms to conclude it was Russian disinformation. Twitter's Yoel Roth testified the FBI warned during weekly meetings to expect 'hack-and-leak operations' involving Hunter Biden 'likely in October.' House testimony revealed FBI personnel warning about Russian operations knew the laptop was real. Twitter blocked sharing entirely while Facebook reduced circulation by 95%. Executives later called suppression a 'mistake.' The laptop was used as evidence in Hunter Biden's 2024 criminal conviction.

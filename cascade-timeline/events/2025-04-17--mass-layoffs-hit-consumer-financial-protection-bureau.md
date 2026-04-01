@@ -47,6 +47,5 @@ capture_lanes:
 - Intelligence Penetration
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 The Trump administration initiated massive layoffs at the Consumer Financial Protection Bureau (CFPB), targeting approximately 1,500 employees (90% of staff), but faced immediate judicial challenges blocking the mass terminations.

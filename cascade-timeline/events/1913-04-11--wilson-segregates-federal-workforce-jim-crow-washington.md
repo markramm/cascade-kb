@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Within months of taking office, President Woodrow Wilson's administration began systematically segregating the federal government, reversing decades of relative integration in civil service employment. Postmaster General Albert Burleson proposed segregation at an April 11, 1913 cabinet meeting, and Wilson approved, beginning a transformation that would institutionalize racism throughout the executive branch.
 

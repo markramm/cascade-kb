@@ -43,6 +43,5 @@ notes: Significant restructuring of SEC investigative processes under Trump admi
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 The SEC's Republican-controlled commission voted to revoke the enforcement division's longstanding authority to independently launch formal investigations, requiring direct commissioner approval. This change potentially slows investigative processes and increases political oversight of SEC enforcement actions.

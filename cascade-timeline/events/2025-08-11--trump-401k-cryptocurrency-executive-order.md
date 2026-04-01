@@ -35,7 +35,6 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Trump signed an executive order directing the Labor Department to allow cryptocurrencies, private equity, and other alternative assets in 401(k) retirement plans, exposing the $12.5 trillion in retirement savings to high-risk, illiquid investments with elevated fees.
 

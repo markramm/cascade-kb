@@ -47,7 +47,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 CFTC Chair Brooksley Born issued a concept release seeking public comment on regulating the $29 trillion over-the-counter derivatives market, warning of systemic risks from unregulated trading. Within hours, Treasury Secretary Robert Rubin, Federal Reserve Chairman Alan Greenspan, and SEC Chairman Arthur Levitt issued a joint statement condemning Born's proposal and expressing 'grave concern about this action and its possible consequences.'
 

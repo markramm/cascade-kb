@@ -34,5 +34,4 @@ priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 In October 2024 interview, VP nominee J.D. Vance explicitly states "Donald Trump didn't lose" the 2020 election, cementing his role as election denier willing to undermine democratic norms. Vance repeatedly declined to acknowledge Biden's legitimate victory, instead claiming there were "serious problems in 2020" and refusing to use words that would admit Trump's loss.

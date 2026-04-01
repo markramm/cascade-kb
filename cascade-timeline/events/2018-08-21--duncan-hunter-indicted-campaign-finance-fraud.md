@@ -45,7 +45,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 On August 21, 2018, a federal grand jury in San Diego indicted U.S. Representative Duncan D. Hunter (R-CA) and his wife Margaret on 60 counts including wire fraud, campaign finance violations, and conspiracy. The indictment alleged they converted more than $250,000 in campaign funds for personal use over several years, filing false records with the Federal Election Commission to conceal the thefts. Hunter was the second House member to endorse Donald Trump in 2016 and initially denied wrongdoing, claiming the prosecution was a politically motivated "witch hunt."
 

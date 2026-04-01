@@ -42,7 +42,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Audio recording captured Trump showing classified documents about U.S. attack plans on Iran
 to people without security clearances at his Bedminster golf club. Trump stated: "As

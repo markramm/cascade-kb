@@ -38,7 +38,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court rules 5-3 in Adkins v. Children's Hospital that a 1918 federal law establishing a minimum wage board for women and minors in the District of Columbia violates the Fifth Amendment's guarantee of "liberty of contract." Justice George Sutherland, writing for the majority, holds that employer and employee have a constitutional right to contract on whatever terms they please without government interference, and that minimum wage laws constitute unjustified intrusion on this freedom. The decision strikes down protections designed to prevent women from being forced into poverty wages "detrimental to their health and morals," invalidating a law that had enabled worker Willie Lyons to challenge her $35 monthly salary as inadequate.
 

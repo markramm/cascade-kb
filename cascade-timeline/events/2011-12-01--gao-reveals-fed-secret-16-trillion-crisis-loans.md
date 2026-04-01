@@ -56,6 +56,5 @@ additional_context:
   - Two-thirds of emergency lending program contracts were no-bid
   - Bank executives serving on Fed board while their institutions received bailouts
 ---
-type: timeline_event
 
 The first comprehensive audit of the Federal Reserve revealed it secretly provided $16.1 trillion in emergency loans to major financial institutions during the 2008-2010 financial crisis, far exceeding the $700 billion TARP program. The audit exposed unprecedented scale of financial sector bailouts, including $3.08 trillion to foreign institutions, and significant conflicts of interest involving bank executives serving on the Fed's board while their institutions received massive, near-zero interest loans.

@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The systematic politicization of the Department of Justice Voting Section under the Bush administration culminated in scandal and resignations as congressional investigations revealed that career civil rights attorneys had been replaced with partisan operatives who blocked voting rights enforcement and approved discriminatory voter ID laws. The corruption extended from hiring practices to case selection, transforming the nation's premier voting rights enforcement agency into a tool for voter suppression.
 

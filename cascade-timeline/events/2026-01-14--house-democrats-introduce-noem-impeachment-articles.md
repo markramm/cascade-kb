@@ -31,7 +31,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Rep. Robin Kelly (D-IL) introduced articles of impeachment against DHS Secretary Kristi Noem, with 53 House Democrats co-signing the effort, including Minnesota Representatives Angie Craig and Betty McCollum. Kelly stated: "Secretary Kristi Noem is an incompetent leader, a disgrace to our democracy, and I am impeaching her for obstruction of justice, violation of public trust, and self-dealing."
 

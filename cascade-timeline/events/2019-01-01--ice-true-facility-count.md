@@ -35,6 +35,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Public dashboards and FOIA releases often show fewer sites than ICE's full contracting footprint. GAO documented 'over 230' facilities for 72‑hour‑plus detention in FY2019. TRAC's 2025 analysis shows ~181 authorized detention facilities and ~63k contractual capacity nationwide.

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 Congress passes and President James Monroe signs the Missouri Compromise, federal legislation that balances the desires of northern states to prevent the expansion of slavery with those of southern states to expand it. The compromise admits Missouri as a slave state and Maine as a free state simultaneously to maintain the balance between slave and free states in the Senate (11 each), and prohibits slavery in the remaining Louisiana Purchase lands north of the 36°30' parallel. The legislation represents a critical early example of how the Slave Power's political influence forces federal institutions to normalize and extend human bondage through sectional bargaining rather than confront its fundamental immorality.
 

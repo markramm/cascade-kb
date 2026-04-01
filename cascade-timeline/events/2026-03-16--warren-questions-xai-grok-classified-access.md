@@ -30,7 +30,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 On March 16, 2026, Senator Elizabeth Warren sent a letter to Defense Secretary Pete Hegseth questioning the Pentagon's decision to grant Elon Musk's xAI access to classified military networks for its Grok AI model, while simultaneously blacklisting Anthropic — a company with a far stronger safety record — over policy disagreements. Warren highlighted the stark contrast in the administration's treatment of the two companies and demanded a detailed explanation of the security vetting process xAI had undergone.
 

@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Centers for Medicare and Medicaid Services rescinded its post-Dobbs guidance on Emergency Medical Treatment and Labor Act (EMTALA) requirements on May 29, 2025, withdrawing federal protections for emergency abortion care. CMS rescinded memo QSO-21-22-Hospitals, which had clarified that hospitals must provide abortion as stabilizing treatment when physicians determine it necessary to resolve a patient's emergency medical condition, regardless of state law.
 

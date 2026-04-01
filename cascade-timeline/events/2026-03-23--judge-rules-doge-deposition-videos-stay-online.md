@@ -35,7 +35,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 23, 2026, a federal judge reversed the March 13 order that had required plaintiffs to remove viral DOGE deposition videos from YouTube, rejecting the Trump administration's request to permanently block the dissemination of the footage. The court ruled that the public's right to access information about government operations outweighed the administration's arguments that the videos had caused harassment of the DOGE staffers depicted in them.
 

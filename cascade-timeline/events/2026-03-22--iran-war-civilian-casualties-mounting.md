@@ -39,7 +39,6 @@ capture_lanes:
 - Military Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 By March 22, 2026 — more than three weeks into Operation Epic Fury — the Human Rights Activists News Agency (HRANA), one of Iran's most established independent human rights monitoring organizations, had documented at least 3,114 deaths attributable to the conflict, including 1,354 confirmed civilians. Among the civilian dead were at least 210 children. Iran International separately reported a figure of more than 1,400 civilian deaths in three weeks, broadly consistent with HRANA's tracking.
 

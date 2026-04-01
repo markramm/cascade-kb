@@ -39,7 +39,6 @@ capture_lanes:
 - Intelligence Penetration
 location: Chile
 ---
-type: timeline_event
 
 In the aftermath of the 1973 Chilean coup, the Chicago Boys, a group of economists trained by Milton Friedman at the University of Chicago, began implementing radical free-market economic reforms under Augusto Pinochet's dictatorship. Their 'shock therapy' approach involved rapid economic liberalization, including dramatic policy shifts: reducing customs duties from 94% to 10%, eliminating certain taxes, weakening labor unions, and privatizing public enterprises.
 

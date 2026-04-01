@@ -57,7 +57,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 
 The Trump administration has dropped, withdrawn, or halted enforcement actions against over 100 corporations in its first year, establishing a systematic pattern of protection for companies that donated to Trump's inauguration. Regulatory enforcement against financial services fell 37% in the first half of 2025, with monetary penalties dropping 32%. Financial penalties for competition and antitrust violations fell 97%.

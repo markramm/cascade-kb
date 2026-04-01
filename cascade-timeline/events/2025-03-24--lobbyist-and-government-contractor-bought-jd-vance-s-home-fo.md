@@ -43,7 +43,6 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline.
 ---
-type: timeline_event
 
 Christopher Garcia, CEO of Health Supply US which has received $179 million in government
 contracts primarily from Defense and Homeland Security, purchased Vice President JD Vance's

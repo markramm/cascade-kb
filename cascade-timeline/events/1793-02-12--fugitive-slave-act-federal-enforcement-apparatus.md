@@ -57,7 +57,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 
 Congress passes and President George Washington signs the Fugitive Slave Act of 1793, federal legislation enforcing the Constitution's Fugitive Slave Clause (Article IV, Section 2) by authorizing slaveholders and their agents to pursue freedom seekers across state lines and establishing procedures for their capture and return. The law empowers any federal district or circuit court judge, or any state magistrate, to make final determinations on the status of alleged fugitives without jury trials, requiring only that owners provide evidence—often merely a signed affidavit—proving the person is their property. Once satisfied with this minimal proof, judges must permit owners to take custody of the accused and return them to the state from which they allegedly fled. The Act imposes a $500 penalty on anyone who harbors or conceals freedom seekers, transforming assistance to enslaved people seeking liberty into a federal crime.

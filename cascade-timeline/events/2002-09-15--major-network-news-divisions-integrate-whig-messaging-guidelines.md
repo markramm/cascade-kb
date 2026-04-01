@@ -48,6 +48,5 @@ capture_lanes:
 - Media Capture & Control
 - Electoral Manipulation
 ---
-type: timeline_event
 
 News divisions at CNN, NBC, CBS, ABC, and Fox News formally integrate WHIG messaging guidelines into their editorial processes. The guidelines dictate story framing, terminology usage, and expert selection criteria, ensuring consistent pro-administration coverage across all networks.

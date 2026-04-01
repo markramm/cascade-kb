@@ -35,6 +35,5 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Irish Data Protection Commission (DPC) initiated legal proceedings against X (Twitter) on 6 August 2024 regarding the use of EU users' personal data to train the Grok AI without proper consent. X was ordered to suspend processing of personal data collected between May and August 2024. By 4 September 2024, X agreed to delete and stop using EU users' data for Grok training, though they were not required to delete existing AI models. The case was referred to the European Data Protection Board (EDPB) for further review, highlighting legal uncertainties surrounding AI model training and personal data usage.

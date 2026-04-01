@@ -52,7 +52,6 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 ---
-type: timeline_event
 
 On July 16, 2018, FCC Chairman Ajit Pai announced "serious concerns" about Sinclair Broadcast Group's proposed $3.9 billion acquisition of Tribune Media and referred the merger to an administrative law judge for a hearing—an extremely rare action that effectively killed the deal. The FCC's 4-0 vote to refer the merger came amid evidence that Sinclair had failed to "fully disclose facts" about proposed station divestitures and maintained undisclosed business relationships with proposed buyers, raising questions about whether the divestitures were shams designed to circumvent ownership limits while Sinclair retained de facto control.
 

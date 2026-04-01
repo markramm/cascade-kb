@@ -51,7 +51,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 As Operation Epic Fury entered its second week, U.S. Central Command expanded the target set beyond Iran's navy and ballistic missile infrastructure to include Iran's space program and dual-use aerospace capabilities. DefenseScoop reported on March 5 that CENTCOM had targeted Iranian satellite launch facilities, rocket research sites, and associated infrastructure, reflecting a campaign strategy aimed at comprehensively degrading any Iranian capability that could eventually support long-range strike or weapons delivery systems.
 

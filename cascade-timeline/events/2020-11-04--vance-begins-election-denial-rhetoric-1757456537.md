@@ -31,5 +31,4 @@ priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 Following the 2020 presidential election, J.D. Vance shifts from a Trump critic to an election denier, promoting false claims about Biden's victory being illegitimate. During multiple interviews and public appearances, Vance repeatedly refused to acknowledge Trump's loss, stating he 'would have voted against certification' and claiming the election was improperly conducted.

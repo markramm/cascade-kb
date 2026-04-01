@@ -44,7 +44,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations
 

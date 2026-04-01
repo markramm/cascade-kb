@@ -45,6 +45,5 @@ sources:
 notes: ProPublica data shows Crow's yacht company operated from 2003-2015, reporting $8 million in losses that helped reduce Crow's taxes. Pattern of trips continued for over 20 years.
 status: confirmed
 ---
-type: timeline_event
 
 Justice Clarence Thomas begins a two-decade pattern of accepting luxury yacht vacations and private jet trips from billionaire GOP donor Harlan Crow without disclosure, violating Supreme Court ethics standards. Senate investigations revealed nearly $4.2 million in undisclosed gifts, including international superyacht cruises and private jet travel.

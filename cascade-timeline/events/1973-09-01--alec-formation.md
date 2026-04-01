@@ -35,5 +35,4 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: timeline_event
 ALEC was strategically established in September 1973 by Paul Weyrich, Henry Hyde, and Lou Barnett as a pioneering corporate-legislative coordination mechanism. Developed from the Powell Memorandum's blueprint, ALEC created a novel 'model legislation' approach allowing corporations to directly draft state-level policy templates, fundamentally transforming state legislative processes. The organization pioneered a systematic state-level corporate influence strategy, enabling approximately 18% of its drafted model bills to become law across multiple states.

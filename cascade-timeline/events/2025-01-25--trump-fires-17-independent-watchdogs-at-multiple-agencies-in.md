@@ -55,6 +55,5 @@ notes: Event documents unprecedented mass dismissal of government oversight pers
 _merge_note: 'Enhanced with information from duplicate event: 2025-01-25--trump-fires-17-independent-watchdogs-at-multiple-a'
 _merge_timestamp: '2025-09-05T23:46:55.900599'
 ---
-type: timeline_event
 
 In a late-night move, President Donald Trump fired at least 17 Inspectors General from various federal agencies, raising significant concerns about government oversight and potential constitutional overreach. The mass dismissal targeted watchdogs from departments including State, Energy, Interior, Defense, and Transportation, effectively dismantling key independent oversight mechanisms.

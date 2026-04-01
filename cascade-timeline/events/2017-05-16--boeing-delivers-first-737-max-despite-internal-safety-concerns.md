@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 Boeing delivered its first 737 MAX 8 aircraft to Malaysian carrier Malindo Air on May 16, 2017, entering revenue service on May 22. The delivery occurred despite internal Boeing communications showing employees knew the aircraft had serious safety problems, including design flaws in the MCAS system that would kill 189 people on a Malindo Air flight just 18 months later. In an April 2017 internal message, just weeks before the first delivery, a Boeing employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."
 
 Boeing had rushed the MAX to market to compete with the Airbus A320neo, compressing development timelines and cutting corners on safety testing and pilot training requirements. The company concealed the MCAS system from pilots' manuals and training materials, knowing that revealing its existence would trigger FAA requirements for costly simulator training that would reduce MAX sales. Boeing test pilots had discovered that recovering from uncommanded MCAS activation took more than 10 seconds in simulators—far longer than the 4-second response time assumed in certification standards—but this data was withheld from the FAA.

@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Reagan signs the Consolidated Omnibus Budget Reconciliation Act of 1986 (COBRA), which includes the Emergency Medical Treatment and Active Labor Act (EMTALA) requiring hospitals with emergency departments to screen and stabilize any patient regardless of ability to pay. While framed as protection against "patient dumping," the law creates an unfunded mandate that allows insurers to avoid covering emergency care costs while hospitals absorb uncompensated care expenses.
 

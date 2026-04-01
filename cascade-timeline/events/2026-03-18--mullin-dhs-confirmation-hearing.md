@@ -34,7 +34,6 @@ capture_lanes:
 - Immigration System Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Markwayne Mullin's confirmation hearing before the Senate Homeland Security Committee on March 18, 2026, was defined by a sharp personal confrontation with Sen. Rand Paul of Kentucky. Paul, referencing Mullin's widely reported comments from 2023 in which the former Oklahoma senator expressed understanding for why Paul's neighbor attacked him — an assault that left Paul with six broken ribs — questioned whether Mullin possessed the temperament to lead the nation's largest law enforcement agency. Mullin attempted to dismiss the exchange as "old news," but Paul pressed him repeatedly, calling the comments "an endorsement of political violence."
 

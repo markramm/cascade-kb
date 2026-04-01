@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: timeline_event
 
 On June 5, 1968, Senator Robert F. Kennedy was shot and mortally wounded at the Ambassador Hotel in Los Angeles moments after declaring victory in the California Democratic presidential primary. He died 26 hours later on June 6, 1968. Kennedy's assassination, coming just two months after the murder of Martin Luther King Jr., deepened the national trauma of 1968 and eliminated a leading voice for civil rights and economic justice from the presidential race.
 

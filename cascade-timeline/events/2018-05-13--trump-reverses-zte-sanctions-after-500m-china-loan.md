@@ -39,6 +39,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump abruptly reversed U.S. sanctions on Chinese telecom giant ZTE just days after China agreed to provide $500 million in loans to an Indonesian theme park featuring Trump properties. ZTE had been banned from buying U.S. components after violating sanctions on Iran and North Korea. Trump tweeted 'Too many jobs in China lost' and ordered Commerce to help ZTE 'get back into business, fast!' This reversal shocked Congress and intelligence officials who considered ZTE a national security threat for potential espionage. The Indonesian project included Trump-branded hotels, residences, and a golf course. Ethics experts called it 'a violation of the Emoluments Clause' and 'bribery in broad daylight.' The reversal came during trade war negotiations, with China effectively paying the Trump Organization to change U.S. national security policy. ZTE paid a $1 billion fine but avoided the death penalty that would have destroyed the company.

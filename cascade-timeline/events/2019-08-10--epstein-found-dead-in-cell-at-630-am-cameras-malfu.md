@@ -44,6 +44,5 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Jeffrey Epstein was found dead in his Metropolitan Correctional Center cell at approximately 6:30 AM. Critical surveillance cameras had malfunctioned overnight, guards assigned to check on him had fallen asleep, and his cellmate had been removed the previous evening. Despite these suspicious circumstances, authorities quickly ruled it a suicide by hanging.

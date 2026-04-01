@@ -45,6 +45,5 @@ actors:
 location: Washington, DC
 notes: Average US tariff rate rose from 2.5% to 27% from January to April 2025 - highest in over a century
 ---
-type: timeline_event
 
 Trump implements 25% tariffs on Canada and Mexico, 10% on China effective February 4, 2025, with plans for universal 10% tariffs. Senate Democrats later call for SEC investigation after Trump posts "GREAT TIME TO BUY" before announcing tariff pause in April, raising his net worth by $415 million in one day as markets surge 9.5%. Legal experts cite potential market manipulation.

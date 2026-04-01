@@ -50,5 +50,4 @@ tags:
 - election-integrity
 title: Trump Administration Initiates DOJ Probe into Democratic Fundraising Platform ActBlue
 ---
-type: timeline_event
 The Trump administration ordered the Department of Justice to investigate ActBlue, alleging potential illegal fundraising practices including straw donor and foreign contribution concerns. Key allegations include 237 donations from foreign IP addresses during the 2024 election cycle and claims of inadequate contribution verification. ActBlue has vehemently denied these claims and vowed to 'pursue all legal avenues to protect and defend' itself.

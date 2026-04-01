@@ -40,6 +40,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The Federal Aviation Administration (FAA) formally establishes the Organization Designation Authorization (ODA) program, delegating unprecedented safety certification responsibilities to aircraft manufacturers, specifically Boeing. This regulatory capture mechanism expanded the scope of 'organizational designees' and allowed manufacturers to essentially self-certify the safety of their aircraft designs. The program enabled Boeing to have 'in-house oversight for new planes in production and approval of major repairs and alterations', fundamentally transforming aviation safety oversight. While the FAA claimed this would increase efficiency by concentrating resources on the most critical safety matters, it created a profound conflict of interest that would later prove catastrophic in events like the Boeing 737 MAX certification.

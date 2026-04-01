@@ -48,6 +48,5 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 The SEC restructures its enforcement and examination divisions under the Trump administration, consolidating regional offices from 10 to 4, reducing senior leadership positions, and implementing a more focused approach to regulatory enforcement

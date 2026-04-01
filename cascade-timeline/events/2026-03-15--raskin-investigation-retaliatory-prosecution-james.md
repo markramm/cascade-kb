@@ -38,7 +38,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 15, 2026, Reps. Jamie Raskin, Ted Lieu, Jerrold Nadler, and Dan Goldman launched a formal investigation into what they characterized as the retaliatory prosecution of New York Attorney General Letitia James by the Trump Department of Justice. The investigation focused on a damning sequence of events: interim U.S. Attorney Daniel Siebert had found insufficient evidence to bring charges against James, but after Trump publicly expressed displeasure with that conclusion, Lindsey Halligan — a former Trump personal lawyer installed at DOJ — filed charges within days.
 

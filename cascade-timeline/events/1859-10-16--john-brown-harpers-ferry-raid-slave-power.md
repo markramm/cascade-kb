@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 John Brown led a raid on the federal armory at Harpers Ferry, Virginia, on October 16, 1859, seizing the facility with 21 followers in an attempt to spark a slave uprising by capturing weapons and distributing them to enslaved people in the region. The raid exposed how thoroughly the Slave Power had captured federal institutions—President James Buchanan immediately deployed U.S. Marines under Colonel Robert E. Lee to suppress what he characterized as an insurrection against federal authority, though the real threat was to slavery rather than the federal government itself. Lee's forces stormed the engine house where Brown had taken refuge, killed ten raiders including two of Brown's sons, and captured Brown within 36 hours.
 

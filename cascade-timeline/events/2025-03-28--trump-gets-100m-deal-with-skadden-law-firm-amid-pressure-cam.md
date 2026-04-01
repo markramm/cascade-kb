@@ -42,5 +42,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Executive Power Expansion
 ---
-type: timeline_event
 President Trump negotiated a $100 million pro bono legal services deal with Skadden, Arps, Slate, Meagher & Flom LLP, effectively avoiding an executive order that would have penalized the firm. The agreement includes specific conditions about employment practices and representation.

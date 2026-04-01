@@ -41,7 +41,6 @@ sources:
     tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On October 18, 1972, Congress overrode President Nixon's veto of the Federal Water Pollution Control Act Amendments, known as the Clean Water Act. The overwhelming bipartisan override (52-12 in the Senate, 247-23 in the House) represented a rare defeat for industrial polluters who had lobbied intensively to weaken or kill the legislation.
 

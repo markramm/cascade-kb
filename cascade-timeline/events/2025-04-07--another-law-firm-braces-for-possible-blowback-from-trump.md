@@ -48,6 +48,5 @@ capture_lanes:
 - Executive Power Expansion
 notes: Comprehensive documentation of Trump administration's pressure on law firms through executive leverage
 ---
-type: timeline_event
 
 Cadwalader, Wickersham & Taft was pressured by the Trump White House to provide $100 million in pro bono legal services to avoid punitive executive orders. The firm negotiated under threat, joining other major law firms capitulating to similar White House demands. Senator Sheldon Whitehouse launched an investigation into these coercive tactics, highlighting potential constitutional and ethical concerns.

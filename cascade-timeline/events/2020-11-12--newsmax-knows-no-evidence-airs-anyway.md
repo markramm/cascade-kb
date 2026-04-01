@@ -46,7 +46,6 @@ capture_lanes:
 - 'Media Capture & Control'
 - Electoral Manipulation
 ---
-type: timeline_event
 Chris Ruddy writes internal email stating "We have no evidence" of Smartmatic election rigging, but Newsmax continues airing false claims 23 more times for ratings
 
 On November 12, 2020, Newsmax CEO Christopher Ruddy sent an internal email acknowledging that the outlet had "no evidence" that voting technology company Smartmatic had manipulated the 2020 election — yet Newsmax continued to broadcast false claims about Smartmatic's role in alleged election fraud at least 23 more times following that admission. The internal communications became central evidence in Smartmatic's $2.7 billion defamation lawsuit against Newsmax, which proceeded toward trial in 2024.

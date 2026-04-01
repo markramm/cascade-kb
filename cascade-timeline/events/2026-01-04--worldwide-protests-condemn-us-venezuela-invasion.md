@@ -28,7 +28,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Protesters around the world took to the streets to condemn the U.S. military invasion of Venezuela and capture of President Nicolas Maduro, which was announced on January 3, 2026. In the United States, weekend protests were planned in over 100 cities as anti-war coalitions mobilized against what many described as an illegal act of aggression violating international law and Venezuelan sovereignty.
 

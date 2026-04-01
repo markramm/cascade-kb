@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - International Kleptocracy
 ---
-type: timeline_event
 
 Alexander Torshin, working with Maria Butina, requested that Donald Trump meet with him on the sidelines of the National Rifle Association's convention in Louisville, Kentucky from May 20-22, 2016. While Torshin never succeeded in meeting with then-candidate Trump himself, he did secure a meeting with Trump's son Donald Trump Jr. at the NRA convention during the 2016 presidential campaign.
 

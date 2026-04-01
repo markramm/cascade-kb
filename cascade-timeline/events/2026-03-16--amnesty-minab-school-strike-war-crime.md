@@ -34,7 +34,6 @@ capture_lanes:
 - Military Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 16, 2026, Amnesty International released a detailed forensic report declaring that the February 28 triple-tap airstrike on the Shajareh Tayyebeh girls' school in Minab, Iran, constituted a potential war crime requiring formal investigation. The organization documented at least 168 deaths, including more than 100 children, making it the single deadliest incident involving civilian casualties in Operation Epic Fury.
 

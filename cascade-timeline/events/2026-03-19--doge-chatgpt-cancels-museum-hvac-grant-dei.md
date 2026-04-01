@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 19, 2026, court documents filed in the ongoing NEH grant cancellation lawsuit revealed one of the most absurd examples of DOGE's AI-driven decision-making: a $349,000 grant to the High Point Museum in North Carolina to replace its aging HVAC system had been flagged by ChatGPT as "DEI-related" and subsequently canceled. The AI's reasoning, preserved in the court record, was that improved climate conditions in the museum would support "greater access to diverse audiences" — a logic chain that transformed a basic infrastructure maintenance project into a prohibited diversity initiative.
 

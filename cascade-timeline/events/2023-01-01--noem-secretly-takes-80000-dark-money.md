@@ -42,6 +42,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 While serving as South Dakota governor, Kristi Noem secretly accepted $80,000 from a dark money nonprofit called American Resolve Policy Fund, routing the payment to her personal LLC Ashwood Strategies in Delaware. She failed to disclose this payment to the public and later failed to include it in federal ethics filings when joining the Department of Homeland Security. State politician Lee Schoenbeck suggested the payment might violate state laws prohibiting governors from receiving additional compensation for official services. Noem's lawyer claims full legal compliance but has not provided substantive evidence addressing the ethical questions.

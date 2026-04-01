@@ -38,5 +38,4 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 Judicial Conference approved groundbreaking protocols for responding to systematic executive branch noncompliance, including accelerated contempt procedures, enhanced judicial protection measures, and a coordinated inter-district response strategy to preserve judicial review powers. The 2025 accountability framework introduces multi-tier oversight mechanisms, including national, regional, and local-level enforcement strategies to investigate and address potential misconduct.

@@ -50,7 +50,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 17, 2026, Joe Kent — Director of the National Counterterrorism Center and one of the most prominent figures in the MAGA movement — resigned from the Trump administration and posted his resignation letter directly on X. In an extraordinary public rebuke, Kent wrote: "Iran posed no imminent threat to our nation, and it is clear that we started this war due to pressure from Israel and its powerful American lobby." The resignation marked the highest-profile defection from the administration over the Iran war.
 

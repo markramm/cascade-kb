@@ -39,7 +39,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court rules 8-1 in Bailey v. Drexel Furniture Co. (the Child Labor Tax Case) that the Revenue Act of 1919, which imposed a 10 percent excise tax on profits of companies employing children under age 14, violates the Tenth Amendment. Chief Justice William Howard Taft declares the tax unconstitutional because it constitutes a disguised criminal penalty rather than a legitimate tax, and represents an impermissible federal attempt to regulate child labor—a power reserved exclusively to the states. The case arises when Drexel Furniture Company, a North Carolina manufacturer, challenges a $6,312.79 tax assessment for employing one boy under fourteen during the 1919 tax year.
 

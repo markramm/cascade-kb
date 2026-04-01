@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 18, 2026, the Israeli Air Force conducted strikes on processing facilities at Iran's South Pars gas field complex near Asaluyeh on the Persian Gulf coast — the world's largest natural gas reserve, containing approximately 70 percent of Iran's proven gas reserves and shared with Qatar's North Field. The strikes halted output at two major gas refineries processing an estimated 100 million cubic meters of natural gas per day, dealing a severe blow to Iran's domestic energy supply and its ability to generate electricity.
 

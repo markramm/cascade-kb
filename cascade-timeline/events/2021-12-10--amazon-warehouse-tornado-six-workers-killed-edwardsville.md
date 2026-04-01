@@ -40,7 +40,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 # Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse
 

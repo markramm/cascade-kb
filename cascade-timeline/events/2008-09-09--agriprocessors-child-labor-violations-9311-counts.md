@@ -43,7 +43,6 @@ sources:
   outlet: University of Northern Iowa
 status: confirmed
 ---
-type: timeline_event
 
 On September 9, 2008, Iowa Attorney General Tom Miller filed a criminal complaint against Agriprocessors Inc. and five company officials for 9,311 child labor law violations that occurred from September 9, 2007, through May 12, 2008, at the company's Postville meatpacking plant. The magnitude of violations prompted criminal rather than civil charges, alleging that owner Abraham Aaron Rubashkin, manager Sholom Rubashkin, and other company officials knowingly employed minors to run power equipment and exposed them to dangerous chemicals. District Court documents stated that 32 employee-victims under age 18—with seven younger than 16—worked at the plant, with approximately 57 specific child labor infractions documented. Iowa authorities found that approximately 10% of the workforce consisted of workers under 18, some as young as 14, who endured 12-hour shifts involving harsh chemicals and extreme conditions in what was described as exceptionally ruthless exploitation even by meatpacking industry standards.
 

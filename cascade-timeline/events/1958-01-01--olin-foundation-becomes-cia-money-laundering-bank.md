@@ -51,7 +51,6 @@ sources:
 
   tier: 2
 ---
-type: timeline_event
 
 
 The John M. Olin Foundation, established in 1953 by chemical and munitions manufacturer John M. Olin, begins serving as a secret "bank" for the Central Intelligence Agency in 1958, according to Jane Mayer's Dark Money. Between 1958 and 1966, the foundation launders $1.95 million for the CIA to fund "anti-Communist intellectuals and publications" as part of a covert propaganda operation. The eight-year money laundering arrangement allows the CIA to channel funds to anti-communist causes while concealing government involvement, using the tax-exempt foundation structure to obscure the intelligence agency's role in funding domestic intellectual and media activities.

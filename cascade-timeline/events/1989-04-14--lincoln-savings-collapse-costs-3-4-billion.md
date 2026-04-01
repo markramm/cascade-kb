@@ -58,6 +58,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Lincoln Savings and Loan collapses the day after its parent company American Continental Corporation files bankruptcy, requiring a $3.4 billion federal bailout and leaving 23,000 mostly elderly investors with worthless bonds. The failure represents the largest single cost in the S&L crisis and validates the systematic regulatory capture that enabled Keating's fraud network. Despite warnings from regulators beginning in 1984, political intervention by the Keating Five senators had prevented timely action. The collapse demonstrates how coordinated corruption across legislative, executive, and industry sectors can impose massive costs on taxpayers while enriching connected insiders.

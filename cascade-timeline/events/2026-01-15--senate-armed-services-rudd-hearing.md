@@ -35,7 +35,6 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Senate Armed Services Committee held a full committee hearing to consider the nominations of Lt. Gen. Joshua M. Rudd for Director of the National Security Agency, Chief of Central Security Service, and Commander of U.S. Cyber Command, along with Lt. Gen. Francis L. Donovan for Commander of U.S. Southern Command. Rudd, currently deputy commander of U.S. Indo-Pacific Command, largely kept his views on hot-button issues closely held, prompting Republican chair Sen. Roger Wicker (R-MS) to urge him at one point to be more open about his views.
 

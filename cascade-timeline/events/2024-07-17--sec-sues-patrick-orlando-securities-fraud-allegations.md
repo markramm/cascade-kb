@@ -43,6 +43,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The Securities and Exchange Commission files a federal lawsuit against Patrick Orlando, former CEO and Chairman of Digital World Acquisition Corporation, alleging securities fraud in connection with DWAC's initial public offering and proposed merger with Trump Media. The SEC alleges Orlando made materially false and misleading statements in SEC filings, claiming DWAC had no discussions with potential merger targets when extensive negotiations with Trump Media had occurred since February 2021. The complaint details how Orlando initially pursued the TMTG merger through another SPAC before forming a plan in Spring 2021 to use DWAC instead. This represents the culmination of a multi-year investigation into systematic deception of public investors.

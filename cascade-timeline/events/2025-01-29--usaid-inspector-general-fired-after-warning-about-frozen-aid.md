@@ -45,5 +45,4 @@ tags:
 - oversight-destruction
 title: USAID Inspector General Fired After Warning About $8.2 Billion Aid Oversight Risks
 ---
-type: timeline_event
 USAID Inspector General Paul Martin was fired on February 11, 2025, shortly after his office published a critical report warning that the administration's foreign aid freeze had compromised oversight of $8.2 billion in humanitarian funds. Martin was the 18th inspector general removed by the Trump administration, highlighting a pattern of retaliating against watchdogs who document unfavorable policy consequences.

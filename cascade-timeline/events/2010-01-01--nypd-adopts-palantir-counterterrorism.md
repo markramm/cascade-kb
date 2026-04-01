@@ -33,7 +33,6 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: timeline_event
 
 In 2010, the New York Police Department's counterterrorism division began using Palantir Technologies' data analysis platform, marking a major expansion of the company's footprint in domestic law enforcement. Richard Falkenrath, the NYPD's deputy commissioner of counterterrorism, mentioned the department's use of Palantir during a presentation at the company in 2010, though the full details of NYPD's contract with Palantir remained secret from public disclosure.
 

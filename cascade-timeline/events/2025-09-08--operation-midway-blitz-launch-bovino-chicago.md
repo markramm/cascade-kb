@@ -54,7 +54,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 On September 8, 2025, Immigration and Customs Enforcement (ICE) announced the launch of "Operation Midway Blitz," a massive multi-agency immigration enforcement surge targeting Illinois and northwest Indiana. The operation marked a significant escalation in urban immigration enforcement tactics, with Border Patrol Commander Gregory Bovino appointed as "Commander-at-Large"—an unprecedented position operating outside normal Border Patrol command structure and reporting directly to DHS Secretary Kristi Noem.
 

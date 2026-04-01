@@ -44,7 +44,6 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 ---
-type: timeline_event
 
 Following the September 11 attacks, President Bush authorizes the CIA to conduct "extraordinary rendition"—the extrajudicial kidnapping and transfer of terrorism suspects to foreign countries for detention and interrogation, often involving torture. CIA Director George Tenet and Counterterrorism Chief Cofer Black implement a global kidnapping program that will ultimately involve at least 54 countries and result in at least 136 individuals being extraordinarily rendered or secretly detained. The program operates entirely outside legal process, denying victims any access to courts, lawyers, or due process protections, and deliberately transfers suspects to countries known to practice torture.
 

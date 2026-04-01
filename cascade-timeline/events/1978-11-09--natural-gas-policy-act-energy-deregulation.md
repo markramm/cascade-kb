@@ -32,7 +32,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 President Jimmy Carter signed the Natural Gas Policy Act (NGPA) into law on November 9, 1978, following Senate passage on September 27 (57-42 vote) and House passage on October 14 (231-168 vote). The legislation was part of Carter's National Energy Act of 1978, a response to the 1973 energy crisis and OPEC oil embargo. The NGPA authorized the Federal Energy Regulatory Commission (FERC) to regulate both intrastate and interstate natural gas production and transmission while setting price ceilings for wellhead first sales of gas. Critically, the law included phased deregulation of wellhead prices for new natural gas, with most gases scheduled for deregulation between 1979 and 1987, leading to complete decontrol through the Natural Gas Wellhead Decontrol Act of 1989.
 

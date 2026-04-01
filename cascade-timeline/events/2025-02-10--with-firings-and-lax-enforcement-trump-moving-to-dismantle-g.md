@@ -46,6 +46,5 @@ notes: Comprehensive documentation of systematic removal of government oversight
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 In a systematic move to dismantle government oversight, Trump fired the heads of the Office of Government Ethics and Office of Special Counsel, undermining key anti-corruption safeguards and potentially exposing whistleblower information.

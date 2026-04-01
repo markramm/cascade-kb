@@ -39,7 +39,6 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: timeline_event
 
 President Harry S. Truman becomes the first sitting president to propose a comprehensive national health insurance program, sending a special message to Congress calling for federal health insurance that would cover all Americans regardless of employment status. Truman declares healthcare "should not be an economic privilege" and proposes a single system of national health insurance funded by payroll taxes, modeled on Social Security. The plan would cover physician visits, hospital care, laboratory services, and dental care.
 

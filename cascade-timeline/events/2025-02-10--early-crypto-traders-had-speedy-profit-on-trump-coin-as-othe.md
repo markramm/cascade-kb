@@ -47,7 +47,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 An analysis published by the New York Times in February 2025 revealed that early insiders in the $TRUMP memecoin—launched by Trump's organization just two days before his January 20, 2025 inauguration—had made enormous profits while the vast majority of retail investors lost money. Trump and his family retained 800 million of the 1 billion total coins created, and the Trump Organization collected trading fees estimated at nearly $100 million from transactions in the token. The token's initial launch created instant millionaires among those with early access, as the price surged from its launch price before declining sharply.
 
 Rolling Stone and Fortune reported that more than 810,000 retail investors had collectively lost over $2 billion on the $TRUMP coin as its price collapsed after the initial launch surge. The pattern—insiders profiting massively while ordinary investors lost—was consistent with what financial regulators typically characterize as a "pump and dump" scheme, though whether it constituted illegal market manipulation was disputed. The White House dismissed concerns, with administration officials arguing that investing in cryptocurrency carried known risks and that the memecoin was a private commercial venture rather than an official government activity.

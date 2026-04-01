@@ -25,7 +25,6 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: timeline_event
 
 Rep. Shri Thanedar (D-MI) announced on February 2, 2026, the introduction of four articles of impeachment against Attorney General Pam Bondi.
 

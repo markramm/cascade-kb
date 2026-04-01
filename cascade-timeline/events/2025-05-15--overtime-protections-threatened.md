@@ -40,6 +40,5 @@ sources:
 notes: EPI calculated 4.3M workers lose protections reverting from Biden's $58,656 threshold (effective Jan 2025) to Trump's $35,568. Project 2025 proposes allowing overtime calculation over 80 hours/2 weeks or 160 hours/4 weeks instead of 40 hours/week, and letting employers substitute comp time for overtime pay. Changes can happen without Congressional approval.
 status: confirmed
 ---
-type: timeline_event
 
 Trump administration moves to revert to weak Trump-era overtime threshold ($35,568) from Biden's $58,656 rule, stripping overtime protections from 4.3 million workers per Economic Policy Institute. Project 2025 also proposes calculating overtime over 2-4 week periods instead of weekly, and substituting comp time for time-and-a-half pay, further eroding worker protections.

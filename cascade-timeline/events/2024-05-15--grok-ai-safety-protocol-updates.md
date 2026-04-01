@@ -34,6 +34,5 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 At the AI Seoul Summit in May 2024, xAI committed to the Frontier AI Safety Commitments, agreeing to provide transparency around model capabilities, risk assessments, and potential inappropriate use cases. However, the company faced significant criticism for not fully disclosing its safety framework, with experts calling its approach 'irresponsible'. The commitments include improved content filtering, bias detection, and stricter information verification processes for the Grok AI chatbot.

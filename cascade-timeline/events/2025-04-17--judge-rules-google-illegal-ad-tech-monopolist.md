@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 U.S. District Judge Leonie Brinkema ruled that Google illegally monopolized digital advertising technology markets through systematic anticompetitive conduct including tying arrangements, exclusionary contracts, and manipulation of ad auctions—finding that Google's control of 91% of publisher ad servers and dominance in ad exchanges allowed the company to extract 30-50% of advertising dollars while foreclosing competition. The ruling orders divestiture of Google's ad exchange (AdX) and DoubleClick for Publishers in what would be the first forced corporate breakup since AT&T in 1982, validating the DOJ's structural remedy strategy and establishing that vertical integration of platform infrastructure constitutes illegal monopolization when used to self-preference and exclude competitors.
 

@@ -36,7 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 CIA Director William Casey dies at age 74 from nervous-system lymphoma, taking critical knowledge of the Iran-Contra scandal to his grave without ever testifying before Congress. Casey dies less than 24 hours after former colleague Richard Secord testifies that Casey supported the illegal aiding of Nicaraguan Contra rebels, raising questions about the full extent of CIA involvement in the scheme.
 

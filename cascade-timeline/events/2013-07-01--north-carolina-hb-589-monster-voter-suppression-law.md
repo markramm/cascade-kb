@@ -40,7 +40,6 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: timeline_event
 
 Within hours of the Supreme Court's *Shelby County v. Holder* decision gutting the Voting Rights Act, North Carolina Republicans introduce and rapidly pass House Bill 589, one of the most comprehensive voter suppression laws in the nation. The law imposes strict voter ID requirements, eliminates same-day registration, cuts early voting, ends pre-registration for 16-17 year olds, eliminates "Souls to the Polls" Sunday voting, and expands poll observer challenges—changes specifically designed to suppress Black voter turnout.
 

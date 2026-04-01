@@ -73,7 +73,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 The Federal Communications Commission formally adopts the "seven-station rule" (Report and Order in Docket No. 8967, 18 F.C.C. 288) establishing that no single entity may own more than seven AM radio stations, seven FM radio stations, and seven television stations nationwide, with the television limit further restricted to no more than five VHF (Very High Frequency) stations. The rule codifies the FCC's "consistent adherence to the principle of 'diversification' in order to implement the Congressional policy against monopoly and in order to preserve competition," creating enforceable limits on broadcast media concentration to ensure diverse ownership and viewpoints.

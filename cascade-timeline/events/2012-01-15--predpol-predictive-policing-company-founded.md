@@ -29,7 +29,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 PredPol, a predictive policing software company, is founded in Santa Cruz, California by UCLA Professor of Anthropology Jeff Brantingham and mathematician George Mohler. The company emerges from research begun in 2010 when Brantingham recruited UCLA mathematicians to develop algorithms for predicting crime patterns.
 

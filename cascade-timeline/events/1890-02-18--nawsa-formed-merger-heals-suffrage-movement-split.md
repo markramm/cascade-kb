@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On February 18, 1890, the National American Woman Suffrage Association (NAWSA) was formed through the merger of the rival National Woman Suffrage Association (NWSA) and American Woman Suffrage Association (AWSA), healing a 21-year split that had fractured the women's rights movement since 1869. The two organizations had divided over both strategy and principle following disagreements about the 15th Amendment, with NWSA led by Elizabeth Cady Stanton and Susan B. Anthony favoring a federal constitutional amendment while AWSA, led by Lucy Stone, Henry Blackwell, and Julia Ward Howe, pursued state-by-state campaigns. Alice Stone Blackwell, daughter of Lucy Stone, spearheaded successful negotiations to merge the groups. In January 1889, AWSA and NWSA committees negotiating merger terms signed a basis for agreement, followed by an "Open Letter to the Women of America" in February from Stone, Stanton, Anthony and other leaders declaring their intention to work together.
 

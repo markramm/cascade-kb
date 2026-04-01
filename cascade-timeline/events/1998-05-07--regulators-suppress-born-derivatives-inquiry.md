@@ -50,6 +50,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Hours after CFTC Chair Brooksley Born issues a "Concept Release" requesting public comment on regulating the 9 trillion over-the-counter derivatives market, Fed Chair Alan Greenspan, Treasury Secretary Robert Rubin, and SEC Chair Arthur Levitt issue an unprecedented joint statement expressing "grave concerns." This coordinated response demonstrates systematic regulatory capture, with three major financial regulators acting in concert to suppress even basic inquiry into derivatives oversight. The opposition leads to congressional legislation preventing CFTC regulation of derivatives, with Born forced out in 1999. This suppression of regulatory oversight directly enabled the derivatives-fueled 2008 financial crisis, vindicating Born's warnings about systemic risk.

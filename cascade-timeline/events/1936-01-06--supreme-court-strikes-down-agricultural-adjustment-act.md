@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On January 6, 1936, the Supreme Court decides United States v. Butler in a 6-3 ruling that invalidates the Agricultural Adjustment Act (AAA), striking a devastating blow to Roosevelt's New Deal farm recovery program just eight months after the Schechter Poultry "Black Monday" decisions. Justice Owen J. Roberts, writing for the majority, acknowledges Congress possesses broad power to tax and spend for the "general welfare" but rules that the AAA's processing tax and conditional subsidies to farmers who reduce crop acreage constitute unconstitutional federal regulation of agriculture—a domain the Court reserves to states under the Tenth Amendment. The decision condemns millions of Depression-era farmers to continued economic devastation, voiding the program that provided crop reduction subsidies funded by taxes on processors like plaintiff William M. Butler of Hoosac Mills Corporation.
 

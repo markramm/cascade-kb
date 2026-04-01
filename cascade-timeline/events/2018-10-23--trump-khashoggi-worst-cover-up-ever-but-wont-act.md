@@ -45,7 +45,6 @@ sources:
   tier: 2
   outlet: Business Insider
 ---
-type: timeline_event
 
 On October 23, 2018, three weeks after Jamal Khashoggi's murder inside the Saudi consulate in Istanbul, President Trump publicly acknowledges the killing was orchestrated by Saudi Arabia but makes clear he will not hold Crown Prince Mohammed bin Salman accountable. Despite calling Saudi Arabia's handling of the assassination the "worst cover-up ever," Trump prioritizes arms deals and the U.S.-Saudi relationship over justice for the murdered Washington Post journalist.
 

@@ -37,6 +37,5 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Customs and Border Protection maintains secret database monitoring journalists movements and creates watchlist of "Suspected Organizers, Coordinators, Instigators and Media" including 10 journalists with detailed dossiers. Program enables systematic secondary screening at borders, electronic device searches, and movement tracking of press covering immigration and national security, demonstrating coordinated surveillance infrastructure. The Committee to Protect Journalists has issued a safety advisory warning about increased surveillance and travel restrictions, highlighting the erosion of press freedom at U.S. borders. The Electronic Frontier Foundation recommends journalists take extensive precautions when crossing borders, including device encryption, minimal data exposure, and preparedness for potential searches.

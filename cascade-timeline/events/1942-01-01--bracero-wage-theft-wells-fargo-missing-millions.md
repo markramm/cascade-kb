@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Between 1942 and 1949, U.S. employers withhold 10% of bracero workers' wages—totaling at least $32 million—depositing the funds with Wells Fargo Bank and Union Trust Company of San Francisco for transfer to Mexican savings accounts through the Bank of Mexico and Banco de Credito Agricola. The compulsory savings program promises workers they will receive their money upon returning to Mexico. Most braceros, many illiterate, remain unaware of the deductions. The money never reaches the workers. Mexico's Foreign Relations Ministry later admits there are no records of what happened to the forced savings after rural banks consolidated into Banrural in 1976, with activists and workers describing the disappeared funds as straightforward theft by government officials.
 

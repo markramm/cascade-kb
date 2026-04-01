@@ -58,7 +58,6 @@ connections:
 - Domestic terrorism
 notes: Classic YouTube pattern - amplify dangerous content for years while monetizing, ban only when politically necessary. By October 2020 QAnon had already radicalized millions through YouTube's algorithm.
 ---
-type: timeline_event
 
 On October 15, 2020, YouTube announced it would ban content promoting QAnon and related conspiracy theories that "target individuals"—but the policy came approximately three years after YouTube's recommendation algorithm began systematically amplifying QAnon from an obscure 4chan conspiracy to a mass movement with millions of adherents. By the time YouTube acted, the damage was done: QAnon believers had committed acts of violence, been labeled a domestic terror threat, and built a political movement that would contribute to the January 6, 2021 Capitol attack.
 

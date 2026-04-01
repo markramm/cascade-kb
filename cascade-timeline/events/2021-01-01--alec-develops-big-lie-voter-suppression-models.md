@@ -34,7 +34,6 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 and-spending-millions-to-pass-them/
   outlet: Salon
   tier: 1

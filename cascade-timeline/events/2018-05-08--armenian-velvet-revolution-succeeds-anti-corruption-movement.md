@@ -38,5 +38,4 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 Nikol Pashinyan is elected Prime Minister of Armenia after a nonviolent, grassroots movement forced the resignation of incumbent Prime Minister Serzh Sargsyan. The 'Velvet Revolution' represented a landmark peaceful democratic transition, with mass protests paralyzing the capital Yerevan for 11 days and drawing nearly 100,000 participants. Pashinyan's successful movement demonstrated how coordinated civil resistance could overcome systemic political corruption without violence.

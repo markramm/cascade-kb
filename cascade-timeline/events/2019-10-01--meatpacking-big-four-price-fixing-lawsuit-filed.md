@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 A class-action lawsuit filed in U.S. District Court for Minnesota accused the four largest U.S. beef processors—Tyson Foods, JBS, Cargill, and National Beef—of conspiring to manipulate cattle supplies and inflate beef prices for consumers, marking a major legal challenge to meatpacking consolidation that has given four companies control over 85% of the U.S. beef market, up from just 36% in 1980.
 

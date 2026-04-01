@@ -62,7 +62,6 @@ sources:
   verified: true
   tier: 1
 ---
-type: timeline_event
 In August 2020, USPS's Inspector General reported that operational changes instituted under
 new leadership coincided with measurable service declines. Independent data released by Senate
 investigators and internal USPS materials reflected national on-time First-Class performance

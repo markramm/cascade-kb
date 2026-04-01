@@ -35,5 +35,4 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 Soccer superstar Kylian Mbappé's official X (Twitter) account was compromised in a sophisticated phishing attack to promote a fraudulent $MBAPPE token on the Solana blockchain. The scam saw the token's market cap rapidly surge to $464 million before crashing to less than $100,000 within minutes. One investor lost approximately $1 million, while another reportedly turned a small $286 investment into $200,000. Crypto entrepreneur Sahil Arora was connected to the meme coin, though his exact role remains unclear. The incident highlights the growing trend of celebrity social media account hijacking to execute rapid crypto pump-and-dump schemes.

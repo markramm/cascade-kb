@@ -47,6 +47,5 @@ additional_context:
   policy_objective: Establish U.S. as global cryptocurrency financial hub
   regulatory_mechanism: Directing housing finance enterprises to recognize digital assets
 ---
-type: timeline_event
 
 The Federal Housing Finance Agency (FHFA) ordered Fannie Mae and Freddie Mac to formally recognize cryptocurrency held on U.S.-regulated exchanges as potential assets in mortgage loan risk assessments, marking a significant shift in federal mortgage lending policy under the Trump administration.

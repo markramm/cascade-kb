@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: timeline_event
 
 By mid-March 2026, ICE's detention population had swelled to approximately 73,000 people — an 84 percent increase from the roughly 40,000 held in custody at the start of the Trump administration's second term. The expansion was fueled by $45 billion of the $85 billion in new DHS funding authorized through the reconciliation bill, making detention the single largest line item in the department's immigration enforcement budget.
 

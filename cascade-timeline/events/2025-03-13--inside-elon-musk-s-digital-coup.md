@@ -43,6 +43,5 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Elon Musk, operating through the Department of Government Efficiency (DOGE), gained unprecedented access to federal systems, including Treasury and Personnel Management databases, enabling radical restructuring and potential conflicts of interest.

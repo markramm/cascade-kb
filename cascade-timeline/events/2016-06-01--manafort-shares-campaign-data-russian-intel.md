@@ -50,6 +50,5 @@ validation_metadata:
   - 'summary_updated: ''True'' → ''True'''
   - 'tags_added: ''[''senate-intelligence-committee'']'' → ''[''senate-intelligence-committee'']'''
 ---
-type: timeline_event
 
 Trump campaign chairman Paul Manafort creates "grave counterintelligence threat" by sharing internal polling data with Konstantin Kilimnik, identified Russian intelligence officer, creating direct pipeline to Russian intelligence during election interference. The Senate Intelligence Committee found Manafort shared sensitive campaign polling data and strategy with Kilimnik, a Russian intelligence officer, potentially facilitating Russian interference in the 2016 election.

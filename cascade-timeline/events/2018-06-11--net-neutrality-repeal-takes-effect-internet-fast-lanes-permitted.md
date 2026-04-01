@@ -39,7 +39,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The FCC's "Restoring Internet Freedom" order officially takes effect, eliminating the Title II net neutrality protections that had prohibited internet service providers from blocking, throttling, or creating paid "fast lanes" for content delivery. Nearly six months after the Republican-led FCC's 3-2 party-line vote in December 2017, ISPs gained legal authority to discriminate against internet traffic, prioritize their own content and services, and charge content companies for preferential treatment—as long as they disclose these practices in their terms of service.
 

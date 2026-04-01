@@ -45,6 +45,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 President Trump fired Rohit Chopra, the CFPB director appointed during the Biden administration, removing a key consumer protection advocate. Trump appointed Scott Bessent as acting director, signaling a significant shift in the agency's leadership and approach to financial regulation.

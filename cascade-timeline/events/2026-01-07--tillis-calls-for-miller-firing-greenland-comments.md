@@ -27,7 +27,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Republican Senator Thom Tillis of North Carolina issued a scathing public rebuke of White House Deputy Chief of Staff Stephen Miller following Miller's declaration that Greenland should "obviously" be part of the United States and that "nobody is going to fight the United States militarily over the future of Greenland."
 

@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 On January 25, 1936, former New York Governor and 1928 Democratic presidential candidate Al Smith delivers the keynote address at the American Liberty League dinner at Washington's Mayflower Hotel, launching a scathing attack on President Roosevelt that accuses the New Deal of fomenting class warfare, betraying the 1932 Democratic platform, and embracing dangerous un-American ideology. Smith, once a progressive champion of urban working-class voters, tells the assembled corporate executives and wealthy donors that Roosevelt's administration has abandoned Democratic Party founders' principles, declaring "there can be only one capital, Washington or Moscow" and suggesting Democrats now follow "the ideology of Marx and Lenin over that of Jefferson." Smith condemns New Deal supporters who "disguise themselves as Norman Thomas or Karl Marx, or Lenin, or any of the rest of that bunch" while falsely marching "under the banner of Jefferson, Jackson or Cleveland."
 

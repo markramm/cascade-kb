@@ -44,7 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 ---
-type: timeline_event
 
 Independent analysis published February 21, 2026 quantified the projected public health and economic consequences of the EPA's greenhouse gas endangerment finding repeal, with experts warning the harms "cannot be overstated." Public health researchers projected that eliminating federal authority to regulate greenhouse gas emissions could cause up to 58,000 additional deaths over the following two decades, stemming from intensified climate-related events including heat waves, floods, wildfires, and droughts. The combined economic cost of these harms was estimated at up to $4.7 trillion over 20 years.
 

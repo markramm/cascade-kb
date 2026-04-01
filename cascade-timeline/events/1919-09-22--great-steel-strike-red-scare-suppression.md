@@ -35,7 +35,6 @@ capture_lanes:
 - Media Capture & Control
 - Labor Suppression
 ---
-type: timeline_event
 
 On September 22, 1919, the American Federation of Labor launched a massive strike against the U.S. steel industry after 98 percent of workers voted to walk out, shutting down half the industry including mills in Pueblo, Chicago, Wheeling, Johnstown, Cleveland, Lackawanna, and Youngstown. The AFL had formed a coalition of 24 unions to organize United States Steel Corporation and demand basic rights after World War I, during which union membership had grown rapidly. Steel company owners, led by U.S. Steel president Elbert H. Gary, immediately weaponized the post-war Red Scare to turn public opinion against workers, labeling the strike as Bolshevik subversion despite strikers seeking only fair wages and working conditions.
 

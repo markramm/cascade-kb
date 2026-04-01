@@ -35,7 +35,6 @@ capture_lanes:
 - Democratic Backsliding
 - Elite Impunity
 ---
-type: timeline_event
 
 A Bloomberg Opinion column published February 25 documented how Trump administration foreign policy decisions reflect a framework shaped by race and White Christian nationalism, examining patterns across diplomatic appointments, aid priorities, and rhetoric toward different nations and populations. The piece noted that administration officials reflexively denied any racial or religious basis for policy, even as Trump's public statements — including his refusal to apologize for a video depicting the Obamas as apes — provided ongoing supporting evidence.
 

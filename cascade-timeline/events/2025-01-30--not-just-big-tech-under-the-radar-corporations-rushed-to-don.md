@@ -48,5 +48,4 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 Major corporations donated millions to Trump's 2025 inauguration, with private prison firms CoreCivic and GEO Group contributing $2.8 million, and Carrier Global Corporation donating $1 million, while holding significant government contracts

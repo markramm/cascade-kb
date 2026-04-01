@@ -43,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On February 11, 1937, General Motors—the world's largest industrial corporation—capitulates to the UAW after 44 days of sit-down strikes, signing a one-page agreement that recognizes the United Auto Workers as exclusive bargaining representative for union members for six months and grantsstrikers' core demands. GM President Alfred Sloan offers a $25 million wage increase and promises workers the right to join unions without fear of retaliation, rehiring all strike participants and allowing union buttons and symbols in plants. The agreement permits six months of negotiations in plants that participated in the strike, establishing the UAW's legitimacy as bargaining agent for autoworkers. The victory comes after strikers withstood corporate violence (the January 11 "Battle of the Running Bulls"), harsh winter conditions in unheated occupied plants, tear gas attacks, injunctions from GM-friendly judges (including Judge Edward S. Black who owned 3,000 GM shares and was later disbarred), and intense pressure to abandon the occupation.
 

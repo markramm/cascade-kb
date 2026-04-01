@@ -76,7 +76,6 @@ capture_lanes:
 - Executive Power Expansion
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On November 26, 2025, the Department of Justice disclosed in a court filing that Homeland Security Secretary Kristi Noem made the final decision to proceed with deportation flights to El Salvador despite U.S. District Judge James Boasberg's explicit order on March 15 to turn the planes around. This revelation came after the Trump administration refused for 255 days to identify who authorized defying the federal court order.
 

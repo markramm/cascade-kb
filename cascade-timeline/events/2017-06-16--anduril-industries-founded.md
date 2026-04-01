@@ -34,6 +34,5 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Anduril Industries was incorporated on June 16, 2017, by Palmer Luckey (Oculus VR founder), Trae Stephens (Founders Fund partner and former Palantir executive), Matt Grimm, Joe Chen, and Brian Schimpf (CEO). The company was seeded by Peter Thiel's Founders Fund and pitched low-cost border security to the Department of Homeland Security immediately after incorporation. Trae Stephens had recently left Palantir at Thiel's persuasion to join Founders Fund, bringing deep intelligence and defense sector expertise. The founding represents a direct pipeline from Palantir's surveillance-state model to autonomous weapons development, backed by the same Thiel network that built data-mining infrastructure for intelligence agencies. Anduril's business model centers on AI-powered autonomous defense systems, positioning it as a 'technology-first' defense contractor designed to compete with traditional military industrial companies.

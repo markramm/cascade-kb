@@ -42,6 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Joe Biden issued a sweeping pardon for his son Hunter Biden covering all potential federal crimes from January 1, 2014 through December 1, 2024, reversing repeated public promises not to interfere. The pardon covers Hunter's June conviction for lying on gun purchase forms while addicted to drugs, September guilty plea for $1.4 million in tax evasion, and any potential crimes during his Burisma board tenure. Biden had explicitly promised 'I will not pardon him' as recently as November 2024. The president justified the reversal claiming Hunter was 'singled out only because he is my son' and that 'raw politics has infected this process.' Special Counsel David Weiss called Biden's characterization 'wrong' and 'unfairly impugning' the Justice Department. The pardon prevented sentencing scheduled for December 12 and 16.

@@ -34,5 +34,4 @@ capture_lanes:
 - 'Digital & Tech Capture'
 status: confirmed
 ---
-type: timeline_event
 At a lavish birthday celebration in Vienna, Russian diplomat Daniil Bisslinger, an attaché from the Kremlin's Ministry of Foreign Affairs, invited Peter Thiel to a private meeting with Vladimir Putin at the St. Petersburg International Economic Forum. The invitation, later reported to the FBI, represents a sophisticated attempt at Russian diplomatic outreach to a prominent Silicon Valley figure. Thiel reportedly became an FBI informant after disclosing these Russian contacts.

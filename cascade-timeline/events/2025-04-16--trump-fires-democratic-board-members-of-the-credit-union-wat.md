@@ -52,5 +52,4 @@ status: confirmed
 notes: 'Federal court later ruled the firings likely illegal, as board members could only be removed for cause. Demonstrates ongoing attempts to reshape federal regulatory agencies.'
 description: 'President Trump removed two Democratic board members from the National Credit Union Administration, sparking legal challenges and highlighting ongoing efforts to consolidate executive power.'
 ---
-type: timeline_event
 President Trump removed two Democratic board members, Todd Harper and Tanya Otsuka, from the National Credit Union Administration (NCUA), leaving the agency with only one Republican board member. The removals sparked legal challenges, with a federal judge later ruling that the firings were likely illegal, as board members could only be removed for cause.

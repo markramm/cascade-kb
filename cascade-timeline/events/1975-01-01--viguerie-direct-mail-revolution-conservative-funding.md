@@ -40,7 +40,6 @@ capture_lanes:
 - Corporate Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 By the mid-1970s, Richard Viguerie had revolutionized conservative political fundraising through direct mail campaigns, building a massive donor network that would finance the New Right movement and create the infrastructure for corporate-funded "grassroots" activism. Dubbed the "funding father" of modern conservative strategy, Viguerie transformed how conservative causes mobilized financial support while maintaining an appearance of grassroots spontaneity.
 
 In early 1965, Viguerie went to the clerk of the U.S. House of Representatives and copied by longhand 12,500 donors who had contributed to Barry Goldwater's 1964 presidential campaign. He grew this list from 12,500 to 125,000 donors in just one year - a 1,000% increase. Before the end of the 1960s, Viguerie had a million names in his files, adding many millions more as the New Right remade Republican politics in the 1970s.

@@ -44,7 +44,6 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 ---
-type: timeline_event
 
 # Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
 

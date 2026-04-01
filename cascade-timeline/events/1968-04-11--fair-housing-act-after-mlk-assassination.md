@@ -43,7 +43,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: timeline_event
 
 President Lyndon B. Johnson signs the Fair Housing Act (Title VIII of the Civil Rights Act of 1968) into law one week after Martin Luther King Jr.'s assassination, prohibiting discrimination in the sale, rental, and financing of housing based on race, religion, national origin, or sex. The legislation passes only after King's murder and resulting nationwide riots shock Congress into action, overcoming decades of fierce opposition from the real estate industry.
 

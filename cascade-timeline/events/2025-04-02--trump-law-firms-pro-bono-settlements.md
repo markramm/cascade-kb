@@ -40,5 +40,4 @@ connections:
 - Broader pattern of executive power manipulation
 - Coercive settlements with professional organizations
 ---
-type: timeline_event
 Multiple law firms entered into controversial pro bono settlements with the Trump administration, agreeing to provide services after facing potential executive orders threatening their federal contracts and access. These settlements, totaling approximately $1 billion in pro bono work, raised significant legal and ethical concerns about executive coercion.

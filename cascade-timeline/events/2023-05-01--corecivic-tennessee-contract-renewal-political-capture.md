@@ -41,7 +41,6 @@ sources:
   verified: true
 status: confirmed
 ---
-type: timeline_event
 
 In May 2023, Tennessee's State Building Commission approved a three-year, $168 million contract renewal with CoreCivic to operate the South Central Correctional Facility, despite the private prison corporation's documented record of inmate deaths, safety violations, and nearly $18 million in contractual penalties. The contract renewal—enthusiastically endorsed by Governor Bill Lee as a partnership with "a good partner"—exemplifies the corporate capture of Tennessee's corrections system through systematic campaign contributions that have funneled millions of dollars to state political leaders while insulating CoreCivic from accountability for deadly conditions in its facilities.
 

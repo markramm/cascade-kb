@@ -41,7 +41,6 @@ notes: 'Trump''s team requested deadline extension and raised claims about presi
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 A federal grand jury issued a subpoena requiring Trump to return all documents "bearing
 classification markings" in his possession. This legal demand came after the National

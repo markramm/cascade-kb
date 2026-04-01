@@ -44,7 +44,6 @@ capture_lanes:
 - Labor Suppression
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Obama secretly authorizes the CIA to conduct "signature strikes"—drone attacks that target groups of people based on patterns of suspicious behavior rather than confirmed identification of specific individuals. This policy shift enables the CIA to strike gatherings of military-age males in certain locations, convoys displaying particular characteristics, or groups engaged in activities deemed consistent with militant behavior, without knowing who they are killing. The signature strikes policy dramatically accelerates the pace of drone operations while exponentially increasing civilian casualties and fundamentally abandoning due process—people are killed not for confirmed crimes or imminent threats, but because their behavior matches a profile.
 

@@ -41,7 +41,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 By the end of the 1890s, the Standard Oil Trust controls the refining of 90 to 95 percent of all oil produced in the United States, representing the most complete industrial monopoly in American history achieved through systematic elimination of competitors, strategic mergers, and exploitation of favorable railroad rebates. Founded in 1870 by John D. Rockefeller in Ohio, Standard Oil achieved dominance by 1880 and formalized as a trust in 1882 through the Standard Oil Trust Agreement signed by nine trustees including Rockefeller. The trust agreement allows companies to be purchased, created, dissolved, merged, or divided at trustees' discretion; eventually the trustees govern approximately 40 corporations, of which 14 are wholly owned. Though the Ohio Supreme Court dissolves the trust on March 21, 1892, the holdings reorganize into 20 independent companies forming an unofficial union referred to as "Standard Oil Interests" that maintains monopoly control through coordinated action.
 

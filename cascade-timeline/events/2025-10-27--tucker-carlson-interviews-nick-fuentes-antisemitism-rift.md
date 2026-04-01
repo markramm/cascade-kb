@@ -39,7 +39,6 @@ capture_lanes:
 - Democratic Erosion
 - Media Capture & Control
 ---
-type: timeline_event
 
 Tucker Carlson aired a two-hour interview with white nationalist and Holocaust denier Nick Fuentes on "The Tucker Carlson Show," which garnered over 20 million views and exposed deep rifts within the Republican coalition over antisemitism. Carlson did not confront Fuentes about his history of praising Hitler, denying the Holocaust, or claiming Jews are not loyal Americans.
 

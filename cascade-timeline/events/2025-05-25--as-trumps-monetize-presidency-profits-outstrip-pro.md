@@ -47,6 +47,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 Trump and his family have monetized the presidency to the tune of hundreds of millions of dollars without significant public outcry and institutional pushback after his early purge of federal ethics watchdogs

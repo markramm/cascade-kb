@@ -65,7 +65,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 
 The National Association of Manufacturers (NAM) board selects Werner P. Gullander as the organization's first full-time permanent president by 1962, following a late 1950s organizational restructuring where declining membership resulted in a takeover by larger corporations that purged ultraconservative leadership. The reorganized board establishes a National Defense Committee (NDC) to promote defense industry membership, marking a pivotal shift in NAM's strategic direction. An April 19, 1962 "Report On NAM National Defense Committee" prepared for the Economic Advisory Committee of the NAM Board of Directors documents the formal creation of this defense industry lobbying infrastructure, which has received little scholarly scrutiny despite its significant role in the militarization of American conservatism.

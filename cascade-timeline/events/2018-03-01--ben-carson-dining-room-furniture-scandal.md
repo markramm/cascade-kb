@@ -37,7 +37,6 @@ capture_lanes:
 - Financial Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 The U.S. Department of Housing and Urban Development spent $31,561 on custom-made dining room furniture for HUD Secretary Ben Carson's office in late 2017, in apparent violation of federal law requiring Congressional approval for department head office redecoration costs exceeding $5,000. The furniture order, placed on December 21 from Baltimore-based Sebree and Associates, included a mahogany table, ten chairs with velvet upholstery, a sideboard, and a hutch. HUD initially denied Carson's involvement, but internal emails released under FOIA contradicted those claims, revealing "printouts of the furniture the Secretary and Mrs. Carson picked out."
 

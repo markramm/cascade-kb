@@ -48,6 +48,5 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 President Trump pardoned Nikola founder Trevor Milton, who was convicted of securities fraud in October 2022, after Milton donated $1.8M to Trump's 2024 re-election campaign. The pardon effectively eliminates $695.2 million in potential restitution to Nikola shareholders and prevents further legal consequences for Milton's fraudulent actions.

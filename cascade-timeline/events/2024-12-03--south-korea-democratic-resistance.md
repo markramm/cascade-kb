@@ -38,6 +38,5 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 
 On December 3, 2024, South Korean President Yoon Suk Yeol declared a nationwide martial law, triggering an immediate and coordinated democratic resistance. The National Assembly swiftly convened, annulled the martial law within hours, and initiated impeachment proceedings. Citizens and lawmakers demonstrated remarkable resilience by blocking military movements, organizing mass protests, and leveraging digital platforms to mobilize resistance, ultimately preserving democratic institutions.

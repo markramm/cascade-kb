@@ -31,7 +31,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 As of March 18, 2026 — ten days after the Assembly of Experts selected Mojtaba Khamenei as Iran's new Supreme Leader following his father Ayatollah Ali Khamenei's death in the opening strikes of the war — the new leader had not appeared on video or in public. All of his statements had been conveyed in writing or read by state television anchors over still photographs. The absence fueled growing speculation about his health and physical condition.
 

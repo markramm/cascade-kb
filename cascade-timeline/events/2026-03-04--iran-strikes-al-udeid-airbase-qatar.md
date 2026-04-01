@@ -51,7 +51,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 4, 2026, Iran fired two ballistic missiles at Al Udeid Air Base near Doha, Qatar — the largest U.S. military installation in the Middle East and the headquarters of U.S. Air Forces Central Command. Qatari air defense systems intercepted one missile, but the second struck the installation, causing damage. The strike represented the most consequential Iranian hit on a major U.S. military hub since Operation Epic Fury began on February 28.
 

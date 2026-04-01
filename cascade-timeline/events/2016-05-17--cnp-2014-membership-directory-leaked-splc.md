@@ -31,7 +31,6 @@ capture_lanes:
 - Regulatory Capture
 - 'Media Capture & Control'
 ---
-type: timeline_event
 The Southern Poverty Law Center obtained and released a leaked copy of the Council for National Policy's 2014 Membership Directory, exposing 413 members of what it described as a "Who's Who of the Right" - the first comprehensive membership list made public since 1998.
 
 The 191-page directory revealed the depth of CNP's coordination network, including members who had kept their affiliation secret for years. Among the notable members exposed were Steve Bannon (who would become Trump's chief strategist) and Kellyanne Conway (who was on CNP's executive committee in 2014 and would become Trump's senior counselor).

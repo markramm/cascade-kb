@@ -37,6 +37,5 @@ capture_lanes:
 - Judicial Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Federal Judge Lewis Kaplan allows Virginia Giuffre's lawsuit against Prince Andrew to proceed, despite arguments that a sealed 2009 settlement agreement with Jeffrey Epstein bars the case. The ruling highlights ongoing transparency issues as key documents remain sealed from public view, including the full text of Epstein's settlement agreements and the scope of immunity provisions.

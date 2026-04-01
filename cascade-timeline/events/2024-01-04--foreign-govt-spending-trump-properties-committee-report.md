@@ -64,7 +64,6 @@ sources:
   verified: true
   tier: 2
 ---
-type: timeline_event
 A staff report by House Oversight Committee Democrats, based on Mazars-produced records for
 limited years and entities, found that Trump businesses received at least $7.8 million from 20
 foreign governments while he was president—likely an undercount. Watchdogs report higher

@@ -44,6 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Federal judge dismisses Alexia Palmer's class-action lawsuit against Trump Model Management on procedural grounds, ruling she failed to exhaust administrative remedies before filing suit. The dismissal avoided ruling on the merits of extensive evidence showing models were paid less than $4,000 while H-1B applications promised $75,000 salaries, housed in overcrowded conditions, and subjected to illegal working conditions. The case was dismissed just as Trump's presidential campaign gained momentum.

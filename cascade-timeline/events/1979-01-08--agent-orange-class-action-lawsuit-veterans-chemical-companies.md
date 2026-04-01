@@ -38,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 Attorney Victor Yannacone files a class action lawsuit in the Southern District of New York against U.S. chemical manufacturers of Agent Orange, including Dow Chemical Company and Monsanto—the two largest producers—along with Diamond Shamrock, Uniroyal, Thompson Chemicals, Hercules, and dozens of other companies. The lawsuit represents Vietnam veterans suffering severe health problems including cancers, birth defects in their children, and neurological disorders allegedly caused by exposure to the toxic herbicide during military service.
 

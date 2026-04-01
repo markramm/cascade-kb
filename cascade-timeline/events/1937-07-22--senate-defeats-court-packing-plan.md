@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On July 22, 1937, the U.S. Senate votes 70-22 to defeat President Franklin Roosevelt's Judicial Procedures Reform Bill, rejecting his proposal to expand the Supreme Court by up to six additional justices and handing FDR his greatest legislative defeat. Three-quarters of senators voting to kill the court-packing plan are Democrats, representing a stunning rebuke from Roosevelt's own party just months after his landslide 1936 re-election victory. The Senate's final vote follows the June 14, 1937 Senate Judiciary Committee report that condemned the measure as "a needless, futile and utterly dangerous abandonment of constitutional principle" and "an invasion of judicial power such as has never before been attempted in this Country"—with seven Democrats signing the scathing adverse recommendation despite the committee's Democratic majority.
 

@@ -34,7 +34,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 A CNN investigation published March 10, 2026 documented how the Department of Government Efficiency's sweeping cuts to federal agencies had materially degraded the U.S. government's capacity to function during the Iran war that began on February 28.
 

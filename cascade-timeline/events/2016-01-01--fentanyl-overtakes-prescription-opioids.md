@@ -36,7 +36,6 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: timeline_event
 
 In 2016, illicit fentanyl and other synthetic opioids overtook prescription opioids as the leading cause of opioid overdose deaths in the United States, marking a deadly transition in the opioid epidemic. This shift represented the catastrophic unintended consequence of belated efforts to restrict prescription opioid access without providing adequate addiction treatment—users addicted to prescription pills transitioned to far more dangerous illicit drugs.
 

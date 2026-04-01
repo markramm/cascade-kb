@@ -43,7 +43,6 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Homeland Security Secretary Kirstjen Nielsen explicitly acknowledged in a May 10, 2018 NPR interview that the Trump administration's zero-tolerance policy would necessarily separate families, defending the practice as equivalent to standard law enforcement. Yet within weeks, Nielsen would falsely deny the policy existed, even as thousands of children were being torn from their parents at the border.
 

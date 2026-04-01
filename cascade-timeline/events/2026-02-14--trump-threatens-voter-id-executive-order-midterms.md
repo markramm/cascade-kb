@@ -35,7 +35,6 @@ capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump announced on Truth Social that he will issue an executive order "shortly" laying out "legal reasons" for national voter-identification requirements for the 2026 midterm elections, declaring "There will be Voter I.D. for the Midterm Elections, whether approved by Congress or not!" and adding demands for proof of citizenship and elimination of mail-in ballots except for military, disability, illness, or travel. The announcement followed House passage of the SAVE America Act requiring photo ID at polling places and proof of citizenship for federal voter registration, which passed with only one Democratic vote and faces certain defeat in the Senate where Minority Leader Chuck Schumer vowed to block it as "dead on arrival."
 

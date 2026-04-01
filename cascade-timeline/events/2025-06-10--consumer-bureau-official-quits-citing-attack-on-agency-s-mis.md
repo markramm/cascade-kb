@@ -44,5 +44,4 @@ tags:
 - institutional-capture
 title: 'CFPB Enforcement Chief Resigns, Condemns Trump Administration''s Agency Deconstruction'
 ---
-type: timeline_event
 Cara Petersen, acting enforcement director of the CFPB, resigned after criticizing the Trump administration's systematic dismantling of the agency. She highlighted dramatic staff cuts from 1,750 to potentially 200 employees, dismissal of over 20 enforcement cases, and the elimination of key oversight functions.

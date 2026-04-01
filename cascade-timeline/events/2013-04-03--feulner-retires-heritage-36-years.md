@@ -84,7 +84,6 @@ sources:
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Edwin J. Feulner Jr. retired as president of the Heritage Foundation on April 3, 2013, after a 36-year tenure that transformed Heritage from 9 staff members with a $1 million budget into a 240-person organization with annual revenue approaching $80 million. When Feulner assumed the presidency in 1977, Heritage operated out of a rented Capitol Hill office. By his retirement, it had become what Newt Gingrich called "the Parthenon of the conservative metropolis" — the central institution in an ecosystem of conservative think tanks, advocacy groups, and donor networks capable of staffing Republican administrations and developing comprehensive policy agendas.
 

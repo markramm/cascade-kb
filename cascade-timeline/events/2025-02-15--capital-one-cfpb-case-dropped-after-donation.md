@@ -55,6 +55,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 After Capitol One donated $1 million to President Trump's inauguration fund, the Trump Administration ended a Consumer Financial Protection Bureau (CFPB) case against Capital One involving allegedly misleading consumers about interest payments.

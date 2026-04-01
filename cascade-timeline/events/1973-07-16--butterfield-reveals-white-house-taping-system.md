@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On July 13, 1973, Alexander Butterfield—who had served as deputy assistant to President Nixon from 1969 to 1973—was questioned in a background interview by Senate Watergate Committee staff members prior to his public testimony. Butterfield was brought before the committee because he was H.R. Haldeman's top deputy and the only person other than Haldeman who knew as much about the President's day-to-day operations. When Republican lawyer Donald Sanders asked, "Was there any other kind of taping system in the president's office?" Butterfield replied, "I was hoping you all wouldn't ask that question," and then confirmed: "There is tape in the Oval Office." He testified that "Everything was taped... as long as the President was in attendance. There was not so much as a hint that something should not be taped."
 

@@ -26,7 +26,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 16, 2026, Iranian Foreign Minister Abbas Araghchi publicly declared that Iran would not ask for a ceasefire in the ongoing war with the United States and Israel. Speaking in a televised address, Araghchi stated that the war "must end, in a way our enemies never again think about repeating such attacks against our nation." The statement signaled Tehran's determination to continue fighting despite the devastating toll of nearly three weeks of sustained aerial bombardment.
 

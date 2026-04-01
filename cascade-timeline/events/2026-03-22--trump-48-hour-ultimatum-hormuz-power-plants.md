@@ -33,7 +33,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 On March 22, 2026, President Trump issued a 48-hour ultimatum to Iran, demanding that Tehran immediately reopen the Strait of Hormuz to commercial shipping or face the "obliteration" of all Iranian power plants and energy infrastructure. The threat represented the most extreme escalatory language of the war, raising the prospect of deliberately targeting civilian infrastructure on which tens of millions of Iranians depended for electricity, heating, and water purification.
 

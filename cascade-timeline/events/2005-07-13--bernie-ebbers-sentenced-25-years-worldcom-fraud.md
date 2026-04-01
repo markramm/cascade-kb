@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On July 13, 2005, former WorldCom CEO Bernard Ebbers was sentenced to 25 years in federal prison for orchestrating the largest corporate accounting fraud in American history. The sentence, handed down by U.S. District Judge Barbara Jones in Manhattan, represented one of the harshest penalties ever imposed on a corporate executive and marked the peak of the post-Enron era of executive accountability.
 

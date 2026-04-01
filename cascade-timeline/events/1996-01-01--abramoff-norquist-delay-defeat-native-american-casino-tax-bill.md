@@ -37,6 +37,5 @@ capture_lanes:
 status: confirmed
 priority_id: RT-EXP-95366B7D-jack-abramoff-indian-casino-network
 ---
-type: timeline_event
 
 Jack Abramoff, working for the Mississippi Band of Choctaw Indians, successfully mobilized a network including Grover Norquist's Americans for Tax Reform and House Majority Whip Tom DeLay to defeat a Congressional bill that would have imposed unrelated business income tax (UBIT) on Native American casinos. This early collaboration established the operational template for the Abramoff lobbying network, demonstrating how strategic political relationships could be leveraged to block targeted legislation.

@@ -50,5 +50,4 @@ capture_lanes:
 - Intelligence Penetration
 validation_priority: 8
 ---
-type: timeline_event
 Marko Elez, a 25-year-old engineer linked to Elon Musk, was granted administrative privileges including ability to write code for Treasury Department's Payment Automation Manager (PAM) and Secure Payments System (SPS) that handle $6 trillion annually in Social Security, Medicare, and government contractor payments. Career official David Lebryk was placed on leave after resisting the access grant. Elez later resigned after racist social media posts were discovered, but Musk publicly supported his rehiring.

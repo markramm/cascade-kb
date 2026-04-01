@@ -39,5 +39,4 @@ capture_lanes:
 - Executive Power Expansion
 priority_id: project-2025-implementation-1757456630
 ---
-type: timeline_event
 A comprehensive analysis reveals that over 70% of Trump's cabinet has direct connections to Project 2025, with at least 31 individuals from the Heritage Foundation-backed initiative securing high-level government positions. Key appointments include Russell Vought (OMB Director), Tom Homan (Border Czar), Brendan Carr (FCC), and John Ratcliffe (CIA Director), demonstrating a systematic implementation of the conservative blueprint for executive branch transformation.

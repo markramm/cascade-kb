@@ -47,7 +47,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Following Andrew Jackson's September 1833 removal of federal deposits from the Second Bank of the United States, Bank president Nicholas Biddle responds by deliberately contracting credit nationwide to create economic distress and force Jackson to reverse his policy. Biddle raises interest rates, calls in loans, and restricts new credit—actions designed not to protect the Bank's financial position but to "inflict harm on the community in order to convince Americans that a national bank was indispensable to a thriving, well-regulated economy." The deliberately engineered economic slump, known as "Biddle's Panic," lasts from fall 1833 to summer 1834, causing business closures, unemployment, and financial hardship that Biddle cynically uses as political leverage. The episode demonstrates how financial institutions can weaponize their market power to hold the economy hostage for political objectives, prioritizing institutional preservation over public welfare.
 

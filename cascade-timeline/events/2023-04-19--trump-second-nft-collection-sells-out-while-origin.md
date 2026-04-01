@@ -34,6 +34,5 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Trump launched his second NFT collection in April 2023, which sold out rapidly, coinciding with his legal troubles in Manhattan. His financial disclosure revealed he earned between $500,000 and $1 million from NFT sales. The second collection's launch occurred while the prices of his original December 2022 collection had already fallen 99% from their peak. The NFT sales were managed by NFT INT LLC through a licensing agreement with CIC Digital LLC, demonstrating a sophisticated monetization strategy during a period of intense legal scrutiny.

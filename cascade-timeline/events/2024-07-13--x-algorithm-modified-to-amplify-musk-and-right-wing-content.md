@@ -39,5 +39,4 @@ category: information-warfare
 location: 'Austin, TX, United States'
 status: confirmed
 ---
-type: timeline_event
 Computational research revealed systematic algorithmic manipulation on X platform, demonstrating a strategic modification enhancing visibility for Elon Musk and Republican-aligned accounts. Researchers from Queensland University of Technology and Monash University identified a precise 'change point' on July 13, 2024, showing a 138.27% increase in views for Musk's account and algorithmic bias favoring Republican-leaning content. By October 2024, neutral user 'For You' feeds showed 30.16% right-leaning content versus 12.92% left-leaning, indicating a significant amplification of conservative political messaging.

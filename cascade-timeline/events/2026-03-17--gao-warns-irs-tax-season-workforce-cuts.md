@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 17, 2026, the Government Accountability Office released a report documenting the severe impact of DOGE-driven workforce reductions on the Internal Revenue Service during the heart of tax filing season. The IRS had shrunk from approximately 102,000 employees to roughly 74,000 — a 27 percent cut — leaving the agency at staffing levels not seen since October 2021, when it was already widely recognized as critically understaffed.
 

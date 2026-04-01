@@ -44,7 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The House Armed Services Committee exonerates Secretary of Defense Louis Johnson and Air Force Secretary Stuart Symington of corruption charges related to the B-36 bomber contract, despite Johnson's recent service on Convair Corporation's board of directors. An anonymous document circulated in Washington charges that Johnson, Symington, and Convair chairman Floyd B. Odlum pressured the Air Force to purchase B-36 bombers despite the aircraft's deficiencies, alleging that Convair contributed $6.5 million to Democratic politicians to secure the contracts. The document condemns the B-36 as "an obsolete and unsuccessful aircraft" and claims corruption entered the selection process. Air Force Special Investigations traces the document to Cedric R. Worth, a former Hollywood scriptwriter working for Navy Under Secretary Dan Kimball, who received data from Glenn L. Martin, an aircraft manufacturer whose bombers lost to the B-36.
 

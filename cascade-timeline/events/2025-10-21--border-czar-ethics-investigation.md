@@ -31,6 +31,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 The Campaign Legal Center requested investigation into Tom Homan and Mark Hall for possible ethics violations after revelations that both officials had prior financial connections to firms now seeking multimillion-dollar detention contracts with DHS. The request raises concerns about conflicts of interest where officials responsible for immigration enforcement policy decisions could personally benefit from contracts awarded to companies they previously worked with or invested in. The investigation highlights the revolving door between Trump administration immigration officials and private detention contractors, creating incentives to maximize detention regardless of policy merits. Homan's dual role as policy architect and potential beneficiary of detention expansion exemplifies how Trump officials use public positions for private gain. The ethics concerns extend to the broader pattern of Trump appointees steering government contracts toward their business associates.

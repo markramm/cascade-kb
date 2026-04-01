@@ -43,6 +43,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 CNN executives meet with White House Iraq Group communications staff to coordinate the September 2002 propaganda campaign rollout. Network executives, including CNN President Walter Isaacson and senior producers, receive advance briefings on administration talking points and agree to provide prime television real estate for synchronized messaging. The meeting establishes CNN's role as a willing partner in WHIG's 'marketing campaign' for the Iraq invasion, with executives prioritizing government access over journalistic independence. CNN agrees to book administration officials for September 8 appearances on key programs including Late Edition with Wolf Blitzer and American Morning, ensuring maximum audience reach for the 'smoking gun/mushroom cloud' messaging. The corporate decision represents a fundamental abandonment of journalistic principles, as CNN executives knowingly facilitate the distribution of propaganda designed to manipulate public opinion toward war. This coordination meeting exemplifies how corporate media executives became complicit partners in government deception, subordinating news judgment to political access and regulatory favor.

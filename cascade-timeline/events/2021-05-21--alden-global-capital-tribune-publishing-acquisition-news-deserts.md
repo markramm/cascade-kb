@@ -53,7 +53,6 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: timeline_event
 
 On May 21, 2021, Tribune Publishing shareholders approved hedge fund Alden Global Capital's $633 million acquisition of the newspaper chain, making Alden the second-largest newspaper publisher in the United States. The transaction gave Alden control over nine major metropolitan dailies including the Chicago Tribune, Baltimore Sun, New York Daily News, Hartford Courant, and Orlando Sentinel—newspapers with combined circulations reaching millions of Americans. Alden's acquisition represented the culmination of a "vulture capitalism" business model that systematically destroys local journalism to extract short-term profits, creating news deserts that undermine democratic accountability.
 

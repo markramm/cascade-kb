@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On July 30, 2002, President George W. Bush signed the Sarbanes-Oxley Act into law, calling it "the most far-reaching reforms of American business practices since the time of Franklin D. Roosevelt." The legislation passed with overwhelming bipartisan support—423 to 3 in the House and 99 to 0 in the Senate—in direct response to the Enron and WorldCom accounting scandals.
 

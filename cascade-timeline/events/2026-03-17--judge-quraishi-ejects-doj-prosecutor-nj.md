@@ -42,7 +42,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 17, 2026, U.S. District Judge Zahid Quraishi ejected supervisory Assistant U.S. Attorney Mark Coyne from his courtroom during a child pornography sentencing hearing in what became one of the most dramatic judicial confrontations with the Trump Department of Justice. The extraordinary move reflected the deep erosion of trust between the federal bench and the New Jersey U.S. Attorney's office under Trump-appointed leadership.
 

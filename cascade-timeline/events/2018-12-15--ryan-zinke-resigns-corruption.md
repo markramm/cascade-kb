@@ -50,7 +50,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Interior Secretary Ryan Zinke resigned while under at least 18 federal investigations 
 for corruption, conflicts of interest, and ethics violations. Scandals included: 

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 After Union naval forces under David G. Farragut capture New Orleans in spring 1862, General Benjamin F. Butler is appointed military governor of the occupied city, beginning one of the most controversial and corrupt episodes of the Civil War. Butler's brief tenure becomes notorious for alleged systematic corruption involving bank and mansion looting, rigged cotton auctions, and illicit trade with Confederates. Butler sends military expeditions into the Louisiana countryside with no military purpose beyond confiscating cotton from residents presumed disloyal. Once brought to New Orleans, the cotton is sold in manipulated auctions where Butler family interests acquire it at bargain prices while proceeds are officially held for "just claimants" to maintain proper appearances. Butler's brother Andrew operates a lucrative trade in cattle, sugar, cotton, and other Confederate commodities, reportedly making between $500,000 and $2 million from such enterprises. Butler is charged "apparently with justice" with corruption in conniving at and sharing profits from illicit Confederate trade carried on by his brother in New Orleans and his brother-in-law in the Department of Virginia and North Carolina while Butler commands those regions.
 

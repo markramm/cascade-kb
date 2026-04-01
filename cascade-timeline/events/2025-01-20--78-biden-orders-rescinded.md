@@ -39,5 +39,4 @@ sources:
 notes: 'Comprehensive reversal of Biden-era policies across all federal agencies. March 14, 2025 additional rescissions followed. Orders directed agency heads to immediately end DEI programs. Rescinded climate crisis response, racial equity advancement, LGBTQ protections, ethics commitments, and COVID response coordination.'
 status: confirmed
 ---
-type: timeline_event
 Trump's Executive Order 14148 "Initial Rescissions of Harmful Executive Orders and Actions" revoked 78 Biden-era orders issued between January 21, 2021 and January 19, 2025. Rescinded climate policies (EO 13990, 14008), equity initiatives (EO 13985, 13988), COVID response (EO 13987), and ethics commitments (EO 13989). Required agency review within 45 days for additional rescissions.

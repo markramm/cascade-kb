@@ -26,7 +26,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Military-Industrial Capture
 ---
-type: timeline_event
 
 On March 17, 2026, MIT Technology Review revealed that the Pentagon was planning a significant expansion of AI companies' access to classified intelligence data — moving beyond the current practice of running queries against classified databases to allowing companies to train military-specific AI models directly on classified information. The shift would embed surveillance reports, battlefield assessments, signals intelligence, and other sensitive material into the actual weights of foundation models, representing a fundamental change in how classified data interfaces with commercial AI systems.
 

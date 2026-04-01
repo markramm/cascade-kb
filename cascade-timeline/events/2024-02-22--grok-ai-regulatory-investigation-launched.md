@@ -34,5 +34,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 While no specific FTC investigation was definitively confirmed in 2024, xAI's Grok AI faced increasing regulatory attention from multiple agencies. The AI chatbot encountered potential regulatory challenges related to content generation practices, data privacy, and AI safety, particularly in European jurisdictions and US federal agencies.

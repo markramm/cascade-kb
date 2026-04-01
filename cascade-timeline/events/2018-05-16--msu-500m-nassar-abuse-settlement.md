@@ -46,7 +46,6 @@ capture_lanes:
 - Judicial Capture
 - Financial Capture
 ---
-type: timeline_event
 
 On May 16, 2018, Michigan State University agreed to pay $500 million to settle lawsuits brought by 332 survivors of Larry Nassar's sexual abuse—the largest settlement ever in a sexual misconduct case involving a university, surpassing Penn State's $100+ million settlement with Jerry Sandusky survivors. The settlement distributed $425 million to claimants who were part of the lawsuits, with $75 million held in reserve for two years for additional survivors who came forward. On December 4, 2018, Interim President John Engler announced completion of MSU's financial transfer into the court-created settlement fund, though the financial settlement could not address the decades of institutional betrayal that enabled Nassar's crimes.
 

@@ -49,5 +49,4 @@ tags:
 - balkan-expansion
 title: Trump Organization Launches Luxury Tower Project in Romania
 ---
-type: timeline_event
 The Trump Organization partnered with SDC Imobiliare to develop Trump Tower Bucharest, marking the brand's first major real estate venture in Romania and expanding its Balkan presence. Eric Trump emphasized the project reflects their commitment to 'excellence, luxury, and innovation'.

@@ -55,5 +55,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Regulatory Capture
 ---
-type: timeline_event
 Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company– –joining other Trump-family linked businesses pursuing the same strategy

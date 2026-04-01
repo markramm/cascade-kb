@@ -42,7 +42,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 On April 12, 1937, the Supreme Court rules 5-4 in NLRB v. Jones & Laughlin Steel Corporation to uphold the constitutionality of the National Labor Relations Act (Wagner Act), reversing years of judicial hostility to federal labor regulation and fundamentally expanding Congress's commerce clause authority. Chief Justice Charles Evans Hughes's majority opinion holds that labor relations at a large manufacturing company have such a close and substantial connection to interstate commerce that Congress may regulate them, overturning the cramped interpretation of federal power that had struck down the NIRA and other New Deal legislation.
 

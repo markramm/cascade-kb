@@ -49,6 +49,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Trump’s sweeping 10% universal tariffs unveiled Wednesday exempt many fossil fuel products—including LNG imports, Canadian crude, and petrochemical inputs—which came after the fossil fuel industry contributed $96 million to Trump’s re-election effort

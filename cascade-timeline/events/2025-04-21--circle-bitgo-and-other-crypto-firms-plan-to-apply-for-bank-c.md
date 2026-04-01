@@ -48,6 +48,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Circle, Paxos, BitGo, and Coinbase are preparing to apply for national bank charters or trust bank licenses, reflecting the Trump administration's aggressive pro-cryptocurrency stance. This move represents a significant shift in crypto firms' strategy, seeking deeper integration with the traditional banking system by obtaining federal banking credentials.

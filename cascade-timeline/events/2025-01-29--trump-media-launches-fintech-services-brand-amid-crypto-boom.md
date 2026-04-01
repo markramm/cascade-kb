@@ -45,5 +45,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Trump Media & Technology Group (TMTG) announced the launch of Truth.Fi, a new FinTech brand targeting 'America First' investment vehicles, including customized ETFs, separately managed accounts, and cryptocurrency investments. The strategic move involves a $250 million investment custodied by Charles Schwab, focusing on American manufacturing, energy, and cryptocurrency sectors.

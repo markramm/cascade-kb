@@ -34,7 +34,6 @@ sources:
 capture_lanes:
 - Corporate Capture
 ---
-type: timeline_event
 
 President Trump signed an executive order establishing the Freedom 250 Grand Prix, the first-ever INDYCAR street race in Washington, D.C., to be held near the National Mall on August 21-23, 2026, in celebration of America's 250th anniversary. The order directs the Secretaries of Interior and Transportation to designate a race route showcasing the National Mall within 14 days and to expedite all necessary permits and approvals, instructing agencies to treat the event as a special celebration and facilitate logistics including road maintenance and aerial photography. The race will be free to the public and broadcast on FOX, administered by INDYCAR, the Freedom 250 taskforce, federal agencies, and the city.
 

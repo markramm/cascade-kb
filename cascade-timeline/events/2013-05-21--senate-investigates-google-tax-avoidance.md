@@ -58,7 +58,6 @@ connections:
 - Corporate political power
 notes: Despite detailed Congressional exposure of tax avoidance schemes, Google faced no penalties and continued practices for 7 more years. Demonstrated lobbying power prevented reform despite bipartisan concern.
 ---
-type: timeline_event
 
 On May 21, 2013, the Senate Permanent Subcommittee on Investigations held hearings examining multinational corporation tax avoidance, with Google as a primary focus. The investigation exposed that Google paid only a 2.4% tax rate on foreign profits—avoiding approximately $2 billion annually in taxes through offshore structures—yet the company faced no penalties and successfully lobbied to prevent legislative reform.
 

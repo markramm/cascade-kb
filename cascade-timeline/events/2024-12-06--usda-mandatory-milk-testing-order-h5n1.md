@@ -35,7 +35,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Regulatory Capture
 ---
-type: timeline_event
 
 On December 6, 2024, the USDA issued a new Federal Order requiring that raw (unpasteurized) milk samples nationwide be collected and shared with USDA for testing as part of a new National Milk Testing Strategy (NMTS) to address H5N1 in dairy herds. The order came nine months after the first detection of H5N1 in dairy cattle and after the virus had already spread to 720 herds across 15 states with 58 human infections, mostly farmworkers.
 

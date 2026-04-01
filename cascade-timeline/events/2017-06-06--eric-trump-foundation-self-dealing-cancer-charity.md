@@ -37,7 +37,6 @@ sources:
   tier: 1
   outlet: The Washington Post
 ---
-type: timeline_event
 
 The Eric Trump Foundation, ostensibly dedicated to raising money for St. Jude Children's Research Hospital to fight childhood cancer, systematically funneled charitable donations to Trump Organization businesses by paying inflated costs for charity golf events held at Trump properties. Despite Eric Trump's claims that his family donated the use of Trump golf courses for "free," the Foundation actually paid Trump businesses at least $1.2 million for event costs between 2011-2015. The Foundation charged donors tens of thousands to attend charity golf tournaments, claimed all proceeds went to sick children, but instead directed significant portions to Trump Organization entities through grossly inflated facility fees and expenses.
 

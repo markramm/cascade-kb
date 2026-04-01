@@ -49,6 +49,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Trump's cryptocurrency firm, World Liberty Financial, made $550 million through secret payments from foreign entities, including a $2 billion investment from an Abu Dhabi state-backed firm and $75 million from Chinese investor Justin Sun, raising significant conflict of interest concerns.

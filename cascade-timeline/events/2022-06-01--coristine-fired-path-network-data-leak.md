@@ -44,7 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Edward Coristine, then 16, was fired from his internship at cybersecurity firm Path Network
 for allegedly leaking internal company information to competitors. Path founder Marshal Webb

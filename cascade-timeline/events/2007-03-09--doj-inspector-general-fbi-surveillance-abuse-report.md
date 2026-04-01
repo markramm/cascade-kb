@@ -40,6 +40,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Department of Justice Inspector General Glenn Fine releases comprehensive report documenting widespread FBI abuse of National Security Letters (NSLs) and surveillance authorities. The investigation found FBI systematically circumvented legal requirements, collected intelligence on Americans without proper authorization, and failed to report violations to Congress. The report revealed over 1,000 violations and showed intelligence agencies operating outside constitutional constraints under political pressure.

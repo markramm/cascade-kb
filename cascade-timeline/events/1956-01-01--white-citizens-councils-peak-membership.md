@@ -39,7 +39,6 @@ sources:
   date: '2024-01-01'
 status: confirmed
 ---
-type: timeline_event
 
 The White Citizens' Councils reach peak membership of between 250,000 and 300,000 individuals in 1956, establishing a national body known as the Citizens' Councils of America. The movement, led by Mississippi Circuit Court Judge Tom P. Brady and first formed on July 11, 1954 in response to Brown v. Board of Education, encompasses virtually Mississippi's entire white business class—attracting middle to upper-class politicians, doctors, lawyers, teachers, bankers, and businessmen who use their legal and economic power to suppress Black citizens and resist integration. Opponents call them a "white-collar Klan" to distinguish the organization from the violent tactics of the Ku Klux Klan, though the Councils' systematic use of economic retaliation proves devastatingly effective.
 

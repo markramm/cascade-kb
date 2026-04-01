@@ -32,5 +32,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 In her memoir "No Going Back," Kristi Noem wrote about shooting her 14-month-old dog Cricket and a goat on her ranch 20 years ago. She described Cricket as "untrainable" after the dog attacked chickens and attempted to bite her. She then shot a goat because it smelled bad and knocked down her children. Noem defended the killings as examples of making tough leadership decisions, severely damaging her VP prospects.

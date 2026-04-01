@@ -41,7 +41,6 @@ sources:
 notes: 'Network operates in 5,000 communities across 49 states. Creates comprehensive tracking of American vehicle movements without warrants.'
 status: confirmed
 ---
-type: timeline_event
 Flock Safety's automated license plate recognition network reaches unprecedented scale, with more than 5,000 law enforcement departments across the United States using interconnected cameras that perform over 20 billion scans of vehicles every month. The company now operates in more than 5,000 communities across 49 U.S. states and over 2,000 cities in at least 42 states.
 
 The massive surveillance infrastructure represents a fundamental transformation in government tracking capabilities. Unlike traditional police work requiring individualized suspicion, Flock's system photographs and tracks every vehicle that passes its cameras, using AI to create comprehensive profiles of Americans' movements that can be searched by thousands of police departments without warrant requirements.

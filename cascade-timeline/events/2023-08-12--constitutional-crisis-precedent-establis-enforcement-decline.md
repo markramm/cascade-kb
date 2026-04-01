@@ -61,5 +61,4 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 A comprehensive analysis of 2023 reveals a significant decline in regulatory enforcement actions across multiple federal agencies. The Consumer Financial Protection Bureau and other regulatory bodies show a marked reduction in total enforcement actions, with a strategic pivot towards fewer but more impactful penalties. This trend suggests potential industry influence and a broader shift in regulatory approach, raising questions about institutional capture and oversight effectiveness.

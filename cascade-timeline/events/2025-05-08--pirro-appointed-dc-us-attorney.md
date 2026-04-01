@@ -26,7 +26,6 @@ capture_lanes:
 - Institutional Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 Attorney General Pam Bondi appointed former Fox News host Jeanine Pirro as interim U.S. Attorney for the District of Columbia on May 8, 2025. Pirro was subsequently confirmed by the Senate on August 2, 2025, in a party-line 50-45 vote.
 

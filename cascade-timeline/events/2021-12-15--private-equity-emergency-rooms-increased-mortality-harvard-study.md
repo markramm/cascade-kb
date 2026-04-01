@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 In December 2021, researchers at Harvard Medical School published a landmark study in *Annals of Internal Medicine* demonstrating that hospitals acquired by private equity firms experienced significant increases in emergency department mortality—7 additional deaths per 10,000 visits (approximately 10% increase)—linked directly to private equity-driven staffing cuts and reduced salary expenditures. The study provided quantitative evidence that private equity's profit-maximization strategies kill patients by subordinating medical care to financial extraction.
 

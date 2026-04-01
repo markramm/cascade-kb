@@ -41,7 +41,6 @@ capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On March 16, 2016, President Barack Obama nominated Merrick B. Garland, the widely respected Chief Judge of the U.S. Court of Appeals for the District of Columbia Circuit, to fill the Supreme Court vacancy created by Justice Antonin Scalia's death one month earlier. Garland was considered a moderate consensus candidate whom Republicans had previously praised—precisely the kind of qualified, confirmable nominee who would typically receive bipartisan support. Senate Majority Leader Mitch McConnell and Senate Republicans, however, refused to hold any hearings, meet with Garland, or allow any vote on the nomination, executing an unprecedented 293-day blockade that denied a sitting president the ability to fulfill his constitutional duty and stole a Supreme Court seat that would later be filled by Trump nominee Neil Gorsuch.
 

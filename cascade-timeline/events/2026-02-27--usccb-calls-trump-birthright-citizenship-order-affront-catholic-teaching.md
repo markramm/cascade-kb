@@ -36,7 +36,6 @@ capture_lanes:
 - Democratic Backsliding
 - Legal System Capture
 ---
-type: timeline_event
 
 The U.S. Conference of Catholic Bishops (USCCB) filed an amicus brief with the Supreme Court in late February 2026 arguing that Trump's executive order ending birthright citizenship for children of undocumented immigrants violates not only the Fourteenth Amendment but Catholic teaching on the inherent dignity of all persons. The brief described the order as forsaking "the vulnerable among us — specifically the children of migrants" and an affront to "the God-given equality of all people."
 

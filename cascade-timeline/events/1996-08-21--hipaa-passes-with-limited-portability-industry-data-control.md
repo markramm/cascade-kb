@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Clinton signs the Health Insurance Portability and Accountability Act (HIPAA), bipartisan legislation that ostensibly addresses insurance portability between jobs but creates a regulatory framework that permits extensive healthcare industry data sharing while blocking more comprehensive reform. The law's limited portability provisions fail to address the fundamental problems of the uninsured while establishing privacy rules that primarily protect industry data practices rather than patient interests.
 

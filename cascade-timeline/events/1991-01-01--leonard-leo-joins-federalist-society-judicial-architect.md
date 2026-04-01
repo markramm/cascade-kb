@@ -46,6 +46,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 In 1991, Leonard Leo joined the Federalist Society's national office, beginning his systematic transformation of the organization's approach to judicial selection. Leo developed a strategic 'pipeline' to identify, nurture, and advance conservative legal talent from law school through their professional careers. His approach focused on recruiting young lawyers who adhered to 'originalist' constitutional interpretations, ultimately reshaping the American judicial landscape by strategically positioning conservative judges in key judicial roles.

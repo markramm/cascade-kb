@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 23, 2026, President Trump backed away from his 48-hour ultimatum to destroy Iran's power grid, posting on Truth Social that he had "instructed the Department of War" to postpone strikes on power plants for five days. Trump claimed the delay was based on "very good and productive conversations" with Iran and suggested that negotiations were underway. Iran's Foreign Ministry immediately and flatly denied the existence of any talks, stating: "There is no dialogue between Tehran and Washington."
 

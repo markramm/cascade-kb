@@ -61,7 +61,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 ProPublica published an investigation revealing that The Strategy Group, an Ohio-based Republican consulting firm with deep personal and financial ties to DHS Secretary Kristi Noem, secretly received payments as a subcontractor on DHS's $220 million "Stronger Border, Stronger America" advertising campaign. The agency bypassed normal competitive bidding processes by invoking the "national emergency" at the border.
 

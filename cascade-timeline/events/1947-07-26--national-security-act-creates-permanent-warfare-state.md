@@ -49,7 +49,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 ---
-type: timeline_event
 
 
 # National Security Act Creates Permanent Warfare State

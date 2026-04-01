@@ -34,6 +34,5 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Trump administration's Office of Personnel Management (OPM) sets a critical April 20 deadline for federal agencies to submit recommendations for Schedule Policy/Career (formerly Schedule F) worker reclassifications. This initiative targets an estimated 50,000 positions (approximately 2% of the federal workforce) for conversion from career civil servants to at-will political appointees. The move represents an unprecedented systematic effort to reshape the federal workforce, enabling direct political control over policy-influencing positions and reducing traditional civil service protections.

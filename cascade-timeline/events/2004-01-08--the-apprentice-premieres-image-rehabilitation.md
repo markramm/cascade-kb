@@ -37,7 +37,6 @@ actors:
 - Mark Burnett
 - NBC
 ---
-type: timeline_event
 NBC's reality competition show "The Apprentice" premieres on January 8, 2004, drawing 18.5 million viewers and scoring the highest adult 18-49 rating for any preview or premiere of any new television series in a year. Producer Mark Burnett successfully transforms Trump from "a mogul on the decline" known primarily for multiple bankruptcies and business failures into what would become a highly influential television persona of a successful, decisive business leader.
 
 ## Background: Trump's Declining Image

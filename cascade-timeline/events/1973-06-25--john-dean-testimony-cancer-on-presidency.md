@@ -53,7 +53,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 
 On June 25, 1973, recently fired White House Counsel John Dean began week-long testimony before the Senate Select Committee on Presidential Campaign Activities, starting with a 245-page opening statement that took six hours to read. Dean testified that he had told President Nixon: "I began by telling the President that there was a cancer growing on the Presidency, and if the cancer was not removed, the President himself would be killed by it." In his testimony, Dean admitted to obstructing justice while serving as White House counsel, encouraging perjured testimony, laundering money, and committing other misconduct. More critically, he directly implicated Nixon in the cover-up, describing in detail the President's extensive involvement from the beginning, including authorization of hush money to silence witnesses.

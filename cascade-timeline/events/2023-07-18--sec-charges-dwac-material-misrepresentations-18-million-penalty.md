@@ -36,6 +36,5 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Securities and Exchange Commission announced settled fraud charges against Digital World Acquisition Corp (DWAC) for material misrepresentations to investors about merger discussions with Trump Media & Technology Group (TMTG). The SEC found that individuals who would later become DWAC's leadership had extensive SPAC merger discussions with TMTG dating back to February 2021, contradicting public filings that claimed no such discussions had occurred. DWAC agreed to pay an $18 million civil penalty, with the fine contingent on merger completion. The enforcement action reveals systematic deception of investors about the predetermined nature of the SPAC merger, highlighting regulatory scrutiny of special purpose acquisition companies.

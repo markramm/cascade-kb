@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 Charlie Kirk, 31-year-old founder and president of Turning Point USA, was assassinated during a "American Comeback Tour" event at Utah Valley University in Orem, Utah. A single shot fired from approximately 175 yards struck Kirk in the neck while he was answering a question about mass shootings, killing him. Over 3,000 people had gathered for what was expected to be a 600-person event.
 

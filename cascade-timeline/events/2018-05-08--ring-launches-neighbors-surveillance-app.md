@@ -36,7 +36,6 @@ tags:
 - privacy
 title: Ring launches Neighbors app creating crowdsourced surveillance network
 ---
-type: timeline_event
 
 Ring launched its standalone Neighbors app on iOS and Android devices, marking its first major product release since Amazon's acquisition two months earlier. The free app allows users to share photos and videos of alleged suspicious activity, creating a crowdsourced surveillance network connecting Ring doorbell owners and non-owners within geographic areas.
 

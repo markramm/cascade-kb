@@ -29,7 +29,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Department of Justice acknowledged redaction errors in the Epstein files release on February 6, 2026, following a week of victim advocacy groups documenting the catastrophic privacy violations. DOJ established an email inbox (EFTA@usdoj.gov) for victims to report unredacted information and stated it "takes victim protection very seriously," but critics noted the department "placed the burden on the survivors to find their unredacted names and request that DOJ make the necessary redactions"—forcing victims to relive their abuse while racing to prevent the spread of their identities online.
 

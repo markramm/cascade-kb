@@ -42,7 +42,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 3-4, 2026, President Trump publicly attacked the banking industry for opposing the stablecoin yield provisions in the Clarity Act, companion legislation to the GENIUS Act. Trump declared: "The GENIUS Act is being threatened and undermined by the Banks, and that is unacceptable." His son Eric Trump, co-founder of World Liberty Financial (WLFI), separately called major banks including JPMorgan Chase, Bank of America, and Wells Fargo "straight up anti-American" for lobbying against stablecoin yield provisions.
 

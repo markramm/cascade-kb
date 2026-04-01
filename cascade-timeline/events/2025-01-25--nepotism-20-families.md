@@ -42,6 +42,5 @@ sources:
 notes: Creative legal interpretations distinguish between departments and White House positions
 status: confirmed
 ---
-type: timeline_event
 
 Trump appoints Charles Kushner (Jared's father), Kimberly Guilfoyle (Donald Jr.'s fiancée), and Massad Boulos (Tiffany's father-in-law) to positions, with at least 20 families having multiple members in federal posts circumventing Anti-Nepotism Statute.

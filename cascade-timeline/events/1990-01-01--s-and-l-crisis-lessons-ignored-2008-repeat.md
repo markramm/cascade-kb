@@ -41,7 +41,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 As the S&L crisis concludes with over 1,000 failed institutions, 1,000+ banker prosecutions, and $160 billion taxpayer cost, government reports and academic studies document clear lessons: deregulation without corresponding risk management enables fraud, moral hazard from deposit insurance requires strong oversight, regulatory capture allows systematic looting, and aggressive prosecution deters financial crime. Congressional investigations, GAO reports, and regulatory post-mortems all identify the same pattern: eliminating prudential standards while maintaining government guarantees creates incentive structure for fraud and reckless risk-taking that inevitably produces catastrophic losses requiring taxpayer bailouts.
 

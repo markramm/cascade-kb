@@ -45,7 +45,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 A door plug blew out of Alaska Airlines Flight 1282, a Boeing 737 MAX 9, at 16,000 feet during climb six minutes after takeoff from Portland, Oregon. The explosive decompression ripped the door plug from the fuselage, leaving a gaping hole in the aircraft. Miraculously, all 171 passengers and 6 crew members survived with only minor injuries, but only because the two seats directly adjacent to the door plug happened to be empty. Had passengers been seated there, they would have been sucked out of the aircraft to certain death.
 
 The National Transportation Safety Board investigation found that four critical bolts securing the door plug were never installed at Boeing's Renton, Washington factory. After Spirit AeroSystems delivered the fuselage to Boeing with damaged rivets near the door plug, Boeing workers removed the door plug to repair the rivets. When they reinstalled the plug, they failed to install any of the four securing bolts. The NTSB's probable cause determination blamed "Boeing's failure to provide adequate training, guidance, and oversight necessary to ensure that manufacturing personnel could consistently and correctly comply with its parts removal process."

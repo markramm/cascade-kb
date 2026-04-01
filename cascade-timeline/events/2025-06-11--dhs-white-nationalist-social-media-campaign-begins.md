@@ -37,7 +37,6 @@ capture_lanes:
 - Executive Power
 - Cultural Capture
 ---
-type: timeline_event
 
 On June 11, 2025, the Department of Homeland Security's official social media accounts began posting recruitment content that incorporated imagery and language traced to white nationalist sources, marking a documented shift in federal agency communications toward extremist rhetoric.
 

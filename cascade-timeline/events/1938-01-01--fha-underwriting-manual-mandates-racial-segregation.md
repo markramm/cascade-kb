@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Federal Housing Administration publishes its Underwriting Manual, which establishes formal mortgage lending requirements that institutionalize racism and segregation within the housing industry. The manual emphasizes the negative impact of "infiltration of inharmonious racial groups" on credit risk and explicitly states that "incompatible racial groups should not be permitted to live in the same communities." To limit perceived risk, the manual recommends restrictive covenants prohibiting "the occupancy of properties except by the race for which they are intended."
 

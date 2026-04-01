@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On November 14, 1917, 33 suffragist prisoners at Occoquan Workhouse in Fairfax County, Virginia, endured a night of systematic torture and abuse that became known as the "Night of Terror." On orders from prison warden W. H. Whittaker, workhouse guards brutalized the women in what appeared to be a coordinated campaign to break their spirits and end the Silent Sentinels' White House picketing through terror. Guards handcuffed Lucy Burns in her cell with her hands over her head, forcing her to stand all night in excruciating pain. Dora Lewis was violently thrown down, hitting her head on an iron bed. Alice Cosu, who witnessed Lewis's assault, suffered a heart attack and was denied medical treatment until the following day. The violence continued throughout the night as guards attacked women who had committed no crime beyond holding signs asking for the right to vote. In the aftermath, Whittaker denied the prisoners access to counsel and summoned U.S. Marines to guard the workhouse, transforming it into a military detention facility for women demanding democratic rights.
 

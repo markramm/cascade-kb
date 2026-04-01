@@ -46,6 +46,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Supreme Court 6-3 unsigned order allows Trump to fire three Democratic CPSC commissioners without cause, reversing district court reinstatement. Kagan dissent warns court 'all but overturned' 90-year Humphrey's Executor precedent protecting independent agencies. Kavanaugh suggests court may formally strike down precedent.

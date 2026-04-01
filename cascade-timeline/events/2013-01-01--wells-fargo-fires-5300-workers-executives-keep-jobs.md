@@ -35,7 +35,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 Wells Fargo begins systematically firing approximately 5,300 low-level employees between 2011 and 2016 for creating unauthorized customer accounts, while the senior executives who designed the sales incentive systems and set impossible quotas face no disciplinary action. The firings demonstrate a classic pattern of corporate accountability: workers who respond to institutional pressure by breaking rules are terminated, while the leadership that created the criminogenic environment remains untouched.
 

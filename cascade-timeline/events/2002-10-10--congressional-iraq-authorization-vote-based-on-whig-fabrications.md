@@ -51,6 +51,5 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: timeline_event
 
 Congress authorizes military force against Iraq through a vote systematically manipulated by the White House Iraq Group (WHIG), which deliberately distorted intelligence assessments. This vote represents a critical moment of democratic failure, where executive manipulation bypassed congressional oversight to justify an unauthorized war.

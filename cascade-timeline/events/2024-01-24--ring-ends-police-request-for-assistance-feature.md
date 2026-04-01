@@ -35,7 +35,6 @@ tags:
 - surveillance
 title: Ring ends 'Request for Assistance' feature allowing police to request user footage
 ---
-type: timeline_event
 
 Amazon's Ring announced it would discontinue its "Request for Assistance" (RFA) tool, which had allowed police departments and public safety agencies to request video footage from doorbell camera owners through the Neighbors app. The policy change, effective immediately, marked a significant retreat from Ring's controversial police partnership program that had facilitated over 20,000 warrantless footage requests in 2020 alone.
 

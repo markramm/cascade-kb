@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 President Truman signs the Employment Act of 1946 on February 20, a dramatically weakened version of the Full Employment Bill of 1945. The original bill would have guaranteed a federal job to every American seeking work and required the government to maintain full employment. After intensive lobbying by business interests, Congress strips these provisions, replacing a right to work with a vague commitment to "maximum employment."
 

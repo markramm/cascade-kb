@@ -62,7 +62,6 @@ sources:
   verified: true
   tier: 1
 ---
-type: timeline_event
 ProPublica documented years of undisclosed luxury travel and gifts for Justice Clarence Thomas
 from billionaire Harlan Crow and other benefactors. In March 2023, the Judicial Conference
 clarified that "personal hospitality" does not exempt disclosure of non-commercial transportation

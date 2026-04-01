@@ -47,6 +47,5 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 DOJ under the Trump administration has significantly reduced foreign corporate bribery investigations, closing about half of open cases and focusing narrowly on misconduct that directly harms US economic and national security interests.

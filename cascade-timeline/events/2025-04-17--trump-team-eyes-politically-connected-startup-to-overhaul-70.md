@@ -37,5 +37,4 @@ capture_lanes:
 - Regulatory Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 The Trump administration is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Peter Thiel, Elon Musk, and JD Vance allies, to manage the $700 billion SmartPay government expense card program. Ramp, valued at $13 billion, has deep ties to Trump-aligned investors including Founders Fund, Thrive Capital (Joshua Kushner's firm), and 8VC. Rep. Gerald Connolly launched an investigation into potential preferential treatment, questioning Ramp's zero federal contracting experience and its investors' political connections.

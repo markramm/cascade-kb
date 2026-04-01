@@ -37,7 +37,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 In 2008, Palantir Technologies officially released Palantir Gotham, its flagship platform designed for large-scale data analysis, integration, and visualization for government military and intelligence operations. The CIA became one of Gotham's first customers in 2008, using the platform to detect roadside bombs in Iraq and Afghanistan and to integrate datasets ranging from signals intelligence to confidential informant reports.
 

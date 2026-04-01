@@ -37,5 +37,4 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 The Supreme Court heard critical arguments challenging President Trump's authority to unilaterally federalize state National Guard units during the 2025 constitutional crisis. At least 23 Republican-led states support the deployment, while 22 Democratic-led states oppose it. The case centers on fundamental constitutional questions about presidential emergency powers, state sovereignty, and the limits of executive authority during national emergencies. Key legal debates involve the Insurrection Act, Posse Comitatus Act, and Tenth Amendment interpretations.

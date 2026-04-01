@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 The Detroit race riot erupts on June 20, 1943, killing 34 people, injuring over 400, and causing $2 million in property damage. The violence exposes how federal housing policy enforces residential segregation while demanding integrated war production, creating explosive tensions that government policy itself generates.
 

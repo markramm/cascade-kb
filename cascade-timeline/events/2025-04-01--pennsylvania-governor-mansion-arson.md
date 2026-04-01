@@ -41,6 +41,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Arson attack on Pennsylvania Governor Josh Shapiro's mansion forced his family to flee as attacker who "hated Shapiro" set fire to their home. Attack demonstrates how gubernatorial mansions and state capitols have become frontline targets in escalating political violence. Part of broader pattern where elected officials face unprecedented threats, with nearly tenfold increase in threats against Congress members from 900 in 2016 to over 8,000 in 2023. Represents expansion of political violence beyond federal to state level, targeting democratic institutions and their representatives.

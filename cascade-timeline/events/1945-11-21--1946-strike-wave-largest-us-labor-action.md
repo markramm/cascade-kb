@@ -43,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 # Largest Strike Wave in U.S. History
 

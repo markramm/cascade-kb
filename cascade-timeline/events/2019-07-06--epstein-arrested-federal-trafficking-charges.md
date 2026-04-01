@@ -38,6 +38,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Jeffrey Epstein is arrested at Teterboro Airport on federal charges of sex trafficking minors and conspiracy. The arrest by the FBI and NYPD comes after a joint investigation by the Southern District of New York, effectively nullifying the controversial 2008 non-prosecution agreement. The indictment alleges a systematic pattern of abuse involving dozens of victims from 2002-2005.

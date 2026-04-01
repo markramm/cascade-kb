@@ -36,7 +36,6 @@ capture_lanes:
 - Intelligence Penetration
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On May 15, 2017, award-winning Mexican journalist Javier Valdez Cárdenas, co-founder of the investigative outlet Río Doce and renowned for reporting on drug trafficking and organized crime in Sinaloa, is assassinated in broad daylight in Culiacán. Just two days later, on May 17, two of his colleagues at Río Doce, Andrés Villarreal and Ismael Bojórquez, begin receiving text messages laden with NSO Group's Pegasus spyware.
 

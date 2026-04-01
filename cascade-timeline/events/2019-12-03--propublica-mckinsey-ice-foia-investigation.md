@@ -59,7 +59,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 ProPublica publishes a bombshell investigation co-published with The New York Times revealing the full extent of McKinsey's controversial work with ICE, based on 1,500 pages of documents obtained through a Freedom of Information Act lawsuit. The documents expose that McKinsey proposed cuts in spending on food for migrants, medical care, and supervision of detainees—recommendations so harsh that even career ICE staff viewed them as too extreme.

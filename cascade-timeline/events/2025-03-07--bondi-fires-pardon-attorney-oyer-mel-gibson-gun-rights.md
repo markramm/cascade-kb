@@ -37,7 +37,6 @@ capture_lanes:
 - Institutional Capture
 - Executive Power & Emergency Authority
 ---
-type: timeline_event
 
 On March 7, 2025, Pam Bondi fired DOJ Pardon Attorney Elizabeth "Liz" Oyer after Oyer refused to add Mel Gibson to a pilot program restoring gun rights to people with certain criminal convictions.
 

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The Electoral College meets in state capitals on December 3, 1800, and Thomas Jefferson defeats incumbent President John Adams 73 to 65 electoral votes, a victory determined entirely by the extra electoral votes slave states receive through the Three-Fifths Compromise. Without the constitutional provision counting enslaved people as three-fifths of a person for representation purposes, abolitionist Adams would have won reelection and slaveholder Jefferson would have lost. The election demonstrates how constitutional corruption embedded in 1787 produces tangible political outcomes: enslaved people who cannot vote, own property, or exercise any political rights provide their enslavers with the electoral margin needed to capture the presidency and entrench Slave Power's control over federal government for generations.
 

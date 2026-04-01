@@ -31,7 +31,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 On March 19, 2026, Fortune published a detailed analysis arguing that the $TRUMP memecoin had no meaningful utility beyond selling proximity to the president of the United States. Unlike cryptocurrency projects that at least claim to offer technological innovation or financial services, the $TRUMP token existed primarily as a vehicle for converting cash into presidential access — a function that would be illegal if conducted through traditional political channels without disclosure requirements.
 

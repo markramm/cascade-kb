@@ -47,5 +47,4 @@ sources:
 notes: 'Democrats fled to Illinois, New York, Massachusetts to break quorum and block mid-decade redistricting ordered by Trump. Upon return, Speaker Burrows imposed unprecedented surveillance requiring "permission slips" signed by Speaker and mandatory DPS escorts to leave chamber. Collier filed habeas corpus petition calling restraint illegal. Maps would give GOP 30 of 38 Texas congressional seats. Represents escalation to police-state tactics against opposition.'
 status: confirmed
 ---
-type: timeline_event
 Texas House Democrats return to Austin after 2-week quorum break in Illinois, ending resistance to Trump-ordered congressional redistricting. Republicans impose 24-hour security surveillance requiring DPS escorts and "permission slips" to leave chamber. Rep. Nicole Collier refuses, remains locked in chamber overnight calling herself "political prisoner."

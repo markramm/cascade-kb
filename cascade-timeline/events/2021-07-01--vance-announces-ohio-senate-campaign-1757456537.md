@@ -37,5 +37,4 @@ sources:
 status: confirmed
 priority_id: jd-vance-pdf-analysis-1757456537
 ---
-type: timeline_event
 J.D. Vance officially announced his candidacy for the U.S. Senate in Ohio, launching his campaign at Middletown Tube Works in his hometown. Having transformed from a Never Trump critic to an America First supporter, Vance sought and ultimately received Trump's endorsement for the Republican primary to replace retiring Senator Rob Portman.

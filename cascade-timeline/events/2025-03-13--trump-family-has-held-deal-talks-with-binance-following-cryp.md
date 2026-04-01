@@ -48,7 +48,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 The Wall Street Journal reported on March 13, 2025, that the Trump family had held discussions with Binance, the world's largest cryptocurrency exchange, about a potential stake in Binance.US, Binance's American subsidiary. The discussions reportedly took place as Binance founder Changpeng Zhao (CZ), who had pleaded guilty to federal money laundering charges in November 2023 and was sentenced to four months in prison, was seeking a presidential pardon from Trump. Bloomberg confirmed the reporting, describing talks about Trump's crypto venture World Liberty Financial doing business with Binance.
 
 The simultaneous pursuit of a business deal and a pardon created an extraordinary conflict of interest. Trump, as both potential pardon grantor and potential business partner, stood to benefit financially from the same transaction that would benefit Zhao legally. CNBC reported that Binance's BNB token jumped 5% following the initial WSJ report, reflecting markets' expectation that the Trump family's business discussions with Binance signaled favorable regulatory and legal treatment for the exchange. TechCrunch noted that Trump family's reported talks to acquire a stake in Binance.US would give the family direct financial interests in the fortunes of the cryptocurrency exchange at the same time Trump's administration was reversing the Biden-era enforcement approach that had charged the company.

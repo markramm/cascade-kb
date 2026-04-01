@@ -41,7 +41,6 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The FBI arrested Maria Butina in Washington, D.C. on July 15, 2018, charging her with acting in the United States as an agent of the Russian government without prior notification to the Attorney General, and conspiracy to commit an offense against the United States. The arrest came after an 18-month investigation into her activities. The criminal complaint was publicly unsealed on July 16, 2018.
 

@@ -43,7 +43,6 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: timeline_event
 
 Governor Ronald Reagan signs the Mulford Act into law, prohibiting the public carrying of loaded firearms in California without a permit. The legislation, crafted by Republican Assemblyman Don Mulford with assistance from the National Rifle Association, specifically targets the Black Panther Party's armed police patrols in Oakland. Both Republicans and Democrats in the California legislature support the gun control measure, as does the NRA—marking a dramatic departure from the organization's typical opposition to firearms restrictions.
 

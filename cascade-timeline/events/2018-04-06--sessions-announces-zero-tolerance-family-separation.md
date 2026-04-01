@@ -43,7 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy for unauthorized border crossings that was explicitly designed to separate children from their parents as a deterrent to asylum seekers and migrants. The policy marked a deliberate escalation from targeted enforcement to systematic family separation, implementing what human rights organizations would condemn as government-sanctioned child abuse.
 

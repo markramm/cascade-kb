@@ -40,6 +40,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 South Dakota's Government Accountability Board voted unanimously that there was sufficient evidence Governor Kristi Noem had committed malfeasance and engaged in a conflict of interest regarding her intervention in her daughter's appraiser license application. The board found evidence of improper intervention and abuse of power for family benefit.

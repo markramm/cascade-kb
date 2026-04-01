@@ -36,7 +36,6 @@ capture_lanes:
 - Environmental Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On September 3, 2016, Standing Rock Sioux tribal members and water protectors reported the destruction of sacred burial sites by Dakota Access Pipeline construction crews, leading to violent confrontations between private security contractors and demonstrators. Security workers deployed attack dogs on protesters, with video footage showing dogs biting demonstrators and dogs with blood on their faces and mouths.
 

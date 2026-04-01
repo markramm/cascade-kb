@@ -54,6 +54,5 @@ capture_lanes:
 - Executive Power Expansion
 - Corporate Capture
 ---
-type: timeline_event
 
 For the first time in White House history, the Easter Egg Roll is sold to corporate sponsors, with tech giants Meta, Amazon, and YouTube purchasing sponsorships ranging from $75,000 to $200,000, raising significant ethical concerns about monetizing public events.

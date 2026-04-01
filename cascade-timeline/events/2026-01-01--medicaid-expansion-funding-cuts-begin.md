@@ -54,7 +54,6 @@ sources:
   tier: 1
   verified: true
 ---
-type: timeline_event
 
 
 Changes from Trump's "One Big Beautiful Bill" took effect, ending special federal financial incentives for the 40 states that expanded Medicaid under the ACA. The Congressional Budget Office projected these cuts would leave 1.3 million more Americans uninsured in 2026, primarily affecting people earning less than $21,000/year.

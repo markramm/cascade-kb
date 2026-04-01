@@ -42,7 +42,6 @@ sources:
 notes: Series E led by Tiger Global. Partners with 1000+ law enforcement agencies. Creates national surveillance network with minimal oversight.
 status: confirmed
 ---
-type: timeline_event
 Flock Safety announces $150 million Series E funding round led by Tiger Global, achieving a post-money valuation of $3.5 billion and cementing its status as a surveillance unicorn. Additional investors include Andreessen Horowitz, Spark Capital, Meritech, and Initialized Capital, bringing total funding to $380 million.
 
 By this point, Flock has pivoted from its initial HOA neighborhood focus to partnering with over 1,000 law enforcement agencies nationwide, creating an interconnected automated license plate recognition (ALPR) network that performs billions of scans monthly. The company's rapid expansion demonstrates how venture capital has accelerated the deployment of warrantless surveillance infrastructure across American communities.

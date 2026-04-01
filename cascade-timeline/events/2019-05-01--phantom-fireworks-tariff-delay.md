@@ -41,6 +41,5 @@ actors:
 location: Washington, DC
 notes: Private firm buying goodwill and policy favors by stroking the president's ego with extravagant donation
 ---
-type: timeline_event
 
 Phantom Fireworks CEO Bruce Zoldan met with Trump in May 2019 to lobby against tariffs on Chinese fireworks. Shortly after, Zoldan's company provided an estimated $750,000-$1,000,000 in fireworks and services for Trump's "Salute to America" July 4th event. The administration delayed imposing planned tariffs on fireworks around this period. Ethics watchdogs identified this as a glaring case of pay-to-play.

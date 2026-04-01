@@ -41,7 +41,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Labor Suppression
 ---
-type: timeline_event
 
 President Chester A. Arthur signs the Chinese Exclusion Act, the first significant federal law restricting immigration into the United States based on race and nationality. The law prohibits all immigration of Chinese laborers—defined as "both skilled and unskilled laborers and Chinese employed in mining"—for 10 years, while making exceptions only for travelers and diplomats. The Act denies Chinese residents already in the United States the ability to become citizens and requires Chinese people traveling in or out of the country to carry certificates identifying their status or risk deportation.
 

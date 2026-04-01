@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 At the Democratic National Convention in Chicago, 36-year-old former Nebraska Representative William Jennings Bryan delivers the electrifying "Cross of Gold" speech supporting "free silver" (bimetallism) against the gold standard, concluding with the famous peroration: "You shall not press down upon the brow of labor this crown of thorns. You shall not crucify mankind upon a cross of gold." The speech so galvanizes delegates that Bryan wins the Democratic presidential nomination despite having limited experience (only two terms in the U.S. House of Representatives) and becomes, at 36, the youngest major party presidential nominee in American history. The Populist Party, recognizing Bryan's alignment with their platform, officially merges with the Democrats and endorses Bryan, ending the age of Populism as an independent political party though its ideas continue influencing Democratic politics.
 

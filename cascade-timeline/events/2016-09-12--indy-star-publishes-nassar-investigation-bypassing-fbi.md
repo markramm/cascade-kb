@@ -43,7 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On September 12, 2016, the Indianapolis Star published an investigation exposing Larry Nassar's systematic sexual abuse of gymnasts, breaking the story that the FBI had failed to investigate for over a year. The newspaper investigation, led by reporters who uncovered the FBI's institutional failures, finally triggered law enforcement action when the Michigan State University Police Department executed a search warrant on Nassar's residence in September 2016. The Indianapolis Star investigation demonstrated how journalism succeeded where federal law enforcement deliberately failed, bypassing the FBI's institutional protection of USA Gymnastics to expose decades of abuse.
 

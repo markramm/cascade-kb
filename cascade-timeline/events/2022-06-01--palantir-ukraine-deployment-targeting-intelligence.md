@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On June 1, 2022, Palantir CEO Alex Karp crossed the border from Poland into Ukraine and met President Volodymyr Zelensky in the presidential palace bunker, becoming the first major Western tech CEO to visit since Russia's February invasion. Karp told Zelensky they could work together "in ways that allow David to beat a modern-day Goliath," offering to deploy "cutting-edge technology to defend the West." Palantir provided its data-analytics software free of charge to more than half a dozen Ukrainian agencies, including the Defense, Economy, and Education ministries.
 

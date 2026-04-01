@@ -47,5 +47,4 @@ tags:
 - for-profit-colleges
 title: 'Trump Appoints Nicholas Kent, For-Profit College Insider, as Education Under Secretary'
 ---
-type: timeline_event
 Nicholas Kent, formerly a policy officer at for-profit college association CECU, was sworn in as Under Secretary of Education, signaling potential deregulation and reduced oversight of higher education institutions. The Senate confirmed his nomination with a narrow 50-45 vote, amid concerns about his ties to for-profit colleges.

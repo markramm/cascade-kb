@@ -46,7 +46,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Gold is discovered at Sutter's Mill in Coloma, California on January 24, 1848, triggering a massive influx of settlers and creating conditions for genocide against Indigenous Californians, systematic land fraud against Mexican land grant holders, and a lawless environment exhibiting all symptoms of the resource curse. The Gold Rush brings over 300,000 people to California between 1848 and 1855, transforming it from a sparsely populated territory to a state with sufficient population for admission to the Union by 1850. The rapid, uncontrolled population explosion creates a peculiarly lawless environment: California exists under military control with no civil legislature, executive, or judicial body for the entire region. Local residents operate under a confusing and changing mixture of Mexican rules, American principles, and personal dictates. This vacuum of legitimate governance enables widespread corruption, violence, and theft.
 

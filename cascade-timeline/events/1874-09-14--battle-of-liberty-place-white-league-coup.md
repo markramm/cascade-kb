@@ -36,7 +36,6 @@ capture_lanes:
 - Electoral Manipulation
 status: confirmed
 ---
-type: timeline_event
 
 The White League stages an armed insurrection against Louisiana's Reconstruction government on September 14, 1874, in New Orleans. Five thousand White League members—Confederate veterans organized as "the military arm of the Democratic Party"—overwhelm 3,500 state police and militia forces in the Battle of Liberty Place, also known as the Battle of Canal Street. The paramilitary force occupies the state house and armory for three days, forcing Republican Governor William Pitt Kellogg to seek sanctuary in the Custom House, federal property protected by U.S. Army troops. The battle inflicts dozens of casualties and demonstrates that Republican governance in Louisiana exists only at the sufferance of federal military power—a dependency that will prove unsustainable as northern political will to maintain Reconstruction erodes.
 

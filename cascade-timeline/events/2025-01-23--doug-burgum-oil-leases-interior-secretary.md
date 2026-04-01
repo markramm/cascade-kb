@@ -63,5 +63,4 @@ tags:
 - senate-confirmation
 title: Interior Secretary Doug Burgum Signs Ethics Agreement to Divest Oil and Gas Interests
 ---
-type: timeline_event
 Interior Secretary Doug Burgum was confirmed by the Senate in a 79-18 vote, signing an ethics agreement to divest from oil and gas interests within 90 days of confirmation. Despite pledging to address conflicts of interest, Burgum has a history of voting on issues related to companies with his financial ties, raising concerns about potential regulatory capture in the Interior Department.

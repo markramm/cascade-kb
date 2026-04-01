@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Whig congressional caucus expelled President John Tyler from the party on September 13, 1841, after he vetoed national bank legislation for the second time in August, revealing that one of the main political principles guiding him was states' rights ideology and protection of slavery rather than Whig economic nationalism. In response to Tyler's second bank veto, every Cabinet member except Secretary of State Daniel Webster resigned in protest, demonstrating the complete breakdown of the Whig governing coalition just months after their 1840 electoral triumph. Tyler had become president only five months earlier when William Henry Harrison died after just one month in office, making Tyler the first vice president to succeed to the presidency.
 

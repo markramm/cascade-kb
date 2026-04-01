@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On June 26, 1959, the Prince Edward County, Virginia Board of Supervisors refused to appropriate funds to the County School Board, effectively closing the entire public school system rather than comply with federal court orders to integrate. This action represented the most extreme manifestation of Virginia's "Massive Resistance" campaign, led by Senator Harry Byrd, to defy the Supreme Court's Brown v. Board of Education decision. Prince Edward County became the only school district in the entire nation to resort to such drastic measures, closing its public schools for five full years. The county used state tuition grants to establish private academies for white children while leaving approximately 1,700 Black children without any access to education.
 

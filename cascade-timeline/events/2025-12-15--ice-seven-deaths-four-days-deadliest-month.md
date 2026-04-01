@@ -46,7 +46,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 Seven people die in ICE custody in December 2025, with four deaths occurring within a four-day span from December 12-15, making it the deadliest month of Trump's second term. The deaths occur as ICE holds a record 68,000+ people in detention, and 2025 becomes the deadliest year for ICE custody since 2004 with at least 30-32 total deaths.

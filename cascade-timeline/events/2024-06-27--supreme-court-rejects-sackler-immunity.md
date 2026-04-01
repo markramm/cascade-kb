@@ -39,7 +39,6 @@ capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption
 ---
-type: timeline_event
 
 On June 27, 2024, the Supreme Court ruled 5-4 to reject the Purdue Pharma bankruptcy settlement that would have provided the Sackler family immunity from future opioid-related lawsuits in exchange for paying up to $6 billion. Justice Neil Gorsuch's majority opinion held that "the bankruptcy code does not authorize this kind of order," blocking the Sacklers' attempt to use their company's bankruptcy to shield themselves from personal civil liability.
 

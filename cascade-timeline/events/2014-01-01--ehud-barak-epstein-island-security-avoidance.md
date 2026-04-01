@@ -53,5 +53,4 @@ validation_metadata:
   - 'sources_added: ''4'' → ''4'''
   - 'sources_removed: ''6'' → ''6'''
 ---
-type: timeline_event
 Leaked emails show former Israeli Defense Minister Ehud Barak actively trying to prevent his security detail from accompanying him to Epstein's private island. In January 2014, Barak emailed stating he was still trying to arrange that the security guys will NOT come with them to the island. As Defense Minister overseeing Unit 8200 (Israel's NSA), Barak's efforts to avoid official oversight during visits to a known trafficking site raises serious intelligence concerns about what activities required such secrecy.

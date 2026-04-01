@@ -48,7 +48,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 
 Chief Justice Roger B. Taney delivers the Supreme Court's 7-2 decision in Dred Scott v. Sandford, ruling that African Americans "are not and could not be citizens" of the United States and therefore have no standing to sue in federal court, and that Congress lacks authority to prohibit slavery in federal territories, declaring the Missouri Compromise unconstitutional. The decision, filling over 200 pages, holds that enslaved people are property rather than persons with rights, and that even free Black Americans cannot expect protection from federal government or courts. The Taney Court's pro-slavery composition—seven of nine justices appointed by pro-slavery presidents, five from slave-holding families—produces a decision widely recognized as the Supreme Court's worst ruling ever, described by modern scholars as "infamous," "an abomination," "judicial review at its worst," and a "self-inflicted wound that almost destroyed the Supreme Court."

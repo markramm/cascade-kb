@@ -36,6 +36,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Donald Trump debuted his third Atlantic City casino, the Trump Taj Mahal, but immediately struggled to make payments on $675 million in high-interest junk bonds used for construction. Financial analyst Marvin Roffman predicted the casino would need to make nearly $1.3 million daily to break even, highlighting the unsustainable financial model. Within months, the casino missed debt payments, setting the stage for bankruptcy and Carl Icahn's eventual involvement.

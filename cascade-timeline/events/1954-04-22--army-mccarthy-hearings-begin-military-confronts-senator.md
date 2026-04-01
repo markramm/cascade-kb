@@ -42,7 +42,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On April 22, 1954, the Army-McCarthy hearings began—36 days of televised proceedings that exposed Senator Joseph McCarthy's methods to a national audience and began his political downfall. The hearings were triggered by the Army's March 11 report charging McCarthy and his chief counsel Roy Cohn with improperly pressuring military officials to give preferential treatment to G. David Schine, a wealthy former McCarthy aide who had been drafted.
 

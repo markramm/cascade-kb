@@ -43,5 +43,4 @@ sources:
 notes: Pattern mirrors political commissar systems in authoritarian regimes. Increased focus on political loyalty over professional competence in federal agencies.
 status: confirmed
 ---
-type: timeline_event
 Administration deployed what agency staff call 'MAGA commissars' - young Trump loyalists placed throughout federal agencies to monitor compliance with administration directives and screen remaining career staff for political reliability. These individuals, often without specific agency expertise, are conducting intense loyalty tests, questioning political affiliations, and vetting employees based on their perceived 'MAGA enthusiasm'.

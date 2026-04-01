@@ -43,7 +43,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 By March 7, 2026, the Trump administration had mounted an aggressive multi-front campaign to dramatically curtail the power of federal judges to block presidential actions, using both executive pressure on the Supreme Court and legislative action in Congress.
 

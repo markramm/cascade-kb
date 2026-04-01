@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Six unions representing 2,500 workers at the Detroit Free Press and Detroit News begin a strike on July 13, 1995, after the newspapers' corporate owners—Gannett and Knight Ridder—demand sweeping concessions including elimination of union jurisdiction over hiring. The papers continue publishing with management and permanent replacement workers, eventually breaking the strike after 19 months when unions make an unconditional offer to return to work in February 1997. The defeat demonstrates that corporate media conglomerates can crush newsroom unions using the same permanent replacement tactics as manufacturing companies.
 

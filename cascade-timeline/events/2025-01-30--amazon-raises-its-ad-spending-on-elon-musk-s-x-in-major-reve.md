@@ -45,6 +45,5 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Amazon significantly increased its advertising spending on X (formerly Twitter) in a major reversal, after largely boycotting the platform since 2023 due to concerns about hate speech and content moderation. This decision follows broader tech industry discussions about returning to the platform, with Apple also considering re-advertising.

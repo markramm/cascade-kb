@@ -55,7 +55,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 
 President George W. Bush obtains a federal court injunction under the Taft-Hartley Act on October 8, 2002, ordering West Coast dockworkers back to work after an employer lockout shuts 29 ports handling $300 billion in annual trade. The Pacific Maritime Association, representing shipping and terminal companies, had locked out 10,500 International Longshore and Warehouse Union (ILWU) members on September 27 during a contract dispute over technology implementation. Bush's intervention marks the first presidential use of Taft-Hartley since Richard Nixon's 1971 order against dockworkers, and notably aids employers who initiated the work stoppage rather than striking workers.

@@ -47,7 +47,6 @@ capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Former House Speaker Dennis Hastert was sentenced on April 27, 2016, to 15 months in federal prison, two years of supervised release, and a $250,000 fine by U.S. District Judge Thomas Durkin, who described Hastert as a "serial child molester" during an emotional hearing. Though charged only with illegal bank structuring, Durkin stated that "some conduct is unforgivable no matter how old it is," directly addressing the underlying sexual abuse crimes that were beyond the statute of limitations.
 

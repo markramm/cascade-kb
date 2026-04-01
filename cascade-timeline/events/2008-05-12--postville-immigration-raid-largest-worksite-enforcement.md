@@ -43,7 +43,6 @@ sources:
   outlet: Marketplace
 status: confirmed
 ---
-type: timeline_event
 
 On May 12, 2008, Immigration and Customs Enforcement (ICE) deployed 900 federal agents to execute the largest worksite enforcement raid in U.S. history at the Agriprocessors kosher slaughterhouse and meatpacking plant in Postville, Iowa, arresting 389 employees—nearly 20% of the town's total population of 2,273. According to reports, agents used racial profiling to identify suspected undocumented immigrants, handcuffing all employees assumed to be Latino until their immigration status was verified. Those arrested included 290 Guatemalans, 93 Mexicans, 2 Israelis, and 4 Ukrainians, with 18 being juveniles. The raid cost taxpayers $5.2 million as of August 2008, not including costs from the U.S. Attorney's Office, Department of Labor, or local authorities. Detainees were chained together and arraigned in groups of 10 for felony charges of aggravated identity theft, document fraud, and use of stolen Social Security numbers—a prosecution strategy that pressured workers to accept immediate guilty pleas to avoid prolonged detention.
 

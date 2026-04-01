@@ -47,7 +47,6 @@ capture_lanes:
 - Environmental Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Barack Obama authorizes the Department of Justice to release four previously classified memos from the Office of Legal Counsel written between 2002 and 2005 that authorized CIA torture techniques including waterboarding, stress positions, sleep deprivation, and confinement in coffin-sized boxes. While releasing the memos to satisfy transparency demands, Obama simultaneously announces that CIA interrogators who relied on the legal guidance will not face prosecution, establishing a policy of impunity for torture that defines his administration's approach to Bush-era war crimes.
 

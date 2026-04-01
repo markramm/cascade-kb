@@ -35,7 +35,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 U.S. District Judge Lorna Schofield of the Southern District of New York ruled that Edward Sarcone's appointment as interim U.S. Attorney for the Northern District of New York was unlawful under the Federal Vacancies Reform Act and 28 U.S.C. § 546.
 

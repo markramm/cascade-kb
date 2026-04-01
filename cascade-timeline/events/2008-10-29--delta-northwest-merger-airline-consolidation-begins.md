@@ -39,7 +39,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 The Department of Justice approved Delta Air Lines' $2.6 billion stock-swap merger with Northwest Airlines, creating the world's largest airline and triggering a decade-long consolidation wave that would reduce major U.S. carriers from ten to four dominant players controlling three-quarters of the commercial air travel market.
 

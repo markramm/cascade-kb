@@ -41,7 +41,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On March 27, 2025, after posting an AI-generated image in Studio Ghibli anime style showing a crying Dominican woman being arrested by ICE, White House Deputy Communications Director Kaelan Dorr responded to criticism by establishing what would become the administration's defining communications tagline:
 

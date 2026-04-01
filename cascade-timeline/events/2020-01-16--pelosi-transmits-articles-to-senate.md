@@ -36,7 +36,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Speaker Nancy Pelosi transmitted the articles of impeachment against President Trump to the Senate on January 16, 2020, ending a 28-day delay strategy designed to pressure Senate Majority Leader Mitch McConnell to establish fair trial procedures. In a solemn ceremony in the Speaker's office, Pelosi signed the articles with commemorative pens before seven House impeachment managers—led by Intelligence Committee Chairman Adam Schiff—walked them across the Capitol to the Senate. The managers appointed were Schiff (lead), Judiciary Chairman Jerry Nadler, Hakeem Jeffries, Zoe Lofgren, Val Demings, Sylvia Garcia, and Jason Crow, a diverse team combining legal expertise, prosecutorial experience, and military service.
 

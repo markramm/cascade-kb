@@ -52,7 +52,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Senate scrutiny of the Department of Homeland Security's $220 million taxpayer-funded advertising campaign intensified in the days following Kristi Noem's March 3, 2026 Senate Judiciary Committee hearing, with contracting irregularities drawing bipartisan condemnation and the campaign becoming a proximate cause of Noem's eventual removal from office.
 

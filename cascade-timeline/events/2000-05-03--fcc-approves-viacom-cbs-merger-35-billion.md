@@ -45,7 +45,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 The Federal Communications Commission approves Viacom's $35.6 billion acquisition of CBS Corporation despite the merger violating FCC regulations prohibiting one company from owning television stations reaching more than 35% of the U.S. audience and prohibiting ownership of two networks if one is in the top four. The merger, announced September 7, 1999 by Viacom chairman Sumner Redstone and CBS CEO Mel Karmazin, creates the second-largest media company behind Time Warner and the biggest media merger of the twentieth century.
 

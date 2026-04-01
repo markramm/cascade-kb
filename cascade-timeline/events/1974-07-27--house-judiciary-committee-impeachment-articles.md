@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On July 27, 1974, the House Judiciary Committee recommended that President Richard M. Nixon be impeached and removed from office, adopting Article I (Obstruction of Justice) by a vote of 27-11 at 7:07pm in Room 2141 of the Rayburn Office Building. The first article charged Nixon with engaging in a course of conduct designed to obstruct justice in the Watergate case, including making false statements to investigators, withholding evidence, approving payment of hush money to witnesses, and interfering with investigations by the FBI, the Department of Justice, and congressional committees. Article II (Abuse of Power) was adopted 28-10, charging Nixon with using the powers of his office to violate the constitutional rights of citizens, including using the IRS to harass political enemies and misusing the FBI and Secret Service.
 

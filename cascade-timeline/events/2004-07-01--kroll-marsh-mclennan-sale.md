@@ -40,6 +40,5 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Marsh & McLennan acquired Kroll Inc. for $1.9 billion in July 2004, absorbing the 'private CIA' into a major insurance conglomerate. The acquisition represented the full corporatization of intelligence capabilities, with Kroll's 3,000 employees in 65 offices worldwide conducting investigations and risk assessments for corporations and governments. The deal highlighted how privatized intelligence had become a multi-billion dollar industry operating with minimal oversight.

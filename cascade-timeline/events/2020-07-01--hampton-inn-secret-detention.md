@@ -60,5 +60,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Associated Press reporting in July and August 2020, along with litigation by the Texas Civil Rights Project, revealed DHS contractors held migrant children, some as young as 1, in hotels (including Hampton Inns) without standard child‑welfare protections under the Title 42 expulsion policy. Court-appointed monitors documented these practices. Court action subsequently limited the practice, and children were transferred into ORR custody.

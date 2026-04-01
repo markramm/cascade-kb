@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 # War Production Board Establishes Corporate-Government Fusion Model
 

@@ -33,6 +33,5 @@ sources:
   tier: 1
 notes: This briefing marks the turning point when Trump reversed his position on transparency.
 ---
-type: timeline_event
 
 In mid-May 2025, Attorney General Pam Bondi briefed Donald Trump that his name appeared multiple times throughout the Epstein documents. According to sources who spoke to WSJ and CNN, the files contained "several unsubstantiated claims about Trump and others that the Justice Department found not to be credible." This briefing fundamentally altered the administration's approach to releasing the files.

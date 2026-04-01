@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On April 4, 1968, at 6:01 PM Central Standard Time, Dr. Martin Luther King Jr. was shot and killed while standing on the balcony of the Lorraine Motel in Memphis, Tennessee. He was 39 years old. King had traveled to Memphis to support Black sanitation workers who were striking for better pay, working conditions, and union recognition—a cause that connected his civil rights work to economic justice and labor rights. He was rushed to St. Joseph's Hospital but was pronounced dead at 7:05 PM. King's assassination came at a moment when he was expanding his focus beyond desegregation to address systemic poverty, economic inequality, and the Vietnam War, making him an even greater threat to established power structures. At the time of his death, the FBI's COINTELPRO program had been actively working to "neutralize" King as a civil rights leader for years.
 

@@ -41,7 +41,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Second Circuit Court of Appeals upholds the NLRB's finding that J.P. Stevens & Company engaged in the "most flagrant and extensive violations" of labor law in the board's history, confirming over 100 unfair labor practice findings against the textile giant. Stevens fired union supporters, threatened plant closures, engaged in surveillance, and refused to bargain with certified unions for years—treating NLRB penalties as a minor cost of doing business. The company's calculated defiance demonstrates that labor law lacks meaningful enforcement mechanisms when corporations are determined to resist unionization.
 

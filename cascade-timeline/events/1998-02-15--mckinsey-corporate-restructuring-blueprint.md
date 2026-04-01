@@ -34,6 +34,5 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 McKinsey & Company developed a comprehensive blueprint for corporate restructuring in Southeast Asian economies during the 1997-1998 Asian Financial Crisis, directly influencing IMF and World Bank policy responses. The strategy focused on transforming regional economic structures through bank restructuring, increasing financial transparency, and facilitating foreign investment. Key interventions included closing insolvent financial institutions, implementing stricter governance standards, and enabling corporate sector reforms across Indonesia, South Korea, and Thailand.

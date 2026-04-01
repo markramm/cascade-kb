@@ -39,6 +39,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 CIA Director George Tenet establishes the Iraqi Operations Group within the Counterterrorism Center, bypassing traditional intelligence analysis chains. The group was created under intense White House pressure to find intelligence supporting predetermined policy conclusions about Iraqi WMD and al-Qaeda connections. Senate Intelligence Committee later found this represented unprecedented politicization of CIA analysis, with analysts reporting they felt pressured to conform intelligence to policy preferences.

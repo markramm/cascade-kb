@@ -45,7 +45,6 @@ capture_lanes:
 - Corporate Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Comprehensive organizational analysis exposes the American Legislative Exchange Council (ALEC) as a systematic state legislative capture mechanism operating under 501(c)(3) tax-exempt status while functioning as corporate lobbying operation. ALEC's structure enables corporations to directly write state legislation and vote alongside legislators in closed-door meetings, then deploy those bills across all 50 states simultaneously.
 

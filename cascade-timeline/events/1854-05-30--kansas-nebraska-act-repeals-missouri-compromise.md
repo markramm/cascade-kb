@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Congress passes and President Franklin Pierce signs the Kansas-Nebraska Act, creating the territories of Kansas and Nebraska while repealing the Missouri Compromise's prohibition on slavery north of the 36°30' parallel. The Act, drafted by Democratic Senator Stephen Douglas of Illinois, replaces the geographic restriction with "popular sovereignty"—allowing settlers in each territory to decide slavery's status through voting rather than congressional determination. While Douglas claims popular sovereignty will reduce sectional conflict and frames the legislation as opening new lands for development and facilitating transcontinental railroad construction, the Act instead triggers "Bleeding Kansas"—a violent territorial civil war between pro-slavery and antislavery forces—and accelerates the nation toward Civil War. Douglas's personal and financial motivations are transparent: he heavily invested in Chicago real estate and believed a northern railroad route through Illinois would dramatically increase his property values.
 

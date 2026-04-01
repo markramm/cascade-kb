@@ -43,5 +43,4 @@ sources:
 notes: Beginning of systematic attack on judicial branch
 status: confirmed
 ---
-type: timeline_event
 Trump administration launched systematic executive orders targeting law firms, mass firings of prosecutors, and open defiance of court rulings, creating what legal scholars describe as unprecedented constitutional crisis.

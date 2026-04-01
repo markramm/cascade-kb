@@ -43,5 +43,4 @@ capture_lanes:
 - Corporate Capture
 notes: Event from comprehensive kleptocracy timeline tracking. Validated through multiple independent sources.
 ---
-type: timeline_event
 President Trump's 2025 inaugural committee raised a record $239 million, which is more than double the $109 million raised in 2017. The fundraising total includes $161.1 million from corporations, with 104 companies donating $1 million or more. Top donors included Pilgrim's Pride ($5 million), Ripple Labs ($4.9 million), and major tech companies like Amazon, Meta, and Microsoft, each donating $1 million. The massive fundraising demonstrates the significant corporate interest in Trump's second administration.

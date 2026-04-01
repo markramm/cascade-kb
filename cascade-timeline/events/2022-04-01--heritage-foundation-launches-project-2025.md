@@ -36,6 +36,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 The Heritage Foundation launched its comprehensive 2025 Presidential Transition Project in April 2022, a strategic initiative to prepare conservative policy recommendations and personnel for a potential new administration. Led by Heritage President Kevin Roberts and initially directed by Paul Dans, the project brings together 45+ conservative organizations to develop a detailed 900-page policy blueprint aimed at fundamentally transforming federal government operations.

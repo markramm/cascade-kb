@@ -51,7 +51,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 
 At 8:00 p.m. on December 30, 1936, UAW autoworkers occupy General Motors Fisher Body Plant Number One in Flint, Michigan, launching one of the most significant labor actions in American history—a 44-day sit-down strike that transforms the fledgling United Auto Workers from a collection of isolated local unions into a major industrial force. The occupation begins when UAW lead organizer Bob Travis learns that GM plans to move critical stamping dies out of Fisher Body Plant #1, immediately calling a lunchtime meeting at the union hall and sending workers across the street to occupy the facility. The Flint action follows smaller sit-down strikes at Fisher Body plants in Atlanta (November 16), Kansas City (December 16), and Cleveland (December 28), as UAW leadership implements a coordinated strategy inspired by European sit-down tactics to challenge the world's largest industrial corporation.

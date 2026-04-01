@@ -38,6 +38,5 @@ sources:
 notes: Unprecedented self-dealing with Musk overseeing agencies that fund his companies
 status: confirmed
 ---
-type: timeline_event
 
 Elon Musk's companies have received $38 billion in total government support over 20 years including $18 billion in federal contracts over past decade, while Musk co-directs Department of Government Efficiency with authority over federal spending.

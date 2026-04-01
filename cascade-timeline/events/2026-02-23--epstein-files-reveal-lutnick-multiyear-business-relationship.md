@@ -35,7 +35,6 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 Newly released Epstein files revealed that Commerce Secretary Howard Lutnick maintained a multi-year business relationship with Jeffrey Epstein, including joint investments and financing through his firm Cantor Fitzgerald lasting at least through 2018. The revelations directly contradicted Lutnick's earlier claims about the nature and extent of his relationship with Epstein. As Commerce Secretary, Lutnick oversees trade policy and business regulations while having concealed the full extent of his ties to one of the most notorious figures in recent American criminal history.
 
 The documents showed email exchanges, financial transactions, and meeting records demonstrating an ongoing business partnership that extended well beyond the casual acquaintance Lutnick had previously described. Epstein's conviction for sex trafficking in 2008 and subsequent arrest in 2019 were well-known during the period of the documented business relationship, raising questions about Lutnick's judgment and honesty in his Senate confirmation testimony.

@@ -41,5 +41,4 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 Law firm Milbank LLP reached a $100 million pro bono settlement with Trump to avoid punitive executive orders, part of a broader trend of law firms making strategic agreements to maintain government contracts

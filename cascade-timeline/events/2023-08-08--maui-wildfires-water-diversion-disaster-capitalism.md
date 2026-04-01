@@ -56,7 +56,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On August 8, 2023, massive wildfires rage through Lahaina in West Maui, killing at least 100 people in the deadliest wildfire event in the United States in more than a century. The fires destroy thousands of homes and businesses in the historic town, reducing what was once a vibrant wetland community central to Native Hawaiian culture to charred ruins. The catastrophe is not a natural disaster but rather the predictable consequence of more than a century of water and land mismanagement driven by colonial plantation agriculture and modern land development interests. Excessive water diversions by sugar plantations and land developers transformed Lahaina from the "Venice of the Pacific"—a productive wetland community with abundant streams and agriculture—into a desert overrun by dry invasive grasses. Combined with drought worsened by climate change, these corporate-driven water diversions created a tinderbox that ignited with devastating results.
 

@@ -42,7 +42,6 @@ notes: High-priority kleptocratic event from comprehensive timeline.
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Bernard Arnault, chairman and CEO of LVMH and the wealthiest person in Europe, was actively leveraging decades-old personal and business ties with Donald Trump to shield his luxury goods empire from steep tariffs on European products, according to a Wall Street Journal report published February 18, 2025. Arnault and Trump had maintained a relationship since the 1990s, and LVMH had made significant U.S. investments including a $2.7 billion Louisiana leather goods factory project. Arnault attended Trump's inauguration and sought multiple meetings with the new administration to make the case for exempting luxury goods from tariff proposals.
 
 The episode illustrated how proximity to Trump had become the central variable in navigating the administration's tariff regime. Companies with personal relationships to Trump or with U.S. investments that could be highlighted as job creation could engage in direct lobbying at the highest levels, while companies without those connections faced tariffs imposed through executive decree with no formal appeal process. LVMH's brands—Louis Vuitton, Christian Dior, Moet Hennessy, and dozens of others—faced potentially devastating price increases in their largest single market if European luxury goods were subjected to significant tariffs.

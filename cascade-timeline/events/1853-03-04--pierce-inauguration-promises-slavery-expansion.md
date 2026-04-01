@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Franklin Pierce delivered his inaugural address on March 4, 1853, after defeating Winfield Scott in a landslide with 254 electoral votes to 42 as a pro-slavery Northern Democrat. Pierce expressed hope that the Compromise of 1850 had permanently settled the slavery question, stating "I fervently hope that the [slavery] question is at rest." This was either profound self-deception or deliberate misrepresentation, as Pierce would soon become the most aggressive presidential advocate for slavery expansion in the territories. The divisions within the Whig Party over slavery enforcement had come to a head in the 1852 election, with Scott's crushing defeat signaling the party's imminent collapse and the Slave Power's tightening grip on federal institutions.
 

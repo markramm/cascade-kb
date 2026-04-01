@@ -48,5 +48,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 Trump's Justice Department under Attorney General Pam Bondi has systematically dismantled federal efforts to fight public corruption by pausing investigations into corporate bribery, weakening the Foreign Agents Registration Act (FARA), and disbanding key enforcement units. Key actions include: (1) Halting criminal enforcement of FARA, redirecting the unit to civil enforcement and regulatory guidance, (2) Disbanding the Foreign Influence Task Force originally established in 2017, and (3) Issuing an executive order pausing Foreign Corrupt Practices Act (FCPA) investigations for 180 days.

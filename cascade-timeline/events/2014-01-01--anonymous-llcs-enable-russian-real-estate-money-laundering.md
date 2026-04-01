@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 By 2014, anonymous Limited Liability Companies (LLCs) and shell companies had become the primary infrastructure enabling Russian oligarchs and other kleptocrats to launder an estimated $300 billion or more annually into US real estate. Unlike most developed nations, the United States imposed no beneficial ownership requirements, allowing foreign actors to hide their identities behind opaque corporate structures while purchasing American properties with illicit funds.
 

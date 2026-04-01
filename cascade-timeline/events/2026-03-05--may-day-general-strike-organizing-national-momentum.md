@@ -43,7 +43,6 @@ capture_lanes:
 - Democratic Erosion
 - Labor Suppression
 ---
-type: timeline_event
 
 By early March 2026, labor unions, immigrant rights organizations, and progressive activist groups were engaged in active national organizing toward a May Day general strike — the most ambitious coordinated labor action attempted in the United States in decades.
 

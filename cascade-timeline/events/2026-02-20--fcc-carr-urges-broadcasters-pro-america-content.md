@@ -34,7 +34,6 @@ capture_lanes:
 - Media Capture & Control
 - Democratic Backsliding
 ---
-type: timeline_event
 FCC Chair Brendan Carr urged broadcasters to air patriotic "pro-America content" ahead of the nation's 250th anniversary, using the federal regulator's influence over broadcast licensing to pressure media outlets toward government-approved messaging. While framed as a voluntary suggestion, the request carried implicit regulatory weight given the FCC's power to revoke broadcast licenses and the administration's pattern of punishing media outlets that produce unfavorable coverage.
 
 Media watchdogs noted the directive mirrors tactics used by authoritarian governments to transform independent media into state-aligned propaganda outlets. The combination of active investigations against networks airing opposition voices with calls for patriotic content creates a regulatory framework where broadcasters face punishment for critical coverage and rewards for alignment with the administration's messaging—the functional equivalent of state media direction without formal censorship.

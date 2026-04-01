@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 On May 27, 1935—a day Roosevelt administration officials dub "Black Monday"—the Supreme Court delivers three unanimous decisions against the New Deal, with the most devastating being Schechter Poultry Corp. v. United States, which invalidates the National Industrial Recovery Act (NIRA), a cornerstone of FDR's recovery program. Chief Justice Charles Evans Hughes, writing the majority opinion, strikes down the NIRA on two constitutional grounds: that Section 3 violates separation of powers through unconstitutional delegation of legislative authority to the executive branch, and that Congress exceeded its Commerce Clause powers because the chickens at issue were sold only to intrastate buyers. The decision voids hundreds of industry codes establishing minimum wages, maximum hours, and fair competition standards across the American economy, dealing what Roosevelt calls "one of the most important decisions ever rendered in this country."
 

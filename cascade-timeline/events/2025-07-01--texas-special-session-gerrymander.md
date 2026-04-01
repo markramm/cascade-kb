@@ -40,6 +40,5 @@ sources:
   tier: 1
 notes: Mid-cycle redistricting historically rare and destabilizing to democratic norms. Trump's direct involvement in state redistricting unprecedented. Would have guaranteed Republican supermajority despite 50-50 state partisan split.
 ---
-type: timeline_event
 
 Texas Governor Abbott called special session in July 2025 at former President Trump's request to eliminate Democratic urban seats through mid-cycle redistricting. Most brazen attempt at mid-decade gerrymandering would have created five additional Republican districts. House Democrats broke quorum by fleeing state, temporarily blocking effort. Unprecedented attempt to redraw maps purely for partisan advantage outside normal redistricting cycle. Part of broader pattern of using state power to override democratic outcomes and entrench minority rule.

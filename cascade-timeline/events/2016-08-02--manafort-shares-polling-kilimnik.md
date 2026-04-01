@@ -44,5 +44,4 @@ sources:
 notes: Direct evidence of campaign collusion with Russian intelligence
 status: confirmed
 ---
-type: timeline_event
 Paul Manafort shared internal Trump campaign polling data with Russian intelligence officer Konstantin Kilimnik at Manhattan's Grand Havana Room. Treasury later confirmed this "provided Russian Intelligence Services with sensitive information on polling and campaign strategy."

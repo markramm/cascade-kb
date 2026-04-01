@@ -36,7 +36,6 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 # Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
 

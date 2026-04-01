@@ -41,7 +41,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 18, 2026, Attorney General Pam Bondi and Deputy Attorney General Todd Blanche appeared before the House Oversight Committee for a closed-door briefing on the Department of Justice's handling of Jeffrey Epstein case files. The session devolved into chaos within its first 30 minutes, culminating in a walkout by all Democratic members of the committee.
 

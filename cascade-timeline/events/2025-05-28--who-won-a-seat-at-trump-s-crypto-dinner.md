@@ -46,6 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Trump hosted an exclusive cryptocurrency dinner with 220 top memecoin holders, including foreign nationals like Justin Sun facing SEC lawsuits. House Democrats demanded a DOJ investigation into potential violations of federal bribery laws and the foreign emoluments clause.

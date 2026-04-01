@@ -41,7 +41,6 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: timeline_event
 
 Judge Juan Merchan granted an indefinite postponement of Donald Trump's sentencing on 34 felony convictions, effectively acknowledging that Trump's election victory had made it impossible to sentence him in the foreseeable future. The postponement - from a scheduled November 26 sentencing date to an undefined future time, possibly not until after Trump's presidency ends in 2029 - represented the practical collapse of accountability efforts and demonstrated how electoral victory could nullify a criminal conviction.
 

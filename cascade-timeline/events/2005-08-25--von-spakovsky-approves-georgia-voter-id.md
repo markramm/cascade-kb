@@ -82,7 +82,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 In August 2005, Hans von Spakovsky, serving as Counsel to the Assistant Attorney General for Civil Rights at the U.S. Department of Justice, led the department's approval of Georgia's photo voter ID law (HB 244) despite unanimous objections from career Justice Department attorneys. The career staff's months-long analysis concluded the law would disproportionately burden Black voters — who were significantly less likely to possess the six required forms of photo identification — and recommended that DOJ object under the Voting Rights Act's Section 5 preclearance requirement. Von Spakovsky overruled the career staff and approved the law for implementation.
 

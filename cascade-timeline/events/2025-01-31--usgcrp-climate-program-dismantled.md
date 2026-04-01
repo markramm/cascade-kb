@@ -43,6 +43,5 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 Trump administration dismantled 35-year-old U.S. Global Change Research Program (USGCRP) end of January 2025. Federal employees removed Tuesday, ICF International contract severed. Nearly 400 scientists informed Monday their services no longer needed for National Climate Assessment. Project 2025's Russ Vought wrote chapter on reshaping USGCRP to elevate "benefits" of climate change. David Legates said program needs to be "closed down, lock, stock and barrel," alerted Musk's DOGE.

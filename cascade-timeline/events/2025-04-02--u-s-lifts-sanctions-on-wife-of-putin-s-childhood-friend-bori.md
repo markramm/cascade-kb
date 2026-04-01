@@ -49,6 +49,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 The US Treasury Department quietly removed Karina Rotenberg, wife of Russian oligarch and Putin confidant Boris Rotenberg and a US citizen suspected of shielding her oligarch husband’s wealth, from its sanctions list

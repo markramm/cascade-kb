@@ -46,6 +46,5 @@ implications:
   ethical_concerns: Continued blending of presidential duties with personal business promotion
   diplomatic_context: Trade discussions and bilateral meetings conducted at Trump-owned properties
 ---
-type: timeline_event
 
 President Trump traveled to Scotland to open a new golf course, using official diplomatic meetings and taxpayer-funded trip to promote personal business interests, raising significant ethical concerns about conflicts of interest

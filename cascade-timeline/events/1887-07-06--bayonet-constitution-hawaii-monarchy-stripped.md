@@ -55,7 +55,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On July 6, 1887, the Hawaiian League—a secret organization of white American and European businessmen, lawyers, sugar planters, and missionary descendants—backed by the armed Honolulu Rifles militia, forces King Kalakaua at gunpoint to sign a new constitution that radically restructures the Hawaiian government and strips the monarchy of most executive authority. The constitution, drafted over less than a week by attorneys Sanford B. Dole, Lorrin Thurston, William Ansel Kinney, William Owen Smith, George Norton Wilcox, and Edward Griffin Hitchcock, becomes known as the "Bayonet Constitution" due to the explicit threat of violence used to compel the King's signature. Queen Liliuokalani later asserts that her brother "signed that constitution under absolute compulsion" with his life directly threatened. The new constitution is never ratified by the Hawaiian Kingdom's legislature, making it an illegal document imposed through armed coup rather than legitimate constitutional process.
 

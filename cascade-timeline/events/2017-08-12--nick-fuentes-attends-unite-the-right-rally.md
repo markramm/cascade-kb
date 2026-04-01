@@ -23,6 +23,5 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 White nationalist commentator Nick Fuentes attended the deadly Unite the Right rally in Charlottesville, Virginia, just days before beginning his freshman year at Boston University. Fuentes later spoke positively about "a tidal wave of white identity" and defended the rally in Facebook posts and media interviews, writing: "You can call us racists, white supremacists, Nazis & bigots... But you will not replace us." The rally resulted in three deaths, including counter-protester Heather Heyer who was killed when a far-right extremist rammed his vehicle into demonstrators. Following widespread backlash over his attendance and media statements, Fuentes received death threats and dropped out of Boston University. Right Side Broadcasting Network, which had been hosting his show, ended their relationship after his Charlottesville attendance. This marked a pivotal moment in Fuentes' public emergence as a white nationalist figure.

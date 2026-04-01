@@ -64,7 +64,6 @@ capture_lanes:
 - Judicial Capture
 status: reported
 ---
-type: timeline_event
 
 A federal grand jury in Norfolk, Virginia declined to indict New York Attorney General Letitia James on December 4, 2025, marking an extraordinary rejection of the Department of Justice's attempted prosecution on bank fraud charges. The refusal came just ten days after U.S. District Judge Cameron McGowan Currie dismissed the original indictment, ruling that prosecutor Lindsey Halligan—a former Trump personal attorney with no prosecutorial experience—was unlawfully appointed as acting U.S. attorney for the Eastern District of Virginia.
 

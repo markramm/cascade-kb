@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Oracle Corporation completed its acquisition of PeopleSoft on December 13, 2004, for approximately $10.3 billion ($26.50 per share), concluding an 18-month hostile takeover battle after defeating the Department of Justice's antitrust challenge. The final purchase price represented more than double Oracle's initial $5.1 billion offer from June 2003, demonstrating PeopleSoft's successful resistance strategy that forced Oracle to pay a substantial premium.
 

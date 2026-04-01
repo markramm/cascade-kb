@@ -38,7 +38,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Glenn Greenwald published the first article in The Guardian based on documents leaked by Edward Snowden, revealing a top-secret Foreign Intelligence Surveillance Court (FISA) order requiring Verizon to hand over all telephone metadata to the National Security Agency on an "ongoing, daily basis." The order, dated April 25, 2013, required Verizon to provide the NSA with information on all telephone calls in its systems, both within the U.S. and between the U.S. and other countries.
 

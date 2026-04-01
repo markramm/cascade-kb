@@ -45,7 +45,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Labor Suppression
 ---
-type: timeline_event
 
 
 On Memorial Day, May 30, 1937, Chicago police open fire on peaceful union demonstrators outside Republic Steel Corporation's South Chicago plant, killing ten people and wounding more than ninety in what becomes known as the Memorial Day Massacre. The police use tear gas, firearms, and clubs supplied by Republic Steel to brutally attack several hundred white, Black, and Latino men, women, and children who were marching to establish a picket line. The massacre represents the most violent and deadly episode of the "Little Steel Strike," when smaller steel companies refuse to recognize the Steel Workers Organizing Committee (SWOC) despite the National Labor Relations Act guaranteeing workers' rights to organize, and demonstrates how corporations can weaponize state police forces against workers exercising legal rights.

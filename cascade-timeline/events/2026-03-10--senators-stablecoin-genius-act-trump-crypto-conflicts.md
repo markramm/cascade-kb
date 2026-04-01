@@ -45,7 +45,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 As of March 10, 2026, Senate negotiations over the GENIUS Act -- federal stablecoin regulation legislation -- remained stalled, with Democratic senators blocking the bill over its failure to address President Trump's direct financial conflicts of interest. Senators Elizabeth Warren and Jeff Merkley called the situation a "staggering" conflict of interest, noting that Trump stood to profit enormously from the legislation he was actively lobbying for.
 

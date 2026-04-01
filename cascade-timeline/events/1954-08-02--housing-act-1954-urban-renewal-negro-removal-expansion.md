@@ -41,7 +41,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On August 2, 1954, President Eisenhower signed the Housing Act of 1954, dramatically expanding the urban renewal program that had begun with the 1949 Housing Act. The law introduced the "workable program" requirement for federal funds, mandated comprehensive planning, and provided new financing mechanisms—but in practice accelerated the destruction of Black neighborhoods that critics labeled "Negro removal."
 

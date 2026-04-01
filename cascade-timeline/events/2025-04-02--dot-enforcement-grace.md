@@ -46,5 +46,4 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 DOT Secretary Sean Duffy announced April 2, 2025, sweeping suspension of greenhouse gas emissions enforcement, rescinding Biden-era GHG measurement rule that required states to track/reduce highway emissions. Following Trump's "Woke Rescission" memo, DOT eliminated climate change requirements for federal transportation funds. Two federal judges had already ruled DOT lacked authority for the emissions rule. Part of broader EPA/DOT rollbacks beginning Feb 18.

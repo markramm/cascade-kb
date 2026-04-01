@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On the night of May 24-25, 1856, radical abolitionist John Brown, five of his sons, and three other associates murder five pro-slavery men at three different cabins along Pottawatomie Creek in Kansas Territory. The victims—James P. Doyle and his sons William and Drury, William Sherman, and Allen Wilkinson—are killed in retaliation for the May 21 sacking of Lawrence by pro-slavery forces and the news of Preston Brooks's caning of Senator Charles Sumner. Brown's son Salmon recalls that upon hearing about Sumner's beating, he, his unmarried brothers, and his father went "crazy, crazy," describing it as "the finishing, decisive touch." While Brown's group spares one teenage son of one of the settlers, the methodical execution-style killings at multiple locations demonstrate premeditated political violence designed to terrorize pro-slavery settlers and demonstrate that Free-State forces will respond to violence with violence.
 

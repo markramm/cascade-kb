@@ -36,7 +36,6 @@ capture_lanes:
 - Institutional Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 12, 2026, the Trump administration carried out another round of firings at the National Oceanic and Atmospheric Administration, cutting 1,029 employees — approximately 10% of the agency's remaining workforce — as part of DOGE-directed reductions.
 

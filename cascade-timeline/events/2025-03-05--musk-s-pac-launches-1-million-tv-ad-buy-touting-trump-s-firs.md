@@ -43,6 +43,5 @@ capture_lanes:
 - Media Capture & Control
 notes: Detailed 60-second TV ad campaign positioning Trump's early presidency, with commentary criticizing Biden and praising Trump's perceived accomplishments.
 ---
-type: timeline_event
 
 Elon Musk's America PAC launched a nationwide $1 million television advertisement praising President Donald Trump's early presidency, aired following Trump's joint address to Congress. The ad attacks the Biden administration, highlights Trump's border and efficiency claims, and positions Trump as restoring American strength.

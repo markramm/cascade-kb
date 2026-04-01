@@ -40,6 +40,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 U.S. District Judge Loretta Preska orders the unsealing of documents from Virginia Giuffre's 2015 defamation case against Ghislaine Maxwell, including depositions and court filings that had been sealed for years. The order affects approximately 180 individuals mentioned in the documents, though many high-profile names remain redacted or protected by privacy interests.

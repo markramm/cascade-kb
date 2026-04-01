@@ -72,7 +72,6 @@ capture_lanes:
 - Foreign Policy Corruption
 - Emoluments and Financial Conflicts
 ---
-type: timeline_event
 
 On February 26, 2026, Jared Kushner and Steve Witkoff represented the United States in the third round of Iran nuclear talks in Geneva, Switzerland - both carrying staggering undisclosed financial entanglements with the very Gulf states whose economic interests were directly at stake in any Iran deal outcome.
 

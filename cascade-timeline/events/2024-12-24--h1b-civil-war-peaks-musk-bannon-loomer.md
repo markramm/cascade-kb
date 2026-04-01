@@ -40,6 +40,5 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 The MAGA coalition's internal conflict over immigration policy reaches a fever pitch on Christmas Eve as Elon Musk and the tech faction publicly clash with Steve Bannon and Laura Loomer over H-1B skilled worker visas. Musk argues for expanding the program to maintain American technological competitiveness, while Bannon and Loomer invoke America First principles demanding immigration restriction. The debate exposes the fundamental and perhaps irreconcilable tension between the tech-capitalist and economic nationalist wings of the MAGA coalition, with Vivek Ramaswamy notably siding with Musk by highlighting immigrant success stories in technology.

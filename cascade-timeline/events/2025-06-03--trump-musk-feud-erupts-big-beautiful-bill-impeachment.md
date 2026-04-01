@@ -35,7 +35,6 @@ capture_lanes:
 - Democratic Erosion
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 The alliance between President Trump and Elon Musk collapsed publicly when Musk denounced the "One Big Beautiful Bill" as "a disgusting abomination" that would increase the federal deficit, contradicting DOGE's stated mission. Musk posted "I'm sorry, but I just can't stand it anymore" on June 3, days after leaving his White House position.
 

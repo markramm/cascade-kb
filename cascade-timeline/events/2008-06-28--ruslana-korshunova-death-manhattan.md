@@ -43,5 +43,4 @@ sources:
   url: 'https://www.newsweek.com/disconcerting-new-answers-models-suicide-67659'
   tier: 2
 ---
-type: timeline_event
 Ruslana Korshunova, a 20-year-old model, died after falling from her 9th-floor Manhattan apartment, officially ruled a suicide. Friends and colleagues disputed she was suicidal, describing her as happy days before. She had visited Epstein's island at age 18 in 2006. Her death fits patterns of suspicious deaths of young women connected to the Epstein network, particularly those from Eastern Europe who may have witnessed trafficking operations. Key details include her connection to 'Rose of the World' organization, a history of involvement with Epstein's network, and unusual circumstances surrounding her death.

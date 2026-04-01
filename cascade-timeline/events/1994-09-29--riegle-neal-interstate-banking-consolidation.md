@@ -38,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Clinton signs the Riegle-Neal Interstate Banking and Branching Efficiency Act, removing Depression-era restrictions that prevented banks from operating across state lines. The law enables massive consolidation in the banking industry, with the number of commercial banks declining from over 10,000 to fewer than 5,000 over the following two decades. This concentration fundamentally transforms mortgage lending and housing finance.
 

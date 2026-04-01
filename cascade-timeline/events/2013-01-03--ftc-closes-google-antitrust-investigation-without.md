@@ -55,6 +55,5 @@ connections:
 - White House political access networks
 notes: Exemplary case study of how extensive political networking can neutralize potential antitrust enforcement.
 ---
-type: timeline_event
 
 The Federal Trade Commission closed its 19-month antitrust investigation of Google without bringing charges, despite internal staff recommendations for legal action. With 230 White House meetings in 2012-2013, Google demonstrated unprecedented political access, ultimately avoiding significant regulatory consequences.

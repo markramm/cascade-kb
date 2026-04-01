@@ -37,7 +37,6 @@ capture_lanes:
 - Military-Industrial Complex
 - International Kleptocracy
 ---
-type: timeline_event
 
 Israel sends 96 American-made BGM-71 TOW anti-tank missiles to Iran through arms dealer Manucher Ghorbanifar, marking the first covert arms shipment in what becomes the Iran-Contra scandal. Hours after receiving the weapons, the Islamic fundamentalist group Islamic Jihad releases one American hostage held in Lebanon, Reverend Benjamin Weir, establishing the arms-for-hostages pattern.
 

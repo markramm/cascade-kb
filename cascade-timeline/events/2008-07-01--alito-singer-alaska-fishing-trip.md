@@ -48,5 +48,4 @@ sources:
 notes: 'Trip organized by Leonard Leo of Federalist Society. Singer''s hedge fund had business before SCOTUS at least 10 times after trip. In 2014, Alito voted in Singer''s favor in case against Argentina worth $2.4 billion.'
 status: confirmed
 ---
-type: timeline_event
 Justice Samuel Alito accepts private jet flight worth over $100,000 and luxury lodge stay from hedge fund billionaire Paul Singer who later has business before the court, violating disclosure requirements

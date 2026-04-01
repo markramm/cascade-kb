@@ -66,7 +66,6 @@ sources:
   verified: true
 status: confirmed
 ---
-type: timeline_event
 
 
 The Nebraska Public Service Commission votes 3-2 to approve TransCanada Corporation's application for route approval for the Keystone XL Pipeline, clearing a major obstacle for the controversial tar sands oil pipeline after nearly a decade of fierce opposition from Nebraska landowners, Indigenous tribes, and environmental groups. The PSC approves the Keystone Mainline Alternative Route rather than TransCanada's preferred route, adding approximately 5 miles of pipeline, an additional pumping station, and shifting the route further east away from the ecologically sensitive Nebraska Sandhills. The approval comes just days after the existing Keystone Pipeline spilled 210,000 gallons of oil in South Dakota, underscoring the environmental risks that landowners and tribal nations have long warned about.

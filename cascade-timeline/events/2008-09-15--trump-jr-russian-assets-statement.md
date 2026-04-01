@@ -42,7 +42,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 At a New York real estate conference, Donald Trump Jr. stated: "Russians make up a pretty
 disproportionate cross-section of a lot of our assets. We see a lot of money pouring in
 from Russia." He specifically mentioned Dubai, Trump SoHo, and New York properties. This

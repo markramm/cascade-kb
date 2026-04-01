@@ -50,6 +50,5 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Shares in Trump Media and Technology Group dropped about 5% after the company filed paperwork with the SEC that could allow Trump's trust to sell up to 115 million shares, worth more than $2.3 billion, raising concerns about a potential insider selloff

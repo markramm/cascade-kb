@@ -46,6 +46,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 In Cheney v. United States District Court, the Supreme Court rules 7-2 to protect the secrecy of Vice President Cheney's Energy Task Force meetings with oil executives. The Court vacates a lower court order requiring disclosure of task force participants and documents, ruling that federal courts must give 'the greatest possible protection' to presidential confidentiality. Justice Kennedy's majority opinion emphasized that 'President's communications and activities encompass a vastly wider range of sensitive material than would be true of any ordinary individual.' The decision effectively shields the Bush administration's energy policy development process from public scrutiny, despite ongoing FOIA lawsuits by Sierra Club and Judicial Watch. Justice Scalia notably refused to recuse himself despite going duck hunting with Cheney during the case. The ruling establishes a precedent for executive privilege that enables systematic policy capture by corporate interests while avoiding constitutional accountability, ensuring energy task force records remain secret through the 2004 election and beyond.

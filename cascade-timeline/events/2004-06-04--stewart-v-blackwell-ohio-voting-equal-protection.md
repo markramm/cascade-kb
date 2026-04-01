@@ -47,6 +47,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Sixth Circuit Court applies Bush v. Gore's equal protection precedent in Stewart v. Blackwell, ruling that Ohio's use of disparate voting systems violates voters' constitutional rights. Ohio's four different voting systems, including unreliable punch card systems with significantly higher rates of uncounted votes, created systematic vote dilution in certain counties. This decision demonstrates how Bush v. Gore, despite its limitations, established precedent for addressing voting system inequalities. However, the precedent proves insufficient to prevent widespread voting irregularities in Ohio's 2004 presidential election, where systematic suppression and technical failures disproportionately affected Democratic-leaning areas. The case reveals both the potential and limitations of judicial intervention in electoral integrity.

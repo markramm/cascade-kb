@@ -57,7 +57,6 @@ capture_lanes:
 - Executive Power Seizure
 - Foreign Policy Capture
 ---
-type: timeline_event
 
 As Operation Epic Fury launched on February 28, 2026, reporting and advocacy group statements documented the extent to which evangelical end-times theology — not solely geopolitical calculation — had shaped the decision to strike Iran. The convergence was visible across multiple layers of the administration's political ecosystem.
 

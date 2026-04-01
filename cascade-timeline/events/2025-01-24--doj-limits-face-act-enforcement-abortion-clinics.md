@@ -32,7 +32,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 DOJ Chief of Staff Chad Mizelle issued a memorandum on January 24, 2025, ordering staff to limit enforcement of the Freedom of Access to Clinic Entrances (FACE) Act to only "extraordinary circumstances" such as cases involving death or serious property damage. The memo prohibits abortion-related FACE Act actions unless authorized by the Assistant Attorney General for the Civil Rights Division, reversing decades of clinic protection policy.
 

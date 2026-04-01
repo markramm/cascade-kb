@@ -51,6 +51,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Commerce Secretary Howard Lutnick's deep ties to the cryptocurrency industry have raised concerns about potential regulatory capture. Through his firm Cantor Fitzgerald and personal investments, Lutnick has significant financial interests in crypto firms while leading the Trump administration's push for lighter cryptocurrency regulation. Senator Elizabeth Warren has initiated an investigation into Lutnick's connections, particularly his ties to crypto firms with questionable financial histories.

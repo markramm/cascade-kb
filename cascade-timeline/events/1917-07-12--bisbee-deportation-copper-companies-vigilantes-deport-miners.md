@@ -36,7 +36,6 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 At dawn on July 12, 1917, a sheriff's posse organized by Phelps Dodge copper company rounded up approximately 1,300 striking miners, labor organizers, and bystanders in Bisbee, Arizona, loaded them into cattle cars, and deported them to the New Mexico desert without food or water. The mass kidnapping was orchestrated by Phelps Dodge president Walter Douglas in collaboration with Sheriff Harry Wheeler and the Cochise County Loyalty League, a vigilante group recruited from company employees and local businessmen.
 

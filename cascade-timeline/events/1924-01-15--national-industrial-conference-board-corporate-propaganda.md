@@ -36,7 +36,6 @@ capture_lanes:
 - Media Capture & Control
 - Labor Suppression
 ---
-type: timeline_event
 
 The National Industrial Conference Board (NICB), founded in 1916, reaches peak influence during the 1920s as the research and propaganda arm of corporate America's campaign against labor organizing. Working alongside the National Association of Manufacturers and U.S. Chamber of Commerce, the NICB produces studies, statistics, and policy recommendations designed to appear as objective social science while consistently serving anti-union and anti-regulation agendas. The organization exemplifies the professionalization of corporate propaganda, using the veneer of academic research to influence public policy and shape public opinion.
 

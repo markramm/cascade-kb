@@ -57,6 +57,5 @@ notes: Platform represents complex intersection of conservative media, foreign f
   and alternative social media ecosystem. Significant foreign influence operation
   targeting American political discourse.
 ---
-type: timeline_event
 
 Former Trump aide Jason Miller officially launched Gettr, an alt-tech social media platform targeting American conservatives, with initial and significant funding from Chinese exile billionaire Guo Wengui's family foundation. The platform, which emerged from a pre-existing Chinese-language social media network, represented a complex foreign influence operation involving Trump-aligned media figures and a billionaire wanted in China for corruption.

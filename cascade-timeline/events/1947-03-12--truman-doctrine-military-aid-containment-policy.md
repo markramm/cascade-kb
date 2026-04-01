@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Harry S. Truman addresses a joint session of Congress on March 12, 1947, requesting $400 million in military and economic assistance for Greece and Turkey, establishing what becomes known as the Truman Doctrine. The speech marks a fundamental shift in American foreign policy from isolationism to global interventionism, declaring "it must be the policy of the United States to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures." Historians often cite this address as the official declaration of the Cold War.
 

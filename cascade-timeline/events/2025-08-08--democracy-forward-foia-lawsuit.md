@@ -33,6 +33,5 @@ sources:
   tier: 2
 notes: First legal challenge to the administration's refusal to release files.
 ---
-type: timeline_event
 
 Democracy Forward filed the first FOIA lawsuit against the Trump administration on August 8, 2025, seeking release of the Epstein files through legal action after the administration's reversal on transparency promises.

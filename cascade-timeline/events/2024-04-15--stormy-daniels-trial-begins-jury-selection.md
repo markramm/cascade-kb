@@ -43,7 +43,6 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: timeline_event
 
 The first criminal trial of a former U.S. president in American history began in Manhattan Criminal Court as jury selection commenced in the prosecution of Donald Trump on 34 felony counts of falsifying business records. Judge Juan Merchan presided over the historic proceedings as prosecutors from Manhattan District Attorney Alvin Bragg's office and Trump's defense team led by attorneys Todd Blanche and Susan Necheles began the process of selecting 12 jurors and six alternates who would decide Trump's fate.
 

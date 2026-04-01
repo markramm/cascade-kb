@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On November 18, 1874, the Woman's Christian Temperance Union (WCTU) was founded in Cleveland, Ohio, in response to the "Woman's Crusade," a series of temperance demonstrations that had swept through New York and much of the Midwest in 1873-74. The WCTU initially focused exclusively on promoting abstinence from alcohol, but under the leadership of Frances Willard, who became president in 1879 after replacing Annie Wittenmyer, the organization expanded its agenda to include women's suffrage under the banner of "home protection." Willard successfully argued that women needed the vote to protect their homes and families from the social devastation caused by alcohol abuse. By 1894, the WCTU officially endorsed women's suffrage, and by 1896, 25 of its 39 departments addressed non-temperance issues. This transformation made the WCTU one of the largest and most influential women's groups of the 19th century, bringing more women to support suffrage than ever before.
 

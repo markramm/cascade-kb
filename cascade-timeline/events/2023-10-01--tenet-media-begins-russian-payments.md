@@ -46,7 +46,6 @@ sources:
 notes: '$8.7 million to top 3 creators over 10 months. Pool received $100,000 per video. Influencers claim ignorance of Russian source. 90% of company deposits from Russia. Precursor to September 2024 DOJ indictment.'
 status: confirmed
 ---
-type: timeline_event
 Beginning in approximately October 2023, employees of RT (Russia Today), the Kremlin-funded international broadcaster, began channeling money to Tenet Media, a Tennessee-based media company, to fund content production by prominent American conservative influencers. The arrangement, which would be exposed by a Department of Justice indictment in September 2024, involved RT employees using shell companies in Turkey, the UAE, and Mauritius to obscure the Russian origin of approximately $9.7 million in payments—representing 90% of Tenet Media's total bank deposits over the period.
 
 Tenet Media contracted with several high-profile right-wing podcasters and social media personalities, including Tim Pool, Benny Johnson, Dave Rubin, Lauren Chen, and Liam Donovan. Pool reportedly received approximately $100,000 per video produced for the operation. The influencers, who collectively commanded audiences of millions across YouTube, Spotify, and social media platforms, published content consistent with Russian information warfare objectives, including amplifying political division in the United States and promoting narratives favorable to Russian interests. The DOJ alleged the influencers were unaware of the Russian source of funding, though they continued receiving payments.

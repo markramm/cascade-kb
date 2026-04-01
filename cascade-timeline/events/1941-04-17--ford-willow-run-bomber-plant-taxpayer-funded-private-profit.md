@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Ford Motor Company breaks ground on the Willow Run bomber plant near Ypsilanti, Michigan, on April 17, 1941. The facility, the largest factory under one roof in the world at over 3.5 million square feet, is built entirely with government funds through the Defense Plant Corporation but operated by Ford for private profit under cost-plus contracts that guarantee profit margins regardless of efficiency.
 

@@ -60,7 +60,6 @@ capture_lanes:
 - Judicial Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 
 In a 6-3 decision in DHS v. D.V.D., the Supreme Court allowed DHS to deport immigrants to "third countries"—nations they're not from—without meaningful opportunity to contest deportation. The ruling stayed a Massachusetts district court order that had required 15 days notice and opportunity to present evidence of danger.

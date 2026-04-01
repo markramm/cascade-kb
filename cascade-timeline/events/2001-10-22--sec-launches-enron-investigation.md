@@ -36,7 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 On October 22, 2001, the Securities and Exchange Commission announced it was formally investigating Enron's suspicious dealings with partnerships controlled by CFO Andrew Fastow, characterizing them as "some of the most opaque transactions with insiders ever seen." Enron's share price immediately fell to $20.65, down $5.40 in a single day.
 

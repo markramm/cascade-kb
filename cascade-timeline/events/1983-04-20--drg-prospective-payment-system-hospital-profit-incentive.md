@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 The Social Security Amendments of 1983 establish Medicare's Prospective Payment System (PPS), fundamentally transforming hospital economics by replacing cost-based reimbursement with fixed payments based on Diagnosis Related Groups (DRGs). Under the new system, hospitals receive a predetermined amount based on a patient's diagnosis regardless of actual treatment costs, creating powerful financial incentives to minimize care, discharge patients quickly, and avoid costly procedures.
 

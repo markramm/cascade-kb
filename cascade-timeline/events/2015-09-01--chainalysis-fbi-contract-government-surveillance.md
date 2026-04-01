@@ -31,7 +31,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Chainalysis secures its first federal government contract, a $9,000 data software deal with the FBI, marking the beginning of the U.S. government's systematic use of blockchain surveillance technology. In 2015, the FBI and the Internal Revenue Service are Chainalysis's only federal clients, establishing the foundation for what will become a multimillion-dollar relationship between the cryptocurrency surveillance industry and U.S. law enforcement agencies.
 

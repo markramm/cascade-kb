@@ -46,7 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 Ethiopian Airlines Flight 302, a Boeing 737 MAX 8, crashed six minutes after takeoff from Addis Ababa, Ethiopia, killing all 157 people aboard from 35 countries. The crash was caused by the same MCAS (Maneuvering Characteristics Augmentation System) malfunction that downed Lion Air Flight 610 five months earlier. A faulty angle-of-attack sensor triggered MCAS to repeatedly force the aircraft's nose down, and pilots were unable to override the system.
 
 This second fatal crash of a 737 MAX in less than five months exposed Boeing's deliberate concealment of MCAS from pilots and regulators, the company's prioritization of profit over safety, and systematic regulatory capture at the FAA. The aircraft was brand new, delivered to Ethiopian Airlines in November 2018. Unlike Lion Air, Ethiopian Airlines maintained its aircraft to the highest standards, eliminating maintenance as a contributing factor and making Boeing's design flaws undeniable.

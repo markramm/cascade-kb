@@ -46,7 +46,6 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 In the 1990s, the American Legislative Exchange Council (ALEC) introduced the 'Economic Impact Statement Act' and related model bills requiring state agencies to conduct detailed 'economic impact statements' and cost-benefit analyses for all proposed environmental regulations, creating bureaucratic barriers specifically designed to weaken or kill environmental protections through impossible procedural burdens. The legislation established a regulatory obstruction framework where fossil fuel industry-defined 'economic costs' would systematically outweigh scientifically-established environmental and public health benefits, effectively giving corporate interests veto power over environmental policy through mathematical manipulation.
 

@@ -41,5 +41,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Candiru, Israel's second-largest cyber-espionage firm after NSO Group, is founded by Eran Shorer and Yaakov Weizman. The company would undergo multiple name changes from 2014-2020 before operating under Saito Tech Ltd. Isaac Zack, an early NSO Group investor, serves as Candiru's chairman, establishing deep connections between the two spyware giants. Candiru receives investment from "Founders Group," an angel investment syndicate operated by NSO Group co-founders Omri Lavie and Shalev Hulio, demonstrating systematic coordination in Israel's mercenary surveillance industry.

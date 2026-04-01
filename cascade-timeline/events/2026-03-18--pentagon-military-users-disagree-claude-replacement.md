@@ -29,7 +29,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: timeline_event
 
 On March 18, 2026, reporting from Breaking Defense and Reuters revealed that military personnel and defense contractors who relied on Anthropic's Claude in daily operations were pushing back sharply against Pentagon CTO Emil Michael's assertion that the transition to replacement AI systems could be completed within months. Military users with direct experience operating Claude in classified environments said that recertifying replacement models for the security requirements, workflow integrations, and operational reliability standards of classified systems could realistically take 12 to 18 months.
 

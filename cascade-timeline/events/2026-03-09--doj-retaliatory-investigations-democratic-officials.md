@@ -48,7 +48,6 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: timeline_event
 
 By March 2026, the Trump Department of Justice had launched an unprecedented series of retaliatory investigations and prosecutions targeting Democratic politicians, federal oversight officials, and the independent Federal Reserve. Protect Democracy's Retaliatory Action Tracker documented a systematic pattern of using the prosecutorial apparatus to punish political opponents and coerce institutional compliance.
 

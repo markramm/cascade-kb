@@ -60,7 +60,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 By 2020, analysis of state voucher and school choice programs reveals that the American Legislative Exchange Council's systematic education privatization campaign has achieved stunning success, with ALEC model legislation forming the foundation of voucher, charter school, and education savings account programs in the vast majority of states with such policies. Research tracking ALEC's multi-decade campaign shows that states implementing school choice programs overwhelmingly adopted ALEC's template legislation, with the organization's Education and Workforce Development Task Force successfully deploying model bills across red-state legislatures to systematically defund public education and transfer billions in taxpayer dollars to private, religious, and for-profit education corporations.
 

@@ -46,7 +46,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 America Online (AOL), the nation's dominant Internet service provider, announces its intention to purchase Time Warner for $164 billion in the largest media merger in history. The combined entity would control magazines, video and high-speed Internet cable, cable TV channels (including CNN, HBO, TBS), music labels (Warner Music), film studios (Warner Bros.), and TV/movie production companies, giving unprecedented control over media content creation and distribution channels.
 

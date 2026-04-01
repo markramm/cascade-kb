@@ -43,6 +43,5 @@ capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Merger closed with company now trading as Paramount Skydance Corp. (PSKY), led by David Ellison; Paramount's statement and wire coverage link closing to FCC's July approval and contemporaneous settlement of high-profile lawsuit involving presidential speech

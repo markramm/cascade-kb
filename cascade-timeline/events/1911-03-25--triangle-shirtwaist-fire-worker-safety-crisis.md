@@ -46,7 +46,6 @@ capture_lanes:
 - Labor Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 On March 25, 1911, a fire—likely sparked by a discarded cigarette—swept through the Triangle Waist Company factory on the eighth, ninth, and tenth floors of the Asch Building in New York City, killing 146 workers, mostly teenage Italian and Jewish immigrant girls. The victims died not from the fire itself but from criminally negligent safety practices: management locked steel exit doors from the outside to prevent workers from taking bathroom breaks and "interrupting work," trapping them inside. The building had only one fire escape when three were required, all exits opened inward rather than outward, and the fire escape collapsed under the weight of fleeing workers. Fire department ladders reached only six stories, leaving workers on upper floors to choose between burning alive or jumping to their deaths.

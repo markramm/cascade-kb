@@ -44,7 +44,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Attorney General Merrick Garland appointed Jack Smith as Special Counsel to oversee DOJ's
 criminal investigations of Donald Trump, three days after Trump announced his 2024

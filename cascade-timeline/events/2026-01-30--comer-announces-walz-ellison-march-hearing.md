@@ -34,7 +34,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 House Oversight Committee Chairman James Comer announced that Minnesota Governor Tim Walz and Attorney General Keith Ellison confirmed their appearance at the committee's hearing on "Oversight of Fraud and Misuse of Federal Funds in Minnesota: Part II" scheduled for Wednesday, March 4, 2026, at 10:00 a.m. ET. Comer stated, "Minnesota Governor Tim Walz and Attorney General Keith Ellison have either been asleep at the wheel or complicit in a massive fraud involving taxpayer dollars in Minnesota's social services programs."
 

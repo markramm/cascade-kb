@@ -51,5 +51,4 @@ capture_lanes:
 - Systematic Corruption
 - Judicial Capture
 ---
-type: timeline_event
 The Department of Justice announced a strategic realignment of white-collar crime enforcement, introducing a new framework with 10 targeted priority areas. While not a complete reduction, the policy involves resource constraints, shifting investigative focus, and implementing more efficient prosecution strategies. Key changes include a narrower enforcement scope, potential for reduced corporate penalties, and an 'America First' economic approach.

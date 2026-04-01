@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Federal Communications Commission votes 3-2 to punish Comcast for its "surreptitious interference" with BitTorrent uploads, marking the first time any U.S. broadband provider has been found to violate net neutrality principles. The Commission formally adopted an order finding that Comcast violated the neutrality principles established in the FCC's 2005 Internet Policy Statement by secretly throttling peer-to-peer traffic without disclosure to customers.
 

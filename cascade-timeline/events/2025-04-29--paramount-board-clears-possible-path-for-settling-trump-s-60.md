@@ -49,6 +49,5 @@ _merge_timestamp: '2025-09-05T23:46:55.900070'
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris

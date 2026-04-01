@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 The FBI ordered informant Craig Monteilh to infiltrate multiple large mosques in Orange County, California, in a dragnet surveillance operation that targeted entire Muslim communities rather than specific suspects. The operation exemplified the FBI's post-9/11 practice of religious profiling and mass surveillance of Muslim Americans.
 

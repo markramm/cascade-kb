@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 In September 1962, Cesar Chavez and Dolores Huerta founded the National Farm Workers Association (NFWA) to organize California's agricultural workers, who had been systematically excluded from New Deal labor protections and faced conditions resembling debt peonage. Farmworkers endured poverty wages, exposure to dangerous pesticides, lack of sanitation facilities in fields, and housing in labor camps controlled by growers. The NFWA built its foundation through patient grassroots organizing in California's Central Valley, holding house meetings to build trust among workers whom growers had deliberately divided along ethnic and racial lines. Chavez's organizing philosophy emphasized nonviolent direct action, inspired by Martin Luther King Jr. and Mahatma Gandhi, combined with Mexican-American Catholic social justice traditions.
 

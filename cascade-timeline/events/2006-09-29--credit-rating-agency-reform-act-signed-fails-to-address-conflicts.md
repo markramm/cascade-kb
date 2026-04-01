@@ -39,7 +39,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 On September 29, 2006, President George W. Bush signed the Credit Rating Agency Reform Act (Public Law 109-291) into law, following its passage by unanimous consent in the Senate on September 22 and under suspension of rules in the House on September 27. The Act amended the Securities Exchange Act of 1934 to require nationally recognized statistical rating organizations (NRSROs) to register with the Securities and Exchange Commission and established SEC oversight of credit rating agencies. Proponents claimed it would improve ratings quality and foster accountability, transparency, and competition in the credit rating industry.
 

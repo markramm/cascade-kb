@@ -58,7 +58,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 
 After World War II, as worker militancy swept the country, the right-wing struck back with the Taft-Hartley Act, passed by a Republican Congress over President Truman's veto on June 23, 1947. The bill used the threat of communist subversion to justify rolling back advantages labor had gained in the 1935 Wagner Act. Most of the bill's provisions—banning closed shops, secondary strikes, and spending of dues for political purposes, while allowing states to pass union-busting "right to work" laws—had no Cold War purpose. They represented a long-stymied pro-business Republican agenda that had suffered under FDR's New Deal administration.

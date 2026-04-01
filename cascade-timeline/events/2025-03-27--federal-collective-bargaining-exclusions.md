@@ -45,5 +45,4 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 EO on federal collective bargaining exclusions issued; OPM guidance and White House fact sheet published exempting agencies with national security missions from federal collective bargaining requirements

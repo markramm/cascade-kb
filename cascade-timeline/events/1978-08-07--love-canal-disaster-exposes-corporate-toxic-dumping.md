@@ -41,7 +41,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On August 7, 1978, President Jimmy Carter declared a federal health emergency at Love Canal, a neighborhood in Niagara Falls, New York built atop a toxic waste dump. The disaster exposed how Hooker Chemical Company had knowingly sold contaminated land for housing development while concealing the extent of chemical contamination, and how regulatory agencies had failed to protect residents for decades.
 

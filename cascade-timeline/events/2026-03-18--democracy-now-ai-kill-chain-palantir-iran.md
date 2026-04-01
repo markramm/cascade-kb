@@ -29,7 +29,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Capture
 ---
-type: timeline_event
 
 On March 18, 2026, Democracy Now aired a detailed investigative segment examining the Pentagon's use of Palantir's Maven Smart System for targeting operations in the Iran war, revealing the extent to which AI had compressed the military's kill chain. The segment featured analysis showing that Maven's AI capabilities had reduced the time required to identify, validate, and approve strike targets from "tens of thousands of hours" of human intelligence analysis to "seconds and minutes" of automated processing. The acceleration raised fundamental questions about whether human oversight of targeting decisions had been reduced to a rubber stamp.
 

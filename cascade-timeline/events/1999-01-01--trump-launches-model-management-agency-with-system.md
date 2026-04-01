@@ -39,6 +39,5 @@ sources:
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Donald Trump founds Trump Model Management (originally T Models), which would bring approximately 250 international models to the United States. Investigative reporting later revealed systematic H-1B visa fraud, with models instructed to lie to customs officials and work illegally on tourist visas. Models were charged $1,200-1,600 per month for bunk beds in overcrowded apartments while working without proper authorization. Multiple models claimed they were misled about earnings, with one model Alexia Palmer receiving only $3,880 over three years despite promises of $75,000 annually. Immigration experts found evidence of systemic visa law violations and labor exploitation.

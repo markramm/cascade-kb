@@ -40,7 +40,6 @@ capture_lanes:
 - Institutional Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 19, 2026, the Department of Education announced it would transfer its entire $1.6 trillion student loan portfolio to the Treasury Department — the largest single step yet in the Trump administration's campaign to dismantle the Education Department. Education Secretary Linda McMahon declared the move part of a plan to "break up the federal education bureaucracy," framing the transfer as an efficiency measure that would consolidate financial management under Treasury Secretary Scott Bessent.
 

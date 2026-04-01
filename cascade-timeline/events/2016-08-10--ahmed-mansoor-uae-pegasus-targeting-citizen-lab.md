@@ -40,7 +40,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On August 10-11, 2016, Ahmed Mansoor, an internationally recognized UAE-based human rights defender and recipient of the Martin Ennals Award, receives suspicious SMS messages on his iPhone promising "new secrets" about detainees tortured in UAE jails. Instead of clicking the malicious links, Mansoor forwards the messages to researchers at Citizen Lab, who discover a sophisticated chain of zero-day exploits called "Trident" designed to install NSO Group's Pegasus spyware.
 

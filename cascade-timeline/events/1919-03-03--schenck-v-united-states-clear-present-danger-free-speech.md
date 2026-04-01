@@ -33,7 +33,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Supreme Court unanimously upheld the Espionage Act conviction of Socialist Party Secretary Charles Schenck for distributing leaflets urging draft resistance. Justice Oliver Wendell Holmes Jr. authored the opinion, creating the "clear and present danger" test for restricting speech and introducing the famous "fire in a crowded theater" analogy. Holmes wrote that "when a nation is at war, many things that might be said in time of peace are such a hindrance to its effort that their utterance will not be endured."
 

@@ -36,7 +36,6 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 Between May and December 2006, Magnetar Capital executed a massive "self-funding" bet against the housing market by sponsoring mezzanine asset-backed CDOs with a total deal balance of $26.1 billion, representing 39.0 percent of the entire mezzanine ABS-CDO market during that period. The hedge fund's strategy, which would later become known as "the Magnetar Trade," involved taking long positions in the highest-risk equity tranches of synthetic CDOs while simultaneously shorting safer mezzanine tranches through credit default swaps—effectively betting against the very securities it encouraged others to buy.
 

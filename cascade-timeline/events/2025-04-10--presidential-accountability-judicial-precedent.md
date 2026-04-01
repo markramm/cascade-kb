@@ -47,5 +47,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 In a landmark series of rulings spanning multiple federal appeals courts and culminating on April 10, 2025, federal judges significantly reaffirmed and expanded legal frameworks for holding the executive branch accountable. The decisions centered on critical constitutional issues including presidential removal powers, executive privilege, and the limits of presidential immunity. Landmark cases involving the Federal Trade Commission, Federal Reserve, and military deployment exposed systemic tensions between executive power and institutional independence. Most notably, courts invoked the century-old Humphrey's Executor precedent to limit presidential authority over independent agencies, signaling a robust judicial stance against unchecked executive power.

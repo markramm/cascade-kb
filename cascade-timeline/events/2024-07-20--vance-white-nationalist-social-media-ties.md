@@ -39,5 +39,4 @@ tags:
 - right-wing-media
 title: Vance White Nationalist Social Media Connections Exposed
 ---
-type: timeline_event
 Investigation reveals VP nominee J.D. Vance follows multiple controversial accounts on X with white nationalist, far-right, and conspiracist views. Accounts include Raw Egg Nationalist, Bronze Age Pervert, Richard Hanania, Darryl Cooper, and Laura Loomer - figures associated with Hitler memes, eugenics theories, white nationalist rhetoric, and controversial political stances. These connections suggest a troubling pattern of engagement with extremist online networks, including those promoting the 'Great Replacement' conspiracy theory and white nationalist ideologies. A noted extremism researcher quoted in the Yahoo News article described these accounts as being 'at the vanguard of white nationalism', indicating Vance's close proximity to far-right ideological networks.

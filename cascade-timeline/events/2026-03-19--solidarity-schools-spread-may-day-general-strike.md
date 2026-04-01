@@ -36,7 +36,6 @@ capture_lanes:
 - Democratic Erosion
 - Labor Suppression
 ---
-type: timeline_event
 
 By March 19, 2026, nearly 100 solidarity schools had been organized in cities across the United States in preparation for the May 1 general strike, operating under the banner of "No Work, No School, No Shopping." The solidarity schools — part teach-in, part organizing workshop — were training participants in strike logistics, workplace rights, rapid-response coordination, and community mutual aid in advance of what organizers described as the most ambitious coordinated labor action in modern American history.
 

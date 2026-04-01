@@ -49,5 +49,4 @@ patterns:
 notes: 'Event documents significant billionaire intervention in state judicial election, with over $20 million spent by Musk-linked groups.'
 status: confirmed
 ---
-type: timeline_event
 Elon Musk handed out $1 million checks to two Wisconsin voters at a rally in Green Bay, moments after the state Supreme Court declined to block his political spending. The event highlighted Musk's significant financial intervention in a critical judicial election that could reshape Wisconsin's political landscape, with total spending by Musk-linked groups exceeding $20 million.

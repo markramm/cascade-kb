@@ -48,7 +48,6 @@ capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption
 ---
-type: timeline_event
 
 Special Counsel Jack Smith announced a federal grand jury indictment of former President Donald Trump on four criminal counts related to his efforts to overturn the 2020 election and his role in the January 6, 2021 attack on the U.S. Capitol. The indictment marked the most serious criminal charges ever filed against a former president, charging him with conspiracy to defraud the United States and conspiracy against the rights of citizens to have their votes counted.
 

@@ -29,7 +29,6 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: timeline_event
 By 1985, the Council for National Policy had established its operational model of meeting three times yearly behind closed doors at undisclosed locations for confidential conferences, creating a regular rhythm for conservative movement coordination that would persist for four decades.
 
 The New York Times described CNP as "a little-known club of a few hundred of the most powerful conservatives in the country," who meet three times yearly to coordinate strategy away from public scrutiny. This meeting schedule became the heartbeat of conservative movement coordination.

@@ -39,7 +39,6 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 In 2006, synthetic CDO issuance jumped from $15 billion in 2005 to $61 billion, with synthetics becoming the dominant form of CDOs in the United States. By year end, the synthetic CDO market was valued "notionally" at $5 trillion according to industry estimates. This explosive growth represented a dangerous amplification of risk in the housing market, as synthetic CDOs allowed Wall Street to create unlimited bets on the same underlying pool of mortgage debt through credit default swaps—essentially creating phantom exposure far exceeding the actual mortgages in existence.
 

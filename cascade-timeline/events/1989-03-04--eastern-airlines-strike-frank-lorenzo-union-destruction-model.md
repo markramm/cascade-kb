@@ -42,7 +42,6 @@ capture_lanes:
 - Labor Suppression
 - Corporate Capture
 ---
-type: timeline_event
 
 The International Association of Machinists begins a strike against Eastern Airlines on March 4, 1989, joined by pilots and flight attendants in solidarity action that effectively grounds the carrier. The strike targets Frank Lorenzo, whose Texas Air Corporation acquired Eastern in 1986 and immediately began stripping assets and demanding concessions. Lorenzo had previously used Continental Airlines' bankruptcy to abrogate union contracts, establishing a template for using corporate restructuring to destroy organized labor. The Eastern strike demonstrates both labor solidarity's continuing power and the limits of worker action against corporate raiders determined to liquidate rather than negotiate.
 

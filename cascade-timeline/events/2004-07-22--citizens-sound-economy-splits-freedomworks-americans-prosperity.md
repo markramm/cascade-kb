@@ -53,6 +53,5 @@ connections:
 - Conservative political infrastructure development
 notes: Critical reorganization enabling expanded political influence through decentralized but coordinated organizational structures.
 ---
-type: timeline_event
 
 Citizens for a Sound Economy (CSE), a Koch-funded lobbying organization, splits into two strategic entities. FreedomWorks emerges from a merger with Empower America, while the educational foundation transforms into Americans for Prosperity, enabling the Koch network to expand political influence through parallel organizations.

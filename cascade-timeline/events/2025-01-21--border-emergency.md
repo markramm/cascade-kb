@@ -95,5 +95,4 @@ status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-01-21--energy-emergency'
 _merge_timestamp: '2025-09-05T23:46:55.899532'
 ---
-type: timeline_event
 Trump declared national emergency at southern border citing "invasion" by cartels, criminal gangs, and "unvetted military-age males." Deployed 1,500 active-duty troops (1,000 Army, 500 Marines) with helicopters and intelligence analysts. Ordered Pentagon to develop 10-day plan to "seal off" border with Mexico including more troops, drones, barriers. Designated cartels as foreign terrorist organizations including Tren de Aragua and MS-13. Signed order authorizing direct military operations against cartels on foreign soil potentially inside Mexico. Ended "catch and release," reinstated "Remain in Mexico" policy.

@@ -35,7 +35,6 @@ capture_lanes:
 - Institutional Capture
 - Military Capture
 ---
-type: timeline_event
 
 On March 13, 2026, CNN published an updated investigation documenting how the Department of Government Efficiency's sweeping budget cuts had actively degraded U.S. government capabilities at the worst possible moment — during a major war. The report detailed three critical areas where DOGE-driven reductions had created operational vulnerabilities: Pentagon IT systems managed by the Defense Information Systems Agency (DISA) had been placed at "extreme risk" after cybersecurity staff were cut under DOGE's J6 reduction initiative; FBI counterintelligence capabilities had been diminished after Director Kash Patel fired a dozen agents who had been specifically monitoring Iranian intelligence activities before the war; and Voice of America had been reduced to "a shell," eliminating the primary U.S. tool for broadcasting information into Iran during wartime.
 

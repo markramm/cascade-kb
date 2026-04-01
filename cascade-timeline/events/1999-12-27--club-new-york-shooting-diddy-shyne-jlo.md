@@ -44,6 +44,5 @@ tags:
 - power-dynamics
 title: Club New York shooting involving Diddy creates kompromat opportunity
 ---
-type: timeline_event
 
 A shooting at Club New York involving Sean Combs, Jennifer Lopez, and rapper Shyne results in three people being injured. Combs and Lopez are arrested but later acquitted, while Shyne serves 9 years in prison. The incident, with its high-profile arrests, conflicting testimonies, and allegations of witness tampering, creates significant leverage over those involved. The pattern mirrors other incidents where criminal cases generate compromising material that can be used for control. A woman named Natania Reuben claims she was shot in the face and has sought justice for 25 years, adding further complexity to the narrative.

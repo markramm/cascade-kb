@@ -35,7 +35,6 @@ capture_lanes:
 - Federal Workforce Capture
 status: confirmed
 ---
-type: timeline_event
 
 Charles J. Guiteau shoots President James A. Garfield at 9:30 AM on July 2, 1881, at the Baltimore and Potomac Railroad Station in Washington, D.C., less than four months into Garfield's presidency. Guiteau, a disappointed and delusional office-seeker who distributed copies of a speech promoting Garfield in the 1880 election, believes his campaigning was vital to Garfield's victory and that the president owes him a diplomatic post in Europe. After months of failed attempts to solicit a patronage reward, including visits to both the White House and State Department where Secretary of State James Blaine angrily tells him "Do not ever mention the Paris consulship to me again," Guiteau purchases a revolver and begins stalking the president. The assassination demonstrates that the spoils system—the practice of distributing government jobs to political supporters—has created a culture where denied patronage-seekers view political violence as a rational response to perceived betrayal.
 

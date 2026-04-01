@@ -41,5 +41,4 @@ patterns:
 - institutional-restructuring
 status: confirmed
 ---
-type: timeline_event
 The Trump administration's systematic removal of FBI and DOJ personnel, initially targeting those involved in January 6 investigations, effectively dismantled key anti-corruption enforcement mechanisms. By June 2025, eight senior FBI executives had been terminated, with dozens of field office heads facing potential dismissal, fundamentally altering the Justice Department's investigative capabilities.

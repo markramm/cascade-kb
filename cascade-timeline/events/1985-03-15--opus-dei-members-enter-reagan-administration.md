@@ -35,6 +35,5 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Several Opus Dei members and sympathizers gain positions in the Reagan Administration, including key roles in economic policy and judicial nominations. This marks the beginning of systematic Opus Dei influence in Republican politics, particularly around conservative economic and social policies. By 1985, Opus Dei had established a significant network of influence in Washington, targeting political and business leaders for strategic placement and conversion.

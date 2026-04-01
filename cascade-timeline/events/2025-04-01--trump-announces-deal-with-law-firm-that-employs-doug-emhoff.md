@@ -43,7 +43,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 President Trump announced a White House agreement with Willkie Farr & Gallagher, a major law firm that employed Doug Emhoff — husband of former Vice President Kamala Harris — committing the firm to provide at least $100 million in pro bono legal services directed by the Trump administration. The deal followed Trump's issuance of executive orders targeting other law firms, most notably Paul Weiss and Perkins Coie, that had represented clients or causes opposed by Trump. Those orders stripped targeted firms of security clearances, barred them from government buildings, and revoked federal contracts — forcing them into negotiations to reach similar settlement agreements.
 
 The Washington Post reported that Willkie Farr reached the deal specifically to avoid becoming the next target of a Trump executive order. By directing $100 million in pro bono legal work to causes Trump chose, the firm effectively paid a ransom — providing substantial resources to Trump's preferred legal efforts in exchange for freedom from executive branch retaliation. The Hill noted the involvement of Emhoff, a connection that allowed Trump to politically frame the agreement as having neutralized a firm associated with the Democratic opposition while simultaneously extracting resources for his own legal priorities.

@@ -45,6 +45,5 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 GAO reports document ICE's reliance on a complex network of contracted detention facilities, including Intergovernmental Service Agreements (IGSAs) with guaranteed-minimum payment structures. In FY2019, ICE maintained contracts with 230+ facilities for longer‑term detention, alongside short‑term holds in jails and Border Patrol stations. GAO identified significant oversight gaps, with multiple DHS entities conducting inspections but lacking clearly defined performance goals and measures.

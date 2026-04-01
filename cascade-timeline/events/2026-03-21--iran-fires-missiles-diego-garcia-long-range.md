@@ -49,7 +49,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 21, 2026, Iran launched two intermediate-range ballistic missiles toward Diego Garcia, a critical U.S.-UK military base in the Indian Ocean approximately 4,000 kilometers from Iranian territory. Both missiles failed to reach their target, splashing down in the Indian Ocean. Iran denied conducting the attack, but U.S. and allied intelligence confirmed the launches originated from Iranian territory.
 

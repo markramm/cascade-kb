@@ -41,7 +41,6 @@ capture_lanes:
 - Judicial Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 U.S. District Judge Amit Mehta ruled that Google illegally maintained monopolies in general search services and search text advertising, marking the most significant antitrust victory against a tech company since the Microsoft case in 1998. The ruling found that Google's payments exceeding $26 billion annually to Apple and other companies for default search placement constituted exclusionary contracts that violated Section 2 of the Sherman Antitrust Act, and that these agreements foreclosed competition by preventing rivals from achieving the scale necessary to compete effectively—validating four years of DOJ prosecution and setting stage for potential breakup remedies.
 

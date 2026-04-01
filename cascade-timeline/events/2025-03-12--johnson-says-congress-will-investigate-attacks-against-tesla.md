@@ -45,5 +45,4 @@ capture_lanes:
 - Corporate Capture
 notes: Event demonstrates political manipulation through congressional investigation targeting perceived political opponents with potential broader implications for government-corporate relationships
 ---
-type: timeline_event
 House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla vehicles and owners, characterizing them as potential 'domestic terrorism' orchestrated by the 'radical Left', coinciding with broader scrutiny of Elon Musk's leadership of the Department of Government Efficiency

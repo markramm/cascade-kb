@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The United States Congress declares war on Great Britain, initiating the War of 1812 ostensibly over British impressment of American sailors, trade restrictions, and western expansion conflicts. The declaration creates immediate opportunities for systematic profiteering, contractor fraud, and illicit trade that characterize American military conflicts. The war enables what Stuart D. Brandes documents as a long pattern of war profiteering including "price gouging, quality degradation, trading with the enemy, plunder, and fraud"—practices that previous conflicts had already established but which the War of 1812 intensifies and normalizes.
 

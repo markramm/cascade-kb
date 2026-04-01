@@ -41,6 +41,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Fannie Mae significantly relaxes credit requirements to meet HUD-mandated affordable housing goals, encouraging banks to extend loans to borrowers with credit scores below conventional standards. This government-sponsored enterprise policy change, coordinated with banking industry lobbying, catalyzes massive growth in subprime lending from 0 billion in 1994 to over 60 billion by 2000. The policy demonstrates institutional capture where regulatory agencies serve industry profit motives under the guise of social policy. Banks exploited these loosened standards to originate high-risk mortgages they could securitize and sell, transferring risk to taxpayers through GSE backing while retaining origination fees.

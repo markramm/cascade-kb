@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 # Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers
 

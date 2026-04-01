@@ -36,7 +36,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Clearview AI closed a $30 million Series B funding round led by Kirenaga Partners, valuing the controversial facial recognition company at $130 million. The investment came despite ongoing privacy investigations in multiple countries and widespread regulatory findings that the company's practices violated privacy laws. The funding round included institutional investors and family offices, with previous investors including Peter Thiel and Naval Ravikant maintaining their stakes in the company.
 

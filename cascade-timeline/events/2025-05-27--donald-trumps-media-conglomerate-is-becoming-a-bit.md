@@ -51,6 +51,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape

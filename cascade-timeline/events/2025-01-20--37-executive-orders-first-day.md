@@ -47,6 +47,5 @@ sources:
 notes: Directly implemented numerous Project 2025 priorities. DOGE given 18-month mandate to overhaul federal software and maximize efficiency. Mass pardons for January 6 defendants included commuting sentences for seditious conspiracy convictions.
 status: confirmed
 ---
-type: timeline_event
 
 President Trump signed numerous executive orders, memorandums and proclamations on inauguration day January 20, 2025, including withdrawal from Paris Climate Agreement and WHO, establishing DOGE led by Elon Musk, and rescinding 78 Biden-era executive actions. The DOGE order temporarily renamed the US Digital Service for 18 months to oversee federal software modernization. Trump also pardoned 1,500 January 6 defendants and commuted sentences of Proud Boys and Oath Keepers leaders convicted of seditious conspiracy. He signed orders at both Capital One Arena and the Oval Office.

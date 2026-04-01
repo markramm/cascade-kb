@@ -34,6 +34,5 @@ sources:
   tier: 1
   date: '2019-12-20'
 ---
-type: timeline_event
 
 President Trump signed the $738 billion National Defense Authorization Act on December 20, 2019, which established the United States Space Force as the sixth branch of the U.S. military. The new military service, first created since the Air Force in 1947, will initially comprise 16,000 active-duty Air Force and civilian personnel, focusing on space-based military operations and technological superiority.

@@ -38,7 +38,6 @@ capture_lanes:
 - Federal Workforce Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 A hastily arranged Cabinet meeting at the White House erupted into shouting matches as Secretary of State Marco Rubio and Transportation Secretary Sean Duffy confronted Elon Musk over DOGE's aggressive workforce cuts. The confrontation exposed tensions between Trump's Cabinet and the tech billionaire who had been granted extraordinary power over federal agencies.
 

@@ -62,7 +62,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Financial Capture
 ---
-type: timeline_event
 
 On December 4, 2025, U.S. Citizenship and Immigration Services (USCIS) announced it was slashing work permit validity from a maximum of five years to just 18 months for refugees, asylum seekers, and immigrants with pending green card applications—explicitly citing a single shooting by an Afghan asylum seeker one week earlier.
 

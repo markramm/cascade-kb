@@ -34,7 +34,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 # Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options
 

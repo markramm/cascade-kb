@@ -40,7 +40,6 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 18, 2026, Sen. Ron Wyden publicly accused Deputy Attorney General Todd Blanche of blocking the release of an unredacted DEA memo detailing "Operation Chain Reaction," a federal investigation into Jeffrey Epstein and 14 co-conspirators for drug trafficking, prostitution, and illicit financial activity. The memo, which Wyden said had been provided to the Senate Finance Committee only in heavily redacted form, described $5.6 million in narcotics and detailed how victims — including underage girls — were drugged as part of the trafficking operation.
 

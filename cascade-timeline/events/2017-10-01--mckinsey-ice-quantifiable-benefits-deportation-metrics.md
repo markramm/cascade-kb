@@ -47,7 +47,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 ICE officials state in an October 2017 contracting document that McKinsey's work has shown 'quantifiable benefits,' specifically citing 'increased total removals and reductions in time to remove a detainee.' This official acknowledgment reveals how McKinsey's consulting work is explicitly measured by its success in accelerating deportations—the very metric that drives the controversial recommendations on cutting costs for food, medical care, and due process protections.

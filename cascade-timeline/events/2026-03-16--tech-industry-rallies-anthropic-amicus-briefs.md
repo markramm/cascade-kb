@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 On March 16, 2026, a broad coalition of technology companies, industry groups, and individual researchers filed amicus curiae briefs in support of Anthropic's challenge to the Pentagon's supply chain risk designation, ahead of the March 24 preliminary injunction hearing before Judge Rita Lin in the Northern District of California. The filing represented the most unified public stance the AI industry had taken against the administration's use of procurement blacklisting as a policy enforcement tool.
 

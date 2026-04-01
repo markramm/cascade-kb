@@ -51,7 +51,6 @@ capture_lanes:
 - Democratic Backsliding
 - Judicial Capture
 ---
-type: timeline_event
 
 Legal analysts and press coverage coalesced on February 11, 2026 around a pattern of grand jury refusals to indict in cases where the Trump administration sought criminal charges against political opponents. The pattern represented a historically anomalous series of "no true bill" decisions in federal cases — events so rare that in fiscal year 2016, only six such refusals occurred among 69,451 felony defendants brought before federal grand juries by DOJ.
 

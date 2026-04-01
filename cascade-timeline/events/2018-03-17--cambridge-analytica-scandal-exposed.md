@@ -65,7 +65,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 Christopher Wylie reveals Cambridge Analytica harvested 87 million Facebook profiles without consent for political manipulation, triggering global privacy crisis
 
 On March 17, 2018, The Guardian and The New York Times simultaneously published explosive investigations based on documents provided by whistleblower Christopher Wylie, a former Cambridge Analytica research director. The reporting revealed that Cambridge Analytica, funded by Republican megadonor Robert Mercer and co-founded by Steve Bannon, had harvested the Facebook profiles of approximately 87 million users without their knowledge or consent. The data was collected through an app called "This Is Your Digital Life," developed by researcher Aleksandr Kogan, which exploited Facebook's Open Graph API to vacuum up not just survey respondents' data but also data from their entire social networks.

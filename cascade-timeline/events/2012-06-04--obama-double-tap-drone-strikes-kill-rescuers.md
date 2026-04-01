@@ -42,7 +42,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 The Bureau of Investigative Journalism publishes comprehensive evidence that the CIA conducts "double-tap" drone strikes—following an initial strike with a second strike targeting rescuers, medical personnel, and civilians who rush to help victims. The investigation documents at least three cases where subsequent strikes killed first responders attempting to recover bodies and aid wounded victims, terrorizing communities and preventing people from providing humanitarian assistance. The double-tap tactic violates international humanitarian law prohibitions against targeting medical personnel and constitutes a war crime, yet the practice continues as deliberate CIA policy designed to maximize casualties and intimidate populations.
 

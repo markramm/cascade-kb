@@ -46,7 +46,6 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: timeline_event
 
 Luzerne County Court of Common Pleas judges Mark Ciavarella and Michael Conahan are exposed for accepting $2.8 million in illegal payments from the builder and co-owner of PA Child Care, a for-profit juvenile detention facility. From 2003 to 2008, the judges altered the lives of more than 2,500 children across 6,000 cases, sending children as young as 8 to extended detention for minor offenses including jaywalking, truancy, smoking on school grounds, trespassing in vacant buildings, and mocking an assistant principal on MySpace.
 

@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Congress charters the Second Bank of the United States as a privately owned institution with a 20-year federal charter, five years after the expiration of the First Bank of the United States. President James Madison, who had opposed the First Bank as unconstitutional in 1791, now supports the Second Bank after experiencing difficulty financing the War of 1812 without a central banking institution. The bank is capitalized at $35 million—the largest financial institution in the nation and one of the largest corporations in the world—with the federal government purchasing one-fifth of the shares and appointing five of twenty-five directors. However, opening for business in the midst of a postwar boom, the Second Bank immediately discredits itself through speculation, stockjobbing, and, at some branches, outright fraud.
 

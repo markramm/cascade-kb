@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 The Ku Klux Klan under Grand Dragon D.C. Stephenson completes its takeover of Indiana state government, controlling the Governor's office, the state legislature, and numerous local governments. Stephenson, a charismatic organizer who built the Indiana Klan from a few thousand members to an estimated 250,000-300,000, wields influence so complete he reportedly boasts "I am the law in Indiana." The capture demonstrates how an extremist movement can achieve total control of a state government through mainstream political channels.
 

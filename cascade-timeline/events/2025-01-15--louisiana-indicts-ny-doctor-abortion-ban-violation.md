@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 A Louisiana grand jury indicted a New York physician in January 2025 for violating Louisiana's abortion ban and restrictions by providing medication abortion to a Louisiana minor. The mother of the minor who received the medication abortion was also indicted, marking an escalation in interstate enforcement of state abortion bans.
 

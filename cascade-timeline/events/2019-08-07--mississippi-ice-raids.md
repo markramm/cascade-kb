@@ -44,5 +44,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Largest single-state immigration enforcement action in U.S. history with 680 arrests. Raids proceeded with standard agent identification protocols, contradicting later claims about masked operations being historical practice. Occurred on first day of school, causing significant community disruption, with approximately 400 immigrants moved to detention facilities and 300 released on humanitarian grounds.

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The House of Representatives establishes the House Committee on Un-American Activities (HUAC), commonly known as the Dies Committee after its chairman Representative Martin Dies Jr. (D-TX), on May 26, 1938, as a special investigating committee to probe alleged disloyalty and subversive activities by private citizens, public employees, and organizations suspected of communist or fascist ties. The committee is founded largely through the efforts of Dies and former House Speaker John Garner, conservative Democrats disenchanted with Roosevelt's pro-union New Deal who work to disable it by creating an investigative body that will discredit New Deal programs and officials as un-American communist infiltration.
 

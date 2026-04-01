@@ -67,6 +67,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump fired 18 Inspectors General across multiple federal agencies in an unprecedented purge of government oversight officials. The mass firing included Robert Storch (Defense), Michael Missal (Veterans Affairs), Hannibal "Mike" Ware (Small Business Administration), and Mark Lee Greenblatt (Interior), among others. This represented the largest single-day removal of independent watchdogs in U.S. history, effectively eliminating oversight of billions in federal spending and thousands of government programs. The firings violated federal law requiring 30-day notice to Congress.

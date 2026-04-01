@@ -40,6 +40,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Monica Goodling, White House liaison and senior counsel to Attorney General Alberto Gonzales, testified under immunity that she violated federal law by applying political loyalty tests to career Justice Department positions. A 1999 graduate of Pat Robertson's Regent University Law School, Goodling systematically screened career prosecutors and immigration judges using inappropriate political questions like 'What is it about George W. Bush that makes you want to serve him?' and views on abortion and gay marriage. She discriminated against qualified Republican candidates who weren't conservative enough while favoring less-qualified Regent University graduates. The Justice Department Inspector General's 2008 report found Goodling 'improperly utilized political affiliation and other political considerations when making hiring decisions for career positions' protected by civil service rules. Her politicization created national security vulnerabilities, including rejecting an experienced terrorism prosecutor for counterterrorism detail due to his wife's political affiliations. Goodling was part of 150 Regent University graduates serving in the Bush administration, representing unprecedented ideological capture of the Justice Department.

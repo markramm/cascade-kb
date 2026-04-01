@@ -47,5 +47,4 @@ patterns:
 - technological-intervention
 status: confirmed
 ---
-type: timeline_event
 Following a deadly midair collision near Ronald Reagan Washington National Airport and a NOTAM system outage, Elon Musk proposed implementing rapid safety upgrades to the FAA's air traffic control system via the Department of Government Efficiency (DOGE) and Starlink technology, raising potential conflicts of interest.

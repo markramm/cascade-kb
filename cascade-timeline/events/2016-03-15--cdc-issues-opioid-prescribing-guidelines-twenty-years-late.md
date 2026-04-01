@@ -34,7 +34,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On March 15, 2016, the Centers for Disease Control and Prevention released its first-ever "Guideline for Prescribing Opioids for Chronic Pain"—twenty years after Purdue Pharma launched OxyContin with aggressive marketing based on false addiction claims, and nine years after Purdue's guilty plea to criminal misbranding.
 

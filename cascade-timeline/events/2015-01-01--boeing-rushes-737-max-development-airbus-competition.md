@@ -38,7 +38,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 Boeing accelerated 737 MAX development to a "frenetic" pace during 2015, attempting to deliver the aircraft in approximately four years instead of the decade typically required for new aircraft development. The rushed timeline came as Boeing fell nine months behind Airbus's competing A320neo, which was already accumulating orders. Current and former Boeing employees described the work environment as "go, go, go," with designers and engineers pushed to deliver in about half the normal timeframe for a project of this scale.
 
 The compressed development schedule forced Boeing to take dangerous shortcuts in design, testing, and safety analysis. Rather than properly engineering solutions to the aerodynamic challenges created by the MAX's larger, repositioned engines, Boeing chose to develop the automated MCAS system as a quick fix. The system was designed late in the development process to counteract the aircraft's tendency to pitch up, allowing Boeing to avoid the costly and time-consuming redesign that proper engineering would have required.

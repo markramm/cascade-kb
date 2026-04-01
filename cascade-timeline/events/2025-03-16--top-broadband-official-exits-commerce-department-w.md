@@ -48,7 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Evan Feinman, the director of the Commerce Department’s $42.5 billion Broadband Equity, Access, and Deployment (BEAD) program, resigned in March 2025 with a public warning that the Trump administration was restructuring the program to benefit Elon Musk’s Starlink satellite internet service. Feinman sent a farewell email to colleagues criticizing Starlink and warning that proposed regulatory changes would undermine the program’s original mission of deploying fiber-optic internet to underserved communities. Rolling Stone and Politico reported that Feinman’s warning was unusually blunt for a departing federal official.
 

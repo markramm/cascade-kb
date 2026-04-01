@@ -57,7 +57,6 @@ connections:
 - Publisher exploitation through monopoly
 notes: Retrospectively viewed as one of the worst merger approvals in FTC history. Created vertically-integrated ad monopoly that DOJ would later seek to break up. Commissioner Harbour's dissent proved prescient.
 ---
-type: timeline_event
 
 On April 13, 2008, Google completed its $3.1 billion acquisition of DoubleClick, the dominant online advertising server and ad exchange operator. The merger, approved by the Federal Trade Commission in December 2007, combined Google's search advertising dominance with DoubleClick's display advertising infrastructure—creating what would become an unassailable advertising technology monopoly.
 

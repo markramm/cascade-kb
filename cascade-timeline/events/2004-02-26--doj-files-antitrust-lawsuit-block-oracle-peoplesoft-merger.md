@@ -37,7 +37,6 @@ capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The U.S. Department of Justice filed an antitrust lawsuit on February 26, 2004, seeking to block Oracle Corporation's proposed hostile acquisition of PeopleSoft, alleging that the merger would substantially reduce competition in the enterprise software market and result in higher prices, less innovation, and fewer choices for customers. The DOJ's lawsuit represented a rare federal attempt to prevent market consolidation in the technology sector through antitrust enforcement.
 

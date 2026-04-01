@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 18, 2020, as COVID-19 infections surged across the United States and hospitals faced dire shortages of personal protective equipment, ventilators, and testing supplies, President Donald Trump signed an executive order invoking the Defense Production Act of 1950. However, the invocation was largely symbolic. Trump immediately told reporters he viewed the authority as a "break the glass" measure and hoped he would not need to use it, effectively refusing to compel private manufacturers to produce desperately needed medical supplies. Behind the scenes, the U.S. Chamber of Commerce and major corporate lobbying groups had mounted an aggressive campaign against mandatory production orders, warning the White House that compelling private industry amounted to "nationalization" and would set a dangerous precedent for government intervention in the private sector.
 

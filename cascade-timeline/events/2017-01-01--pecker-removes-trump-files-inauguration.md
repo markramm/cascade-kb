@@ -40,5 +40,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 David Pecker and Dylan Howard remove remaining Trump documents from National Enquirer safe weeks before inauguration, fearing liability, either destroying or relocating files. This action was part of a broader pattern of document management and potential evidence suppression related to Trump's presidential campaign and personal history.

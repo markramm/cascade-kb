@@ -43,7 +43,6 @@ capture_lanes:
 - Media Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Reporting on March 4, 2026 surfaced internal U.S. Immigration and Customs Enforcement data that revealed a dramatic gap between the deportation totals publicly claimed by the Department of Homeland Security and the operational reality of actual physical removals. DHS Secretary Kristi Noem had declared in January 2026 that her department had deported roughly 675,000 people in 2025. Internal ICE data told a sharply different story.
 

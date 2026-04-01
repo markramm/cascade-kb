@@ -55,7 +55,6 @@ capture_lanes:
 - Institutional Capture
 - Surveillance State
 ---
-type: timeline_event
 
 Reporting published on March 4-5, 2026 revealed that the U.S. military had been using Anthropic's Claude AI — embedded in Palantir's Maven Smart System on classified networks — to generate and prioritize strike targets in the U.S.-Israeli military campaign against Iran that began on February 28, 2026. Claude generated approximately 1,000 prioritized targets in the first day of operations alone, synthesizing satellite imagery, signals intelligence, and surveillance feeds in real time to produce target lists with precise GPS coordinates, weapons recommendations, and automated legal justifications for individual strikes.
 

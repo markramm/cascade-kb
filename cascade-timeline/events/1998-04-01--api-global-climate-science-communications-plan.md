@@ -41,7 +41,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 In April 1998, the American Petroleum Institute (API) convened a secret meeting of oil industry executives and public relations consultants to draft the "Global Climate Science Communications Plan." The leaked document reveals a coordinated strategy to manufacture doubt about climate science, making it a defining example of corporate disinformation campaigns.
 

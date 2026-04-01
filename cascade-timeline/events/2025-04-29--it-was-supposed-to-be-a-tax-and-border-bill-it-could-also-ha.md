@@ -44,5 +44,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 A draft bill from the House Judiciary Committee would expand Trump's executive power by curtailing the FTC's antitrust enforcement capabilities, aligning with broader efforts to consolidate presidential control over independent agencies

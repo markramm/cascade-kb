@@ -51,7 +51,6 @@ sources:
 notes: 'Foundation of catch-and-kill operation. Led to McDougal, Sajudin, Daniels payments. Criminal prosecution resulted. Pecker got immunity for testimony.'
 status: confirmed
 ---
-type: timeline_event
 National Enquirer publisher David Pecker meets with Trump, Cohen, and Hope Hicks at Trump Tower, agrees to use tabloid to catch and kill sexual affair allegations against Trump during campaign
 
 In August 2015, shortly after Trump announced his presidential candidacy, David Pecker — publisher of American Media Inc. (AMI) and the National Enquirer — met with Trump, Michael Cohen, and Hope Hicks at Trump Tower. The group reached a verbal agreement, never committed to writing, in which Pecker would serve as the campaign's "eyes and ears," identifying negative stories about Trump, purchasing their exclusive rights, and suppressing them without publication. Pecker later testified it was "just an agreement among friends."

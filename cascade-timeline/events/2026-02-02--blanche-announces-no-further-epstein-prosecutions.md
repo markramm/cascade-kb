@@ -38,7 +38,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Deputy Attorney General Todd Blanche declared on CNN's "State of the Union" that there would be no additional prosecutions related to Jeffrey Epstein, despite the 3.5 million pages of documents released containing references to numerous powerful individuals. Blanche acknowledged the materials contain "disturbing content" including correspondence, emails, and photographs, but stressed they do not meet the threshold for prosecution: "There's a lot of horrible photographs that appear to be taken by Mr. Epstein or people around him, but that doesn't allow us necessarily to prosecute somebody."
 

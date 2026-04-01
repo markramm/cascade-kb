@@ -40,7 +40,6 @@ capture_lanes:
 - Democratic Erosion
 - Military Capture
 ---
-type: timeline_event
 
 On March 18, 2026, the anti-war organization Win Without War placed 168 children's backpacks on the Capitol lawn in Washington, D.C., each one representing a child killed in the U.S. Tomahawk missile strike on the school in Minab, Iran. The memorial came one week after the strike, which had drawn international condemnation and prompted calls for a war crimes investigation from Amnesty International and multiple foreign governments.
 

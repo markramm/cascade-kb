@@ -47,7 +47,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 On December 5, 2012, Elizabeth "Liz" Fowler announced her departure from the White House to join Johnson & Johnson as head of global health policy, completing her third spin through the healthcare industry revolving door. Fowler had served as the chief architect of the Affordable Care Act while working for Senator Max Baucus (D-MT) from 2008-2010, after leaving her position as Vice President for Public Policy at WellPoint, the nation's largest health insurer. After the ACA passed, she moved to the White House as Special Assistant to the President for Healthcare and Economic Policy (2010-2012) to implement the law she had drafted. Senator Baucus himself called Fowler "the architect" of the ACA, while critics noted that to the extent Fowler authored the legislation, "we might as well consider WellPoint its author as well." Her move to Johnson & Johnson—where she would oversee pharmaceutical and medical device lobbying—rewarded Fowler for crafting legislation that expanded insurance coverage while preserving private industry profits and specifically excluding the public option that threatened industry revenue.
 

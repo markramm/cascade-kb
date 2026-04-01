@@ -39,5 +39,4 @@ connections:
 - 'Trump''s Pattern of Personal Infrastructure Modifications'
 - Presidential Property Expansion
 ---
-type: timeline_event
 President Trump announced a $200 million State Ballroom project for the White House, designed as a 90,000 sq ft event space with gold and crystal features, marking the first significant structural addition to the Executive Mansion since the 1948 Truman balcony.

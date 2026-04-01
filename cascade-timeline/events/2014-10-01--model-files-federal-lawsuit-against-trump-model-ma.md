@@ -35,6 +35,5 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Jamaican model Alexia Palmer files federal lawsuit against Trump Model Management seeking class-action status. Palmer's H-1B visa application promised $75,000 per year, but she received only $3,880.75 over three years after agency fees. Court documents reveal systematic exploitation: models charged excessive fees, housed in overcrowded apartments, and prevented from working elsewhere due to 'power of attorney' contracts giving Trump's agency total control.

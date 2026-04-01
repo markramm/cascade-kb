@@ -37,7 +37,6 @@ capture_lanes:
 - Corporate Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Computer programmers Larry Ellison and Robert Miner founded the company that would become Oracle Corporation in 1977 after persuading the CIA to let them pick up a lapsed $50,000 contract to build a special database program. The company takes its name from "Project Oracle," a CIA operation that Ellison worked on. This contract to build relational database software for the Central Intelligence Agency became the foundation of what would grow into one of the world's largest enterprise software companies.
 

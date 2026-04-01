@@ -36,7 +36,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Regulatory Capture
 ---
-type: timeline_event
 
 Research published in February 2025 found that Texas experienced a 50 percent jump in the sepsis rate among women who lost their pregnancies in the second trimester following the state's abortion ban. The study documented that maternal mortality rose 56 percent in Texas in the first full year of the state's abortion ban, with an increase of up to 95 percent among White women.
 

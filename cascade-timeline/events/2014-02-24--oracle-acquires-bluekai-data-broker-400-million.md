@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Oracle Corporation acquired BlueKai, one of the world's largest data brokerage and web tracking companies, on February 24, 2014, for approximately $400 million, significantly expanding Oracle's commercial surveillance capabilities. The acquisition gave Oracle control of one of the largest repositories of web tracking data outside the federal government, with BlueKai maintaining approximately 700 million actionable consumer profiles by 2015.
 

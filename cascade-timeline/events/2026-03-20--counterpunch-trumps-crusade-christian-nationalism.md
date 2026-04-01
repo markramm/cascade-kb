@@ -23,7 +23,6 @@ status: confirmed
 capture_lanes:
 - Church-State Capture
 ---
-type: timeline_event
 
 On March 20, 2026, CounterPunch published an analysis by scholar Henry Giroux examining how crusade imagery had re-entered American public life through the Iran war and the rhetorical practices of the Trump administration. The piece situated Defense Secretary Pete Hegseth's religious framing of the conflict within a longer history of Christian nationalism's relationship to American military power.
 

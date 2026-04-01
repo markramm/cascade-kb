@@ -52,6 +52,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Justice Lewis Powell delivers majority opinion in First National Bank of Boston v. Bellotti (435 U.S. 765), establishing for first time that corporations have First Amendment speech rights to influence ballot initiatives and political campaigns. Powell's 5-4 decision strikes down Massachusetts law restricting corporate political spending, ruling speech protection is "independent of identity of its source" and corporations can discuss "matters of public concern without threat of punishment." Decision implements Powell's 1971 memo strategy of using courts for "social, economic and political change" and creates legal foundation for unlimited corporate political spending later expanded in Citizens United (2010).

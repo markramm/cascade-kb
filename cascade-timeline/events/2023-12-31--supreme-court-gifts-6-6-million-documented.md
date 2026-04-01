@@ -40,7 +40,6 @@ sources:
 notes: Database shows systematic pattern of undisclosed gifts. Thomas received largest share. Pattern shows correlation between gifts and favorable rulings for donors. Scale proves institutional corruption not isolated incidents.
 status: confirmed
 ---
-type: timeline_event
 The nonpartisan judicial accountability organization Fix the Court published a comprehensive database in late 2023 documenting 672 gifts and benefits worth approximately $6.6 million provided to 18 current and former Supreme Court justices between 2004 and 2023. The database, compiled from disclosure forms, investigative reporting, and public records, revealed a systematic pattern of wealthy donors providing justices with luxury travel, exclusive experiences, and other valuable benefits—often with undisclosed or improperly disclosed arrangements.
 
 Justice Clarence Thomas received the largest share of documented gifts, primarily from Texas real estate developer and Republican megadonor Harlan Crow. Thomas's undisclosed benefits included luxury yacht trips, private jet travel, vacations at exclusive resorts, and property transactions involving Thomas's family members. Justice Samuel Alito similarly faced scrutiny for undisclosed luxury travel funded by Republican donors, including a 2008 fishing trip to Alaska with billionaire hedge fund manager Paul Singer, who had cases before the Court at the time of the gift. Additional justices appeared in the database for various travel and hospitality benefits.

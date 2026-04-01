@@ -47,6 +47,5 @@ _merge_timestamp: '2025-09-05T23:46:55.901536'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Qatar gave Donald Trump a $400 million Boeing 747 as a replacement for Air Force One, which Trump plans to keep as part of his presidential library after leaving office. The gift was certified as legal by Attorney General Pam Bondi, herself a former lobbyist for Qatar.

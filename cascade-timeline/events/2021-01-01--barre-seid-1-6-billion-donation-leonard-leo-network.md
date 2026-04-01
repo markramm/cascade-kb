@@ -60,5 +60,4 @@ tags:
 - tax-strategy
 title: Barre Seid Donates $1.6 Billion to Leonard Leo Dark Money Network
 ---
-type: timeline_event
 Billionaire Barre Seid donated $1.6 billion to Leonard Leo's Marble Freedom Trust in one of the largest dark money transfers in U.S. political history. The donation, structured through a sophisticated tax-minimization strategy, involves transferring 100% of Seid's Tripp Lite company shares just before its $1.65 billion sale to Eaton Corporation. This unprecedented financial infusion significantly enhances Leo's ability to influence conservative legal and political networks, potentially saving Seid up to $400 million in taxes while creating a massive war chest for conservative political advocacy.

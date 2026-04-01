@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On July 13-16, 1863, New York City erupts in the largest civil urban disturbance in American history as working-class mobs violently protest the federal draft law that allows wealthy men to avoid military service by paying $300—equivalent to an average worker's annual salary—or hiring substitutes. While all eligible men are entered into a conscription lottery, the exemption provision makes avoiding combat impossible for all but the wealthiest, creating a system where poor men fight while the rich buy their way out. White workers compare their value unfavorably to enslaved people, stating they "are sold for $300 [the draft exemption price] whilst they pay $1000 for negroes," revealing how class resentment intertwines with racism. Democratic Party leaders deliberately inflame tensions by raising the specter of emancipated enslaved people flooding New York and competing for jobs, while anti-abolitionist newspaper articles written by Confederate supporters encourage class resentment and racial hatred among Irish immigrants. The riots result in at least 119-120 deaths officially, though reliable estimates indicate at least 2,000 injured, with property damage totaling $1-5 million and some 3,000 Black residents rendered homeless.
 

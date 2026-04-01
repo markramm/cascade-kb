@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Senate Banking Committee Chairman Richard Shelby (R-AL) became instrumental in advocating for the Financial CHOICE Act, legislation aimed at significantly restructuring financial regulation by repealing major parts of the Dodd-Frank Wall Street Reform and Consumer Protection Act. Shelby, who had served on the Banking Committee since 1989 and became the longest-serving member in its history, made "regulatory relief and financial regulation reform his top priority" throughout his committee chairmanship. His advocacy exemplified how Banking Committee leadership systematically worked to dismantle post-2008 crisis reforms on behalf of the financial sector.
 

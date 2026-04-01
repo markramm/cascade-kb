@@ -43,7 +43,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Apple announced that iOS 8 implements encryption so strong that the company itself cannot unlock iPhones or iPads, even when presented with a valid search warrant. This represented a dramatic escalation in the encryption debate and a direct response to NSA surveillance revelations, fundamentally changing the power dynamic between tech companies and government surveillance.
 

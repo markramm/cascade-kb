@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 11, 2026, the No Kings Coalition publicly announced March 28 as the date for its third nationwide day of protest, with organizers targeting close to 9 million participants and describing it as potentially the largest single day of protest in American history.
 

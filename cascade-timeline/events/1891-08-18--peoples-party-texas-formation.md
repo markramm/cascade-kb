@@ -33,7 +33,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 The People's Party formally organizes in Dallas on August 18, 1891, following years of escalating frustration among Farmers' Alliance members who conclude that traditional parties are too attached to corporate interests and political office perks to be effective agents of reform. The Texas formation follows industrial conferences held in Cincinnati, Ohio (May 1891) and precedes the national convention in St. Louis (February 1892), marking a pivotal moment when agrarian and labor movements abandon efforts to work within the two-party system and launch an independent political organization. The party emerges from an unlikely alliance of rural farmers and urban industrial laborers united by opposition to railroad monopolies, banking interests, and the gold standard—representing the most significant challenge to corporate capture of American democracy since the Civil War.
 

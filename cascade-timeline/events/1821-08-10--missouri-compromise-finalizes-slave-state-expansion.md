@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 Missouri became the 24th state on August 10, 1821, after Congress resolved a constitutional crisis over the state's attempt to exclude free Black citizens. The original Missouri Compromise of March 1820 had admitted Missouri as a slave state paired with Maine as a free state, drawing a line at 36°30′ to prohibit slavery in remaining Louisiana Purchase territories. However, when Missouri's constitutional convention empowered the legislature to bar free Blacks and mulattoes from entering the state, northern congressmen objected that this violated the Constitution's privileges and immunities clause. Henry Clay engineered the Second Missouri Compromise requiring Missouri to pledge never to interpret the exclusionary clause to abridge citizens' constitutional rights—though this proved meaningless in practice.
 

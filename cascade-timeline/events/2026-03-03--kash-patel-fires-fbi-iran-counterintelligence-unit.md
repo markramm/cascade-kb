@@ -39,7 +39,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 FBI Director Kash Patel fired approximately a dozen agents and staff members from the bureau's CI-12 counterintelligence unit -- a squad whose work included monitoring Iranian threats to U.S. national security -- just days before the United States launched strikes against Iran. The firings were motivated not by performance concerns but by retaliatory logic: each terminated employee had previously worked on the investigation of Donald Trump's alleged retention of classified documents at his Mar-a-Lago estate.
 

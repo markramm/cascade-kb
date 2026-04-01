@@ -40,6 +40,5 @@ sources:
 notes: Contract was terminated April 18, just over a week after competitor Nathan Young filed objection. Company was the only one invited by DHS to submit a proposal, violating competitive bidding requirements. Executives' history of fabricating evidence raised serious integrity concerns.
 status: confirmed
 ---
-type: timeline_event
 
 ICE terminated a $72.9 million no-bid contract with Universal Strategic Advisors after competitor protests exposed "improper influence" in securing the deal. The company's executives, Brian DeMore and David Marin, were previously sued for fabricating criminal evidence while at DHS. The contract was awarded without competition under "emergency" conditions, with the company having only one prior federal contract worth $1 million. Former ICE official Timothy Robbins, who worked under border czar Tom Homan, was CEO until March.

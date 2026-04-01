@@ -47,7 +47,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 On September 4, 1872, the New York Sun published a blockbuster exposé under the headline "The King of Frauds," revealing a massive corruption scheme involving Union Pacific Railroad executives, a dummy construction company called Credit Mobilier of America, and approximately one dozen influential congressmen. This scandal marked the birth announcement of what would become known as the Gilded Age—an era of systematic political corruption and corporate malfeasance that would define late 19th century America.

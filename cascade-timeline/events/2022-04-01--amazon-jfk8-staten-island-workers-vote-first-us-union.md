@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 # Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
 

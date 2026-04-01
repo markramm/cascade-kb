@@ -39,7 +39,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 On November 30, 1965, attorney Ralph Nader published "Unsafe at Any Speed: The Designed-In Dangers of the American Automobile," a meticulously researched indictment of the auto industry's prioritization of styling and profits over passenger safety. The book documented how manufacturers knowingly designed and sold vehicles with lethal defects while actively resisting safety improvements and suppressing internal safety research.
 

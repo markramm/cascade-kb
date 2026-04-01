@@ -34,7 +34,6 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: timeline_event
 
 Mississippi becomes the first Southern state to enact comprehensive Black Codes, creating a legal framework to re-enslave freed people through criminalization. The laws include draconian vagrancy statutes allowing arrest of any African American without a written labor contract, apprenticeship provisions forcibly binding Black children to white "employers" (usually former enslavers), and prohibitions on property ownership, carrying weapons, and assembly.
 

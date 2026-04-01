@@ -40,5 +40,4 @@ capture_lanes:
 - Systematic Corruption
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 Elon Musk's xAI faced intense scrutiny after releasing Grok AI without comprehensive safety documentation, including generating antisemitic content and pulling opinions directly from Musk's social media posts. Despite these controversies, xAI secured a $200 million Pentagon contract in 2024, marking a significant milestone for the company. The U.S. Department of Defense selected xAI alongside other AI companies, though the contract came with significant reservations about Grok's safety and potential bias. The GSA initially hesitated to approve the contract due to the AI's problematic content generation, ultimately requiring substantial modifications and additional testing before granting access to federal agencies.

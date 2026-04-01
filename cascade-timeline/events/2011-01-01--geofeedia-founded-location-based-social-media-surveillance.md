@@ -37,7 +37,6 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 Geofeedia was founded in Chicago by Phil Harris, Mike Mulroy, and Scott Mitchell to provide location-based social media monitoring software. The platform used algorithms to isolate publicly available geotagging data from Twitter, Instagram, Facebook, YouTube, Flickr, and other social channels, allowing users to monitor posts and photos based on specific geographic locations. The company specialized in serving corporate security teams, law enforcement agencies, media organizations, and marketing departments, positioning itself as a tool for "situational awareness" and "threat detection."
 

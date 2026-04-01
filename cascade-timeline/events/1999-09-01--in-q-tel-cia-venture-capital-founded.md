@@ -38,7 +38,6 @@ capture_lanes:
 - Corporate Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 In September 1999, the Central Intelligence Agency established In-Q-Tel (IQT), a groundbreaking not-for-profit venture capital firm designed to bridge Silicon Valley innovation with intelligence community needs. The initiative was championed by CIA Director George Tenet, who recognized that traditional government procurement processes were too slow to keep pace with rapid technological advancement in the private sector.
 

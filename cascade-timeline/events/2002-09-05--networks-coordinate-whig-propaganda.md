@@ -45,6 +45,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Television network booking coordinators across CNN, NBC, CBS, and Fox News implement coordinated scheduling to facilitate White House Iraq Group's synchronized propaganda rollout for September 8, 2002. Senior booking producers receive direct White House communications staff coordination to ensure maximum coverage of administration officials delivering identical 'smoking gun/mushroom cloud' messaging. Network booking departments abandon competitive scheduling practices to serve WHIG propaganda distribution goals, with coordinated placement of Condoleezza Rice on CNN, Dick Cheney on NBC's Meet the Press, and George W. Bush on CBS Early Show. Internal booking communications reveal systematic abandonment of journalistic independence, with coordinators explicitly instructed to avoid booking Iraq experts or critics who might challenge administration claims. The coordinated booking operation demonstrates institutional capture of television news by government propaganda apparatus, with corporate media serving as willing distributors rather than independent investigators. This systematic coordination established dangerous precedents for state-media collaboration in manufacturing public consent for military intervention based on fabricated intelligence.

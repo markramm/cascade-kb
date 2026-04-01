@@ -41,7 +41,6 @@ capture_lanes:
 - Media Capture & Control
 - Systematic Corruption
 ---
-type: timeline_event
 
 Georgia Secretary of State Brian Kemp refuses to recuse himself from overseeing the 2018 gubernatorial election despite being the Republican candidate, creating an extraordinary conflict of interest. While running against Democrat Stacey Abrams, Kemp maintains control over voter registration, ballot counting, voting machine allocation, and election certification—using his position to implement policies that suppress likely Democratic voters in his own race.
 

@@ -34,5 +34,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 SEC's Division of Enforcement experienced a significant shift in enforcement strategy, with total actions dropping 26% from fiscal year 2023 to fiscal year 2024. After reaching a near-record high of 784 total actions in FY 2023 with nearly $5 billion in monetary recoveries, the agency saw a notable decline to 583 actions in FY 2024, potentially signaling changes in regulatory approach and industry engagement.

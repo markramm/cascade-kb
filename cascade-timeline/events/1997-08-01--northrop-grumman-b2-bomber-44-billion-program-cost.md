@@ -39,7 +39,6 @@ capture_lanes:
 - Legislative Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The U.S. Air Force's B-2 Spirit stealth bomber program, built by Northrop Grumman, reached a staggering total program cost of $44.389 billion in then-year dollars by 1997, according to Government Accountability Office reports. This represented a dramatic escalation from original estimates and made the B-2 the most expensive aircraft program in history, with a per-unit cost of approximately $2.13 billion when development, procurement, and support costs were averaged across the final fleet of 21 aircraft.
 

@@ -27,7 +27,6 @@ capture_lanes:
 - Institutional Capture
 - Media Manipulation
 ---
-type: timeline_event
 
 Former CNN host Don Lemon was arrested in Beverly Hills, California on January 30, 2026, on federal charges stemming from a grand jury indictment. The charge: **conspiracy against religious freedom**.
 

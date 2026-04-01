@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 President Franklin D. Roosevelt signs the Hatch Act on August 2, 1939, after Senator Carl Hatch (D-NM) introduces legislation prohibiting federal civil service employees from engaging in partisan political activities, following widespread allegations that local Democratic politicians used Works Progress Administration (WPA) employees for electoral purposes during the 1938 congressional elections. The Act forbids intimidation or bribery of voters, restricts political campaign activities by federal employees, prohibits using public relief or public works funds for electoral purposes, and bans officials paid with federal funds from using promises of jobs, promotions, contracts, or other benefits to coerce campaign contributions or political support. Roosevelt reluctantly signs the legislation on the last day possible, recognizing it as an attack on his New Deal coalition and his unsuccessful 1938 attempt to purge conservative Democrats from the party.
 

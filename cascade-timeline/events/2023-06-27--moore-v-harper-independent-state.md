@@ -43,6 +43,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Supreme Court rejected dangerous "independent state legislature" theory in Moore v. Harper with 6-3 decision, preserving state courts' ability to review federal election laws under state constitutions. Theory would have given state legislatures unchecked power over federal elections without judicial review. Decision maintained crucial checks and balances on state legislatures' power, preventing legislatures from overriding state constitutions or courts in setting federal election rules. Victory for democracy prevented potential chaos in election administration.

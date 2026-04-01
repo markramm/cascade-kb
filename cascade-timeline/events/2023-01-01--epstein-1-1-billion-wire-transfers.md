@@ -37,6 +37,5 @@ sources:
 notes: Massive financial flows correlated with international trafficking operations
 status: confirmed
 ---
-type: timeline_event
 
 Treasury Department records obtained by Senator Ron Wyden reveal $1.1 billion in wire transfers through just one Epstein account, with "hundreds of millions" flowing through now-sanctioned Russian banks, appearing "correlated to the movement of women or girls around the world."

@@ -42,7 +42,6 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: timeline_event
 
 Sam Bankman-Fried is arrested in the Bahamas at the request of U.S. prosecutors and charged with eight criminal counts including wire fraud, securities fraud, commodities fraud, money laundering, and campaign finance law violations. The indictment alleges Bankman-Fried orchestrated a scheme to defraud FTX equity investors and customers, misappropriating billions in customer deposits. Prosecutors charge that he used tens of millions of dollars in misappropriated customer funds to make illegal political donations to both Democratic and Republican candidates to influence cryptocurrency industry regulation.
 

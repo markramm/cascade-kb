@@ -34,7 +34,6 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: timeline_event
 
 Education Secretary Betsy DeVos announced on June 14, 2017, that she would delay implementation of Obama-era "borrower defense to repayment" regulations scheduled to take effect on July 1, 2017—rules designed to help students defrauded by predatory colleges like Corinthian and ITT Tech obtain loan forgiveness. DeVos claimed the regulations offered "free money" and needed revision, effectively freezing relief for tens of thousands of students with pending claims while she rewrote rules to favor for-profit colleges.
 

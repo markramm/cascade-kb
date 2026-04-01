@@ -40,7 +40,6 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Roosevelt signs the Emergency Conservation Work Act on March 31, 1933, creating the Civilian Conservation Corps (CCC) as a public work relief program providing employment to young men aged 18-25 from unemployed families. The CCC becomes one of the most popular New Deal programs, eventually employing over 3 million young men who plant 3 billion trees, construct trails and shelters in more than 800 parks nationwide, and complete conservation projects across federal and state lands. Roosevelt considers the CCC a personal triumph, combining his interests in conservation with direct relief for the unemployed.
 

@@ -42,7 +42,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Bayer AG completed its $63 billion acquisition of Monsanto after receiving antitrust approval from U.S. and European regulators, consolidating the agricultural seeds and chemicals industry from the "Big Six" into a "Big Four" oligopoly controlling over 60% of global seed sales and 70% of agrochemicals. The merger, combined with simultaneous ChemChina-Syngenta and Dow-DuPont consolidations, dramatically increased market concentration in inputs critical to global food production.
 

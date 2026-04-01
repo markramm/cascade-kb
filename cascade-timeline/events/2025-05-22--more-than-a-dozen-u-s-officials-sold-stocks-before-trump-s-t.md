@@ -51,5 +51,4 @@ capture_lanes:
 - Intelligence Penetration
 - Financial Capture
 ---
-type: timeline_event
 Trump hosted a black-tie gala for 220 top memecoin investors at his Virginia golf club, with attendees having spent a combined $148 million on the token. The event raised significant ethical concerns due to the majority of top investors being from foreign exchanges, potentially circumventing US regulations.

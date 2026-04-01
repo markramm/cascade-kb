@@ -44,5 +44,4 @@ sources:
 notes: 'Total of $4M flowed through account 2017-2018. Vekselberg questioned by Mueller. Companies claimed seeking "insights" into administration. Shows shell company evolution from hush money to foreign influence vehicle. Companies paid despite minimal services: Novartis terminated contract after one meeting, others continued payments.'
 status: confirmed
 ---
-type: timeline_event
 Cohen's shell company Essential Consultants receives complex network of payments: $500,000 from Columbus Nova linked to Russian oligarch Vekselberg, $1.2M from Novartis, $200k from AT&T, and $150,000 from Korea Aerospace Industries, turning hush money vehicle into a multi-million dollar influence peddling operation

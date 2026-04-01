@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 On January 24, 2022, rock legend Neil Young published an open letter to Spotify demanding the platform remove his music catalog, citing Joe Rogan's podcast as a primary vehicle for spreading COVID-19 vaccine misinformation. Young gave Spotify an ultimatum: "They can have Rogan or Young. Not both." Spotify, which had signed Joe Rogan to an exclusive deal worth an estimated $100-200 million in 2020, chose to keep Rogan and removed Young's music within days. Young had built his catalog over more than five decades, but the platform prioritized its most expensive contract over the protest of one of rock music's most respected voices.
 
 Young's protest triggered a broader artist exodus. Joni Mitchell removed her music shortly after Young's departure, and India.Arie followed, posting clips of Rogan using racial slurs that deepened the controversy. Spotify's stock fell approximately $2 billion in market value in the days following the backlash. The episode forced Spotify to add content advisories to podcast episodes discussing COVID-19 and to remove dozens of episodes of The Joe Rogan Experience, though Rogan's contract remained intact. Spotify CEO Daniel Ek defended the decision, stating the company did not want to be an arbiter of truth while acknowledging some Rogan content did not meet their standards.

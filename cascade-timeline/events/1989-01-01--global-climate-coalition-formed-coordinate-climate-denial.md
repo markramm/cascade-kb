@@ -136,7 +136,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 
 In 1989, major fossil fuel and automobile companies formed the Global Climate Coalition (GCC), an industry front group that would spend over a decade blocking international climate action while publicly claiming the science was uncertain. Internal documents later revealed the coalition's own scientists had confirmed climate change was real and human-caused even as the organization publicly denied it.

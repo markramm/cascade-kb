@@ -52,6 +52,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Trump signed executive order "Ensuring Accountability for All Agencies" requiring independent agencies like FTC, SEC, and FCC to submit regulations for White House review, effectively ending 90 years of agency independence and bringing them under direct presidential control.

@@ -68,7 +68,6 @@ capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 11, 2026, CNN, Time, and the Washington Post published corroborating investigations concluding that the United States was likely responsible for a devastating strike on the Shajareh Tayyiba girls' elementary school in Minab, Hormozgan Province, southern Iran, which occurred on February 28, 2026 -- the first day of Operation Epic Fury. More than 170 people were killed in the strike, the vast majority of them schoolchildren attending morning classes when the missile hit.
 

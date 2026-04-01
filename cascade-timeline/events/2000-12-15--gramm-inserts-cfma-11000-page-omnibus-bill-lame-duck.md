@@ -45,7 +45,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 In the early evening of Friday, December 15, 2000, with Christmas recess only hours away and the presidential election still unresolved, the U.S. Senate rushes to pass an essential 11,000-page government reauthorization bill. Senator Phil Gramm of Texas inserts a complex 262-page amendment - the Commodity Futures Modernization Act - at the last minute, in what one legal textbook would later call "a stunning departure from normal legislative practice."
 

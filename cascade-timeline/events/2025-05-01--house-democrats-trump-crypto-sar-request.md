@@ -44,5 +44,4 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 House Democrats filed formal request for all Suspicious Activity Reports related to Trump's cryptocurrency ventures, citing concerns about deceptive practices, potential bribery, corruption, and illicit foreign influence through blockchain transactions worth hundreds of millions from foreign nationals.

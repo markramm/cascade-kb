@@ -39,5 +39,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Military-Industrial Complex
 ---
-type: timeline_event
 A Connecticut jury awarded $965 million in damages to families of Sandy Hook victims, representing the largest defamation verdict against conspiracy theorist Alex Jones. The landmark decision stemmed from Jones' repeated false claims that the 2012 school shooting was a 'hoax', causing significant emotional distress to victims' families who endured years of harassment and threats. This verdict marked a critical moment in holding media personalities accountable for spreading harmful misinformation.

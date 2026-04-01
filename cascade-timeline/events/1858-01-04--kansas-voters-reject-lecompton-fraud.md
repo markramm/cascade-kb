@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Kansas voters rejected the fraudulent Lecompton Constitution by an overwhelming margin of 10,226 to 138 on January 4, 1858, in a referendum that exposed the pro-slavery document's lack of popular support. The constitution had been drafted by a pro-slavery territorial legislature that consisted mainly of enslavers due to widespread electoral fraud from Missouri Border Ruffians in the March 1855 election. When pro-slavery factions held a constitutional convention in Lecompton in 1857 without congressional authority and aided by thousands of illegal Missouri votes, Free-State supporters representing the actual majority of Kansas settlers boycotted the proceedings. The decisive 10,226 to 138 rejection margin suggested that Free-State supporters overwhelmingly outnumbered the pro-slavery element and that Lecompton's previous popularity at the polls was the product of "nefarious voting practices."
 

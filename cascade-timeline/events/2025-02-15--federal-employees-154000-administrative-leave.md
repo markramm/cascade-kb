@@ -72,7 +72,6 @@ _merge_timestamp: '2025-09-05T23:46:55.902216'
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 The Trump administration's Deferred Resignation Program resulted in approximately 154,000 federal employees accepting buyouts and being placed on paid administrative leave as of mid-February 2025, according to administration and press reports. The program, which the administration had offered to federal workers via email in early February 2025, promised full pay and benefits through late September 2025 in exchange for employees agreeing to leave government service. The White House initially claimed approximately 75,000 workers had accepted, but subsequent reporting indicated the actual number was considerably higher.
 
 Courts temporarily paused the program after federal unions filed suit, arguing it was illegal because Congress had not appropriated funds for the buyouts and the administration lacked authority to offer them without legislative approval. A federal judge allowed the program to proceed after the administration argued the payments would come from existing agency budgets. The combination of the deferred resignation program and approximately 59,000 direct terminations across agencies represented an unprecedented exodus of career civil servants, many with decades of institutional knowledge and specialized expertise.

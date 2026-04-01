@@ -32,7 +32,6 @@ sources:
   tier: 2
   date: '2024-01-01'
 ---
-type: timeline_event
 
 National Association of Manufacturers Executive Vice President Charles R. Sligh Jr. delivers speeches in late 1958 calling for businessmen to become more involved in politics to build a "conservative coalition," including presentations titled "This Is Public Affairs for the Businessman" (December 5, 1958) and "Like It or Not, We're in Politics" (October 31, 1958). By the late 1950s, following the Republican electoral losses of 1958, Sligh begins systematically exhorting businessmen to increase political engagement as NAM's rhetoric becomes increasingly identified with conservatism. The speeches mark a strategic pivot for NAM toward explicit political mobilization of the business community, thirteen years before the Powell Memo supposedly awakens corporate political consciousness.
 

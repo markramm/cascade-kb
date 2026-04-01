@@ -32,7 +32,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: timeline_event
 
 President Rutherford B. Hayes signs the Posse Comitatus Act into law on June 18, 1878, restricting the use of federal military personnel to enforce domestic law. Passed as an amendment to an army appropriations bill following the end of Reconstruction, the Act prohibits using the Army, Navy, Marine Corps, Air Force, or Space Force "as a posse comitatus or otherwise to execute the laws" except when "expressly authorized by the Constitution or Act of Congress," with violations punishable by fine or up to two years imprisonment. While framed as a response to "abuses resulting from the extensive use of the army in civil law enforcement during the Civil War and the Reconstruction," the Act's practical effect is to ensure that the federal government cannot use military force to protect Black voting rights or prevent white supremacist terrorism in the South.
 

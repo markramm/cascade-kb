@@ -39,7 +39,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 Just three days after her appointment as EDVA U.S. Attorney, Lindsey Halligan indicted former FBI Director James Comey on two federal counts:
 

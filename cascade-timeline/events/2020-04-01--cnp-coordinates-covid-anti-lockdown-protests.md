@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 In April 2020, CNP Action (the 501(c)(4) affiliate of the Council for National Policy) began hosting weekly conference calls to coordinate conservative response tactics to the COVID-19 pandemic, mobilizing Tea Party-like protests against virus-related public safety lockdowns in swing states.
 
 The coordination effort demonstrated CNP's power as a command-and-control hub for the conservative movement. CNP Action organized weekly calls with conservative figures to promote anti-lockdown protests and publish action memos around reopening states' economies, working alongside close allies who helped coordinate the on-the-ground protests.

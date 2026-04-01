@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Tuscarora Nation formally joins the Haudenosaunee Confederacy, transforming the Five Nations into the Six Nations. Following the Tuscarora War (1711-1715) in North Carolina, where European colonists and allied tribes devastated the Tuscarora, survivors migrated northward seeking protection. The Five Nations—Mohawk, Oneida, Onondaga, Cayuga, and Seneca—admitted the Tuscarora as "younger brothers" under the Great Law of Peace (Gayanashagowa), the Haudenosaunee constitution established centuries earlier (scholars date it between 1142 and 1450 CE).
 

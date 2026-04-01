@@ -34,6 +34,5 @@ status: confirmed
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The DOJ served the Federal Reserve with grand jury subpoenas related to Chairman Jerome Powell's June 2025 Senate testimony about the Fed headquarters renovation project costs. Powell issued an unprecedented video statement saying he was under criminal investigation and would not bow to intimidation: "The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President." Federal Housing Finance Agency Director Bill Pulte was identified as a key instigator behind the investigation, having urged Congress for months to probe Powell over "political bias." Treasury Secretary Bessent reportedly told Trump the investigation "made a mess" and could harm financial markets.

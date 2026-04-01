@@ -41,7 +41,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 A federal jury convicts Theranos founder Elizabeth Holmes on one count of conspiracy to commit investor fraud and three counts of wire fraud involving over $140 million in investments. The conviction follows a nearly four-month trial where prosecutors presented testimony from 29 witnesses demonstrating Holmes intentionally deceived investors about Theranos' blood-testing technology capabilities. Holmes was acquitted on patient-related fraud counts, with jurors deadlocking on three additional investor fraud counts.
 

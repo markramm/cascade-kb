@@ -52,5 +52,4 @@ sources:
 notes: 'Event highlights the dangerous intersection of celebrity influence and medical misinformation during the COVID-19 pandemic. Over 270 medical professionals signed an open letter to Spotify criticizing Rogan''s platform for spreading unverified medical claims.'
 status: confirmed
 ---
-type: timeline_event
 Podcaster Joe Rogan revealed he contracted COVID-19 and treated himself with ivermectin, a veterinary anti-parasitic drug not approved for COVID treatment, amplifying dangerous medical misinformation to his massive audience of 11 million listeners. The incident led to significant public health criticism and artist protests against Spotify for platforming potentially harmful medical advice.

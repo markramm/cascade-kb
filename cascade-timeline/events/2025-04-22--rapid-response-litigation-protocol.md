@@ -34,5 +34,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 Legal resistance networks, including Lawyers for Good Government (L4GG) and Democracy Forward, establish a comprehensive rapid response protocol for challenging unconstitutional administrative actions. The protocol includes 24-hour emergency legal review, pre-prepared litigation templates, and a coordinated media strategy to support constitutional challenges. Key focus areas include defending federal funding, protecting immigrant rights, challenging mass deportations, and preserving civil liberties.

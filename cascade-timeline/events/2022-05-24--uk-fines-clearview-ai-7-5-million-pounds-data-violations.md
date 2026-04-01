@@ -36,7 +36,6 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 The UK's Information Commissioner's Office (ICO) fined Clearview AI £7.5 million for breaching UK data protection rules by creating an online database of over 20 billion images of people's faces collected from publicly available sources on the internet and social media without informing individuals their images were being collected or used. The fine represented a reduction from the £17 million penalty the ICO initially announced in its provisional notice in November 2021, following joint investigation with Australian privacy authorities under the Privacy Act and UK Data Protection Act 2018.
 

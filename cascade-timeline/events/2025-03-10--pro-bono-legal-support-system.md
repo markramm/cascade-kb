@@ -35,6 +35,5 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-type: timeline_event
 
 Legal resistance network launches comprehensive pro bono support system, creating a centralized platform to match constitutional rights cases with volunteer attorneys. The system includes case tracking, resource sharing, and financial support mechanisms for critical litigation, leveraging national networks like Pro Bono Net and the Legal Services Corporation to expand access to justice.

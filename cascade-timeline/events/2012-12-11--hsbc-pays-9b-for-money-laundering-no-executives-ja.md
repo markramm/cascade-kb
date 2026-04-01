@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 HSBC paid $1.9 billion for laundering money for Mexican drug cartels and violating sanctions against Iran, Libya, Sudan, and Cuba, but no executives faced criminal charges despite overwhelming evidence of intentional wrongdoing. The bank laundered at least $881 million for the Sinaloa and Norte del Valle cartels, with drug lords depositing hundreds of thousands daily. HSBC's Mexican affiliate transported $7 billion in cash to the U.S. between 2007-2008 in armored vehicles. Internal communications showed executives knew they were processing drug money but continued for profits. Assistant Attorney General Lanny Breuer said prosecuting HSBC could cause a 'global financial disaster,' establishing the too-big-to-jail precedent. The deferred prosecution agreement allowed HSBC to avoid criminal conviction. Breuer returned to Covington & Burling, which represented HSBC, earning $4 million his first year back. This case established that banks could commit massive felonies with only financial penalties.

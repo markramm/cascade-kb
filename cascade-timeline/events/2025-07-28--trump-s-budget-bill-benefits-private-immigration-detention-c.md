@@ -39,7 +39,6 @@ _merge_timestamp: '2025-09-05T23:46:55.901706'
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Trump's "Big Beautiful Bill" — the sweeping budget and tax legislation passed by the Republican-controlled Congress in mid-2025 — allocated $45 billion for ICE immigration detention facilities, with portions of those contracts expected to flow to CoreCivic and GEO Group, the two largest private prison and detention companies in the United States. Citizens for Ethics (CREW) documented that both companies had donated to Trump's campaign and political causes. The Intercept reported in July 2025 that "The Private Prison Industry Looks Forward to Soaring Profits Thanks to Trump's Budget," describing how the detention funding windfall would dramatically increase revenues for companies whose business model depended on government contracts for incarcerating people.
 
 The Brennan Center for Justice published analysis documenting that the budget bill's detention funding represented a "massive increase" over prior funding levels, designed to dramatically expand ICE's detention capacity as part of the administration's mass deportation initiative. The funding would allow ICE to detain hundreds of thousands of people simultaneously — far beyond the agency's prior capacity — with the expanded capacity primarily housed in private detention facilities operated by CoreCivic and GEO Group. Both companies had lobbied extensively for the expanded detention system and had cultivated political relationships with the Trump administration.

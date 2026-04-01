@@ -48,6 +48,5 @@ sources:
 notes: Landmark Supreme Court decision enabling unprecedented federal workforce reduction
 status: confirmed
 ---
-type: timeline_event
 
 In a controversial 8-1 decision, the Supreme Court lifted lower court injunctions blocking the Trump administration's mass firing plans, enabling reductions of up to 50% in 19 federal agencies. The ruling temporarily permits widespread federal workforce terminations, with Justice Ketanji Brown Jackson warning of 'mass employee terminations' and 'widespread cancellation of federal programs and services'.

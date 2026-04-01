@@ -35,7 +35,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Corporate Capture
 ---
-type: timeline_event
 
 General Motors' engine plant in Flint stops using city water after discovering it is corroding engine parts, switching to Lake Huron water from a neighboring township at an anticipated cost to the city of $400,000. GM reports that the super-high levels of chloride in Flint River water are causing corrosion when they come in contact with metal components. "The water was rusting the [engine] blocks," says Dan Reyes, president of UAW Local 599, which represents the plant's nearly 900 workers.
 

@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 # Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
 

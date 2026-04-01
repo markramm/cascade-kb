@@ -32,7 +32,6 @@ capture_lanes:
 - Democratic Backsliding
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 18, 2026, the Varieties of Democracy (V-Dem) Institute at the University of Gothenburg released its annual Democracy Report, which stripped the United States of its classification as a "liberal democracy" — downgrading it to an "electoral democracy." The report documented a 24 percent decline in the country's Liberal Democracy Index score in a single year, the steepest one-year drop for any established democracy in V-Dem's dataset, and described the American decline as "unprecedented in modern history."
 

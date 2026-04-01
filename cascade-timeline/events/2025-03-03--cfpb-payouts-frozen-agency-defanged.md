@@ -46,5 +46,4 @@ notes: Hundreds of millions in consumer protection settlements frozen due to age
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 The Trump administration effectively paralyzed the Consumer Financial Protection Bureau (CFPB) in March 2025, freezing hundreds of millions in consumer protection payouts and halting dozens of ongoing corporate investigations. Under Acting Director Russell Vought, the agency's headquarters was shuttered and staff were instructed to cease all work, putting consumer restitution from major financial firms like Navient, Block, and TD Bank at risk.

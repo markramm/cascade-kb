@@ -46,7 +46,6 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 4, 2026, newly released data from the U.S. Office of Personnel Management confirmed that the federal civilian workforce had shrunk by 12% between September 2024 and January 2026 — a net reduction of 277,872 employees, from a headcount of 2,313,216 to 2,035,344. The figure represented the largest proportional reduction in the federal civilian workforce since post-World War II demobilization. Reporting on the same data also cited a gross figure of 386,826 total workers who had exited government employment across the period, with the difference attributable to new hires partially offsetting losses.
 

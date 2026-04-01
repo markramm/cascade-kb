@@ -24,7 +24,6 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 17, 2026, Citizens for Responsibility and Ethics in Washington (CREW) president Donald Sherman testified before the House Foreign Affairs Committee that President Trump's second term had been "marked by conflicts of interest and corruption that weaken the government's ability to stop waste, fraud and abuse and put U.S. national security at risk." The testimony represented the most comprehensive accounting to date of the scale and scope of presidential corruption in the current administration.
 

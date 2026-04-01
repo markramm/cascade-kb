@@ -39,7 +39,6 @@ capture_lanes:
 - Environmental Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 19, 2026, a coalition of 24 states, 10 cities, and 5 counties filed suit in the D.C. Circuit Court of Appeals challenging the Trump EPA's repeal of the 2009 endangerment finding — the foundational scientific determination that greenhouse gas emissions endanger public health and welfare. The lawsuit represented the second major legal challenge to the repeal and the largest coalition of government plaintiffs assembled against the administration's environmental agenda.
 

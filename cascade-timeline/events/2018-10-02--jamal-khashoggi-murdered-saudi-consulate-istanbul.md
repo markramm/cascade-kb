@@ -46,7 +46,6 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 On October 2, 2018, Jamal Khashoggi, a 59-year-old Saudi dissident journalist living in Virginia and writing for the Washington Post, is murdered inside the Saudi consulate in Istanbul, Turkey. Khashoggi enters the consulate at approximately 1:14 PM to obtain official documents for his upcoming wedding. He never leaves alive.
 

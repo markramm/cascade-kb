@@ -46,6 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Senate Appropriations Committee votes 26-1 to reject House's 48% GAO budget cut, approving $812M (current level) vs House's $414M. Dodaro warned House cuts would eliminate 2,220 employees (63% of workforce). 30 good-government groups opposed cuts. GAO has 39 pending impoundment investigations, found 2 Trump violations.

@@ -35,7 +35,6 @@ capture_lanes:
 - Democratic Erosion
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 11, 2026, a coalition of 17 state attorneys general filed a legal challenge against the Department of Education's "Admissions and Consumer Transparency Supplement," a directive requiring colleges and universities to compile and submit seven years of detailed admissions data broken down by race, gender, and household income. The mandate carried an initial compliance deadline of March 18, with institutions that failed to respond risking the loss of federal student aid eligibility.
 

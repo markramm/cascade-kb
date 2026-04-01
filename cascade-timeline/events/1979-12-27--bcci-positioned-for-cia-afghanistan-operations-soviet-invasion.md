@@ -47,6 +47,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The Soviet invasion of Afghanistan creates strategic opportunity for BCCI to become primary financial conduit for CIA covert operations. BCCI's existing relationships with Pakistan's ISI, General Zia ul-Haq, and presence in regional banking markets position it perfectly to handle the billions in secret US aid to Afghan mujahideen. The bank begins serving as a financial bridge between CIA operations, Pakistani intelligence, and weapons trafficking networks. BCCI's regulatory evasion structure across multiple jurisdictions enables untraceaable money flows for Operation Cyclone. This marks BCCI's transformation from criminal banking network to essential infrastructure for US intelligence operations, demonstrating how geopolitical crises enable systematic corruption to expand under national security justifications. Covert funding began with $695,000 in mid-1979, rapidly increasing to $20-$30 million per year by 1980, and eventually reaching $630 million annually by 1987.

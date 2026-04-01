@@ -40,6 +40,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Private prison companies CoreCivic and GEO Group saw their stock prices surge 100% and 98% respectively after donating nearly $2.8 million to Trump's campaign and inauguration. Attorney General Jeff Sessions immediately reversed Obama's order to phase out private prisons, declaring 'this will restore BOP's flexibility.' The companies secured $45 billion in detention contracts as the administration implemented family separation policies that increased detention needs. GEO Group moved its annual conference to Trump National Doral, paying the Trump Organization directly. CoreCivic and GEO spent $1.6 million lobbying in 2017 alone. ICE detention in private facilities increased 40% while conditions deteriorated, with 24 deaths in custody during Trump's term. Both companies' executives gained direct White House access through Mar-a-Lago memberships. The quid pro quo demonstrated how campaign contributions directly translated into billion-dollar government contracts.

@@ -46,7 +46,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 On December 3, 2019, U.S. Representative Duncan Hunter pleaded guilty in federal court in San Diego to one count of conspiracy to misuse campaign funds, admitting that he and his wife Margaret knowingly stole hundreds of thousands of dollars in campaign contributions to maintain their personal lifestyle. The plea came after more than a year of Hunter denying wrongdoing, claiming the prosecution was a politically motivated "witch hunt," and publicly attempting to shift blame onto Margaret, who had already pleaded guilty in June 2019.
 

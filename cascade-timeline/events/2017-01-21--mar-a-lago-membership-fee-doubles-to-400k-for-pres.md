@@ -41,6 +41,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Trump's Mar-a-Lago club doubled its membership fee from $200,000 to $400,000 immediately after his election, selling access to the president for profit. Members gained direct access to Trump during his 142 visits as president, with the club becoming known as the 'Winter White House.' Foreign officials, lobbyists, and executives seeking government contracts joined to influence policy. Chinese spy Yujing Zhang infiltrated the club with electronic devices. Club members included private prison executives, pharmaceutical lobbyists, and foreign nationals who discussed policy directly with Trump. Member Chris Ruddy boasted about influencing VA policy. The club hosted foreign leaders without security protocols, with Trump discussing North Korea missile launches in the dining room as guests took photos. Trump showed classified documents to members, including military plans to attack Iran. The Secret Service paid at least $1.4 million to the club. This pay-for-access scheme turned the presidency into a profit center, violating the domestic emoluments clause.

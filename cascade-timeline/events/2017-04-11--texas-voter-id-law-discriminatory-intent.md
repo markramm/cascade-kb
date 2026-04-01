@@ -40,7 +40,6 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture & Control
 ---
-type: timeline_event
 
 A federal judge rules that Texas's voter ID law, widely considered the strictest in the nation, was intentionally designed to discriminate against Black and Latino voters. The ruling finds "a pattern of conduct unexplainable on grounds other than the race factor" and marks the second time federal courts conclude that Texas's law violates the Voting Rights Act and was enacted with discriminatory purpose. The law's acceptance of gun permits but rejection of student IDs exemplifies its partisan and racial targeting.
 

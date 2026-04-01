@@ -40,6 +40,5 @@ notes: Event documents the Trump family's expansion into cryptocurrency via a pu
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Eric Trump founded American Bitcoin, a cryptocurrency venture backed by Hut 8, raising $220 million and planning to build a substantial US bitcoin reserve. The company went public via a Nasdaq merger, with the Trump sons owning a majority stake.

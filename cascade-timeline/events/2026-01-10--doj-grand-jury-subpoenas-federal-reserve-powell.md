@@ -46,7 +46,6 @@ capture_lanes:
 - Institutional Capture
 - Executive Power
 ---
-type: timeline_event
 
 Federal prosecutors issued grand jury subpoenas to the Federal Reserve on January 10, 2026, as part of the criminal investigation of Fed Chair Jerome Powell. This was the first-ever criminal investigation of a sitting Federal Reserve Chair in the institution's 112-year history.
 

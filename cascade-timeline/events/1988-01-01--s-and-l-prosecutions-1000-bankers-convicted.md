@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Between 1988 and 1992, the Department of Justice prosecutes over 1,000 savings and loan bankers for fraud and related crimes during the S&L crisis, with regulators making over 30,000 criminal referrals that produce felony convictions in cases designated as "major" by DOJ. Federal prosecutors achieve a 90% conviction rate in prosecutions of the top 100 worst fraud schemes, sending 1,706 bankers to prison and securing 2,603 guilty verdicts. The aggressive prosecution effort demonstrates that systematic white-collar financial fraud can be successfully investigated and punished when prosecutors prioritize accountability over protecting industry relationships.
 

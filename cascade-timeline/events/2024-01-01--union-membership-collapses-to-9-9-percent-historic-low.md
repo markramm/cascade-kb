@@ -39,7 +39,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Bureau of Labor Statistics data shows U.S. union membership falls to just 9.9% of the workforce in 2024, down from a peak of 35% in 1954 and representing the culmination of a 70-year systematic labor destruction campaign. The collapse is most dramatic since 1979, when union membership stood at 24.1% (21 million workers): in just 45 years, organized labor loses 59% of its membership share, declining from nearly one-quarter of workers to less than one-tenth.
 

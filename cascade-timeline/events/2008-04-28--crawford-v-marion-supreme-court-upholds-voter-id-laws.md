@@ -35,7 +35,6 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: timeline_event
 
 The Supreme Court upheld Indiana's strict photo voter ID law in Crawford v. Marion County, ruling 6-3 that the state's interest in preventing voter fraud and maintaining public confidence in elections justified the burden imposed on voters without qualifying identification. The decision opened the floodgates for voter ID laws across the country despite the absence of evidence that in-person voter fraud—the only type ID laws could prevent—was a significant problem.
 

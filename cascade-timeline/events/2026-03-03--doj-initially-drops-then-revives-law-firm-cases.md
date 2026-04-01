@@ -44,7 +44,6 @@ capture_lanes:
 - Democratic Erosion
 - Judicial Capture
 ---
-type: timeline_event
 
 On March 2-3, 2026, the Department of Justice executed a dramatic 24-hour reversal on its litigation against four law firms targeted by Trump executive orders. DOJ attorneys first filed to voluntarily withdraw consolidated cases against Jenner & Block, WilmerHale, Perkins Coie, and Susman Godfrey on Monday evening — a move interpreted by observers as a potential signal that the administration was retreating from the legally problematic orders, all of which had been blocked by federal judges.
 

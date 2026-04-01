@@ -40,7 +40,6 @@ capture_lanes:
 - Democratic Erosion
 - Regulatory Capture
 ---
-type: timeline_event
 
 Within hours of the Supreme Court's 5-4 Shelby County v. Holder decision striking down Section 4 of the Voting Rights Act, ALEC-affiliated states began implementing voter suppression laws that had been previously blocked by federal preclearance requirements. Texas Attorney General Greg Abbott announced immediately: "With today's decision, the State's voter ID law will take effect immediately." The speed of implementation revealed that ALEC states had been prepared and waiting for the Court to remove federal oversight.
 

@@ -45,6 +45,5 @@ capture_lanes:
 - Intelligence Penetration
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 World Liberty Financial, a decentralized finance project linked to Trump's family, strategically acquired approximately $55 million worth of Ether (ETH) following market disruptions caused by Trump's brief tariff imposition on Mexico and Canada. This purchase was part of a larger pattern of aggressive cryptocurrency investment, with the project accumulating over $388 million in digital assets by early 2025.

@@ -45,7 +45,6 @@ capture_lanes:
 - Electoral Manipulation
 - International Kleptocracy
 ---
-type: timeline_event
 
 President Trump pushed aside Acting Director of National Intelligence Joseph Maguire on February 20, 2020, after his election security chief Shelby Pierson briefed the House Intelligence Committee on February 13 that Russia was interfering in the 2020 election to aid Trump's re-election. Trump erupted at Maguire in an Oval Office confrontation the following day, demanding to know why lawmakers were briefed on the Russia intelligence and expressing concern that Democrats would use the information against him. Trump replaced Maguire with Richard Grenell, the U.S. Ambassador to Germany and a fierce Trump loyalist with zero intelligence experience, signaling the complete subordination of intelligence community independence to presidential political interests.
 

@@ -41,6 +41,5 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Lobbyist Jack Abramoff pleaded guilty to federal corruption charges, exposing one of the largest congressional corruption scandals in modern U.S. history. Abramoff and partner Michael Scanlon defrauded Native American tribes of 5 million through inflated lobbying fees and secret kickbacks. The scheme included bribing members of Congress with luxury trips, expensive meals, and campaign contributions in exchange for legislative favors. Twenty-four people were convicted, including Congressman Bob Ney (R-OH, 2.5 years prison), Tom DeLay aide Tony Rudy, and Deputy Interior Secretary Steven Griles. Abramoff systematically charged tribes like the Coushatta (0 million) and Tigua (.2 million) massive fees while secretly splitting profits with Scanlon. In some cases, they lobbied against their own clients to create problems they could then be paid to solve. The scandal led to significant lobbying reform legislation and demonstrated how money could corrupt the legislative process, with Abramoff serving 43 months in federal prison.

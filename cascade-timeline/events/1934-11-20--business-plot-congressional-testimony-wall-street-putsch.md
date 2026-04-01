@@ -43,7 +43,6 @@ capture_lanes:
 - Financial Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 On November 20, 1934, the U.S. House of Representatives Special Committee on Un-American Activities (McCormack-Dickstein Committee) begins secret testimony from retired Marine Corps Major General Smedley Butler, who alleges that wealthy Wall Street financiers plotted to overthrow President Franklin D. Roosevelt and install a fascist dictatorship. Butler, a two-time Medal of Honor recipient and the most decorated Marine of his era, testifies under oath that bond salesman Gerald MacGuire approached him in 1933-1934 on behalf of powerful financial interests to lead 500,000 veterans in a coup against FDR, armed by Remington and financed by Du Pont, J.P. Morgan, and other corporate interests. The plotters allegedly intended to intimidate Roosevelt into accepting Butler as "executive secretary of affairs"—effectively a dictator—while FDR would remain as a powerless figurehead.
 

@@ -47,5 +47,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 The Trump administration has rapidly transformed the Securities and Exchange Commission through targeted staff reductions, with approximately 15% of staff already departed and plans for further contract cuts. The administration has implemented a $50,000 voluntary separation offer and imposed a hiring freeze, dramatically reducing the agency's workforce and potentially compromising its regulatory oversight capabilities.

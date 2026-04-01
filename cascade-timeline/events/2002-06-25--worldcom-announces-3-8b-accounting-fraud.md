@@ -37,7 +37,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 On June 25, 2002, WorldCom, the second-largest telecommunications company in the United States, announced it would restate its financial statements after discovering $3.8 billion in fraudulent accounting entries. The company admitted that "certain transfers" from line cost expenses to asset accounts violated generally accepted accounting principles (GAAP), representing the largest accounting fraud in American history at that time.
 

@@ -38,7 +38,6 @@ capture_lanes:
 - Immigration System Capture
 - Corporate Capture
 ---
-type: timeline_event
 DHS signed a $1 billion blanket purchase agreement with Palantir for immigration surveillance across ICE and CBP without competitive bidding. Palantir's technology enables mass data integration across multiple government databases, creating comprehensive surveillance profiles of immigrants and their communities. The no-bid nature of the contract and Palantir's close ties to Trump allies raise serious conflict-of-interest concerns.
 
 ICE contracts with just 10 companies account for 70% of the $5.4 billion in enforcement spending. The massive concentration of surveillance contracting in a single firm with deep political connections represents a dangerous fusion of corporate profit motive and state enforcement power. The agreement effectively locks DHS into dependency on Palantir's proprietary systems for the foreseeable future, giving the company enormous leverage over the government's immigration enforcement infrastructure.

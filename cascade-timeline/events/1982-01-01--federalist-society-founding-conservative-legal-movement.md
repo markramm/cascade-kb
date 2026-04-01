@@ -52,6 +52,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Yale Law School students Steven Calabresi, David McIntosh, Lee Liberman Otis, Spencer Abraham, and Peter Keisler founded the Federalist Society in 1982 to challenge liberal ideology in elite law schools. With initial funding of $24,000 from the John M. Olin Foundation, the organization created a systematic pipeline for conservative legal talent. Their first event in April 1982 was a symposium on federalism featuring prominent conservative legal scholars. The Society quickly grew to over 5,000 student members across 145 law schools, becoming the most successful judicial capture operation in modern American history.

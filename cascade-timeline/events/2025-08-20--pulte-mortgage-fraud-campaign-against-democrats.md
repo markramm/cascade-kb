@@ -56,5 +56,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 William Pulte uses FHFA access to mortgage databases to accuse Senator Adam Schiff and NY AG Letitia James of mortgage fraud, establishing pattern of weaponizing financial surveillance against Trump opponents.

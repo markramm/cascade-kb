@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Lyndon B. Johnson signs the Immigration and Nationality Act of 1965 (Hart-Celler Act) into law at the base of the Statue of Liberty, abolishing the National Origins Formula that has governed U.S. immigration policy since the 1920s. The legislation dismantles the racist quota system that heavily favored Northern and Western European immigrants while severely restricting immigration from Southern and Eastern Europe, Asia, Africa, and Latin America.
 

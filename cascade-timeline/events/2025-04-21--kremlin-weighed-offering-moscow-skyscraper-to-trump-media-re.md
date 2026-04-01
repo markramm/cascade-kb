@@ -46,6 +46,5 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 ---
-type: timeline_event
 
 As part of complex 2025 diplomatic negotiations, the Kremlin reportedly considered offering Trump a 150-story Moscow skyscraper to entice him into restoring US-Russia relations, revealing the intricate and potentially compromising nature of international diplomacy

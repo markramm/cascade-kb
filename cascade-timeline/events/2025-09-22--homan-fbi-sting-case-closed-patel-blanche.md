@@ -50,7 +50,6 @@ capture_lanes:
 - Kleptocratic Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 FBI Director Kash Patel and Deputy Attorney General Todd Blanche issued a joint statement closing the FBI investigation into Border Czar Tom Homan, citing "no credible evidence" of criminal conduct.
 

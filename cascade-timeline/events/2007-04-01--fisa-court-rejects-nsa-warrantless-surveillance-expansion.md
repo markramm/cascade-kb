@@ -41,6 +41,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 FISA Court Judge Roger Vinson delivered a significant rebuke to the Bush administration by rejecting the government's attempt to rewrite FISA statutes to permit expanded warrantless surveillance inside the United States. The government sought to stretch FISA's definition of a 'facility' used by 'foreign agents' to include telecommunications switches carrying huge amounts of Internet traffic, with low-level NSA analysts rather than FISC judges making targeting determinations. Judge Vinson rejected these proposals as 'extra-statutory' distortions of the FISA framework, observing they endangered Fourth Amendment rights and contravened Congress's clear intent in enacting FISA. This ruling forced the administration to seek legislative approval from Congress rather than expand surveillance through judicial interpretation. The court's rejection highlighted the legal vulnerabilities of the NSA's warrantless surveillance programs that had been operating since 2001. Under public pressure following the New York Times revelations, the administration had already ended the warrantless program in January 2007 and resumed seeking FISA court warrants, making this rebuke a formal judicial rejection of attempts to retroactively legitimize the illegal surveillance.

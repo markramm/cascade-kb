@@ -44,5 +44,4 @@ capture_lanes:
 - 'Digital & Tech Capture'
 - Corporate Capture
 ---
-type: timeline_event
 The Federal Communications Commission (FCC) launched an investigation into the unprecedented manipulation of its public comment system during the net neutrality repeal process. An estimated 18 million out of 22 million comments were found to be fake, generated through coordinated campaigns by broadband industry lead generators who fabricated consumer responses and impersonated real people.

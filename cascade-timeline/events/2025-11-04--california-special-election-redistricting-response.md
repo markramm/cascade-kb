@@ -42,5 +42,4 @@ confirmed_date: '2025-08-14'
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 California voters decide Proposition 50 authorizing new congressional maps to flip 5 Republican seats Democratic, directly countering Trump-ordered Texas redistricting. Newsom's "Election Rigging Response Act" bypasses independent commission through 2030 if any Republican state redistricts mid-decade.

@@ -45,7 +45,6 @@ capture_lanes:
 - Systematic Corruption
 - Federal Workforce Capture
 ---
-type: timeline_event
 Acting NASA Administrator Janet Petro confirmed in February 2025 that the Department of Government Efficiency (DOGE), led by Elon Musk, was planning to conduct a comprehensive review of NASA's spending and contracts. The announcement raised immediate concerns about conflicts of interest, as Musk's SpaceX had become NASA's largest private contractor, holding billions of dollars in launch contracts, the Commercial Crew Program, and the Artemis lunar lander program. The Huntsville Business Journal noted that DOGE's audit of NASA represented an extraordinary situation where a government official was positioned to review contracts that would be awarded to or from his own companies.
 
 ABC News reported that while Musk worked to slash federal spending through DOGE, his own companies had received billions of dollars in federal contracts, predominantly from NASA and the Defense Department. SpaceX's contracts with NASA included the Crew Dragon transportation system for International Space Station missions, the Starship Human Landing System for Artemis lunar missions, and various launch services contracts. A DOGE review of NASA budgets could theoretically redirect funding in ways that would benefit or disadvantage SpaceX competitors, concentrating NASA business with Musk's company.

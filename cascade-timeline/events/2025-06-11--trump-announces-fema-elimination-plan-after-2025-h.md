@@ -43,6 +43,5 @@ sources:
 notes: Elimination announced despite active hurricane season and disaster responses. 10% of staff left since January 2025. States expected to work with private partners as "performance enhancing drugs of emergency response." DHS officials aim to eliminate FEMA's disaster recovery role by October 1, 2025.
 status: confirmed
 ---
-type: timeline_event
 
 Trump announced June 2025 that FEMA would be eliminated by December 2025, after Atlantic hurricane season ends in November. DHS Secretary Kristi Noem confirmed elimination plans. 20-member FEMA Review Council formed May 2025 to recommend changes by mid-November. Trump wants states to handle disasters with federal reimbursement. Agency projected to lose 30% of workforce (26,000 to 18,000) by year end. Project 2025 calls for reducing federal disaster relief from 75% to 25%, privatizing flood insurance.

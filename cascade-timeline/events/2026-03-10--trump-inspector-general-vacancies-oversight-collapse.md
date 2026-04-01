@@ -41,7 +41,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 A Public Citizen report released in March 2026 documented that President Trump had removed more inspectors general than all other presidents of the United States combined, leaving a critical gap in government accountability and ethics oversight. More than 75% of presidentially appointed inspector general positions had been left vacant.
 

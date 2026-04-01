@@ -149,7 +149,6 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 On May 21, 2025, the Trump administration officially accepted a Boeing 747-8 luxury jetliner valued at approximately $400–500 million from the government of Qatar to serve as a new Air Force One presidential aircraft. The aircraft had been offered by Qatar's royal family during Trump's May 2025 Middle East trip, where the President met with Emir Sheikh Tamim bin Hamad Al Thani to discuss regional security arrangements and U.S. military basing rights at Al Udeid Air Base. Trump publicly defended the acceptance, stating "only a stupid person would turn down a beautiful plane worth hundreds of millions of dollars," while dismissing constitutional objections as partisan attacks. Under terms of the arrangement, the aircraft would be modified by the U.S. Air Force and ultimately transferred to the Trump Presidential Library Foundation no later than January 1, 2029.
 

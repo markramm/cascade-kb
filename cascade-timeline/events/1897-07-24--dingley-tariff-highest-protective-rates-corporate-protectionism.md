@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 President McKinley signs the Dingley Tariff Act into law, establishing the highest protective tariffs in U.S. history at an average of 52% in its first year of operation (57% increase on average). The act shields domestic industries from foreign competition by hiking duties on sugar, salt, tin cans, glassware, tobacco, iron and steel, steel rails, petroleum, lead, copper, locomotives, matches, whisky, and leather goods. Introduced shortly after McKinley's election as fulfillment of his campaign promise to protect American manufacturers, the Dingley Tariff remains in effect for twelve years—the longest-lasting tariff in U.S. history—and becomes a cornerstone of Republican economic policy designed to bolster domestic industries controlled by the same corporate interests that funded McKinley's campaign.
 

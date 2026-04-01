@@ -47,6 +47,5 @@ capture_lanes:
 - Financial Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Judge Menendez strikes down AB 2655 and AB 2839 deepfake laws on Section 230 and First Amendment grounds. X, Babylon Bee, Rumble challenged laws requiring platforms to block/label election deepfakes. Court ruled AB 2655 'flawed to its core' and AB 2839 a 'blunt tool' stifling free expression.

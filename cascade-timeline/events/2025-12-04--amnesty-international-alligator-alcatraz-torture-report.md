@@ -57,7 +57,6 @@ sources:
 notes: Report based on September 2025 research mission. Of 24 ICE custody deaths since October 2024, six occurred in Florida facilities including four at Krome. Florida increased immigration detention by over 50% since January 2025, issuing $360+ million in no-bid contracts for Alligator Alcatraz with $450 million projected annual costs.
 status: confirmed
 ---
-type: timeline_event
 
 Amnesty International released a damning report titled "Torture and enforced disappearances in the Sunshine State" documenting human rights violations that constitute torture at Florida's Everglades Detention Facility ("Alligator Alcatraz") and Krome North Service Processing Center. Based on a September 2025 research mission, the report details systematic abuse including "the box"—a 2x2-foot metal cage where detainees are shackled at wrists and ankles, chained to the ground in direct sunlight for hours without food or water as punishment, which Amnesty determined constitutes torture under international law.
 

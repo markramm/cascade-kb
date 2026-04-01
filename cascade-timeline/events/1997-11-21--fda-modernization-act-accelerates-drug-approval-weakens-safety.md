@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Clinton signs the FDA Modernization Act (FDAMA), codifying accelerated drug approval pathways developed during the AIDS crisis while expanding provisions favorable to pharmaceutical manufacturers including streamlined advertising approval. The law accelerates the transformation of FDA from a public health gatekeeper into an industry partner focused on drug approval speed over safety evaluation.
 

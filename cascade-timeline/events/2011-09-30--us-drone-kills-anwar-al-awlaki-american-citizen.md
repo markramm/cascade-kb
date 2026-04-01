@@ -43,7 +43,6 @@ sources:
   tier: 1
   outlet: Council on Foreign Relations
 ---
-type: timeline_event
 
 A CIA drone strike in Yemen kills Anwar al-Awlaki, a U.S. citizen and Islamic cleric, without charges, trial, or judicial process. Al-Awlaki becomes the first American citizen to be deliberately assassinated by his own government since the Civil War era. President Obama personally approved placing al-Awlaki on the kill list based on classified intelligence that he had moved beyond propaganda to an operational role in al-Qaeda in the Arabian Peninsula. The killing raises profound constitutional questions about executive power to execute American citizens without due process, and sets precedents that future presidents will exploit to claim authority to assassinate citizens in secret based on classified evidence never subject to judicial review.
 

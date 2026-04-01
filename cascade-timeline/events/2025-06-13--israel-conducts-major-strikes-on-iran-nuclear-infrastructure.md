@@ -79,7 +79,6 @@ tags:
 - middle-east-geopolitics
 status: confirmed
 ---
-type: timeline_event
 
 
 Israel conducted Operation Rising Lion, a comprehensive military strike targeting Iran's primary nuclear facilities at Natanz, Isfahan, and Fordow. Using over 200 fighter jets and 330 munitions, Israel struck the Natanz uranium enrichment facility, destroying the above-ground Pilot Fuel Enrichment Plant and critically damaging underground nuclear infrastructure. The operation, which came after IAEA reports of Iran's advanced nuclear capabilities, fundamentally altered the regional strategic balance and escalated tensions in the Middle East.

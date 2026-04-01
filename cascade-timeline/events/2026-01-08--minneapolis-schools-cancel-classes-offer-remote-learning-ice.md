@@ -35,7 +35,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 Minneapolis Public Schools canceled classes district-wide for January 8-9 "out of an abundance of caution" following the Roosevelt High School incident where Border Patrol agents pepper-sprayed students and detained a staff member, and the fatal ICE shooting of Renee Good. Starting January 13, MPS offered optional remote learning through February 12, 2026.
 

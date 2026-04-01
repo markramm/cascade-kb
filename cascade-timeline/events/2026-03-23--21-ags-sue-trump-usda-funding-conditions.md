@@ -34,7 +34,6 @@ capture_lanes:
 - Democratic Erosion
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 23, 2026, a coalition of 21 state attorneys general led by New York's Letitia James filed suit to block the USDA's newly imposed "2026 Conditions," which required states to certify compliance with a set of vaguely defined ideological requirements in order to continue receiving federal food assistance and agricultural funding. The conditions demanded that states affirm adherence to administration positions on "gender ideology," immigration enforcement cooperation, and "fair athletic opportunities" — or risk losing access to SNAP, WIC, and agricultural support programs.
 

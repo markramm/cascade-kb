@@ -33,7 +33,6 @@ capture_lanes:
 - Judicial Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 The Supreme Court ruled that federal courts could issue injunctions against union organizing efforts at workplaces where employees had signed yellow-dog contracts, dramatically expanding the legal weapons available to employers. Justice Mahlon Pitney's 6-3 majority opinion held that union attempts to persuade workers to break their non-union agreements constituted unlawful interference with contractual relations.
 

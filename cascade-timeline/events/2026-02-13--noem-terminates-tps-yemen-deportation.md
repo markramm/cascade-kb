@@ -28,7 +28,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 DHS Secretary Kristi Noem announced termination of Temporary Protected Status for Yemen, affecting approximately 1,400 Yemeni nationals who had held the status since September 2015 due to ongoing armed conflict in their country. The designation had been extended or redesignated multiple times in 2017, 2018, 2020, 2021, 2023, and 2024. Noem stated: "After reviewing conditions in the country and consulting with appropriate U.S. government agencies, I determined that Yemen no longer meets the law's requirement to be designated for Temporary Protected Status."
 

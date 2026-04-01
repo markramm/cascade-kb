@@ -36,7 +36,6 @@ capture_lanes:
 - Media Capture & Control
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Director Oliver Stone's biographical thriller "Snowden" was released in U.S. theaters, bringing Edward Snowden's story to mainstream audiences through a Hollywood dramatization starring Joseph Gordon-Levitt as the NSA whistleblower. The film chronicled Snowden's journey from his early career as a CIA technician through his work as an NSA contractor at Booz Allen Hamilton to his decision to leak classified documents exposing mass surveillance programs, culminating in his 2013 Hong Kong meeting with journalists Glenn Greenwald and Laura Poitras.
 

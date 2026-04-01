@@ -39,7 +39,6 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: timeline_event
 
 On December 27, 2020, Congress passed the No Surprises Act as part of the Consolidated Appropriations Act of 2021, banning most surprise medical billing beginning January 1, 2022. The legislation addressed a predatory billing practice that generated billions in profits for private equity-backed physician staffing companies—particularly TeamHealth (Blackstone) and Envision Healthcare (KKR)—which had used surprise billing as a core business strategy for over a decade. The Act passed only after years of fierce industry lobbying and opposition, demonstrating how private equity firms monetize regulatory gaps while fighting reforms that protect patients.
 

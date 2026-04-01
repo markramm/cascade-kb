@@ -56,7 +56,6 @@ sources:
   outlet: NPR Illinois
 status: confirmed
 ---
-type: timeline_event
 
 On November 20, 2025, the U.S. Court of Appeals for the Seventh Circuit granted an emergency administrative stay blocking the release of up to 615 immigrants detained in the Chicago area, just one day before they were scheduled to be freed under a federal district court order. The appellate intervention reversed Judge Jeffrey Cummings' ruling that Immigration and Customs Enforcement had violated the 2022 Castañon Nava consent decree by making warrantless arrests without probable cause during Operation Midway Blitz.
 

@@ -62,7 +62,6 @@ capture_lanes:
 - Democratic Erosion
 - Judicial Capture
 ---
-type: timeline_event
 
 
 Federal Magistrate Judge Zia Faruqui reveals an unprecedented collapse in prosecutorial standards under U.S. Attorney Jeanine Pirro's leadership in Washington D.C. Of the over 4,000 cases charged by complaint between 2014 and 2024, DOJ moved to dismiss fewer than 20—less than 0.5%. In just eight weeks under Pirro, the office has charged 95 cases and dismissed 20 of them—a 21% dismissal rate representing a 40-fold increase.

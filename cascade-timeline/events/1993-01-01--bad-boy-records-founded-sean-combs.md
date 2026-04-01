@@ -45,6 +45,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Sean Combs establishes Bad Boy Records after being fired from Uptown Records, securing a $1.5 million investment from Arista Records under Clive Davis's leadership. The label quickly became a dominant force in hip-hop, with Combs negotiating a 50% ownership stake by 1996 and signing landmark artists like The Notorious B.I.G. The opaque initial funding raised questions about potential connections to broader entertainment and financial networks.

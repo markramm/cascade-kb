@@ -43,6 +43,5 @@ connections: []
 patterns:
 - democratic-backsliding
 ---
-type: timeline_event
 
 On December 3, 2024, President Yoon Suk Yeol declared martial law at 22:23, marking an unprecedented challenge to South Korea's democratic institutions. Within six hours, the National Assembly unanimously rejected his order, revealing deep political tensions and pushing South Korea's democratic status into global scrutiny.

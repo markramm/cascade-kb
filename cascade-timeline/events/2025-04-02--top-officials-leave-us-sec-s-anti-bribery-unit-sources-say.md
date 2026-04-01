@@ -52,5 +52,4 @@ tags:
 - enforcement-pause
 title: Top Anti-Corruption Officials Depart SEC Following Enforcement Pause
 ---
-type: timeline_event
 Long-serving SEC Foreign Corrupt Practices Act (FCPA) leaders Charles Cain and Tracy Price retired following the Trump administration's February 2025 order pausing anti-bribery enforcement. Their departure represents a significant shift in anti-corruption regulatory oversight, occurring amid a broader exodus of SEC officials and a systematic pause in FCPA investigations.

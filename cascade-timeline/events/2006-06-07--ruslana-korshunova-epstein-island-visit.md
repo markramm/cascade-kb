@@ -40,5 +40,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Kazakhstani model Ruslana Korshunova, age 18, flew to Jeffrey Epstein's Little St. James island on his private jet according to flight logs. Two years later on June 28, 2008, she died after falling from her 9th-floor Manhattan apartment in what was ruled a suicide, though friends disputed she was suicidal. The timing and circumstances connect to broader patterns of young Eastern European women in the Epstein network.

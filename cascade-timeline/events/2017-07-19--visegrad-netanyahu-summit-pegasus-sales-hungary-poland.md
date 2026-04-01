@@ -42,7 +42,6 @@ capture_lanes:
 - International Kleptocracy
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 Prime Minister Benjamin Netanyahu hosts the first summit meeting between Israel and the Visegrad Group (V4) countries in Budapest on July 19, 2017, meeting with Hungarian Prime Minister Viktor Orban, Polish Prime Minister Beata Szydło (later Mateusz Morawiecki), and leaders from Czech Republic and Slovakia. The summit focuses on security cooperation, counter-terrorism, and technology partnerships between Israel and Central European nations increasingly aligned on immigration and illiberal governance.
 

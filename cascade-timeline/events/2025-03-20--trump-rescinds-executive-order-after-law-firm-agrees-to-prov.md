@@ -41,5 +41,4 @@ patterns:
 - kleptocratic-capture
 notes: Event demonstrates leveraging executive power to compel legal service commitments from law firms.
 ---
-type: timeline_event
 President Trump rescinded Executive Order 14237 targeting Paul Weiss law firm after the firm agreed to provide $40 million in pro bono legal services, adopt political neutrality, and support causes aligned with the administration's priorities.

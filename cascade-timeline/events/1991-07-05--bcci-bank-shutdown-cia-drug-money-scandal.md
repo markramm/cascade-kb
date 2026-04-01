@@ -38,7 +38,6 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: timeline_event
 
 Customs and bank regulators in seven countries simultaneously raid and shut down the Bank of Credit and Commerce International (BCCI), exposing what becomes known as the largest corporate criminal enterprise in history. The shutdown follows a Price Waterhouse investigation ordered by the Bank of England in March 1991, which finds "evidence of massive and widespread fraud" in the $20 billion rogue banking empire with liabilities of $14 billion.
 

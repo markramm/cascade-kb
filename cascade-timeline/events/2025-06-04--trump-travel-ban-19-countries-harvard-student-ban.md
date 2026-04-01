@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 
 President Trump signed an executive order expanding travel restrictions to 19 countries, while simultaneously ordering that students and scholars from Harvard University be barred from entering the United States. The Harvard ban represented an unprecedented use of immigration authority to punish a specific academic institution.

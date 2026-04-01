@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Edward "Big Balls" Coristine, 19, was appointed to DOGE and granted access to the State
 Department, CISA, DHS, FEMA, and Office of Personnel Management despite being fired from

@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Vice President JD Vance met with Pope Francis at the Vatican on Easter Sunday, April 20, 2025, in what would tragically become one of the Pope's final official acts before his death the following day. The meeting, which took place during the holiest day of the Christian calendar, saw the 88-year-old pontiff—visibly frail and in a wheelchair—exchange gifts with the Vice President. Francis presented Vance with three chocolate Easter eggs for his children, a Vatican tie, and rosaries, while Vance told the Pope "I pray for you every day."
 

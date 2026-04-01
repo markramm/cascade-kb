@@ -43,5 +43,4 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 Following the Trump administration's termination of most US foreign aid programs, at least 17 developing countries spent over $17 million on US lobbying firms with close ties to the president. These countries seek to secure alternative funding, military support, and negotiate access to strategic resources by leveraging connections to Trump-linked firms.

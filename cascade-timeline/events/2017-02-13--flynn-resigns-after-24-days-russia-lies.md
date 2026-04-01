@@ -34,7 +34,6 @@ capture_lanes:
 - International Kleptocracy
 - Executive Power Expansion
 ---
-type: timeline_event
 
 National Security Advisor Michael Flynn resigned on February 13, 2017, after just 24 days in office—the shortest tenure in the 63-year history of the position. Flynn's resignation came after revelations that he had lied to Vice President Mike Pence, other White House officials, and the FBI about his December 2016 conversations with Russian Ambassador Sergey Kislyak regarding U.S. sanctions against Russia.
 

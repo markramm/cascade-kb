@@ -40,7 +40,6 @@ capture_lanes:
 - Systematic Corruption
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Simon Cameron submits his resignation as Secretary of War on January 11, 1862 (remaining until January 20), amid investigations into War Department procurement irregularities and cabinet disagreements over emancipation policy and patronage distribution. Lincoln appointed Cameron, a Pennsylvania newspaper editor and politician, to the cabinet in 1861 partly in recognition of his role delivering Pennsylvania for the Republicans in the 1860 election, but Cameron's year in office becomes marked by corruption, mismanagement, and inefficiency. Cameron fails to keep adequate records of contract awards, often relying solely on notes in his pocket or his memory. He allows special agents who are not government officials to contract on behalf of the department, with millions of dollars passing through their hands. While many agents work competently without compensation, others prove corrupt—including Cameron's lieutenant Alexander Cummings, who wastes much of the quarter million dollars he spends. The chaotic procurement system enables widespread fraud as contractors sell defective equipment, diseased animals, and substandard supplies to the Union Army, with Cameron's lack of oversight facilitating the "shoddy" scandal that characterizes early war contracting.
 

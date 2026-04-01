@@ -50,7 +50,6 @@ capture_lanes:
 - Kleptocratic Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 DHS Secretary Kristi Noem announced a "nationwide and international multimillion-dollar ad campaign" warning undocumented immigrants to "self-deport" or face deportation. At CPAC, Noem confirmed Trump "personally directed" both messaging and execution: "President Trump talked to me several times during the transition. He said, 'I want you to do those for the border, and I want them around the world.'"
 

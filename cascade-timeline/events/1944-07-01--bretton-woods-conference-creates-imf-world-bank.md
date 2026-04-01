@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 # Bretton Woods Conference Establishes Dollar Hegemony
 

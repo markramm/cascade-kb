@@ -38,6 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 John Negroponte is confirmed as the first Director of National Intelligence, centralizing intelligence coordination under White House control. The DNI position was created by the Intelligence Reform Act following 9/11 Commission recommendations, but critics argued it further politicized intelligence by placing a political appointee over the intelligence community. The consolidation reduced CIA independence and created new opportunities for political manipulation of intelligence products.

@@ -36,7 +36,6 @@ capture_lanes:
 - Democratic Backsliding
 - Systematic Corruption
 ---
-type: timeline_event
 Trump-appointed Judge Aileen Cannon permanently blocked the Department of Justice from releasing former Special Counsel Jack Smith's final report on the classified documents investigation to Congress or the public. The ruling effectively suppressed the findings of a major criminal investigation into a sitting president's handling of classified national security materials. Cannon, who was appointed by Trump and had previously been rebuked by the Eleventh Circuit for bias in the same case, issued the permanent block despite the report containing no classified information and being intended for congressional oversight.
 
 The suppression ensures the public will never see the full findings of the investigation into how classified documents ended up at Mar-a-Lago, what national security damage may have resulted, and what obstruction of justice evidence was uncovered. The permanent nature of the block—not a temporary stay pending appeal, but a permanent prohibition—goes beyond any reasonable judicial interest and functions as a cover-up enforced by judicial order.

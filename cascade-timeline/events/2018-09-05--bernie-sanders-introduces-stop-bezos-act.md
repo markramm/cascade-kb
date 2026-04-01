@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 # Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages
 

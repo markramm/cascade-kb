@@ -31,7 +31,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 Judge Justin R. Novak issued a scathing order describing Lindsey Halligan's continued service as EDVA U.S. Attorney as a "charade of masquerading" — documenting that the DOJ had continued to file cases under Halligan's authority for nearly two months after Judge Currie ruled her appointment unconstitutional on November 24, 2025.
 

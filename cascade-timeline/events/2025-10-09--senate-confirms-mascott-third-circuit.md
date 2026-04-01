@@ -39,7 +39,6 @@ capture_lanes:
 - Executive Power Expansion
 status: reported
 ---
-type: timeline_event
 
 The Senate confirmed Jennifer Mascott to the U.S. Court of Appeals for the Third Circuit by a vote of 50-47, marking Trump's second appointee to this circuit in his second term. Mascott, a Catholic University law professor and former Trump White House lawyer, founded the Separation of Powers Institute at Catholic Law and previously clerked for conservative Justices Clarence Thomas and Brett Kavanaugh.
 

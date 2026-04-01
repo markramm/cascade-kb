@@ -28,7 +28,6 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 20, 2026, Sen. Sheldon Whitehouse issued a formal demand that Attorney General Pam Bondi preserve all records related to a proposed DOJ rule that would block state bar associations from conducting ethics investigations of Department of Justice lawyers. The Rhode Island Democrat, a former prosecutor and longtime advocate for judicial accountability, explicitly warned Bondi that the destruction of government records was a federal crime.
 

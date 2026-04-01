@@ -50,5 +50,4 @@ tags:
 - financial-regulation
 title: SEC Drops Landmark Lawsuit Against Ripple Labs After Political Shifts
 ---
-type: timeline_event
 In a landmark regulatory decision on March 19, 2025, the Securities and Exchange Commission (SEC) dropped its four-year lawsuit against Ripple Labs, a cryptocurrency firm with close political connections. Following a partial legal victory in 2023 and significant changes in SEC leadership under the Trump administration, the agency agreed to return $75 million of a $125 million fine and abandon its appeal. CEO Brad Garlinghouse celebrated this as a major win, highlighting the shifting regulatory landscape for cryptocurrency firms.

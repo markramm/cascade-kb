@@ -43,7 +43,6 @@ capture_lanes:
 - Corporate Capture
 - International Kleptocracy
 ---
-type: timeline_event
 
 McKinsey Africa enters into a three-year deferred prosecution agreement with the U.S. Department of Justice, agreeing to pay more than $122 million (approximately R2.2 billion) to resolve criminal charges for conspiracy to violate the anti-bribery provisions of the Foreign Corrupt Practices Act. The charges stem from McKinsey Africa's role in bribing officials at South Africa's state-owned Transnet and Eskom between 2012 and 2016.
 

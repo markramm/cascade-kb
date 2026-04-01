@@ -44,7 +44,6 @@ capture_lanes:
 - Labor Suppression
 status: reported
 ---
-type: timeline_event
 
 # Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting
 

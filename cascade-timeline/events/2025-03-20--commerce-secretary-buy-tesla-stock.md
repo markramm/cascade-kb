@@ -46,6 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 In an unprecedented move, Commerce Secretary Howard Lutnick publicly recommended buying Tesla stock during a Fox News appearance on March 20, 2025, raising significant ethical concerns. Lutnick stated 'It'll never be this cheap again,' directly contradicting federal ethics guidelines that prohibit government officials from endorsing specific stocks. Representative Gerry Connolly subsequently called for an investigation into Lutnick's comments.

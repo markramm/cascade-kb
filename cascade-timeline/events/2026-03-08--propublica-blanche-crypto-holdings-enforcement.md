@@ -25,7 +25,6 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 On March 8, 2026, ProPublica published an investigation revealing that several of the Trump administration's most powerful officials held significant financial interests in the very sectors they were responsible for regulating or overseeing — and that their official actions had consistently benefited those personal holdings. The investigation centered on Deputy Attorney General Todd Blanche, Attorney General Pam Bondi, and Deputy Secretary of Defense Steve Feinberg.
 

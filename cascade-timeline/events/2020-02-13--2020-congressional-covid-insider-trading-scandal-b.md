@@ -36,5 +36,4 @@ tags:
 - senate-ethics
 title: 2020 Congressional COVID Insider Trading Scandal Exposes Systemic Corruption
 ---
-type: timeline_event
 On February 13, 2020, several U.S. senators were investigated for potentially violating the STOCK Act by selling stock after receiving private briefings about the COVID-19 pandemic, but before the market crash on February 20, 2020. Senator Richard Burr and his wife sold between $628,000 and $1.72 million worth of stock through 33 transactions, avoiding approximately $87,000 in losses. The FBI seized Burr's cellphone on May 13, 2020, as part of a criminal probe, leading to his temporary stepping down as chairman of the Senate Intelligence Committee. By January 2021, the Justice Department closed its investigation without filing charges, and the SEC similarly concluded its probe in January 2023 without taking action. This incident highlighted potential systemic issues with congressional insider trading and the effectiveness of the STOCK Act.

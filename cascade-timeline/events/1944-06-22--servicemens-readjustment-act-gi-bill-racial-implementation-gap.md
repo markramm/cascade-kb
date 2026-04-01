@@ -57,7 +57,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 
 President Roosevelt signs the Servicemen's Readjustment Act (GI Bill) on June 22, 1944, creating transformative benefits for veterans including education, housing, and unemployment assistance. However, Southern Democrats, led by Mississippi Representative John Rankin, ensure the bill's administration is delegated to states and local institutions, enabling systematic exclusion of Black veterans from benefits.

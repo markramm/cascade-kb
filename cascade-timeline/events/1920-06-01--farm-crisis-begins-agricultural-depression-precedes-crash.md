@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 American agriculture enters a decade-long depression beginning in summer 1920 as commodity prices collapse following the end of wartime demand. Wheat prices fall from $2.50 per bushel to under $1.00; cotton drops from 35 cents per pound to 13 cents; corn collapses from $1.50 to 42 cents. Meanwhile, farmers remain burdened by debts incurred during the war years when high prices and government encouragement led them to expand production, purchase expensive machinery, and mortgage land at inflated values. The resulting debt deflation devastates rural America for an entire decade before the 1929 crash brings depression to cities.
 

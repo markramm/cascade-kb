@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The Amalgamated Transit Union ends its 47-day strike against Greyhound Lines on November 2, 1983, after the company successfully operates with permanent replacement workers, demonstrating that Reagan's PATCO strategy translates to the private sector. Greyhound CEO Fred Currey demanded 9.5 percent wage cuts and benefit reductions; when 12,700 drivers and maintenance workers struck on September 17, the company continued operations with management and newly hired replacement workers. The union returns to work accepting most of Currey's original demands.
 

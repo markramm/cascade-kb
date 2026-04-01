@@ -46,7 +46,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Legislative Capture
 ---
-type: timeline_event
 
 Following the authorization provided by the August 2002 Yoo-Bybee torture memos, the CIA begins systematically implementing "enhanced interrogation techniques" on terrorism suspects held at secret black site prisons. The program, developed by psychologists James Mitchell and Bruce Jessen who had no interrogation experience, subjects detainees to waterboarding, stress positions, sleep deprivation for up to 180 hours, confinement in coffin-sized boxes, forced nudity, sexual humiliation, and "walling" (slamming detainees against walls).
 

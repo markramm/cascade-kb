@@ -47,5 +47,4 @@ tags:
 - corporate-appeasement
 title: 'Wolff Reports Trump Team''s Media Leverage Attempt with Warner Bros. Discovery'
 ---
-type: timeline_event
 Michael Wolff revealed that the Trump team suggested to Warner Bros. Discovery that giving Donald Trump Jr. an outdoors show could help the network curry favor with the White House, highlighting ongoing attempts to leverage media relationships for political advantage

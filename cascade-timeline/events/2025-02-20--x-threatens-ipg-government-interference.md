@@ -51,5 +51,4 @@ tags:
 - media-manipulation
 title: X Threatens Interpublic Group with Potential Government Interference Over Ad Spending
 ---
-type: timeline_event
 A lawyer at Interpublic Group received a call from X in December, suggesting the company boost client spending on Musk's platform or risk potential government interference with their pending Omnicom merger. The call hinted at using the Trump administration's influence to pressure the advertising giant.

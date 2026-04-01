@@ -51,6 +51,5 @@ capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The Department of Transportation placed the $24 billion Verizon FAA contract under review, with Elon Musk positioning Starlink as a potential alternative vendor. This review comes amid claims about the existing communication system's reliability and potential performance issues in air traffic control infrastructure.

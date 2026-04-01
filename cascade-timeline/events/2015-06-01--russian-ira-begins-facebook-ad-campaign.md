@@ -36,7 +36,6 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The St. Petersburg-based Internet Research Agency began purchasing Facebook
 ads and running coordinated influence operations. Senate Intelligence

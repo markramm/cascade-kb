@@ -56,5 +56,4 @@ tags:
 - blockchain
 title: 'Trump''s crypto dinner guests admit they''re trying to buy him off'
 ---
-type: timeline_event
 President Trump hosted a memecoin dinner where top cryptocurrency investors, including Justin Sun, a Chinese billionaire, paid over $145 million to attend, with Democratic lawmakers raising serious concerns about foreign influence and potential corruption

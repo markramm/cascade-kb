@@ -39,7 +39,6 @@ tags:
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 In a landmark case of regulatory capture, Dr. Curtis Wright IV, leading the FDA's Division of Anesthetic, Critical Care, and Addiction Drug Products, approved OxyContin with controversial language that misrepresented the drug's addictive potential. Wright held private meetings with Purdue Pharma representatives in January 1995, allowing the company to draft portions of his medical review.
 

@@ -42,6 +42,5 @@ actors:
 location: Washington, DC
 notes: Tariff decisions seemed driven by insider influence rather than consistent rules
 ---
-type: timeline_event
 
 Rusal America, a subsidiary of Russian metals giant controlled by oligarch Oleg Deripaska (sanctioned for election interference), received aluminum tariff exemption from Commerce Department in July 2018. Warren's congressional inquiry exposed the improper approval, forcing Commerce Department reversal in August after determining the exemption violated sanctions policy.

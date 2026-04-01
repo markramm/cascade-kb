@@ -59,7 +59,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Three hundred Pinkerton Detective Agency agents attempt to forcibly seize Andrew Carnegie's Homestead steel mill in Pennsylvania, triggering a 14-hour armed battle with locked-out steelworkers that leaves seven workers and three Pinkertons dead, with dozens more wounded. The violent confrontation occurs after Carnegie Steel operations manager Henry Clay Frick—given "carte blanche to break the union" by Carnegie, who conveniently remained in Scotland during the crisis—cuts workers' wages, locks out all 3,800 employees when the union rejects the cuts, and builds a massive barbed-wire-topped fence around the plant that workers dub "Fort Frick." The Pinkertons assemble on the Davis Island Dam on the Ohio River at 10:30 PM on July 5, 1892, receiving Winchester rifles before boarding two specially-equipped barges towed upriver under cover of darkness.
 

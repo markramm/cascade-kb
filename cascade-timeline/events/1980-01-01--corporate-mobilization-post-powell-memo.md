@@ -40,7 +40,6 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Following Lewis Powell's 1971 memo urging corporations to organize politically to defend "free enterprise," and the 1972 formation of the Business Roundtable bringing together Fortune 500 CEOs for coordinated lobbying, corporate America launches an unprecedented political offensive in the late 1970s targeting unions, regulation, and taxation. The U.S. Chamber of Commerce expands membership from 60,000 (1972) to 250,000 (1980), corporate PAC contributions increase exponentially, and coordinated business lobbying defeats labor law reform efforts including the 1978 Labor Law Reform Act that would have strengthened union organizing protections.
 

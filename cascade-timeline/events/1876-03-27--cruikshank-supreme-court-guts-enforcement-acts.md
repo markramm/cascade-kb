@@ -39,7 +39,6 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: timeline_event
 
 The Supreme Court unanimously overturns the federal convictions of Colfax Massacre perpetrators in United States v. Cruikshank, ruling that the Bill of Rights does not limit private actors or state governments despite the Fourteenth Amendment—effectively destroying federal power to protect Black Americans from racial terrorism. The case arises from the 1873 Colfax Massacre where armed whites killed more than 150 African Americans. Federal prosecutors charged several perpetrators under the Enforcement Act of 1870, which prohibited conspiracies to deprive anyone of constitutional rights. The Court sides with defendants, holding that First and Second Amendment rights apply only to federal government actions, not states or private citizens—and that Fourteenth Amendment due process and equal protection protections apply only to state action, not individual conduct.
 

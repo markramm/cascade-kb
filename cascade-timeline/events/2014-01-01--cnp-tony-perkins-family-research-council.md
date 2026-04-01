@@ -31,7 +31,6 @@ capture_lanes:
 - Electoral Manipulation
 - Judicial Capture
 ---
-type: timeline_event
 In 2014, Tony Perkins served as vice president of the Council for National Policy - one of the organization's three executive officers - while simultaneously serving as president of the Family Research Council, demonstrating the integration of religious right leadership into CNP's coordination structure.
 
 Perkins had served as president of the Family Research Council since 2003, making FRC one of the most prominent organizations opposing LGBTQ rights and promoting Christian nationalist policies. His position as CNP vice president meant FRC's activities could be coordinated with Heritage Foundation policy, ALEC legislation, Federalist Society judicial strategy, and major donor funding through CNP's network.

@@ -51,5 +51,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term

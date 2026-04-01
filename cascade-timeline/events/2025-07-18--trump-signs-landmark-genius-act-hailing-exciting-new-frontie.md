@@ -48,6 +48,5 @@ capture_lanes:
 notes: Event from comprehensive kleptocracy timeline tracking. Involves significant
   regulatory changes benefiting Trump's personal financial interests.
 ---
-type: timeline_event
 
 President Trump signed the GENIUS Act (Guiding and Establishing National Innovation for US Stablecoins Act), creating the first federal regulatory system for stablecoins. The legislation requires 100% reserve backing and monthly public disclosures, simultaneously establishing a legal framework that benefits World Liberty Financial's USD1 stablecoin, a venture partially owned by the Trump family.

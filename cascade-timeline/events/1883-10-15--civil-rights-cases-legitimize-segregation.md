@@ -40,7 +40,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: timeline_event
 
 The Supreme Court declares the Civil Rights Act of 1875 unconstitutional in an 8-1 decision, ruling that the Thirteenth and Fourteenth Amendments do not empower Congress to outlaw racial discrimination by private individuals—thereby legitimizing the Jim Crow system of racial segregation that will persist for 80 years. The consolidated cases involve five incidents of discrimination against Black Americans: two at theaters, two at hotels, and one on transit. Justice Joseph P. Bradley writes that the Fourteenth Amendment's Equal Protection Clause prohibits discrimination by state and local government but does not give federal government power to prohibit discrimination by private individuals and organizations. The Court also holds the Thirteenth Amendment was meant to eliminate "the badge of slavery" but not to prohibit racial discrimination in public accommodations.
 

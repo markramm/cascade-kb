@@ -40,6 +40,5 @@ sources:
   tier: 2
 notes: Bill provides $170 billion in immigration enforcement through reconciliation to avoid oversight, creates "significant discretion" for agencies per CBO. Committee for Responsible Federal Budget called accounting gimmicks "would make Enron executives blush."
 ---
-type: timeline_event
 
 Trump's signature budget reconciliation bill increases federal deficits by $3.4 trillion over 10 years while transferring wealth upward, with 65% of benefits flowing to top 10% of earners. Creates multiple opaque funding streams including $100M OMB slush fund for "efficiencies" and $10B DHS border fund with minimal oversight. Permanently extends 2017 tax cuts, expands pass-through deduction to 23%, and raises estate tax exemption to $15 million, directly benefiting Trump Organization structure.

@@ -35,7 +35,6 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 The HUD Office of Inspector General investigated allegations that Secretary Benjamin Carson used his office for the personal benefit of his son, Benjamin Carson Jr., a federal contractor, by allowing him to participate in official Department matters including a June 2017 HUD "listening tour" in Baltimore, Maryland. HUD lawyers explicitly warned Carson that his son's involvement would constitute an apparent conflict of interest in violation of federal ethics rules, but Carson proceeded anyway. The department's deputy general counsel raised concerns directly with Carson about potential ethics violations before the Baltimore event.
 

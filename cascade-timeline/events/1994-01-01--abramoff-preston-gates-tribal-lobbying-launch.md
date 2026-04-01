@@ -36,6 +36,5 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: timeline_event
 
 Jack Abramoff joins Preston Gates & Ellis in late 1994, strategically positioning himself to leverage the Republican electoral victories that reshaped congressional relationships with Native American tribes. By 1995, he had secured the Mississippi Band of Choctaw Indians as his first major client, demonstrating his ability to navigate the new political landscape by defeating legislation that would have imposed taxes on tribal casinos.

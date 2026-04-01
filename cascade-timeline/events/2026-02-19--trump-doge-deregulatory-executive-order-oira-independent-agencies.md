@@ -43,7 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump issued a new executive order on February 19 directing all federal agency heads to complete a comprehensive review of every regulation under their jurisdiction within 60 days, in coordination with their embedded DOGE Team Leads and OMB Director Russell Vought, to identify rules for rescission or modification. The order extended the administration's 10-to-1 deregulation mandate - requiring agencies to identify at least ten regulations for elimination for each new rule proposed - and formally extended OIRA's oversight authority to independent regulatory agencies that had previously operated outside White House review, including the SEC, FCC, FTC, and CFPB.
 

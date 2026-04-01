@@ -48,7 +48,6 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline.
 ---
-type: timeline_event
 
 Donald Trump Jr. met with Serbian President Aleksandar Vučić on March 11, 2025, his second
 visit in six months, to promote a Trump International Hotel project in Belgrade—the first

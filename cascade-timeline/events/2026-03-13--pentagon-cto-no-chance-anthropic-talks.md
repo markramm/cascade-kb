@@ -39,7 +39,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: timeline_event
 
 Pentagon Chief Technology Officer Emil Michael told CNBC on March 13, 2026, that there was "no chance" the Department of Defense would resume negotiations with Anthropic, ten days after the company was placed on a supply chain risk designation that barred it from all federal contracts. Michael accused Anthropic of "leaking and bad faith" throughout the negotiation process, characterizing the company's public disclosures about the dispute as a deliberate strategy to generate sympathetic media coverage.
 

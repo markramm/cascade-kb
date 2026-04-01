@@ -34,7 +34,6 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 A bipartisan coalition of 39 state attorneys general announced a $1.85 billion settlement with Navient Corporation on January 13, 2022, resolving allegations that the student loan servicing giant engaged in systematic fraud by steering struggling borrowers into costly long-term forbearances instead of counseling them about affordable income-driven repayment plans. The settlement included $1.7 billion in private student loan debt cancellation for approximately 66,000 borrowers and $95 million in restitution payments of about $260 each to approximately 350,000 federal loan borrowers.
 

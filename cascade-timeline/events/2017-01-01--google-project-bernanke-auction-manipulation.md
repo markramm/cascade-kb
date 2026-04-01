@@ -58,7 +58,6 @@ connections:
 - Texas antitrust lawsuit
 notes: Named after Fed Chairman Ben Bernanke for its manipulation of "monetary policy" in ad auctions. Represents one of clearest examples of how vertical integration enabled Google to commit what amounted to systematic fraud against both publishers and advertisers.
 ---
-type: timeline_event
 
 In 2017, Google's secret "Project Bernanke" was in full operation—a systematic auction manipulation scheme that used insider information and algorithmic deception to advantage Google's own ad-buying platform while harming both publishers and competing advertisers. The program's existence and mechanics were later revealed through internal Google documents disclosed in the Texas Attorney General's antitrust lawsuit filed in December 2020.
 

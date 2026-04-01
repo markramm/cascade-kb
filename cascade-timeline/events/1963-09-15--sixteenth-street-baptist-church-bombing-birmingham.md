@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On September 15, 1963, at approximately 10:24 AM, four members of the Ku Klux Klan detonated 19 sticks of dynamite attached to a timing device beneath the steps of the 16th Street Baptist Church in Birmingham, Alabama. The explosion killed four young African American girls—Addie Mae Collins (14), Carole Robertson (14), Cynthia Wesley (14), and Carol Denise McNair (11)—who were in the church basement preparing for Youth Day services. Twenty-two others were injured, including Collins' younger sister Sarah. The bombing occurred less than three weeks after the March on Washington and came in direct retaliation for the May 1963 desegregation agreement that ended the Birmingham Campaign, demonstrating the violent extremism that characterized institutional resistance to civil rights progress.
 

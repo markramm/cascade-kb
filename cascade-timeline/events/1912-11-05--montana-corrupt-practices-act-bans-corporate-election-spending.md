@@ -41,7 +41,6 @@ sources:
   date: '2012'
   tier: 1
 ---
-type: timeline_event
 
 Montana voters approved the Corrupt Practices Act by ballot initiative with 76% support, establishing one of the nation's strongest bans on corporate money in elections. The law responded directly to decades of systematic corruption by the "Copper Kings" - mining barons William A. Clark, F. Augustus Heinze, and Marcus Daly - who had openly purchased judges, controlled newspapers, and bribed legislators. This citizen-led reform represented a rare successful pushback against corporate capture of democratic institutions, though it would be overturned exactly 100 years later by the U.S. Supreme Court.
 

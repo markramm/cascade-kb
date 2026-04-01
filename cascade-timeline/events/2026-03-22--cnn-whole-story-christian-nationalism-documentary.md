@@ -27,7 +27,6 @@ status: confirmed
 capture_lanes:
 - Church-State Capture
 ---
-type: timeline_event
 
 On March 22, 2026, CNN aired a full-hour documentary on "The Whole Story with Anderson Cooper" examining the Christian nationalism movement's trajectory from the margins of American religious life to the center of political power. The special was reported by Pamela Brown, who traveled to faith communities across the country and conducted extensive interviews with movement leaders, political operatives, and affected individuals.
 

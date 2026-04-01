@@ -49,7 +49,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Former Facebook product manager Frances Haugen testifies before the U.S. Senate that Facebook's products harm children, stoke division, and weaken democracy, backed by tens of thousands of internal company documents showing Facebook executives knew about Instagram's severe mental health impacts on teens but prioritized profit over safety. The testimony catalyzes global regulatory momentum and exposes Facebook's systematic prioritization of engagement over user wellbeing.
 

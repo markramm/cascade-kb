@@ -72,7 +72,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 On December 3, 2025, the American Foreign Service Association (AFSA) released a comprehensive report revealing that nearly 25% of the U.S. Foreign Service workforce—approximately 4,250 career diplomats—have left the State Department since January 2025 through resignations, retirements, layoffs, and forced departures.
 

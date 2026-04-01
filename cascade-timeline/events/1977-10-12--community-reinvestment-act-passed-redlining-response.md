@@ -38,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Carter signs the Community Reinvestment Act (CRA), requiring banks to meet the credit needs of their entire communities, including low- and moderate-income neighborhoods previously redlined by lenders. The law responds to decades of documented discriminatory lending that drained deposits from minority communities while denying them mortgage credit. Senator William Proxmire champions the legislation, stating banks have "an affirmative obligation" to serve all communities where they take deposits.
 

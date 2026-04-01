@@ -63,7 +63,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 The Oregon Legislature passes and Governor Tom McCall signs the Oregon Forest Practices Act, the nation's first comprehensive forest management legislation, which becomes effective in 1972. While portrayed as environmental protection, the Act represents a sophisticated regulatory capture mechanism: timber industry leaders drafted the legislation themselves in the late 1960s explicitly to preempt federal regulation and control enforcement of forest practices. The law was developed in response to growing public concern about clear-cutting and environmental destruction, but no scientific assessment of forest conditions preceded its adoption. Instead, industry executives designed regulations they could live with while appearing responsive to social pressure. The timber industry actively supported the FPA, publicly framing it as controlling "a few bad actors" while privately ensuring the law's provisions would not meaningfully constrain profitable but destructive practices.

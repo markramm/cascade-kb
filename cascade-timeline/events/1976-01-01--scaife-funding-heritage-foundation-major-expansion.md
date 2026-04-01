@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: timeline_event
 
 Billionaire Richard Mellon Scaife emerges as the Heritage Foundation's largest and most crucial donor, contributing $420,000 in 1976 alone - representing 42 percent of the foundation's total $1 million annual budget. Scaife's massive financial commitment transforms Heritage from a small think tank into a major force in conservative politics, providing the resources necessary for substantial expansion of operations and influence. His funding comes through the Scaife Family Charitable Trust and represents a strategic investment in building conservative intellectual infrastructure as envisioned in the Powell Memorandum. Scaife's support enables Heritage to compete with established liberal institutions like Brookings and begin developing the policy expertise that will later influence the Reagan administration. Over the next two decades, Scaife would ultimately contribute more than $23 million to the Heritage Foundation, establishing a funding model that demonstrates how concentrated wealth can systematically shape intellectual discourse and policy development in the United States.

@@ -98,7 +98,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The United States Senate rejected President Reagan's nomination of Robert Bork to the Supreme Court by a vote of 42-58 on October 23, 1987, marking the first time in nearly a century that the Senate rejected a nominee primarily on ideological grounds. Reagan had nominated Bork on July 1, 1987, to replace retiring Justice Lewis F. Powell Jr., a moderate who frequently served as the Court's swing vote. Senator Edward Kennedy delivered a floor speech within hours of the announcement warning that "Robert Bork's America is a land in which women would be forced into back-alley abortions, blacks would sit at segregated lunch counters" — energizing a coordinated opposition campaign by civil rights organizations, women's groups, labor unions, and environmental organizations.
 

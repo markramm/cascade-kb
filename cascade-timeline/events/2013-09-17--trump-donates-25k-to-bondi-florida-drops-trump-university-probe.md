@@ -34,7 +34,6 @@ capture_lanes:
 - Kleptocratic Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 In September 2013, Florida Attorney General Pam Bondi's office publicly announced it was "currently reviewing" whether to join New York AG Eric Schneiderman's lawsuit against Trump University for fraud. Approximately four to six days later, the Donald J. Trump Foundation donated $25,000 to Bondi's re-election PAC, "And Justice for All." Bondi later admitted her campaign had directly solicited the donation from Trump.
 

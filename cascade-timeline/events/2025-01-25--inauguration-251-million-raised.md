@@ -40,6 +40,5 @@ sources:
 notes: Clear donor-to-appointee pipeline. Donors received VIP tickets and access. Most corporate donors only gave after Trump won, not during campaign, suggesting transactional nature.
 status: confirmed
 ---
-type: timeline_event
 
 Trump's 2025 inauguration raised record $251.4 million, a 142% increase from his 2017 inauguration and quadruple Biden's 2021 total. Corporate donations totaled $161.1 million with 104 businesses giving $1 million or more. Pilgrim's Pride Corp. led with $5 million, Ripple Labs gave $4.9 million. Warren Stephens, who gave $4 million, was appointed UK Ambassador. Only six of hundreds of corporate donors had supported Trump's campaign—most donated only after inauguration benefits became available. The fundraising exceeded all prior inaugurations' total amounts just from million-dollar donors alone.

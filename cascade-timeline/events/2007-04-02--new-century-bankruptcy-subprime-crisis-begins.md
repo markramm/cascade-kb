@@ -38,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 New Century Financial Corporation, the nation's second-largest subprime mortgage lender, files for bankruptcy protection after its stock loses 90 percent of its value in weeks, marking the beginning of the subprime mortgage crisis. The company had originated $60 billion in subprime loans in 2006 alone, and its collapse reveals the fraudulent lending practices that permeated the industry.
 

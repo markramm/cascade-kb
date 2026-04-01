@@ -42,6 +42,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 Rep. Marjorie Taylor Greene purchased $21,000 to $315,000 in stocks across 19 companies on April 8-9, 2025, just before and during President Trump's surprise 90-day tariff pause. The market surge saw the S&P 500 rise 9.5% and Nasdaq jump 12.2%. Greene bought stocks in companies like Apple, Tesla, Nvidia, and Palantir, which were previously down 40%, and also sold Treasury bills ahead of the announcement.

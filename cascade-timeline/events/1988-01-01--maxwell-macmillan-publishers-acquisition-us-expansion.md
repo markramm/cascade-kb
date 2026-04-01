@@ -52,6 +52,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 In 1988, Robert Maxwell acquired Macmillan Publishers for approximately $2.6 billion as part of an aggressive media empire expansion strategy. The acquisition, driven by his rivalry with Rupert Murdoch, was financed through a $3 billion loan and represented a key moment in Maxwell's international media consolidation. By purchasing Macmillan Publishers, Official Airline Guides, and Berlitz International, Maxwell significantly expanded his presence in the United States, creating a complex international media network that would ultimately contribute to his financial downfall.

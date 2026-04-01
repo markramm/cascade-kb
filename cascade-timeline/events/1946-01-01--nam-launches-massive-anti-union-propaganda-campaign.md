@@ -69,7 +69,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 
 The National Association of Manufacturers launches a massive multi-faceted propaganda campaign in response to the unprecedented 1946 strike wave, when nearly 10 percent of the US workforce goes on strike including major actions by the United Auto Workers against General Motors, United Steel Workers against U.S. Steel, and United Electrical Workers against General Electric. NAM's main propaganda agency, the National Industrial Information Council (NIIC), orchestrates publicity circulating 2 million copies of cartoons, 4.5 million copies of newspaper columns written by pro-business economists, 2.4 million foreign language news pieces, and 11 million employee leaflets. The campaign displays 45,000 billboards seen by an estimated 65 million Americans daily, while NAM's film series is viewed by approximately 18 million people.

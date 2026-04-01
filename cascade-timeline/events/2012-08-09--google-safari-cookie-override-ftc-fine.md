@@ -57,7 +57,6 @@ connections:
 - Pattern of privacy violations for profit
 notes: Demonstrated Google's willingness to deliberately violate user privacy and consent decrees for advertising revenue. The "accidental" claim was contradicted by the technical sophistication required to exploit the Safari loophole.
 ---
-type: timeline_event
 
 On August 9, 2012, the Federal Trade Commission announced that Google would pay a record $22.5 million civil penalty—the largest ever levied against a single company in FTC history—to settle charges of deliberately circumventing Apple Safari browser privacy settings to track users without their consent.
 

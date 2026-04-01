@@ -35,5 +35,4 @@ sources:
   verified: true
   outlet: History.com
 ---
-type: timeline_event
 Interior Secretary Albert Fall secretly granted Harry Sinclair's Mammoth Oil Company exclusive rights to extract oil and gas from the Teapot Dome naval petroleum reserve in Wyoming for 20 years, without competitive bidding. Fall locked the contract in his desk and instructed staff to tell no one about it. In return, Sinclair provided Fall with $233,000 worth of Liberty Bonds through a money-laundering scheme involving the Continental Trading Company. The Wall Street Journal broke the story on April 14, 1922, triggering what would become the greatest political corruption scandal in American history before Watergate. This secret deal represented a complete betrayal of the public trust, converting strategic national resources into private profits through bribery.

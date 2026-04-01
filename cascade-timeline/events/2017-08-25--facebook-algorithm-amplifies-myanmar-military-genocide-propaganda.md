@@ -49,7 +49,6 @@ capture_lanes:
 - Media Capture & Control
 - Corporate Capture
 ---
-type: timeline_event
 
 Facebook's engagement-maximizing algorithm proactively amplifies Myanmar military's anti-Rohingya hate speech and genocide propaganda, directly contributing to systematic ethnic cleansing that kills thousands and displaces over 700,000 Rohingya Muslims. The platform's surveillance capitalism business model prioritizes engagement over human safety despite years of warnings from civil society.
 

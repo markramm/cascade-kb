@@ -48,6 +48,5 @@ capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 Trump and business partner Bill Zanker announced a blockchain-based real estate video game resembling Monopoly, expanding the Trump family's crypto ecosystem. The game allows players to build digital real estate using blockchain tokens, representing Trump's continued push into cryptocurrency and digital ventures.

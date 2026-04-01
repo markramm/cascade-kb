@@ -24,7 +24,6 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On March 19, 2026, CNN reported that approximately 2.5 million pages of Epstein-related documents remained unreleased, even after the passage of the bipartisan Epstein Transparency Act. While roughly 3.5 million pages had been published, many were so heavily redacted as to be functionally useless, with entire sections blacked out and key names, dates, and details obscured. The scale of what remained hidden underscored the gap between the political promise of full disclosure and the reality of institutional resistance.
 

@@ -35,7 +35,6 @@ capture_lanes:
 - Judicial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On July 27, 1919, the drowning of Black teenager Eugene Williams - who drifted into a white beach area on Lake Michigan and was stoned by white beachgoers - triggered eight days of racial violence in Chicago that killed 38 people (23 Black, 15 white), injured 537, and left over 1,000 Black families homeless. The Chicago riot was the most severe of more than two dozen racial massacres during the "Red Summer" of 1919.
 

@@ -38,7 +38,6 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On January 22, 2004, President George W. Bush signed the DC School Choice Incentive Act, creating the DC Opportunity Scholarship Program (OSP)—the first federally-funded private school voucher program in American history. Congress used its constitutional authority over the District of Columbia to implement a voucher experiment that would have faced fierce opposition in any state legislature with elected local representation.
 

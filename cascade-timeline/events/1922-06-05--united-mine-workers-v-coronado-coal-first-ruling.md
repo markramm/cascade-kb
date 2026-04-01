@@ -39,7 +39,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court rules in United Mine Workers v. Coronado Coal Co. that unincorporated labor unions can be sued in federal court as legal entities, establishing a precedent that exposes unions to potentially devastating civil liability. The case arises from Arkansas's Sebastian County Union War of 1914, during which violence occurred at Coronado Coal Company facilities during a strike. While the Court vacates a lower court judgment finding the union violated the Sherman Antitrust Act—reasoning that coal mining itself is not interstate commerce and the company failed to prove the union intended to restrain interstate trade—the decision opens unions to lawsuits in ways corporations had long feared for themselves.
 

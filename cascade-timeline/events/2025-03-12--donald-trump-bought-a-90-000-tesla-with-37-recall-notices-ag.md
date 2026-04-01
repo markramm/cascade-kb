@@ -43,6 +43,5 @@ capture_lanes:
 - Corporate Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump turned the White House South Lawn into a Tesla showroom, purchasing a red Tesla Model S while Elon Musk was present. The event raised significant ethics concerns about presidential conduct and corporate endorsement, occurring amid Tesla's declining stock performance.

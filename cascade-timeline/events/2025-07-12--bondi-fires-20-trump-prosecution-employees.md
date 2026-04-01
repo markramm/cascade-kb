@@ -42,5 +42,4 @@ tags:
 - workforce-transformation
 title: Bondi Fires 20 Justice Department Employees Tied to Trump Prosecutions
 ---
-type: timeline_event
 Attorney General Pam Bondi fired at least 20 Justice Department employees specifically linked to Jack Smith's investigations of Trump, including prosecutors, support staff, litigation assistants, and U.S. marshals. This action is part of a broader systematic purge of DOJ personnel involved in Trump-related prosecutions, demonstrating an unprecedented level of political interference in the Justice Department. The firings have created a chilling effect among career DOJ employees, with hundreds of workers leaving the department and entire investigative units being dismantled. The move appears designed to reshape the DOJ's workforce to align more closely with Trump's political interests, effectively weaponizing the department's hiring and firing practices.

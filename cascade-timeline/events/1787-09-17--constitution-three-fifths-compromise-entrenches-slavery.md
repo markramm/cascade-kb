@@ -52,7 +52,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 
 The Constitutional Convention concludes its work by approving a Constitution that entrenches slavery through multiple provisions despite deliberately avoiding the word "slave" in the document. The most notorious provision is the Three-Fifths Compromise, proposed by delegate James Wilson and seconded by Charles Pinckney, which counts enslaved people as three-fifths of a person for purposes of congressional apportionment and taxation. This compromise dramatically amplifies Southern political power by allowing slave states to count 60 percent of their enslaved population—people with no voting rights or legal personhood—toward representation in the House of Representatives and Electoral College votes. The Constitution also includes the Fugitive Slave Clause (Article IV, Section 2) requiring return of freedom seekers to enslavers, prohibits Congress from banning the international slave trade until 1808 (Article I, Section 9), and grants the federal government power to suppress domestic insurrections including slave rebellions.

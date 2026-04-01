@@ -38,6 +38,5 @@ capture_lanes:
 status: confirmed
 priority_id: RT-COMPLETED-025-powell-whig-template-acceleration
 ---
-type: timeline_event
 
 American Enterprise Institute leads coordinated think tank support for Iraq invasion, with over 20 AEI staff serving in Bush administration posts. Demonstrates systematic implementation of Powell Memo institutional capture strategy, using crisis to accelerate think tank influence over policy through embedded personnel and coordinated messaging.

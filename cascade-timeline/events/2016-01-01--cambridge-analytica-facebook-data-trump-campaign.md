@@ -56,5 +56,4 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 Cambridge Analytica utilizes 87 million harvested Facebook profiles to conduct targeted psychological manipulation for Donald Trump's presidential campaign. The operation represents systematic electoral interference using illegally obtained personal data to influence American voters through precision-targeted disinformation campaigns. Cambridge Analytica's psychographic profiling enables micro-targeted political advertisements designed to exploit individual psychological vulnerabilities and political biases. The deployment demonstrates how foreign-linked political consulting firms can weaponize American social media platforms to undermine electoral integrity. This systematic data abuse operation parallels Russian electoral interference efforts, creating coordinated assault on democratic processes through social media manipulation.

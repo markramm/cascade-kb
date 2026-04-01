@@ -47,7 +47,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On August 8, 1846, amidst the Mexican-American War, Democratic Congressman David Wilmot of Pennsylvania introduces an amendment to President James Polk's $2 million appropriation bill for purchasing territory from Mexico, boldly declaring that "neither slavery nor involuntary servitude shall ever exist" in any lands won in the Mexican-American War. The Wilmot Proviso passes the House largely on sectional lines—a generally antislavery North in favor and a proslavery South against—foreshadowing the coming conflicts that will tear the nation apart. The amendment fails in the Senate, where the South has greater representation through equal state representation regardless of population. When reintroduced in February 1847, the Proviso again passes the House and fails in the Senate, establishing a clear pattern: the North controls the House (where representation is determined by population) while the South checks this power in the Senate (where every state has two senators regardless of size).
 

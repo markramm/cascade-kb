@@ -37,7 +37,6 @@ capture_lanes:
 - Institutional Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 On March 12, 2026, U.S. Postmaster General Louis DeJoy signed a formal agreement with the General Services Administration and representatives of the Department of Government Efficiency (DOGE) to cut 10,000 postal workers and billions of dollars from the U.S. Postal Service budget within 30 days through a voluntary early retirement program.
 

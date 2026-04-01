@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On May 29, 1851, Sojourner Truth delivered a landmark speech at the Women's Rights Convention in Akron, Ohio, becoming the only woman who spoke at the convention who had ever been held in slavery. Born into slavery in Ulster County, New York around 1797, Truth had experienced a religious conversion and changed her name from Isabella in 1843, becoming an itinerant preacher. Her speech made powerful arguments about women's physical and intellectual capacities while using religious reasoning to support equal rights. The speech demonstrated how democratic exclusion operated along intersecting lines of race and gender, challenging both the women's rights movement and broader society to confront the compound oppression faced by Black women. Her presence at the convention revealed tensions within the suffrage movement that would later fracture the alliance between women's rights activists and abolitionists.
 

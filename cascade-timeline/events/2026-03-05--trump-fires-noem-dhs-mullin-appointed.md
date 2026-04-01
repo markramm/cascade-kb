@@ -57,7 +57,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 President Donald Trump announced on March 5, 2026 that he was dismissing Department of Homeland Security Secretary Kristi Noem, making her the first Cabinet secretary removed in his second term. Trump announced that Sen. Markwayne Mullin (R-Oklahoma) would replace her, effective March 31, 2026. Noem was reassigned to a newly created role as Special Envoy for the Shield of the Americas.
 

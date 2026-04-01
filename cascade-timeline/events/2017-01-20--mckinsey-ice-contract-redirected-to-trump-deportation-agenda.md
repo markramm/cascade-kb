@@ -128,7 +128,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 Just days after Trump takes office in January 2017, he issues executive orders directing 'all legally available resources' to be shifted to border detention facilities and calls for hiring 10,000 new immigration officers. ICE quickly redirects McKinsey's existing organizational transformation contract toward helping the agency execute the White House's immigration crackdown.
 
 The money-saving recommendations McKinsey develops make even some career ICE staff uncomfortable. McKinsey pursues 'detention savings opportunities' in blunt ways, encouraging ICE to adopt a 'longer-term strategy' with 'operational decisions to fill low cost beds before expensive beds.' In practice, this means shunting detainees to less expensive and sometimes less safe facilities, often rural county jails with minimal oversight.

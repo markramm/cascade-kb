@@ -39,5 +39,4 @@ geographical_focus:
   city: Springfield
   state: Ohio
 ---
-type: timeline_event
 VP nominee J.D. Vance amplified a baseless conspiracy theory claiming Haitian immigrants in Springfield, Ohio were 'abducting and eating' pets. Despite being informed by city manager Bryan Heck that the claims were unfounded, Vance continued to spread misinformation, leading to community disruption including bomb threats at city hall, schools, and local hospitals. The original claim by Anna Kilgore was based on unsubstantiated Facebook and TikTok rumors, which she later retracted after her cat returned home.

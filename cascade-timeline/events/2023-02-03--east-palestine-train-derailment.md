@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On February 3, 2023, at 8:55 PM EST, a Norfolk Southern freight train carrying hazardous materials derailed in East Palestine, Ohio, with 38 cars derailing and 20 containing hazardous chemicals including vinyl chloride. The National Transportation Safety Board determined that a defective, overheated wheel bearing on a hopper car caused the derailment. Three days later, officials conducted a controlled "vent and burn" of five tank cars containing vinyl chloride monomer, creating a massive toxic mushroom cloud over the small town of approximately 4,700 residents.
 

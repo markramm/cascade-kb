@@ -59,7 +59,6 @@ sources:
 notes: Transportation Secretary Sean Duffy, former airline lobbyist, waived fine for politically connected airline despite 2 million passengers stranded
 status: confirmed
 ---
-type: timeline_event
 
 The Trump administration's Department of Transportation waived the final $11 million payment of Southwest Airlines' historic $140 million fine on December 6, 2025, eliminating corporate accountability for the airline's catastrophic 2022 holiday meltdown that stranded over 2 million passengers. The decision by Transportation Secretary Sean Duffy—a former airline industry lobbyist—represents a stark reversal of consumer protection enforcement and demonstrates regulatory capture favoring politically aligned corporations.
 

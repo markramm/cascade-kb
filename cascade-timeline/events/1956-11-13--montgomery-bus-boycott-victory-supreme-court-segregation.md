@@ -42,7 +42,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On November 13, 1956, the United States Supreme Court affirmed the district court ruling in Browder v. Gayle, declaring Montgomery, Alabama's bus segregation laws unconstitutional. The decision marked the triumphant conclusion of the 381-day Montgomery Bus Boycott and established Martin Luther King Jr. as a national civil rights leader while demonstrating the power of organized nonviolent economic resistance.
 

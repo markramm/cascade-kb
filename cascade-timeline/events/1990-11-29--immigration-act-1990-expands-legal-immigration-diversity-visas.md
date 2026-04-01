@@ -37,7 +37,6 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 President George H.W. Bush signs the Immigration Act of 1990 (IMMACT), the most significant expansion of legal immigration since the Hart-Celler Act of 1965. The law increases annual immigration limits from 500,000 to 700,000 for the first three years and 675,000 thereafter, creates the Diversity Visa Lottery allocating 55,000 visas annually to countries with low immigration rates, expands employment-based immigration categories, and establishes the H-1B temporary worker visa program for specialty occupations requiring at least a bachelor's degree.
 

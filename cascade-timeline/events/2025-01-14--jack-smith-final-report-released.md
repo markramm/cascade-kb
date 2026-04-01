@@ -38,6 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Special Counsel Jack Smith released his 137-page final report on Trump's January 6 case, concluding Trump engaged in an "unprecedented criminal effort" to overturn the 2020 election through "deceit and knowingly false claims." Smith stated Trump would have been convicted at trial "but for Mr. Trump's election and imminent return to the Presidency." The report revealed Trump knew he lost, telling Pence he was "too honest" and fake electors testified they wouldn't have participated had they known the full plan.

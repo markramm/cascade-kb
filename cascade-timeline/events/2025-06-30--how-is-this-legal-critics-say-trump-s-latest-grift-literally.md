@@ -43,6 +43,5 @@ notes: Part of a broader pattern of presidential brand monetization. Fragrances 
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 President Trump launched a new fragrance line called Victory 45-47, priced at $249 per bottle, as part of his ongoing strategy to monetize his presidential brand. The launch includes both men's and women's fragrances, with White House Press Secretary Karoline Leavitt defending the venture against criticism of presidential profiteering.

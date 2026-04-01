@@ -38,7 +38,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Approximately 500 National Guard troops began returning from federal service to their respective states after the Supreme Court's December 23, 2025 ruling blocked Trump's deployment to Chicago, Los Angeles, and Portland. U.S. Northern Command announced the demobilization as Trump acknowledged defeat in a December 31 Truth Social post, though he pledged to return "in a much different and stronger form, when crime begins to soar again."
 

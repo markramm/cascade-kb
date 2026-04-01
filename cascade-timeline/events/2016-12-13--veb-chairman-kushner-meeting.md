@@ -42,5 +42,4 @@ sources:
 notes: 'VEB under US sanctions since 2014. Gorkov gave Kushner two gifts including dirt from Belarus village where Kushner''s grandparents lived. Meeting occurred Dec 13-14 based on flight records. Kushner''s non-disclosure accelerated FBI investigation of Russian interference. VEB previously connected to Epstein financial network.'
 status: confirmed
 ---
-type: timeline_event
 VEB Chairman Sergey Gorkov (FSB Academy graduate) met with Kushner at Trump Tower in December 2016 meeting arranged by Ambassador Kislyak. Conflicting explanations given - VEB claimed business meeting, White House claimed diplomacy. Kushner failed to disclose meeting on security clearance application, accelerating FBI probe.

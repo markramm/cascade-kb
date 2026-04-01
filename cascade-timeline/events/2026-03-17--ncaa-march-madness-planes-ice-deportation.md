@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: timeline_event
 
 As the NCAA men's and women's basketball tournaments tipped off in mid-March 2026, a coalition of immigration activists launched the "De-ICE These Flights" campaign to draw public attention to the overlap between the charter airline industry's lucrative sports contracts and its even more lucrative immigration enforcement contracts. The campaign targeted GlobalX and Key Lime Air, two charter operators that simultaneously flew college basketball teams to tournament sites and transported ICE detainees on deportation flights.
 

@@ -46,7 +46,6 @@ capture_lanes:
 - Systematic Corruption
 - Media Capture & Control
 ---
-type: timeline_event
 
 President Trump ordered the recall of Ambassador Marie Yovanovitch from her post in Ukraine on April 24, 2019, with her recall becoming public on May 7, following a coordinated smear campaign orchestrated by Trump's personal attorney Rudy Giuliani, corrupt Ukrainian prosecutor Yuriy Lutsenko, and Giuliani associates Lev Parnas and Igor Fruman. Yovanovitch, a career diplomat with 33 years of service and a reputation for fighting corruption, became a target because her anti-corruption efforts in Ukraine threatened to expose the scheme Giuliani was orchestrating to pressure Ukraine into investigating Joe Biden. The State Department later characterized Lutsenko's allegations against Yovanovitch as "an outright fabrication" and a "classic disinformation campaign," but Trump nevertheless removed one of America's most distinguished diplomats to clear the path for his shadow diplomacy operation.
 

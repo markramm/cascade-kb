@@ -37,6 +37,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Whitefish Energy, a Montana company with only two full-time employees from Interior Secretary Ryan Zinke's hometown, received a $300 million no-bid contract to restore Puerto Rico's power grid after Hurricane Maria. The contract prohibited government auditing of costs while charging $462 per hour for supervisors and requiring Puerto Rico to pay all legal fees if disputed. The company had no experience with projects of this scale. After public outcry and congressional investigation, Puerto Rico's governor canceled the contract. FEMA later refused to approve reimbursement for the work. The disaster left 3,000+ Puerto Ricans dead while the administration delayed aid and Trump threw paper towels at survivors.

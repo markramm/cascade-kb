@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 Just six days after the Watergate break-in, President Richard Nixon met with his Chief of Staff H.R. Haldeman in the Oval Office from 10:04am to 11:39am to discuss damage control. During this conversation—secretly recorded by Nixon's own voice-activated taping system—the President ordered Haldeman to direct Deputy CIA Director Vernon Walters to interfere with FBI Acting Director Pat Gray's investigation. Nixon intended to mislead the FBI into believing that the Watergate break-in involved national security and CIA operations, not politics. The President instructed Haldeman to tell the CIA to request that the FBI call off its investigation, actively plotting to use one federal agency to obstruct another's criminal probe.
 

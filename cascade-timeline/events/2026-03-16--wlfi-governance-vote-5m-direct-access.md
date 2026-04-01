@@ -38,7 +38,6 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 On March 16, 2026, World Liberty Financial — the cryptocurrency venture controlled by the Trump family — passed a governance vote with 99.12 percent approval that restructured the platform's token system and created an explicit tiered access mechanism. Under the new structure, holders who locked up $5 million or more in tokens received "guaranteed direct access" to the World Liberty Financial team, effectively formalizing a pay-for-access arrangement connected to the presidential family's business interests.
 

@@ -47,5 +47,4 @@ sources:
   archive_url: ''
   tier: 2
 ---
-type: timeline_event
 Arizona's Cochise County Supervisor Peggy Judd pleaded guilty to a misdemeanor for refusing to certify the 2022 midterm election on time, receiving 90 days of probation and a $500 fine. Her plea agreement acknowledges that she knowingly delayed the election canvass, highlighting ongoing challenges to electoral integrity.

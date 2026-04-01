@@ -43,5 +43,4 @@ status: confirmed
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 CBP awarded Accenture $297M contract to hire 7,500 border agents/officers to meet Trump's executive order. Delivered only 2 agents first year, 22-58 total hires by termination. $40K per hire cost exceeded average officer salary. Contract terminated April 2019 'for convenience' after DHS IG management alert.

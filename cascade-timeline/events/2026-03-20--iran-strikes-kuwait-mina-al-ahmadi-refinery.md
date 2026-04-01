@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 20, 2026, Iranian drones struck Kuwait's Mina al-Ahmadi refinery — the country's largest oil processing facility with a capacity of 730,000 barrels per day — for the second consecutive day. Multiple processing units caught fire during the attacks, which coincided with Eid al-Fitr celebrations across the Muslim world. The timing of the strikes during the holiest period of the Islamic calendar drew particular condemnation from Gulf Arab states.
 

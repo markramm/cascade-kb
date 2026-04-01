@@ -58,7 +58,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Interior Department announced on November 25, 2025, that the National Park Service would remove Martin Luther King Jr. Day and Juneteenth from its 2026 calendar of fee-free entry days, while adding President Trump's birthday (June 14, which coincides with Flag Day) to the list of "resident-only patriotic fee-free days." The changes became public on December 6, 2025, sparking immediate condemnation from civil rights organizations and Democratic lawmakers.
 

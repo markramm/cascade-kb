@@ -31,7 +31,6 @@ capture_lanes:
 - Democratic Backsliding
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 19, 2026, Freedom House released its annual "Freedom in the World" report, assigning the United States a score of 81 out of 100 — the lowest since the organization adopted its current 100-point scale in 2002. The three-point drop from the prior year extended a two-decade trajectory of decline: since 2005, the United States had lost a net 12 points, a larger cumulative decline than any other country that retained a "Free" classification except Nauru and Bulgaria.
 

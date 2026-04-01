@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On March 3, 1913, the day before Woodrow Wilson's presidential inauguration, Alice Paul and Lucy Burns, newly-appointed chairs of NAWSA's Congressional Committee, organized the first major civil rights march on Washington, D.C. Lawyer and activist Inez Milholland, riding a white horse named Grey Dawn while wearing a white dress, cape, and golden tiara with the star of hope, led over 5,000 suffragists, 20 parade floats, nine bands, and four mounted brigades down Pennsylvania Avenue. Paul had strategically chosen Milholland, known as "the most beautiful suffragist," for her photogenic appeal, demonstrating sophisticated media strategy to generate publicity for the cause. The procession deliberately followed the same route planned for Wilson's inaugural parade the next day, challenging the incoming president to acknowledge women's systematic exclusion from the democratic process he claimed to champion.
 

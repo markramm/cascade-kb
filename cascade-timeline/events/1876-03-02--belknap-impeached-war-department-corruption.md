@@ -41,7 +41,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: timeline_event
 
 The House of Representatives votes to impeach Secretary of War William W. Belknap on March 2, 1876—just minutes after he races to the White House, hands President Grant his resignation, and bursts into tears. Belknap becomes the first cabinet secretary in U.S. history to be impeached for his role in the "trader post scandal" or "Indian Ring," a scheme where he and his wives received over $40,000 in kickback payments over several years from a Fort Sill tradership contract. The scandal exposes how Gilded Age officials convert government appointments into personal profit streams while maintaining lavish lifestyles far beyond their official salaries.
 

@@ -42,5 +42,4 @@ sources:
   date: '2025-07-16'
   tier: 2
 ---
-type: timeline_event
 xAI announced a draft AI safety framework following international pressure, but faced severe criticism from AI safety experts for lack of comprehensive risk mitigation strategies. Industry researchers from OpenAI and Anthropic accused xAI of having a 'reckless' safety culture, highlighting concerns about Grok 4's deployment without proper safety assessments. The incident underscores growing tensions around responsible AI development and the need for standardized safety protocols.

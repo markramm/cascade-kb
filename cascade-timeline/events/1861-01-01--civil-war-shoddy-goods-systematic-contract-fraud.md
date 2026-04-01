@@ -39,7 +39,6 @@ capture_lanes:
 - Systematic Corruption
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Throughout the Civil War, military suppliers systematically defraud the government and endanger Union soldiers by selling defective equipment and supplies in what becomes known as the "shoddy" scandal. Contractors sell boots made from cardboard that dissolve in rain, clothing made from dry-rotted cloth that falls apart, blind and diseased horses and mules unfit for service, ship hulls painted to hide rot, and even bullets filled with sawdust instead of gunpowder. Author Morford's 1864 novel "The Days of Shoddy" defines the term as "a wide and disgraceful synonym for the miserable pretense of patriotism—shoddy coats, shoddy shoes, shoddy blankets, shoddy tents, shoddy horses, shoddy arms, shoddy ammunition, shoddy boats, shoddy beef and bread." The fraud becomes so pervasive that one profiteer boasts, "You can sell anything to the government at almost any price if you've got the guts to ask." In the war's first year, the government spends $50 million on soldiers' sustenance and $50 million on quartermaster supplies; by war's end, these figures reach $369 million and $678 million respectively. Post-war analysis determines that fully one-quarter of government war spending—hundreds of millions of dollars—is lost to fraud.
 

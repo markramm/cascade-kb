@@ -41,6 +41,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 EPA proposed July 29, 2025, rescinding 2009 Endangerment Finding underpinning all U.S. greenhouse gas regulations. Administrator Zeldin called it "largest deregulatory action in history," saving $54 billion annually. Proposal claims CAA Section 202(a) doesn't authorize climate regulations, questions scientific record. Comment period through Sept 22, virtual hearings Aug 19-21.

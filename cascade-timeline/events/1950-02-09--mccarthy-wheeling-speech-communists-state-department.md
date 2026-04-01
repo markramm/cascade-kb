@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On February 9, 1950, junior senator Joseph McCarthy from Wisconsin delivered a Lincoln's birthday address to the Women's Republican Club of Wheeling, West Virginia, claiming he possessed a list of communists working in the State Department. McCarthy declared: "While I cannot take the time to name all the men in the State Department who have been named as members of the Communist Party and members of a spy ring, I have here in my hand a list of 205." He explained that homegrown traitors were causing America to lose the Cold War. The speech vaulted McCarthy to national prominence and sparked a nationwide hysteria about subversives in the American government.
 

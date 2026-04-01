@@ -43,7 +43,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Arkansas and Florida become the first two states to enact "right-to-work" laws on November 7, 1944, following campaigns led by Vance Muse and the Christian American Association that explicitly frame anti-union legislation as essential for maintaining racial segregation and Jim Crow labor relations. The Christian American Association, founded by Muse in Houston in 1936 with backing from Southern oil companies and Northeastern industrialists, champions "Right-to-Work" as a full-blown political slogan. The term itself comes from Dallas Morning News editorial writer William Ruggles, who on Labor Day 1941 called for a constitutional amendment prohibiting the closed or union shop. Muse visits Ruggles and secures the writer's blessing to campaign for state laws, with Ruggles suggesting the name "right-to-work." Muse's own grandson later describes him as "a white supremacist, an anti-Semite, and a Communist-baiter, a man who beat on labor unions not on behalf of working people, as he said, but because he was paid to do so."
 

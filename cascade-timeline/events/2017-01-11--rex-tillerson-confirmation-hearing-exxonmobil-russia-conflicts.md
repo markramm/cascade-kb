@@ -39,7 +39,6 @@ capture_lanes:
 - International Kleptocracy
 - Financial Capture
 ---
-type: timeline_event
 
 Rex Tillerson, Trump's nominee for Secretary of State, faced aggressive Senate questioning about massive conflicts of interest stemming from his 41-year career at ExxonMobil, particularly the company's extensive Russia dealings and opposition to sanctions. Tillerson had served as ExxonMobil CEO from 2006-2016 and negotiated a $600 million deal in 2011 with Russian state-owned oil company Rosneft to exploit Russian shale oil reserves.
 

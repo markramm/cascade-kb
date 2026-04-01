@@ -49,6 +49,5 @@ notes: This event represents a significant example of kleptocratic capture, demo
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 Attorney General Pam Bondi disbanded Task Force KleptoCapture, the DOJ unit created in 2022 to investigate and prosecute Russian oligarchs for sanctions violations. The task force had seized yachts and brought indictments against Deripaska and Malofeyev before being shut down.

@@ -72,7 +72,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Media Capture & Control
 ---
-type: timeline_event
 
 On Monday, December 2, 2025, the University of Alabama permanently suspended two student-run magazines—Alice, focused on women, and Nineteen Fifty-Six, focused on Black student life—citing Attorney General Pamela Bondi's July 2025 guidance on what the Trump administration considers unlawful discrimination at federally funded institutions.
 

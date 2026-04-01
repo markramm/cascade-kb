@@ -99,7 +99,6 @@ capture_lanes:
 - Legislative Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 On May 13, 2021, the watchdog group Documented and Mother Jones published a leaked video in which Heritage Action for America Executive Director Jessica Anderson bragged to conservative donors about the organization's $24 million campaign to draft and advance voter restriction legislation across eight key swing states: Arizona, Michigan, Florida, Georgia, Iowa, Nevada, Texas, and Wisconsin. Anderson stated the campaign's goal was to "right the wrongs of November" 2020, making explicit the partisan motivation behind legislation publicly framed as election integrity reform.
 

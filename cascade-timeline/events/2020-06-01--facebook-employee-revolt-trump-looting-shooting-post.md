@@ -46,7 +46,6 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Facebook employees stage an unprecedented virtual walkout protesting Mark Zuckerberg's refusal to take action against Trump's post threatening violence against protesters, stating "when the looting starts, the shooting starts." The employee revolt exposes Facebook's special treatment for Trump despite clear Terms of Service violations, contrasting sharply with Twitter's decision to flag the same content as glorifying violence.
 

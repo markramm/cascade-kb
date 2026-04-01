@@ -39,5 +39,4 @@ connections:
 - SpaceX recruitment network
 - Peter Thiel tech connections
 ---
-type: timeline_event
 Elon Musk launched a strategic recruitment campaign targeting engineers from Palantir and SpaceX networks through Discord servers and online chat groups, seeking to build a team to cut federal spending by one-third. The recruitment effort focused on finding 'hardcore engineers' willing to work in Washington, D.C. for six months, leveraging professional networks from tech companies.

@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 In a landmark decision, Congress reauthorized and expanded Section 702 of the Foreign Intelligence Surveillance Act (FISA), dramatically increasing domestic surveillance capabilities. The legislation allows warrantless access to Americans' communications and compels a wide range of businesses to assist in surveillance efforts, raising significant Fourth Amendment concerns. Expert analysis suggests this represents the most radical expansion of federal surveillance powers in U.S. history, potentially rendering constitutional privacy protections ineffective.

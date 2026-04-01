@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On June 10, 1964, the United States Senate invoked cloture by a vote of 71 to 29, ending a 72-day filibuster against the Civil Rights Act—marking the first time in Senate history that cloture had been successfully invoked to break a filibuster on civil rights legislation. The Southern Bloc of 18 Democratic senators and one Republican, led by Georgia Senator Richard Russell, had waged an intensive campaign to prevent the bill's passage through unlimited debate. Senator Robert Byrd of West Virginia personally filibustered for 14 hours straight, and the Senate debated the bill for sixty days, including seven Saturdays. The successful cloture vote required a bipartisan coalition of 27 Republicans and 44 Democrats, representing a two-thirds majority of the Senate (67 votes) under the rules at that time.
 

@@ -60,7 +60,6 @@ connections:
 - User data collection for monopoly reinforcement
 notes: Most significant antitrust case in decades. Trial testimony revealed Google paid Apple $18 billion in 2021 alone for default search placement. Judge Mehta ruled Google an illegal monopolist in August 2024.
 ---
-type: timeline_event
 
 On October 20, 2020, the United States Department of Justice, joined by eleven state Attorneys General, filed a landmark antitrust lawsuit against Google LLC for illegally monopolizing search and search advertising markets. The case represented the federal government's most significant antitrust enforcement action since United States v. Microsoft Corporation two decades earlier.
 

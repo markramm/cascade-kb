@@ -34,7 +34,6 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: timeline_event
 By the end of 1981, Paul Weyrich had established the three core institutions that would serve as the infrastructure for conservative movement coordination for the next four decades: Heritage Foundation (policy research), ALEC (state legislation), and CNP (coordination hub).
 
 Weyrich co-founded Heritage Foundation in 1973 "in tandem with" the American Legislative Exchange Council (ALEC), creating the think tank and bill mill components. Eight years later in 1981, he co-founded the Council for National Policy to serve as the coordination mechanism linking these institutions with donors, media, and activists.

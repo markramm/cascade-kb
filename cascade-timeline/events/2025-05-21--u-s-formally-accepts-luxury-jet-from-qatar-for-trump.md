@@ -45,5 +45,4 @@ capture_lanes:
 - Executive Power Expansion
 notes: 'Detailed examination reveals complex constitutional and ethical implications of Qatar''s jet gift to the Trump administration.'
 ---
-type: timeline_event
 The U.S. Department of Defense formally accepted a $400 million Boeing 747-8 jet from Qatar, potentially violating the Constitution's foreign emoluments clause. Despite legal and ethical concerns raised by experts, the Trump administration claims the jet is a gift to the U.S. government, though critics argue it directly benefits Trump personally.

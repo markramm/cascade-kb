@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 # Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
 

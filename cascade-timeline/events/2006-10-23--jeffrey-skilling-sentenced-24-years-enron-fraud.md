@@ -36,7 +36,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On October 23, 2006, former Enron CEO Jeffrey Skilling was sentenced to 24 years and four months in federal prison for his role in the Enron fraud, representing one of the harshest sentences ever imposed on a corporate executive. U.S. District Judge Sim Lake also ordered Skilling to forfeit approximately $45 million to be applied toward restitution for victims of Enron's collapse.
 

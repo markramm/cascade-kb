@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Capture
 ---
-type: timeline_event
 
 On March 17, 2026, Bloomberg reported that the Pentagon's Chief Digital and Artificial Intelligence Office (CDAO) was actively working to develop alternatives to Anthropic's Claude and transition classified AI workflows to competing platforms. Cameron Stanley, a senior CDAO official, confirmed that the office had begun the transition process and was evaluating multiple replacement options. Pentagon CTO Emil Michael acknowledged that the transition would take "more than a month" but insisted it was achievable within the six-month deadline President Trump had set for eliminating Anthropic systems from government networks.
 

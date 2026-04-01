@@ -36,7 +36,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Media Capture & Control
 ---
-type: timeline_event
 
 # Amazon Workers in Germany Strike During Black Friday for Union Recognition
 

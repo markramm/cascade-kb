@@ -36,7 +36,6 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: timeline_event
 On September 25, 1989, at an organizational meeting in Atlanta, Pat Robertson founded the Christian Coalition following his unsuccessful 1988 Republican presidential bid. Robertson recruited Ralph Reed, a twenty-eight-year-old doctoral student in history at Emory University, as the organization's first staff member and executive director.
 
 The Christian Coalition represented a new phase in religious right organizing, shifting from the Moral Majority's top-down approach to systematic grassroots electoral infiltration. Reed developed "leadership schools" in states with strong evangelical presence, showing video presentations where Robertson discussed the need for Christians to stop America's "moral slide," then instructing audiences on how to participate in local politics and form local, state, and regional organizations.

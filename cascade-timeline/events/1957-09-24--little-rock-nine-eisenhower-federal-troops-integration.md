@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On September 24, 1957, President Dwight Eisenhower invoked the Insurrection Act of 1807 and issued Executive Order 10730, federalizing the Arkansas National Guard and dispatching 1,000 paratroopers from the 101st Airborne Division to Little Rock, Arkansas. This dramatic federal intervention became necessary after Governor Orval Faubus deployed state National Guard troops to physically prevent nine African American students—the Little Rock Nine—from entering Central High School, in direct defiance of a federal court order to integrate. Faubus had claimed the troops were needed to preserve order and protect against violence, but evidence revealed he had coordinated with segregationists and the Ku Klux Klan to manufacture the crisis.
 

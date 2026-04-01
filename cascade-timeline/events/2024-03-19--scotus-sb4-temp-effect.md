@@ -59,5 +59,4 @@ sources:
   notes: International perspective on the legal dispute
   tier: 1
 ---
-type: timeline_event
 The Supreme Court allowed Texas's SB 4 immigration law to take effect pending further proceedings, before subsequent Fifth Circuit action. A 6-3 ruling temporarily permitted Texas to criminalize border crossings and allow state police to arrest and potentially deport migrants, creating a complex legal battleground between state and federal immigration authorities.

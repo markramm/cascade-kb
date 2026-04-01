@@ -43,7 +43,6 @@ capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
 ---
-type: timeline_event
 
 
 President Trump signed an executive order creating the Presidential Advisory Commission on Election Integrity, chaired by Vice President Mike Pence with Kansas Secretary of State Kris Kobach as vice chair and day-to-day administrator. The commission was established after Trump made unsubstantiated claims that 3-5 million people had fraudulently voted in the 2016 election. On June 28, 2017, Kobach requested every state provide personal voter information including names, addresses, dates of birth, political party, last four digits of Social Security numbers, and voting history. The request met bipartisan backlash: 44 states and DC declined to supply some or all information citing privacy concerns and state laws. As of July 10, no states committed to providing all requested data, with 18 refusing outright. The commission was disbanded on January 3, 2018, with Trump citing states' refusal to provide information and pending lawsuits. Court filings revealed the commission 'did not create any preliminary findings' and 'uncovered no evidence to support claims of widespread voter fraud.' Commission member Maine Secretary of State Matthew Dunlap described it as 'the most bizarre thing I've ever been a part of,' stating the goal appeared to be validating Trump's claims rather than objective investigation. Despite finding zero evidence of fraud, the commission successfully seeded doubt about election integrity and provided cover for state-level voter suppression efforts.

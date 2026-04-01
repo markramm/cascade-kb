@@ -35,6 +35,5 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Mississippi Band of Choctaw Indians begins a contract with Capitol Campaign Strategies, led by Michael Scanlon, who worked closely with Jack Abramoff. The contract was part of a broader corrupt lobbying scheme where Abramoff and Scanlon systematically defrauded Native American tribes. Of the $7.7 million charged, only $1.2 million was spent on actual tribal interests, with the majority diverted through a secret 'gimme five' kickback arrangement. The scheme involved charging excessive fees, splitting profits, and providing undisclosed kickbacks, ultimately leading to federal investigations, multiple guilty pleas, and Abramoff's 48-month prison sentence.

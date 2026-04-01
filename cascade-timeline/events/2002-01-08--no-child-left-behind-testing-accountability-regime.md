@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 On January 8, 2002, President George W. Bush signed the No Child Left Behind Act (NCLB) into law at Hamilton High School in Hamilton, Ohio, with bipartisan fanfare that masked the legislation's deeply destructive effects on public education. Co-sponsored by Senator Ted Kennedy and Representative John Boehner, NCLB created a punitive testing-and-accountability regime that would generate billions for testing companies while labeling thousands of public schools as "failing" and paving the way for privatization.
 

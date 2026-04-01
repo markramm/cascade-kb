@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 The United States Steel Corporation is incorporated with authorized capitalization of $1.4 billion, becoming the first billion-dollar corporation in history and controlling 60% of the nation's primary steel capacity. Financier J.P. Morgan orchestrates the massive consolidation, fusing together ten companies including Andrew Carnegie's extensive steel operations, Morgan's own Federal Steel Company, and John D. Rockefeller's iron ore and shipping interests in Minnesota. The deal originates from a December 1900 dinner at New York's University Club where Carnegie Steel president Charles Schwab outlines the concept of a steel trust to stabilize and streamline the industry. Morgan's subsequent negotiations convince Carnegie to sell his company for $480 million (equivalent to roughly $17 billion today), enabling Carnegie's retirement and shift to philanthropy while Morgan creates a colossus employing 168,000 workers and encompassing everything from massive steelworks to ore mines and shipping.
 

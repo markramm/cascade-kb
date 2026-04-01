@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 IBM Chairman Thomas J. Watson receives the Merit Cross of the German Eagle with Star from Adolf Hitler in June 1937 while serving as President of the International Chamber of Commerce, becoming the first American honored by Hitler with this special award created to "honor foreign nationals who made themselves deserving of the German Reich." The medal, bedecked with swastikas and worn on a sash over the heart, ranks second in prestige only to the German Grand Cross and recognizes Watson's role in facilitating IBM's highly profitable relationship with Nazi Germany through punch card technology that enables unprecedented efficiency in Nazi demographic tracking and bureaucratic operations.
 

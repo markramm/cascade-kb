@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court unanimously upheld an Oregon law limiting women's workdays to ten hours in Muller v. Oregon, creating a narrow exception to the anti-labor Lochner doctrine. Attorney Louis Brandeis filed a revolutionary 113-page brief containing only two pages of legal argument and over 100 pages of sociological data, medical evidence, and expert testimony on the harmful effects of long working hours on women's health. This "Brandeis Brief" technique introduced social science evidence into constitutional adjudication.
 

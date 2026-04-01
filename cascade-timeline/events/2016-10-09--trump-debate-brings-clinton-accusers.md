@@ -45,7 +45,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 On October 9, 2016, just 90 minutes before the second presidential debate in St. Louis, Donald Trump staged a surprise press conference with four women who have accused Bill Clinton of sexual misconduct or been connected to the Clintons' legal history. The event, held at the Four Seasons Hotel and broadcast via Facebook Live, represented an audacious deflection strategy in response to the Access Hollywood tape scandal that had consumed Trump's campaign for the previous 48 hours.
 

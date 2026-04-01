@@ -38,7 +38,6 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 Indigenous governance models demonstrate advanced consensus-building techniques that prioritize collective understanding, respect for diverse perspectives, and holistic problem-solving, offering critical insights for modern democratic reform and institutional design.
 

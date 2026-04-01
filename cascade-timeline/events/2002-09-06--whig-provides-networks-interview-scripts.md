@@ -46,6 +46,5 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: timeline_event
 
 The White House Iraq Group (WHIG) coordinated an unprecedented media manipulation campaign in September 2002, controlling news coverage about potential Iraqi threats through strategic messaging, synchronized interviews, and carefully curated expert narratives.

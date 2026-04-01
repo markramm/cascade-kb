@@ -52,7 +52,6 @@ tags:
 title: Hegseth Invites Christian Nationalist Pastor Doug Wilson to Lead Official Pentagon
   Prayer Service
 ---
-type: timeline_event
 
 On February 17, 2026, Defense Secretary Pete Hegseth invited Pastor Doug Wilson — a self-described Christian nationalist and leader of the Communion of Reformed Evangelical Churches (CREC), the denomination Hegseth himself belongs to — to lead the Pentagon's monthly official Christian worship service. Wilson preached about trusting God for protection in battle, drawing on biblical examples from Noah, David, and Gideon, and compared Hegseth's monthly Pentagon prayer meetings to historical Christian revival movements, saying: "Prayer meeting at the Pentagon for a possible example...God is great."
 

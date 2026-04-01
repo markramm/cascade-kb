@@ -48,6 +48,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department’s fiscal assistant secretary while retaining his private-sector role

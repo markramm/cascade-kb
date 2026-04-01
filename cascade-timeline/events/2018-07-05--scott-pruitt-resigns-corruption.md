@@ -50,7 +50,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 EPA Administrator Scott Pruitt resigned facing at least 14 federal investigations 
 into corruption, ethics violations, and misuse of taxpayer funds. Scandals included: 

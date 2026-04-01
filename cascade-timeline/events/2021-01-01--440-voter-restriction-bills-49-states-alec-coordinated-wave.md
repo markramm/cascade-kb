@@ -42,7 +42,6 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Throughout 2021, at least 440 bills containing voter restriction provisions were introduced across 49 states, representing the largest coordinated assault on voting rights since Jim Crow and demonstrating ALEC's systematic model legislation deployment at unprecedented scale. The Brennan Center for Justice documented that state legislatures enacted far more restrictive voting laws in 2021 than in any year since tracking began in 2011—with more than one-third of all restrictive measures passed in the decade occurring in this single year.
 

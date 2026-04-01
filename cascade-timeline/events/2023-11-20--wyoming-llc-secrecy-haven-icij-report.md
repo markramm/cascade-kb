@@ -39,7 +39,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 The International Consortium of Investigative Journalists releases its Cyprus Confidential investigation exposing Wyoming as America's premier secrecy jurisdiction, having overtaken Delaware for the most corporate registrations per capita. Analysis by corporate data firm OpenCorporates shows Wyoming incorporations surged 30% in 2023 while Delaware's growth rate slowed, cementing the least-populated U.S. state's reputation as a top secrecy destination for the ultrawealthy. The investigation, based on 3.6 million leaked documents from seven sources, reveals how Cyprus-based corporate services firms actively market Wyoming's anonymous LLC and trust structures to international clients seeking to hide wealth from tax authorities and foreign governments.
 

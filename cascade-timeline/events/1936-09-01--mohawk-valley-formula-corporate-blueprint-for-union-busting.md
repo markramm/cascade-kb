@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 The La Follette Civil Liberties Committee exposes and names the "Mohawk Valley Formula" in 1936-1937, documenting a systematic corporate strategy for breaking strikes and defeating union organizing campaigns that James Rand Jr., president of Remington Rand, developed during the 1936 strike at his company's plants in upstate New York. The National Association of Manufacturers distributes Rand's union-busting playbook to employers nationwide as a model for resisting Wagner Act compliance, transforming what began as one company's tactics into an industry-wide template for labor suppression.
 

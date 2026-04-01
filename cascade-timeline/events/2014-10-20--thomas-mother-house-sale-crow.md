@@ -47,7 +47,6 @@ sources:
 notes: 'Crow continues to own the house where Thomas''s 94-year-old mother lives. Crow Holdings pays $1,500 annual property taxes. Transaction never disclosed on financial forms.'
 status: confirmed
 ---
-type: timeline_event
 In 2014, a company controlled by Republican megadonor Harlan Crow purchased property from Clarence Thomas and his relatives in Savannah, Georgia — including the house where Thomas's mother, Leola Williams, was living — for a total of $133,363. The transaction involved three separate parcels: the house where Williams resided, a nearby vacant lot owned by Thomas, and a second vacant lot owned by his relatives. Crow Holdings LLC paid for the properties, with Thomas failing to disclose the real estate transaction on his financial disclosure forms as required.
 
 ProPublica reported the deal in April 2023, along with Crow's earlier pattern of providing Justice Thomas with undisclosed luxury travel. The Crow company continues to own the house where Thomas's elderly mother lives, paying the $1,500 annual property taxes. Crow has renovated the property. The deal marked the first known direct money transfer from Crow to Thomas — as opposed to the travel and other benefits Crow provided — representing an arrangement in which the justice effectively received financial value for family real estate while a donor with interests before the Supreme Court retained ownership of his mother's home.

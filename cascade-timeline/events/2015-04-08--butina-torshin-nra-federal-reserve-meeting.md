@@ -35,7 +35,6 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: timeline_event
 
 Russian operative Maria Butina and Alexander Torshin (member of Russia's upper house of parliament and later sanctioned Russian official) traveled to Nashville, Tennessee to attend the National Rifle Association's annual meeting from April 8-11, 2015. During this trip, Torshin met with Federal Reserve Vice Chairman Stanley Fischer on April 8, 2015. Meeting notes stated "They are in the United States to attend the NRA's annual meeting," with both Russians emphasizing they were "life members" of the NRA.
 

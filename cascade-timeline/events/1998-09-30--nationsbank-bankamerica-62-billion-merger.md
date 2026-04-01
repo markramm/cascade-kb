@@ -44,7 +44,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 NationsBank completes its $62 billion acquisition of BankAmerica Corporation, creating the first truly coast-to-coast national bank in U.S. history and taking the Bank of America name. The merger occurs just one year before the formal repeal of Glass-Steagall, demonstrating how banking consolidation was already accelerating in anticipation of deregulation.
 

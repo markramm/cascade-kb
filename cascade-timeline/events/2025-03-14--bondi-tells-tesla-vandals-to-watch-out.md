@@ -50,6 +50,5 @@ patterns:
 - political-suppression
 notes: Demonstrates aggressive legal posturing by Trump administration-aligned officials targeting perceived political opponents
 ---
-type: timeline_event
 
 Attorney General Pam Bondi threatened Tesla vandals with severe federal charges, characterizing the property destruction as potential 'domestic terrorism'. The investigation targets coordinated attacks on Tesla vehicles and infrastructure across multiple states, with potential 20-year prison sentences for those involved.

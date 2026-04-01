@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 President Ronald Reagan signs the Immigration Reform and Control Act (IRCA), also known as the Simpson-Mazzoli Act, enacting the first federal law to impose sanctions on employers who knowingly hire undocumented workers while simultaneously granting amnesty to approximately 3 million undocumented immigrants. Sponsored by Republican Senator Alan Simpson of Wyoming and Democratic Representative Romano Mazzoli of Kentucky, who both served on the Hesburgh Commission, the legislation represents a grand bargain: legalization for those already in the country in exchange for enforcement mechanisms intended to prevent future unauthorized immigration. The law requires employers to verify workers' immigration status, establishes graduated civil and criminal penalties for violations, and creates a six-month public education period followed by a 12-month warning period before full enforcement begins.
 

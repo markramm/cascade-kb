@@ -58,7 +58,6 @@ connections:
 - Platform accountability failures
 notes: Known as the "Adpocalypse." YouTube's monetization of ISIS and hate content showed platform prioritized ad revenue over preventing terrorism financing. Boycott forced temporary policy changes but structural problems remained.
 ---
-type: timeline_event
 
 On March 17-20, 2017, a Times of London investigation exposed that major brands' advertisements were appearing on YouTube videos supporting terrorism, promoting hate speech, and featuring extremist content—triggering the largest advertiser boycott in digital platform history and exposing YouTube's systematic failure to prevent monetization of dangerous content.
 

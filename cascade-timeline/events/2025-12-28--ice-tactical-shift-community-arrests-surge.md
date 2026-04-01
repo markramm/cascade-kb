@@ -55,7 +55,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 
 Washington Post analysis of government data reveals a fundamental shift in ICE enforcement strategy under the Trump administration: federal officers have moved away from arresting immigrants already held in local jails to aggressively tracking them down on streets and in communities across the country.

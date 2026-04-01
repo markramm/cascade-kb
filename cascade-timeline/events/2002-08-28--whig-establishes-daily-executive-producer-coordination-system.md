@@ -50,6 +50,5 @@ status: confirmed
 verification_status: enhanced
 category: media_control
 ---
-type: timeline_event
 
 White House Iraq Group systematically coordinates with network news executive producers across CNN, NBC, CBS, ABC, and Fox News to create direct communication channels for messaging priorities and narrative synchronization, effectively bypassing traditional journalist-source relationships.

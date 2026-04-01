@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 President John Tyler's administration conducted secret negotiations for Texas annexation beginning in September 1843, explicitly designed to expand slavery while deceiving the public about its true motivations. Tyler, expelled from the Whig Party in September 1841 after vetoing their legislative agenda, independently pursued annexation in a bid to build political support for another term. On September 18, 1843, Tyler ordered Secretary of State Abel Upshur to open secret talks with Texas minister Isaac Van Zandt. Face-to-face negotiations commenced on October 16, 1843, with Tyler seeking to outmaneuver suspected British diplomatic efforts toward emancipation in Texas that would "undermine slavery in the United States."
 

@@ -39,6 +39,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 White House Council on Environmental Quality Chief of Staff Phil Cooney was exposed systematically censoring climate science reports to exaggerate uncertainties and diminish human influence on climate change. Whistleblower Rick Piltz revealed Cooney made 294 edits to the 364-page Strategic Plan for the U.S. Climate Change Science Program, with at least 181 edits aimed at exaggerating scientific uncertainties and 113 edits to diminish human influence. A former American Petroleum Institute lawyer and lobbyist, Cooney deleted entire paragraphs about projected mountain glacier reductions and added qualifier words like 'extremely,' 'significant,' and 'fundamental' before 'uncertainties in climate science.' House oversight found a 'systematic effort to manipulate climate change science' affecting NASA's James Hansen, who was placed under 'administrative house arrest' and denied media interviews. NOAA's Thomas Knutson had media appearances blocked, while NASA's Drew Shindell saw press releases 'repeatedly delayed, altered and watered down.' Cooney resigned June 10, 2005, immediately after the scandal broke and was hired by ExxonMobil days later, epitomizing the revolving door between oil industry and government climate policy.

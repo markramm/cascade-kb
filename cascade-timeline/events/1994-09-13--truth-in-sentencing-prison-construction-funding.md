@@ -35,7 +35,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 As part of the Violent Crime Control and Law Enforcement Act, the Clinton administration allocates $8.7 billion in federal grants for prison construction to states that enact "truth-in-sentencing" (TIS) laws requiring inmates convicted of violent crimes to serve at least 85 percent of their sentences before parole eligibility. This funding represented the largest federal investment in prison expansion in American history, creating powerful financial incentives for states to adopt harsher sentencing policies.
 

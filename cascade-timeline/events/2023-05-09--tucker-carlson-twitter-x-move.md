@@ -48,5 +48,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - Regulatory Capture
 ---
-type: timeline_event
 Tucker Carlson announces he'll bring show to Twitter after Fox firing, but Elon Musk confirms "no deal of any kind," Carlson forgoes $25 million to break non-compete showing ideological commitment. Following his departure, Fox sent a cease-and-desist letter demanding Carlson stop posting videos, claiming contract violations. This move highlights the ongoing tension between traditional media platforms and emerging digital media spaces.

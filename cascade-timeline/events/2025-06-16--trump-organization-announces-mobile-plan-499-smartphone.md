@@ -42,6 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Trump Organization launched Trump Mobile, a new mobile phone service featuring the T1 smartphone priced at $499 and a $47.45 monthly plan dubbed 'The 47 Plan'. Positioned as a patriotic, American-made mobile service, the launch capitalizes on Trump's political brand and aims to target conservative consumers.

@@ -41,6 +41,5 @@ capture_lanes:
 - Corporate Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The SEC charged Cantor Fitzgerald $6.75 million for systematic disclosure violations in two SPAC transactions involving View, Inc. and Satellogic. The firm misled investors by claiming no substantive discussions with merger targets existed, despite already negotiating potential mergers. This settlement highlights ongoing regulatory challenges in the SPAC market and raises questions about Cantor Fitzgerald's compliance practices, particularly given Howard Lutnick's pending appointment as Commerce Secretary.

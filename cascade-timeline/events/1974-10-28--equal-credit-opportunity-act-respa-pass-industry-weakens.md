@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 Congress passes two major housing consumer protection laws in 1974: the Equal Credit Opportunity Act (ECOA) prohibiting discrimination in lending based on sex and marital status (race added in 1976), and the Real Estate Settlement Procedures Act (RESPA) requiring disclosure of closing costs. However, banking industry lobbying successfully weakens both laws, limiting their effectiveness in combating discrimination and predatory practices.
 

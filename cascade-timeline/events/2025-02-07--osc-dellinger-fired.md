@@ -43,6 +43,5 @@ sources:
 
   tier: 1
 ---
-type: timeline_event
 
 President Trump fired Hampton Dellinger from his position as head of the Office of Special Counsel via email on Friday night, February 7, 2025, stating simply "your position...is terminated, effective immediately." Dellinger immediately sued, arguing his removal violated statutory for-cause protections requiring "inefficiency, neglect of duty, or malfeasance." Judge Amy Berman Jackson initially ordered Dellinger reinstated while the case proceeded. The OSC investigates whistleblower retaliation and Hatch Act violations.

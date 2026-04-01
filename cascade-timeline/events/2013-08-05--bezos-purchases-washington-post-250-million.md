@@ -35,7 +35,6 @@ capture_lanes:
 - Corporate Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Amazon founder Jeff Bezos personally purchased The Washington Post and its affiliated publications for $250 million, ending the Graham family's four-generation stewardship of one of America's most influential newspapers. The sale marked a watershed moment in billionaire media capture, placing control of a major democratic institution in the hands of one of the world's wealthiest individuals.
 

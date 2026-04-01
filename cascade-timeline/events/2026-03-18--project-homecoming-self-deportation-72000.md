@@ -34,7 +34,6 @@ capture_lanes:
 - Immigration System Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 An internal DHS document obtained by CNN on March 18, 2026, revealed that the administration's signature "Project Homecoming" self-deportation program had produced results dramatically below the numbers publicly touted by the White House. According to the document, only 72,000 individuals had signed up for the voluntary departure program since its launch, and of those, just 38,380 had actually left the country. The program had cost approximately $1 billion, translating to roughly $26,000 per departure.
 

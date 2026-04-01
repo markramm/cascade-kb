@@ -46,7 +46,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 Washington Post journalist Dana Priest publishes a groundbreaking investigation revealing the CIA operates a "hidden global internment network" of secret prisons, including facilities in "several democracies in Eastern Europe." The article exposes the existence of CIA black sites where terrorism suspects are held indefinitely without legal process and subjected to interrogation techniques that amount to torture. The revelation triggers international controversy and forces unprecedented public scrutiny of America's post-9/11 detention practices.
 

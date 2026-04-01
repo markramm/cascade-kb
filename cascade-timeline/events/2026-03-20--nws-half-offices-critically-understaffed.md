@@ -34,7 +34,6 @@ capture_lanes:
 - Institutional Capture
 - Environmental Capture
 ---
-type: timeline_event
 
 On March 20, 2026, PBS reported that 55 of the National Weather Service's 122 field offices were now critically understaffed, defined as operating with vacancy rates of 20 percent or higher. Eight offices had ceased overnight operations entirely, leaving significant portions of the country without continuous weather monitoring during the hours when tornadoes, flash floods, and other severe weather events frequently strike with the least warning.
 

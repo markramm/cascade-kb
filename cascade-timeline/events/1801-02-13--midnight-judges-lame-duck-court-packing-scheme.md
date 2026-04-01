@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 President John Adams signs the Judiciary Act of 1801 less than three weeks before the end of his term and the Federalist majority in Congress, expanding the federal judiciary by creating sixteen new circuit court judgeships and reducing the Supreme Court from six to five justices. After losing the election to Thomas Jefferson, Adams and the lame-duck Federalist Senate rapidly confirm numerous new federal judges to pack the courts with political allies before Democratic-Republicans take power. On March 2-3, 1801, Adams nominates and the Senate confirms 42 justices of the peace, with Adams signing official commissions late into the night of his final day in office—leading the group to be known as the "midnight judges."
 

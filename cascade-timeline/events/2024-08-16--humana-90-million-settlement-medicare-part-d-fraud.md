@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 On August 16, 2024, Humana agreed to pay $90 million to settle the first whistleblower lawsuit alleging systematic fraud in Medicare Part D prescription drug program bidding. The case exposed how Humana maintained "two sets of books"—submitting false financial projections to the Centers for Medicare & Medicaid Services (CMS) to win lucrative contracts while internally projecting that patients would pay far more than disclosed. This groundbreaking settlement revealed systematic fraud in the Medicare Part D contracting process, with insurance companies deliberately misrepresenting their bids to secure government contracts while planning to shift costs onto beneficiaries.
 

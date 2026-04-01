@@ -41,6 +41,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Deutsche Bank agreed to pay $150 million in penalties for its failure to properly monitor Jeffrey Epstein's banking activities. The bank processed hundreds of transactions for Epstein even after his 2008 conviction, including payments to potential co-conspirators and alleged victims. Regulators found the bank ignored red flags and failed to conduct adequate due diligence on a high-risk client with a known criminal history.

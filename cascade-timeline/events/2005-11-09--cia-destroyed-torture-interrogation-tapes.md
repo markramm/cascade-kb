@@ -46,7 +46,6 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 CIA National Clandestine Service director Jose Rodriguez orders the destruction of 92 videotapes documenting hundreds of hours of brutal interrogations of Abu Zubaydah and Abd al-Rahim al-Nashiri at secret CIA black sites. The tapes contain graphic evidence of waterboarding, stress positions, and other torture techniques that violate U.S. and international law. Rodriguez destroys the tapes despite objections from CIA and White House lawyers, and despite multiple ongoing investigations and court proceedings requiring preservation of evidence. The destruction represents deliberate obstruction of justice and an attempt to conceal war crimes.
 

@@ -54,7 +54,6 @@ sources:
   verified: true
   tier: 1
 ---
-type: timeline_event
 On March 23, 2017, the General Services Administration (GSA) announced that its contracting
 officer found the Trump Old Post Office LLC in compliance with the lease's Section 37.19
 (the "no elected official" clause). In January 2019, the GSA Inspector General reported that

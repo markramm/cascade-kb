@@ -33,7 +33,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 Throughout 2006, New Century Financial Corporation, one of the nation's largest subprime mortgage lenders, engaged in systematic accounting fraud to conceal the deteriorating quality of its loan portfolio. The SEC later charged that the company's top officers misled investors as the business collapsed, failing to disclose dramatic increases in early loan defaults, loan repurchases, and pending loan repurchase requests. New Century made undisclosed changes to its accounting for loan repurchases in both the second and third quarters of 2006 that violated generally accepted accounting principles, allowing the company to improperly avoid substantial repurchase expenses and materially overstate its financial results.
 

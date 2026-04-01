@@ -42,6 +42,5 @@ actors:
 location: Washington, DC
 notes: Example of politically connected corporations getting special breaks from tariffs with no transparency
 ---
-type: timeline_event
 
 Reyes Holdings, a Coca-Cola bottling giant owned by two major Republican donors, secured a tariff exemption for PET plastic resin with no public explanation, leaving industry insiders baffled. Records show the company had recently hired lobbyists with close White House ties, heightening suspicions about how the carve-out was won.

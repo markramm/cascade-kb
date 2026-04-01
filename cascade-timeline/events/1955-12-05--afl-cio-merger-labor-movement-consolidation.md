@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The American Federation of Labor and the Congress of Industrial Organizations merge on December 5, 1955, creating the AFL-CIO with 16 million members representing one-third of American workers. George Meany, the conservative plumber who led the AFL, becomes president, while the more progressive Walter Reuther of the UAW becomes vice president. The merger, occurring at labor's peak strength with union density at 35 percent, is presented as consolidating worker power but actually entrenches a conservative, anti-communist leadership that prioritizes institutional stability over aggressive organizing.
 

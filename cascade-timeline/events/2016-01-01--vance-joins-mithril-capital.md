@@ -53,5 +53,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Following publication of "Hillbilly Elegy," J.D. Vance joins Peter Thiel's venture capital firm Mithril Capital as principal, deepening financial and ideological ties with Silicon Valley's tech elite.

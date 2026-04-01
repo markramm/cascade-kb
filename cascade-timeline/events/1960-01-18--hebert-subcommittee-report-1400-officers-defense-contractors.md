@@ -30,7 +30,6 @@ actors:
 - General Dynamics
 - Frank Pace
 ---
-type: timeline_event
 
 The House Armed Services Special Investigations Subcommittee, led by Rep. F. Edward Hebert (D-La.), released a shocking report documenting the extent of the defense industry revolving door. After questioning 75 witnesses over 25 days in mid-1959, the subcommittee found that more than 1,400 retired military officers in the rank of major or higher—including 261 generals and admirals—were employed by the top 100 defense contractors. General Dynamics alone employed 187 retired officers, including 27 generals and admirals, while simultaneously receiving the largest defense contracts of any company in 1960. The company was headed by Frank Pace, former Secretary of the Army, exemplifying how the revolving door operated at the highest levels of military and civilian Pentagon leadership.
 

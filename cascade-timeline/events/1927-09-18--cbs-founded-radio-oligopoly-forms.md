@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Columbia Phonograph Broadcasting System (later CBS) is founded in New York, initially as a network of 16 radio stations, just months after the Radio Act of 1927 establishes federal licensing. William Paley's family purchases controlling interest in 1928 for $400,000, and Paley transforms the struggling network into NBC's primary competitor. The emergence of CBS alongside NBC establishes the duopoly structure that will dominate American broadcasting for decades, demonstrating how regulatory frameworks intended to serve the public interest quickly become captured by concentrated commercial interests.
 

@@ -39,7 +39,6 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: timeline_event
 
 By March 2026, the Department of Justice's Public Integrity Section -- the unit created after Watergate specifically to prosecute corruption by government officials at all levels -- had been reduced from 36 full-time lawyers to just two. NOTUS reported the collapse in detail, noting it represented the smallest the section had been since its founding in 1976.
 

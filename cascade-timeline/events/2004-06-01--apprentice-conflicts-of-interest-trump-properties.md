@@ -37,7 +37,6 @@ actors:
 - Mark Burnett
 - NBC
 ---
-type: timeline_event
 Throughout its 14-season run from 2004 to 2015, "The Apprentice" functions as an elaborate promotional platform for Trump's properties, businesses, and brand, with Trump maintaining a 50% ownership stake in the show and earning an estimated $214 million while simultaneously using the program to advertise his hotels, golf courses, and licensing deals. The arrangement creates unprecedented conflicts of interest as contestants complete tasks at Trump-branded properties, generating both direct revenue and invaluable free advertising for Trump's business empire.
 
 ## The Business Arrangement

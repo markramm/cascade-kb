@@ -40,5 +40,4 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 The Trump administration announced on August 8, 2025, an increased federal law enforcement presence in Washington, D.C., with expanded patrols by federal agents at tourist sites, transit hubs, and government buildings. This surge in federal forces in the nation's capital follows earlier deployments to cities like Los Angeles and represents part of a broader pattern of militarizing domestic law enforcement.

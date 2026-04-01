@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Border Patrol Commander Gregory Bovino launched "Operation Charlotte's Web" in North Carolina on November 15, 2025, arriving unannounced in the state's largest city. Charlotte officials had no advance warning of the operation - none of the officials CNN contacted were aware Bovino and his officers were coming.
 

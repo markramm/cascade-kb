@@ -44,6 +44,5 @@ notes: Pardon highlights ongoing patterns of executive intervention in corruptio
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 President Trump pardoned Scott Jenkins, former Culpeper County Sheriff, who was convicted of accepting $75,000 in bribes in exchange for appointing wealthy businessmen as unpaid auxiliary deputies. Trump claimed Jenkins was a victim of an 'overzealous Biden Department of Justice'.

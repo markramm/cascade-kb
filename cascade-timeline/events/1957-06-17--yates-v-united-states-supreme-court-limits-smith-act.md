@@ -59,7 +59,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 
 On June 17, 1957, the Supreme Court issued three decisions that significantly limited McCarthyist overreach: Yates v. United States, Watkins v. United States, and Service v. Dulles. Known as "Red Monday" to conservative critics, these rulings began the judicial rollback of the security state that had flourished during the early Cold War.

@@ -41,6 +41,5 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 EPA canceled Solar for All program August 7, 2025, terminating $7 billion in grants for 900,000 low-income households' solar projects. Administrator Zeldin cited lack of statutory authority, saving "ANOTHER $7 BILLION." Only $53 million of awarded funds spent (Atlas Public Policy). Bernie Sanders called action illegal. Solar Energy Industries Association disputes EPA authority to terminate Congressional appropriations.

@@ -34,5 +34,4 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 Legal resistance network files simultaneous federal lawsuits in multiple jurisdictions challenging recent executive orders that potentially violate constitutional separation of powers. The ACLU and Protect Democracy lead a coalition challenging executive orders related to voting rights and birthright citizenship, arguing these orders violate fundamental constitutional principles of separation of powers and due process.

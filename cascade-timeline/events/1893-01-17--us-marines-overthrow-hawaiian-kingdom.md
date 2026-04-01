@@ -60,7 +60,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On January 16, 1893, U.S. Minister to Hawaii John L. Stevens orders 162 U.S. sailors and marines from the USS Boston to land in Honolulu under the pretense of protecting American lives and property. The following day, January 17, a Committee of Safety consisting of thirteen men—seven foreign residents (five Americans, one Scotsman, and one German) and six Hawaiian Kingdom subjects of American descent—stages a coup d'etat and declares the overthrow of Queen Liliuokalani and the Hawaiian monarchy. The Committee, led by the same American businessmen including Sanford B. Dole and Lorrin Thurston who forced King Kalakaua to sign the Bayonet Constitution in 1887, proclaims a Provisional Government and immediately seeks annexation to the United States. The presence of U.S. military forces renders the Hawaiian Kingdom unable to defend itself, and Queen Liliuokalani yields her authority "to avoid any collision of armed forces and perhaps loss of life" under explicit protest, stating she expects "the Government of the United States shall, upon the facts being presented to it, undo the action of its representative and reinstate me in the authority which I claim as the constitutional sovereign of the Hawaiian Islands."
 

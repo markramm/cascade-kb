@@ -67,7 +67,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 4, 2026, the Republican-led House of Representatives voted 212-219 to reject a War Powers Resolution that would have required the Trump administration to seek congressional approval before continuing military operations against Iran. The narrow margin — a seven-vote spread — underscored the institutional stakes: the resolution came closer to passing in the House than the Senate (where it had failed 47-53), but still fell short.
 

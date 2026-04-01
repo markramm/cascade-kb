@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On June 4, 1919, the U.S. Senate voted in favor of the 19th Amendment to the Constitution, which stated that "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex." The Senate vote came nearly 18 months after the House of Representatives had passed the amendment on January 10, 1918, following President Wilson's reversal of his opposition on January 9, 1918. The amendment's passage represented the culmination of a 71-year struggle dating back to the 1848 Seneca Falls Convention, where the demand for women's voting rights had barely passed despite the passionate advocacy of Elizabeth Cady Stanton and Frederick Douglass. The Congressional approval sent the amendment to the states for ratification, requiring approval from three-fourths of the 48 states—36 states—to become part of the Constitution.
 

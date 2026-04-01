@@ -53,6 +53,5 @@ notes: Comprehensive documentation tracking intersection of business interests a
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 President Trump used his Scottish golf course as a strategic venue for high-level diplomatic meetings, negotiating a new US-EU trade deal and discussing economic interests while simultaneously pursuing British Open hosting rights for Turnberry. During a five-day visit, Trump met with UK Prime Minister Keir Starmer and European Commission President Ursula von der Leyen, blending business interests with diplomatic negotiations.

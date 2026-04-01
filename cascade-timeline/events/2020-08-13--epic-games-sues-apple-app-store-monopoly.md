@@ -32,7 +32,6 @@ capture_lanes:
 - Regulatory Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 -the-story-so-far
   date: '2020-08-23'
   outlet: AppleInsider

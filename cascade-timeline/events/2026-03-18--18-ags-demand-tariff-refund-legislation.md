@@ -35,7 +35,6 @@ capture_lanes:
 - Democratic Erosion
 - Regulatory Capture
 ---
-type: timeline_event
 
 On March 18, 2026, a coalition of 18 state attorneys general led by New York AG Letitia James sent a formal demand to congressional leadership calling for legislation that would require automatic refunds of approximately $166 billion in tariffs collected under the International Emergency Economic Powers Act. The Supreme Court had ruled on February 20 that the administration's use of IEEPA to impose broad trade tariffs was unlawful, but the administration had neither returned the collected duties nor ceased imposing new trade barriers.
 

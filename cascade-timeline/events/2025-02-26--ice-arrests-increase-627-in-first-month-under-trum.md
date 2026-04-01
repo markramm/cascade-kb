@@ -47,6 +47,5 @@ _merge_timestamp: '2025-09-05T23:46:55.903457'
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Under President Trump, ICE made over 20,000 arrests in a single month - a 627% increase compared to just 33,000 at-large arrests for all of last year under Biden. This dramatic escalation marks the beginning of the administration's mass deportation campaign.

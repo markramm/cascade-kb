@@ -48,7 +48,6 @@ capture_lanes:
 - Electoral Manipulation
 - Corporate Capture
 ---
-type: timeline_event
 
 Facebook dismantles election safety measures immediately after the 2020 vote, prematurely rolling back safeguards designed to combat misinformation despite internal warnings. The decision enables "Stop the Steal" conspiracy theories to spread virally through the platform's algorithmic amplification, directly contributing to the January 6 Capitol insurrection.
 

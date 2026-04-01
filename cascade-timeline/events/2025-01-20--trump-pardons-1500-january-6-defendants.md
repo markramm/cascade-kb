@@ -32,7 +32,6 @@ capture_lanes:
 - Institutional Capture
 - Executive Power
 ---
-type: timeline_event
 
 On his first day in office, President Trump issued blanket pardons and commutations for approximately 1,500 January 6 defendants — the largest mass clemency action related to political violence in modern American history.
 

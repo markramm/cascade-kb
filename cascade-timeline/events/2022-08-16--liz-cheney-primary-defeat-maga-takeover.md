@@ -38,7 +38,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 Incumbent Wyoming Republican U.S. Representative Liz Cheney suffers a crushing primary defeat to Trump-endorsed challenger Harriet Hageman, losing 66.3% to 28.9% in one of the most decisive House incumbent losses in 60 years. Cheney, who won her 2020 reelection with 68.6% of the vote, faces overwhelming backlash from Wyoming Republicans for voting to impeach Trump after the January 6 Capitol attack and serving as vice chair of the House January 6 Committee. The 37-point margin represents the second-worst defeat for a House incumbent in six decades, behind only South Carolina Republican Bob Inglis in a 2010 primary runoff.
 

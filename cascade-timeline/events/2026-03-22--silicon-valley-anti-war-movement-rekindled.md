@@ -23,7 +23,6 @@ status: confirmed
 capture_lanes:
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 On March 22, 2026, an Associated Press analysis documented how the Pentagon-Anthropic dispute had rekindled an anti-war movement within Silicon Valley that had been largely dormant since the 2018 Google Maven protests. Worker coalitions at Amazon, Google, Microsoft, and OpenAI were circulating internal petitions and open letters calling on their companies to join Anthropic in refusing to provide AI technology for unrestricted military applications, particularly autonomous targeting and bulk surveillance of Americans.
 

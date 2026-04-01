@@ -34,7 +34,6 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 
 Grover Cleveland's narrow victory over James G. Blaine in the 1884 presidential election occurs during a pivotal transition in American campaign finance, as the Pendleton Civil Service Act of 1883 reduces party organizations' reliance on government employee contributions and shifts the fundraising burden to corporate interests. By the late 1880s, roughly 40 percent of Republican national campaign funds come from manufacturing and business interests, with state parties even more reliant on corporate funding. Money from corporations, banks, railroads, and other businesses fills party coffers, with numerous corporations reportedly making donations to national party committees in amounts of $50,000 or more. The election demonstrates that eliminating the spoils system does not reduce corruption but rather transforms it, replacing patronage-based party funding with corporate capture of both major parties.
 

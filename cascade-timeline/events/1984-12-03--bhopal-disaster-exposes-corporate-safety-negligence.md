@@ -40,7 +40,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 On December 3, 1984, a catastrophic gas leak at Union Carbide's pesticide plant in Bhopal, India killed an estimated 3,800 people immediately and up to 16,000 in the following weeks. Hundreds of thousands suffered long-term health effects. The disaster exposed how multinational corporations maintained lower safety standards in developing countries and evaded accountability through complex corporate structures.
 

@@ -39,7 +39,6 @@ sources:
     tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On December 11, 1980, President Jimmy Carter signed the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), commonly known as Superfund. While the law represented a landmark response to Love Canal and thousands of toxic waste sites nationwide, industry lobbying had already ensured significant weaknesses that would hamper cleanup efforts for decades.
 

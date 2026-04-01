@@ -49,5 +49,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial

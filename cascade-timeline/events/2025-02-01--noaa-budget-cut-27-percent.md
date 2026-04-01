@@ -41,6 +41,5 @@ sources:
 notes: Climate programs dismantled wholesale per Project 2025 recommendations
 status: confirmed
 ---
-type: timeline_event
 
 National Oceanic and Atmospheric Administration faces 27% budget cut with Office of Oceanic and Atmospheric Research effectively eliminated, dismantling climate science infrastructure and weather forecasting capabilities.

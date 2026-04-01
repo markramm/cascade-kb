@@ -31,7 +31,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The 24th Amendment to the U.S. Constitution is ratified on January 23, 1964, abolishing the poll tax as it applies to primary elections leading to general elections for federal office. The poll tax—a fee required to vote—has been used primarily in Southern states since Reconstruction as a means of preventing Black Americans and poor whites from voting.
 

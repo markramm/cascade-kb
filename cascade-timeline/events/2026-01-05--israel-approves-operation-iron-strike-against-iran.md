@@ -28,6 +28,5 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The Israeli Security Cabinet held a 5-hour meeting and authorized a new military operation against Iran codenamed "Operation Iron Strike" - a play on "strike while the iron is hot." The plan was reportedly discussed during Netanyahu's meeting with Trump in Florida. The authorization came as Iran faced its largest protests since 1979 and security forces were killing hundreds of demonstrators. Iranian officials, including Foreign Minister Araghchi, described the government as being in "survival mode" as the regime faced simultaneous military threats and domestic unrest.

@@ -43,6 +43,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On June 15, 2017, the Federal Reserve Bank of Kansas City initially denied Reserve Trust Company's application for a master account, one month after former Fed Governor Sarah Bloom Raskin joined the fintech's board. Subsequent investigations revealed that Raskin allegedly made direct communications with Kansas City Fed President Esther George about the application. The Fed later reversed its decision in 2018, granting Reserve Trust a master account - making it the first and only non-bank fintech to receive such access at the time. This sequence of events raised significant questions about potential regulatory capture, revolving door dynamics, and the influence of former government officials in financial regulatory processes.

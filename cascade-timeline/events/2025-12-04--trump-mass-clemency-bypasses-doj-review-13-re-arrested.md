@@ -79,7 +79,6 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: timeline_event
 
 By December 2025, Trump had granted executive clemency to over 1,600 individuals since returning to office—a pace far exceeding any previous administration. This clemency spree systematically bypassed the traditional Department of Justice review process managed by the Office of the Pardon Attorney, eliminating safeguards designed to ensure public safety, victim restitution, and demonstration of rehabilitation.
 

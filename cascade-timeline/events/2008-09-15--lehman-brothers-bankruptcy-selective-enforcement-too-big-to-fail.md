@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Lehman Brothers Holdings Inc. filed for Chapter 11 bankruptcy protection on September 15, 2008, declaring $639 billion in assets and $613 billion in debts, making it the largest bankruptcy filing in U.S. history. The firm's assets far surpassed those of previous bankrupt giants including WorldCom and Enron, and the bankruptcy triggered immediate global financial contagion with the Dow Jones Industrial Average dropping 4.5% in a single day—then the largest decline since the September 11, 2001 attacks. Before its collapse, Lehman Brothers was the fourth-largest investment bank in the United States behind Goldman Sachs, Morgan Stanley, and Merrill Lynch, employing approximately 25,000 people worldwide. The bankruptcy immediately erased approximately $10 trillion in stock market value globally as the failure demonstrated that the previous six months of government interventions—including the Bear Stearns bailout and emergency Federal Reserve lending programs—had failed to stabilize the financial system or address the underlying crisis in mortgage-backed securities and derivatives markets.
 

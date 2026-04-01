@@ -39,5 +39,4 @@ sources:
 notes: 'Multiple Liberty colleagues followed him to DOE, policies directly benefit fracking industry'
 status: confirmed
 ---
-type: timeline_event
 Energy Secretary Chris Wright, founder of Liberty Energy, owns $54 million in company stock and received $1 million performance bonus from Liberty after taking office, while department reverses climate policies benefiting his former industry.

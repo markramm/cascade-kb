@@ -41,6 +41,5 @@ _merge_timestamp: '2025-09-05T23:46:55.902568'
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Trump’s Big Beautiful Bill earmarked $300 billion for US military modernization, with billions of dollars already set to go to Peter Thiel’s Anduril and Palantir–in which Stephen Miller owns $100,000 worth of stock

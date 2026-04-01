@@ -42,7 +42,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: timeline_event
 
 # Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
 

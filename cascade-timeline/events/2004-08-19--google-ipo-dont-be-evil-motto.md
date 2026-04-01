@@ -53,7 +53,6 @@ connections:
 - Tech platform monopolies
 notes: The ironic origin story of a company that promised ethical behavior but became one of history's most aggressive monopolists, facing record antitrust fines in both the US and EU.
 ---
-type: timeline_event
 
 Google completed its initial public offering on August 19, 2004, raising $1.67 billion by pricing 19,605,052 Class A shares at $85 per share. The IPO was unconventional, using a "modified" Dutch auction method that challenged Wall Street norms.
 

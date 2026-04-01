@@ -35,7 +35,6 @@ capture_lanes:
 - Executive Power Expansion
 - Labor Suppression
 ---
-type: timeline_event
 
 One year after DOGE-led cuts began, more than 322,000 federal employees left government service, representing the largest peacetime workforce reduction in U.S. history. Office of Personnel Management data showed 317,000 employees departed by the end of 2025, offset by 68,000 new hires, resulting in a net reduction of 249,000 workers—just over 10% of the federal workforce. The federal payroll fell to levels last seen in 1966, despite the country's population and budget being much larger. Roughly 149,500 employees resigned, more than 105,000 retired, and around 10,500 were laid off, with more than 123,000 taking deferred resignation offers.
 

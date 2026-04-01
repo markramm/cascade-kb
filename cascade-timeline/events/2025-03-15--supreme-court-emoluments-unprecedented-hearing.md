@@ -36,5 +36,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 The Supreme Court held a rare emergency hearing addressing multiple constitutional challenges to the Trump administration's foreign financial entanglements. Legal scholars described the proceedings as a watershed moment in constitutional law, with justices probing the boundaries of presidential financial accountability and potential conflicts of interest. The hearing centered on accusations of systematic violations of the Foreign and Domestic Emoluments Clauses.

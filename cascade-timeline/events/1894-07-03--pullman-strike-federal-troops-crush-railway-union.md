@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On July 3, 1894, President Grover Cleveland deployed federal troops to Chicago to crush the Pullman Strike, marking the first time the federal government used an injunction to break a labor action. The strike began on May 11 when Pullman Palace Car Company workers walked out after the company slashed wages by 25 percent during the 1893 economic depression while refusing to reduce rents in its company town. When management fired workers who attempted to present grievances about starvation wages and 16-hour workdays, Eugene V. Debs's newly formed American Railway Union (ARU) launched a nationwide boycott on June 26. Within four days, 125,000 workers on 29 railroads had walked off the job rather than handle Pullman cars, effectively halting rail traffic in 27 states from Chicago to the West Coast.
 

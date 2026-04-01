@@ -37,7 +37,6 @@ tags:
 - privacy
 title: Ring announces Always Home Cam, autonomous drone for indoor home surveillance
 ---
-type: timeline_event
 
 At Amazon's Fall 2020 hardware event, Ring announced the Always Home Cam, a fully autonomous indoor security drone designed to fly preset paths through homes when triggered by Ring alarms or user commands. Ring President Leila Rouhi explained the product was created because "when something happens our customers want to be able to see exactly what's going on, but it's not always feasible to have whole-home coverage" with stationary cameras.
 

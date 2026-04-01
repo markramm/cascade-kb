@@ -42,6 +42,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 White House Counselor Kellyanne Conway committed over 50 Hatch Act violations by repeatedly using her official position to influence elections, with the Office of Special Counsel finding she violated the law on dozens of occasions including advocating for Roy Moore and against Doug Jones in the Alabama Senate race. OSC recommended her removal from federal service, calling her violations 'egregious, notorious, and ongoing,' but Trump refused any disciplinary action. Conway appeared on TV in her official capacity attacking Democratic candidates and promoting Republicans. When asked about the violations, Conway said 'let me know when the jail sentence starts.' This normalized lawbreaking at the highest levels, with at least 13 senior Trump officials violating the Hatch Act including Ivanka Trump, Jared Kushner, and multiple Cabinet secretaries. The administration's refusal to enforce the law established that ethics rules were optional for those in power, fundamentally undermining government integrity.

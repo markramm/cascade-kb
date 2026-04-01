@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Department of Justice's Public Integrity Section—created after Watergate to prosecute public corruption—was effectively dismantled in February 2025 following a mass revolt over political interference in the Eric Adams corruption case. Acting Deputy Attorney General Emil Bove ordered the section reduced from 36 career lawyers to approximately two, with its authority to review potential cases suspended and its power to file new cases stripped. The crisis began when Bove ordered prosecutors to dismiss corruption charges against New York Mayor Eric Adams, arguing the case interfered with Adams' ability to help the administration's mass deportation efforts.
 

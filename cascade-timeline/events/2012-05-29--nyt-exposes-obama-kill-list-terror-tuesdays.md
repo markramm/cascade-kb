@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 The New York Times publishes an explosive investigation revealing that President Obama personally approves every name on a secret "kill list" for drone strikes during regular Tuesday National Security Council meetings dubbed "Terror Tuesdays." The article exposes how the president reviews biographical dossiers of suspected terrorists, weighs intelligence evidence, and makes final decisions on who will be assassinated by CIA drones or Special Operations forces. The disclosure provides unprecedented insight into America's extrajudicial killing program and Obama's personal role in selecting targets for assassination without trial, judicial review, or public accountability.
 

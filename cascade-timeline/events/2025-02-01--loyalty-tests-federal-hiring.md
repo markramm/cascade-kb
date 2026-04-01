@@ -40,5 +40,4 @@ sources:
 notes: 'Candidates asked to confirm January 6 was "inside job" and 2020 election was "stolen"'
 status: confirmed
 ---
-type: timeline_event
 Loyalty testing regime implemented requiring federal job applicants to write essays explaining how they'd advance Trump's executive orders, with social media screening for MAGA support becoming standard hiring practice.

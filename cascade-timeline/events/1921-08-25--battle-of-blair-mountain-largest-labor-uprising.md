@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On August 25, 1921, nearly 13,000 armed coal miners began marching from Marmet, West Virginia, toward Logan County to challenge the oppressive company town system that had kept them in wage slavery for decades, triggering the largest armed uprising in the United States since the Civil War. The miners faced a private army of 3,000 deputies and mine guards assembled by Sheriff Don Chafin, whose salary was paid directly by coal operators, positioned along Blair Mountain's 15-mile ridgeline with machine guns. The uprising was catalyzed by the August 1 assassination of Sheriff Sid Hatfield, a hero to miners for his role in the Matewan shootout against Baldwin-Felts agents, who was gunned down by company detectives as he entered the McDowell County Courthouse.
 

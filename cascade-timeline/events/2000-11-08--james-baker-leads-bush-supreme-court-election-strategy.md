@@ -49,6 +49,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Former Secretary of State James Baker takes control of Bush's Florida recount strategy, immediately positioning the campaign for Supreme Court intervention rather than focusing on local recounts. Baker's decision to prioritize legal maneuvering over vote counting demonstrates coordinated planning between Republican establishment figures and demonstrates the systematic approach to electoral manipulation. His coordination with Florida Secretary of State Katherine Harris, who simultaneously served as Bush's campaign co-chair, creates a clear conflict of interest. Baker's "immediate judgment that the Supreme Court would become the ultimate decision-maker structured everything he did," revealing premeditated judicial capture strategy. This coordination establishes the template for using legal technicalities and partisan judicial appointments to override democratic vote counts.

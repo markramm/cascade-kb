@@ -42,5 +42,4 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 Charles H. Keating Jr.'s Lincoln Savings and Loan Association in Irvine, California, was discovered to have $135 million in unreported losses and substantially exceeded risky investment limits. The bank was selling high-risk, uninsured junk bonds to 22,000 unsuspecting investors, many of whom would lose their life savings. By 1989, the collapse cost the federal government over $3 billion.

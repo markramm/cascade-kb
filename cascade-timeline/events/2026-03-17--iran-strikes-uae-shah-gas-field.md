@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 17, 2026, Iranian drones and ballistic missiles struck major energy targets across the United Arab Emirates, including the Shah gas field — one of the world's largest sour gas developments — and the Fujairah Oil Industry Zone on the Gulf of Oman coast. The attacks caused fires at multiple facilities and forced emergency shutdowns, reducing UAE oil production by an estimated 500,000 to 800,000 barrels per day. Eight people were killed and 157 injured in the strikes.
 

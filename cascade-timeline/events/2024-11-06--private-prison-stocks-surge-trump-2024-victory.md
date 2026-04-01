@@ -48,7 +48,6 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: timeline_event
 
 Following Donald Trump's 2024 election victory, private prison stocks experience their second massive surge after a Trump win. CoreCivic stock jumps 29% and GEO Group vaults 42% in a single trading session as investors bet on profits from Trump's pledge to carry out "the largest mass detention and deportation of immigrants in US history." Private prison companies and their executives donated over $2.7 million to Trump's 2024 campaign, inaugural committee, and related fundraising entities, with both companies contributing $500,000 each to his inaugural committee.
 

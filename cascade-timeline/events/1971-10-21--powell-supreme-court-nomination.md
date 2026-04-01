@@ -45,6 +45,5 @@ sources:
 notes: Only Senator Fred R. Harris (D-OK) voted against confirmation, calling Powell an "elitist" who lacked compassion for "little people." Powell took oath of office January 7, 1972, with $60,000 salary. Nomination came just 59 days after Powell's August 23, 1971 memo advising Chamber of Commerce that "political power is necessary" and courts are "most important instrument for social, economic and political change." Powell's corporate law background at Hunton & Williams included representing Tobacco Institute.
 status: confirmed
 ---
-type: timeline_event
 
 President Nixon nominates corporate lawyer Lewis Powell to Supreme Court as Associate Justice, just 59 days after Powell wrote confidential memo to Chamber of Commerce calling for business to acquire "political power" and use courts as "most important instrument for social, economic and political change." Powell's rapid transition from writing corporate strategy memo to Supreme Court appointment positions him to implement his own blueprint for expanding business power through judicial decisions. Senate confirms nomination 89-1 on December 7, 1971.

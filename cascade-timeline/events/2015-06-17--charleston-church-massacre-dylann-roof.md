@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On June 17, 2015, white supremacist Dylann Roof murdered nine Black worshippers during a Bible study session at Emanuel African Methodist Episcopal Church in Charleston, South Carolina, in a racially motivated terrorist attack that exposed the state's ongoing institutional embrace of Confederate symbolism and white supremacy. Among the victims was the church's senior pastor, South Carolina State Senator Clementa C. Pinckney, making this both a hate crime and an assassination of a sitting state legislator.
 

@@ -49,7 +49,6 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 The U.S. Bureau of Industry and Security added Frontier Services Group (FSG) to the Entity List on June 14, 2023, designating the company as acting "contrary to the national security or foreign policy interests of the United States" for providing training and support to China's People's Liberation Army (PLA). FSG, founded by Blackwater's Erik Prince, was majority-owned by CITIC Group, a Chinese state-owned investment fund that held approximately 26% of FSG's issued share capital as the company's largest shareholder. The Entity List designation subjects FSG to additional licensing requirements and effectively blocks U.S. technology exports to the company.
 

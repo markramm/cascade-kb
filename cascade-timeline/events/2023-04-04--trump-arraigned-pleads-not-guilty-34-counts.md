@@ -41,7 +41,6 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: timeline_event
 
 Former President Donald Trump surrendered to Manhattan authorities and appeared in criminal court for arraignment on 34 felony counts, marking the first time in American history that a former or sitting president faced criminal charges in court. Trump pleaded not guilty to all counts and was released without bail following the 58-minute proceeding before Judge Juan Merchan.
 

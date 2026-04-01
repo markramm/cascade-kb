@@ -51,5 +51,4 @@ tags:
 - capitol-riot
 title: Trump Justice Dept. to settle Babbitt family lawsuit in fatal Jan. 6 shooting
 ---
-type: timeline_event
 The Trump administration's Justice Department agreed to pay nearly $5 million to settle a $30 million wrongful death lawsuit filed by the family of Ashli Babbitt, the January 6 rioter shot by Capitol Police while attempting to breach the House chamber. Capitol Police Chief Tom Manger expressed extreme disappointment, stating the settlement sends a "chilling message to law enforcement nationwide".

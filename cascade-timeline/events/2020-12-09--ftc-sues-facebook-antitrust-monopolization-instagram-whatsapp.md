@@ -47,7 +47,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 The Federal Trade Commission, joined by 46 states, the District of Columbia, and Guam, files major antitrust lawsuit against Facebook alleging illegal monopolization through systematic acquisition of competitors Instagram and WhatsApp. The FTC seeks structural breakup of Facebook through forced divestiture, documenting the company's "buy or bury" strategy to eliminate competitive threats through acquisition rather than competition.
 

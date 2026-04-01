@@ -54,7 +54,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 Caitlin Kalinowski, who had led hardware and robotics operations at OpenAI since November 2024, resigned on March 7, 2026, citing the company's Pentagon contract as the direct cause of her departure. Her resignation was the highest-profile employee departure resulting from the deal and crystallized a deep internal fracture at OpenAI over the ethics and governance of military AI deployment.
 

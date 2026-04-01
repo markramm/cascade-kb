@@ -43,5 +43,4 @@ sources:
 status: confirmed
 notes: 'Event highlights potential regulatory capture through infrastructure technology contracts. Loan agreement raises conflict of interest questions due to Musk''s government role.'
 ---
-type: timeline_event
 SpaceX confirmed a loan agreement with L3Harris to provide Starlink satellite communication terminals to the FAA for infrastructure testing, specifically in Alaska. The agreement involves providing 4,000 Starlink kits free of charge for an initial evaluation period, raising potential conflict of interest concerns given Musk's role in the Trump administration.

@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 The New Orleans Police Department launches a secretive predictive policing program in partnership with Palantir Technologies, a data-mining firm founded with seed money from the CIA's venture capital arm In-Q-Tel. The program operates without public knowledge or oversight, escaping scrutiny through its establishment as a philanthropic relationship with Mayor Mitch Landrieu's signature NOLA For Life anti-violence initiative.
 

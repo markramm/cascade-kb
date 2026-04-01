@@ -39,7 +39,6 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On June 27, 2002, the Supreme Court ruled 5-4 in Zelman v. Simmons-Harris that Cleveland's school voucher program did not violate the Establishment Clause, even though 96% of voucher students attended religious schools. The decision, authored by Chief Justice William Rehnquist, removed the primary constitutional barrier to publicly funded private school vouchers and provided legal foundation for nationwide voucher expansion.
 

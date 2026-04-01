@@ -35,7 +35,6 @@ capture_lanes:
 - Military-Industrial Complex
 status: reported
 ---
-type: timeline_event
 
 # ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
 

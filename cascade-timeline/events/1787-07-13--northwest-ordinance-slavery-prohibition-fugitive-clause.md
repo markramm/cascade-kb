@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The Continental Congress enacts the Northwest Ordinance on July 13, 1787, creating the Northwest Territory and establishing governance procedures for the region between the Great Lakes and the Ohio River (modern Ohio, Indiana, Illinois, Michigan, Wisconsin, and part of Minnesota). Article VI of the Ordinance contains a profound contradiction that establishes a template for embedding slavery protection into ostensibly freedom-promoting legislation: "There shall be neither slavery nor involuntary servitude in the said territory, otherwise than in the punishment of crimes" yet immediately includes a fugitive slave clause requiring "any person escaping into the same, from whom labor or service is lawfully claimed in any one of the original States, such fugitive may be lawfully reclaimed and conveyed to the person claiming his or her labor or service."
 

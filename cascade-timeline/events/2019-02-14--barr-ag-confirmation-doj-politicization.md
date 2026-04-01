@@ -67,7 +67,6 @@ triggered_by:
 - 2002-11-25--whig-establishes-executive-deception-infrastructure-constitutional-precedent
 - 2005-12-16--whig-precedent-enables-ongoing-surveillance-state-constitutional-crisis
 ---
-type: timeline_event
 William Barr's confirmation as Attorney General represents the systematic implementation of WHIG template for crisis-accelerated institutional capture, transforming the Department of Justice from independent law enforcement into executive political weapon for constitutional crisis acceleration. Barr's appointment enables systematic scaling of WHIG precedents that normalized intelligence manipulation, executive immunity claims, and institutional coordination for political objectives during crisis periods. The confirmation establishes DOJ as coordinated propaganda distribution center similar to WHIG operations, with Barr implementing systematic protection of Trump allies through prosecutorial interference, Mueller investigation neutralization, and criminal accountability elimination for executive branch violations.
 
 Confirmed by a narrow 54-45 Senate vote on February 14, 2019, with some Democratic support from Senators Doug Jones, Kyrsten Sinema, and Joe Manchin, Barr's appointment raised immediate concerns about DOJ independence. During confirmation hearings, senators worried about potential interference with the Mueller investigation and Barr's loyalty to Trump over institutional independence. He became only the second person in U.S. history to serve twice as Attorney General, with his previous tenure under President George H.W. Bush.

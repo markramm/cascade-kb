@@ -51,6 +51,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem issued a directive to ICE to arrest up to 3,000 immigrants each day - a more than fourfold increase from the previous daily average. This unprecedented quota system for immigration arrests represents a fundamental shift in enforcement priorities toward quantity over targeted enforcement.

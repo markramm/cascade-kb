@@ -35,7 +35,6 @@ capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-type: timeline_event
 
 Armed white supremacists in Wilmington, North Carolina launched the only successful coup d'etat in American history, overthrowing the legally elected biracial government, murdering an estimated 60-300 Black citizens, and establishing one-party white Democratic rule that would persist for decades. The Wilmington Massacre demonstrated that Reconstruction's promise of Black political participation would be crushed through organized violence when other disenfranchisement methods proved insufficient.
 

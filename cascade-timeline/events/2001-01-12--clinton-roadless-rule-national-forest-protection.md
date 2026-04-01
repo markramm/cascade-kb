@@ -38,7 +38,6 @@ capture_lanes:
 - Environmental Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 In one of his final acts as president, Bill Clinton implements the "Roadless Rule," prohibiting road construction, timber harvest, and most commercial development on nearly 58 million acres of pristine national forest land—more than a quarter of the entire National Forest System. The regulation represents one of the most far-reaching environmental initiatives of the Clinton presidency, protecting roadless areas that serve as watersheds, wildlife habitat, and recreational resources from logging, mining, and energy development.
 

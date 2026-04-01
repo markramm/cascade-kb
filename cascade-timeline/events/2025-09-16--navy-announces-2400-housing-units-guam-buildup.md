@@ -40,5 +40,4 @@ sources:
 notes: 'Navy announces plan to acquire 2,400 housing units (1,600 family, 800 unaccompanied) as military personnel grows from 17,000 (FY2024) to 24,000 (FY2033). Phase 1 - 917 family and 400 unaccompanied units by June 2028. Phase 2 - 700 family and 400 unaccompanied by June 2032. 75% in central region near bases. 5,000 Marines plus 1,300 family members relocating from Okinawa to Camp Blaz (first new Marine base since 1952). Pacific Center for Island Security warns military did not fully consider impact on local housing costs. Influx tightening already stretched rental market, making housing unaffordable for longtime residents earning $20.29/hour average.'
 status: confirmed
 ---
-type: timeline_event
 Navy announces initiative to acquire 2,400 housing units on Guam to support military buildup from 17,000 to 24,000 personnel, as Pacific Center warns military failed to consider devastating impact on local housing market where residents already priced out by military expansion

@@ -26,7 +26,6 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 On March 11, 2026, the Democracy Defenders Fund published a report documenting how the Trump family's cryptocurrency ventures had been propelled by a combination of undisclosed foreign investment, preferential exchange treatment, and regulatory shielding that together distorted markets and enriched the president. The report's central finding was that USD1 — the stablecoin issued through World Liberty Financial — had rapidly become the third-largest U.S. dollar-denominated stablecoin, a meteoric rise driven not by organic market demand but by a $500 million undisclosed investment from the United Arab Emirates.
 

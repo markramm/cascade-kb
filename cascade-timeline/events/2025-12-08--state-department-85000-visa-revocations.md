@@ -36,7 +36,6 @@ capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 # State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate
 

@@ -46,7 +46,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 U.S. Representative Anthony Weiner (D-NY) announced his resignation from Congress effective June 23, 2011, after admitting he had sent sexually explicit photos and messages to at least six women over three years through Twitter, Facebook, email, and phone — and then lied about it publicly for more than a week. The scandal erupted on May 27, 2011, when a lewd photo briefly appeared on Weiner's Twitter account before being deleted. Weiner initially claimed a hacker had gained access to his account, maintaining the lie even as additional evidence emerged.
 

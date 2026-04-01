@@ -35,7 +35,6 @@ capture_lanes:
 - Corporate Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 # Amazon Implements Automated Worker Surveillance and Tracking System
 

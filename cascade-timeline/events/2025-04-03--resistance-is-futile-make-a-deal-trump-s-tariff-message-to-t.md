@@ -49,6 +49,5 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 President Trump unveiled 'Liberation Day' tariffs on April 2, 2025, imposing a baseline 10% tariff on all imports and specific higher rates on key trading partners like China (34%) and the EU (20%). Describing the global trade system as having 'looted, pillaged, raped and plundered' the United States, Trump declared a national economic emergency, potentially disrupting international economic relationships and opening avenues for economic leverage.

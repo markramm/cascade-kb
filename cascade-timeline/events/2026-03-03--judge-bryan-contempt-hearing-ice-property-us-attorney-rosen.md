@@ -65,7 +65,6 @@ tags:
 title: Judge Bryan Holds Contempt Hearing, Warns U.S. Attorney Rosen That Imprisonment
   Is Not Ruled Out
 ---
-type: timeline_event
 
 U.S. District Judge Jeffrey Bryan convened a contempt hearing on March 3, 2026 in St. Paul, Minnesota that produced one of the most confrontational courtroom exchanges in the ongoing Minnesota ICE enforcement crisis. Bryan summoned Minnesota U.S. Attorney Daniel Rosen, civil division head David Fuller, and ICE representatives to show cause why they should not be held in criminal or civil contempt for violating court orders tied to more than 20 immigration cases. Bryan opened the hearing by calling it "an extraordinary measure" and warned early in the proceedings that he had not ruled out imprisonment as a consequence — though he noted it was unlikely at that stage.
 

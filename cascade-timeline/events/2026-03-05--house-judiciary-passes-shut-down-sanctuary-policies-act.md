@@ -46,7 +46,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 The House Judiciary Committee approved H.R. 7640, the Shut Down Sanctuary Policies Act, on March 5, 2026, advancing legislation that would strip federal funding from cities, counties, and states that maintain policies limiting local law enforcement cooperation with U.S. Immigration and Customs Enforcement.
 

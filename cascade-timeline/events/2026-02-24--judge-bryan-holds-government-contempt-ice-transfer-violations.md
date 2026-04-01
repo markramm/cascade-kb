@@ -36,7 +36,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 U.S. District Judge Jeffrey Bryan found the federal government in contempt of court on February 24, 2026, after ICE repeatedly violated judicial orders governing the treatment of detained immigrants in Minnesota. The court had previously issued clear directives: ICE could not transfer detainees out of state for 72 hours after arrest, and must provide attorney access within one hour of detention. Both requirements were designed to ensure due process protections for individuals swept up in the massive Metro Surge enforcement operation.
 
 ICE violated both requirements repeatedly. In one case that prompted the contempt finding, agents transferred a man out of state to Texas in direct defiance of the court's transfer prohibition. Judge Bryan ordered ICE to reimburse the man for his flight home, a concrete if modest remedy for the violation. More significantly, the judge ordered U.S. Attorney Daniel Rosen and ICE representatives to appear at a formal contempt hearing on March 3, signaling that the court intended to pursue further accountability for the pattern of defiance.

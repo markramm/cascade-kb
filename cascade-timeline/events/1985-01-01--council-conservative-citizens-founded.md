@@ -209,7 +209,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 The Council of Conservative Citizens (CofCC) is founded in 1985 by former White Citizens' Council members to continue the agendas of the earlier Councils, which had steadily lost members throughout the 1970s and 1980s as white Southerners' attitudes towards desegregation began to change following passage of federal civil rights legislation and enforcement of integration and voting rights in the 1960s.
 
 The Citizens' Councils' mailing lists and some of their board members transition to the St. Louis-based Council of Conservative Citizens. One of the initial leaders is Robert B. Patterson, the original founder of the White Citizens' Councils in 1954, who joins the CofCC having previously been active in Citizens' Councils some three decades previously. Lester Maddox, former governor of Georgia known for his segregationist views, is a charter member.

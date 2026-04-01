@@ -38,7 +38,6 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 
 On March 12, 2026, the team behind the $TRUMP memecoin announced a second gala dinner at Mar-a-Lago scheduled for April 25, offering the top 297 token holders an exclusive luncheon with the president and the top 29 holders VIP access for a private reception. The announcement triggered an immediate 60 percent surge in the token's price, which had fallen more than 90 percent from its all-time high of $44, demonstrating how presidential access had become the coin's primary — and arguably only — source of value.
 

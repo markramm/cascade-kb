@@ -69,6 +69,5 @@ tags:
 - glass-steagall-erosion
 title: Federal Reserve Expands Section 20 Powers to Include Corporate Debt Securities
 ---
-type: timeline_event
 
 The Federal Reserve Board dramatically expands Section 20 subsidiary powers, approving underwriting of corporate debt securities and increasing the revenue limit from bank-ineligible activities from 5% to 10%. This decision allows JP Morgan to become the first commercial bank to underwrite a corporate debt offering, effectively reuniting the commercial and investment banking arms of the original House of Morgan that Glass-Steagall had separated. The expansion represents a systematic approach to dismantling Glass-Steagall through administrative interpretation rather than legislative repeal, with the Federal Reserve progressively weakening the Act's restrictions throughout the late 1980s and 1990s.

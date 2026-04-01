@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Oracle announced on August 15, 2023, that its Oracle Cloud Infrastructure (OCI) received authority to operate Top Secret/Sensitive Compartmented Information (TS/SCI) from the 18-agency Intelligence Community, marking a major expansion of Oracle's access to the nation's most classified systems. This clearance authorization enables Oracle to host and process the highest levels of classified intelligence data across all U.S. intelligence agencies, including the CIA, NSA, and other members of the intelligence community.
 

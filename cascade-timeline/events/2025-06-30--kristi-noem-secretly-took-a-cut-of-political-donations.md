@@ -48,5 +48,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 While serving as governor of South Dakota, Kristi Noem received $80,000 from a dark money nonprofit called American Resolve Policy Fund to her personal LLC, Ashwood Strategies, which she failed to disclose on federal ethics forms before her confirmation as DHS Secretary. The payment structure involves a 10% fundraising fee, raising significant ethical concerns about financial transparency.

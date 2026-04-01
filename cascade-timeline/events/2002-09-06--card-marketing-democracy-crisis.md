@@ -39,6 +39,5 @@ tags:
 - media-manipulation
 status: confirmed
 ---
-type: timeline_event
 
 White House Chief of Staff Andrew Card explicitly framed the administration's Iraq War campaign as a marketing strategy, telling the New York Times, "From a marketing point of view, you don't introduce new products in August." This statement revealed the White House's calculated approach to selling the Iraq War, treating military action as a consumer product to be strategically launched for maximum public impact. Card's comment exposed the systematic use of marketing techniques to shape public perception of a potential military conflict.

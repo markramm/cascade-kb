@@ -37,5 +37,4 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 Palm Beach Police Department begins investigating Jeffrey Epstein after a parent reports finding $300 in their 14-year-old daughter's room and learns it came from Epstein for a 'massage.' This marks the beginning of the law enforcement investigation that would eventually expose Epstein's systematic abuse of minors, though it would take years to overcome institutional protection.

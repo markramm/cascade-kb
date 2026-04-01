@@ -42,7 +42,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Harry S. Truman signs the Defense Production Act in response to the Korean War, enacting sweeping federal authority over industrial mobilization and war production. The legislation enables Truman to establish the Office of Defense Mobilization, institute wage and price controls, strictly regulate heavy industries including steel and mining, prioritize and allocate scarce industrial materials, and order dispersal of wartime manufacturing plants across the nation. The Korean War triggers a massive defense spending explosion, with the military budget surging from a postwar low of $13.5 billion to $50 billion by December 1950. This quadrupling of defense expenditures represents 14 percent of gross domestic product and pumps unprecedented resources into corporate defense contractors through government procurement.
 

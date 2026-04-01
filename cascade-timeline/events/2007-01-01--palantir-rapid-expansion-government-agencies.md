@@ -35,7 +35,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Between 2007 and 2009, Palantir Technologies experienced explosive growth within the U.S. government, expanding from eight pilot programs to more than 50 programs across multiple federal agencies. This rapid expansion was driven by referrals from early adopters and represented Palantir's transition from a small CIA-backed startup to a major government contractor with broad reach across the national security apparatus.
 

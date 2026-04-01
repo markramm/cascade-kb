@@ -55,6 +55,5 @@ _merge_timestamp: '2025-09-05T23:46:55.900421'
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 
 Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted in 2022 for defrauding banks of over $30 million and evading federal taxes, after their daughter—an RNC speaker and Trump supporter—lobbied for their clemency

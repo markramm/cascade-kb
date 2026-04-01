@@ -53,7 +53,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Mark Zuckerberg lobbied President Trump to settle a 2020 FTC antitrust case that
 seeks to unwind Meta's acquisitions of Instagram and WhatsApp for allegedly maintaining

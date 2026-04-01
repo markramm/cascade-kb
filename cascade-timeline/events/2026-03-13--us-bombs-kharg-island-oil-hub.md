@@ -40,7 +40,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 13, 2026 — Day 14 of Operation Epic Fury — the U.S. Air Force conducted strikes on Kharg Island, the transit point for approximately 90 percent of Iran's oil exports. The strikes hit more than 90 military targets on and around the island, including IRGC naval positions, air defense batteries, and command-and-control facilities. Notably, the U.S. deliberately spared the oil loading terminals and storage infrastructure on the island itself.
 

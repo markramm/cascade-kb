@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The United Automobile Workers ends its five-month strike against Caterpillar on April 14, 1992, after the company announces it will begin permanently replacing the 12,600 striking workers. The UAW—the union that pioneered industrial unionism with the Flint sit-down strike—capitulates without a contract, ordering members back to work under the company's final offer. The defeat destroys pattern bargaining in heavy equipment manufacturing and demonstrates that even the most powerful industrial unions cannot withstand permanent replacement threats.
 

@@ -44,6 +44,5 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 House Legislative Branch subcommittee votes 6-4 on party lines to cut GAO budget to $415M (48% reduction). Prohibits GAO from Impoundment Control Act suits without Congressional resolution. Committee cites 'self-directed liberal initiatives.' GAO head warns of 'grave, pervasive' effects. $76 return per $1 invested.

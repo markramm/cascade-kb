@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: timeline_event
 
 On March 14, 2026, Tania Warner, a Canadian citizen holding a valid U.S. work visa, was detained along with her seven-year-old daughter Ayla at an interior immigration checkpoint near Sarita, Texas, while driving home from a baby shower. Despite presenting proper documentation — including her work visa, Canadian passport, and proof of her five-year residence in the United States — Warner and her daughter were taken into custody by CBP officers at the checkpoint and subsequently transferred to ICE.
 

@@ -42,6 +42,5 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Trump family launched World Liberty Financial, a cryptocurrency venture with significant financial implications, demonstrating potential conflicts of interest and leveraging of political power for personal financial gain.

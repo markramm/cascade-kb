@@ -41,7 +41,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 IBP Inc., the nation's largest meatpacking company, agrees to pay a $975,000 fine and implement a comprehensive ergonomics program to address rampant repetitive motion injuries at its Dakota City, Nebraska beef plant, settling what OSHA officials call "the worst example of underreporting injuries ever encountered" by the agency. A congressional investigation reveals that IBP systematically maintained two separate injury logs—one sanitized version provided to OSHA containing less than 10 percent of the injuries recorded by the company's own medical staff, and an internal log documenting the true scale of worker injuries. OSHA initially proposed a $3.1 million fine in 1987 for 21 violations, but the penalty is negotiated down to $975,000 plus mandatory implementation of far-reaching safety improvements—still representing one of OSHA's largest enforcement actions in the meatpacking industry to that date.
 

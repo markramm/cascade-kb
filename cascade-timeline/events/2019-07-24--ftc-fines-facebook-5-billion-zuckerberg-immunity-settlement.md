@@ -48,7 +48,6 @@ capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The FTC announces a record $5 billion fine against Facebook for privacy violations related to Cambridge Analytica, but grants unprecedented immunity from personal liability to Mark Zuckerberg and other executives for past misconduct while imposing no structural changes to the company's surveillance business model. Dissenting commissioners condemn the settlement as a "sweetheart deal" that amounts to only one month of Facebook revenue.
 

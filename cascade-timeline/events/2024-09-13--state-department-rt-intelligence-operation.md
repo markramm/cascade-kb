@@ -44,7 +44,6 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 Secretary of State Antony Blinken announced on September 13, 2024 that the State Department was revealing declassified U.S. intelligence findings showing RT (Russia Today) has evolved into a full-scale Russian intelligence operation. The key revelation was that **in Spring 2023, the Russian government quietly embedded an intelligence-gathering unit within RT** focused on influence operations globally. This embedded unit possesses cyber operational capabilities and maintains ties to Russian intelligence services.
 

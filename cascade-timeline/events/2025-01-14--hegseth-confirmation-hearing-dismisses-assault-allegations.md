@@ -45,7 +45,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 Defense Secretary nominee Pete Hegseth appeared before the Senate Armed Services Committee and dismissed credible sexual assault allegations and documented alcohol abuse as a coordinated "smear campaign" orchestrated by political enemies and the media.

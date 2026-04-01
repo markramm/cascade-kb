@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 William McKinley defeats William Jennings Bryan to win the presidency in what becomes a watershed moment in American campaign finance, powered by Republican National Committee Chairman Mark Hanna's revolutionary systematic fundraising from corporations. The Ohio industrialist, shipping magnate, and political operative Hanna raises an unprecedented $3.5 million for the campaign—the costliest and best organized the nation has ever witnessed—outspending Bryan by a ratio of 20 to 1. While Hanna directly contributes $100,000 to McKinley's nomination campaign, his true innovation lies in systematizing corporate fundraising: he assesses banks at 0.25% of their capital and corporations in relation to their profitability and perceived stake in national prosperity. Standard Oil alone contributes $250,000, with John D. Rockefeller personally vouching for Hanna to other industrialists.
 

@@ -41,5 +41,4 @@ tags:
 - financial-ethics
 title: Boston Fed President Rosengren Resigns Over REIT Trading Scandal
 ---
-type: timeline_event
 In September 2021, Boston Federal Reserve President Eric Rosengren resigned amid a trading scandal revealing he actively traded Real Estate Investment Trusts (REITs) and mortgage-backed securities during 2020, while the Federal Reserve was simultaneously purchasing such assets. A 2024 watchdog report found that while Rosengren's trades were technically legal, they created a significant 'appearance of conflict of interest', undermining public trust in the Federal Reserve's impartiality. Rosengren retired on September 30, 2021, citing health reasons, but the incident prompted the Federal Reserve to revise its ethics policies to prevent similar conflicts in the future.

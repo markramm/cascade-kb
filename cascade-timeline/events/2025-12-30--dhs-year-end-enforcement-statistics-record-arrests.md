@@ -37,7 +37,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Intelligence Penetration
 ---
-type: timeline_event
 
 
 DHS releases year-end enforcement statistics claiming ICE arrested the "worst of the worst criminal illegal aliens" including individuals convicted of heinous crimes. The announcements use inflammatory language describing arrests of people convicted of "raping a child under 12-years-old, domestic violence assault, and alien smuggling."

@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 The Stop Trading on Congressional Knowledge (STOCK) Act gained explosive momentum on November 13, 2011, after CBS's 60 Minutes aired an investigation revealing that members of Congress allegedly used non-public information from their official positions for personal financial gain. The broadcast documented that House member stock portfolios from 1985 to 2001 beat the market average by approximately 6 percent annually, while Senate portfolios outperformed by about 10 percent — statistical anomalies strongly suggesting insider trading. Within five days of the broadcast, the STOCK Act, originally introduced by Washington Congressman Brian Baird but ignored for years, received 84 additional House co-sponsors.
 

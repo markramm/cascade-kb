@@ -35,7 +35,6 @@ capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption
 ---
-type: timeline_event
 
 Joe Rogan claimed on his podcast in July 2023 that January 6 was a false flag operation orchestrated by federal intelligence agencies, stating **"That's a fact"** regarding intelligence agency involvement in provoking people into the Capitol Building. Rogan repeatedly promoted the baseless conspiracy theory that federal law enforcement used "agent provocateurs" such as Ray Epps to manipulate the crowd to attack the Capitol.
 

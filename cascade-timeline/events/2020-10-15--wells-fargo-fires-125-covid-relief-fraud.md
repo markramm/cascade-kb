@@ -33,7 +33,6 @@ capture_lanes:
 - Labor Suppression
 - Systematic Corruption
 ---
-type: timeline_event
 
 Wells Fargo terminates between 100 and 125 employees for fraudulently obtaining COVID-19 relief funds through the SBA's Economic Injury Disaster Loan (EIDL) program. Employees created fake profiles and made false representations to receive advances of up to $10,000 from the pandemic relief program. The firings occur just months after Wells Fargo agreed to pay $3 billion for its fake accounts scandal, demonstrating that the corporate culture enabling fraud—and the pattern of punishing low-level workers while protecting leadership—remains fundamentally unchanged.
 

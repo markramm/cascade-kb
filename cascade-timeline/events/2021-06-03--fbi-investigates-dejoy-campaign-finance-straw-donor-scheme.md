@@ -43,7 +43,6 @@ capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption
 ---
-type: timeline_event
 
 The FBI launched an investigation into Postmaster General Louis DeJoy over allegations that he orchestrated an illegal straw donor campaign finance scheme at his former company, New Breed Logistics. Former employees told the Washington Post that DeJoy pressured them to make political donations to Republican candidates and campaigns, which he would then reimburse through inflated bonuses. Such arrangements violate federal and state campaign finance laws designed to prevent wealthy donors from circumventing contribution limits by funneling money through intermediaries.
 

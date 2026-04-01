@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Congress passes the California Land Act of 1851 (9 Stat. 631), sponsored by California Senator William M. Gwin, establishing a three-member Board of Land Commissioners to determine the validity of prior Spanish and Mexican land grants. The Act places the burden of proof of title on landholders—contrary to the Treaty of Guadalupe Hidalgo under which the United States agreed to respect land grants and protect the property rights of Mexican nationals—and initiates a lengthy process of litigation that results in most Mexican Californians (Californios) losing their land titles. This requirement directly violates Articles Eight, Nine, and Ten of the Treaty of Guadalupe Hidalgo, which guaranteed property rights of Mexican nationals, demonstrating deliberate institutional bad faith and systematic dispossession cloaked in legal procedure.
 

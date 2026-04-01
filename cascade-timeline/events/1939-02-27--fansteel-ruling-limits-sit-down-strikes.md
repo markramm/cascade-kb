@@ -34,7 +34,6 @@ capture_lanes:
 - Labor Suppression
 status: confirmed
 ---
-type: timeline_event
 
 On February 27, 1939, the Supreme Court rules 6-2 in NLRB v. Fansteel Metallurgical Corporation that workers who engage in sit-down strikes—occupying employer property—lose the protections of the National Labor Relations Act and can be lawfully discharged even when the employer has committed unfair labor practices. The decision deals a significant blow to the labor movement by declaring illegal the most effective organizing tactic of the 1930s, the occupation strikes that had won recognition from General Motors, Goodyear, and other major corporations.
 

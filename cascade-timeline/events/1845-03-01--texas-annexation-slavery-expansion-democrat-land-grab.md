@@ -47,7 +47,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Congress admits Texas to the Union as the 28th state on December 29, 1845, following a nine-year political struggle that delayed annexation due to opposition from antislavery forces. The annexation represents a clear victory for Slave Power expansion: Texas arrives as a vast slave-holding region (approximately 125,000 people with 30,000 enslaved) at a time when the political balance between free and slave states threatens to tear the nation apart. President John Tyler, unable to secure Senate ratification of an annexation treaty in June 1844, instead engineers annexation through a joint resolution of Congress requiring only simple majorities—a dubious constitutional workaround that bypasses the treaty process specifically to avoid the two-thirds Senate vote needed for ratification. The annexation violates Mexico's sovereignty (Mexico had outlawed slavery and refused to recognize Texas independence), guarantees war with Mexico, and immediately triggers fierce sectional debates over slavery's expansion into western territories that persist until the Civil War.
 

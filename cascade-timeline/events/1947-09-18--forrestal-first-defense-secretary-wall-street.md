@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 James Vincent Forrestal, a successful Wall Street financier who ran the investment bank Dillon, Read & Co., becomes the first United States Secretary of Defense when the National Military Establishment is formally established. Forrestal's appointment represents the archetypal revolving door between financial power and military authority that would characterize the emerging military-industrial complex. He had previously served as Undersecretary of the Navy starting in 1940 and became Secretary of the Navy in May 1944, directing General Motors' massive wartime defense production that earned him a Medal for Merit in 1946. His transition from Wall Street to the Pentagon establishes a pattern of financial elites assuming control over defense policy and procurement.
 

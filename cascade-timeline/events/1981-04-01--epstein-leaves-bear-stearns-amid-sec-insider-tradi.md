@@ -39,6 +39,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Jeffrey Epstein abruptly leaves Bear Stearns amid an SEC investigation into insider trading related to the Edgar Bronfman/Seagram deal. This marks the beginning of Epstein's transition from legitimate finance to his mysterious career as an unregistered investment advisor with undisclosed clients and funding sources.

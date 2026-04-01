@@ -39,5 +39,4 @@ patterns:
 - kleptocratic-capture
 notes: Detailed tracking of DOJ personnel changes in Trump administration
 ---
-type: timeline_event
 The Justice Department fired Adam Cohen, director of the Organized Crime Drug Enforcement Task Forces, continuing the Trump administration's pattern of sidelining career civil servants. The dismissal occurred shortly after the DOJ announced a reorganization combining the task force with the Project Safe Neighborhoods Program into 'Operation Take Back America'.

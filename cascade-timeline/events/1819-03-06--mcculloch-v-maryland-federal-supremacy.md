@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The U.S. Supreme Court decides McCulloch v. Maryland, with Chief Justice John Marshall authoring a landmark opinion establishing that Congress has implied powers under the Constitution's "Necessary and Proper Clause" and that federal law is supreme over state law, preventing states from interfering with legitimate federal operations. The case arises when Maryland imposes taxes on all banks not chartered by the state, targeting the Baltimore branch of the Second Bank of the United States after the bank's fraud and speculation had contributed to the Panic of 1819. James W. McCulloch, federal cashier at the Baltimore branch, refuses to pay the taxes imposed by Maryland. The state successfully argues on appeal to the state appellate court that the Second Bank is unconstitutional because the Constitution does not provide textual authorization for the federal government to charter a bank.
 

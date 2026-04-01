@@ -31,6 +31,5 @@ capture_lanes:
 - Systematic Corruption
 - Environmental Capture
 ---
-type: timeline_event
 
 The Senate approved Douglas Troutman, chief lobbyist for the American Cleaning Institute, to lead EPA's Office of Chemical Safety and Pollution Prevention. Troutman previously fought California's hazardous ingredient disclosure laws on behalf of chemical manufacturers, representing corporate interests over public health. His confirmation places a chemical industry advocate in charge of regulating the very companies he represented, creating a textbook case of regulatory capture. The appointment follows Trump's pattern of installing industry lobbyists to lead agencies responsible for regulating their former clients, systematically dismantling environmental and public health protections. Troutman's leadership enables the chemical industry to effectively write its own regulations while eliminating oversight that protects Americans from toxic exposures.

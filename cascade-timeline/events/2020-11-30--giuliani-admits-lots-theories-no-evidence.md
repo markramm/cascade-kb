@@ -38,5 +38,4 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 Rudy Giuliani admitted to Arizona House Speaker Rusty Bowers that "We don't have the evidence, but we have lots of theories" regarding claims of election fraud. Despite this admission, Giuliani and Trump continued pressuring Bowers to reconvene the legislature and replace Biden's legitimate electors with Trump's illegitimate ones. Bowers testified this admission offended him "to the core" and his group "laughed about it" afterwards.

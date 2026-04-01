@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The Seneca Falls Convention, held July 19-20, 1848, at the Wesleyan Methodist Church in Seneca Falls, New York, marked the first organized women's rights convention in the United States. Organized primarily by Elizabeth Cady Stanton and Lucretia Mott along with local Quaker women, the gathering emerged from a tea meeting on July 15, 1848, where female leaders from the abolitionist movement decided to act upon their frustrations over women's inequality. The convention attracted approximately 300 attendees, with 68 women and 32 men signing the Declaration of Sentiments, which became a foundational document in the women's rights movement. The convention's timing reflected broader democratic movements of the 1848 revolutionary wave, connecting women's rights to universal human rights principles.
 

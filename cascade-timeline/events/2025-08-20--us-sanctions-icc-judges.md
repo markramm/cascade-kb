@@ -56,7 +56,6 @@ capture_lanes:
 - Democratic Erosion
 validation_status: pending
 ---
-type: timeline_event
 On August 20, 2025, the United States imposed targeted sanctions on four International Criminal Court (ICC) officials, escalating an ongoing campaign to obstruct international judicial proceedings into potential war crimes.
 
 Key Details:

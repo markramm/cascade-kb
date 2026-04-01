@@ -38,6 +38,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Jeffrey Epstein is found dead in his cell at the Metropolitan Correctional Center in New York, with the death ruled suicide by hanging. The death occurs despite Epstein being on suicide watch previously, and amid failures in prison protocols including guards falling asleep and security cameras malfunctioning. The FBI and DOJ Inspector General launch investigations into the circumstances.

@@ -38,7 +38,6 @@ capture_lanes:
 - Executive Power Expansion
 - Judicial Capture
 ---
-type: timeline_event
 
 President Trump signed Executive Order 13769, titled "Protecting the Nation from Foreign Terrorist Entry into the United States," banning citizens from seven predominantly Muslim countries—Syria, Iran, Iraq, Libya, Somalia, Sudan, and Yemen—from entering the United States for 90 days. The order indefinitely suspended Syrian refugee entry, reduced 2017 refugee admissions to 50,000, and suspended the U.S. Refugee Admissions Program for 120 days.
 

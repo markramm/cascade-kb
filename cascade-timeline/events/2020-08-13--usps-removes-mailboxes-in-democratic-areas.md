@@ -41,7 +41,6 @@ capture_lanes:
 - Media Capture & Control
 - Legislative Capture
 ---
-type: timeline_event
 
 The United States Postal Service confirmed that it removed dozens of public mailboxes from streets in Democratic-leaning areas across multiple states, including Oregon, Montana, Pennsylvania, and New York. In Portland, four blue collection boxes were removed from city streets, while 27 additional boxes were removed from Eugene, Oregon. Photos of USPS workers loading the signature blue mailboxes onto trucks went viral, triggering widespread public alarm about election interference.
 

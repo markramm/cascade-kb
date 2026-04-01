@@ -42,7 +42,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Defense Secretary Pete Hegseth filed an appeal with the D.C. Circuit Court of Appeals on February 25, 2026, challenging Judge Richard Leon's February 12 preliminary injunction that blocked the Pentagon from demoting Senator Mark Kelly and cutting his military retirement pay. The dispute centered on Kelly's participation in a video advising military service members that they could refuse illegal orders—a statement of established military law that Hegseth characterized as incitement to insubordination. The Pentagon had moved to strip Kelly of his retired Navy captain rank and reduce his retirement benefits in retaliation for the video.
 
 Judge Leon's original ruling had been emphatic in its rejection of the government's legal theory, calling it "Horsefeathers!" from the bench. Leon found that the Pentagon's actions threatened the "constitutional liberties of millions of military retirees" by suggesting that retired service members could be punished for political speech the current administration disfavored. A federal grand jury had already declined to indict Kelly on any charges related to the video, further undermining the government's characterization of the speech as criminal. The ruling noted that military retirees retained their First Amendment rights and could not be subjected to punitive action for expressing views on matters of public concern.

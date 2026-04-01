@@ -35,5 +35,4 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 Charles H. Keating Jr. was indicted on 42 counts of fraud and racketeering related to the Lincoln Savings and Loan collapse. The indictment exposed massive financial fraud involving risky junk bond investments that led to billions in losses for investors and taxpayers.

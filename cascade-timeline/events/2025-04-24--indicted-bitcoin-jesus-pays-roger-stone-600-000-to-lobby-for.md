@@ -44,6 +44,5 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking. Ver seeks to leverage political connections to challenge federal tax charges.
 ---
-type: timeline_event
 
 Roger Ver, the cryptocurrency entrepreneur known as 'Bitcoin Jesus', paid Roger Stone $600,000 to lobby against federal tax evasion charges after being indicted for hiding $48 million in crypto assets. Stone filed lobbying disclosures targeting the U.S. 'exit tax' provisions that form the basis of Ver's criminal charges.

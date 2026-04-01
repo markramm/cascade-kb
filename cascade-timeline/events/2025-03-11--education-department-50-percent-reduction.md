@@ -41,6 +41,5 @@ sources:
 notes: McMahon stated Trump's directive was "to shut down the Department of Education" requiring Congressional action
 status: confirmed
 ---
-type: timeline_event
 
 Education Secretary Linda McMahon announces reduction in force (RIF) impacting nearly 50% of Department's workforce, cutting from 4,133 to 2,183 employees. Almost 600 employees accepted voluntary separation while remaining affected staff placed on administrative leave starting March 21. McMahon described this as first step toward department dismantling and eliminating "bureaucratic bloat".

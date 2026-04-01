@@ -45,5 +45,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Senator Alex Padilla (D-CA) was forcibly removed from DHS Secretary Kristi Noem's press conference at Los Angeles FBI headquarters on June 12, 2025. After interjecting with a question six minutes into Noem's remarks about immigration protests, uniformed FBI police forced him to his knees, handcuffed him while on the ground, and detained him. DHS falsely claimed he didn't identify himself, though video shows he did. He was released after being identified as a senator.

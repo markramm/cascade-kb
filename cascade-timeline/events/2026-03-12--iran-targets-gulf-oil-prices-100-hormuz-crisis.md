@@ -52,7 +52,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 12, 2026 -- Day 13 of Operation Epic Fury -- Iran launched a new wave of drone and missile attacks across Gulf states, with Bahrain reporting strikes on fuel storage tanks amid a continued surge in global oil prices. The attacks were the latest in a sustained campaign that had effectively closed the Strait of Hormuz to commercial shipping since the war's outbreak on February 28.
 

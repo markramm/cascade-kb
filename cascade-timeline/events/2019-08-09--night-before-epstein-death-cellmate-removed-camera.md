@@ -36,6 +36,5 @@ notes: The systematic failure of multiple security protocols on the same night r
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On the night before Jeffrey Epstein's death, his cellmate was mysteriously removed from his cell, surveillance cameras would malfunction during critical hours, and guards assigned to monitor him would fall asleep during their shifts. These 'coincidences' created the perfect conditions for what would be ruled a suicide the following morning.

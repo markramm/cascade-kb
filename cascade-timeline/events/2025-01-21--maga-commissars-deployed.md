@@ -36,6 +36,5 @@ sources:
 notes: Unprecedented political monitoring system within federal bureaucracy
 status: confirmed
 ---
-type: timeline_event
 
 Trump administration deploys young Trump loyalists dubbed "MAGA commissars" throughout federal agencies to monitor compliance with administration directives and screen remaining career staff for political reliability.

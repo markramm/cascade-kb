@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Princeton professor Robert P. George resigned from the Heritage Foundation board of trustees over President Kevin Roberts' defense of Tucker Carlson's interview with Holocaust denier Nick Fuentes. George stated he "could not remain without a full retraction" of Roberts' October 30 video calling Carlson "a close friend of the Heritage Foundation" and dismissing critics as "the globalist class."
 

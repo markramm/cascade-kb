@@ -62,7 +62,6 @@ tags:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 
 # WWII Corporate Profit Explosion Through Cost-Plus Contracts

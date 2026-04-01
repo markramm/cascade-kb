@@ -34,7 +34,6 @@ sources:
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The federal civilian workforce fell to its lowest level since 1966, dropping to levels last seen during the Lyndon B. Johnson administration, despite the country's population and budget being substantially larger. Office of Personnel Management Director Scott Kupor confirmed that 317,000 employees would leave the federal workforce by the end of 2025, offset by 68,000 new hires, resulting in a net reduction of 249,000 workers. The federal payroll sat at a level not seen in nearly 60 years, representing the largest peacetime workforce reduction on record.
 

@@ -34,7 +34,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 17, 2026, the city of Social Circle, Georgia — a small town of approximately 2,000 residents — took the extraordinary step of locking the water meter on a one-million-square-foot warehouse that the Department of Homeland Security had planned to convert into an ICE mega-detention center housing between 7,500 and 10,000 detainees. The City Council voted to support maintaining the water shutoff, citing infrastructure limitations that made the facility fundamentally incompatible with the town's capacity.
 

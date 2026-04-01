@@ -39,7 +39,6 @@ capture_lanes:
 - Systematic Corruption
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 American diplomatic envoys Charles Cotesworth Pinckney, John Marshall, and Elbridge Gerry arrive in Paris for peace negotiations but are approached by three French agents (later designated X, Y, and Z in diplomatic correspondence) who demand a $250,000 bribe to Foreign Minister Talleyrand and a $10 million loan to France as preconditions for negotiations. The intermediaries insist the American diplomats must apologize for anti-French statements in President Adams's May 16, 1797 speech to Congress, pay Talleyrand 1,200,000 livres (approximately £50,000 or $250,000) as a personal "payment" considered common practice in French diplomacy, and arrange a massive loan while settling claims by U.S. merchants for French seizure of American ships following the Jay Treaty.
 

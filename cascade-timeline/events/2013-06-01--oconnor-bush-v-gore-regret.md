@@ -43,6 +43,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Former Supreme Court Justice Sandra Day O'Connor, who voted with the majority in Bush v. Gore, publicly admits the case "gave the court a less-than-perfect reputation" and suggests the Court should have declined to hear it. Her statement that "Maybe the court should have said, 'We're not going to take it, goodbye'" represents a rare judicial acknowledgment of partisan overreach. O'Connor's regret validates longstanding criticism that Bush v. Gore damaged public trust in judicial neutrality and democratic institutions. Her admission comes amid growing evidence that the decision increased Americans' view of judges as partisan and decreased trust in electoral integrity. This belated recognition underscores how the decision prioritized partisan outcomes over institutional legitimacy, establishing dangerous precedent for judicial intervention in elections.

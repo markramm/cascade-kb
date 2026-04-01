@@ -42,7 +42,6 @@ capture_lanes:
 - Labor Suppression
 - Legislative Capture
 ---
-type: timeline_event
 
 Congress overrides President Harry Truman's veto to pass the Labor Management Relations Act of 1947, known as the Taft-Hartley Act after sponsors Senator Robert Taft (R-OH) and Representative Fred Hartley (R-NJ). The legislation fundamentally restricts union power by amending the 1935 Wagner Act, prohibiting closed shops, jurisdictional strikes, wildcat strikes, solidarity strikes, political strikes, secondary boycotts, mass picketing, and union monetary donations to federal political campaigns.
 

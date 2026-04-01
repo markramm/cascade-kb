@@ -41,6 +41,5 @@ tags:
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 Challenger, Gray & Christmas data revealed 62,530 federal workers dismissed in first two months of 2025 - a 41,311% increase over 2024. Government layoffs accounted for most job cuts, driven by DOGE's unprecedented federal workforce reduction targeting 75% cuts across 27 agencies. March alone saw 216,670 additional federal cuts, making it third-highest monthly total since 2020.

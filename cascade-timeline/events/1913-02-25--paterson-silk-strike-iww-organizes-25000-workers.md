@@ -35,7 +35,6 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 Approximately 25,000 silk workers in Paterson, New Jersey walked out on February 25, 1913, beginning one of the most significant industrial conflicts of the Progressive Era. The IWW-led strike united diverse immigrant workers - Italian, Jewish, German, and native-born - demanding the eight-hour day, abolition of the four-loom system that intensified labor, and improved wages. The strike lasted five months and became a national cause, attracting support from intellectuals, artists, and radicals.
 

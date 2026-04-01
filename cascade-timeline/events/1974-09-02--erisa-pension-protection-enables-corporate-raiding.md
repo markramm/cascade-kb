@@ -44,7 +44,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 
 President Gerald Ford signed the Employee Retirement Income Security Act (ERISA) into law on September 2, 1974, Labor Day, following near-unanimous passage in Congress (85-0 in the Senate, with only two House representatives opposed). The legislation responded to catastrophic pension failures like the 1963 Studebaker plant closure, where 4,000 workers aged 40-59 received lump sum payments worth only 15% of their pension benefits, and 2,900 workers received nothing at all. ERISA established vesting requirements, fiduciary responsibility standards, funding rules, and created the Pension Benefit Guaranty Corporation (PBGC) to insure benefits of participants in underfunded terminated plans. The legislation also imposed a "prudent man" rule on pension fund managers and required disclosure of where pension money was being invested.

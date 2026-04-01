@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 With the federal ban on international slave importation taking effect January 1, 1808, the domestic slave trade within the United States begins a massive expansion that will ultimately transport over one million enslaved people from the Upper South to the Deep South over the next five decades, a forced migration historians call the "Second Middle Passage." The cotton boom following the cotton gin's invention creates insatiable demand for enslaved labor in new states like Alabama, Mississippi, Louisiana, Arkansas, and Texas, while Upper South states like Virginia, Maryland, Kentucky, North Carolina, Tennessee, and Missouri see declining profitability in tobacco cultivation. This economic divergence transforms enslaved people into the Upper South's most valuable export commodity: Virginia and Maryland planters discover they can profit more from selling people than from agricultural production, turning these states into de facto breeding and trafficking centers.
 

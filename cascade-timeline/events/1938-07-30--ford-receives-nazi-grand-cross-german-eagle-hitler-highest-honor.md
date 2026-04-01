@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On Henry Ford's 75th birthday, July 30, 1938, the automobile magnate receives the Grand Cross of the German Eagle, the Nazi regime's highest honor for foreign nationals, awarded by Adolf Hitler for Ford's "services to the Third Reich." The award represents the first time the Grand Cross has been bestowed upon a United States citizen and culminates years of mutual admiration between Ford and Hitler based on shared antisemitic ideology and Ford's profitable business operations in Nazi Germany. Ford accepts the medal and remains silent about the honor both after Kristallnacht in November 1938 and even after Germany's declaration of war on the United States in December 1941, refusing all calls to return the award.
 

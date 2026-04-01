@@ -46,5 +46,4 @@ tags:
 - ethical-concerns
 title: 'Trump Military Parade Sponsored by Companies with Close Political Ties, Raising Ethical Concerns'
 ---
-type: timeline_event
 The U.S. Army 250th Anniversary military parade was sponsored by multiple companies with close ties to President Trump, including Coinbase, Palantir, and Amazon. The event raised significant ethical concerns about corporate political influence, with sponsors potentially seeking regulatory favors or political access. Norman Eisen, a former White House ethics official, criticized the sponsorships as 'unsavory' and potentially representing an abuse of public office for private gain.

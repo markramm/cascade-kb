@@ -38,6 +38,5 @@ sources:
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Artist Maria Farmer files a report with the FBI detailing sexual assault by Jeffrey Epstein and Ghislaine Maxwell at Les Wexner's estate in Ohio. The FBI takes no action on her complaint for over 10 years, allowing the abuse network to continue operating with apparent impunity despite early law enforcement awareness.

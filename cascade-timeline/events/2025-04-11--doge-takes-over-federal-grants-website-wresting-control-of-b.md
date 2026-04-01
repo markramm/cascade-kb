@@ -46,6 +46,5 @@ capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 In an unprecedented move, Elon Musk's Department of Government Efficiency (DOGE) secured access to the U.S. Treasury's federal payment system, sparking intense controversy among Democratic senators who view this as a potential risk to national financial infrastructure and personal data privacy.

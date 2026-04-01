@@ -47,5 +47,4 @@ sources:
   archive_url: 'https://web.archive.org/web/20240627000000*/https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969'
   tier: 1
 ---
-type: timeline_event
 Meta experienced a technical issue on Instagram and Threads that appeared to reset users' political content filter settings, causing confusion. The company quickly acknowledged and fixed the bug, which occurred just before the first 2024 presidential debate.

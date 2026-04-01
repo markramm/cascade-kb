@@ -35,7 +35,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Trump demanded Netflix remove former National Security Advisor Susan Rice from its board of directors while the company's $72 billion merger faces Department of Justice review. The demand weaponized federal regulatory authority over corporate mergers to extract political concessions, using the threat of blocking a business deal to punish a perceived political opponent. The pattern—leveraging government approval power to force corporate compliance with personal political vendettas—represents a direct corruption of antitrust enforcement for political purposes.
 
 The implicit threat is unmistakable: comply with the president's demand to purge a political opponent from your board, or face regulatory consequences for your pending business deal. This transforms antitrust review from a process designed to protect market competition into a tool of political coercion, where the price of government approval includes submission to the president's personal grudges.

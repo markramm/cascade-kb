@@ -43,7 +43,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The U.S. Supreme Court rules unanimously 9-0 in Loewe v. Lawlor (the "Danbury Hatters' Case") that the Sherman Antitrust Act applies to labor unions and that individual union members can be held personally liable for damages caused by union boycotts. Chief Justice Melville W. Fuller writes for the Court, determining that the Sherman Act encompasses all combinations restraining trade including labor organizations, effectively outlawing the secondary boycott as a union tactic. The case arises when D.E. Loewe & Company, a fur hat manufacturer in Danbury, Connecticut, declares itself an "open shop" in 1901—becoming the third open shop ever established in Danbury, the center of the pelt industry since 1780.
 

@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Former Defense Secretary Clark Clifford and his partner Robert Altman are retained as BCCI's primary US legal counsel, introduced through Bert Lance, former OMB Director. Clifford's prestigious reputation as advisor to five presidents provides BCCI with essential American political legitimacy and regulatory protection. The partnership enables BCCI to begin acquiring US banking assets while avoiding regulatory scrutiny through Clifford's Washington connections. Clifford and Altman's law firm handles most of BCCI's American legal work, creating a revolving door between Democratic political establishment and criminal banking operations. This relationship demonstrates how BCCI captures American political elites to facilitate money laundering and intelligence operations, establishing a template for foreign criminal organizations penetrating US financial systems.

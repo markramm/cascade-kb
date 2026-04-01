@@ -41,6 +41,5 @@ sources:
 
   tier: 2
 ---
-type: timeline_event
 
 Georgia Supreme Court unanimously ruled the GOP-led State Election Board exceeded its authority by passing rules requiring hand-counting of ballots at polling places. Chief Justice Nels Peterson wrote the Board "cannot go beyond, change or contradict" state law. The court blocked four rules passed less than 50 days before the 2024 election, including hand counts and "reasonable inquiry" requirements before certification.

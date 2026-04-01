@@ -50,7 +50,6 @@ actors:
 - Ralph Williams
 - Milton Eisenhower
 ---
-type: timeline_event
 
 
 In his nationally televised farewell address from the Oval Office, President Dwight D. Eisenhower issued one of the most prescient warnings in American political history about the dangers of the military-industrial complex. The five-star general and Republican president who had led Allied forces in World War II surprised viewers expecting a nostalgic "old soldier" speech by instead warning that "we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist." Eisenhower cautioned that this "conjunction of an immense military establishment and a large arms industry is new in the American experience" and that "only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals."

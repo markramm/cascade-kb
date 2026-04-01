@@ -35,7 +35,6 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 13, 2026, more than 120 House Democrats, led by Representative Sara Jacobs of California, sent a formal letter to Defense Secretary Pete Hegseth demanding a detailed accounting of artificial intelligence's role in selecting the Minab girls' school as a strike target. The February 28 attack killed more than 170 people, including over 100 children, and had become the most scrutinized single incident of the Iran war. The lawmakers specifically asked whether the Maven Smart System — the Pentagon's AI-powered targeting platform operated by Palantir — had identified the school as a military facility.
 

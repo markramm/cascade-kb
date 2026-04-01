@@ -59,5 +59,4 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 Dr. Robert Malone on Rogan's podcast falsely claims vaccines increase COVID risk and compares pandemic response to Nazi Germany through a discredited psychological theory, reaching 11 million listeners. The episode sparked major controversy, with 270 medical professionals demanding Spotify take action against medical misinformation, and leading to artist boycotts and platform responses.

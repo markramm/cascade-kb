@@ -50,5 +50,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Attorney General Pam Bondi, who received over $3 million from Trump businesses including Truth Social stock, shuts down FBI's Foreign Influence Task Force and DOJ's KleptoCapture unit on first day. Units had recovered billions in Russian oligarch assets and investigated foreign election interference.

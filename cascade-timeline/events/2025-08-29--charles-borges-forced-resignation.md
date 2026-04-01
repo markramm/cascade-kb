@@ -43,7 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Charles Borges, SSA's Chief Data Officer, submitted an "involuntary resignation" citing
 retaliation after his whistleblower complaint about DOGE's mishandling of 300 million

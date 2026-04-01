@@ -41,7 +41,6 @@ capture_lanes:
 - Labor Suppression
 status: confirmed
 ---
-type: timeline_event
 
 On March 29, 1937, the Supreme Court rules 5-4 in West Coast Hotel Co. v. Parrish to uphold Washington State's minimum wage law for women, explicitly overruling its 1923 Adkins v. Children's Hospital precedent and marking the beginning of the "Constitutional Revolution of 1937." Justice Owen Roberts, who had voted to strike down a virtually identical New York minimum wage law just nine months earlier in Morehead v. New York ex rel. Tipaldo, provides the crucial fifth vote—the "switch in time that saved nine" attributed to Roosevelt's court-packing threat.
 

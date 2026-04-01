@@ -46,6 +46,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Following Joseph Wilson's July 6, 2003 New York Times op-ed 'What I Didn't Find in Africa' exposing the false Niger uranium claims, the White House Iraq Group immediately mobilizes to discredit Wilson and his findings. WHIG members Karl Rove and Scooter Libby, both regular participants in the group's weekly Situation Room meetings, coordinate the administration's response strategy. Secretary of State Colin Powell carries a State Department memo identifying Valerie Plame as Wilson's wife and CIA operative on Air Force One during the July 7-12 Africa trip with President Bush. The memo, which Powell is seen walking around with after takeoff, becomes central to the leak conspiracy. WHIG's systematic campaign includes having White House Press Secretary Ari Fleischer downplay Wilson's article on-the-record while Rice and others make off-the-record calls to media outlets. The group's coordination of the Wilson discrediting effort culminates in the July 14, 2003 Robert Novak column exposing Plame's CIA identity. This represents WHIG's evolution from marketing Iraq WMD propaganda to actively retaliating against critics who exposed the administration's intelligence deceptions, demonstrating the group's central role in both the original fraud and its cover-up.

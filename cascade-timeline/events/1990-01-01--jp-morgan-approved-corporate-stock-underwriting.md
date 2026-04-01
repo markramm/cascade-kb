@@ -50,6 +50,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 The Federal Reserve Board continues its incremental erosion of Glass-Steagall Act restrictions, approving expanded securities underwriting capabilities for JP Morgan & Co. Following a 3-2 vote in 1987 to ease regulations, the Fed systematically reinterprets Congressional banking separation laws. This process, accelerated under Alan Greenspan's leadership, allows commercial banks to gradually enter investment banking markets, effectively circumventing the original intent of the 1933 Glass-Steagall Act. By 1990, major banks like JP Morgan could participate in almost all securities activities previously prohibited.

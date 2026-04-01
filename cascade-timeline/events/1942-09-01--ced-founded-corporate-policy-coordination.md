@@ -37,7 +37,6 @@ sources:
   tier: 2
   date: '2024-01-01'
 ---
-type: timeline_event
 
 The Committee for Economic Development (CED) is founded in September 1942 as a nonprofit policy organization bringing together corporate executives, economists, and government officials to coordinate economic policy. The organization originates within the Commerce Department under FDR's Commerce Secretary Jesse Jones, working with Paul G. Hoffman (president of Studebaker Corporation), William Benton (co-founder of Benton & Bowles advertising firm), Marion B. Folsom (treasurer of Eastman Kodak), and Beardsley Ruml (former Macy's treasurer). Unlike the more conservative National Association of Manufacturers and U.S. Chamber of Commerce, CED embraces what Fortune describes as "careful Democrats and open-minded Republicans" committed to a mixed economy and Keynesian economics, establishing 3,000 local CED committees during the war and enlisting 60,000 business leaders throughout the country.
 

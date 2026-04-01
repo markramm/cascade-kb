@@ -34,7 +34,6 @@ capture_lanes:
 - Institutional Capture
 - Executive Power
 ---
-type: timeline_event
 
 FBI agents raided the home of former National Security Advisor John Bolton on August 22, 2025. The raid was directed by FBI Director Kash Patel.
 

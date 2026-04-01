@@ -47,5 +47,4 @@ tags:
 - tech-diplomacy
 title: Russia Proposes Mars Exploration Collaboration with Elon Musk
 ---
-type: timeline_event
 Russia's Direct Investment Fund head, Kirill Dmitriev, proposed a joint Mars exploration initiative with Elon Musk, offering nuclear technology and space expertise from Roscosmos and Rosatom. This marks a significant diplomatic overture in U.S.-Russia space cooperation, part of a broader diplomatic thaw following high-level talks in Saudi Arabia.

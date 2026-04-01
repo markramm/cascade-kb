@@ -36,7 +36,6 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 In early 1901, J.P. Morgan, the country's most powerful banker, purchased Andrew Carnegie's Carnegie Steel Corporation for $500 million and merged it with nine other steel companies to form the United States Steel Corporation—the world's largest corporation and first billion-dollar company, capitalized at $1.4 billion. The consolidation created an unprecedented concentration of industrial power, with U.S. Steel controlling vast segments of American steel production, raw materials, and distribution networks. Carnegie, who had built his empire through ruthless vertical integration and systematic destruction of labor unions, walked away with the equivalent of hundreds of billions in today's dollars.
 

@@ -38,6 +38,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Jared Kushner made an unannounced visit to Saudi Arabia in October 2017, staying up until 4 AM with Crown Prince Mohammed bin Salman. Days later, MBS launched mass arrests of 200+ Saudi royals and officials, seizing $100 billion in assets. MBS reportedly told confidants that Kushner was 'in his pocket' after sharing classified U.S. intelligence about Saudi dissidents. The Intercept reported Kushner discussed classified information identifying MBS's enemies from the President's Daily Brief. Kushner communicated with MBS via WhatsApp, bypassing official diplomatic channels. When MBS ordered journalist Jamal Khashoggi's murder in 2018, Kushner advised him on weathering the crisis. Trump refused CIA conclusions about the murder, declaring 'Saudi Arabia is a big buyer of American product. That means something to me.' This intelligence sharing represented an unprecedented breach of classified information protocols for personal influence.

@@ -40,7 +40,6 @@ sources:
     tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On November 15, 1990, President George H.W. Bush signed the Clean Air Act Amendments, the most significant update to air pollution law since 1970. While the law achieved real environmental gains, the legislative process demonstrated how industry successfully shaped regulatory approaches to minimize compliance costs and create profitable trading markets.
 

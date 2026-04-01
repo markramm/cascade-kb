@@ -41,7 +41,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 Walgreens formally terminates its partnership with Theranos after discovering that 31,000 Walgreens customers had received voided test results from the blood-testing company's faulty devices. The termination follows months of deteriorating relations after the October 2015 Wall Street Journal exposé revealed Theranos' technology didn't work as advertised. Walgreens closes all Theranos wellness centers in its stores and immediately ceases blood-testing services, citing bad test results and the federal investigation into Theranos. The pharmacy chain had invested $140 million in the partnership, which began in 2013 with plans to revolutionize blood testing through convenient retail locations.
 

@@ -46,5 +46,4 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-type: timeline_event
 In late 2016, Deutsche Bank's internal anti-money laundering specialists flagged multiple suspicious transactions involving Trump businesses and Russian individuals, with the bank simultaneously continuing to loan Trump billions while being implicated in a $10 billion Russian money-laundering scheme. Bank compliance officers discovered money flowing to international sources, particularly wealthy Russians, but bank executives declined to report these transactions to federal authorities. This occurred as the bank held over $300 million in Trump-related debt and was under multiple federal investigations for its Russian financial connections.

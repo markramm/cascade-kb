@@ -48,6 +48,5 @@ capture_lanes:
 - Systematic Corruption
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Trump administration fired hundreds of FAA air traffic control staff while bringing in three SpaceX engineers as Special Government Employees, raising significant regulatory capture concerns. These engineers were allowed to review air traffic control systems despite potential conflicts of interest.

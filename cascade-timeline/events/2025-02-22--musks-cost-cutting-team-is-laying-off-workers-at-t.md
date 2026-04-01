@@ -46,7 +46,6 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 DOGE personnel began implementing layoffs at the National Highway Traffic Safety Administration (NHTSA) in February 2025, cutting dozens of positions from the agency responsible for vehicle safety regulation and oversight of crash investigations. The Associated Press and Washington Post reported that the cuts fell heavily on engineers and safety specialists who conducted crash investigations and reviewed vehicle defect complaints—employees whose work directly affects decisions about recalls that protect American motorists. Tesla, Elon Musk's electric vehicle company, had been the subject of multiple ongoing NHTSA investigations into crashes involving its Autopilot and Full Self-Driving systems.
 
 The conflict of interest was stark: Musk, in his capacity as leader of DOGE, was directing staffing reductions at the federal agency responsible for oversight of his own company's vehicles and autonomous driving technology. NHTSA had opened investigations into Tesla's driver assistance systems following crashes that killed drivers, and the agency's ability to conduct rigorous investigations of Tesla's technology depended on maintaining technical expertise in automotive engineering and crash analysis. Critics including former NHTSA officials and Democratic lawmakers argued that cutting NHTSA's staff would inevitably benefit Tesla by reducing the agency's capacity to conduct thorough investigations and issue recalls.

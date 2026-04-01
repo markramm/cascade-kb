@@ -36,7 +36,6 @@ capture_lanes:
 - Democratic Backsliding
 - Elite Impunity
 ---
-type: timeline_event
 
 On Ash Wednesday, February 18, 2026, nearly 400 prominent Christian leaders — including denominational officials, seminary presidents, theologians, and congregation leaders — released "A Call to Christians in a Crisis of Faith and Democracy," a public letter condemning the Trump administration as "cruel and oppressive" and accusing it of promoting "a Christian faith corrupted by the heretical ideology of white Christian nationalism." The letter warned that the United States was being pushed "toward authoritarian and imperial rule" and alleged that "citizens and immigrants [were] being demonized, disappeared, and even killed" as hard-won rights eroded. Signatories called on fellow Christians to commit to "greater acts of courage to resist." Cardinal Blase Cupich, Archbishop of Chicago, led a public Ash Wednesday Mass and procession in solidarity with immigrant communities targeted by the administration.
 

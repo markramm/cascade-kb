@@ -35,6 +35,5 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 In 1985, Michael Milken raised a $750 million blind pool for Ronald Perelman through Drexel Burnham Lambert, providing unprecedented capital for corporate takeovers. This financing enabled Perelman to launch a successful hostile takeover of Revlon in November 1985 for $2.7 billion, demonstrating the power of Milken's innovative junk bond financing model. The blind pool represented a key mechanism of 1980s corporate raiding, where financiers like Milken would raise large pools of speculative capital to fund aggressive corporate acquisitions.

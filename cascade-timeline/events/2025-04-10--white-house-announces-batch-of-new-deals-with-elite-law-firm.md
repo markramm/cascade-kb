@@ -48,6 +48,5 @@ sources:
 notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional Bloomberg sources detailing pro bono legal service negotiations.
 connections: []
 ---
-type: timeline_event
 
 The Trump White House negotiated deals with top law firms—including Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman—to provide approximately $500 million in pro bono legal work. In exchange, these firms would avoid potential sanctions targeting organizations with DEI programs or perceived ties to Trump's political opponents. The agreements involve firms providing free legal services in trade negotiations and administration priorities, effectively using legal representation as a form of political leverage.

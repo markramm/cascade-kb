@@ -57,7 +57,6 @@ capture_lanes:
 - Federal Workforce Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 On June 13, 1971, The New York Times began publishing excerpts from a 7,000-page classified Defense Department study titled "History of U.S. Decision-Making in Vietnam, 1945-1968"—soon known as the Pentagon Papers. Leaked by military analyst Daniel Ellsberg, the documents revealed that four successive presidential administrations had systematically deceived the American public and Congress about the origins, conduct, and prospects of the Vietnam War.

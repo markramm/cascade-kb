@@ -52,5 +52,4 @@ sources:
   description: Academic analysis of regulatory review process and antitrust considerations for the T-Mobile Sprint merger
   tier: 1
 ---
-type: timeline_event
 While seeking federal approval of the T-Mobile–Sprint merger, T-Mobile executives sharply increased spending at Trump International Hotel in Washington—about $195,000 on rooms, meeting space, and services—according to company letters and reporting. The company said the stays did not affect the merger's review. T-Mobile executives began extensively patronizing the Trump Hotel immediately after announcing their merger with Sprint, raising significant conflicts of interest concerns that prompted congressional investigation and oversight.

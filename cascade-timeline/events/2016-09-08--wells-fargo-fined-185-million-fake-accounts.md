@@ -37,7 +37,6 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Consumer Financial Protection Bureau, Office of the Comptroller of the Currency, and Los Angeles City Attorney announce a combined $185 million settlement with Wells Fargo for the systematic creation of more than two million unauthorized deposit and credit card accounts. The CFPB assesses a $100 million penalty—the largest in the agency's history—while the OCC adds $35 million and Los Angeles contributes $50 million. Wells Fargo also agrees to pay full restitution to affected consumers.
 

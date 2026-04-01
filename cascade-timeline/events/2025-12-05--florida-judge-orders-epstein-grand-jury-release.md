@@ -47,7 +47,6 @@ capture_lanes:
 - Judicial Capture
 status: reported
 ---
-type: timeline_event
 
 U.S. District Judge Rodney Smith of the Southern District of Florida ordered the unsealing of grand jury transcripts and records from the 2005-2007 federal investigations into Jeffrey Epstein's alleged sex trafficking of underage girls. The ruling marked the first judicial enforcement of the Epstein Files Transparency Act, which President Trump signed into law on November 19, 2025, and set a December 19 deadline for the Department of Justice to release materials related to Epstein and his convicted co-conspirator Ghislaine Maxwell.
 

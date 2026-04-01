@@ -35,7 +35,6 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
-type: timeline_event
 
 Wells Fargo CEO John Stumpf testifies before the Senate Banking Committee in a hearing titled "An Examination of Wells Fargo's Unauthorized Accounts and the Regulatory Response." Senator Elizabeth Warren delivers a devastating confrontation, accusing Stumpf of "gutless leadership" and demanding his resignation, return of compensation earned during the fraud, and criminal investigation. The hearing becomes an iconic moment exposing the disconnect between executive accountability rhetoric and reality.
 

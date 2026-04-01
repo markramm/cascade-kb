@@ -37,6 +37,5 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Freedom House downgraded the United States democracy score from 94/100 to 83/100 between 2010-2021, the steepest decline among established democracies. The 11-point drop reflected systematic erosion of democratic norms including partisan gerrymandering, voter suppression laws in 33 states, unprecedented legislative interference in election administration, political violence becoming normalized, and the January 6 insurrection attempt. The US fell behind countries like Argentina, Mongolia, and Romania in democratic health. Freedom House specifically cited Trump's refusal to accept election results, attacks on the legitimacy of opposition, encouragement of violence, and the Republican Party's embrace of anti-democratic tactics. The report warned that American democracy had become a 'flawed democracy' at risk of further backsliding toward competitive authoritarianism.

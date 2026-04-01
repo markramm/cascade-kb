@@ -52,6 +52,5 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking.
 ---
-type: timeline_event
 
 Tether, a cryptocurrency firm previously under fraud investigation, has gained significant political leverage in the Trump administration's expanding crypto regulatory environment. By hiring former Trump crypto official Bo Hines and strategically positioning itself to benefit from the new GENIUS Act's stablecoin regulations, Tether transformed its regulatory standing.

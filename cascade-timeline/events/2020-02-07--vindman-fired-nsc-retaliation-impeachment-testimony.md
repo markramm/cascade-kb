@@ -58,5 +58,4 @@ tags:
 - whistleblower-protection
 title: Trump Fires Lt. Col. Vindman from NSC in Retaliation for Impeachment Testimony
 ---
-type: timeline_event
 Army Lt. Col. Alexander Vindman, the Ukraine expert on the National Security Council who testified in Trump's impeachment proceedings, is escorted out of the White House and removed from his NSC position just days after Trump's Senate acquittal. This unprecedented retaliation follows Vindman's testimony about the July 25, 2019 phone call between Trump and Ukrainian President Zelensky, where he raised concerns about potential misconduct. Vindman and his twin brother Yevgeny, also an NSC lawyer, were both dismissed, demonstrating a clear pattern of punitive action against military personnel who provide truthful testimony to Congress. Vindman's lawyer, David Pressman, characterized the dismissal as retaliation, stating that Vindman was 'asked to leave for telling the truth.' The incident highlights the Trump administration's willingness to undermine military professionals who uphold their constitutional and ethical obligations.

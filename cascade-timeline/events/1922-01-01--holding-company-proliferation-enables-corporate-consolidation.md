@@ -35,7 +35,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 The holding company structure proliferates across American industry during the 1920s, enabling unprecedented corporate consolidation while evading antitrust enforcement and state regulation. Delaware's permissive incorporation laws, offering minimal oversight and maximum management discretion, attract companies seeking to create complex pyramidal structures where a single holding company can control billions in assets with minimal actual investment. By the decade's end, holding companies control approximately 65% of electric utility output, major railroad systems, and vast industrial empires, all while federal regulators lack jurisdiction over their operations.
 

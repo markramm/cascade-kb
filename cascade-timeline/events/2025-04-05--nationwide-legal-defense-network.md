@@ -38,6 +38,5 @@ capture_lanes:
 - Labor Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 A comprehensive nationwide legal defense network was established to provide coordinated legal support across multiple jurisdictions. The Rise Up: Federal Workers Legal Defense Network, formed by labor unions and civil rights organizations, mobilized over 1,000 lawyers in 42 states to offer pro bono legal assistance to federal workers facing termination or rights violations. This network represents a strategic response to widespread workforce disruptions, focusing on protecting workers' rights and providing legal recourse in the face of systemic challenges.

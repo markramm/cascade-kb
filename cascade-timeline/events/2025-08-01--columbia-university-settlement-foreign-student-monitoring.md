@@ -36,7 +36,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - International Kleptocracy
 ---
-type: timeline_event
 
 Columbia University agreed to pay $221 million ($200 million to the federal government over three years and $21 million for EEOC settlements) to settle Trump administration claims of failing to police antisemitism, while accepting unprecedented requirements for monitoring foreign students. The settlement mandates that Columbia reduce its 'dependence on international student enrollment' and ensure students are 'committed to the longstanding traditions of American universities,' with an oversight monitor receiving specific data on foreign students starting October 2025.
 

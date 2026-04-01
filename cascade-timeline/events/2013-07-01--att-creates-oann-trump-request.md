@@ -44,6 +44,5 @@ sources:
 notes: Reframe away from "created at Trump's request." Keep to what's in court records and Reuters.
 status: confirmed
 ---
-type: timeline_event
 
 Court records and testimony reported by Reuters show AT&T played a pivotal role in launching and sustaining One America News Network (OANN), at times accounting for the vast majority of its revenue via carriage deals. OANN's founder testified AT&T executives sought a conservative channel. AT&T disputes "funding" characterizations but not the carriage relationship.

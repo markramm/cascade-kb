@@ -34,7 +34,6 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Defense Secretary Pete Hegseth invited Christian nationalist pastor Doug Wilson to lead worship services at the Pentagon, raising serious church-state separation concerns. Wilson is known for extreme views including advocacy for a theocratic government and controversial statements about slavery and women's roles.
 
 The invitation to lead worship services at the nation's military headquarters signals the normalization of Christian nationalism within the defense establishment and the erosion of the military's traditionally nonpartisan and religiously neutral institutional culture. Constitutional scholars noted that official Pentagon-hosted worship led by a pastor who explicitly advocates replacing secular governance with biblical law represents a direct challenge to the Establishment Clause and the military's obligation to serve personnel of all faiths and none.

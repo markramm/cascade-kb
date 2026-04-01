@@ -65,5 +65,4 @@ capture_lanes:
 - Democratic Erosion
 validation_notes: 'Enhanced with NPR and PBS sources documenting specific layoff details, agency impacts, and legal challenges. Verified Schedule F implications and Project 2025 connection.'
 ---
-type: timeline_event
 The Trump administration systematically dismantled federal civil service protections through Schedule F, an executive order enabling mass reclassification and termination of career civil servants. By October 2025, approximately 4,200 federal workers across at least 7 agencies received reduction in force (RIF) notices. The Heritage Foundation's Project 2025 blueprint targeted up to 50,000 federal workers, transforming nonpartisan positions into at-will political appointments. These actions represent a profound restructuring of the federal workforce, prioritizing political loyalty over institutional expertise and professional civil service standards.

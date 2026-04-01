@@ -37,6 +37,5 @@ sources:
 notes: Facility operational in 14-16 days from announcement. Baker prison was closed in 2021 during COVID. State can recoup costs from federal government. Pivot from temporary tents to permanent prison infrastructure shows adaptation after legal defeats.
 status: confirmed
 ---
-type: timeline_event
 
 Governor DeSantis announced "Deportation Depot" at Baker Correctional Institution on August 14, 2025, just days before Alligator Alcatraz's court-ordered closure. The repurposed state prison 43 miles west of Jacksonville offers 1,300 beds expandable to 2,000, with setup cost of only $6 million compared to $100 million for new facilities. Located 15 minutes from Lake City Airport for "rapid deportations," the facility bypasses environmental challenges that shut down the Everglades site. DHS Secretary Noem called Florida's model for other states while attorneys documented deplorable conditions including COVID spread and coerced deportation agreements.

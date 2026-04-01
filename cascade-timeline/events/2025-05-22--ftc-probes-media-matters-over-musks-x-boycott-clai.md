@@ -49,7 +49,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 The Federal Trade Commission launched an investigation into Media Matters for America, a progressive journalism watchdog organization, in May 2025, following Elon Musk's allegations that Media Matters had manipulated data to manufacture evidence of brand-unsafe advertising placements on his X platform. Musk had sued Media Matters in November 2023, alleging the organization had fraudulently created screenshots showing major brand advertisements next to extremist content on X in order to trigger an advertiser boycott. Reuters obtained a document showing the FTC had opened a formal inquiry into Media Matters' exchanges with advertising trade groups.
 
 Critics immediately characterized the FTC investigation as government retaliation against a journalism organization on behalf of a private citizen — Musk — who simultaneously wielded significant government influence through DOGE. CNN reported that the FTC probe was "stoking fears of retribution," with media freedom advocates warning that using a federal regulatory agency to investigate a news organization for reporting that damaged a politically connected billionaire's financial interests represented a profound threat to press freedom. The fact that Trump had fired the two Democratic FTC commissioners in March 2025 — leaving a Republican majority aligned with the administration — made the subsequent investigation of Musk's media critic particularly alarming to First Amendment advocates.

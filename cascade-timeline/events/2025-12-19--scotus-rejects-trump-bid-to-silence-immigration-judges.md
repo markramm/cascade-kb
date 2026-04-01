@@ -58,7 +58,6 @@ sources:
 notes: First Trump administration loss on emergency "shadow docket" since April 2025. Policy bars immigration judges from speaking about immigration or their agency in personal capacity. Court found no irreparable harm to government. Case raises questions about whether federal workers can challenge policies in court or must use administrative system now controlled by Trump appointees. Related to Trump's firing of Special Counsel and MSPB chair. Broader implications for federal employee speech rights and ability to challenge unlawful orders.
 status: confirmed
 ---
-type: timeline_event
 
 The Supreme Court on December 19, 2025, delivered the Trump administration its first significant defeat on the emergency "shadow docket" since April 2025, refusing to block a lower court ruling that allows immigration judges to proceed with their First Amendment lawsuit challenging a Trump administration policy that "categorically forbids" them "from speaking publicly in their personal capacities about immigration and about the agency that employs them." The unsigned order represents a rare check on executive power from a Court that has overwhelmingly sided with Trump administration emergency requests throughout 2025, and creates potential precedent for other federal workers seeking to challenge Trump policies in federal court rather than through an administrative complaint system now controlled by Trump appointees following his unprecedented mass firings of independent civil service protectors.
 

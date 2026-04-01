@@ -46,7 +46,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 President Harry Truman vetoes the Internal Security Act of 1950 (McCarran Act) on September 22, 1950, sending Congress a lengthy veto message criticizing specific provisions as "the greatest danger to freedom of speech, press, and assembly since the Alien and Sedition Laws of 1798," a "mockery of the Bill of Rights" and a "long step toward totalitarianism." Truman states he takes this action only after the most serious study and reflection and after consultation with the security and intelligence agencies of the Government. The Department of Justice, Department of Defense, Central Intelligence Agency, and Department of State all advise him that the bill would seriously damage the security and intelligence operations for which they are responsible. In his veto message, Truman declares "In a free country, we punish men for the crimes they commit, but never for the opinions they have."
 

@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 U.S. troops from Fort Scott attack the small Seminole village of Fowltown in southern Georgia, killing about 20 people and igniting the First Seminole War. The attack represents escalating border tensions stemming from enslaved people regularly fleeing from Georgia into Spanish Florida, where they find refuge among Seminole bands, prompting Georgia slaveowners to conduct slave raids across the international border. On December 26, 1817, the U.S. War Department directs General Andrew Jackson to take command in person and bring the Seminoles "under control," precipitating a full-scale military invasion of Spanish territory ostensibly to secure the Georgia-Florida border but actually to recapture escaped slaves and eliminate refuge for freedom seekers.
 

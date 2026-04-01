@@ -42,7 +42,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Supreme Court rules 5-4 in *Rucho v. Common Cause* that partisan gerrymandering claims present "political questions beyond the reach of the federal courts," effectively eliminating federal judicial oversight of even extreme partisan redistricting. The decision gives state legislatures a green light to draw district maps for maximum partisan advantage, regardless of how severely this distorts democratic representation.
 

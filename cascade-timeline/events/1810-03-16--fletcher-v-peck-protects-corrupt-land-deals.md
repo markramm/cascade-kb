@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The U.S. Supreme Court rules in Fletcher v. Peck that Georgia's attempt to rescind the fraudulent 1795 Yazoo land sale violates the Constitution's contract clause, marking the first time the Court strikes down a state law. Chief Justice John Marshall writes that while the bribery of Georgia legislators was "deplorable," subsequent purchaser Robert Fletcher was an "innocent third party" whose contract must be honored despite the corruption underlying the original transaction. The decision prioritizes property rights and contract sanctity over democratic efforts to remedy systematic legislative corruption, establishing that fraudulent deals become legally protected once resold to third parties.
 

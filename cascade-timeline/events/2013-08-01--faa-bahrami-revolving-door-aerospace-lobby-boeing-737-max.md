@@ -42,5 +42,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 In August 2013, Ali Bahrami, who led the FAA office overseeing Boeing aircraft certification, departed to join the Aerospace Industries Association. This move epitomizes regulatory capture, as Bahrami had been instrumental in pushing for increased industry self-regulation. Former FAA engineers criticized his approach as an 'abdication' of regulatory oversight, particularly during the critical early stages of the Boeing 737 MAX certification process. His subsequent industry lobby position allowed him to influence regulatory policy while representing Boeing's interests.

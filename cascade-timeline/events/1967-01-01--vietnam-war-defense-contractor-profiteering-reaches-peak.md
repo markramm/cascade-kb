@@ -38,7 +38,6 @@ capture_lanes:
 - Legislative Capture
 status: confirmed
 ---
-type: timeline_event
 
 Defense contractor profiteering from the Vietnam War reaches extraordinary levels as the RMK-BRJ construction consortium alone holds contracts officially estimated to reach at least $900 million by November 1967. Over 60% of all construction work in South Vietnam during the war is accomplished by this single consortium, which operates with minimal oversight despite massive expenditures of taxpayer funds.
 

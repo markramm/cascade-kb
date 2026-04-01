@@ -46,5 +46,4 @@ notes: High-profile attempt to influence state Supreme Court election through di
 patterns:
 - kleptocratic-capture
 ---
-type: timeline_event
 Elon Musk awarded a $1 million payment to a Wisconsin voter days before the state Supreme Court election, part of a broader $20 million effort to influence the race. The payment to Scott Ainsworth, who supports conservative candidate Brad Schimel, prompted a legal challenge from Wisconsin's Attorney General as a potential election law violation.

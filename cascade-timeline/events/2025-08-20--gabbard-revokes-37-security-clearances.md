@@ -34,7 +34,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Director of National Intelligence Tulsi Gabbard revoked security clearances of 37 current and former intelligence officials, including three currently serving officers, accusing them of 'politicizing intelligence' without providing evidence. Gabbard acknowledged Trump personally directed the revocations in a public social media post.
 

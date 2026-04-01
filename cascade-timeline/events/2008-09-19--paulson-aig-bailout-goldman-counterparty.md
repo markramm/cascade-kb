@@ -46,6 +46,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 The U.S. government authorized an $85 billion bailout of American International Group (AIG), with Goldman Sachs receiving $12.9 billion—the largest individual payout. Treasury Secretary Henry Paulson, a former Goldman Sachs CEO, played a central role in the decision, despite significant conflicts of interest. Paulson spoke with Goldman Sachs CEO Lloyd Blankfein approximately two dozen times during the bailout week, obtaining an ethics waiver beforehand. The bailout effectively paid out AIG's credit-default swaps at full face value, with Goldman being the primary beneficiary. This event highlighted the systemic regulatory capture and interconnectedness between government financial regulators and Wall Street investment banks.

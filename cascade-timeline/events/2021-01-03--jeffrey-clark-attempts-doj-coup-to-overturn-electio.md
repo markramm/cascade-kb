@@ -63,6 +63,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Environmental lawyer Jeffrey Clark attempted to use the Department of Justice to overturn the 2020 election by sending false fraud letters to swing states. Clark drafted a letter falsely claiming DOJ had identified 'significant concerns' about the election and urging Georgia to convene a special legislative session to appoint Trump electors. When Acting Attorney General Jeffrey Rosen and Deputy Richard Donoghue refused, Trump nearly appointed Clark as Acting AG on January 3. In an extraordinary White House meeting, DOJ leadership and White House counsel threatened mass resignations if Clark was installed, with Donoghue telling Trump 'you're going to get a completely incompetent person running the department.' Trump backed down only when warned the entire DOJ leadership would resign. Clark was later charged in Georgia's RICO case, had his law license suspended, and faced disbarment proceedings. His actions represented the closest attempt to weaponize DOJ to steal an election.

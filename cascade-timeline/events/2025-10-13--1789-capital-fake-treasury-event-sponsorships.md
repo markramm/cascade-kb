@@ -31,6 +31,5 @@ capture_lanes:
 - Corporate Capture
 status: reported
 ---
-type: timeline_event
 
 1789 Capital falsely marketed an 'Inaugural U.S. Treasury A.I. Summit' featuring Treasury Secretary Scott Bessent, selling sponsorships with promised VIP access to senior government officials. The Treasury Department confirmed it never approved the materials or event. Organizers later renamed the event after being exposed. This represents systematic influence-peddling disguised as official government events, with Trump allies defrauding corporate sponsors by selling access to government officials under false pretenses. The scheme demonstrates how Trump administration connections are monetized through fraudulent claims of official government involvement.

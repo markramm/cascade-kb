@@ -53,7 +53,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 8, 2026, the Electronic Frontier Foundation and The Intercept published detailed analyses concluding that OpenAI's Pentagon contract contained language so vague and self-referential as to provide no meaningful protection against AI-powered domestic surveillance or autonomous weapons deployment. The publications' findings arrived the same day that NPR and CNBC confirmed senior OpenAI robotics executive Caitlin Kalinowski had resigned over similar concerns about the deal's rushed and inadequate guardrails.
 

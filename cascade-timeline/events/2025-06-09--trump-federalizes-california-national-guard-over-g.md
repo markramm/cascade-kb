@@ -41,5 +41,4 @@ sources:
 notes: 'First override of governor''s authority over state Guard since 1965 Alabama incident'
 status: confirmed
 ---
-type: timeline_event
 President Trump federalized 4,000 California National Guard troops over Governor Newsom's objection, first presidential override of state authority since 1965, setting precedent for federal control of state forces.

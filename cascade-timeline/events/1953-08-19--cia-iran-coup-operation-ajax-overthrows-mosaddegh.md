@@ -46,7 +46,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On August 19, 1953, the CIA executed Operation Ajax (known to the British as Operation Boot), a covert action that overthrew Iran's democratically elected Prime Minister Mohammad Mosaddegh and restored authoritarian power to Shah Mohammad Reza Pahlavi. The coup marked the first time the CIA overthrew a foreign government and established a template for Cold War interventions that prioritized corporate interests and authoritarian stability over democratic governance.
 

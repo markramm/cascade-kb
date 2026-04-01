@@ -35,7 +35,6 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Hundreds of thousands of people flooded streets across the country in the "Free America Walkout," a mass coordinated protest marking exactly one year since Trump's second inauguration. The walkout, spearheaded by the Women's March—the same organization that mobilized millions against Trump's first administration in 2017—organized over 800 events across all 50 states with more than 38,000 people pre-registered for rallies from Tampa to Los Angeles to New York City.
 

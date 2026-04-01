@@ -51,7 +51,6 @@ capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
 ---
-type: timeline_event
 
 In mid-April 2017, just weeks after quietly departing the Trump White House in March, Boris Epshteyn was hired by Sinclair Broadcast Group as "chief political analyst," creating a direct propaganda pipeline from the Trump administration to 173 local television stations in 81 markets reaching approximately 40% of American households. Epshteyn's seamless transition from White House official to mandatory local news commentator exemplified the coordination between the Trump administration and Sinclair's media empire to circumvent traditional journalism and inject partisan messaging directly into trusted local news broadcasts.
 

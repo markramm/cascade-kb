@@ -53,5 +53,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 Defense Secretary Hegseth deployed 700 Marines from 2nd Battalion, 7th Marines (Twentynine Palms) to downtown Los Angeles on June 9, joining 2,100 National Guard troops as Task Force 51 under Maj. Gen. Sherman. Tasked with protecting federal property/personnel amid immigration protests, not law enforcement (Posse Comitatus Act not waived). Pentagon testified deployment cost $134 million for 4,000 Guard and 700 Marines total.

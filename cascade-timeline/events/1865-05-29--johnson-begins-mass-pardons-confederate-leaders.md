@@ -39,7 +39,6 @@ capture_lanes:
 - Systematic Corruption
 status: confirmed
 ---
-type: timeline_event
 
 President Andrew Johnson issues his first amnesty proclamation on May 29, 1865, beginning a systematic campaign to pardon Confederate leaders and restore their political power—directly undermining Reconstruction and enabling the restoration of white supremacist control in the South. Johnson's proclamation extends amnesty to most former Confederate officials and soldiers who take a loyalty oath, but excludes fourteen "classes" of Confederates, including high-ranking officers, former Confederate governors, and those with property valued over $20,000. However, Johnson creates a massive loophole: members of these excluded classes can apply directly to him for individual pardons—which he grants liberally.
 

@@ -51,7 +51,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 
 Twelve bipartisan senators write to DOJ Acting Inspector General Don Berthiaume demanding an audit of the Department's compliance with the Epstein Files Transparency Act. The letter is led by Senators Richard Blumenthal (D-CT), Lisa Murkowski (R-AK), and Jeff Merkley (D-OR), with additional signatures from Senators Klobuchar, Schiff, Durbin, Booker, Kim, Peters, Van Hollen, Hirono, and Whitehouse.

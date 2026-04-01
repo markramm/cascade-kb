@@ -37,7 +37,6 @@ capture_lanes:
 - Intelligence Penetration
 - Systematic Corruption
 ---
-type: timeline_event
 
 A U.S. grand jury added 17 counts under the Espionage Act to the federal indictment against WikiLeaks founder Julian Assange, marking the first time in American history that the government used the 1917 anti-spying law to prosecute a publisher for receiving and publishing truthful classified information. The charges sparked immediate warnings from press freedom advocates that the case posed an existential threat to investigative journalism.
 

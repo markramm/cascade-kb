@@ -30,7 +30,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 HHS Secretary Robert F. Kennedy Jr. expanded a key federal vaccine advisory panel to include more critics of vaccines who have contradicted mainstream medical guidance. Both new appointments—Kimberly Biss and Adam Urato—are OB-GYNs who were outspoken critics of coronavirus vaccines during pregnancy. One new appointee stated: "I was not anti-vaccine. I am now."
 

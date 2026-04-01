@@ -53,6 +53,5 @@ connections:
 - Post-9/11 national security assessments
 notes: Pivotal intelligence assessment revealing systemic vulnerabilities in port security foreign ownership evaluation processes.
 ---
-type: timeline_event
 
 US Coast Guard intelligence officials produced a classified report raising significant security risks associated with DP World's proposed management of US port operations. The assessment identified critical intelligence gaps preventing proper evaluation of risks from DP World's operations, personnel, and potential foreign influence that could support terrorist activities.

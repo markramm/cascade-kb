@@ -43,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Military Capture
 ---
-type: timeline_event
 
 On March 21, 2026, Iran launched a salvo of ballistic missiles at the cities of Dimona and Arad in Israel's Negev desert, in the vicinity of the Negev Nuclear Research Center — Israel's primary nuclear weapons facility. In a first, two Iranian missiles penetrated Israeli missile defense systems and struck the area near the complex. More than 180 people were injured, including 11 with serious wounds. The International Atomic Energy Agency subsequently confirmed that the nuclear facility itself sustained no damage.
 

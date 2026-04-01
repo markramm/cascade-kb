@@ -43,5 +43,4 @@ capture_lanes:
 - 'Media Capture & Control'
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 Facebook conducted a massive psychological experiment on 689,003 users without explicit consent, manipulating their news feeds to study emotional contagion. Researchers Adam Kramer, Jamie Guillory, and Jeff Hancock published findings in the Proceedings of the National Academy of Sciences, revealing how algorithmic content manipulation could influence user emotions. The study triggered significant ethical concerns about research consent, user manipulation, and the power of social media platforms to conduct psychological experiments.

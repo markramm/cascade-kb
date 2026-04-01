@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The 1864 presidential election takes place near the war's end with incumbent President Abraham Lincoln of the National Union Party facing Democratic nominee former General George B. McClellan. The Democratic Party is deeply divided between Copperheads (Peace Democrats) who favor immediate peace with the Confederacy and War Democrats who support continuing the conflict. The convention nominates McClellan, a War Democrat who supports fighting to restore the Union, but the platform committee controlled by Peace Democrats—led by notorious Copperhead Clement Laird Vallandigham of Ohio—adopts a platform declaring the war a failure and advocating immediate peace, creating a disastrous contradiction. McClellan repudiates the peace plank but cannot escape association with it, alienating both factions. Reports abound of conspiracies between Peace Democrats and the Confederate government to manipulate the election, including a plan financed with $500,000 in Confederate dollars to raise an insurrection among western Copperheads aimed at creating a western confederacy. Democratic promoters deploy groundless racist propaganda, arguing that abolition would cause nationwide social upheaval and spreading false claims that Lincoln supports "miscegenation" (the derogatory contemporary term for interracial mixing), believing such rumors will isolate Lincoln from racist Northern whites.
 

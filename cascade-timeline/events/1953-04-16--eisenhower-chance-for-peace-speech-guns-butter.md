@@ -30,7 +30,6 @@ sources:
 actors:
 - Dwight D. Eisenhower
 ---
-type: timeline_event
 
 Just three months into his presidency, President Dwight D. Eisenhower delivered his "Chance for Peace" speech before the American Society of Newspaper Editors, offering one of the most morally forceful critiques of military spending ever issued by an American president. Speaking shortly after the death of Soviet leader Joseph Stalin, Eisenhower sought to present an alternative to the Cold War arms race by framing military expenditures as theft from human welfare. In what became one of his most famous quotes, he declared: "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children."
 

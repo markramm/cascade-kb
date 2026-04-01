@@ -56,7 +56,6 @@ connections:
 - EU antitrust enforcement
 notes: Landmark case proving search monopoly abuse through self-preferencing. First major antitrust fine in the modern tech platform era. Established legal precedent for platform accountability.
 ---
-type: timeline_event
 
 On June 27, 2017, the European Commission imposed a record-breaking €2.42 billion ($2.7 billion) fine on Google for abusing its dominance in general internet search by systematically favoring its own comparison shopping service over those of competitors. The decision concluded a 7-year investigation and represented the largest antitrust fine in European history at the time.
 

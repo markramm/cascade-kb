@@ -32,7 +32,6 @@ capture_lanes:
 - Military-Industrial Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 Defense Secretary Pete Hegseth ordered Army Secretary Dan Driscoll to fire Colonel Dave Butler, the Army's chief of public affairs and a close Driscoll adviser, on February 17, 2026. Driscoll had resisted the firing for months, but Hegseth overrode his objections. Butler's primary offense was having previously served as head of public affairs for the Joint Chiefs of Staff under General Mark Milley, whom the Trump administration viewed as disloyal for his public statements about the January 6, 2021 Capitol breach and his reported efforts to ensure continuity of civilian control during the final days of Trump's first term.
 
 Butler had been nominated for promotion to brigadier general on two separate occasions, reflecting the regard in which he was held within the Army's professional ranks. His firing was part of a systematic pattern that had reached "far below the generals," targeting mid-career and senior officers whose only transgression was having served in proximity to Milley-era leadership. The purge operated on the principle of guilt by association: any meaningful professional connection to Milley or his inner circle was treated as disqualifying, regardless of the individual's competence, record, or personal political views.

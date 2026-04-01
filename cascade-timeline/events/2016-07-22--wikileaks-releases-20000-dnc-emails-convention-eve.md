@@ -47,7 +47,6 @@ capture_lanes:
 - International Kleptocracy
 - Intelligence Penetration
 ---
-type: timeline_event
 
 On July 22, 2016, WikiLeaks released 19,252 DNC emails and 8,034 attachments stolen by Russian GRU intelligence—strategically timed for maximum political damage just three days before the Democratic National Convention. The release, coordinated between Russian intelligence (via Guccifer 2.0), WikiLeaks, and Trump associate Roger Stone, successfully disrupted the convention, forced DNC Chair Debbie Wasserman Schultz's resignation, deepened Democratic Party divisions, and dominated media coverage during what should have been Clinton's nominating triumph. The timing was not coincidental—it exemplified coordinated Russian information warfare to influence the 2016 election.
 

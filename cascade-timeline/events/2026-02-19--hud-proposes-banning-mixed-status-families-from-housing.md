@@ -35,7 +35,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 HUD proposed a rule barring families with any undocumented members from federally subsidized housing, affecting approximately 80,000 people including 37,000 U.S. citizen children. The rule would force families to choose between keeping their home by separating from undocumented family members, or losing housing entirely. Housing advocates warned the policy would increase homelessness among U.S. citizen children and families while doing nothing to address the underlying housing shortage.
 
 The proposal extends immigration enforcement into housing policy, weaponizing basic shelter access as a tool of deportation pressure. By targeting mixed-status families—households where some members are citizens or legal residents and others are undocumented—the rule punishes U.S. citizens for their family relationships. The 37,000 citizen children affected have committed no immigration violation and have a constitutional right to remain in the country, yet face losing their homes.

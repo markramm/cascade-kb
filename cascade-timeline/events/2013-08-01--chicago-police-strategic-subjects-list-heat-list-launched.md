@@ -34,7 +34,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 The Chicago Police Department launches the Strategic Subject List (SSL), colloquially known as the "heat list," a predictive policing mechanism designed to identify individuals most likely to be involved in gun violence either as perpetrators or victims. The program's public debut occurs in August 2013 when the Chicago Tribune publishes a story describing the new predictive analysis strategy.
 

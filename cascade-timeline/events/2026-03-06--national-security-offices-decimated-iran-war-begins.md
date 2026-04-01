@@ -35,7 +35,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 A March 6, 2026 Washington Post investigation documented the severe degradation of the DOJ's and FBI's national security capabilities at the precise moment the United States was confronting a shooting war with Iran. The reporting found that many offices within the DOJ's National Security Division had lost at least half of their personnel -- including the office dedicated to counterterrorism. Teams assigned to monitor foreign threats had been gutted by waves of firings and forced resignations since January 2025.
 

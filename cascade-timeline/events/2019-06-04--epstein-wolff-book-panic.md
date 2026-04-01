@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: timeline_event
 
 Michael Wolff's 2019 book 'Siege' and later interviews/podcast episodes raised various allegations and speculations around Trump and Jeffrey Epstein. These claims have been disputed and are not substantiated by official investigations or court records; treat as disputed commentary rather than established fact. Wolff claimed to have recorded around 100 hours of interviews with Epstein, but his allegations have been strongly denied by the Trump team and lack official corroboration.

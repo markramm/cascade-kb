@@ -23,7 +23,6 @@ capture_lanes:
 - Immigration System Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 On March 21, 2026, NPR reported that the partial shutdown of the Department of Homeland Security was directly impacting families' ability to visit relatives held in immigration detention. The shutdown, which had furloughed non-essential DHS personnel and disrupted normal operations, created additional barriers for family members attempting to navigate an already opaque detention system — reducing visiting hours, limiting communication access, and leaving inquiries about detained individuals unanswered.
 

@@ -39,7 +39,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 The House passes legislation extending enhanced Affordable Care Act subsidies by a vote of 230-196, with 17 Republicans defecting from their party to support the measure. This marked the third successful discharge petition in three months - matching the total from the previous 40 years.
 

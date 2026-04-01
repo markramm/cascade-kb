@@ -45,7 +45,6 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 Pfizer CEO Albert Bourla attended a $25 million MAGA Inc. fundraiser at Trump's Bedminster, New Jersey golf club in early August 2025, according to CBS News and other outlets. The fundraiser came just days after Trump had publicly threatened pharmaceutical companies with federal action — including potential drug price controls, tariffs on imported pharmaceuticals, and "most favored nation" pricing mandates — if they did not voluntarily lower drug prices. The proximity of the pharmaceutical industry threats and the Bedminster fundraiser attendance by Pfizer's CEO illustrated the pay-to-access dynamic that had become a defining feature of the Trump administration's relationship with major industries.
 
 The $25 million fundraiser at Trump's personal golf property followed the established pattern of the Mar-a-Lago dinner economy: corporate executives purchased access to Trump through fundraising events at his private properties, simultaneously providing revenue to Trump's businesses and political money to his political apparatus. For Pfizer, attendance by its CEO at a major Trump fundraiser immediately following public threats against the pharmaceutical industry could be interpreted as a signal of cooperation and political alignment — a publicly visible gesture of goodwill designed to reduce the risk of being the target of the threatened federal action. CBS News and Yahoo News confirmed Bourla's attendance at the event.

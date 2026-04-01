@@ -36,7 +36,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The U.S. Department of Justice filed a sealed criminal complaint against Edward Snowden on June 14, 2013, charging him with three felonies: unauthorized communication of national defense information, willful communication of classified communications intelligence information to an unauthorized person (both violations of the Espionage Act of 1917), and theft of government property. The complaint was unsealed one week later on June 21, 2013.
 

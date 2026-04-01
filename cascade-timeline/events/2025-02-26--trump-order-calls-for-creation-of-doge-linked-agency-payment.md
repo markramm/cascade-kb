@@ -39,5 +39,4 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 President Trump issued an executive order creating Department of Government Efficiency (DOGE) systems requiring federal agencies to establish centralized technological tracking for all contracts, grants, and expenditures, with mandatory written justification for each payment to increase transparency and oversight.

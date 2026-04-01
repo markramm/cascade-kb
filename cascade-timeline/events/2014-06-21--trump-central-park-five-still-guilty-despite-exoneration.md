@@ -38,7 +38,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Twelve years after DNA evidence conclusively proved the innocence of the Central Park Five, Donald Trump published an opinion piece in the New York Daily News calling the city's $41 million settlement with the wrongfully convicted men "a disgrace" and continuing to assert their guilt. Trump's op-ed, written in response to the settlement announcement, demonstrated his refusal to acknowledge scientific evidence or accept that the five men had been exonerated.
 

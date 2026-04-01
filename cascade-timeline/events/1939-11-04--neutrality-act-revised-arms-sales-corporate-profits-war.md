@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President Franklin D. Roosevelt signs the Neutrality Act of 1939 on November 4, repealing the arms embargo provisions of earlier Neutrality Acts and allowing arms sales to belligerent nations on a "cash-and-carry" basis, effectively ending the policy designed to prevent American business interests from profiting from war and entangling the United States in foreign conflicts. The revision occurs two months after Germany's September 1, 1939 invasion of Poland triggers declarations of war from Britain and France, and it allows the United States to sell arms to its allies while maintaining formal neutrality. The change marks the abandonment of neutrality legislation enacted following the Nye Committee's findings that businessmen and bankers had profited from World War I and influenced American entry into that conflict.
 

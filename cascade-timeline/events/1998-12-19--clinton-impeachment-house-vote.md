@@ -41,7 +41,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The U.S. House of Representatives votes to impeach President Bill Clinton on two articles: perjury before a grand jury (Article I, passed 228-206) and obstruction of justice (Article II, passed 221-212). Clinton becomes the second American president to be impeached, the first being Andrew Johnson in 1868. The impeachment stems from Clinton's relationship with White House intern Monica Lewinsky and his subsequent testimony denying the relationship in a sexual harassment lawsuit brought by Paula Jones.
 

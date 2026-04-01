@@ -41,6 +41,5 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 Elon Musk informed the Trump Administration of his intent to donate $100 million to Trump's political groups, expanding his significant financial support following the 2024 election. Musk's America PAC had already spent over $239 million supporting Trump's campaign, making him the largest single donor in Trump's political network. This donation aims to support Trump's legislative agenda and potential 2026 midterm election strategies.

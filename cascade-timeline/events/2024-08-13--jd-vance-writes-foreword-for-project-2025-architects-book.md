@@ -41,5 +41,4 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 Vice President-elect JD Vance writes the foreword to "Dawn's Early Light" by Kevin Roberts, the architect of Project 2025. In the foreword, Vance calls for "offensive conservatism" and "rebuild[ing]" government, endorsing the Heritage Foundation's blueprint to radically transform federal agencies. Drawing from the comprehensive 900-page Mandate for Leadership, Vance promotes Project 2025's agenda of substantial government restructuring, which includes plans to fire up to 500,000 federal employees and systematically dismantle existing governmental infrastructure. The foreword explicitly frames this as a revolutionary conservative strategy, using provocative language like "circle the wagons and load the muskets" to describe the political transformation.

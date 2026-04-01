@@ -37,7 +37,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Border Patrol Commander Gregory Bovino walked through the French Quarter of New Orleans on December 3, 2025, the first day of DHS's "Operation Catahoula Crunch." More than 200 federal officers deployed to conduct a monthlong sweep with an initial target of 5,000 arrests.
 

@@ -41,7 +41,6 @@ capture_lanes:
 - 'Media Capture & Control'
 - Legislative Capture
 ---
-type: timeline_event
 By 2022, Sinclair Broadcast Group had grown to operate approximately 193 local television stations reaching roughly 40% of U.S. households, making it the largest owner of local TV stations in the country. Sinclair's business model leveraged the trusted format of local news to distribute centrally-produced political content to markets across the country. The company, controlled by the Smith family and headquartered in Hunt Valley, Maryland, required its stations to air "must-carry" segments produced by corporate headquarters, bypassing local editorial control.
 
 Sinclair's national political correspondent Boris Epshteyn—who had previously served as a Trump campaign surrogate—produced regular segments distributed to all Sinclair stations that presented conservative political analysis as local news commentary. The 2018 viral video showing dozens of Sinclair anchors reading an identical script warning about "fake news"—a Trump talking point—illustrated the company's centralized content strategy. Investigative reporting by Deadspin, Variety, and other outlets documented how this synchronized messaging created an illusion of local news perspective while delivering uniform political content produced in corporate headquarters.

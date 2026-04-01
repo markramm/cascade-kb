@@ -65,7 +65,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Department of Government Efficiency attempted to dismantle the Consumer Financial Protection
 Bureau through mass firings, but federal judges blocked the action and ordered reinstatement

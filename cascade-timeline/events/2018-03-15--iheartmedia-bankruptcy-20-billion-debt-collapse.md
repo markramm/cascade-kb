@@ -47,7 +47,6 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: timeline_event
 
 On March 15, 2018, iHeartMedia (formerly Clear Channel Communications) filed for Chapter 11 bankruptcy protection, seeking to restructure more than $20 billion in outstanding debt accumulated from the disastrous 2008 leveraged buyout by Bain Capital and Thomas H. Lee Partners. The bankruptcy filing came after iHeartMedia missed a $106 million interest payment on February 1, 2018, and represented one of the largest private equity-driven bankruptcies in years—demonstrating how financial engineering had destroyed the nation's largest radio broadcaster with approximately 850 stations while conservative talk radio infrastructure remained intact under creditor control.
 

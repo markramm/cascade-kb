@@ -33,6 +33,5 @@ sources:
   tier: 2
 notes: 'The 5-bedroom mansion with pool was located at the end of a private cul-de-sac overlooking Lake Worth Lagoon and Tarpon Island. Trump and Epstein became friendly shortly after this purchase, with Trump stating in 2002: "I''ve known Jeff for fifteen years." The property later became the site of reported child sex abuse. After Epstein''s death, the mansion was sold in 2021 for $18.5 million and demolished, with the address changed from 358 to 360 El Brillo Way.'
 ---
-type: timeline_event
 
 Jeffrey Epstein purchases an 8,000-square-foot mansion at 358 El Brillo Way in Palm Beach for $2.5 million, positioning himself approximately two miles from Trump's Mar-a-Lago resort. This strategic location facilitates their social relationship that would span nearly two decades.

@@ -44,6 +44,5 @@ patterns:
 notes: Significant restructuring of SEC's cryptocurrency regulatory approach, moving from enforcement to framework development.
 additional_context: Part of broader 2025 shift in U.S. digital asset regulation, focusing on creating clear guidelines rather than punitive enforcement.
 ---
-type: timeline_event
 
 The Securities and Exchange Commission (SEC) restructured its cryptocurrency regulatory approach by dissolving its previous Crypto Asset and Cyber Unit and launching a new Cyber and Emerging Technologies Unit, signaling a shift from enforcement to regulatory framework development.

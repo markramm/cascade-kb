@@ -55,5 +55,4 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 A comprehensive investigation reveals extensive financial conflicts of interest within the Trump administration, including cryptocurrency ventures funded by foreign investors, real estate deals with international connections, and a private executive club that blurs lines between government and personal business.

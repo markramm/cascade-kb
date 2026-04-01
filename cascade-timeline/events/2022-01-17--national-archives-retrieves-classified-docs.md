@@ -44,7 +44,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The National Archives retrieved 15 boxes from Mar-a-Lago containing 184 classified documents
 totaling 700 pages, including 25 marked "top secret," 92 "secret," and 67 "confidential."

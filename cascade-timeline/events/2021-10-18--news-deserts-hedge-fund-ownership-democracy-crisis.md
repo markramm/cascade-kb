@@ -51,7 +51,6 @@ capture_lanes:
 - Media Capture & Control
 - Democratic Erosion
 ---
-type: timeline_event
 
 On October 18, 2021, NPR published comprehensive reporting documenting how hedge fund ownership of local newspapers creates "news deserts" that cause measurable harm to democratic governance and civic life. The investigation revealed that since 2005, 2,500 newspapers have closed in the United States—more than 120 newspapers on average closing each year—with hedge fund ownership accelerating the collapse through systematic newsroom gutting designed to extract short-term profits while destroying journalism's civic function. The reporting provided empirical evidence that communities losing local news experience increased corruption, reduced government accountability, higher municipal borrowing costs, decreased voter turnout, and less informed civic participation.
 

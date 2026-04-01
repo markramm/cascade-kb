@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 
 President Franklin D. Roosevelt issues a military order on June 13, 1942, establishing the Office of Strategic Services (OSS) under William "Wild Bill" Donovan, a Wall Street lawyer, Medal of Honor recipient, and well-connected Republican. The OSS becomes America's first centralized intelligence agency, recruiting heavily from Ivy League universities, Wall Street law firms, and elite social networks that would shape the CIA for decades to come.
 

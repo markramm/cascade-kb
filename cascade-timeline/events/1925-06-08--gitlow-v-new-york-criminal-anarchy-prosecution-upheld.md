@@ -36,7 +36,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court rules 7-2 in Gitlow v. New York to uphold Benjamin Gitlow's conviction under New York's Criminal Anarchy Act for publishing "The Left Wing Manifesto," a socialist pamphlet advocating revolutionary mass action. Justice Edward Sanford's majority opinion affirms that states may punish speech advocating the violent overthrow of government without requiring proof that such speech created imminent danger of illegal action. The decision validates the Red Scare prosecutions of radicals for their political beliefs and writings rather than any concrete illegal acts.
 

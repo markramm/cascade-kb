@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 NSA senior executive Thomas Drake reports to DOD Inspector General massive waste in the $1.2 billion Trailblazer surveillance program and systematic constitutional violations. Drake documented how NSA chose expensive, ineffective contractor solutions over proven internal alternatives while expanding illegal domestic surveillance. His whistleblowing revealed systematic corruption where contractors and political appointees prioritized profits over national security and constitutional compliance.

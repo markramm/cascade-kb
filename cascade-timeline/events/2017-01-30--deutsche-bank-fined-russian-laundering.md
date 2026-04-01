@@ -47,7 +47,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Deutsche Bank paid $630 million to U.S. and UK regulators for facilitating $10 billion in
 Russian money laundering through "mirror trades" from 2011-2015. The scheme converted rubles

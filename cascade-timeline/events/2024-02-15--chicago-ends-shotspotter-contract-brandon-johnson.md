@@ -36,7 +36,6 @@ capture_lanes:
 - Financial Capture
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 Chicago Mayor Brandon Johnson announces the city is terminating its contract with ShotSpotter, the controversial gunshot detection technology company, bringing to an end one of the largest and longest-running deployments of acoustic surveillance in American policing. The contract will expire on September 22, 2024, fulfilling Johnson's campaign promise to end the city's relationship with the company.
 

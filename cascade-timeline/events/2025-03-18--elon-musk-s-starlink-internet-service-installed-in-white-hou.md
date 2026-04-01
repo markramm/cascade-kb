@@ -51,5 +51,4 @@ tags:
 - starlink
 title: 'Starlink Installed at White House, Raising Major Security Concerns'
 ---
-type: timeline_event
 In March 2025, SpaceX's DOGE team installed a Starlink satellite internet terminal at the White House, bypassing standard communication security protocols. Congressional Democrats raised significant national security concerns about potential cybersecurity vulnerabilities and conflicts of interest, highlighting the risks of uncontrolled internet access in sensitive government facilities.

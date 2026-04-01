@@ -34,5 +34,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 JD Vance joins Peter Thiel's venture capital firm Mithril Capital as a principal, establishing a crucial financial and ideological relationship that would later shape his political career. This strategic partnership connects Vance to Thiel's techno-libertarian philosophy and provides the foundation for future political funding and influence, setting the stage for Vance's rapid political ascent.

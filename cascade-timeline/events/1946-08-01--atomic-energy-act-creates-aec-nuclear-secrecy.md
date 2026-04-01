@@ -43,7 +43,6 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 President Harry Truman signs the Atomic Energy Act of 1946 on August 1, establishing the Atomic Energy Commission (AEC) to control the development and production of nuclear weapons and to develop nuclear power. The act creates unprecedented peacetime secrecy powers and establishes the framework for the nuclear-industrial complex that will channel billions of dollars to private contractors.
 

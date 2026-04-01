@@ -45,6 +45,5 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: timeline_event
 
 At the 2025 inauguration, foreign business partners and corporate leaders from tech, media, and international companies converged, highlighting the extensive business networks surrounding Trump's presidency. Major companies like Coca-Cola and CoreCivic made significant donations, while tech CEOs like Zuckerberg, Bezos, and Musk were in attendance.

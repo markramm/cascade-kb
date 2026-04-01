@@ -42,7 +42,6 @@ capture_lanes:
 - Democratic Erosion
 - Environmental Capture
 ---
-type: timeline_event
 
 On February 8, 2024, a jury unanimously decided in favor of climate scientist Michael Mann in his 12-year defamation battle against Rand Simberg and Mark Steyn, who had compared him to convicted child molester Jerry Sandusky in 2012 blog posts. The jury found Simberg and Steyn guilty of defamation and awarded Mann more than $1 million in damages, representing a landmark victory for scientists facing harassment from climate denial campaigns. The verdict came after years of legal delays and established potential consequences for the most extreme character assassination tactics targeting climate researchers.
 

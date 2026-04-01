@@ -37,6 +37,5 @@ capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 During the Bush administration, AT&T began extensive collaboration with the NSA, involving the installation of surveillance infrastructure across multiple internet hubs. While the precise $500 million contract could not be fully verified, documents confirm significant financial investments in surveillance capabilities, including specialized equipment installations and technical support for intelligence collection operations.

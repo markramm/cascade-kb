@@ -88,6 +88,5 @@ tags:
 title: WHIG Coordinates Sunday Show Booking Blitz
 verification_status: validated
 ---
-type: timeline_event
 
 The White House Iraq Group (WHIG) coordinated an unprecedented media manipulation campaign in September 2002 to build public support for the Iraq War. On September 7-8, 2002, top administration officials including Cheney, Rice, and Rumsfeld appeared on all five major Sunday news programs, delivering synchronized talking points about Iraq's alleged nuclear weapons program. Chief of Staff Andrew Card later admitted the timing was deliberate, comparing it to a marketing product launch. The group used a carefully crafted 'mushroom cloud' metaphor, proposed by Michael Gerson, to create fear and justify potential military intervention. Academic studies have since documented this as a systematic propaganda effort that exploited media channels to shape public perception.

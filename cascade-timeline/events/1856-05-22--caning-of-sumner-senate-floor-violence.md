@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 Representative Preston Brooks, a pro-slavery Democrat from South Carolina, enters the Senate chamber and beats Senator Charles Sumner of Massachusetts nearly to death with a metal-topped cane, striking him repeatedly on the head while Sumner attempts futilely to protect himself. The attack follows Sumner's May 19-20 "Crime Against Kansas" speech denouncing the violence in Kansas Territory and personally criticizing Senator Andrew Butler of South Carolina, Brooks's cousin, for his defense of slavery. Brooks believes Sumner has insulted his family, state, and the institution of slavery, but rather than challenge Sumner to a duel—the traditional recourse among social equals—Brooks chooses a caning as a more humiliating punishment, explicitly signaling he considers the abolitionist senator his social inferior. The assault continues until Brooks's cane breaks, leaving Sumner with traumatic brain injury and post-traumatic stress disorder requiring three years of convalescence before he can return to the Senate.
 

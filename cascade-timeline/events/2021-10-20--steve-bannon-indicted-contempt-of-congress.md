@@ -41,5 +41,4 @@ sources:
 capture_lanes:
 - Legislative Capture
 ---
-type: timeline_event
 Steve Bannon was indicted on two counts of criminal contempt of Congress after refusing to comply with a subpoena from the House Select Committee investigating the January 6 Capitol attack. He was charged for failing to appear for a deposition and refusing to produce requested documents, which the committee believed contained critical information about the events leading to the insurrection.

@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 On January 30, 1973, after a trial before Judge John Sirica, G. Gordon Liddy and James W. McCord Jr. were convicted on charges of conspiracy, burglary, and wiretapping in connection with the June 17, 1972 break-in at Democratic National Committee headquarters. Five other defendants—E. Howard Hunt, Bernard Barker, Virgilio Gonzalez, Eugenio Martinez, and Frank Sturgis—pleaded guilty rather than face trial. Liddy, a former FBI agent who had been working as counsel for the Committee to Re-elect the President (CREEP), was convicted of burglary, conspiracy, and wiretapping and would eventually be sentenced to 6 years and 8 months in prison, serving 4.5 years. McCord, a former CIA officer who served as CREEP's security chief, was convicted on eight counts of conspiracy, burglary, and wiretapping.
 

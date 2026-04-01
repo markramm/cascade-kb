@@ -47,7 +47,6 @@ citations:
   archived: https://web.archive.org/web/20240101000000/https://www.reuters.com/technology/x-will-allow-political-ads-candidates-parties-ahead-us-election-2023-08-29
 status: confirmed
 ---
-type: timeline_event
 X (formerly Twitter) announced on August 29, 2023 that it would reverse its 2019 ban on political advertising, allowing U.S. political candidates, parties, and cause-based organizations to run paid advertisements on the platform. Twitter had banned political advertising in 2019 under CEO Jack Dorsey, citing concerns about the power of targeted political ads to spread misleading information. The reversal came roughly ten months after Elon Musk's acquisition of the platform and was framed as restoring free political expression.
 
 The new policy also established priority placement for verified accounts—those paying for X's Blue subscription service—in recommendation algorithms and search results. This created a pay-to-play dynamic in political reach, where individuals and organizations willing to pay for verification could achieve significantly greater visibility than non-paying users. Critics noted that this arrangement effectively monetized political visibility in ways that could advantage well-funded political actors while reducing organic reach for grassroots organizing and citizen journalism.

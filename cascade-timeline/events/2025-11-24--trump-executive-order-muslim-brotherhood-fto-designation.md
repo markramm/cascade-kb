@@ -46,7 +46,6 @@ capture_lanes:
 - Executive Power Expansion
 - Intelligence Penetration
 ---
-type: timeline_event
 
 President Donald Trump signed Executive Order 14362 on November 24, 2025, directing the Secretary of State and Treasury Secretary to evaluate designating specific Muslim Brotherhood chapters in Lebanon, Jordan, and Egypt as Foreign Terrorist Organizations (FTOs) and Specially Designated Global Terrorists (SDGTs). The order, published in the Federal Register as FR Doc. 2025-21664 on November 28, 2025, cites authority under the Immigration and Nationality Act (8 U.S.C. 1189), the International Emergency Economic Powers Act (50 U.S.C. 1702), and Executive Order 13224. The directive mandates that within 30 days, the secretaries must submit a joint report recommending whether to designate chapters, and within 45 days after that report, take formal designation action if appropriate.
 

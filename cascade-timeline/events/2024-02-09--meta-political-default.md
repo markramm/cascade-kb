@@ -52,7 +52,6 @@ sources:
   archive_url: 'https://web.archive.org/web/20240815000000/https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/'
   tier: 2
 ---
-type: timeline_event
 Meta announced on February 9, 2024, that Instagram and Threads would no longer proactively recommend political content from accounts that users do not already follow, making political content non-recommended by default. The policy change, announced by Meta CEO Mark Zuckerberg, applied to content related to politics, crime, tragedy, and civil unrest. Users who wished to see political content in their Explore feeds, Reels recommendations, or suggested accounts would need to actively opt in through settings changes.
 
 Meta framed the decision as responding to user feedback that political content was creating negative experiences on the platform. The company had first restricted political content recommendations on Instagram in 2023 and extended the approach to Threads, its Twitter competitor launched in July 2023. Critics argued the policy effectively suppressed political speech and organizing, particularly affecting grassroots movements and political campaigns that had relied on organic reach through recommendation algorithms to build audiences without large advertising budgets.

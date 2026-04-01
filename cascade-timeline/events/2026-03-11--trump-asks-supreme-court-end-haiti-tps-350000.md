@@ -49,7 +49,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 11, 2026, the Trump administration asked the U.S. Supreme Court to clear the way for it to end Temporary Protected Status (TPS) for more than 350,000 Haitian immigrants, seeking emergency relief after an appeals court blocked the termination.
 

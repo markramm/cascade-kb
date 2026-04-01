@@ -39,6 +39,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Former White House Counsel Donald McGahn, acting under White House instruction, defied a congressional subpoena from the House Judiciary Committee on May 7, 2019, refusing to provide documents related to the Mueller investigation. This act of subpoena defiance was part of a broader strategy to obstruct congressional oversight, with White House counsel Pat Cipollone claiming executive privilege. The incident was a critical moment in the post-Mueller investigation legal battles, highlighting the Trump administration's resistance to congressional scrutiny.

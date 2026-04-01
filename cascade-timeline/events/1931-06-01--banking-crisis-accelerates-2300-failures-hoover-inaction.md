@@ -44,7 +44,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 A second wave of banking panics erupts in June 1931 centered in Chicago, where depositor runs beset networks of banks that had invested in declining real estate assets, resulting in approximately 2,300 bank suspensions during 1931—significantly more than the 1,350 failures in 1930. The crisis intensifies in September 1931 when Britain abandons the gold standard, triggering accelerated bank failures, deposit withdrawals, and currency hoarding across the United States. President Herbert Hoover resists direct federal intervention in the banking system, adhering to voluntarist principles that prove catastrophically inadequate as the economy spirals deeper into depression.
 

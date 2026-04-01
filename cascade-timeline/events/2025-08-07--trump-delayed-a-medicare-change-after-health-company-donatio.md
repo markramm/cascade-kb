@@ -49,6 +49,5 @@ _merge_timestamp: '2025-09-05T23:46:55.902741'
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care—maker of high-end bandages crafted from dried placenta—donated $5 million to the MAGA Inc. super PAC

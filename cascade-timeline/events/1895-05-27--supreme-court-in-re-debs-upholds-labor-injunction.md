@@ -49,7 +49,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 
 The U.S. Supreme Court issues a unanimous 9-0 decision in In re Debs, upholding the federal government's use of injunctions to suppress labor strikes and affirming Eugene V. Debs's contempt of court conviction for continuing the 1894 Pullman Strike in violation of a federal court order. Justice David Josiah Brewer writes for the unanimous Court, ruling that the government possesses authority to remove obstructions to interstate commerce and mail delivery, thereby legitimizing the use of federal tribunals as weapons against labor organizing. The decision slows the momentum of labor unions for the next three decades by providing legal authorization for employers to obtain federal injunctions against virtually any strike activity.

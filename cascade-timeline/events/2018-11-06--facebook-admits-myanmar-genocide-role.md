@@ -46,7 +46,6 @@ capture_lanes:
 - Media Capture & Control
 - Systematic Corruption
 ---
-type: timeline_event
 
 Facebook publicly admits that its platform was used to "foment division and incite offline violence" in Myanmar's genocide against Rohingya Muslims, acknowledging the UN's determination that Facebook played a "determining role" in violence that killed thousands and displaced over 700,000 people. Despite this extraordinary corporate admission of facilitating genocide, Facebook implements no fundamental changes to its engagement-maximizing algorithm or surveillance capitalism business model.
 

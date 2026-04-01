@@ -39,5 +39,4 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges

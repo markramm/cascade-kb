@@ -46,7 +46,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 Robert Rubin joins Citigroup just four months after leaving his position as Treasury Secretary, shortly after the November 1999 passage of the Gramm-Leach-Bliley Act that repealed Glass-Steagall. Rubin's move to Citigroup - the principal beneficiary of Glass-Steagall repeal - represents one of the most brazen examples of the Wall Street-Washington revolving door in modern American history.
 

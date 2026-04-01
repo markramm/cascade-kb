@@ -44,6 +44,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The White House Iraq Group coordinates the delivery of systematically fabricated intelligence briefings to congressional intelligence committees, setting the foundation for legislative manipulation. Working through CIA Director George Tenet and National Security Council staff, WHIG ensures that key congressional leaders receive intelligence assessments crafted to support invasion rather than reflect actual intelligence community analysis. The briefings prominently feature the discredited aluminum tubes intelligence, nuclear weapons claims already rejected by Department of Energy analysts, and fabricated connections between Iraq and Al-Qaeda that CIA counterterrorism experts had debunked. Congressional Intelligence Committee members receive these materials as authoritative intelligence products, unaware that WHIG has systematically filtered and distorted the underlying analysis. The briefings deliberately omit dissenting views from within the intelligence community and present speculative assessments as established facts. This marks the beginning of WHIG's systematic campaign to corrupt the constitutional relationship between executive and legislative branches by ensuring Congress votes for war based on fabricated rather than genuine intelligence analysis.

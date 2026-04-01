@@ -34,5 +34,4 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-type: timeline_event
 The Trump administration initiated unprecedented legal actions challenging judicial independence, including multiple court orders blocking administrative actions and mounting tensions between the executive and judicial branches. Multiple federal courts issued restraining orders against sweeping government restructuring efforts, with the administration responding through legal challenges and attempts to limit judicial review.

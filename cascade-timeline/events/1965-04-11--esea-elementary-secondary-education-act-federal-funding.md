@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 On April 11, 1965, President Lyndon B. Johnson signed the Elementary and Secondary Education Act (ESEA) at the Junction Elementary School in Stonewall, Texas, where he had attended as a child. The landmark legislation established the first comprehensive federal investment in K-12 education, channeling funds to schools serving low-income students and representing a major component of Johnson's "War on Poverty" and Great Society programs.
 

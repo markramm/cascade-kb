@@ -46,7 +46,6 @@ capture_lanes:
 - Intelligence Penetration
 status: reported
 ---
-type: timeline_event
 
 # White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets
 

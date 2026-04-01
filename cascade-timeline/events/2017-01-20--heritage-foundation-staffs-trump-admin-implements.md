@@ -39,6 +39,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The Heritage Foundation placed 70+ personnel in the Trump administration and achieved implementation of 64% of their policy recommendations within Trump's first year, unprecedented corporate capture of government. Heritage alumni included OMB Director Mick Mulvaney, EPA Administrator Scott Pruitt, Education Secretary Betsy DeVos, HHS Secretary Tom Price, and Attorney General Jeff Sessions. The foundation's 'Mandate for Leadership' became the administration's blueprint, with 2 of every 3 recommendations adopted. Heritage received $5 million from Koch network and millions from fossil fuel companies while their personnel dismantled environmental protections. The foundation created a personnel database for future conservative administrations, later evolving into Project 2025 with plans to replace 50,000 civil servants. Heritage President Kay Coles James served on Trump's transition team while the foundation operated as a shadow policy shop. This represented the most successful ideological capture of the executive branch by a single think tank in American history.

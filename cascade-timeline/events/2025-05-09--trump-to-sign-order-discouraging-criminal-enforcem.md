@@ -48,7 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 President Trump signed an executive order in May 2025 directing federal agencies to limit the use of criminal enforcement for violations of administrative regulations, framing the policy as fighting "overcriminalization" of regulatory offenses. The order instructed prosecutors and agency enforcement officials to apply heightened standards before pursuing criminal charges for violations of rules issued by executive agencies, effectively giving the administration discretion to exempt favored companies or industries from criminal prosecution for regulatory violations. The White House fact sheet described the order as protecting businesses from prosecutorial overreach and vague regulatory standards.
 
 Reuters and the National Law Review reported that the order would require federal prosecutors to apply additional scrutiny before bringing criminal charges for violations of regulations — as opposed to violations of statutes passed by Congress — and would mandate guidance development within agencies about when criminal versus civil enforcement was appropriate. Law firms advising corporate clients interpreted the order as significantly reducing criminal liability risk for regulatory violations, noting it effectively established that the executive branch would exercise prosecutorial discretion based on policy preferences rather than the severity of regulatory violations.

@@ -31,7 +31,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Elliptic is founded in London by Adam Joyce, Tom Robinson, and James Smith, becoming the first company to develop cryptoasset anti-money laundering and sanctions compliance tools based on blockchain analytics. The company pioneers the application of blockchain forensics to track illicit cryptocurrency transactions.
 

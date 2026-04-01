@@ -46,7 +46,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The Treaty of Guadalupe Hidalgo, signed February 2, 1848, ends the Mexican-American War by forcing Mexico to cede 55 percent of its territory—including present-day California, Nevada, Utah, New Mexico, most of Arizona and Colorado, and parts of Oklahoma, Kansas, and Wyoming—to the United States for $15 million plus assumption of American citizens' claims against Mexico. The treaty includes provisions granting U.S. citizenship and land rights to Mexicans living in the newly acquired territories, with Article IX guaranteeing civil and property rights of Mexican nationals within the new U.S. boundaries. However, when the Senate reluctantly ratifies the treaty (by a vote of 34 to 14) on March 10, 1848, it removes Article X, which had guaranteed the protection of Mexican land grants awarded throughout the Southwest by the Spanish crown and Mexican government. This deletion establishes the foundation for decades of systematic land theft from Mexican Americans despite explicit treaty promises.
 

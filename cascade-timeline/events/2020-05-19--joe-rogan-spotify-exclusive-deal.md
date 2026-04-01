@@ -50,7 +50,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Spotify signs exclusive multi-year licensing deal with Joe Rogan worth reported $100-200 million, marking largest podcast acquisition and creating financial dependency
 
 On May 19, 2020, Spotify announced an exclusive multi-year licensing deal with Joe Rogan to make The Joe Rogan Experience the platform's exclusive podcast. Initially reported at $100 million, subsequent reporting indicated the deal was worth closer to $200 million. The agreement moved the world's most listened-to podcast exclusively to Spotify's platform, ending its availability on competing services and establishing Rogan as the anchor of Spotify's podcast strategy. The deal gave Spotify effective editorial leverage over the most influential independent media voice in America.

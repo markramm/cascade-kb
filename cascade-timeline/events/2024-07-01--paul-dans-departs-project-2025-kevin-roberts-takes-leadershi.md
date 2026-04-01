@@ -36,5 +36,4 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 Paul Dans, original Project 2025 director, stepped down from leadership in late July 2024 after tensions with the Trump campaign. Heritage Foundation President Kevin Roberts assumed control, continuing the project's policy development while distancing it from direct campaign involvement.

@@ -47,5 +47,4 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Trump Media & Technology Group awarded $800,000 in stock to Kash Patel on January 28, 2025, just days before his Senate confirmation hearing for FBI director. Patel claimed he would not accept the stock 'to avoid any appearance of conflict', but the award raised significant ethical questions about potential conflicts of interest in his nomination.

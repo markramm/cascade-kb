@@ -46,5 +46,4 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 Pentagon officials initially planned to brief Elon Musk on 29 ultra-classified weapons programs related to potential conflict with China, but canceled the meeting after media reports. Musk ultimately met with Defense Secretary Pete Hegseth in an unclassified meeting about 'innovation and efficiencies'.

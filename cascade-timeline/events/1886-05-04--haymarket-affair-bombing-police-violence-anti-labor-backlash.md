@@ -50,7 +50,6 @@ capture_lanes:
 - Labor Suppression
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 
 A peaceful labor rally at Haymarket Square in Chicago advocating for the eight-hour workday descends into violence when an unknown person throws a dynamite bomb at police officers attempting to disperse the gathering. The blast and ensuing retaliatory police gunfire kill seven police officers and at least four civilians, with dozens more wounded. The bombing occurs on the second day of protests responding to police brutality on May 3, when police killed one person and injured several others while protecting strikebreakers at the McCormick Harvesting Machine Company during a national eight-hour workday campaign organized by the Federation of Organized Trades and Labor Unions.

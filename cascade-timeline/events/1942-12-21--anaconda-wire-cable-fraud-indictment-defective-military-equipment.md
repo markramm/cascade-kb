@@ -35,7 +35,6 @@ tags:
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 # Anaconda Wire and Cable Indicted for $6 Million Fraud
 

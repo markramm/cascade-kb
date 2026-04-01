@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On August 18, 1920, Tennessee became the 36th state to ratify the 19th Amendment, providing the three-fourths majority of states required to add women's suffrage to the U.S. Constitution. The decisive vote in the Tennessee House of Representatives came down to 24-year-old State Representative Harry T. Burn from McMinn County, who had voted against ratification twice before in 48-48 ties. Wearing a red rose on his lapel—the symbol of anti-suffrage forces in what became known as the "War of the Roses"—Burn surprised everyone by voting "aye" when called upon during the third vote. He carried a letter in his suit pocket from his mother, Febb E. Burn, asking him to "be a good boy" and vote for the amendment. His single vote approved the amendment in Tennessee, making it the final state needed for ratification. On August 26, Secretary of State Bainbridge Colby formally adopted the amendment into the Constitution, guaranteeing women the right to vote 72 years after the Seneca Falls Convention first demanded it.
 

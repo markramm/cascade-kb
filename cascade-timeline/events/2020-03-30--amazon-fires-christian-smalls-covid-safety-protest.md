@@ -38,7 +38,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 # Amazon Fires Christian Smalls for Organizing COVID Safety Protest
 

@@ -68,7 +68,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 
 California voters approve Proposition 187 by 59% to 41%, a ballot initiative that prohibits undocumented immigrants from accessing public services including non-emergency healthcare and primary and secondary education, while requiring public servants such as medical professionals and teachers to monitor and report suspected undocumented individuals to immigration authorities. Governor Pete Wilson, a Republican facing record low approval ratings and trailing Democratic challenger Kathleen Brown by more than 20 points early in his reelection campaign, makes Proposition 187 the centerpiece of his campaign. His administration purchases the only pro-Proposition 187 advertisements aired on television. Wilson wins reelection alongside the initiative's passage, with commentators crediting his aggressive support of the measure as crucial to his victory.

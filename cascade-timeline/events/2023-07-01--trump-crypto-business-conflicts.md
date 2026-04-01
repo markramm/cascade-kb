@@ -44,5 +44,4 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-type: timeline_event
 Trump Media and Technology Group announced significant cryptocurrency partnerships that could generate hundreds of millions in foreign-backed revenue, potentially violating the Emoluments Clause. The venture involves state-backed Emirati investment firm MGX, crypto exchange Binance, and World Liberty Financial, where Trump is set to receive approximately 75 percent of proceeds.

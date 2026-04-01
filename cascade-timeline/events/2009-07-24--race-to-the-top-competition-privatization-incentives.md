@@ -39,7 +39,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On July 24, 2009, the Obama administration announced Race to the Top (RttT), a $4.35 billion competitive grant program that would profoundly reshape American education policy by requiring states to adopt charter school expansion, test-based teacher evaluations, and Common Core standards as conditions for receiving federal funds. The program represented the culmination of a bipartisan neoliberal consensus on education reform that prioritized market mechanisms and accountability metrics over investment and equity.
 

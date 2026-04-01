@@ -45,6 +45,5 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-type: timeline_event
 
 DOJ official Jeffrey Clark sent Signal messages to Rep. Scott Perry admitting that a highly classified briefing on foreign election interference "yielded nothing" to support stolen election claims, writing "Bottom line is there is nothing helpful to P" (referring to the President). Despite knowing this, Clark continued pushing DOJ to investigate false fraud claims and engaged in secret communications with Trump "in total violation of Justice Department rules."

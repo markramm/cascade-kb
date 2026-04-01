@@ -51,5 +51,4 @@ tags:
 - nft
 title: Trump Family Launches Comprehensive $5B Cryptocurrency Empire
 ---
-type: timeline_event
 In an unprecedented move, the Trump family launched a multi-pronged cryptocurrency empire in 2025, establishing ventures including American Bitcoin Corp (a Bitcoin mining company), World Liberty Financial token, and multiple cryptocurrency projects spanning mining, NFTs, and stablecoins. The family generated approximately $5 billion in new wealth through these crypto investments, demonstrating a sophisticated strategy of monetizing post-presidential political capital.

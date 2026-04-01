@@ -53,5 +53,4 @@ status: confirmed
 capture_lanes:
 - Federal Workforce Capture
 ---
-type: timeline_event
 Analysis of Trump's first week in office reveals approximately 65% of his executive actions closely align with Project 2025 recommendations, despite previously claiming no association. Key areas of implementation include dismantling DEI programs, reviving Schedule F to reclassify federal employees, restricting transgender rights, and reducing refugee admissions.

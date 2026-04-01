@@ -35,7 +35,6 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-type: timeline_event
 
 The Fourteenth Amendment is ratified after Louisiana and South Carolina provide the necessary three-fourths majority, extending citizenship and equal protection rights to formerly enslaved people. While designed to guarantee civil rights to Black Americans, the amendment's broad language—particularly its Due Process and Equal Protection clauses—will be systematically hijacked by corporate lawyers to shield businesses from regulation.
 

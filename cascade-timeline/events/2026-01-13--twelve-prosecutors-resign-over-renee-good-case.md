@@ -49,7 +49,6 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 At least twelve federal prosecutors resigned in protest over the DOJ's handling of the Renee Good shooting investigation. Six prosecutors resigned from the Minnesota U.S. Attorney's Office, including the three top-ranking prosecutors: Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro).
 

@@ -27,7 +27,6 @@ capture_lanes:
 - Institutional Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 Former National Security Advisor John Bolton was indicted on 18 federal counts, following the FBI raid on his home on August 22, 2025.
 

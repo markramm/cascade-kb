@@ -47,6 +47,5 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Over the last two weeks, Donald Trump Jr. and Eric Trump have traveled the world, announcing real estate, cryptocurrency, and other ventures involving billions of dollars that enrich not only themselves, but also the president

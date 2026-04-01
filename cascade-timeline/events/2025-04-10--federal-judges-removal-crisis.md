@@ -38,5 +38,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 The Trump administration initiated unprecedented moves to remove federal judges deemed obstructionist, invoking rarely used judicial review procedures. Multiple federal circuit courts issued emergency injunctions, creating a complex legal standoff that threatened judicial independence and separation of powers. White House officials claimed the actions were necessary to address a 'judicial crisis', while legal experts warned of constitutional violations.

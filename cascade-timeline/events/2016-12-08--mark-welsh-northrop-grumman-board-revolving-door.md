@@ -40,7 +40,6 @@ capture_lanes:
 - Systematic Corruption
 - Labor Suppression
 ---
-type: timeline_event
 
 Retired General Mark Welsh joined Northrop Grumman's board of directors just five months after retiring as Air Force Chief of Staff and barely one year after the company won the $21.4 billion initial contract to build the B-21 Raider next-generation stealth bomber, exemplifying the revolving door between Pentagon leadership and defense contractors that enables corruption and creates conflicts of interest in weapons procurement. The appointment came as President-elect Donald Trump was publicly criticizing the Pentagon's revolving door practices, highlighting how the nation's top Air Force officer transitioned directly into a lucrative board position with a company that had just secured one of the largest defense contracts in history under his watch.
 

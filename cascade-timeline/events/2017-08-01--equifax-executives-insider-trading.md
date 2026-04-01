@@ -41,7 +41,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Three Equifax executives sell nearly $1.8 million in company stock on August 1-2, 2017, just days after Equifax discovered the massive data breach on July 29, 2017, but more than a month before the breach is disclosed to the public on September 7, 2017. The executives include Chief Financial Officer John Gamble, U.S. Information Solutions President Joseph Loughran, and Workforce Solutions President Rodolfo Ploder. While Equifax claims the executives 'had no knowledge that an intrusion had occurred at the time they sold their shares,' the U.S. Justice Department opens an investigation into potential insider trading violations. Two other lower-ranking managers who sold shares roughly a month after the breach are later found guilty of insider trading.
 

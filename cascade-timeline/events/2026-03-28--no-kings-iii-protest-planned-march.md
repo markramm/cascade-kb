@@ -41,7 +41,6 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 ---
-type: timeline_event
 
 In the first week of March 2026, organizers formally announced the third installment of the No Kings protest series — "No Kings III" — scheduled for March 28, 2026, across cities, towns, and suburbs in every U.S. state. The announcement came amid escalating concerns over immigration enforcement shootings and the administration's continued expansion of executive power.
 

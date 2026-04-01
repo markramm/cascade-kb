@@ -68,7 +68,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 
 The House Un-American Activities Committee opens its first postwar hearings on October 20, 1947, investigating alleged Communist influence in Hollywood with Chairman J. Parnell Thomas presiding and Robert E. Stripling serving as chief counsel. Drawing upon lists provided in The Hollywood Reporter, HUAC subpoenas 42 persons working in the film industry to testify. Because of prehearing publicity, more than one hundred news agencies are present, along with three major radio networks and eleven newsreel and television cameras stationed above the witness table. The committee includes Representatives John McDowell of Pennsylvania, Richard Nixon of California, Richard B. Vail of Illinois, and John S. Wood of Georgia.

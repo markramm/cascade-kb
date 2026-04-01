@@ -43,7 +43,6 @@ sources:
 notes: Strategic timing to capture crypto industry political spending. First major party candidate to fully embrace cryptocurrency donations.
 status: confirmed
 ---
-type: timeline_event
 Donald Trump's presidential campaign announced in May 2024 that it would begin accepting cryptocurrency donations, making him the first major party presidential candidate to fully embrace digital asset contributions. The campaign launched a partnership with Coinbase Commerce to process Bitcoin, Ethereum, and other cryptocurrency donations. Trump simultaneously pledged to build a "crypto army" and positioned himself as the pro-crypto candidate in contrast to what he characterized as the Biden administration's hostile regulatory approach to digital assets.
 
 The timing was strategically significant. The cryptocurrency industry was poised to spend at least $238 million on the 2024 election cycle through super PACs and other vehicles—surpassing the political investment of traditional financial giants. Crypto-aligned super PACs including Fairshake, Protect Progress, and Defend American Jobs had emerged as among the largest political spenders, giving the industry outsized influence. By accepting crypto donations and embracing the industry's political agenda, Trump positioned himself to capture this concentrated financial support.

@@ -36,7 +36,6 @@ capture_lanes:
 - Media Manipulation
 - Institutional Capture
 ---
-type: timeline_event
 
 On February 21, 2025, AG Pam Bondi appeared on Fox News and told host John Roberts that the Epstein client list was "sitting on my desk right now to review," generating significant public expectation.
 

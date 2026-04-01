@@ -47,7 +47,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 U.S. businesses and the Mexican government launch a $25 million coordinated lobbying and public relations campaign to secure Congressional approval of NAFTA, overcoming fierce opposition from labor unions and environmental groups. The Business Roundtable, U.S. Chamber of Commerce, and National Association of Manufacturers lead the corporate coalition, with Business Roundtable members tasked by American Express CEO to personally contact at least three members of Congress each day.
 

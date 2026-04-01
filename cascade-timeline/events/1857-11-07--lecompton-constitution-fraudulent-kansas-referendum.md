@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 A fraudulent referendum on the Lecompton Constitution occurs in Kansas Territory, with pro-slavery forces manipulating the process to attempt forcing slavery on Kansas despite the Free-State majority. Free-State settlers refuse to participate in the June 1857 election for constitutional convention delegates, believing pro-slavery influences and fraud have tainted the election, resulting in pro-slavery delegates dominating the convention. The convention then devises a rigged referendum on November 7, 1857, where voters cannot approve or reject the constitution as a whole but must choose between "with slavery" or "with no slavery"—yet even the "with no slavery" option includes provisions protecting owners of slaves already in Kansas. Boycotted by Free-Staters, the referendum suffers massive voting irregularities with over half the 6,000 votes deemed fraudulent, primarily due to Border Ruffians from Missouri crossing the border to stuff ballot boxes.
 

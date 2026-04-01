@@ -53,5 +53,4 @@ tags:
 - financial-regulation
 title: Crypto ally Paul Atkins sworn in to replace Gary Gensler atop U.S. SEC
 ---
-type: timeline_event
 In a significant regulatory shift, Trump-allied Paul Atkins was sworn in as SEC chairman on April 22, 2025, replacing Gary Gensler. The transition signals a potential transformation in cryptocurrency and financial regulatory approaches, with Atkins indicating an immediate willingness to implement new crypto policies.

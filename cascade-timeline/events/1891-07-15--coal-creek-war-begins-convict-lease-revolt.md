@@ -35,7 +35,6 @@ capture_lanes:
 - Labor Suppression
 status: confirmed
 ---
-type: timeline_event
 
 Three hundred Tennessee coal miners successfully besiege the Briceville stockade after midnight on July 15, 1891, the anniversary of Bastille Day, freeing forty convict laborers and their guards and putting them on a train to Knoxville. Later that day, miners march on the Knoxville Iron Company mine near Coal Creek, force guards at its stockade to surrender, and likewise send its convicts to Knoxville. The uprising launches the Coal Creek War, one of the largest insurrections in American labor history, as miners face off against the convict lease system—a private-public partnership where prisoners are leased to private companies for labor that undermines union organizing and perpetuates slavery by imprisoning African Americans on false charges. By 1891, six corporations use 746 convict miners, nearly 75 percent of whom are Black Tennesseans serving terms for petty offenses under Jim Crow laws.
 

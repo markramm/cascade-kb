@@ -29,7 +29,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 On March 17, 2026, approximately 150 retired federal and state judges filed a bipartisan amicus curiae brief in the Northern District of California supporting Anthropic's challenge to the Pentagon's supply chain risk designation. The filing represented an extraordinary intervention by members of the judiciary in a dispute between a private company and the executive branch, underscoring the degree to which the legal community viewed the case as raising fundamental questions about government overreach and the rule of law.
 

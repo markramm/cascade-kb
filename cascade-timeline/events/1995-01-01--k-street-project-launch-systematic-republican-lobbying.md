@@ -34,7 +34,6 @@ capture_lanes:
 - Corporate Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 The Republican Party, led by Newt Gingrich, Tom DeLay, and Grover Norquist, launched the K Street Project to fundamentally restructure Washington lobbying. By creating an explicit pay-to-play system, they pressured lobbying firms to hire Republican staff, track employee political affiliations, and redirect corporate campaign contributions. By 2003, an estimated 33 of 36 top lobbying positions were held by Republicans, demonstrating a systematic transformation of corporate-political influence networks.
 
 Key mechanisms:

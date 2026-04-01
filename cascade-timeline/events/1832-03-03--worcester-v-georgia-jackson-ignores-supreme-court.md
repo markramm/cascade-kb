@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The U.S. Supreme Court rules 5-1 in Worcester v. Georgia that states lack authority to impose regulations on Native American lands, with Chief Justice John Marshall writing that Indian nations are "distinct, independent political communities retaining their original natural rights" and that Georgia's 1830 law requiring non-Native Americans to obtain permits to enter Cherokee territory is "repugnant to the Constitution, laws, and treaties of the United States." The decision vindicates missionary Samuel Worcester and other Christian missionaries imprisoned by Georgia for residing in Cherokee Nation without state permits, declaring that the Cherokee Nation possesses legitimate title to its national territory and the right to live free from state trespass. However, President Andrew Jackson refuses to enforce the ruling, Georgia ignores the Court's mandate and keeps the missionaries imprisoned until 1833, and the executive branch proceeds with Cherokee removal plans—demonstrating how constitutional governance collapses when the president prioritizes political expediency over rule of law.
 

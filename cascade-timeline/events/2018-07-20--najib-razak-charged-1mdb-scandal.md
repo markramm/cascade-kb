@@ -51,5 +51,4 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 Malaysian authorities charged former Prime Minister Najib Razak with criminal breach of trust, corruption, and money laundering related to the 1Malaysia Development Berhad (1MDB) sovereign wealth fund scandal. On July 4th, 2018, Najib appeared in the Kuala Lumpur High Court, pleading not guilty to three counts of criminal breach of trust and one charge under the anti-corruption act. This event marked a crucial turning point in Malaysia's fight against institutional corruption, revealing a complex web of financial crimes where approximately $4.5 billion was allegedly stolen from the 1MDB fund between 2009-2014. The case, described by the US Department of Justice as the 'largest kleptocracy case to date', ultimately led to Najib's political downfall and exposed systemic governance failures.

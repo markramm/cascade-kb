@@ -43,7 +43,6 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline with growing foreign investment.
 ---
-type: timeline_event
 
 The Swiss National Bank, Switzerland's central bank majority owned by public entities,
 purchased 111,300 shares of Trump Media & Technology Group valued at $1.78 million

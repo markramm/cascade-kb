@@ -48,5 +48,4 @@ connections:
 - 2025-05-20--trump-middle-east-diplomatic-trip
 - 2024-11-05--trump-election-victory-impact
 ---
-type: timeline_event
 The Trump Organization has announced 21 international projects across 10 countries during Trump's second presidential term, including significant developments in Serbia, India, Qatar, UAE, Saudi Arabia, Oman, Vietnam, Indonesia, Uruguay, and Romania. These projects, valued at billions of dollars, involve partnerships with local governments and private developers, raising substantial conflicts of interest concerns.

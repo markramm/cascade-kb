@@ -36,7 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
 ---
-type: timeline_event
 
 News breaks that President Bill Clinton engaged in an extramarital affair with Monica Lewinsky, a 22-year-old White House intern, during 1995-1997. The scandal emerges during a sexual harassment civil suit by Paula Jones, when evidence surfaces that Clinton had an inappropriate relationship with Lewinsky and may have encouraged her to lie about it under oath. Clinton issues a public denial, stating "I did not have sexual relations with that woman, Miss Lewinsky."
 

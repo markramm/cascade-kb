@@ -38,7 +38,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The Clinton administration launches Operation Gatekeeper, deploying additional Border Patrol agents, surveillance equipment, and barriers along the San Diego sector of the U.S.-Mexico border. Immigration and Naturalization Service Commissioner Doris Meissner implements the "prevention through deterrence" strategy, which concentrates enforcement resources at traditional urban crossing points to force unauthorized border crossers into remote desert and mountain terrain where the elements serve as "natural barriers." The policy accepts that migrants will continue attempting crossings but anticipates that the increased danger and difficulty will eventually deter them.
 

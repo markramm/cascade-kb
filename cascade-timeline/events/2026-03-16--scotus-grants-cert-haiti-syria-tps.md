@@ -40,7 +40,6 @@ capture_lanes:
 - Immigration System Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court on March 16, 2026, took the unusual step of granting certiorari before judgment in two consolidated cases challenging the Trump administration's termination of Temporary Protected Status for nationals of Haiti and Syria. The Haiti case alone affected approximately 352,000 TPS holders, many of whom had lived in the United States for over a decade, while the Syria designation covered tens of thousands more. The grant of cert before the appeals courts had ruled signaled the justices' recognition of the cases' extraordinary urgency and national significance.
 

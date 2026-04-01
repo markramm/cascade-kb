@@ -33,7 +33,6 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 By 2000, the Council for National Policy had established deep coordination with the Federalist Society through overlapping membership and shared strategy sessions, with Leonard Leo serving as a member of both organizations and coordinating judicial selection strategy across the conservative network.
 
 CNP's membership lists included leaders of the Federalist Society alongside Heritage Foundation, ALEC, and Alliance Defending Freedom, creating a coordination structure that linked conservative legal strategy (Federalist Society) with policy development (Heritage), state legislation (ALEC), and litigation strategy (ADF).

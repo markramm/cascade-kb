@@ -42,7 +42,6 @@ capture_lanes:
 - Regulatory Capture
 - 'Digital & Tech Capture'
 ---
-type: timeline_event
 Elon Musk completed a $44 billion acquisition of Twitter Inc. with significant funding from Saudi Arabia's Prince Alwaleed bin Talal's Kingdom Holding Company and Qatar's sovereign wealth fund, raising critical questions about foreign influence over global communication infrastructure. Prince Alwaleed, who initially rejected Musk's takeover bid in April 2022, ultimately became the second-largest investor after Musk, contributing $1.89 billion (approximately 35 million shares). The Qatar Investment Authority provided an additional $375 million. This investment pattern highlighted the complex international oligarchic networks shaping media platforms, with authoritarian regime-linked investors gaining substantial control over a platform previously considered a global public square.
 
 Key Implications:

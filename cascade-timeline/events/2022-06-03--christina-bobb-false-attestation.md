@@ -42,7 +42,6 @@ notes: 'Bobb told investigators that Corcoran drafted the statement and told her
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 Trump attorney Christina Bobb signed a certification stating that all classified documents
 requested by the May 11 grand jury subpoena had been returned to the government. The
 attestation, drafted by Evan Corcoran, proved false when the FBI found 103 additional

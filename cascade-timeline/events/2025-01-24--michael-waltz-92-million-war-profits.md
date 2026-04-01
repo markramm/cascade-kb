@@ -61,5 +61,4 @@ tags:
 - military-industrial-complex
 title: NSA Waltz Made $92 Million from Defense Contracting While Advocating Forever Wars
 ---
-type: timeline_event
 National Security Advisor Michael Waltz sold his defense contractor Metis Solutions for $92 million, earning between $5-$25 million personally. The company won lucrative Afghanistan contracts while Waltz advocated for prolonged military engagement, raising significant conflict of interest concerns.

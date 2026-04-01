@@ -35,7 +35,6 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Chainalysis announces a $170 million Series F financing led by GIC, Singapore's sovereign wealth fund, bringing its valuation to $8.6 billion and cementing the company's position as the largest enterprise SaaS company in the cryptocurrency industry. The funding round represents another doubling of valuation in less than a year, growing from $4.2 billion in June 2021 to $8.6 billion.
 

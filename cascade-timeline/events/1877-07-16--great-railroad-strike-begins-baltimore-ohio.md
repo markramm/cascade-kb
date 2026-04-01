@@ -48,7 +48,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 The Great Railroad Strike of 1877 begins when Baltimore & Ohio Railroad workers walk off the job in response to a 10% wage cut—the second reduction in eight months during the severe economic depression following the Panic of 1873. The strike spreads rapidly across the nation's rail network, involving workers in Maryland, Pennsylvania, West Virginia, Ohio, Illinois, and Missouri, eventually shutting down two-thirds of the country's railroad trackage and involving over 100,000 workers. This becomes the first general labor uprising in American history and the first instance of federal troops being deployed to suppress a domestic labor action.
 

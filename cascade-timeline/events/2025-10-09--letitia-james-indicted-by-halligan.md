@@ -34,7 +34,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 Lindsey Halligan's EDVA office indicted former New York Attorney General Letitia James on two federal counts:
 

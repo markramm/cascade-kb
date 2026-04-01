@@ -45,7 +45,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 On March 20, 2026, President Trump posted on Truth Social that the United States was "winding down" its military campaign against Iran and that the operation had been a tremendous success. Within hours, the Pentagon confirmed that 2,500 additional Marines were being redirected from planned Pacific exercises to the Middle East theater, joining the more than 50,000 U.S. troops already deployed in the region. The massively contradictory signals encapsulated the administration's incoherent war communications.
 

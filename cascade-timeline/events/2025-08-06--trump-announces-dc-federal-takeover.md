@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Trump announced federal takeover of Washington DC police department and deployment of
 National Guard, using the assault on Edward Coristine as justification. Trump stated he

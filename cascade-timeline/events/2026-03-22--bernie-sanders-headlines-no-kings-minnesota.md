@@ -43,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 22, 2026, organizers confirmed that Sen. Bernie Sanders would headline the flagship No Kings rally at the Minnesota State Capitol on March 28. The event was positioned as the centerpiece of the nationwide day of protest, with Minnesota chosen for its significance as the epicenter of the ICE enforcement killings that had catalyzed the movement.
 

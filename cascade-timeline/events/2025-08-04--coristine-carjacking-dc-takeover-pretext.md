@@ -43,7 +43,6 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: timeline_event
 
 Edward "Big Balls" Coristine, 19, was assaulted during attempted carjacking by 10 teenagers
 in Logan Circle at 3 AM. Trump immediately used the incident to threaten federal takeover

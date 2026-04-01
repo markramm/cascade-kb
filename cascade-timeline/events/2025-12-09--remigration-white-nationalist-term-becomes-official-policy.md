@@ -31,7 +31,6 @@ capture_lanes:
 - Executive Power
 - Cultural Capture
 ---
-type: timeline_event
 
 NPR domestic extremism correspondent Odette Yousef reported on December 9, 2025 that the term "remigration"—rooted in the Great Replacement conspiracy theory originated by French novelist Renaud Camus, and popularized as a political slogan by Austrian identitarian activist Martin Sellner—had become an official policy term across multiple Trump administration agencies.
 

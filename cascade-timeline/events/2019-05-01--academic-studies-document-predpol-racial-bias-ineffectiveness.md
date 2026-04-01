@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 Multiple academic studies and internal police audits published in 2019 provide comprehensive evidence of PredPol's racial bias and failure to demonstrate effectiveness, undermining the fundamental claims that have justified the technology's widespread adoption.
 

@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 Following the 2010 Republican wave that gave the GOP control of both legislative chambers in twenty-six states, at least 34 states introduced nearly identical voter ID bills in the 2011 legislative session. The bills used ALEC's 2009 model "Voter ID Act" template language, demonstrating systematic coordination rather than independent state policy decisions.
 

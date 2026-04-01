@@ -43,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 On January 2, 1920, the Palmer Raids reached their peak with coordinated mass arrests in 33 cities across the United States, targeting alleged radicals, communists, and anarchists. Under the direction of Attorney General A. Mitchell Palmer and 24-year-old J. Edgar Hoover, who headed the Justice Department's General Intelligence Division, federal agents conducted simultaneous raids on suspected radical organizations and meeting places. The operations resulted in thousands of arrests, often without warrants, with many detainees held incommunicado without access to lawyers. The raids were characterized by extreme brutality, with reports of beatings, forced confessions, and wholesale violations of civil liberties.
 
 Acting Secretary of Labor Louis Post emerged as a key opponent of Palmer's tactics, carefully reviewing deportation cases and reversing more than 70 percent of the 1,600 deportation warrants Palmer sought. Post's resistance infuriated Palmer and his allies, but Post's insistence on due process prevented the mass deportations Palmer envisioned. The National Civil Liberties Bureau (which became the ACLU) and other civil liberties organizations publicly challenged Palmer's actions as unconstitutional. A report by a group of lawyers and legal scholars documented systematic abuses, including arrests without warrants, denial of counsel, prolonged detention, and coerced confessions.

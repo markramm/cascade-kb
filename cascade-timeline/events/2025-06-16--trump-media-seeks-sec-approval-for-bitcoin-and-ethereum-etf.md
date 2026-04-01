@@ -48,5 +48,4 @@ tags:
 - sec-filing
 title: Trump Media seeks SEC approval for bitcoin and ethereum ETF
 ---
-type: timeline_event
 Trump Media sought SEC approval to launch a combined Bitcoin and Ethereum ETF, with a proposed asset allocation of 75% Bitcoin and 25% Ethereum. The ETF, to be listed on NYSE Arca, will be custodied by Crypto.com and sponsored by Yorkville America Digital, representing an expansion of Trump's media and financial ventures into cryptocurrency markets.

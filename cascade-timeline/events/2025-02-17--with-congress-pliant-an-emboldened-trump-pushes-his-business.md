@@ -43,6 +43,5 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump actively intervened in negotiations between PGA Tour and LIV Golf, hosting meetings with executives and claiming ability to broker a merger, raising questions about potential conflicts of interest and personal business motivations

@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 President George Washington issues a proclamation declaring western Pennsylvania whiskey protests to be treasonous acts that amount to "levying war against the United States," establishing the precedent for federal military suppression of domestic economic dissent. The crisis stems from Hamilton's 1791 excise tax on distilled spirits, which disproportionately burdens western frontier farmers who convert grain to whiskey for easier transport and sale. These small-scale farmers lack ready cash to pay the tax and cannot pass costs to customers like large eastern distilleries, making the tax an instrument of class warfare favoring urban commercial interests over rural producers.
 

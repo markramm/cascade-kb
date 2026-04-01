@@ -28,7 +28,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 
 Public Citizen released a comprehensive report documenting that 159 enforcement actions against 166 corporations were either cancelled or stopped during Trump's second term, with 18 corporations avoiding a combined $3.1 billion in fines and penalties. The report revealed significant patterns of favoritism: among the corporations that benefited from cancelled enforcement actions, 17 had revolving door or insider connections with the administration, 12 hired lobbyists closely allied with the administration, 10 had business relationships with Trump's private businesses, and 9 had executives or corporations that made political contributions backing Trump's presidential campaign.
 

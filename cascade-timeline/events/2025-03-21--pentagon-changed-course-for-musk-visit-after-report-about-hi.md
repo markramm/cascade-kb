@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Corporate Capture
 ---
-type: timeline_event
 
 The Pentagon modified a planned meeting with Elon Musk after reports emerged that he was set to receive a classified briefing on potential U.S. war plans against China. Trump administration officials denied Musk would receive sensitive information, and the meeting was ultimately scaled back to a discussion about innovation and production efficiencies.

@@ -39,5 +39,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Jeffrey Siegel, an FDA staff member specializing in arthritis drug reviews, oversaw the 2010 approval of Genentech tocilizumab (Actemra) for arthritis treatment. Within months of the approval, Siegel left the FDA to join Genentech and its parent company Roche as director of the division that includes Actemra. A 2016 NPR investigation found that approximately 27% of FDA reviewers in hematology-oncology from 2001-2010 transitioned to industry roles, raising significant questions about potential conflicts of interest in pharmaceutical regulation. This case demonstrates how pharmaceutical companies strategically recruit FDA officials who have direct knowledge of their products and regulatory history, potentially undermining the independence and objectivity of drug safety and efficacy reviews.

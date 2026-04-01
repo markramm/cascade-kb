@@ -46,7 +46,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 President Calvin Coolidge signs the Radio Act of 1927 (Public Law 632, 69th Congress), establishing the foundational principle that radio spectrum frequencies are publicly owned natural resources held in trust by the federal government for the American people. The legislation creates the Federal Radio Commission (FRC) and mandates that broadcast license holders must serve "the public interest, convenience, or necessity" - a revolutionary standard requiring private corporations using public airwaves to demonstrate public benefit in exchange for exclusive use of scarce broadcast frequencies.
 

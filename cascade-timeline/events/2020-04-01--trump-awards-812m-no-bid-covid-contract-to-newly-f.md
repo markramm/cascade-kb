@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Phlow Corporation, incorporated just months before, received an $812 million pharmaceutical manufacturing contract without competitive bidding during the COVID-19 pandemic. Trump adviser Peter Navarro told officials 'my head is going to explode if this contract does not get immediately approved.' The company had no prior pharmaceutical manufacturing experience. Separately, Kodak, a photography company emerging from bankruptcy, received a $765 million government loan to manufacture pharmaceuticals despite lacking relevant experience. Kodak executives made millions from suspicious stock trades before the announcement, with the stock price surging 2,190% in two days before the SEC investigation halted the deal.

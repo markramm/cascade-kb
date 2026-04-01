@@ -35,5 +35,4 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 President Kais Saied dissolves Tunisia's first democratic municipal councils created in 2018, completing a systematic dismantling of democratic institutions that began in July 2021. By replacing elected municipal councils with 'special councils' under direct gubernatorial supervision, Saied continues his broad authoritarian consolidation, fundamentally undermining Tunisia's post-Arab Spring democratic framework.

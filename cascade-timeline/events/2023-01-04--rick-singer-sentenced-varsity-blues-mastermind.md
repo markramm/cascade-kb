@@ -29,6 +29,5 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 Rick Singer, mastermind of the $25 million Varsity Blues college admissions fraud scheme, received 3.5 years in prison despite prosecutors requesting 6 years. Singer pleaded guilty in March 2019 to racketeering conspiracy, money laundering, conspiracy to defraud the US, and obstruction of justice. The court ordered $19 million in restitution and forfeiture. Singer cooperated extensively with the FBI, recording hundreds of phone calls that led to convictions of over 50 defendants including wealthy parents and university coaches. The relatively lenient sentence for orchestrating systemic corruption demonstrates how cooperation deals protect fraud architects while revealing institutional capture patterns. About two-thirds of Varsity Blues defendants received three months or less prison time, with many serving none - illustrating minimal accountability for wealthy individuals who game educational access.

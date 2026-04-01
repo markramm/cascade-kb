@@ -70,5 +70,4 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 52 Texas House Democrats fled to Illinois to break quorum and prevent a vote on unprecedented mid-cycle redistricting that would create 5 new safe Republican congressional seats, echoing 2003 and 2021 walkouts but this time leaving state to avoid federal law enforcement. At least 51 Democratic lawmakers left Texas to prevent a vote on a new congressional map backed by President Trump, which would create 5 new Republican-leaning seats. The move required careful coordination with Illinois Governor JB Pritzker, who provided quiet support and logistical assistance.

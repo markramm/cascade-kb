@@ -42,7 +42,6 @@ capture_lanes:
 - Executive Power Expansion
 - Legislative Capture
 ---
-type: timeline_event
 
 As Congress completed most fiscal year 2026 appropriations bills, analysis published February 19 revealed that the Trump administration and DOGE had been decisively defeated in their legislative spending-cut agenda. Of 30 major programs sampled that Trump proposed slashing or eliminating outright in his FY2026 budget request, Congress eliminated only one. Of the remaining 29, just two were cut by more than half their previous funding. Most programs were funded flat or received modest increases, with Congress rejecting high-profile DOGE targets including slashing the Education Department, eliminating the Ryan White HIV/AIDS program, eliminating the Council on Homelessness, and defunding the National Endowment for Democracy (which instead received $315 million, the same as in FY2024). Both the National Endowment for the Arts and the National Endowment for the Humanities received full funding of more than $200 million.
 

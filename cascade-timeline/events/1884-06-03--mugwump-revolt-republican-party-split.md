@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 Reform-minded Republicans—derisively called "Mugwumps" from the Algonquian word for "important person" or "kingpin"—bolt from their party following James G. Blaine's nomination for president at the Republican National Convention in June 1884. The Mugwumps, a faction of Anglo-Saxon Protestant reformers educated at prestigious universities, reject Blaine's candidacy because of his long history of corruption, including the "Mulligan letters" exposed in 1876 showing he sold his influence in Congress to various businesses. The revolt demonstrates that even in the Gilded Age, corruption can become too brazen for some elite Republicans to tolerate, though the Mugwumps' defection reflects class anxieties about political integrity rather than opposition to the economic system producing such corruption.
 

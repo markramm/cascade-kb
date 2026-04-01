@@ -29,7 +29,6 @@ capture_lanes:
 - Immigration System Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 A former ICE attorney testified before Congress that the agency systematically trains cadets to violate the Constitution, including entering homes without judicial warrants and conducting searches without probable cause. The testimony described ICE's training program as "deficient, defective and broken," noting that DHS was shortening training courses and stripping essential legal education material while rapidly expanding the enforcement workforce.
 
 The revelations provide a systemic explanation for the pattern of court order violations documented by federal judges across the country, suggesting constitutional violations are not individual failures but institutional policy. When agents are trained to disregard constitutional requirements, the resulting violations are predictable and systematic rather than aberrational. The testimony described a deliberate institutional choice to prioritize speed and volume of enforcement over legal compliance.

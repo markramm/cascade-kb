@@ -35,7 +35,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 Amazon reported $5.6 billion in U.S. profits for 2017 yet paid zero federal income tax, according to an analysis by the Institute on Taxation and Economic Policy (ITEP). The company used various tax credits and deductions—particularly tax breaks for executive stock options—to completely eliminate its federal tax liability while ordinary American workers paid effective rates of 10-25% on far smaller incomes. The same year, Amazon also received a $789 million windfall from the Trump tax cuts, further reducing future tax obligations.
 

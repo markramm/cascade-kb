@@ -41,5 +41,4 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-type: timeline_event
 Days after South Dakota agency moved to deny Kassidy Peters' real estate appraiser license application, Governor Kristi Noem summoned agency head Sherry Bren and other officials to a meeting with Peters present. Peters ultimately received certification four months later after receiving special treatment including a third chance not available to other applicants. A legislative panel later found Peters had been given preferential treatment, with the agency director Sherry Bren feeling 'intimidated' during the meeting and subsequently forced to retire after 30 years of service.

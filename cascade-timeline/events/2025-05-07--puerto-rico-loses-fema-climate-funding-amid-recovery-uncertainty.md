@@ -34,5 +34,4 @@ sources:
 notes: 'Trump administration slashes FEMA''s Building Resilient Infrastructure and Communities (BRIC) program. Puerto Rico loses over $4.7 million in climate resiliency funds. Florida loses $300 million. Cuts align with Trump''s dismantling of climate change measures. Of $52 billion allocated for Hurricane Maria/Irma recovery, only $23 billion spent by February 2025. Of $10 billion obligated by FEMA for permanent work, only $2 billion disbursed by May 2025. Secretary Noem visits March 6, promises help while overseeing cuts. COR3 evaluating supplemental strategies as federal support crumbles.'
 status: confirmed
 ---
-type: timeline_event
 Puerto Rico loses over $4.7 million in FEMA climate resilience funding as Trump administration dismantles BRIC program, while $29 billion in Hurricane Maria recovery funds remain undisbursed eight years after disaster, exemplifying systematic federal abandonment of territory

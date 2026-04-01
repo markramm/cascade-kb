@@ -54,7 +54,6 @@ capture_lanes:
 - Executive Power Expansion
 - Military Capture
 ---
-type: timeline_event
 
 On March 10, 2026 -- Day 11 of Operation Epic Fury -- Defense Secretary Pete Hegseth announced that the United States would launch its most intense round of airstrikes against Iran yet, stating: "Today will be, yet again, our most intense day of strikes inside Iran: The most fighters, the most bombers, the most strikes, intelligence more refined and better than ever." Hegseth identified three persistent military objectives: destroying Iran's missile stockpiles and missile-manufacturing infrastructure, completing the destruction of Iran's naval forces, and permanently denying Iran any path to nuclear weapons.
 

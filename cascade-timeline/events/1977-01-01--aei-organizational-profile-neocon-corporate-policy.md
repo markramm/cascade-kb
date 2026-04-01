@@ -49,7 +49,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Comprehensive organizational analysis exposes the American Enterprise Institute's evolution from explicit industry lobby (founded 1938 as American Enterprise Association) into prestigious 'think tank' providing intellectual cover for corporate interests. AEI's rebranding strategy—adopting academic trappings while serving corporate funders—became the template for laundering business advocacy as scholarship, establishing the neoconservative intellectual infrastructure that drove deregulation, privatization, and militarism from Reagan through Bush II.
 

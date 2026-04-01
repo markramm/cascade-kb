@@ -42,7 +42,6 @@ capture_lanes:
 - Media Capture & Control
 - Labor Suppression
 ---
-type: timeline_event
 
 The Supreme Court rules 5-4 in Epic Systems Corp. v. Lewis that employers can require workers to sign mandatory arbitration agreements waiving their right to join class action lawsuits over wage theft, discrimination, or other labor law violations. Justice Neil Gorsuch—a Federalist Society member confirmed after Senate Republicans blocked Merrick Garland—writes for the majority that the Federal Arbitration Act allows employers to force workers into individual arbitration rather than collective legal action.
 

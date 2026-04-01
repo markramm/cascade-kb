@@ -53,6 +53,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Justice Lewis F. Powell Jr. authors the majority opinion in Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, establishing First Amendment protection for commercial speech by striking down state restrictions on prescription drug price advertising. This landmark decision creates a critical precedent for expanding corporate First Amendment rights, demonstrating Powell's systematic approach to using judicial interpretation to advance corporate interests originally outlined in his 1971 memorandum.

@@ -60,7 +60,6 @@ capture_lanes:
 - Executive Power Expansion
 - Media Capture & Control
 ---
-type: timeline_event
 
 On November 30, 2025, Homeland Security Secretary Kristi Noem appeared on NBC's "Meet the Press" with Kristen Welker and publicly denied defying a federal court order—despite the Justice Department having admitted in court filings just four days earlier that she personally made the decision to continue deportation flights in defiance of Judge James Boasberg's order.
 

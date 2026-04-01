@@ -42,5 +42,4 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 Paul Pelosi, husband of former House Speaker Nancy Pelosi, sold 2,000 shares of Visa worth between $500,000 and $1 million on July 1, 2024. This transaction became controversial when the Department of Justice filed a civil antitrust lawsuit against Visa on September 24, alleging monopolization of the debit card market. The DOJ, led by Attorney General Merrick Garland, accused Visa of violating Sections 1 and 2 of the Sherman Act by illegally maintaining a monopoly and preventing innovative alternatives. The sale's timing, months before the lawsuit became public, reignited debates about potential insider trading by congressional families. Visa's stock dropped 5.5% following the DOJ lawsuit announcement. The incident prompted renewed calls for legislative reforms to restrict stock trading by lawmakers and their spouses.

@@ -51,5 +51,4 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 The SEC settled a long-running enforcement action against Ripple Labs, agreeing to return $75 million of a $125 million fine and keeping $50 million, amid significant criticism from SEC Commissioner Caroline Crenshaw about undermining investor protections.

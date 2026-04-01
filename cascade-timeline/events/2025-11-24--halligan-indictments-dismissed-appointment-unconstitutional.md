@@ -46,7 +46,6 @@ capture_lanes:
 - Judicial Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 U.S. District Judge Patricia Tolliver Currie of the Eastern District of Virginia dismissed both the James Comey and Letitia James indictments, ruling that Lindsey Halligan's appointment as U.S. Attorney was unconstitutional.
 

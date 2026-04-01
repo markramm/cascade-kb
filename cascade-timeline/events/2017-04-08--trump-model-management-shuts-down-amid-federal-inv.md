@@ -49,6 +49,5 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 ---
-type: timeline_event
 
 Trump Model Management quietly closes operations after 18 years, amid ongoing investigations into visa fraud and labor violations. The shutdown comes as multiple former models speak publicly about being trafficked on fraudulent visas, forced to work illegally, and subjected to debt bondage through excessive fees. Industry sources report the agency's closure was accelerated by investigative journalism exposing systematic exploitation and potential criminal violations of immigration and labor laws. A CNNMoney investigation revealed extensive visa fraud allegations, with models like Alexia Palmer being paid far less than promised, challenging the agency's immigration and labor practices.

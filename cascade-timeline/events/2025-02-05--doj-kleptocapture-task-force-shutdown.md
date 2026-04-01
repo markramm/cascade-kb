@@ -47,5 +47,4 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 On February 5, 2025, Attorney General Pam Bondi announced the immediate dissolution of the KleptoCapture Task Force, a critical anti-corruption initiative established in 2022 to enforce sanctions on Russian oligarchs following Russia's invasion of Ukraine. The shutdown marks a significant policy reversal, redirecting resources from tracking transnational financial crimes to focusing on cartels and border enforcement. Transparency International warned that this move would 'significantly diminish the U.S.'s ability to counter transnational corruption'.

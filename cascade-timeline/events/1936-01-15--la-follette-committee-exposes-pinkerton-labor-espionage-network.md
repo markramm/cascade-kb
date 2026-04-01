@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 The La Follette Civil Liberties Committee subpoenas records from major private detective agencies in early 1936, exposing the vast scale of corporate labor espionage in American industry. The investigation reveals that the Pinkerton National Detective Agency, Burns International Detective Agency, and smaller firms maintain networks of thousands of labor spies infiltrated into unions at every level—from rank-and-file members to local presidents and even national officers. The committee's findings represent the most comprehensive exposure of private surveillance operations in American history.
 

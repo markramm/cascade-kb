@@ -41,6 +41,5 @@ sources:
   tier: 1
 notes: Committee investigator Amanda Wick testified that despite claims, the "Official Election Defense Fund" was a marketing tactic that never existed as a formal fund. Money went to Trump's Save America PAC and affiliated entities instead of election challenges.
 ---
-type: timeline_event
 
 House January 6th Committee's second hearing revealed Trump raised $250 million post-election through fraudulent "Official Election Defense Fund" that never existed. Committee found Trump's team sent up to 25 fraudulent fundraising emails daily, raising $100 million in first week after election loss. Only small fraction went to election challenges; most funded Trump's Save America PAC, paid campaign debts, and enriched Trump properties. Committee member Zoe Lofgren stated "The Big Lie was also a big rip-off."

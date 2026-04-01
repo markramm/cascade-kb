@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-type: timeline_event
 
 The Bush administration fired 9 U.S. attorneys in an unprecedented midterm purge for what investigators determined were largely political reasons. Seven prosecutors were ordered to resign on December 7, 2006, including David Iglesias (New Mexico), Carol Lam (Southern California), and John McKay (Washington). Two others, Todd Graves and Bud Cummins, were dismissed earlier in 2006. Internal emails revealed Karl Rove and Attorney General Alberto Gonzales orchestrated the firings to replace prosecutors with 'loyal Bushies.' Iglesias faced pressure from Senator Pete Domenici and Rep. Heather Wilson to file Democratic indictments before the 2006 election. Carol Lam was targeted after successfully prosecuting Republican Congressman Duke Cunningham and notifying DOJ about planned CIA search warrants. The Justice Department Inspector General's 2008 report found the process was 'arbitrary' and 'fundamentally flawed,' with 'substantial evidence' that partisan political considerations drove several firings. Gonzales testified to Congress he couldn't recall events 71 times and resigned in disgrace on September 17, 2007.

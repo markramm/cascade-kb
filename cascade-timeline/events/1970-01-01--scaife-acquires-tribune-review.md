@@ -64,7 +64,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Richard Mellon Scaife, heir to the Mellon banking and aluminum fortune, purchased the Tribune-Review newspaper in Greensburg, Pennsylvania for approximately $5 million in 1970, marking his entry into media ownership as part of a broader strategy to build conservative infrastructure. The acquisition implemented an early version of the Powell Memorandum's call for conservatives to establish independent media outlets to counter what they viewed as liberal bias in mainstream journalism. Scaife would later expand the Tribune-Review into Pittsburgh itself, creating a conservative alternative to the established Pittsburgh Post-Gazette.
 

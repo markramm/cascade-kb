@@ -37,7 +37,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Electoral Manipulation
 ---
-type: timeline_event
 
 # NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
 

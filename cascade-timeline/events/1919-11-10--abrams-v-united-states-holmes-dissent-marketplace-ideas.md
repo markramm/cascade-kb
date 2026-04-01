@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The Supreme Court upheld the Sedition Act convictions of five Russian Jewish immigrants who had distributed leaflets opposing U.S. military intervention against the Bolshevik Revolution. In a 7-2 decision, the majority found that criticizing American military policy and calling for a general strike satisfied the Sedition Act's prohibition on speech intended to hinder the war effort. The defendants received sentences of 15 to 20 years for distributing pamphlets.
 

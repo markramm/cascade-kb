@@ -39,7 +39,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---
-type: timeline_event
 
 In a dramatic twist on the final day of Trump's second impeachment trial, the Senate voted 55-45 on Saturday morning, February 13, 2021, to call witnesses—specifically Rep. Jaime Herrera Beutler of Washington, who possessed crucial testimony about a January 6 phone call between Trump and House Minority Leader Kevin McCarthy. Five Republicans joined all fifty Democrats in voting to subpoena Herrera Beutler: Senators Susan Collins of Maine, Lisa Murkowski of Alaska, Mitt Romney of Utah, Ben Sasse of Nebraska, and surprisingly Lindsey Graham of South Carolina. The surprise vote appeared to upend the trial's fast-tracked timeline and raised the possibility of a prolonged proceeding with extensive witness testimony. However, within hours, the Senate reversed course after Trump's defense team threatened to call "over 100 depositions" and Republican signals emerged that they would drag the trial out for weeks or months, making it impossible for the Biden administration to advance its legislative agenda.
 

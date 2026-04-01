@@ -47,7 +47,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-type: timeline_event
 McKinsey's influence at ICE grows to such an extent that McKinsey staff ghostwrite a government contracting document that defines the consulting team's own responsibilities and justifies the firm's retention—a contract extension worth $2.2 million. When an ICE official discovers this arrangement and writes to a contracting officer in May 2017 asking 'Can they do that?', the response reveals how deeply ICE has come to rely on McKinsey's assistance.
 
 'Well it obviously isn't ideal to have a contractor tell us what we want to ask them to do,' the contracting officer replies, acknowledging the impropriety. But the officer adds that unless someone from the government can articulate the agency's objectives, 'what other option is there?' Despite recognizing the ethical problem, ICE extends the contract based on McKinsey's self-authored justification.

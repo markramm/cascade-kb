@@ -41,7 +41,6 @@ capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 By mid-Reagan presidency, the structural mechanisms of permanent upward wealth redistribution are firmly established: union-busting destroys worker bargaining power, tax policy rewards capital over labor, financial deregulation enables speculation and asset stripping, and weakened antitrust enforcement allows corporate consolidation. The combination ensures that productivity gains flow to shareholders and executives rather than workers, establishing a four-decade pattern where GDP growth no longer improves living standards for working families. "Trickle-down economics" proves to be trickle-up in practice: wealth concentrates at the top while middle-class purchasing power stagnates.
 

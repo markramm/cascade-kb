@@ -33,5 +33,4 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 Joan Buenconsejo, who led FDA analysis of medical statistics for drug reviews including AstraZeneca products in 2012-2013, joined AstraZeneca as a director and biometrics team leader in June 2014. This transition exemplifies the systemic 'revolving door' problem in pharmaceutical regulation, where regulatory officials move directly to companies they previously regulated. While Buenconsejo claimed compliance with FDA recusal rules, her move raises significant questions about potential conflicts of interest in pharmaceutical oversight and the independence of regulatory processes.

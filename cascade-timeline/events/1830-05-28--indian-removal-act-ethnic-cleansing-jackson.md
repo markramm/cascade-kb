@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 President Andrew Jackson signs the Indian Removal Act into law, authorizing the president to grant lands west of the Mississippi River to Native American tribes in exchange for their ancestral homelands within existing state borders. The legislation passes narrowly in the House (102 to 97) despite vigorous opposition from Congressman Davy Crockett and others who recognize it as a transparent land grab benefiting white settlers, land speculators, and slaveholders seeking to expand cotton cultivation using enslaved labor. The Act establishes a legal framework for what becomes the forced displacement and ethnic cleansing of approximately 60,000 Native Americans from the "Five Civilized Tribes" (Cherokee, Muscogee, Seminole, Chickasaw, and Choctaw) between 1830 and 1850, demonstrating how federal institutions can be captured to serve economic elites while destroying indigenous communities.
 

@@ -33,7 +33,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 
 Following intense Congressional pressure and public outrage, Wells Fargo announces that CEO John Stumpf will forfeit $41 million in unvested stock awards and his 2016 salary and bonus. The clawback represents the board's first attempt to impose financial consequences on senior leadership for the fake accounts scandal. However, the forfeiture leaves Stumpf with approximately $130 million in accumulated wealth from his tenure, demonstrating the limits of compensation clawbacks as accountability mechanisms.
 

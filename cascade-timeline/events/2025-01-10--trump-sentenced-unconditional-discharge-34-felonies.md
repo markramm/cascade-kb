@@ -39,7 +39,6 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-type: timeline_event
 
 
 Ten days before his inauguration, Donald Trump was sentenced in the New York hush money case to an "unconditional discharge"—meaning he faces zero jail time, no fine, no probation, and no restrictions whatsoever despite being convicted of 34 felony counts of falsifying business records.

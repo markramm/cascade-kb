@@ -44,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On December 18, 2018, federal Judge Emmet Sullivan delivered a scathing rebuke to Michael Flynn during what was scheduled to be his sentencing hearing, telling Trump's former National Security Advisor "arguably you sold your country out" for working as an unregistered foreign agent while serving in the White House. The hearing, held in the U.S. District Court for the District of Columbia, took a dramatic turn when Sullivan questioned whether Flynn could have been charged with treason and expressed unconcealed disgust at Flynn's crimes. Rather than proceeding with sentencing, Flynn requested a delay to continue cooperating with federal prosecutors, postponing resolution of his case and setting the stage for years of legal maneuvering that ultimately ended with a presidential pardon.
 

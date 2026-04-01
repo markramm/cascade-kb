@@ -38,7 +38,6 @@ capture_lanes:
 - Military-Industrial Capture
 - Corporate Capture
 ---
-type: timeline_event
 The United States and Denmark formally announced a sweeping defense cooperation agreement on February 26, 2026, centering on Greenland and rebranded by the Trump administration as "Greenland Victory." The agreement was structured as a defense modernization and resource cooperation deal rather than a sovereignty transfer, allowing Denmark to maintain formal authority over Greenland while granting the United States expansive new privileges. Key provisions included expanded US military access to Pituffik Space Base, modernized radar and surveillance infrastructure across Greenland's Arctic territory, US mining rights to critical minerals in Greenland's resource-rich interior, and legal frameworks for rapid US force deployment through Danish territory.
 
 The agreement was framed around legitimate security concerns—reinforcing the GIUK Gap naval chokepoint against Russian submarine activity and countering Chinese encroachment on Arctic resources and shipping routes. The SHIELD defense contract associated with the deal was valued at over $150 billion, with funding tranches directed to major US defense contractors. But the path to the agreement had been paved by Trump's coercive economic threats, including tariff pressure on Danish goods, which had forced Copenhagen to negotiate under duress. Greenland Premier Mute Egede participated in the announcement but had limited leverage to shape terms that would primarily benefit US military and mining interests.

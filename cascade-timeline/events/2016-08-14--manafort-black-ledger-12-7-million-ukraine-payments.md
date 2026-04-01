@@ -47,7 +47,6 @@ capture_lanes:
 - International Kleptocracy
 - Systematic Corruption
 ---
-type: timeline_event
 
 On August 14, 2016, Ukraine's National Anti-Corruption Bureau revealed a secret "black ledger" documenting $12.7 million in undisclosed cash payments from Ukraine's former pro-Russian President Viktor Yanukovych's party to Paul Manafort, Donald Trump's campaign chairman, between 2007 and 2012. The revelation exposed that Trump's campaign was being run by someone who had received millions in illicit payments from a Kremlin-aligned Ukrainian regime, routed through offshore accounts to hide the transactions.
 

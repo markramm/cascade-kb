@@ -51,6 +51,5 @@ notes: Detailed financial entanglement demonstrates ongoing patterns of potentia
 capture_lanes:
 - Legislative Capture
 ---
-type: timeline_event
 
 Kash Patel, a prominent Trump administration figure, disclosed holding between $1 million and $5 million in stock from Elite Depot Limited, the parent company of Shein, a Chinese corporation facing bipartisan criticism for alleged use of forced labor. Senator Adam Schiff demanded a comprehensive explanation of Patel's foreign financial entanglements, highlighting potential conflicts of interest.

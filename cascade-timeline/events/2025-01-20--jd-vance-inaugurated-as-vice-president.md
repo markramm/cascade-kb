@@ -39,5 +39,4 @@ capture_lanes:
 - Democratic Erosion
 importance: 10
 ---
-type: timeline_event
 J.D. Vance was sworn in as the 50th Vice President of the United States on January 20, 2025, completing a remarkable political transformation from bestselling author and Trump critic to Trump's most prominent advocate. At 40 years old, he is the first millennial and third-youngest vice president in U.S. history. Vance quickly established himself as a key player in the Trump administration, serving as the president's primary legislative negotiator, casting critical tie-breaking votes in the Senate, and becoming the first vice president to simultaneously serve as the Republican National Committee finance chair. His role extends beyond traditional vice presidential duties, positioning him as a potential MAGA heir apparent for the 2028 presidential election.

@@ -42,7 +42,6 @@ capture_lanes:
 - Executive Power Expansion
 location: 'U.S. Capitol Rotunda, Washington, D.C.'
 ---
-type: timeline_event
 JD Vance is inaugurated as the 50th Vice President of the United States on January 20, 2025, sworn in by Supreme Court Justice Brett Kavanaugh in an indoor ceremony at the U.S. Capitol Rotunda. At 40 years old, Vance becomes the third-youngest VP in history, the first Millennial generation VP, and the first Marine Corps veteran to hold the office.
 
 Key Developments:

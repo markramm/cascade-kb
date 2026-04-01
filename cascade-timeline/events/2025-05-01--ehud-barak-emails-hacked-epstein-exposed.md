@@ -49,5 +49,4 @@ capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---
-type: timeline_event
 The Handala hacking group breached and released over 100,000 emails from former Israeli Defense Minister Ehud Barak through Distributed Denial of Secrets. The emails exposed extensive business partnerships between Barak and Jeffrey Epstein, including joint investments in surveillance technology companies like Carbyne, efforts to avoid security details during island visits, and coordination while Barak oversaw Unit 8200 (Israel's NSA equivalent). The leak provides documentary evidence of the intelligence-trafficking nexus operating through private commercial structures, revealing attempts to connect with Peter Thiel and Russian business networks.

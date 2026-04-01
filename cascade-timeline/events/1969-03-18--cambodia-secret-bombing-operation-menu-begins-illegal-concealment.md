@@ -39,7 +39,6 @@ capture_lanes:
 - Military-Industrial Complex
 status: confirmed
 ---
-type: timeline_event
 
 Nixon and Kissinger launch Operation Menu, a covert bombing campaign against neutral Cambodia conducted without congressional authorization or public knowledge. The secret carpet-bombing campaign—with missions codenamed Breakfast, Lunch, Dinner, Snack, Dessert, and Supper—is confirmed at an Oval Office meeting on March 17, 1969. Nixon decides to keep the bombing secret from the American people because admitting to bombing an officially neutral nation would damage his credibility and reveal he is escalating rather than ending the war.
 

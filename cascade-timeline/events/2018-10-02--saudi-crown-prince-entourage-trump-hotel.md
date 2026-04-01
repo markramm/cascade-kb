@@ -53,7 +53,6 @@ patterns:
 capture_lanes:
 - Media Capture & Control
 ---
-type: timeline_event
 
 Crown Prince Mohammed bin Salman's entourage booked approximately 500 rooms at 
 Trump International Hotel in New York during his U.S. visit, generating significant 

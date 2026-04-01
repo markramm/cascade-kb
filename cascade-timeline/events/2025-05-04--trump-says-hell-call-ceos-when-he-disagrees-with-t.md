@@ -46,5 +46,4 @@ notes: Event from comprehensive timeline tracking democratic erosion.
 capture_lanes:
 - 'Media Capture & Control'
 ---
-type: timeline_event
 Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos after Amazon announced it would indicate the cost of tariffs in customer billing, if their business decisions are seen as unfriendly to his administration

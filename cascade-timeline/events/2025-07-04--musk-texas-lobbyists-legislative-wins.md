@@ -46,5 +46,4 @@ tags:
 - elon-musk
 title: 'Musk''s Lobbying Team Secures Sweeping Legislative Wins in Texas'
 ---
-type: timeline_event
 Elon Musk deployed a sophisticated lobbying operation in Texas, hiring 12 lobbyists across SpaceX, Tesla, and X Corp. The team, including former advisors to Governor Greg Abbott, successfully influenced multiple legislative actions. They secured laws benefiting Musk's companies, including protections for SpaceX launch sites, drone restrictions, and business-friendly regulations, while exploiting Texas's weak lobbying transparency laws.

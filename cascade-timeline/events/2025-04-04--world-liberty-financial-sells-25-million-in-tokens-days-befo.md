@@ -58,5 +58,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 Trump's World Liberty Financial sold $25 million worth of tokens to Dubai-based DWF Labs on April 4, 2025, just three days before Trump's Justice Department announced disbanding of team that previously investigated crypto fraud cases. The Trump family holds 60% stake in World Liberty Financial and has earned approximately $500 million from the crypto platform. DWF Labs, previously accused of market manipulation, provided liquidity for World Liberty's upcoming USD1 stablecoin.

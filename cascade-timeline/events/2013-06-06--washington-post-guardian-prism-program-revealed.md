@@ -43,7 +43,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 The Washington Post and The Guardian simultaneously published explosive revelations about PRISM, a classified program allowing the National Security Agency and FBI to tap directly into the central servers of nine major U.S. internet companies to extract audio, video, photographs, emails, documents, and connection logs. The program, authorized under Section 702 of the FISA Amendments Act of 2008, enabled intelligence analysts to track individuals' movements and contacts over time.
 

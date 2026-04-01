@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Corporate Capture
 ---
-type: timeline_event
 
 # Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack
 

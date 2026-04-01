@@ -43,7 +43,6 @@ capture_lanes:
 - Military-Industrial Complex
 - Regulatory Capture
 ---
-type: timeline_event
 
 Following grassroots organizing success at Buffalo stores in late 2021, Starbucks launches a systematic illegal union-busting campaign that generates over 500 unfair labor practice charges—likely the largest number facing any company in the 90-year history of the National Labor Relations Board. The NLRB files over 80 formal complaints against Starbucks for violating federal labor law, with administrative law judges finding the company broke the law 130 times across six states, including illegally firing approximately 200 pro-union workers since the organizing drive began.
 

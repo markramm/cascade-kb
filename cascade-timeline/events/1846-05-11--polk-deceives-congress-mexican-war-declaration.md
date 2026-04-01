@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 President James K. Polk presented Congress with a war message on May 11, 1846, claiming that Mexico "has at last invaded our territory and shed the blood of our fellow-citizens on our own soil" after Mexican forces killed or wounded 16 U.S. soldiers in disputed territory between the Nueces River and Rio Grande. Polk's message deliberately concealed that he had been preparing a war declaration before learning of the skirmish, and that he had ordered General Zachary Taylor to move forces into the contested area in July 1845 specifically to provoke Mexican attack. Ulysses S. Grant, who served as a lieutenant in Taylor's army despite opposing the war, later wrote in his memoirs that the main goal of advancing from the Nueces to the Rio Grande "was to provoke the outbreak of war without attacking first, to debilitate any political opposition."
 

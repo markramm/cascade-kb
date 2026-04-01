@@ -59,5 +59,4 @@ international_response:
     NATO: Gravest threat to European security since Cold War - Anders Fogh Rasmussen
 priority_id: capture-cascade-part3-russian-financial-network-penetration-strategy-201-20250909-182422
 ---
-type: timeline_event
 President Vladimir Putin signed a treaty formally incorporating Crimea into the Russian Federation following a disputed referendum held under Russian military occupation. Putin claimed Crimea was 'an inseparable part of Russia', dismissing international condemnation. The annexation was universally condemned by Western powers, with the United States and European Union imposing immediate sanctions and diplomatic consequences. This event marked the first territorial seizure in Europe since World War II, dramatically escalating tensions between Russia and the international community.

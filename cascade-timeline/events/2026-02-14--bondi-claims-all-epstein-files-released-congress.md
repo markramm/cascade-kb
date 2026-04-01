@@ -42,7 +42,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Legislative Capture
 ---
-type: timeline_event
 
 Attorney General Pam Bondi sent a six-page letter on February 14, 2026 to the chairs and ranking members of the House and Senate Judiciary Committees asserting that the Department of Justice had released all records in its possession relating to Jeffrey Epstein and Ghislaine Maxwell, subject only to limited redactions permitted by the Epstein Files Transparency Act. The letter was co-signed by Deputy Attorney General Todd Blanche and included a list of approximately 340 names purportedly appearing in the released files, presented as a demonstration of the department's transparency.
 

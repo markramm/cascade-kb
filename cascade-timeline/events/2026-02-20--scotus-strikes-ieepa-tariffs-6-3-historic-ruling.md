@@ -42,7 +42,6 @@ capture_lanes:
 - Corporate Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 The United States Supreme Court ruled 6-3 on February 20, 2026, that President Trump's use of the International Emergency Economic Powers Act to impose sweeping tariffs exceeded the statute's authority, delivering a historic limitation on executive trade power. Chief Justice John Roberts authored the majority opinion, holding that while IEEPA authorizes the president to impose financial sanctions and trade restrictions related to specific, declared national security emergencies, the statute does not grant blanket authority to impose tariffs as a general trade policy instrument. The decision struck down tariffs that had been imposed on multiple countries under the IEEPA framework.
 
 The ruling represented the most significant judicial check on presidential trade authority in decades. Roberts's opinion carefully distinguished between IEEPA's legitimate emergency powers—blocking assets, restricting financial transactions, and imposing targeted trade embargoes in response to genuine national security threats—and the administration's expansive interpretation that any economic concern could be declared an emergency justifying tariff barriers. The majority found that Congress had delegated tariff authority through other specific statutes with their own procedural requirements and limitations, and that reading IEEPA to also authorize tariffs would render those statutory frameworks meaningless.

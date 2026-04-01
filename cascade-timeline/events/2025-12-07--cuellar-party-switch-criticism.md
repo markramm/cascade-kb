@@ -38,7 +38,6 @@ capture_lanes:
 - Electoral Manipulation
 status: reported
 ---
-type: timeline_event
 
 # Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon
 

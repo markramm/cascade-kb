@@ -45,7 +45,6 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 President Barack Obama dramatically expands the CIA's drone strike program in his first year in office, authorizing more strikes than George W. Bush conducted during his entire presidency. The expansion transforms armed drones from a limited counterterrorism tool into a systematic assassination program operating across multiple countries outside active war zones, including Pakistan, Yemen, and Somalia. The program operates with minimal transparency, accountability, or legal oversight, normalizing extrajudicial killings that violate international law and cause extensive civilian casualties.
 

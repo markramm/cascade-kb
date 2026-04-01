@@ -56,7 +56,6 @@ sources:
   date: '2023-06-02'
   tier: 1
 ---
-type: timeline_event
 YouTube announced on June 2, 2023, that it would no longer remove content making false claims about past U.S. elections, including content alleging fraud or interference in the 2020 presidential election. The policy reversal ended a rule YouTube had implemented following the January 6, 2021 Capitol attack, when the platform had begun removing videos falsely claiming that the 2020 election was stolen. YouTube's stated rationale was that removing such content could have unintended consequences for election discussions, including commentary on electoral fraud allegations in other countries.
 
 The platform said it would instead rely on context labels and recommendation interventions to address election misinformation rather than removal. Critics, including researchers who study online misinformation, warned that YouTube's decision would allow the platform to once again become a major distribution channel for election denialism. The New York Times noted that YouTube had been one of the primary platforms through which election fraud narratives had spread in 2020 before the platform began enforcing its policies more aggressively following January 6th.

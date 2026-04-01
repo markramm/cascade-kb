@@ -29,7 +29,6 @@ capture_lanes:
 - Systematic Corruption
 status: reported
 ---
-type: timeline_event
 
 President Trump signed an executive order titled 'Ensuring Continued Accountability in Federal Hiring' on October 15, 2025, extending the federal hiring freeze and requiring all federal hiring decisions to be approved by 'Strategic Hiring Committees' consisting of senior agency leadership. The order mandates that no federal civilian position may be filled except as approved by these committees, which must ensure hiring 'focuses on agency needs, the national interest, and Administration priorities.'
 

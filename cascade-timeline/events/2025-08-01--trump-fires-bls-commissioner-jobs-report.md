@@ -34,7 +34,6 @@ sources:
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 President Trump fired Bureau of Labor Statistics Commissioner Erika McEntarfer on August 1, 2025, hours after a government report showed the U.S. economy added only 73,000 jobs in July, far below expectations, with downward revisions of 258,000 jobs for May and June combined. Trump accused McEntarfer of 'rigging' the numbers and 'faking' the data 'for political purposes,' providing no evidence for his claims.
 

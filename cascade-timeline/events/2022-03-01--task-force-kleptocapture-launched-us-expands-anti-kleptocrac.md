@@ -43,5 +43,4 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 Attorney General Merrick Garland established Task Force KleptoCapture, an unprecedented interagency law enforcement unit dedicated to enforcing sanctions and seizing assets of Russian kleptocrats following the Ukraine invasion. The initiative represents a major expansion of US anti-corruption enforcement capabilities, leveraging cutting-edge investigative techniques to track and disrupt financial misconduct by Russian officials and oligarchs, with a focus on sanctions violations, cryptocurrency evasion, and strategic asset seizures.

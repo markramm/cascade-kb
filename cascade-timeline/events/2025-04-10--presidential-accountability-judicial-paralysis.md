@@ -37,5 +37,4 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 A series of federal court rulings reveals systemic weaknesses in holding the executive branch accountable. Multiple circuit courts issue conflicting opinions on subpoena enforcement, executive privilege, and criminal investigations, demonstrating a fundamental breakdown in traditional checks and balances.

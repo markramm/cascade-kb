@@ -47,5 +47,4 @@ tags:
 - financial-regulation
 title: Coinbase says SEC intends to drop lawsuit against crypto exchange
 ---
-type: timeline_event
 The SEC agreed to drop its two-year lawsuit against Coinbase, marking a potential shift in the regulatory agency's approach to cryptocurrency exchanges. Initially filed in June 2023, the lawsuit accused Coinbase of operating an unregistered securities exchange. The dismissal came after Coinbase spent over $50 million in legal defense and continued to challenge the SEC's regulatory interpretation.

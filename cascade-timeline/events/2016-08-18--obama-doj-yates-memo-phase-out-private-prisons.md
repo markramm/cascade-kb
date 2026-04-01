@@ -38,7 +38,6 @@ capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
 ---
-type: timeline_event
 
 Deputy Attorney General Sally Yates issues a memorandum directing the Bureau of Prisons (BOP) to discontinue outsourcing operations to private entities and either decline to renew contracts or substantially reduce their scope as they expire. The memo cites a comprehensive Office of Inspector General report finding that for-profit prisons are more dangerous and no less costly than public facilities. Yates writes: "Private prisons served an important role during a difficult period, but time has shown that they compare poorly to our own Bureau facilities."
 

@@ -40,7 +40,6 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Lyndon B. Johnson signs the Civil Rights Act of 1964 into law, prohibiting discrimination based on race, color, religion, sex, or national origin in employment and public accommodations. The legislation passes only after defeating a 60-working-day filibuster led by the "Southern Bloc" of 18 southern Democratic Senators and Republican John Tower of Texas, organized by Senator Richard Russell (D-GA).
 

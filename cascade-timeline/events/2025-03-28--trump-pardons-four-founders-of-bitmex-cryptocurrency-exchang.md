@@ -49,5 +49,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 Trump has granted full pardons to BitMEX co-founders Arthur Hayes, Benjamin Delo, and Samuel Reed, who were convicted of violating the Bank Secrecy Act for failing to implement anti-money laundering controls

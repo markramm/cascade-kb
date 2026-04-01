@@ -48,5 +48,4 @@ tags:
 - trump-administration
 title: FDIC says banks can engage in crypto activities without prior approval
 ---
-type: timeline_event
 The FDIC issued Financial Institution Letter (FIL-7-2025) on March 28, 2025, removing prior approval requirements for banks' crypto-related activities. Acting Chairman Travis Hill announced a significant policy shift, allowing FDIC-supervised institutions to engage in crypto-related activities without pre-approval, effectively reversing the restrictive approach from 2022.

@@ -57,7 +57,6 @@ connections:
 - Engagement-based ranking harms
 notes: Guillaume Chaslot founded AlgoTransparency after leaving YouTube to document how the recommendation algorithm systematically amplifies misinformation. Google prioritized watch time maximization despite internal warnings about radicalization effects.
 ---
-type: timeline_event
 
 By 2016, YouTube's recommendation algorithm had become what researchers characterized as a "radicalization engine"—systematically amplifying extremist content and pushing users down rabbit holes of increasingly radical videos because extreme content generated more watch time, which was the algorithm's optimization target.
 

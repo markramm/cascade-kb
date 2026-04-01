@@ -48,5 +48,4 @@ capture_lanes:
 - Systematic Corruption
 - Financial Capture
 ---
-type: timeline_event
 President Trump's $TRUMP memecoin generated nearly $900,000 in insider trading fees through a dinner contest where top 220 buyers spent over $140 million to secure an invitation. CIC Digital, a Trump Organization affiliate, receives trading revenue, raising significant ethical questions about conflict of interest and regulatory capture in cryptocurrency markets.

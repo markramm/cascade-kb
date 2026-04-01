@@ -35,7 +35,6 @@ capture_lanes:
 - Civil Rights Suppression
 status: confirmed
 ---
-type: timeline_event
 
 Around 30,000 union members—half of New Orleans' workforce and virtually all its unionized workers—strike on November 8, 1892, after the Board of Trade refuses to negotiate with the predominantly Black Teamsters union while offering contracts to white-dominated Scalesmen and Packers unions. Streetcars stop running, utility workers defy the governor's demands and labor committee's advice to join the strike, and the city's natural gas supply fails along with the electrical grid, plunging New Orleans into darkness. The strike represents the first time in U.S. history that Black and white workers carry out a general strike together, demonstrating that interracial working-class solidarity can overcome Deep South racism when workers refuse to break ranks along racial lines. The victory proves temporary but historically significant, showing both the possibility and fragility of multiracial labor organizing in the Jim Crow era.
 

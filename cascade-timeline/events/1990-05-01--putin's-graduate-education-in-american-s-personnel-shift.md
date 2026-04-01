@@ -45,6 +45,5 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 In May 1990, Vladimir Putin transitioned from active KGB service to local government, becoming an international affairs advisor to St. Petersburg Mayor Anatoly Sobchak. This pivotal moment marked a complex personnel migration from intelligence services into emerging democratic administrative roles, with Putin leveraging his KGB background to gain significant economic and political influence in the post-Soviet institutional landscape.

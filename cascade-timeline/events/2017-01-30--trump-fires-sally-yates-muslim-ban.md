@@ -34,7 +34,6 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 ---
-type: timeline_event
 
 President Trump fired Acting Attorney General Sally Yates within hours of her instructing Justice Department attorneys not to defend Executive Order 13769 (the Muslim ban). Yates had sent a letter to DOJ staff stating she was "not convinced that the defense of the Executive Order is consistent with these responsibilities" and would not authorize DOJ lawyers to present arguments defending the order.
 

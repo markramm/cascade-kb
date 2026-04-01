@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 Fifty-three recently abducted Africans being transported aboard the Spanish schooner Amistad from Havana to Puerto Príncipe, Cuba revolt under the leadership of Joseph Cinqué, killing the captain and cook while sparing the Spanish navigator to sail them back to Sierra Leone. The Africans had been illegally kidnapped from Sierra Leone in February 1839 by Portuguese slave hunters and shipped to Havana in violation of all existing treaties, then purchased by Spanish plantation owners Pedro Montes and Jose Ruiz for transport to Caribbean plantations. The navigator tricks the captives by sailing generally northward instead of eastward to Africa, and after two months the U.S. Navy seizes the Amistad off Long Island, New York, towing it to New London, Connecticut. This initiates a legal battle that becomes the most important court case involving slavery before Dred Scott v. Sandford in 1857.
 

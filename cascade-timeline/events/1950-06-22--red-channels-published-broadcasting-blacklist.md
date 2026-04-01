@@ -47,7 +47,6 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 American Business Consultants Inc. publishes Red Channels: The Report of Communist Influence in Radio and Television on June 22, 1950, as an anti-Communist pamphlet-style book naming 151 actors, writers, musicians, broadcast journalists, and others in the context of purported Communist manipulation of the entertainment industry. The organization was founded in May 1947 when Alfred Kohlberg, an American textile importer and ardent member of the anti-Communist China Lobby, funded three former FBI agents to issue a newsletter called Counterattack. The three founder members are John G. Keenan (company president and businessman), Kenneth M. Bierly (who later becomes a consultant to Columbia Pictures), and Theodore C. Kirkpatrick (managing editor of Counterattack and the group's spokesman). The introduction to Red Channels is written by Vincent Hartnett, an employee of the Phillips H. Lord agency, an independent radio-program production house.
 

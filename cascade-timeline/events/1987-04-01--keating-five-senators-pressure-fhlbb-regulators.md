@@ -51,6 +51,5 @@ sources:
   tier: 1
 status: confirmed
 ---
-type: timeline_event
 
 Five U.S. Senators—Alan Cranston (D-CA), Dennis DeConcini (D-AZ), John Glenn (D-OH), John McCain (R-AZ), and Donald Riegle (D-MI)—meet with Federal Home Loan Bank Board officials to pressure them to halt regulatory investigation of Charles Keating's Lincoln Savings and Loan. The senators had received $1.5 million in campaign contributions from Keating in exchange for regulatory intervention. Following the meeting, the FHLBB backs off enforcement action against Lincoln, demonstrating successful legislative capture of financial regulation. This coordination between industry money and senatorial pressure exemplifies systematic corruption across branches of government.

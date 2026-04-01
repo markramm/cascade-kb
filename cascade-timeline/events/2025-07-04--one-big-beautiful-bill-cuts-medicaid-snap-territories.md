@@ -40,5 +40,4 @@ sources:
 notes: 'H.R. 1 passes House 218-214 on July 3, Senate 51-50 with amendment, Trump signs July 4. Largest cuts to Medicaid and food assistance in American history. $863 billion in Medicaid cuts over 10 years, reducing enrollment by 10.3 million people by 2034. CBO estimates 11.8 million lose health coverage. SNAP slashed by at least $120 billion, federal contribution drops from 50% to 25% of administrative costs. Delegate Plaskett warns Virgin Islands local government must "act creatively to remedy impacts of federal cuts locally." Territories already face Medicaid funding caps unlike states. Bill adds $3.4 trillion to national debt despite massive social program cuts.'
 status: confirmed
 ---
-type: timeline_event
 Trump signs "One Big Beautiful Bill Act" on July 4, 2025, enacting $863 billion in Medicaid cuts and gutting SNAP by $120 billion, with devastating impacts on US territories already facing discriminatory funding caps, forcing 10.3 million off healthcare while adding trillions to debt

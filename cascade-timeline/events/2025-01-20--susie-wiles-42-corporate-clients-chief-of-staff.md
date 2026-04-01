@@ -53,5 +53,4 @@ connections:
 - 2025-01-20--project-2025-implementation
 notes: 'Comprehensive documentation of Susie Wiles'' lobbying history shows extensive corporate entanglements that directly contradict administration''s stated priorities. Her representation of companies fighting environmental regulations, public health measures, and waste management cleanup raises significant conflict of interest concerns.'
 ---
-type: timeline_event
 Trump Chief of Staff Susie Wiles brings unprecedented corporate lobbying influence into the White House, with a documented history of representing 42 controversial clients across tobacco, mining, waste management, and media industries. Her appointment represents a direct conflict of interest between stated administration priorities and her previous corporate lobbying activities.

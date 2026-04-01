@@ -37,7 +37,6 @@ capture_lanes:
 actors:
 - Donald Trump
 ---
-type: timeline_event
 Between 1991 and 2009, Donald Trump's hotel and casino businesses filed for Chapter 11 bankruptcy protection six times, establishing a clear pattern: borrow heavily using high-interest debt and other people's money, operate businesses unprofitably or make unrealistic revenue projections, and when debt service becomes unsustainable, use bankruptcy protection to force creditors to absorb billions in losses while Trump personally walks away with reduced ownership stakes but continued income from licensing fees and management contracts. The six bankruptcies—Trump Taj Mahal (1991), Trump Castle (1992), Trump Plaza Casino (1992), Plaza Hotel Manhattan (1992), Trump Hotels and Casino Resorts (2004), and Trump Entertainment Resorts (2009)—cost bondholders, banks, and small business creditors billions of dollars while Trump personally avoided bankruptcy and continued profiting from the failed enterprises.
 
 ## The Leverage-and-Default Model

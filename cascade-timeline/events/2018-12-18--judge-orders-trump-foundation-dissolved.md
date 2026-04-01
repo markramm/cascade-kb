@@ -37,7 +37,6 @@ capture_lanes:
 - Judicial Capture
 - Financial Capture
 ---
-type: timeline_event
 
 New York State Supreme Court Justice Saliann Scarpulla issued an order formally dissolving the Donald J. Trump Foundation and directing the distribution of its remaining $1.78 million in assets to eight legitimate charities under court and Attorney General supervision. The dissolution order came after the Foundation stipulated to illegal coordination with Trump's 2016 presidential campaign and acknowledged systematic violations of laws governing charitable organizations. Justice Scarpulla's order required detailed accounting of all foundation transactions and maintained the court's jurisdiction over claims seeking $2.8 million in restitution and penalties against Trump personally and his adult children who served as foundation board members.
 

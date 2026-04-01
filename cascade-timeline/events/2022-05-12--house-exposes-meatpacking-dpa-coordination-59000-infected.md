@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-type: timeline_event
 
 The House Select Subcommittee on the Coronavirus Crisis, chaired by Representative James Clyburn, released findings from an investigation spanning over 151,000 pages of internal documents from meatpacking companies and the U.S. Department of Agriculture. The investigation revealed that major meatpacking corporations — Tyson Foods, JBS USA, Smithfield Foods, and Cargill — had directly drafted language for President Trump's April 2020 executive order invoking the Defense Production Act to keep slaughterhouses open during the pandemic. The companies crafted the DPA order not to address a genuine supply emergency but to shield themselves from liability and override state and local public health authorities that were attempting to shut down plants experiencing massive COVID-19 outbreaks.
 

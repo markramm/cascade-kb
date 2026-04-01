@@ -41,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 Secretary of State John Hay issues a diplomatic circular to Great Britain, Germany, France, Italy, Japan, and Russia articulating the "Open Door" policy for China, advocating three principles: (1) no power would interfere with trading rights of other nations within its sphere of influence; (2) Chinese tariff duties should be collected by Chinese officials; and (3) no power should levy discriminatory harbor dues or railroad charges against other powers. The policy, formulated by William Woodville Rockhill to safeguard American business opportunities in response to concerns about losing market access as imperial powers carve China into competing spheres of influence, represents what historian William Appleman Williams describes as "America's version of the liberal policy of informal empire or free trade imperialism." Hay invokes high-minded principles of anticolonialism, self-determination, and equal opportunity while showing hardheaded determination to protect American capitalists' interests by promoting access to overseas markets—a blend of proclaimed selflessness and relentless self-interest that becomes characteristic of American diplomacy.
 

@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Despite campaign rhetoric opposing Wall Street, Trump appointed an unprecedented concentration of Goldman Sachs executives to key positions. Gary Cohn, who received a $285 million severance from Goldman, became National Economic Council Director. Steven Mnuchin, a 17-year Goldman partner who initially failed to disclose $95 million in assets, became Treasury Secretary. Dina Powell served as Deputy National Security Adviser. Jay Clayton, longtime Goldman attorney, chaired the SEC. Even Steve Bannon and Anthony Scaramucci had Goldman backgrounds. Critics dubbed the administration 'Government Sachs' as these appointees rolled back Dodd-Frank regulations and reduced SEC enforcement against financial institutions.

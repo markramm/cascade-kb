@@ -43,7 +43,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Rep.-Elect Adelita Grijalva (D-AZ) was sworn in to the House of Representatives at 4:00 PM on November 12, 2025, seven weeks after winning a special election on September 23, 2025. Upon swearing-in, she is expected to sign the **Epstein Files Transparency Act discharge petition** as the **218th and final signature required**, triggering mandatory House procedures to force a vote on releasing all unclassified Jeffrey Epstein investigation files.
 

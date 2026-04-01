@@ -39,7 +39,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-type: timeline_event
 
 The Federalist-controlled Congress passes the Alien and Sedition Acts, a set of four statutes that restrict immigration and criminalize criticism of the federal government under the guise of national security during tensions with France. The legislation increases the residency requirement for citizenship from five to fourteen years, empowers the president to deport any alien considered dangerous, and makes it a crime to publish "false, scandalous, and malicious writing" against the government or president. The Adams administration selectively prosecutes only Democratic-Republican newspaper editors and politicians, resulting in 51 federal prosecutions involving 126 defendants, with ten convictions including four top Jeffersonian-Republican newspaper editors.
 

@@ -38,5 +38,4 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 ---
-type: timeline_event
 Foreign Policy and other analysts published comprehensive assessments highlighting the systematic dismantling of anti-corruption infrastructure during the Trump administration. Key concerns include the closure of the Kleptocracy Asset Recovery Initiative, a six-month pause on Foreign Corrupt Practices Act investigations, and the firing of multiple inspectors general, suggesting a deliberate strategy to weaken democratic accountability mechanisms.

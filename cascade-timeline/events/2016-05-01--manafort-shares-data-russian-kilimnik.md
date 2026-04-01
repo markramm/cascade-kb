@@ -48,5 +48,4 @@ sources:
 notes: Senate found Kilimnik was Russian intelligence officer. Data included internal polling from key swing states. Used to target disinformation. Manafort owed millions to Russian oligarch Deripaska. U.S. Treasury confirmed Kilimnik provided polling data to Russian Intelligence Services.
 status: confirmed
 ---
-type: timeline_event
 Trump campaign chairman Paul Manafort shares internal polling data with Russian intelligence agent Konstantin Kilimnik for Ukrainian oligarchs when Trump clinches nomination. U.S. Treasury confirmed in 2021 that Kilimnik provided the Russian Intelligence Services with sensitive information on campaign polling and strategy, establishing a direct link between the Trump campaign and Russian intelligence.

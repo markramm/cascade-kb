@@ -43,7 +43,6 @@ capture_lanes:
 - Democratic Erosion
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 U.S. District Judge Jeffrey Bryan ordered the immediate release of Garrison Gibson, ruling that ICE agents violated his Fourth Amendment rights when they used a battering ram to break into his north Minneapolis home on January 11, 2026, armed only with administrative paperwork rather than a judicial warrant.
 

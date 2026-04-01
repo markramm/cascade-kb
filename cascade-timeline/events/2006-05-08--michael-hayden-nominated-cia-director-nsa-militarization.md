@@ -39,6 +39,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Bush nominates Air Force General Michael Hayden as CIA Director despite his role in implementing illegal NSA warrantless surveillance programs. Hayden's appointment represented unprecedented militarization of CIA leadership and sparked Senate concerns about further politicization of intelligence. His confirmation hearings revealed extensive involvement in constitutional violations and efforts to expand surveillance without legal authorization, breaking traditional civilian control of CIA.

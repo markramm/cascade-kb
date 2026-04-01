@@ -35,5 +35,4 @@ sources:
   verified: true
   outlet: Upi
 ---
-type: timeline_event
 Albert Fall, former Secretary of the Interior under President Warren Harding, was found guilty of accepting bribes from oil executive Edward Doheny and sentenced to one year in prison and a $100,000 fine. Fall became the first presidential Cabinet member in American history to be convicted of a crime committed while in office. The conviction occurred on October 25, 1929 - the same day as Black Thursday, the start of the stock market crash. In a remarkable legal paradox, Fall was convicted of accepting the bribe, but Doheny was acquitted in 1930 of paying it. Sinclair was also acquitted of bribery but served time for contempt. The Teapot Dome scandal became the benchmark for government corruption until Watergate, when Attorney General John Mitchell became the second Cabinet member imprisoned.

@@ -35,5 +35,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 USAID officially eliminated by July 1, 2025—faster and more comprehensively than Project 2025 anticipated—with 92% of international development grants terminated and functions folded into State Department. This marks a dramatic reduction of American diplomatic soft power, with over 80% of USAID programs discontinued. Secretary of State Marco Rubio announced the complete termination of the agency as an independent entity, effectively ending USAID's 64-year history.

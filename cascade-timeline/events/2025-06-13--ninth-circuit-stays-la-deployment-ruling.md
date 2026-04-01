@@ -44,6 +44,5 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 Three-judge panel unanimously reverses Judge Breyer's ruling blocking 4,000 Guard and 700 Marines in LA. Court accepts Trump's claim protesters 'pinned down' federal officers, threw concrete chunks. Applies 'extremely deferential standard' despite no evidence ICE raids were actually thwarted.

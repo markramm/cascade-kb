@@ -35,7 +35,6 @@ tags:
 title: ICE Announces Workforce Doubled to 22,000 Agents Through "Defend Your Culture"
   Recruitment Campaign
 ---
-type: timeline_event
 
 ICE announced its workforce more than doubled from 10,000 to 22,000 agents in less than a year, crediting the unprecedented recruitment campaign launched under the "Stronger Border, Stronger America" initiative. DHS received over 150,000 applications from what it called "patriotic Americans."
 

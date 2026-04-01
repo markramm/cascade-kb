@@ -48,7 +48,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump proposed hosting the 2020 G-7 summit at his Trump National Doral 
 golf resort in Miami, which would have directed millions in government spending 

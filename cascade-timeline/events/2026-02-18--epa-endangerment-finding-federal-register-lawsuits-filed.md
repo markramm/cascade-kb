@@ -63,7 +63,6 @@ capture_lanes:
 - Environmental Capture
 - Legal System Capture
 ---
-type: timeline_event
 
 The EPA's final rule rescinding the 2009 Greenhouse Gas Endangerment Finding was published in the Federal Register on February 18, 2026 (Vol. 91, No. 32), setting an effective date of April 20, 2026. Within hours, two separate coalition lawsuits were filed in the U.S. Court of Appeals for the District of Columbia Circuit, initiating what legal experts expect to be years of major constitutional and statutory litigation.
 

@@ -44,5 +44,4 @@ tags:
 - labor-rights
 title: Labor leaders fear Elon Musk and DOGE could gain access to whistleblower files
 ---
-type: timeline_event
 The AFL-CIO and former OSHA officials filed a lawsuit warning that Elon Musk's Department of Government Efficiency (DOGE) operatives are embedded at the Department of Labor, potentially gaining access to sensitive whistleblower files. Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations, raising significant concerns about regulatory capture and potential misuse of confidential information.

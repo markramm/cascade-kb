@@ -37,5 +37,4 @@ sources:
   verified: true
   outlet: Bmwe
 ---
-type: timeline_event
 Attorney General Harry Daugherty secured a sweeping federal injunction that prohibited virtually any action by railway shop craft workers in furtherance of the largest railway strike in U.S. history. The 1922 strike involved hundreds of thousands of workers fighting wage reductions ordered by the Railroad Labor Board and employer attempts to replace established unions with company unions. The Harding administration's injunction broke the strike by making collective action illegal, establishing a precedent for using federal courts to suppress labor organizing. Employers exploited their strong postwar position to weaken unionized railway crafts through company unions and other anti-union tactics. The Railroad Labor Board, rather than providing relief to workers, ruled in favor of wage reductions during the 1921 recession. The strike's defeat through government intervention exposed the inadequacy of existing labor law and ultimately forced revision of railway labor law in 1926, though workers had already suffered a major defeat.

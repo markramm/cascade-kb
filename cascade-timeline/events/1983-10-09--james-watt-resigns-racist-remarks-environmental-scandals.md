@@ -47,7 +47,6 @@ capture_lanes:
 - Regulatory Capture
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 Interior Secretary James Watt announces his resignation after describing a department panel as having "a black, a woman, two Jews and a cripple," mocking affirmative action. Watt resigns within three weeks of the September comments amid bipartisan condemnation. His controversial 33-month tenure exemplified industry capture of public lands management: accelerating oil, gas, and coal leasing on federal lands while opposing wilderness protection and weakening environmental regulations. The resignation follows months of escalating scandals including banning the Beach Boys from the National Mall for attracting "the wrong element" of young people he associated with drugs and alcohol.
 

@@ -54,6 +54,5 @@ connections:
 - Government-industry personnel migration
 notes: Critical case study demonstrating systemic conflicts of interest in pharmaceutical regulation, where regulators can directly transition to executive roles in the companies they previously oversaw.
 ---
-type: timeline_event
 
 Dr. Patrizia Cavazzoni, former head of the FDA's Center for Drug Evaluation and Research (CDER), immediately transitioned to Pfizer as chief medical officer, reigniting intense debate about the pharmaceutical industry's regulatory influence and the problematic 'revolving door' between government agencies and private corporations.

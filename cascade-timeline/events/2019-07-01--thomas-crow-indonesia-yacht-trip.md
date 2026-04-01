@@ -46,7 +46,6 @@ sources:
 notes: 'Trip included private jet travel and luxury yacht excursion. Thomas only acknowledged after ProPublica reporting in 2024, claiming "inadvertent omission".'
 status: confirmed
 ---
-type: timeline_event
 Thomas accepts luxury trip to Bali including eight-day yacht excursion and private jet travel, later acknowledges he "inadvertently omitted" reporting after ProPublica investigation
 
 In July 2019, Justice Clarence Thomas and his wife Virginia "Ginni" Thomas accepted a luxury trip to Bali, Indonesia, paid for by conservative megadonor Harlan Crow. The trip included private jet transportation and an eight-day excursion aboard Crow's superyacht, the Michaela Rose — a vessel valued at over $80 million. The total value of the transportation and accommodations far exceeded federal financial disclosure thresholds that would have required reporting, yet Thomas did not disclose the trip on his annual financial disclosure forms.

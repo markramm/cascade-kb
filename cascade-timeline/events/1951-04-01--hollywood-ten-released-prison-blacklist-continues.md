@@ -42,7 +42,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 In early 1951, the Hollywood Ten—screenwriters and directors cited for contempt of Congress in 1947 for refusing to answer HUAC's questions about Communist Party membership—were released after serving prison terms ranging from six months to one year. Their freedom from incarceration, however, brought no freedom to work. The entertainment industry's blacklist ensured they remained unemployable under their own names for years to come.
 

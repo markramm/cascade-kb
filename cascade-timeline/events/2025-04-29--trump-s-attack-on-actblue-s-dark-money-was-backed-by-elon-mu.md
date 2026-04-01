@@ -42,5 +42,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-type: timeline_event
 President Trump directed the Department of Justice to investigate ActBlue, alleging illegal campaign contributions and foreign donor fraud. The investigation was backed by Elon Musk, who claimed the platform was involved in widespread criminal identity theft.

@@ -46,5 +46,4 @@ patterns:
 status: confirmed
 notes: 'Settlement appears strategically timed to support Paramount''s pending corporate transaction with Skydance Media. Demonstrates ongoing pattern of using legal actions to intimidate media organizations.'
 ---
-type: timeline_event
 Paramount Global agreed to pay $16 million to settle a lawsuit by President Donald Trump over a 2024 campaign-related '60 Minutes' interview with Kamala Harris. The settlement, viewed as a strategic move to facilitate a pending corporate transaction, involves no apology and a commitment to release future candidate interview transcripts.

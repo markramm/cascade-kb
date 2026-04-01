@@ -56,7 +56,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 11, 2026 -- Day 12 of Operation Epic Fury -- Iran's Islamic Revolutionary Guard Corps struck a cargo ship in the Strait of Hormuz with drone and missile fire, further disrupting the critical chokepoint through which approximately 20 percent of the world's seaborne oil trade transits daily. The IRGC simultaneously launched its latest wave of attacks on Gulf nations, with the Israel Defense Forces reporting that ballistic missiles were launched from Iranian territory toward Israel, triggering air raid sirens and interception operations across multiple Israeli cities.
 

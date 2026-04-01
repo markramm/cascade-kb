@@ -35,7 +35,6 @@ capture_lanes:
 - Legislative Capture
 - Judicial Capture
 ---
-type: timeline_event
 
 The Alabama Constitutional Convention adopted a new state constitution explicitly designed to eliminate Black voting while maintaining white political supremacy through facially neutral provisions. Convention president John Knox declared in his opening address that the convention's purpose was "to establish white supremacy in this State" within constitutional limits, creating a template that other Southern states would follow.
 

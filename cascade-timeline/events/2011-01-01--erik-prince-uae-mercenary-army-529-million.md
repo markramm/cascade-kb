@@ -38,7 +38,6 @@ capture_lanes:
 - Corporate Capture
 - International Kleptocracy
 ---
-type: timeline_event
 
 Erik Prince, founder of Blackwater, was hired by Crown Prince Mohammed bin Zayed Al Nahyan of Abu Dhabi to create a secret, private mercenary army for the United Arab Emirates, receiving $529 million for the contract. The force, operated through Prince's company Reflex Responses (R2), was composed primarily of Colombian ex-special forces operators and included an 800-man private army with its own air and naval components.
 

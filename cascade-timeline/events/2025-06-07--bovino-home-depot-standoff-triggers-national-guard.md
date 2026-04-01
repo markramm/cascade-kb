@@ -52,7 +52,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 On June 7, 2025, an hours-long standoff erupted at a Home Depot in Paramount, California, when Border Patrol Commander Gregory Bovino led immigration enforcement agents in a raid that sparked massive community resistance. The confrontation—with hundreds of protesters surrounding the store and physically blocking federal agents from making arrests—directly triggered President Trump's decision to federalize the California National Guard and deploy 4,000 Guard troops plus 700 Marines to Los Angeles the same day.
 

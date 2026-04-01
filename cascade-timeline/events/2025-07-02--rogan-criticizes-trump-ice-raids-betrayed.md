@@ -38,7 +38,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Joe Rogan publicly criticized President Trump's immigration enforcement tactics on his July 2, 2025 podcast episode, calling ICE raids **"insane"** and expressing feeling **"betrayed"** by Trump's broken campaign promises. Rogan stated: **"There's two things that are insane. One is the targeting of migrant workers — just construction workers, just gardeners."** The criticism came just eight months after Rogan's election-eve Trump endorsement and eight days after Bernie Sanders warned him about Trump's authoritarianism. The public break demonstrated that Bono and Sanders' principled engagement with Rogan's platform had successfully influenced his position—proving that persuasion works even after electoral endorsement when trusted voices make compelling moral arguments.
 

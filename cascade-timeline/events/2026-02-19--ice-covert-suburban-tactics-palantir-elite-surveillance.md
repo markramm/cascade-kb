@@ -67,7 +67,6 @@ tags:
 title: ICE Expands to Twin Cities Suburbs Using Covert Tactics, Palantir ELITE Neighborhood
   Targeting
 ---
-type: timeline_event
 
 As the Trump administration declared the formal end of Operation Metro Surge in mid-February 2026, reporting and community monitoring revealed that ICE had not withdrawn from the Twin Cities metro area — it had shifted to a new operational posture in the suburbs. Rather than the visible large-group deployments that had characterized the Minneapolis urban enforcement surge since December 2025, agents began operating in smaller units wearing plain clothes, using dramatically more sophisticated surveillance technology to identify and locate targets without the high-profile tactics that had drawn protests and court intervention.
 

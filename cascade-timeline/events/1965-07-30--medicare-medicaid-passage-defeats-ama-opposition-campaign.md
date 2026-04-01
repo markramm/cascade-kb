@@ -44,7 +44,6 @@ capture_lanes:
 - Media Capture & Control
 status: confirmed
 ---
-type: timeline_event
 
 President Lyndon B. Johnson signs the Social Security Amendments of 1965 into law at the Truman Presidential Library in Independence, Missouri, creating Medicare and Medicaid with former President Harry Truman at his side. The legislation provides federal health insurance for Americans over 65 (Medicare) and for low-income families (Medicaid), fundamentally transforming American healthcare despite fierce opposition from organized medicine.
 

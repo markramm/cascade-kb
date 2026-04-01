@@ -36,7 +36,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 ---
-type: timeline_event
 
 On March 13, 2026, federal Judge Colleen McMahon ordered plaintiffs in a lawsuit challenging DOGE's cancellation of National Endowment for the Humanities grants to remove viral deposition videos from YouTube. The videos, which had been viewed millions of times, showed DOGE staffers Nate Cavanaugh and Justin Fox testifying under oath about their use of ChatGPT to evaluate and cancel NEH grants — and expressing "no regrets" about the impact on people who lost their income as a result.
 

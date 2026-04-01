@@ -73,6 +73,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 The White House Iraq Group (WHIG) formalizes a strategic communications apparatus designed to systematically identify, track, and counter administration critics and potential whistleblowers. Through coordinated media messaging and high-profile official communications, WHIG developed comprehensive strategies to suppress dissent and control the narrative around the Iraq War.

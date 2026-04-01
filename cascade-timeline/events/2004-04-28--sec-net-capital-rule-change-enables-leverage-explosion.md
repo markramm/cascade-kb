@@ -70,7 +70,6 @@ capture_lanes:
 - Financial Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 The Securities and Exchange Commission votes unanimously to allow the five largest investment banks to dramatically increase their leverage ratios, removing a 1970s-era rule that limited debt to 12 times capital. Goldman Sachs, Morgan Stanley, Merrill Lynch, Lehman Brothers, and Bear Stearns successfully lobby for the change, which allows them to hold $30 or $40 of debt for every $1 of capital. The rule change enables these banks to massively expand their purchases of mortgage-backed securities, pouring fuel on the housing bubble.

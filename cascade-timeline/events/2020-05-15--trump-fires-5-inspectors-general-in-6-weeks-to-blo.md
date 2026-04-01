@@ -40,6 +40,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump fired five inspectors general in six weeks during spring 2020, each investigating potential administration wrongdoing. The purge included State Department IG Steve Linick (investigating Pompeo's use of staff for personal errands and Saudi arms sales), Intelligence Community IG Michael Atkinson (who forwarded the Ukraine whistleblower complaint), Defense IG Glenn Fine (set to oversee $2 trillion COVID relief), Transportation IG Mitch Behm, and HHS IG Christi Grimm (who reported hospital PPE shortages). The firings violated the law requiring 30-day Congressional notice with substantive rationale. Senator Romney called it 'a threat to accountable democracy,' while government watchdogs warned it created a chilling effect on oversight.

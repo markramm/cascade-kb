@@ -41,5 +41,4 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 Despite Trump's executive order 5 days after inauguration calling for 10,000 additional ICE officers, hiring collapsed 50% to just 371 deportation officers total in 2017. Congress denied specific funding for hiring expansion, providing only $15.7M for 65 agents instead of requested $186M for 1,000 officers.

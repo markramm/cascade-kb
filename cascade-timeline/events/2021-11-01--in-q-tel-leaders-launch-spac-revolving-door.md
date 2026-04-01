@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-type: timeline_event
 
 In November 2021, the senior leadership of In-Q-Tel—CEO Christopher Darby, President Stephen Bowsher, and technology investor Michael Rolnick—filed for an initial public offering for Chain Bridge I, a special purpose acquisition company (SPAC) seeking to raise $200 million. The blank check company aimed to acquire national security technology firms "poised to benefit from billions of dollars in defense spending," explicitly leveraging the founders' intelligence community connections for private profit.
 

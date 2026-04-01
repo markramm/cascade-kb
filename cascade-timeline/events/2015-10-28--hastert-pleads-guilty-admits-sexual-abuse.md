@@ -44,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Former House Speaker Dennis Hastert — the longest-serving Republican Speaker in history and once third in line for the presidency — pleaded guilty on October 28, 2015, to one count of structuring bank withdrawals to evade federal reporting requirements. Hastert admitted he illegally withdrew approximately $1.7 million in cash in amounts under $10,000 to avoid triggering mandatory bank reporting. A charge of making false statements to the FBI was dropped under the plea agreement.
 

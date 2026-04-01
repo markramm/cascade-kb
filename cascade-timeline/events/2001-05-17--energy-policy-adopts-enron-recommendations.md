@@ -38,6 +38,5 @@ capture_lanes:
 - Corporate Capture
 - Environmental Capture
 ---
-type: timeline_event
 
 The Bush administration releases the National Energy Policy, revealing extensive incorporation of Enron's recommendations. Analysis shows the task force adopted "all or significant portions" of Enron's recommendations in seven of eight policy areas, with at least 17 policies that directly benefited Enron included nearly word-for-word in the final plan. The policy overwhelmingly favored fossil fuel industries, with only seven of 105 recommendations referencing renewable energy.

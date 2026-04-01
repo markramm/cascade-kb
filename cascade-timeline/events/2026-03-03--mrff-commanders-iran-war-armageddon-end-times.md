@@ -66,7 +66,6 @@ capture_lanes:
 - Military Capture
 - Institutional Capture
 ---
-type: timeline_event
 
 By March 3, 2026, the Military Religious Freedom Foundation (MRFF) had received more than 200 complaints from active-duty military personnel documenting a systemic pattern: commanders across every branch of the U.S. military were framing Operation Epic Fury — the U.S.-Israeli strikes on Iran launched February 28 — in explicitly Christian end-times theological terms, telling troops the war was divinely ordained to trigger Armageddon and the Second Coming of Jesus Christ.
 

@@ -49,5 +49,4 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 During the January 6th Capitol attack, when informed by White House aide Nick Luna that Vice President Mike Pence had been rushed to a secure location for his safety, Trump responded dismissively with "So what?". Alone in the White House dining room while watching Fox News coverage of the riot, Trump was told Pence was in danger, with rioters coming within 40 feet of the Vice President. At 2:24 PM, despite knowing Pence's precarious situation, Trump tweeted attacking Pence for lacking "courage", potentially further endangering him.

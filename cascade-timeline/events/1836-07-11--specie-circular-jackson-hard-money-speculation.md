@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-type: timeline_event
 
 President Andrew Jackson orders Treasury Secretary Levi Woodbury to issue the Specie Circular, an executive order requiring that payment for public lands be made exclusively in gold or silver (specie) rather than paper currency, effective August 15, 1836 for purchases over 320 acres. The policy aims to curb rampant land speculation in western territories following Indian removal, where sales of public lands increased fivefold between 1834 and 1836, mostly financed through banknotes issued by state-chartered banks with insufficient reserves backing their currency. Jackson's order makes a special exception for "legitimate settlers" purchasing 320 acres or less to continue using paper money until December 15, 1836, and accepts certain Virginia scrip. However, the abrupt requirement for hard currency payment creates immediate credit contraction, devalues paper money, and contributes significantly to the Panic of 1837—demonstrating how Jackson's monetary policies create the very economic instability he claims to prevent.
 

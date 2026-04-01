@@ -35,6 +35,5 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Andean Ayllu system represented a sophisticated pre-colonial Indigenous governance model that prioritized collective decision-making, resource sharing, and ecological sustainability. Operating across Quechua and Aymara communities, the ayllu was a complex social hierarchy defined by kinship, reciprocity, and communal land management. This governance system demonstrated remarkable resilience, preserving core principles of mutual aid and consensual leadership for over 5000 years, challenging Western individualistic paradigms of social organization.

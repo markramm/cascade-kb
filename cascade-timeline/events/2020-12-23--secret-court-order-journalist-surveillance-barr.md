@@ -43,5 +43,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 On December 22, 2020, the DOJ filed a secret court order to seize phone records of three Washington Post journalists (Ellen Nakashima, Greg Miller, and Adam Entous) investigating Russian diplomatic communications. Filed just one day before Attorney General William Barr's resignation by DOJ official Michael R. Sherwin, the order sought 4 months of phone records and sought to prevent notification to the journalists. This action was part of a broader pattern of surveillance targeting 8 reporters from major news outlets, raising significant press freedom concerns and violating internal DOJ guidelines.

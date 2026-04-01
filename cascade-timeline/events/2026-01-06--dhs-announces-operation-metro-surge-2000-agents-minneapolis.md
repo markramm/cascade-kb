@@ -36,7 +36,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 DHS Secretary Kristi Noem announced the deployment of 2,000 federal agents to the Minneapolis-St. Paul metropolitan area, calling it the "largest immigration operation ever." ICE Acting Director Todd Lyons stated agents would go "door to door" to companies suspected of hiring undocumented immigrants, with the official justification targeting welfare fraud in Minnesota's Somali community and arresting "criminal illegal aliens."
 

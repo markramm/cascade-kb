@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 Seven chemical companies including Dow and Monsanto agree to pay $180 million to thousands of Vietnam veterans exposed to Agent Orange, settling the class action lawsuit out of court just before trial. Monsanto alone pays slightly over 45% of the settlement sum. All seven companies, having been granted immunity as military contractors, agree to the settlement under the strict condition that no admission of liability is required—allowing them to profit from war production while denying responsibility for the human consequences.
 

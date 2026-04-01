@@ -41,7 +41,6 @@ capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 ---
-type: timeline_event
 In June 1979, Paul Weyrich and Jerry Falwell founded the Moral Majority during a meeting at a Holiday Inn in Lynchburg, Virginia, with Weyrich coining the term "moral majority." The organization represented a strategic alliance between corporate interests and religious conservatives, using cultural issues to mobilize voters for an economic agenda that primarily benefited wealthy elites.
 
 The founding involved an elite group of strategists: Richard Viguerie (direct mail fundraising), Howard Phillips (political strategy), Paul Weyrich (Heritage Foundation co-founder), Robert Billings (former White House liaison), and Ed McAteer (Religious Roundtable founder and Colgate-Palmolive sales executive). Startup funding came from the Coors family, while Viguerie used old Goldwater campaign mailing lists to launch massive fundraising operations.

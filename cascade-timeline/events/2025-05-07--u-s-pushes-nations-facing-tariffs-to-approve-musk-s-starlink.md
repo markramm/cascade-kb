@@ -47,6 +47,5 @@ capture_lanes:
 - Financial Capture
 - International Kleptocracy
 ---
-type: timeline_event
 
 The Trump Administration leveraged trade negotiations to promote Starlink's global expansion, with countries like Lesotho, Bangladesh, and India expediting satellite internet service approvals in exchange for potential trade concessions.

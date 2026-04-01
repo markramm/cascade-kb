@@ -38,7 +38,6 @@ capture_lanes:
 - Corporate Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 On April 3, 2020, President Trump issued an executive order under the Defense Production Act prohibiting the export of N95 respirators, surgical masks, and other scarce personal protective equipment. The order was directed prominently at 3M, which Trump had publicly attacked for selling masks to foreign buyers while American hospitals went without. However, the export ban revealed the administration's selective and incoherent use of emergency powers: while Trump was willing to restrict exports, he still refused to issue broad production mandates that would have compelled domestic manufacturers to scale up PPE manufacturing at set prices. The result was an export ban layered on top of a chaotic domestic market in which price gouging ran rampant and states were forced to bid against one another and against the federal government for supplies.
 

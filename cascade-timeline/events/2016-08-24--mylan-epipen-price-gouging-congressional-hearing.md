@@ -36,7 +36,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-type: timeline_event
 
 In August 2016, Mylan CEO Heather Bresch faced intense scrutiny when it was revealed that EpiPen prices had increased from approximately $103 in 2007 to over $608 by 2016—a nearly 550% price increase for a life-saving allergy treatment. The scandal exposed pharmaceutical price gouging, the failure of regulatory oversight, and the role of political connections in protecting corporate profits while millions of Americans faced unaffordable costs for essential emergency medication.
 

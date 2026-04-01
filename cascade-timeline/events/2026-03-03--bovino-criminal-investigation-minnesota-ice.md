@@ -58,7 +58,6 @@ tags:
 title: Minnesota Prosecutors Open Criminal Investigation into Border Patrol Chief
   Bovino Over ICE Operation Abuses
 ---
-type: timeline_event
 
 On March 3, 2026, Hennepin County Attorney Mary Moriarty announced the opening of criminal investigations into Gregory Bovino, former Customs and Border Protection chief patrol agent and Border Patrol commander-at-large, and multiple ICE agents for alleged unlawful conduct during Operation Metro Surge in Minneapolis. Moriarty's office launched the Transparency and Accountability Project (TAP), a structured investigation gathering community evidence of 17 distinct incidents involving alleged unlawful behavior by federal agents during the operation.
 

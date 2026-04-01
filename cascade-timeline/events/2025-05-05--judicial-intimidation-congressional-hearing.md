@@ -49,5 +49,4 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-type: timeline_event
 The Senate Judiciary Committee held a critical hearing investigating unprecedented threats to judicial independence in 2025, documenting rising levels of violence, intimidation, disinformation, and defiance of lawful court judgments. Testimony revealed a disturbing pattern of physical threats, including bomb threats against judges' families, social media harassment, and attempts to impeach judges who issue rulings against the administration's agenda. According to the U.S. Marshals Service, over 197 federal judges were threatened between March and May, with more than 600 social media posts targeting judges' families viewed over 200 million times.

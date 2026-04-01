@@ -43,6 +43,5 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 The Trump administration has effectively stalled or dropped over 40 regulatory cases against Elon Musk's companies, totaling potential fines exceeding $2.3 billion. This pattern suggests a systemic approach to regulatory capture, with multiple federal agencies seemingly protecting Musk's corporate interests.

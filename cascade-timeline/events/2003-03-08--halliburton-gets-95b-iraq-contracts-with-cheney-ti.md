@@ -48,6 +48,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 Halliburton subsidiary KBR received 9.5 billion in Iraq War contracts, including a  billion no-bid 'Restore Iraqi Oil' contract awarded March 8, 2003. Vice President Dick Cheney, Halliburton's former CEO (1995-2000), maintained financial ties through 98,548 in deferred compensation and 433,333 stock options that increased 3,281% in value to over  million. Whistleblower Bunnatine Greenhouse, the Army Corps' top procurement official, called it 'the most blatant contract abuse' in her career and was demoted after testifying. KBR overcharged 1 million for fuel, charged 0 for 2 bacon, 5 to wash one bag of laundry, and ran empty trucks while billing for cargo. The Defense Contract Audit Agency found systematic billing deficiencies, with 86 million in payments withheld. Despite criminal investigations by the Pentagon Inspector General, KBR kept receiving contracts throughout the war. This represented the largest wartime contracting scandal in U.S. history, with minimal oversight of a company whose former CEO was sitting Vice President.

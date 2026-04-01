@@ -57,5 +57,4 @@ tags:
 - political-manipulation
 title: Federal Prosecutors Withdraw from Andy Ogles Criminal Investigation
 ---
-type: timeline_event
 Federal prosecutors in the Middle District of Tennessee withdrew from a criminal investigation into U.S. Rep. Andy Ogles, with a Department of Justice attorney from Washington's Public Integrity Section set to continue the case. The investigation originated from an FBI seizure of Ogles' phone and email in August 2024, potentially related to a $320,000 campaign loan. The case coincides with Ogles' recent proposal to allow Trump to run for a third term.

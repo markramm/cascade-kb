@@ -49,7 +49,6 @@ capture_lanes:
 - Military Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 19, 2026, the Pentagon formally requested a $200 billion supplemental budget from the White House to fund ongoing operations against Iran — four times the amount originally floated in internal discussions and on top of the approximately $1 trillion existing annual Pentagon budget. Defense Secretary Pete Hegseth defended the request with characteristic bluntness: "It takes money to kill bad guys." When pressed on a timeline for ending operations, Hegseth said there was no "timeframe" and that the U.S. would continue until its objectives were met.
 

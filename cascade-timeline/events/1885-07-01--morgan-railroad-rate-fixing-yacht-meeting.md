@@ -36,7 +36,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 In 1885, J.P. Morgan invited leading railroad executives to a meeting aboard his yacht to address what he perceived as "ruinous competition" in the railroad industry. Morgan used the gathering to convince railroad magnates controlling major lines including the New York Central and Pennsylvania Railroad to end their rate wars—not through appeals to mutual interest, but through naked financial coercion. He threatened to block their access to investment capital if they continued competitive pricing, leveraging his position as the nation's dominant investment banker to eliminate market competition and establish price-fixing cartels.
 

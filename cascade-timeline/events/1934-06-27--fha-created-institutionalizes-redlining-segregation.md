@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 The National Housing Act creates the Federal Housing Administration, which immediately implements systematic racial discrimination through mortgage underwriting guidelines. From its first operations in 1934, FHA staff conclude that no loan could be economically sound if the property was located in a neighborhood that was or could become populated by Black people, as property values might decline over the life of their 15 to 20-year standardized loans. This federal policy becomes the architect of institutionalized redlining that will persist until the 1960s.
 

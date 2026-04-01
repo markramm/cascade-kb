@@ -41,7 +41,6 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 The Federal Communications Commission approves landmark net neutrality protections by a 3-2 party-line vote, reclassifying broadband internet service as a "telecommunications service" under Title II of the Communications Act of 1934 to establish legally enforceable rules prohibiting blocking, throttling, and paid prioritization. Democratic Commissioners Jessica Rosenworcel and Mignon Clyburn joined Chairman Tom Wheeler in supporting the measure, while Republican Commissioners Ajit Pai and Michael O'Rielly dissented, with Pai accusing the majority of acting "because President Obama told us to."
 

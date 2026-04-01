@@ -45,7 +45,6 @@ capture_lanes:
 - Surveillance Infrastructure
 status: reported
 ---
-type: timeline_event
 
 # Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
 

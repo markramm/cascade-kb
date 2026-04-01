@@ -36,7 +36,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: confirmed
 ---
-type: timeline_event
 
 President Reagan signs the Drug Price Competition and Patent Term Restoration Act, known as Hatch-Waxman, which ostensibly balances pharmaceutical innovation incentives with generic competition but creates loopholes that brand-name manufacturers exploit to extend monopoly pricing for decades. The legislation grants patent term extensions of up to five years to compensate for FDA approval delays, while simultaneously establishing the modern generic drug approval pathway.
 

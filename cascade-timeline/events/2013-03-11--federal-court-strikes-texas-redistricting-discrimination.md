@@ -41,7 +41,6 @@ capture_lanes:
 - Electoral Manipulation
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 A federal court rules that the Texas Legislature's 2011 redistricting plan for congressional districts discriminated against Latino voters in violation of the federal Voting Rights Act and the U.S. Constitution. The decision finds that Texas deliberately carved up Latino communities and diluted Latino political strength even as the state's Latino population rose to 38% of the total population.
 

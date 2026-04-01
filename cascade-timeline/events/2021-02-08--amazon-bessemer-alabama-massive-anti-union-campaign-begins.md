@@ -39,7 +39,6 @@ tags:
 - anti-union
 - corporate-power
 ---
-type: timeline_event
 # Amazon Launches Massive Anti-Union Campaign at Bessemer Alabama Warehouse
 
 In early February 2021, Amazon launched one of the most aggressive and expensive anti-union campaigns in recent U.S. labor history, spending millions of dollars on consultants, lawyers, and captive-audience meetings to defeat a unionization effort at its Bessemer, Alabama warehouse (BHM1). The Retail, Wholesale and Department Store Union (RWDSU) had filed for a union election representing approximately 5,800 workers, and Amazon responded with overwhelming force: mandatory weekly anti-union meetings, a sophisticated website spreading disinformation, anti-union texts sent every 30 minutes, anti-union messages in bathroom stalls and hallways, and the controversial installation of a USPS mailbox in the warehouse parking lot that the NLRB would later rule constituted illegal election interference. Amazon hired approximately a dozen attorneys from elite anti-union law firms Morgan Lewis and Constangy Brooks, likely paying several million dollars in legal fees alone, and deployed union-busting consultants to flood the warehouse with anti-union propaganda. The campaign demonstrated Amazon's willingness to deploy unlimited resources to prevent workers from organizing, even in a Deep South state with weak labor traditions where union success seemed unlikely.

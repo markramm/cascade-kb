@@ -48,7 +48,6 @@ capture_lanes:
 - Regulatory Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 Comprehensive organizational analysis reveals Americans for Prosperity (AFP) as the Koch brothers' primary astroturfing operation, transforming billionaire corporate interests into fake 'grassroots' movements. Founded in 2004 when Citizens for a Sound Economy Foundation was rebranded, AFP exploded after Obama's 2009 inauguration by channeling billionaire money into Tea Party movement, creating appearance of organic populist uprising against healthcare reform, financial regulation, and climate policy—when reality was Koch Industries-funded operation opposing policies threatening Koch profits. With $100+ million annual budget, 35 state chapters, 2.3+ million claimed activists, and 116 paid staff (2012), AFP represents industrial-scale manufacture of fake public opinion.
 

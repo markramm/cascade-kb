@@ -43,7 +43,6 @@ capture_lanes:
 - Systematic Corruption
 - International Kleptocracy
 ---
-type: timeline_event
 
 New revelations emerge that Hugh Rodham, Hillary Clinton's brother, received $400,000 in payments for successfully lobbying President Clinton to grant a pardon to Almon Glenn Braswell, a businessman under investigation for money laundering, and a commutation for convicted drug trafficker Carlos Vignali. Braswell paid Rodham $200,000, and the Vignali family paid another $200,000. Both Bill and Hillary Clinton claim they were "deeply disturbed" by the news and unaware of the payments, asking that the money be returned, which Rodham does under intense public pressure.
 

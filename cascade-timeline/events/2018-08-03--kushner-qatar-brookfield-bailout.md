@@ -43,6 +43,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-type: timeline_event
 
 Brookfield Asset Management, with Qatar Investment Authority as second-largest investor, paid $1.28 billion for 99-year lease on Kushner's troubled 666 Fifth Avenue property. Deal came after Charles Kushner's April 2017 request for Qatari financing was rejected, followed by Jared advising Trump to support Saudi/UAE blockade of Qatar against State Department objections. The bailout resolved Kushner family's looming $1.4 billion mortgage default, raising serious foreign influence and emoluments concerns.

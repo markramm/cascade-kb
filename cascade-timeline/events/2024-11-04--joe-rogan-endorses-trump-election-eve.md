@@ -59,5 +59,4 @@ narrative_arc:
   spotify_deal_value: 450000000
   final_political_endorsement: Donald Trump (2024)
 ---
-type: timeline_event
 Joe Rogan endorsed Donald Trump for president through an interview with Elon Musk, representing a significant moment in media influence where a podcaster's endorsement potentially swayed millions of young male voters. Rogan's journey from supporting Bernie Sanders in 2020 to endorsing Trump in 2024 illustrates the changing political landscape and the rise of podcast media as a political communication platform.

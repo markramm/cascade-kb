@@ -33,7 +33,6 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-type: timeline_event
 
 The day after his March 3 contempt hearing, U.S. District Judge Jeffrey Bryan remained in deliberation over whether to formally hold Minnesota U.S. Attorney Daniel Rosen and other federal officials in contempt. Reporting on March 4 confirmed Bryan had taken the question under advisement without setting a deadline, leaving open the possibility of civil or criminal contempt sanctions against named DOJ and U.S. Immigration and Customs Enforcement officials.
 

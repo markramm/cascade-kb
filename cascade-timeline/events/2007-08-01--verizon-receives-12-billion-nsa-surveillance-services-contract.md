@@ -41,6 +41,5 @@ capture_lanes:
 - Surveillance Infrastructure
 notes: The specific $1.2 billion contract amount could not be independently verified. Event reflects documented NSA-Verizon collaboration in surveillance programs circa 2007.
 ---
-type: timeline_event
 
 In 2007, Verizon was deeply involved in NSA surveillance programs, participating in classified intelligence collection efforts during the Bush Administration, demonstrating the close relationship between telecommunications companies and national security agencies.

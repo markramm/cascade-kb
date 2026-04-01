@@ -45,6 +45,5 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 The Federal Railroad Administration initiated preliminary discussions with Elon Musk's Boring Company regarding the Frederick Douglass Tunnel project, a critical infrastructure initiative to replace a 150-year-old rail tunnel between Baltimore and Washington. The project, initially estimated at $6 billion and now projected at $8.5 billion, represents a potential engineering contract opportunity for Musk's tunneling company.

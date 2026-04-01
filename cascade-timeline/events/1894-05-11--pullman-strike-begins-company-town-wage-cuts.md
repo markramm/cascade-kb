@@ -53,7 +53,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 Workers at George Pullman's railroad car manufacturing company in Pullman, Illinois—a company town where Pullman owns all housing, stores, churches, and infrastructure—launch a strike protesting wage cuts averaging 25% following the Panic of 1893 while rents and prices at company-owned facilities remain unchanged. Pullman founded the town in the 1880s as a "model" paternalistic community for his 6,000 employees and their families, exercising absolute control over workers' lives through property ownership. When the 1893 depression reduces demand, Pullman slashes wages but refuses to reduce rents or prices at the company store, driving workers into debt peonage and economic desperation that triggers the walkout.
 

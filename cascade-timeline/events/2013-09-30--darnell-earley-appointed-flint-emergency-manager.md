@@ -34,7 +34,6 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Governor Rick Snyder appoints Darnell Earley as emergency manager of Flint, Michigan, the third of four unelected managers who would control the predominantly Black city during its financial crisis. Earley takes control of a city of 100,000 residents where more than 40% of the population lives below the poverty line and the city faces a $13 million deficit.
 

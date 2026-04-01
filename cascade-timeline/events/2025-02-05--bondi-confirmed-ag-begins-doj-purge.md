@@ -36,7 +36,6 @@ capture_lanes:
 - Institutional Capture
 - Federal Workforce Capture
 ---
-type: timeline_event
 
 Pam Bondi was confirmed by the Senate 54-46 on February 4, 2025, and sworn in the following day as U.S. Attorney General. She was Trump's second choice—Matt Gaetz was withdrawn after even the MAGA-aligned Senate balked at his record involving underage girls.
 

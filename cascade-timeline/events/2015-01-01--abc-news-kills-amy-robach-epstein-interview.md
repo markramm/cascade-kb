@@ -42,6 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 ABC News anchor Amy Robach conducts explosive interview with Virginia Giuffre detailing Jeffrey Epstein's trafficking network and powerful clients including Prince Andrew. ABC executives kill the story, claiming insufficient corroboration. The interview remains buried for three years until leaked audio reveals Robach's frustration that the network 'had it all' but refused to air it.

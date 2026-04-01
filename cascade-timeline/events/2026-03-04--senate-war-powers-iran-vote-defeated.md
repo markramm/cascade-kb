@@ -66,7 +66,6 @@ capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 On March 4, 2026, the U.S. Senate voted 47-53 to reject a War Powers Resolution that would have required President Trump to seek congressional authorization before continuing military strikes on Iran. The resolution was introduced by Senator Tim Kaine (D-VA) and co-sponsored by 26 colleagues including Minority Leader Chuck Schumer (D-NY) and Senator Adam Schiff (D-CA). The measure would have invoked the War Powers Resolution of 1973 and directed the removal of U.S. armed forces from hostilities against Iran absent explicit congressional authorization.
 

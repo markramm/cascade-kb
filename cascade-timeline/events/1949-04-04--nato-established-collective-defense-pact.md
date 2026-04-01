@@ -38,7 +38,6 @@ status: confirmed
 capture_lanes:
 - Military-Industrial Complex
 ---
-type: timeline_event
 
 Twelve nations sign the North Atlantic Treaty (Washington Treaty) on April 4, 1949, establishing the North Atlantic Treaty Organization (NATO) and marking a fundamental transformation in U.S. foreign and defense policy by committing the United States to an ongoing role in European defense. The founding members are Belgium, Canada, Denmark, France, Iceland, Italy, Luxembourg, the Netherlands, Norway, Portugal, the United Kingdom, and the United States. The treaty creates a system of collective security whereby independent member states agree to mutual defense in response to attack by any outside party, enshrined in Article 5 declaring that an armed attack against one member shall be considered an attack against all.
 

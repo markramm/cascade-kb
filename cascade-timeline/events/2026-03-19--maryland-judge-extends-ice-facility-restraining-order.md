@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Immigration System Capture
 ---
-type: timeline_event
 
 On March 19, 2026, U.S. District Judge Brendan Hurson extended a temporary restraining order against the planned ICE detention facility in Williamsport, Maryland, keeping the order in effect through April 16. In his ruling, Judge Hurson found that DHS and ICE had "likely failed to comply" with the National Environmental Policy Act in their rush to acquire and convert the property into a detention center.
 

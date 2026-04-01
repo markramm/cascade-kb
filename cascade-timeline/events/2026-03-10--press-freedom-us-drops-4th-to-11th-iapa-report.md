@@ -33,7 +33,6 @@ capture_lanes:
 - Media Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 The Inter American Press Association (IAPA) released its annual press freedom index on March 10, 2026, declaring that the previous year had been the worst for freedom of expression in the Americas since the report's inception in 2020. The United States recorded the steepest decline of any country in the hemisphere, falling from 4th place to 11th in a ranking of 23 nations.
 

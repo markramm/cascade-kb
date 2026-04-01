@@ -40,7 +40,6 @@ sources:
 status: confirmed
 priority_id: RT-CLAUDE-2025-musk-twitter-x-speech-manipulation
 ---
-type: timeline_event
 Under Musk's control, Twitter was rebranded to X and underwent systematic dismantling of content moderation systems, transforming the platform from a "global town square" into an oligarchic-controlled information warfare infrastructure. The Center for Countering Digital Hate (CCDH) found that 98% of 200 flagged racist tweets remained on the platform after two weeks, highlighting a dramatic reduction in content moderation effectiveness.
 
 Key impacts included:

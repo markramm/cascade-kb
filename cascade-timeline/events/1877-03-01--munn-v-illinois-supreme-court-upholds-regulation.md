@@ -46,7 +46,6 @@ capture_lanes:
 - Regulatory Capture
 status: confirmed
 ---
-type: timeline_event
 
 
 In March 1877, the U.S. Supreme Court decided Munn v. Illinois (94 U.S. 113), affirming in a 7-2 decision that states possess constitutional authority to regulate private industries when such regulation serves the public good. Chief Justice Morrison Waite wrote for the majority that because grain storage facilities were "devoted to public use," their rates were subject to public regulation. The decision upheld Illinois' 1871 Granger Law, which had been passed in response to pressure from the National Grange, an association of farmers demanding regulation of the exploitative rates charged by railroads and grain elevators.

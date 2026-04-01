@@ -31,6 +31,5 @@ sources:
 capture_lanes:
 - Systematic Corruption
 ---
-type: timeline_event
 
 In a Howard Stern radio interview, Donald Trump admits to deliberately entering Miss Universe and Miss USA dressing rooms while contestants were undressed, stating: 'I'm allowed to go in because I'm the owner of the pageant... You know, they're standing there with no clothes.' This admission corroborates multiple contestant accounts of Trump entering dressing rooms unannounced, including Miss Arizona Tasha Dixon who confirmed Trump entered while contestants were 'half naked.'

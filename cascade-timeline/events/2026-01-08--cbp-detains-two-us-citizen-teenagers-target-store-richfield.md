@@ -30,7 +30,6 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 ---
-type: timeline_event
 
 U.S. Customs and Border Protection agents detained two teenage employees at a Target store in Richfield, Minnesota around 2:00 PM. Jonathan Aguilar Garcia and Christian Miranda Romano, both U.S. citizens, were approached by agents outside the store and asked if they were citizens. When the workers didn't answer and tried to enter the store, agents tackled them to the ground inside the store entrance and handcuffed them.
 

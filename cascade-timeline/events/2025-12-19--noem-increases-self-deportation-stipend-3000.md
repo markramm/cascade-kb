@@ -26,7 +26,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-type: timeline_event
 
 DHS Secretary Kristi Noem announced on Fox News that immigrants who voluntarily self-deport through the CBP Home app would receive a $3,000 stipend for the final weeks of 2025, tripling the $1,000 incentive introduced in May. Noem framed the increase as a "home for the holidays" message.
 

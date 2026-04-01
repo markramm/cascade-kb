@@ -43,6 +43,5 @@ capture_lanes:
 - Executive Power Expansion
 - Financial Capture
 ---
-type: timeline_event
 
 President Donald Trump rebrands himself as the 'crypto president' through multiple cryptocurrency ventures, including World Liberty Financial (WLFI), a $TRUMP meme coin, and American Bitcoin, while also establishing a Strategic Bitcoin Reserve through an executive order.

@@ -33,6 +33,5 @@ sources:
   tier: 1
 notes: The footage was shot by NBC for Faith Daniels' talk show "A Closer Look" profiling Trump's lifestyle after his divorce from Ivana. About 15-20 cheerleaders spent the night at Mar-a-Lago. The video was unearthed from NBC archives and aired publicly in July 2019 following Epstein's federal sex trafficking charges, contradicting Trump's later attempts to minimize their relationship.
 ---
-type: timeline_event
 
 NBC archival footage from November 1992 shows Donald Trump and Jeffrey Epstein partying together at Mar-a-Lago with Buffalo Bills cheerleaders. The video shows Trump grabbing dancing women and both men pointing out women while making comments, including Trump telling Epstein about a woman "She's hot."

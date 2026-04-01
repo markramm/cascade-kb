@@ -44,7 +44,6 @@ capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture
 ---
-type: timeline_event
 
 Senate Majority Leader George J. Mitchell declares the Clinton administration's Health Security Act dead, with the bill never coming to a vote in either chamber of Congress. The failure represents a devastating defeat for comprehensive healthcare reform after an intense lobbying campaign by the health insurance and pharmaceutical industries that spent hundreds of millions of dollars to defeat the legislation. The collapse demonstrates the political power of healthcare industry interests to block reforms that threaten their profit models.
 

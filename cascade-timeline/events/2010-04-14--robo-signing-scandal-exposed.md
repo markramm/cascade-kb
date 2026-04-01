@@ -36,6 +36,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 Investigation reveals major banks systematically falsified foreclosure documents through 'robo-signing', affecting 3.8 million homes. Employees at major lenders signed thousands of foreclosure affidavits without verifying information, creating a massive documentation fraud that undermined legal foreclosure processes.

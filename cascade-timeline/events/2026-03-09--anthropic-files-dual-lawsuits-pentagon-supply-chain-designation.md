@@ -72,7 +72,6 @@ capture_lanes:
 - Institutional Capture
 - Democratic Erosion
 ---
-type: timeline_event
 
 On March 9, 2026, Anthropic formally filed two federal lawsuits against the Trump administration challenging the Department of Defense's designation of the company as a "supply chain risk to national security" — a label historically applied only to foreign state-linked entities. The dual filing strategy was deliberate: one suit was lodged in the U.S. District Court for the Northern District of California, the other in the U.S. Court of Appeals for the District of Columbia, each attacking different legal dimensions of the Pentagon's actions.
 

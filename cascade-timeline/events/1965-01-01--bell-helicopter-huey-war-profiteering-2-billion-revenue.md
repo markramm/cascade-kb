@@ -29,7 +29,6 @@ capture_lanes:
 - Corporate Capture
 status: confirmed
 ---
-type: timeline_event
 
 Bell Helicopter's revenue explodes from $150 million in 1962 to over $2 billion by 1967 as the company manufactures more than 100 Huey helicopters per month during the peak of the Vietnam War. The Bell UH-1 Huey becomes the defining symbol of U.S. involvement in Vietnam, with the conflict earning the designation "Helicopter War" as helicopters are used extensively for transporting and resupplying troops, evacuating wounded, and providing aerial fire support.
 

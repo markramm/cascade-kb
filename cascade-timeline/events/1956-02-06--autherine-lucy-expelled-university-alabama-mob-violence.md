@@ -41,7 +41,6 @@ sources:
   tier: 2
 status: confirmed
 ---
-type: timeline_event
 
 On February 6, 1956, the University of Alabama expelled Autherine Lucy, its first Black student, after a three-day white supremacist riot made her presence on campus untenable. University officials blamed Lucy for the violence and used her NAACP-supported lawsuit challenging her suspension as grounds for permanent expulsion. The episode demonstrated how institutions could use mob violence as a pretext to resist integration while claiming neutrality.
 

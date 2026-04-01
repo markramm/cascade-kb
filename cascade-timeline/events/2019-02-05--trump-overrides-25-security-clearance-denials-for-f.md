@@ -41,6 +41,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump overrode security clearance denials for at least 25 individuals including Jared Kushner and Ivanka Trump, despite FBI and CIA objections citing foreign influence, conflicts of interest, personal conduct, financial problems, and drug use. Kushner's clearance was denied due to foreign contacts and business conflicts, with career officials warning he could be manipulated by foreign powers. Trump ordered Chief of Staff John Kelly to grant the clearance anyway. Whistleblower Tricia Newbold testified that the White House retaliated against her for raising concerns, suspending her and placing files out of her reach as a person with dwarfism. The 25 overrides included two current senior White House officials whose clearances were denied for 'very serious' disqualifying factors. Carl Kline, who approved the overrides, defied congressional subpoenas. This unprecedented bypass of security protocols exposed national secrets to compromise, with Kushner later receiving $2 billion from Saudi Arabia after leaving office.

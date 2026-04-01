@@ -33,7 +33,6 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 ---
-type: timeline_event
 
 On March 3, 1972, workers at General Motors' Lordstown, Ohio assembly plant authorized a 22-day strike after GM's Assembly Division (GMAD)—which workers called "Get Mean And Destroy"—implemented brutal speedups that reduced task time to 35-second bursts with only 5-second breaks before the next Vega rolled up. The strike became national news as "industrial Woodstock" when Newsweek profiled the young, integrated workforce of 13,000—average age 24, with Local 1112's president just 29—who rejected the dehumanizing conditions their parents' generation had accepted. GM had created GMAD in 1971 to combat Japanese imports by micro-managing time and motion, calculating that each additional half-second worked per hour would save $1 million annually, transforming workers into machine components in the most advanced automated plant of its era.
 

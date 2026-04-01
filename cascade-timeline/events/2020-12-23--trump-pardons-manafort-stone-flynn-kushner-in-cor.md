@@ -42,6 +42,5 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-type: timeline_event
 
 President Trump issued pardons to campaign chairman Paul Manafort (convicted of financial fraud and conspiracy), adviser Roger Stone (witness tampering and lying to Congress), National Security Adviser Michael Flynn (lying to FBI about Russia contacts), and Charles Kushner (tax evasion and witness tampering against his own sister). Trump also pardoned Steve Bannon while under indictment for defrauding Trump's own supporters in the 'We Build the Wall' scheme that stole $25 million. Four Blackwater contractors convicted of killing 14 Iraqi civilians, including two children, received pardons benefiting Erik Prince, brother of Education Secretary Betsy DeVos. Republican Senator Ben Sasse called them 'rotten to the core.' The pardons effectively granted immunity to those who protected Trump from investigation, establishing that loyalty would be rewarded regardless of crimes committed.

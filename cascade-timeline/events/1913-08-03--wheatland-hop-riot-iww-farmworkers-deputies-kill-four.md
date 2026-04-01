@@ -34,7 +34,6 @@ capture_lanes:
 - Labor Suppression
 - Judicial Capture
 ---
-type: timeline_event
 
 On August 3, 1913, a confrontation between migrant hop pickers and armed deputies at the Durst Ranch in Wheatland, California left four people dead and triggered a massive crackdown on the IWW across California. The violence erupted after workers organized to protest abysmal conditions: no drinking water in 100-degree heat, a single toilet for 2,800 workers, wages lower than advertised, and company stores gouging prices.
 

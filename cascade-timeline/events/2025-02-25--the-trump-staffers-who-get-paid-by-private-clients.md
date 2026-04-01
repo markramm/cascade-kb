@@ -45,5 +45,4 @@ tags:
 - special-government-employees
 title: Trump Administration Introduces Expansive Special Government Employee Status for Private Sector Leaders
 ---
-type: timeline_event
 Trump administration creates new category of 'Special Government Employees' allowing officials like Elon Musk to work simultaneously in government and private sectors, bypassing traditional ethics requirements. Musk can work up to 130 days per year while maintaining his roles at SpaceX and Tesla, raising significant conflict of interest concerns.

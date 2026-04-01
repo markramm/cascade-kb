@@ -58,7 +58,6 @@ tags:
 capture_lanes:
 - Financial Capture
 ---
-type: timeline_event
 On March 6, 2025, President Trump signed two executive orders expanding his tariff regime against Canada and Mexico, using border drug enforcement as justification for protectionist trade policies.
 
 ## The Executive Orders

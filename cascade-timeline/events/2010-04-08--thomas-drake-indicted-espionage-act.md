@@ -37,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 ---
-type: timeline_event
 
 Former NSA senior executive Thomas Drake was indicted on ten felony counts, including five under the Espionage Act of 1917, marking the Obama administration's aggressive prosecution of national security whistleblowers. Drake faced up to 35 years in prison for allegedly retaining classified documents related to NSA surveillance programs and waste.
 

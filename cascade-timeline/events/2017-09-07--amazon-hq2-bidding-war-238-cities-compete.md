@@ -39,7 +39,6 @@ capture_lanes:
 - Corporate Capture
 - Labor Suppression
 ---
-type: timeline_event
 
 Amazon announced in September 2017 that it would build a second headquarters (HQ2) equal to its Seattle campus, sparking a bidding war among 238 North American cities desperate to win 50,000 promised jobs. Cities competed to offer the largest subsidy packages—with bids averaging $6.75 billion from states and $2.15 billion from cities—while providing Amazon with detailed proprietary data on infrastructure, real estate, demographics, and economic development plans. The spectacle represented corporate welfare extraction at industrial scale, with cities racing to beggar themselves while enriching one of the world's most valuable companies owned by the world's wealthiest individual.
 

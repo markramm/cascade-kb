@@ -42,7 +42,6 @@ capture_lanes:
 - Intelligence Penetration
 - Judicial Capture
 ---
-type: timeline_event
 
 Germany's chief federal prosecutor Harald Range opened a formal criminal investigation into allegations that the U.S. National Security Agency tapped Chancellor Angela Merkel's cellphone, marking the first time a major U.S. ally launched criminal proceedings against American intelligence agencies for post-9/11 surveillance activities. The investigation came after intense public pressure following Edward Snowden's October 2013 revelations that the NSA had monitored Merkel's personal mobile phone communications.
 

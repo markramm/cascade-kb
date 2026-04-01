@@ -33,6 +33,5 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 ---
-type: timeline_event
 
 ALEC's executive director actively sought funding from the Tobacco Institute trade group, beginning a lucrative partnership that would provide legislative influence for the tobacco industry. This early corporate capture model would become the template for ALEC's expansion into multiple industries seeking state-level legislative influence.

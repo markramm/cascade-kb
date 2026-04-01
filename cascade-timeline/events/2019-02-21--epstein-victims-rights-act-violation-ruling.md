@@ -39,6 +39,5 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-type: timeline_event
 
 U.S. District Judge Kenneth Marra rules that federal prosecutors violated the Crime Victims' Rights Act by failing to inform victims about the 2008 non-prosecution agreement with Jeffrey Epstein. The ruling found that prosecutors deliberately concealed the agreement from victims and their attorneys, constituting a fundamental breach of federal law requiring victim consultation.

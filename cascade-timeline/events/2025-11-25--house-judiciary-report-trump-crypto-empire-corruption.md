@@ -149,7 +149,6 @@ capture_lanes:
 - Digital & Tech Capture
 status: reported
 ---
-type: timeline_event
 
 On November 25, 2025, Representative Jamie Raskin, Ranking Member of the House Judiciary Committee, released a 147-page staff report titled "Trump, Crypto, and a New Age of Corruption," documenting how President Donald Trump and his family earned more than $800 million from cryptocurrency ventures in the first half of 2025 alone, with total crypto holdings valued at up to $11.6 billion. The report found that the Trump family's cryptocurrency empire began with the January 2025 launch of the $TRUMP memecoin — which generated more than $300 million in initial sales while Trump retained 800 million of the 1 billion total coins — and expanded through World Liberty Financial (WLFI), which raised $550 million in token sales between September 2024 and June 2025, and a USD1 stablecoin that generated additional revenue streams. A blockchain analysis of the 50 largest WLFI token wallets found that 36 wallets valued at $804 million were likely connected to overseas buyers, including entities linked to Russia, China, Saudi Arabia, and the United Arab Emirates.
 

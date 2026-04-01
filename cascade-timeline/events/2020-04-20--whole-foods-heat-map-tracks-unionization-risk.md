@@ -37,7 +37,6 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 ---
-type: timeline_event
 
 # Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics
 

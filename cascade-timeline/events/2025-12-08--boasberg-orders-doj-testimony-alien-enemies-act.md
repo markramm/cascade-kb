@@ -43,7 +43,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 # Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order
 

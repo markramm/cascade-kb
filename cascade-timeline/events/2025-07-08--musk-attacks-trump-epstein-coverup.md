@@ -43,5 +43,4 @@ sources:
 notes: 'Musk claimed without evidence Trump is in Epstein files. Posted arrest counter showing zero prosecutions. Called DOJ reversal "the final straw." Part of oligarch civil war over government contracts. Shows potential kompromat leverage game.'
 status: confirmed
 ---
-type: timeline_event
 Elon Musk posts "Official Jeffrey Epstein Pedophile Arrest Counter" showing zero arrests, floods platform with 35+ posts suggesting Trump is in Epstein files and calling it "the final straw" after DOJ reversal

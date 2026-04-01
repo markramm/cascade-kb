@@ -50,6 +50,5 @@ capture_lanes:
 - Corporate Capture
 validation_priority: 8
 ---
-type: timeline_event
 
 A fatal aviation disaster revealing critical design flaws in Boeing's 737 MAX aircraft. The crash of Lion Air Flight 610 exposed systemic issues in aircraft design, maintenance, and pilot training, resulting from a malfunctioning Maneuvering Characteristics Augmentation System (MCAS). Investigators found multiple contributing factors, including miscalibrated sensors, inadequate pilot training, and Boeing's decision to obscure MCAS system details from flight manuals.

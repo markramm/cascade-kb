@@ -42,7 +42,6 @@ capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---
-type: timeline_event
 
 # Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases
 

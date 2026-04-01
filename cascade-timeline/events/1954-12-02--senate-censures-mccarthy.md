@@ -37,7 +37,6 @@ status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-type: timeline_event
 
 On December 2, 1954, the Senate voted 67-22 to censure Senator Joseph McCarthy, who had led the fight in Congress to root out suspected Communists from the Federal Government. The Democrats voted solidly for McCarthy's rebuke, but Republicans split straight down the middle with 22 voting for and 22 against. The Senate censured McCarthy "for his non-cooperation with and abuse of the Subcommittee on Privileges and Elections... in 1952" and "for abuse of the Select Committee to Study Censure" of 1954. The censure described his behavior as "contrary to senatorial traditions."
 

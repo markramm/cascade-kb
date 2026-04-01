@@ -33,6 +33,5 @@ sources:
   tier: 1
 notes: Prefer the DOJ exhibit PDFs over secondary summaries. Be precise that logbook entries document names and dates but are not evidence of wrongdoing.
 ---
-type: timeline_event
 
 Department of Justice exhibits from U.S. v. Ghislaine Maxwell include Epstein aircraft logbooks showing Donald Trump's name on several domestic flights in the 1990s, primarily between Florida and New York. Media tallies commonly count seven or more such entries; there is no evidence of travel to Epstein's private island, and logs do not establish criminal conduct.
