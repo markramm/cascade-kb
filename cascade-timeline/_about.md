@@ -1,85 +1,84 @@
 ---
 id: _about
-type: page
-title: "About the Capture Cascade Timeline"
-tags: [methodology, about]
+type: note
+title: "About & Methodology"
 ---
 
-## Mission
+## What This Is
 
-The Capture Cascade Timeline documents the systematic capture of democratic institutions through verifiable events, court records, and public reporting. It functions as a living intelligence infrastructure for citizens, journalists, and researchers tracking democratic erosion.
+The Capture Cascade Timeline documents the systematic capture of democratic institutions through verifiable events, court records, and public reporting. It is a living intelligence infrastructure — a structured, source-cited chronology spanning 1142 to the present.
 
-This is not opinion or commentary. Every event in the timeline is sourced from official records, court documents, or credible investigative journalism. The goal is to make the pattern visible through structured, searchable, verified data.
+## The Capture Cascade Framework
 
-## The Cascade Model
+Democracy doesn't fall gradually — it **cascades**. Each captured institution enables the capture of others, creating exponential acceleration:
 
-The central thesis is that democratic collapse accelerates exponentially rather than gradually. The pattern follows five stages:
+1. **Capture Oversight** — Remove the watchers
+2. **Capture Courts** — Eliminate legal recourse
+3. **Capture Enforcement** — Enable selective prosecution
+4. **Capture Media** — Prevent public awareness
+5. **Cascade Accelerates** — Each captured institution enables three more
 
-1. **Capturing oversight mechanisms** — Removing inspectors general, defunding enforcement, replacing independent officials with loyalists
-2. **Capturing courts** — Appointing ideologically aligned judges, expanding jurisdiction, undermining judicial independence
-3. **Capturing enforcement agencies** — Politicizing DOJ, FBI, regulatory agencies — turning enforcement into a tool of power
-4. **Capturing media access** — Restricting press access, retaliating against critical outlets, flooding information space
-5. **Exponential acceleration** — Each captured institution enables the capture of three more, creating a cascading failure of democratic checks
+The timeline makes this pattern visible through data. What looks like isolated incidents in the news reveals systematic coordination when mapped chronologically.
 
-The evidence is in the acceleration: fewer than 1 event annually in the 1970s versus 100+ annually in the 2020s.
+## By The Numbers
 
-## Data Standards
+- **4,500+ verified events** spanning 1142–2026
+- **15,900+ source citations** from court records, official documents, and verified reporting
+- **6,400+ tags** tracking patterns across capture lanes
+- **7,700+ actors** showing network connections and coordination
 
-### Inclusion Criteria
+## Our Standards
 
-Every event must meet all of the following:
-- **Minimum two credible sources** (Tier 1 or Tier 2)
-- **Verifiable documentation** from official or legal records
-- **Clear relevance** to democratic institutions, governance, or accountability
-- **Proper contextual framing** — events are documented, not editorialized
+Every event must meet these criteria:
 
-### Source Tiers
+1. **Credible sourcing** — court records, official documents, or verified reporting from established outlets
+2. **Verifiable documentation** — sources are linked and can be independently checked
+3. **Clear significance** — explains why the event matters to democratic institutions
+4. **Proper context** — connects to broader patterns of institutional capture
 
-- **Tier 1**: Court records, government documents, congressional records, academic research, official filings
-- **Tier 2**: Established investigative journalism — New York Times, Washington Post, AP, Reuters, ProPublica, The Guardian, and similar outlets with editorial standards and correction policies
-- **Rejected**: Social media posts (unless supplementary to Tier 1/2 sources), unverified blogs, partisan commentary, anonymous claims
+Events carry a status field: *confirmed* (verified by multiple sources), *reported* (single credible source), *alleged* (under investigation), or *disputed* (contested claims). We default to *confirmed* — if an event is in the timeline, we believe the sourcing supports it.
 
-### Verification Status
+If we make a mistake, we correct it transparently. The entire dataset is version-controlled in git.
 
-Each event carries a verification status:
-- **Confirmed** (94%) — Multiple credible sources, facts verified
-- **Reported** (5.7%) — Single credible source or developing story
-- **Disputed** (0.1%) — Conflicting evidence or contested claims
-- **Developing** (<0.1%) — Actively unfolding, verification in progress
+## Source Tiers
 
-## By the Numbers
+We classify sources by reliability:
 
-- **4,500+** verified events spanning 1142-2026
-- **15,500+** source citations
-- **7,800+** unique actors tracked
-- **6,300+** tags for cross-referencing
-- **207** key actors with detailed profiles
+- **Tier 1** — Court records, government documents, official filings, direct testimony
+- **Tier 2** — Established investigative reporting (Washington Post, NYT, Reuters, AP, NPR, ProPublica)
+- **Tier 3** — Regional and specialty press, credible independent outlets
+- **Tier 4** — Analysis, opinion, or single-source reporting (used for context, not as primary evidence)
 
-## How to Use
+## How To Use This Timeline
 
-### Browse Events
-Visit the [timeline browse page](/site/cascade-timeline) to explore events by date, type, and tags. Each event page shows full source citations, related actors, and cross-references to connected events.
+**Researchers:** Use the chronological view to trace how patterns emerge. Filter by actors to map networks. Filter by tags to follow specific capture lanes across decades.
 
-### Interactive Viewer
-The [interactive viewer](/viewer/) loads all events into your browser for fast searching, sorting, and visual timeline exploration. The D3 visual timeline shows event density over time with zoom-to-detail.
+**Journalists:** Find connections between events and actors. Verify claims against our source citations. Identify patterns before they become conventional wisdom.
 
-### Search
-Use the search box on any page to find events by keyword across titles, descriptions, actors, and tags. Search is powered by full-text indexing with semantic understanding.
+**Citizens:** Understand what's happening in context. See how seemingly unrelated events connect. Share verified information backed by documented sources.
 
-## Technology
+## Two Ways To Explore
 
-The Capture Cascade Timeline is built on [Pyrite](https://pyrite.wiki), an open-source knowledge infrastructure platform. The data is stored as markdown files with YAML frontmatter in a git repository, making it fully transparent, forkable, and auditable.
+**This site** — fast, searchable, SEO-friendly. Every event is a page with full source citations. Optimized for deep reading and research.
 
-- **Data format**: Markdown + YAML (Knowledge-as-Code)
-- **Search**: Full-text search with FTS5 + semantic search
-- **Rendering**: Static HTML pages for SEO, progressive enhancement for interactivity
-- **Source of truth**: Git repository at [github.com/markramm/cascade-kb](https://github.com/markramm/cascade-kb)
+**The Timeline Viewer** — interactive filtering by tag, search, and date. Visual timeline showing event density over time.
 
-## Licensing
+## Open Source
 
-- **Data**: CC BY-SA 4.0 — Share and adapt with attribution
-- **Code**: MIT License — Use freely
+This project is open source:
+
+- **Timeline Data**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share and adapt with attribution
+- **Infrastructure**: Built on [Pyrite](https://github.com/markramm/pyrite), knowledge infrastructure for humans and AI agents
+
+## The Investigation
+
+The Capture Cascade Timeline supports the investigative reporting at [RAMM on Substack](https://markramm.substack.com/), where the patterns documented here are analyzed in long-form investigation.
 
 ## Contact
 
-This project is maintained by [Mark Ramm](https://github.com/markramm). For corrections, new events, or questions, please [open an issue](https://github.com/markramm/cascade-kb/issues) on GitHub.
+- **GitHub**: [cascade-kb](https://github.com/markramm/cascade-kb)
+- **Author**: Mark Ramm
+
+---
+
+*"Those who would capture democracy depend on our inability to see the pattern. This timeline makes the pattern visible."*
