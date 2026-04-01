@@ -89,10 +89,10 @@
 						<td class="col-tags">
 							<div class="tags-list">
 								{#each (event.tags || []).slice(0, 3) as tag}
-									<span class="tag">{tag}</span>
+									<button class="tag tag-clickable" onclick={(e) => { e.stopPropagation(); timeline.setSearch(tag); }} title="Filter by {tag}">{tag}</button>
 								{/each}
 								{#if (event.tags || []).length > 3}
-									<span class="tag tag-overflow">+{(event.tags || []).length - 3}</span>
+									<span class="tag tag-overflow" title={(event.tags || []).slice(3).join(', ')}>+{(event.tags || []).length - 3}</span>
 								{/if}
 							</div>
 						</td>
@@ -395,6 +395,17 @@
 	}
 	.page-sep {
 		color: var(--ink-faint);
+	}
+
+	.tag-clickable {
+		cursor: pointer;
+		border: none;
+		font-family: inherit;
+	}
+	.tag-clickable:hover {
+		background: var(--gold-glow);
+		border-color: var(--gold-border);
+		color: var(--gold);
 	}
 
 	/* ── Responsive ──────────────────────────────────────── */

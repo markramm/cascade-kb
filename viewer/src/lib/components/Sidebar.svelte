@@ -45,6 +45,23 @@
 		{/each}
 	</nav>
 
+	<div class="sidebar-tags">
+		<div class="tags-header">Top Tags</div>
+		<div class="tags-chips">
+			{#each timeline.topTags.slice(0, 12) as tag}
+				<button
+					class="tag-chip"
+					class:active={timeline.search === tag.name}
+					onclick={() => timeline.setSearch(timeline.search === tag.name ? '' : tag.name)}
+					title="{tag.name} ({tag.count})"
+				>
+					{tag.name}
+					<span class="tag-count">{tag.count}</span>
+				</button>
+			{/each}
+		</div>
+	</div>
+
 	<div class="sidebar-footer">
 		<a href="/site/cascade-timeline" class="nav-item">
 			<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -147,13 +164,68 @@
 		color: var(--ink-soft);
 	}
 
+	.sidebar-tags {
+		padding: 0.75rem 1.25rem;
+		flex: 1;
+		overflow-y: auto;
+	}
+	.tags-header {
+		font-size: 0.6875rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: var(--ink-faint);
+		margin-bottom: 0.5rem;
+	}
+	.tags-chips {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25rem;
+	}
+	.tag-chip {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.25rem;
+		padding: 0.2rem 0.5rem;
+		font-size: 0.6875rem;
+		font-family: inherit;
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.25rem;
+		color: var(--ink-soft);
+		cursor: pointer;
+		transition: all 0.15s;
+		white-space: nowrap;
+	}
+	.tag-chip:hover {
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+	.tag-chip.active {
+		background: var(--gold-glow);
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+	.tag-count {
+		font-size: 0.625rem;
+		color: var(--ink-faint);
+	}
+
 	@media (max-width: 768px) {
 		.sidebar {
+			position: fixed;
+			left: 0;
+			top: 0;
+			bottom: 0;
 			width: 3.5rem;
+			z-index: 10;
 		}
 		.brand-name,
 		.brand-sub,
 		.sidebar-footer .nav-item :global(svg ~ *) {
+			display: none;
+		}
+		.sidebar-tags {
 			display: none;
 		}
 		.nav-item {

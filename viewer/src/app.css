@@ -92,6 +92,12 @@ a:hover {
 	background: var(--surface);
 }
 
+@media (max-width: 768px) {
+	.app-main {
+		margin-left: 3.5rem;
+	}
+}
+
 /* ── Loading / Error ───────────────────────────────────────── */
 .loading-screen,
 .error-screen {

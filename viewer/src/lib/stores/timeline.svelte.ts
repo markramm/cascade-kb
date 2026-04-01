@@ -45,6 +45,20 @@ const filtered = $derived.by(() => {
 
 const totalPages = $derived(Math.max(1, Math.ceil(filtered.length / PAGE_SIZE)));
 
+// Top tags across all events for faceted filtering
+const topTags = $derived.by(() => {
+	const counts = new Map<string, number>();
+	for (const e of events) {
+		for (const t of e.tags || []) {
+			counts.set(t, (counts.get(t) || 0) + 1);
+		}
+	}
+	return [...counts.entries()]
+		.sort((a, b) => b[1] - a[1])
+		.slice(0, 20)
+		.map(([name, count]) => ({ name, count }));
+});
+
 const paginated = $derived.by(() => {
 	const start = (page - 1) * PAGE_SIZE;
 	return filtered.slice(start, start + PAGE_SIZE);
@@ -59,6 +73,7 @@ async function load() {
 		if (!res.ok) throw new Error(`HTTP ${res.status}`);
 		const data: unknown = await res.json();
 		events = Array.isArray(data) ? data : (data as { events: TimelineEvent[] }).events;
+		restoreFromUrl();
 	} catch (e) {
 		error = e instanceof Error ? e.message : 'Unknown error';
 	} finally {
@@ -69,6 +84,7 @@ async function load() {
 function setSearch(q: string) {
 	search = q;
 	page = 1;
+	syncUrl();
 }
 
 function setSort(field: 'date' | 'title') {
@@ -78,10 +94,40 @@ function setSort(field: 'date' | 'title') {
 		sortField = field;
 		sortDir = 'asc';
 	}
+	syncUrl();
 }
 
 function setPage(p: number) {
 	page = Math.max(1, Math.min(p, totalPages));
+	syncUrl();
+}
+
+function syncUrl() {
+	if (typeof window === 'undefined') return;
+	const params = new URLSearchParams();
+	if (search) params.set('q', search);
+	if (sortField !== 'date') params.set('sort', sortField);
+	if (sortDir !== 'desc') params.set('dir', sortDir);
+	if (page > 1) params.set('page', String(page));
+	if (view !== 'table') params.set('view', view);
+	const qs = params.toString();
+	const newUrl = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+	history.replaceState(history.state, '', newUrl);
+}
+
+function restoreFromUrl() {
+	if (typeof window === 'undefined') return;
+	const params = new URLSearchParams(window.location.search);
+	const q = params.get('q');
+	if (q) search = q;
+	const s = params.get('sort');
+	if (s === 'title') sortField = 'title';
+	const d = params.get('dir');
+	if (d === 'asc') sortDir = 'asc';
+	const p = params.get('page');
+	if (p) page = Math.max(1, parseInt(p, 10) || 1);
+	const v = params.get('view');
+	if (v === 'd3') view = 'd3';
 }
 
 function setView(v: 'table' | 'd3') {
@@ -118,6 +164,7 @@ export const timeline = {
 	get view() { return view; },
 	get selectedIds() { return selectedIds; },
 	get pageSize() { return PAGE_SIZE; },
+	get topTags() { return topTags; },
 
 	load,
 	setSearch,
