@@ -3,10 +3,19 @@
 
 	let { count }: { count: number } = $props();
 
+	let actorFilter = $state('');
+
 	const navItems = [
 		{ view: 'table' as const, label: 'Timeline', icon: 'table' },
 		{ view: 'd3' as const, label: 'Visual Timeline', icon: 'chart' }
 	];
+
+	const filteredActors = $derived.by(() => {
+		const actors = timeline.topActors;
+		if (!actorFilter) return actors.slice(0, 20);
+		const q = actorFilter.toLowerCase();
+		return actors.filter((a) => a.name.toLowerCase().includes(q)).slice(0, 20);
+	});
 </script>
 
 <aside class="sidebar">
@@ -59,6 +68,32 @@
 					<span class="tag-count">{tag.count}</span>
 				</button>
 			{/each}
+		</div>
+	</div>
+
+	<div class="sidebar-actors">
+		<div class="actors-header">Actors</div>
+		<input
+			type="text"
+			class="actor-search"
+			placeholder="Search actors..."
+			bind:value={actorFilter}
+		/>
+		<div class="actor-list">
+			{#each filteredActors as actor}
+				<button
+					class="actor-item"
+					class:active={timeline.search === actor.name}
+					onclick={() => timeline.setSearch(timeline.search === actor.name ? '' : actor.name)}
+					title="{actor.name} ({actor.count} events)"
+				>
+					<span class="actor-name">{actor.name}</span>
+					<span class="actor-count">{actor.count}</span>
+				</button>
+			{/each}
+			{#if filteredActors.length === 0}
+				<div class="actor-empty">No actors found</div>
+			{/if}
 		</div>
 	</div>
 
@@ -124,7 +159,7 @@
 	}
 
 	.sidebar-nav {
-		flex: 1;
+		flex-shrink: 0;
 		padding: 0.75rem 0;
 	}
 
@@ -166,8 +201,7 @@
 
 	.sidebar-tags {
 		padding: 0.75rem 1.25rem;
-		flex: 1;
-		overflow-y: auto;
+		flex-shrink: 0;
 	}
 	.tags-header {
 		font-size: 0.6875rem;
@@ -211,6 +245,91 @@
 		color: var(--ink-faint);
 	}
 
+	.sidebar-actors {
+		padding: 0.75rem 1.25rem;
+		flex: 1;
+		overflow-y: auto;
+		min-height: 0;
+		border-top: 1px solid var(--border);
+	}
+	.actors-header {
+		font-size: 0.6875rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: var(--ink-faint);
+		margin-bottom: 0.5rem;
+	}
+	.actor-search {
+		width: 100%;
+		padding: 0.3rem 0.5rem;
+		font-size: 0.75rem;
+		font-family: inherit;
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.25rem;
+		color: var(--ink);
+		margin-bottom: 0.5rem;
+		outline: none;
+		box-sizing: border-box;
+	}
+	.actor-search::placeholder {
+		color: var(--ink-faint);
+	}
+	.actor-search:focus {
+		border-color: var(--gold-border);
+	}
+	.actor-list {
+		display: flex;
+		flex-direction: column;
+		gap: 1px;
+	}
+	.actor-item {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		padding: 0.3rem 0.5rem;
+		font-size: 0.75rem;
+		font-family: inherit;
+		background: none;
+		border: 1px solid transparent;
+		border-radius: 0.25rem;
+		color: var(--ink-soft);
+		cursor: pointer;
+		transition: all 0.15s;
+		text-align: left;
+	}
+	.actor-item:hover {
+		background: var(--surface-overlay);
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+	.actor-item.active {
+		background: var(--gold-glow);
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+	.actor-name {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		flex: 1;
+		min-width: 0;
+	}
+	.actor-count {
+		font-size: 0.625rem;
+		color: var(--ink-faint);
+		flex-shrink: 0;
+		margin-left: 0.5rem;
+	}
+	.actor-empty {
+		font-size: 0.6875rem;
+		color: var(--ink-faint);
+		padding: 0.5rem;
+		text-align: center;
+	}
+
 	@media (max-width: 768px) {
 		.sidebar {
 			position: fixed;
@@ -226,6 +345,9 @@
 			display: none;
 		}
 		.sidebar-tags {
+			display: none;
+		}
+		.sidebar-actors {
 			display: none;
 		}
 		.nav-item {

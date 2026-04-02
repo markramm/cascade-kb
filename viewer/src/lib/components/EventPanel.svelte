@@ -1,10 +1,22 @@
 <script lang="ts">
 	import { timeline } from '$lib/stores/timeline.svelte';
 	import type { TimelineEvent } from '$lib/types';
+	import { onMount } from 'svelte';
 
 	const SITE_BASE = '/site/cascade-timeline';
 
 	let { event, onclose }: { event: TimelineEvent; onclose: () => void } = $props();
+	let fullEvent = $state<TimelineEvent>(event);
+	let loadingDetail = $state(!event.body);
+
+	// Lazy-load body/sources if not present (lightweight index mode)
+	onMount(async () => {
+		if (!event.body) {
+			const detail = await timeline.loadEventDetail(event.id);
+			if (detail) fullEvent = detail;
+			loadingDetail = false;
+		}
+	});
 
 	function escapeHtml(text: string): string {
 		return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -68,14 +80,18 @@
 		{/if}
 
 		<div class="panel-body">
-			{@html renderBody(event.body || '')}
+			{#if loadingDetail}
+				<div class="loading-body">Loading details...</div>
+			{:else}
+				{@html renderBody(fullEvent.body || '')}
+			{/if}
 		</div>
 
-		{#if event.sources && event.sources.length > 0}
+		{#if fullEvent.sources && fullEvent.sources.length > 0}
 			<div class="panel-sources">
-				<h3>Sources ({event.sources.length})</h3>
+				<h3>Sources ({fullEvent.sources.length})</h3>
 				<ol>
-					{#each event.sources as source}
+					{#each fullEvent.sources as source}
 						<li>
 							{#if source.url}
 								<a href={source.url} target="_blank" rel="noopener noreferrer">
@@ -244,6 +260,11 @@
 	}
 	.panel-body :global(p) {
 		margin: 0 0 0.75rem 0;
+	}
+	.loading-body {
+		color: var(--ink-faint);
+		font-style: italic;
+		padding: 1rem 0;
 	}
 
 	.panel-sources {

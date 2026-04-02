@@ -23,6 +23,9 @@
 	let currentTransform = $state(d3.zoomIdentity);
 	let tooltip = $state<{ x: number; y: number; event: TimelineEvent } | null>(null);
 
+	// Keep a reference to the zoom behavior so controls can call it
+	let zoomBehavior = $state<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
+
 	// Resize observer
 	function observeResize(node: HTMLDivElement) {
 		const ro = new ResizeObserver((entries) => {
@@ -57,6 +60,89 @@
 		const padding = (end.getTime() - start.getTime()) * 0.05;
 		return [new Date(start.getTime() - padding), new Date(end.getTime() + padding)] as [Date, Date];
 	});
+
+	// ── Zoom control helpers ─────────────────────────────────────
+	function zoomIn() {
+		if (!svg || !zoomBehavior) return;
+		d3.select(svg).transition().duration(300).call(zoomBehavior.scaleBy as any, 1.5);
+	}
+
+	function zoomOut() {
+		if (!svg || !zoomBehavior) return;
+		d3.select(svg).transition().duration(300).call(zoomBehavior.scaleBy as any, 1 / 1.5);
+	}
+
+	function fitAll() {
+		if (!svg || !zoomBehavior) return;
+		d3.select(svg).transition().duration(300).call(zoomBehavior.transform as any, d3.zoomIdentity);
+	}
+
+	function zoomToDateRange(startDate: Date, endDate: Date) {
+		if (!svg || !zoomBehavior || !width) return;
+
+		const xScale = d3.scaleTime()
+			.domain(fullTimeDomain)
+			.range([MARGIN.left, width - MARGIN.right]);
+
+		const x1 = xScale(startDate);
+		const x2 = xScale(endDate);
+		const chartWidth = width - MARGIN.left - MARGIN.right;
+
+		if (x2 - x1 <= 0) return;
+
+		const k = chartWidth / (x2 - x1);
+		const tx = MARGIN.left - x1 * k;
+
+		d3.select(svg)
+			.transition()
+			.duration(400)
+			.call(zoomBehavior.transform as any, d3.zoomIdentity.translate(tx, 0).scale(k));
+	}
+
+	function panBy(deltaX: number) {
+		if (!svg || !zoomBehavior) return;
+		d3.select(svg).transition().duration(150).call(zoomBehavior.translateBy as any, deltaX, 0);
+	}
+
+	// ── Keyboard shortcuts ───────────────────────────────────────
+	function handleKeydown(e: KeyboardEvent) {
+		// Only handle when timeline view is active and no input is focused
+		const tag = (e.target as HTMLElement)?.tagName;
+		if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
+
+		switch (e.key) {
+			case '+':
+			case '=':
+				e.preventDefault();
+				zoomIn();
+				break;
+			case '-':
+				e.preventDefault();
+				zoomOut();
+				break;
+			case '0':
+			case 'Home':
+				e.preventDefault();
+				fitAll();
+				break;
+			case 'ArrowLeft':
+				e.preventDefault();
+				panBy(80);
+				break;
+			case 'ArrowRight':
+				e.preventDefault();
+				panBy(-80);
+				break;
+		}
+	}
+
+	// ── Date range preset definitions ────────────────────────────
+	const datePresets = [
+		{ label: 'All', action: () => fitAll() },
+		{ label: '2020s', action: () => zoomToDateRange(new Date('2020-01-01'), new Date('2029-12-31')) },
+		{ label: '2025', action: () => zoomToDateRange(new Date('2025-01-01'), new Date('2025-12-31')) },
+		{ label: '2026', action: () => zoomToDateRange(new Date('2026-01-01'), new Date('2026-12-31')) }
+	];
 
 	// D3 render effect
 	$effect(() => {
@@ -95,6 +181,9 @@
 				currentTransform = event.transform;
 			});
 
+		// Store zoom behavior for controls
+		zoomBehavior = zoom;
+
 		svgEl.call(zoom as any).on('dblclick.zoom', null);
 
 		// Restore transform
@@ -119,10 +208,11 @@
 
 			gridG.append('text')
 				.attr('x', MARGIN.left - 8)
-				.attr('y', y + 4)
+				.attr('y', y + 5)
 				.attr('text-anchor', 'end')
-				.style('fill', 'var(--ink-faint)')
-				.style('font-size', '10px')
+				.style('fill', 'var(--ink-soft)')
+				.style('font-size', '12px')
+				.style('font-weight', '500')
 				.style('font-family', "'DM Sans', sans-serif")
 				.text(group.charAt(0).toUpperCase() + group.slice(1));
 		}
@@ -265,12 +355,57 @@
 	});
 </script>
 
+<svelte:window on:keydown={handleKeydown} />
+
 <div class="timeline-view" bind:this={wrapper} use:observeResize>
 	<svg bind:this={svg}></svg>
 
 	<!-- Zoom level indicator -->
 	<div class="zoom-badge">
 		{currentTransform.k.toFixed(1)}x
+	</div>
+
+	<!-- Floating control panel -->
+	<div class="controls-panel">
+		<!-- Date range presets -->
+		<div class="presets-row">
+			{#each datePresets as preset}
+				<button
+					class="preset-btn"
+					onclick={() => preset.action()}
+					title="Jump to {preset.label}"
+				>
+					{preset.label}
+				</button>
+			{/each}
+		</div>
+
+		<div class="controls-divider"></div>
+
+		<!-- Zoom buttons -->
+		<div class="zoom-buttons">
+			<button class="zoom-btn" onclick={zoomIn} title="Zoom in (+)">
+				<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+					<line x1="8" y1="3" x2="8" y2="13" />
+					<line x1="3" y1="8" x2="13" y2="8" />
+				</svg>
+			</button>
+			<button class="zoom-btn" onclick={zoomOut} title="Zoom out (-)">
+				<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+					<line x1="3" y1="8" x2="13" y2="8" />
+				</svg>
+			</button>
+			<button class="zoom-btn" onclick={fitAll} title="Fit all (0 / Home)">
+				<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.5">
+					<path d="M8 2 L14 7 L14 14 L2 14 L2 7 Z" />
+					<rect x="6" y="9" width="4" height="5" />
+				</svg>
+			</button>
+		</div>
+
+		<div class="controls-hint">
+			<kbd>+</kbd><kbd>-</kbd> zoom &middot; <kbd>&larr;</kbd><kbd>&rarr;</kbd> pan
+		</div>
 	</div>
 
 	<!-- Tooltip -->
@@ -312,6 +447,104 @@
 		font-size: 0.6875rem;
 		font-family: 'JetBrains Mono', monospace;
 		color: var(--ink-muted);
+	}
+
+	/* ── Floating control panel ────────────────────────────────── */
+	.controls-panel {
+		position: absolute;
+		bottom: 1rem;
+		right: 1rem;
+		background: rgba(31, 31, 35, 0.92);
+		border: 1px solid var(--border);
+		border-radius: 0.5rem;
+		padding: 0.5rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.375rem;
+		backdrop-filter: blur(8px);
+		-webkit-backdrop-filter: blur(8px);
+		z-index: 5;
+	}
+
+	.presets-row {
+		display: flex;
+		gap: 0.25rem;
+	}
+
+	.preset-btn {
+		flex: 1;
+		padding: 0.25rem 0.5rem;
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.25rem;
+		color: var(--ink-soft);
+		font-family: 'DM Sans', sans-serif;
+		font-size: 0.6875rem;
+		font-weight: 500;
+		cursor: pointer;
+		transition: all 0.15s ease;
+		white-space: nowrap;
+	}
+
+	.preset-btn:hover {
+		background: var(--gold-glow);
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+
+	.controls-divider {
+		height: 1px;
+		background: var(--border);
+		margin: 0.125rem 0;
+	}
+
+	.zoom-buttons {
+		display: flex;
+		gap: 0.25rem;
+	}
+
+	.zoom-btn {
+		flex: 1;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.375rem;
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.25rem;
+		color: var(--ink-soft);
+		cursor: pointer;
+		transition: all 0.15s ease;
+	}
+
+	.zoom-btn:hover {
+		background: var(--gold-glow);
+		border-color: var(--gold-border);
+		color: var(--gold);
+	}
+
+	.zoom-btn:active {
+		transform: scale(0.95);
+	}
+
+	.controls-hint {
+		text-align: center;
+		font-size: 0.5625rem;
+		color: var(--ink-faint);
+		font-family: 'DM Sans', sans-serif;
+		padding-top: 0.125rem;
+	}
+
+	.controls-hint kbd {
+		display: inline-block;
+		padding: 0 0.2rem;
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.15rem;
+		font-family: 'JetBrains Mono', monospace;
+		font-size: 0.5rem;
+		color: var(--ink-muted);
+		line-height: 1.4;
 	}
 
 	.tooltip {

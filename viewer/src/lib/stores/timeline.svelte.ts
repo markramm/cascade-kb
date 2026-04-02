@@ -29,7 +29,8 @@ const filtered = $derived.by(() => {
 			(e) =>
 				e.title.toLowerCase().includes(q) ||
 				(e.summary || '').toLowerCase().includes(q) ||
-				(e.tags || []).some((t) => t.toLowerCase().includes(q))
+				(e.tags || []).some((t) => t.toLowerCase().includes(q)) ||
+				(e.actors || []).some((a) => a.toLowerCase().includes(q))
 		);
 	}
 
@@ -59,17 +60,39 @@ const topTags = $derived.by(() => {
 		.map(([name, count]) => ({ name, count }));
 });
 
+// Top actors across all events for faceted filtering
+const topActors = $derived.by(() => {
+	const counts = new Map<string, number>();
+	for (const e of events) {
+		for (const a of e.actors || []) {
+			counts.set(a, (counts.get(a) || 0) + 1);
+		}
+	}
+	return [...counts.entries()]
+		.sort((a, b) => b[1] - a[1])
+		.slice(0, 50)
+		.map(([name, count]) => ({ name, count }));
+});
+
 const paginated = $derived.by(() => {
 	const start = (page - 1) * PAGE_SIZE;
 	return filtered.slice(start, start + PAGE_SIZE);
 });
+
+// ── Detail cache (body + sources loaded on demand) ───────────
+let detailCache = $state<Map<string, TimelineEvent>>(new Map());
 
 // ── Actions ───────────────────────────────────────────────────
 async function load() {
 	loading = true;
 	error = null;
 	try {
-		const res = await fetch(`${base}/api/timeline.json`);
+		// Load lightweight index first (no body/sources — much smaller)
+		let res = await fetch(`${base}/api/timeline-index.json`);
+		if (!res.ok) {
+			// Fallback to full timeline.json if index not available
+			res = await fetch(`${base}/api/timeline.json`);
+		}
 		if (!res.ok) throw new Error(`HTTP ${res.status}`);
 		const data: unknown = await res.json();
 		events = Array.isArray(data) ? data : (data as { events: TimelineEvent[] }).events;
@@ -78,6 +101,31 @@ async function load() {
 		error = e instanceof Error ? e.message : 'Unknown error';
 	} finally {
 		loading = false;
+	}
+}
+
+async function loadEventDetail(eventId: string): Promise<TimelineEvent | null> {
+	// Check if body already loaded (from full timeline.json or cache)
+	const existing = events.find(e => e.id === eventId);
+	if (existing && existing.body) return existing;
+
+	// Check cache
+	if (detailCache.has(eventId)) return detailCache.get(eventId)!;
+
+	// Load full timeline.json and cache all bodies
+	try {
+		const res = await fetch(`${base}/api/timeline.json`);
+		if (!res.ok) return existing ?? null;
+		const data: unknown = await res.json();
+		const fullEvents: TimelineEvent[] = Array.isArray(data) ? data : (data as { events: TimelineEvent[] }).events;
+		const newCache = new Map(detailCache);
+		for (const e of fullEvents) {
+			newCache.set(e.id, e);
+		}
+		detailCache = newCache;
+		return newCache.get(eventId) ?? existing ?? null;
+	} catch {
+		return existing ?? null;
 	}
 }
 
@@ -165,8 +213,10 @@ export const timeline = {
 	get selectedIds() { return selectedIds; },
 	get pageSize() { return PAGE_SIZE; },
 	get topTags() { return topTags; },
+	get topActors() { return topActors; },
 
 	load,
+	loadEventDetail,
 	setSearch,
 	setSort,
 	setPage,
