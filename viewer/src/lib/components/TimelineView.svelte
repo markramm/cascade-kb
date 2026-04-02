@@ -26,6 +26,9 @@
 	// Keep a reference to the zoom behavior so controls can call it
 	let zoomBehavior = $state<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
 
+	// Track whether initial zoom to 2020s has been applied
+	let initialZoomDone = false;
+
 	// Resize observer
 	function observeResize(node: HTMLDivElement) {
 		const ro = new ResizeObserver((entries) => {
@@ -352,6 +355,15 @@
 				}
 			}
 		});
+
+		// On first render, zoom to 2020s instead of showing full 1142-2026 range
+		if (!initialZoomDone) {
+			initialZoomDone = true;
+			// Use tick() equivalent: schedule after D3 has finished rendering
+			requestAnimationFrame(() => {
+				zoomToDateRange(new Date('2020-01-01'), new Date('2029-12-31'));
+			});
+		}
 	});
 </script>
 
@@ -371,9 +383,9 @@
 		<div class="presets-row">
 			{#each datePresets as preset}
 				<button
-					class="preset-btn"
+					class="preset-btn {preset.label === 'All' ? 'preset-btn--all' : ''}"
 					onclick={() => preset.action()}
-					title="Jump to {preset.label}"
+					title={preset.label === 'All' ? 'Show full range (0 / Home)' : `Jump to ${preset.label}`}
 				>
 					{preset.label}
 				</button>
@@ -490,6 +502,20 @@
 		background: var(--gold-glow);
 		border-color: var(--gold-border);
 		color: var(--gold);
+	}
+
+	.preset-btn--all {
+		background: transparent;
+		border-style: dashed;
+		color: var(--ink-faint);
+		font-weight: 400;
+	}
+
+	.preset-btn--all:hover {
+		background: var(--surface-overlay);
+		border-style: solid;
+		color: var(--ink-soft);
+		border-color: var(--border);
 	}
 
 	.controls-divider {

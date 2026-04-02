@@ -57,6 +57,30 @@
 		</div>
 	</div>
 
+	<div class="date-filter">
+		<label class="date-label">
+			From
+			<input
+				type="date"
+				class="date-input"
+				value={timeline.dateFrom}
+				onchange={(e) => timeline.setDateRange(e.currentTarget.value, timeline.dateTo)}
+			/>
+		</label>
+		<label class="date-label">
+			To
+			<input
+				type="date"
+				class="date-input"
+				value={timeline.dateTo}
+				onchange={(e) => timeline.setDateRange(timeline.dateFrom, e.currentTarget.value)}
+			/>
+		</label>
+		{#if timeline.dateFrom || timeline.dateTo}
+			<button class="date-clear-btn" onclick={() => timeline.setDateRange('', '')}>Clear</button>
+		{/if}
+	</div>
+
 	<div class="table-wrapper">
 		<table>
 			<thead>
@@ -93,7 +117,7 @@
 			</thead>
 			<tbody>
 				{#each timeline.paginated as event (event.id)}
-					<tr class="event-row">
+					<tr class="event-row" style="border-left: 3px solid {event.importance >= 8 ? '#ef4444' : event.importance >= 6 ? '#f59e0b' : 'transparent'}">
 						<td class="col-date">
 							<span class="date-text">{event.date}</span>
 						</td>
@@ -133,8 +157,8 @@
 				{:else}
 					<tr>
 						<td colspan="4" class="empty-state">
-							{#if timeline.search}
-								No events matching "{timeline.search}"
+							{#if timeline.search || timeline.dateFrom || timeline.dateTo}
+								No events matching current filters
 							{:else}
 								No events found.
 							{/if}
@@ -253,6 +277,53 @@
 	}
 	.clear-btn:hover {
 		color: var(--ink);
+	}
+
+	/* ── Date filter ────────────────────────────────────────── */
+	.date-filter {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 1rem;
+		flex-wrap: wrap;
+	}
+	.date-label {
+		display: flex;
+		align-items: center;
+		gap: 0.375rem;
+		font-size: 0.8125rem;
+		color: var(--ink-muted);
+	}
+	.date-input {
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.375rem;
+		padding: 0.375rem 0.5rem;
+		color: var(--ink);
+		font-size: 0.8125rem;
+		font-family: inherit;
+		outline: none;
+		transition: border-color 0.15s;
+		color-scheme: dark;
+	}
+	.date-input:focus {
+		border-color: var(--gold-border);
+	}
+	.date-clear-btn {
+		background: var(--surface-overlay);
+		border: 1px solid var(--border);
+		border-radius: 0.375rem;
+		padding: 0.375rem 0.75rem;
+		color: var(--ink-muted);
+		font-size: 0.8125rem;
+		font-family: inherit;
+		cursor: pointer;
+		transition: all 0.15s;
+	}
+	.date-clear-btn:hover {
+		border-color: var(--border-light);
+		color: var(--ink);
+		background: var(--surface-raised);
 	}
 
 	/* ── Table ───────────────────────────────────────────── */
@@ -442,6 +513,16 @@
 		}
 		.search-box {
 			width: 100%;
+		}
+		.date-filter {
+			flex-direction: column;
+			align-items: stretch;
+		}
+		.date-label {
+			justify-content: space-between;
+		}
+		.date-input {
+			flex: 1;
 		}
 		.col-tags {
 			display: none;

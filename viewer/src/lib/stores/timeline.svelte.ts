@@ -11,6 +11,8 @@ let search = $state('');
 let sortField = $state<'date' | 'title'>('date');
 let sortDir = $state<'asc' | 'desc'>('desc');
 let page = $state(1);
+let dateFrom = $state('');
+let dateTo = $state('');
 const PAGE_SIZE = 25;
 
 // ── View mode ─────────────────────────────────────────────────
@@ -32,6 +34,13 @@ const filtered = $derived.by(() => {
 				(e.tags || []).some((t) => t.toLowerCase().includes(q)) ||
 				(e.actors || []).some((a) => a.toLowerCase().includes(q))
 		);
+	}
+
+	if (dateFrom) {
+		result = result.filter((e) => e.date >= dateFrom);
+	}
+	if (dateTo) {
+		result = result.filter((e) => e.date <= dateTo);
 	}
 
 	result = [...result].sort((a, b) => {
@@ -135,6 +144,13 @@ function setSearch(q: string) {
 	syncUrl();
 }
 
+function setDateRange(from: string, to: string) {
+	dateFrom = from;
+	dateTo = to;
+	page = 1;
+	syncUrl();
+}
+
 function setSort(field: 'date' | 'title') {
 	if (sortField === field) {
 		sortDir = sortDir === 'asc' ? 'desc' : 'asc';
@@ -154,6 +170,8 @@ function syncUrl() {
 	if (typeof window === 'undefined') return;
 	const params = new URLSearchParams();
 	if (search) params.set('q', search);
+	if (dateFrom) params.set('from', dateFrom);
+	if (dateTo) params.set('to', dateTo);
 	if (sortField !== 'date') params.set('sort', sortField);
 	if (sortDir !== 'desc') params.set('dir', sortDir);
 	if (page > 1) params.set('page', String(page));
@@ -168,6 +186,10 @@ function restoreFromUrl() {
 	const params = new URLSearchParams(window.location.search);
 	const q = params.get('q');
 	if (q) search = q;
+	const fromParam = params.get('from');
+	if (fromParam) dateFrom = fromParam;
+	const toParam = params.get('to');
+	if (toParam) dateTo = toParam;
 	const s = params.get('sort');
 	if (s === 'title') sortField = 'title';
 	const d = params.get('dir');
@@ -212,12 +234,15 @@ export const timeline = {
 	get view() { return view; },
 	get selectedIds() { return selectedIds; },
 	get pageSize() { return PAGE_SIZE; },
+	get dateFrom() { return dateFrom; },
+	get dateTo() { return dateTo; },
 	get topTags() { return topTags; },
 	get topActors() { return topActors; },
 
 	load,
 	loadEventDetail,
 	setSearch,
+	setDateRange,
 	setSort,
 	setPage,
 	setView,
