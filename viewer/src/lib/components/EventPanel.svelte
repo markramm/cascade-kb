@@ -64,7 +64,7 @@
 		{#if event.capture_lanes && event.capture_lanes.length > 0}
 			<div class="panel-lanes">
 				{#each event.capture_lanes as lane}
-					<span class="lane-badge">{lane}</span>
+					<button class="lane-badge" onclick={() => { onclose(); timeline.setSearch(lane); }}>{lane}</button>
 				{/each}
 			</div>
 		{/if}
@@ -237,12 +237,18 @@
 		margin-bottom: 0.75rem;
 	}
 	.lane-badge {
+		font-family: inherit;
 		font-size: 0.6875rem;
 		padding: 0.1rem 0.4rem;
 		background: var(--gold-glow);
 		border: 1px solid var(--gold-border);
 		border-radius: 0.25rem;
 		color: var(--gold);
+		cursor: pointer;
+		transition: all 0.15s;
+	}
+	.lane-badge:hover {
+		background: var(--gold-border);
 	}
 
 	.panel-tags {
