@@ -1,15 +1,34 @@
 <script lang="ts">
 	import { timeline } from '$lib/stores/timeline.svelte';
+	import EventPanel from './EventPanel.svelte';
+	import type { TimelineEvent } from '$lib/types';
 
 	const SITE_BASE = '/site/cascade-timeline';
 
+	let selectedEvent = $state<TimelineEvent | null>(null);
+
+	function openEvent(event: TimelineEvent, e: MouseEvent) {
+		e.preventDefault();
+		selectedEvent = event;
+	}
+
+	function closePanel() {
+		selectedEvent = null;
+	}
+
 	function handleKeydown(e: KeyboardEvent) {
+		if (e.key === 'Escape' && selectedEvent) {
+			closePanel();
+			return;
+		}
 		if (e.key === 'Enter' || e.key === ' ') {
 			const target = e.currentTarget as HTMLElement;
 			target.click();
 		}
 	}
 </script>
+
+<svelte:window onkeydown={handleKeydown} />
 
 <div class="table-container">
 	<div class="table-controls">
@@ -79,7 +98,7 @@
 							<span class="date-text">{event.date}</span>
 						</td>
 						<td class="col-title">
-							<a href="{SITE_BASE}/{encodeURIComponent(event.id)}" class="event-title">
+							<a href="{SITE_BASE}/{encodeURIComponent(event.id)}" class="event-title" onclick={(e) => openEvent(event, e)}>
 								{event.title}
 							</a>
 							{#if event.summary}
@@ -158,6 +177,10 @@
 		</div>
 	{/if}
 </div>
+
+{#if selectedEvent}
+	<EventPanel event={selectedEvent} onclose={closePanel} />
+{/if}
 
 <style>
 	.table-container {

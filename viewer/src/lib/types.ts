@@ -2,18 +2,18 @@ export interface TimelineEvent {
 	id: string;
 	title: string;
 	date: string;
-	summary: string;
-	content?: string;
-	type?: 'legislative' | 'judicial' | 'financial' | 'corporate' | 'political' | 'cultural';
+	body: string;
 	tags: string[];
-	entities?: string[];
+	actors: string[];
 	importance: number;
-	status: 'confirmed' | 'likely' | 'disputed' | 'retracted';
+	status: string;
 	sources: Array<{
-		url: string;
 		title?: string;
-		date_accessed?: string;
-		tier?: '1' | '2' | '3';
+		url?: string;
+		outlet?: string;
+		date?: string;
 	}>;
-	group?: string;
+	capture_lanes?: string[];
+	location?: string;
+	summary?: string;
 }
