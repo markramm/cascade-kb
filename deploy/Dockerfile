@@ -21,7 +21,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # Clone and install pyrite from a specific release tag
-ARG PYRITE_VERSION=v0.21.0
+ARG PYRITE_VERSION=v0.22.0
 RUN git clone --branch $PYRITE_VERSION --depth=1 https://github.com/markramm/pyrite.git /tmp/pyrite && \
     cd /tmp/pyrite && \
     pip install --no-cache-dir ".[server,ai,cli]" && \
