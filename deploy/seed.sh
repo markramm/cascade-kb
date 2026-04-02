@@ -15,7 +15,8 @@ if not config_path.exists():
             'name': 'cascade-timeline',
             'path': '/data/cascade-timeline',
             'type': 'journalism-investigation',
-            'description': 'The Capture Cascade Timeline — documenting the systematic erosion of democratic institutions. 4,400+ verified events with source citations.'
+            'read_only': True,
+            'description': 'The Capture Cascade Timeline — documenting the systematic erosion of democratic institutions. 4,500+ verified events with source citations.'
         }],
         'settings': {
             'index_path': '/data/index.db',
