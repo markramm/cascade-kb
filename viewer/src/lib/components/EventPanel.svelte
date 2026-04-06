@@ -23,13 +23,42 @@
 	}
 
 	function renderBody(body: string): string {
-		// Basic markdown-like rendering: paragraphs + bold
+		// Markdown-like rendering: paragraphs, bold, italic, links, lists, blockquotes
 		return body
 			.split('\n\n')
 			.map(p => p.trim())
 			.filter(Boolean)
-			.map(p => `<p>${escapeHtml(p).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`)
+			.map(block => {
+				// Blockquote
+				if (block.startsWith('> ')) {
+					const content = block.split('\n').map(l => l.replace(/^>\s?/, '')).join(' ');
+					return `<blockquote>${inlineFormat(content)}</blockquote>`;
+				}
+				// Unordered list
+				if (/^[-*]\s/.test(block)) {
+					const items = block.split('\n').filter(l => /^[-*]\s/.test(l)).map(l => l.replace(/^[-*]\s+/, ''));
+					return `<ul>${items.map(li => `<li>${inlineFormat(li)}</li>`).join('')}</ul>`;
+				}
+				// Ordered list
+				if (/^\d+\.\s/.test(block)) {
+					const items = block.split('\n').filter(l => /^\d+\.\s/.test(l)).map(l => l.replace(/^\d+\.\s+/, ''));
+					return `<ol>${items.map(li => `<li>${inlineFormat(li)}</li>`).join('')}</ol>`;
+				}
+				// Paragraph
+				return `<p>${inlineFormat(block)}</p>`;
+			})
 			.join('');
+	}
+
+	function inlineFormat(text: string): string {
+		let s = escapeHtml(text);
+		// Bold
+		s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+		// Italic
+		s = s.replace(/\*(.+?)\*/g, '<em>$1</em>');
+		// Links [text](url)
+		s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+		return s;
 	}
 </script>
 
@@ -266,6 +295,20 @@
 	}
 	.panel-body :global(p) {
 		margin: 0 0 0.75rem 0;
+	}
+	.panel-body :global(blockquote) {
+		margin: 0 0 0.75rem 0; padding: 0.5rem 0.75rem;
+		border-left: 3px solid var(--gold-border); background: var(--surface-overlay);
+		color: var(--ink-soft); font-style: italic;
+	}
+	.panel-body :global(ul), .panel-body :global(ol) {
+		margin: 0 0 0.75rem 0; padding-left: 1.25rem;
+	}
+	.panel-body :global(li) {
+		margin-bottom: 0.25rem;
+	}
+	.panel-body :global(a) {
+		color: var(--gold);
 	}
 	.loading-body {
 		color: var(--ink-faint);

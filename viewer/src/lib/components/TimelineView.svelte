@@ -420,6 +420,16 @@
 		</div>
 	</div>
 
+	<!-- Category legend -->
+	<div class="legend">
+		{#each GROUPS as group}
+			<span class="legend-item">
+				<span class="legend-dot" style="background: {GROUP_COLORS[group]}"></span>
+				{group}
+			</span>
+		{/each}
+	</div>
+
 	<!-- Tooltip -->
 	{#if tooltip}
 		<div
@@ -571,6 +581,41 @@
 		font-size: 0.5rem;
 		color: var(--ink-muted);
 		line-height: 1.4;
+	}
+
+	/* ── Category legend ───────────────────────────────────── */
+	.legend {
+		position: absolute;
+		bottom: 1rem;
+		left: 1rem;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem 0.75rem;
+		background: rgba(31, 31, 35, 0.92);
+		border: 1px solid var(--border);
+		border-radius: 0.5rem;
+		padding: 0.375rem 0.625rem;
+		backdrop-filter: blur(8px);
+		-webkit-backdrop-filter: blur(8px);
+		z-index: 5;
+		font-size: 0.6875rem;
+		color: var(--ink-soft);
+		font-family: 'DM Sans', sans-serif;
+	}
+
+	.legend-item {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.3rem;
+		white-space: nowrap;
+	}
+
+	.legend-dot {
+		display: inline-block;
+		width: 8px;
+		height: 8px;
+		border-radius: 50%;
+		flex-shrink: 0;
 	}
 
 	.tooltip {

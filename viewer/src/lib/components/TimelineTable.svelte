@@ -34,6 +34,11 @@
 	<div class="table-controls">
 		<div class="controls-left">
 			<h2>Timeline Explorer</h2>
+			<span class="stats-bar">
+				{timeline.events.length.toLocaleString()} events &middot;
+				{timeline.topActors.length.toLocaleString()} actors &middot;
+				{timeline.topTags.length.toLocaleString()} tags
+			</span>
 			<span class="result-count">{timeline.filtered.length.toLocaleString()} events</span>
 		</div>
 		<div class="search-box">
@@ -112,7 +117,6 @@
 						{/if}
 					</th>
 					<th>Tags</th>
-					<th class="col-link-head"></th>
 				</tr>
 			</thead>
 			<tbody>
@@ -139,24 +143,10 @@
 								{/if}
 							</div>
 						</td>
-						<td class="col-link">
-							<a
-								href="{SITE_BASE}/{encodeURIComponent(event.id)}"
-								class="view-link"
-								title="View entry"
-								aria-label="View {event.title}"
-							>
-								<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-									<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-									<polyline points="15 3 21 3 21 9" />
-									<line x1="10" y1="14" x2="21" y2="3" />
-								</svg>
-							</a>
-						</td>
 					</tr>
 				{:else}
 					<tr>
-						<td colspan="4" class="empty-state">
+						<td colspan="3" class="empty-state">
 							{#if timeline.search || timeline.dateFrom || timeline.dateTo}
 								No events matching current filters
 							{:else}
@@ -229,6 +219,10 @@
 	.controls-left h2 {
 		font-size: 1.25rem;
 		font-weight: 600;
+	}
+	.stats-bar {
+		font-size: 0.75rem;
+		color: var(--ink-faint);
 	}
 	.result-count {
 		font-size: 0.8125rem;
@@ -365,8 +359,6 @@
 	}
 
 	.col-date-head { width: 110px; }
-	.col-link-head { width: 40px; }
-
 	/* ── Rows ────────────────────────────────────────────── */
 	.event-row {
 		transition: background 0.1s;
@@ -419,19 +411,6 @@
 		display: flex;
 		gap: 0.25rem;
 		flex-wrap: wrap;
-	}
-
-	.col-link {
-		text-align: center;
-	}
-	.view-link {
-		color: var(--ink-faint);
-		transition: color 0.15s;
-		display: inline-flex;
-	}
-	.view-link:hover {
-		color: var(--gold);
-		text-decoration: none;
 	}
 
 	.empty-state {
