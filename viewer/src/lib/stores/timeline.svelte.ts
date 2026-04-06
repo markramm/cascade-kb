@@ -200,6 +200,13 @@ function restoreFromUrl() {
 	if (v === 'd3') view = 'd3';
 }
 
+function getVisibleDateRange(): [string, string] | null {
+	const items = paginated;
+	if (!items.length) return null;
+	const dates = items.map(e => e.date).filter(Boolean).sort();
+	return dates.length ? [dates[0], dates[dates.length - 1]] : null;
+}
+
 function setView(v: 'table' | 'd3') {
 	view = v;
 }
@@ -246,6 +253,7 @@ export const timeline = {
 	setSort,
 	setPage,
 	setView,
+	getVisibleDateRange,
 	selectEvent,
 	clearSelection
 };

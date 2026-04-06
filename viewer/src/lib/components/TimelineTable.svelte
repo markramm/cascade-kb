@@ -86,6 +86,26 @@
 		{/if}
 	</div>
 
+	{#if timeline.search || timeline.dateFrom || timeline.dateTo}
+		<div class="filter-bar">
+			{#if timeline.search}
+				<span class="filter-chip">
+					Search: {timeline.search}
+					<button class="chip-dismiss" onclick={() => timeline.setSearch('')}>&times;</button>
+				</span>
+			{/if}
+			{#if timeline.dateFrom || timeline.dateTo}
+				<span class="filter-chip">
+					Dates: {timeline.dateFrom || '...'} &ndash; {timeline.dateTo || '...'}
+					<button class="chip-dismiss" onclick={() => timeline.setDateRange('', '')}>&times;</button>
+				</span>
+			{/if}
+			<button class="clear-all" onclick={() => { timeline.setSearch(''); timeline.setDateRange('', ''); }}>
+				Clear all
+			</button>
+		</div>
+	{/if}
+
 	<div class="table-wrapper">
 		<table>
 			<thead>
@@ -131,6 +151,9 @@
 							</a>
 							{#if event.summary}
 								<div class="event-summary">{event.summary.substring(0, 120)}{event.summary.length > 120 ? '...' : ''}</div>
+							{/if}
+							{#if event.body}
+								<div class="event-preview">{event.body.substring(0, 120)}{event.body.length > 120 ? '...' : ''}</div>
 							{/if}
 						</td>
 						<td class="col-tags">
@@ -320,6 +343,61 @@
 		background: var(--surface-raised);
 	}
 
+	/* ── Filter bar ─────────────────────────────────────────── */
+	.filter-bar {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		margin-bottom: 0.75rem;
+		flex-wrap: wrap;
+	}
+	.filter-chip {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.375rem;
+		background: var(--gold-glow);
+		border: 1px solid var(--gold-border);
+		border-radius: 999px;
+		padding: 0.25rem 0.625rem;
+		font-size: 0.8125rem;
+		color: var(--ink-soft);
+		font-family: inherit;
+		line-height: 1.4;
+	}
+	.chip-dismiss {
+		background: none;
+		border: none;
+		color: var(--ink-muted);
+		cursor: pointer;
+		padding: 0;
+		font-size: 1rem;
+		line-height: 1;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 50%;
+		width: 1.125rem;
+		height: 1.125rem;
+		transition: all 0.15s;
+	}
+	.chip-dismiss:hover {
+		color: var(--ink);
+		background: var(--surface-overlay);
+	}
+	.clear-all {
+		background: none;
+		border: none;
+		color: var(--ink-faint);
+		cursor: pointer;
+		font-size: 0.75rem;
+		font-family: inherit;
+		padding: 0.25rem 0.5rem;
+		transition: color 0.15s;
+	}
+	.clear-all:hover {
+		color: var(--ink);
+	}
+
 	/* ── Table ───────────────────────────────────────────── */
 	.table-wrapper {
 		overflow-x: auto;
@@ -402,6 +480,17 @@
 		color: var(--ink-muted);
 		margin-top: 0.25rem;
 		line-height: 1.4;
+	}
+
+	.event-preview {
+		display: none;
+		font-size: 0.8125rem;
+		color: var(--ink-muted);
+		margin-top: 0.25rem;
+		line-height: 1.4;
+	}
+	.event-row:hover .event-preview {
+		display: block;
 	}
 
 	.col-tags {

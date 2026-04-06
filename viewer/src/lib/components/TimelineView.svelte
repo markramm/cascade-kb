@@ -356,12 +356,17 @@
 			}
 		});
 
-		// On first render, zoom to 2020s instead of showing full 1142-2026 range
+		// On first render, zoom to the table's visible range (if available) or default to 2020s
 		if (!initialZoomDone) {
 			initialZoomDone = true;
 			// Use tick() equivalent: schedule after D3 has finished rendering
 			requestAnimationFrame(() => {
-				zoomToDateRange(new Date('2020-01-01'), new Date('2029-12-31'));
+				const tableRange = timeline.getVisibleDateRange();
+				if (tableRange) {
+					zoomToDateRange(new Date(tableRange[0]), new Date(tableRange[1]));
+				} else {
+					zoomToDateRange(new Date('2020-01-01'), new Date('2029-12-31'));
+				}
 			});
 		}
 	});
