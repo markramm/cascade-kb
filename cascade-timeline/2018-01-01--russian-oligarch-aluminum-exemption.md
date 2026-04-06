@@ -1,0 +1,46 @@
+---
+type: timeline_event
+id: 2018-01-01--russian-oligarch-aluminum-exemption
+date: 2018-01-01
+importance: 9
+title: Putin-Linked Company Receives Tariff Exemption Until Public Outcry
+tags:
+- tariffs
+- russia
+- sanctions
+- corruption
+- oligarchs
+capture_lanes:
+- International Kleptocracy
+status: confirmed
+sources:
+- title: Trump's Tariff Exemptions and Russian Oligarchs
+  url: https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected
+  outlet: Public Citizen
+  date: '2018-01-01'
+  tier: 2
+- title: Warren Investigation Forces Trump Administration to Reverse Tariff Exemption for U.S. Subsidiary of Sanctioned Russian Company
+  url: https://www.warren.senate.gov/newsroom/press-releases/warren-investigation-forces-trump-administration-to-reverse-tariff-exemption-for-us-subsidiary-of-sanctioned-russian-company-
+  outlet: U.S. Senator Elizabeth Warren
+  date: '2018-08-15'
+  tier: 1
+- title: How a Blacklisted Russian Firm Won (and Lost) a Break From Trump's Tariffs
+  url: https://www.nytimes.com/2018/08/15/us/politics/rusal-trump-tariffs-russia.html
+  outlet: The New York Times
+  date: '2018-08-15'
+  tier: 1
+- title: Sen. Elizabeth Warren - Trump steel tariff exemptions favor US subsidiaries of foreign companies
+  url: https://www.cnbc.com/2018/10/31/warren-trump-steel-tariff-exemptions-favor-foreign-owned-companies.html
+  outlet: CNBC
+  date: '2018-10-31'
+  tier: 2
+actors:
+- Donald Trump
+- Elizabeth Warren
+- Russian oligarch
+- Trump Administration
+location: Washington, DC
+notes: Tariff decisions seemed driven by insider influence rather than consistent rules
+---
+
+Rusal America, a subsidiary of Russian metals giant controlled by oligarch Oleg Deripaska (sanctioned for election interference), received aluminum tariff exemption from Commerce Department in July 2018. Warren's congressional inquiry exposed the improper approval, forcing Commerce Department reversal in August after determining the exemption violated sanctions policy.

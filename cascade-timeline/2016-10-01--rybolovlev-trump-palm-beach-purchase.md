@@ -1,0 +1,38 @@
+---
+type: timeline_event
+id: 2016-10-01--rybolovlev-trump-palm-beach-purchase
+date: 2016-10-01
+importance: 8
+title: Rybolovlev demolishes Trump's former Palm Beach mansion; property later subdivided and sold
+location: Palm Beach, Florida
+actors:
+- Dmitry Rybolovlev
+- Donald Trump
+tags:
+- russian-money
+- real-estate
+- money-laundering
+- oligarchs
+capture_lanes:
+- International Kleptocracy
+sources:
+- title: Russian fertiliser tycoon buys Florida mansion
+  url: https://www.reuters.com/article/russia-florida-property/russian-fertiliser-tycoon-buys-florida-mansion-idUKL2125594120080621/
+  outlet: Reuters
+  date: '2008-06-21'
+  tier: 1
+- title: Last Lot of Former Trump Estate in Palm Beach Sells for $37.29 Million
+  url: https://www.mansionglobal.com/articles/last-lot-of-former-trump-estate-in-palm-beach-sells-for-37-29-million-204941
+  outlet: Mansion Global
+  date: '2019-07-09'
+  tier: 2
+- title: Donald Trump's $US95 million Palm Beach mega‑mansion faces the wrecking ball
+  url: https://www.afr.com/property/donald-trumps-us95-million-palm-beach-megamansion-faces-the-wrecking-ball-20160407-go0aq9
+  outlet: Australian Financial Review
+  date: '2016-04-07'
+  tier: 2
+notes: Use neutral language; multiple outlets reported the demolition and subsequent lot sales. Avoid implying money‑laundering absent evidentiary sourcing.
+status: confirmed
+---
+
+After buying Donald Trump's 'Maison de L'Amitié' for $95M in 2008, Dmitry Rybolovlev obtained local approval to demolish the mansion in 2016 and subdivided the oceanfront parcel into three lots that sold for a combined ~$108M by 2019.

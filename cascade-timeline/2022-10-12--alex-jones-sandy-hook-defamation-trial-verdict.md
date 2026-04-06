@@ -1,0 +1,42 @@
+---
+type: timeline_event
+id: 2022-10-12--alex-jones-sandy-hook-defamation-trial-verdict
+date: 2022-10-12
+title: Alex Jones Ordered to Pay $965 Million in Sandy Hook Defamation Trial
+importance: 9
+status: confirmed
+tags:
+- defamation
+- media-accountability
+- conspiracy-theories
+- first-amendment
+- legal-precedent
+actors:
+- Alex Jones
+- Sandy Hook victim families
+- Connecticut Superior Court
+sources:
+- url: 'https://www.texastribune.org/2022/10/12/alex-jones-sandy-hook-shooting/'
+  title: 'Texas Tribune: Alex Jones Sandy Hook Defamation Verdict'
+  tier: 2
+  date_accessed: '2025-10-17'
+  type: news_article
+  outlet: Texastribune
+- url: 'https://firstamendmentwatch.org/deep-dive/alex-jones-infowars-and-the-sandy-hook-defamation-suits/'
+  title: 'First Amendment Watch: Alex Jones, Infowars, and Sandy Hook Defamation Suits'
+  date_accessed: '2025-10-17'
+  type: legal_analysis
+  tier: 2
+  outlet: Firstamendmentwatch
+- url: 'https://www.npr.org/2025/10/15/nx-s1-5574929/supreme-court-alex-jones-defamation-judgment'
+  title: 'NPR: Supreme Court Rejects Alex Jones'' Appeal of Sandy Hook Defamation Judgment'
+  date_accessed: '2025-10-17'
+  type: legal_follow_up
+  description: 'Details Supreme Court''s rejection of Jones'' appeal and context of the defamation ruling'
+  tier: 1
+  outlet: NPR
+capture_lanes:
+- 'Media Capture & Control'
+- Military-Industrial Complex
+---
+A Connecticut jury awarded $965 million in damages to families of Sandy Hook victims, representing the largest defamation verdict against conspiracy theorist Alex Jones. The landmark decision stemmed from Jones' repeated false claims that the 2012 school shooting was a 'hoax', causing significant emotional distress to victims' families who endured years of harassment and threats. This verdict marked a critical moment in holding media personalities accountable for spreading harmful misinformation.

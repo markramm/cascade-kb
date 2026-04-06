@@ -1,0 +1,48 @@
+---
+type: timeline_event
+id: 2025-09-04--doj-criminal-investigation-lisa-cook-mortgage-fraud
+date: 2025-09-04
+title: DOJ Opens Criminal Investigation Into Federal Reserve Governor Lisa Cook for Alleged Mortgage Fraud
+importance: 9
+actors:
+- Department of Justice
+- Lisa Cook
+- Pam Bondi
+- Bill Pulte
+- Ed Martin
+- Federal Reserve
+- Federal Housing Finance Agency
+tags:
+- doj
+- federal-reserve
+- criminal-investigation
+- political-prosecution
+- institutional-capture
+- mortgage-fraud
+sources:
+- url: https://www.bloomberg.com/news/articles/2025-09-04/justice-department-opens-criminal-probe-of-lisa-cook-mortgages
+  title: Justice Department Opens Criminal Probe of Lisa Cook Mortgages
+  date: '2025-09-04'
+  tier: 1
+  outlet: Bloomberg
+- url: https://www.sandiegouniontribune.com/2025/09/04/federal-reserve-cook-ouster/
+  title: Justice Department probes mortgage fraud claims against Lisa Cook of Federal Reserve, AP source says
+  date: '2025-09-04'
+  tier: 1
+  outlet: Associated Press
+- url: https://abcnews.go.com/US/justice-department-opens-criminal-investigation-federal-reserve-governor/story?id=125261793
+  title: 'Justice Department opens criminal investigation into Federal Reserve Governor Lisa Cook: Sources'
+  date: '2025-09-04'
+  tier: 2
+  outlet: ABC News
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+status: reported
+---
+
+The U.S. Department of Justice formally opened a criminal investigation into Federal Reserve Governor Lisa Cook on September 4, 2025, following a criminal referral from Federal Housing Finance Agency Director Bill Pulte. Federal prosecutors issued grand jury subpoenas in Georgia and Michigan to investigate allegations that Cook committed mortgage fraud by claiming two properties—a home in Ann Arbor, Michigan, and a condo in Atlanta—as her primary residence within two weeks of purchasing each property with financing.
+
+The investigation is being led by Ed Martin, director of the DOJ's Weaponization Working Group, who was appointed by Attorney General Pam Bondi as a special assistant U.S. attorney specifically to investigate mortgage fraud allegations involving public officials. Martin is coordinating with U.S. Attorneys' Offices in the Northern District of Georgia and Eastern District of Michigan. The investigation represents an escalation of the Trump administration's campaign against Cook, who is simultaneously fighting President Trump's unprecedented attempt to fire her from the Federal Reserve—the first such firing in the central bank's 111-year history.
+
+Cook's attorney, prominent Washington lawyer Abbe Lowell, characterized the investigation as politically motivated, stating that questions about how Cook described her properties "are not fraud, but it takes nothing for this DOJ to undertake a new politicised investigation." Cook has denied the allegations in court filings and noted that even if the allegations were true, the alleged conduct occurred before her Senate confirmation and would not constitute grounds for removal under the Federal Reserve Act. The criminal investigation represents part of a broader pattern of the Trump administration using DOJ resources to pursue perceived political opponents, with Martin's Weaponization Working Group also investigating Democratic Senator Adam Schiff and New York Attorney General Letitia James on similar mortgage fraud allegations.

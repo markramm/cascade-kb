@@ -1,0 +1,44 @@
+---
+type: timeline_event
+id: 2025-01-25--inauguration-251-million-raised
+date: 2025-01-25
+importance: 7
+title: Trump inauguration raises record $251.4 million from corporations
+location: Washington, DC
+actors:
+- Trump Inaugural Committee
+- Pilgrim's Pride Corp. ($5 million)
+- Ripple Labs ($4.9 million)
+- Warren Stephens
+- Corporate donors (104 at $1M+)
+tags:
+- campaign-finance
+- corporate-influence
+- donor-appointments
+- pay-to-play
+- corruption
+- inauguration
+- record-fundraising
+capture_lanes:
+- International Kleptocracy
+sources:
+- title: Trump Administrations 2025 Inauguration Donors
+  url: https://www.opensecrets.org/trump/2025-inauguration-donors
+  outlet: OpenSecrets
+  date: '2025-01-25'
+  tier: 1
+- title: Million-Dollar Donors Flooded Trump's Second Inauguration
+  url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
+  outlet: Brennan Center for Justice
+  date: '2025-01-25'
+  tier: 1
+- title: Major corporate interests and megadonors gave $239 million to fund Trump's inauguration
+  url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
+  outlet: NBC News
+  date: '2025-04-16'
+  tier: 1
+notes: Clear donor-to-appointee pipeline. Donors received VIP tickets and access. Most corporate donors only gave after Trump won, not during campaign, suggesting transactional nature.
+status: confirmed
+---
+
+Trump's 2025 inauguration raised record $251.4 million, a 142% increase from his 2017 inauguration and quadruple Biden's 2021 total. Corporate donations totaled $161.1 million with 104 businesses giving $1 million or more. Pilgrim's Pride Corp. led with $5 million, Ripple Labs gave $4.9 million. Warren Stephens, who gave $4 million, was appointed UK Ambassador. Only six of hundreds of corporate donors had supported Trump's campaign—most donated only after inauguration benefits became available. The fundraising exceeded all prior inaugurations' total amounts just from million-dollar donors alone.

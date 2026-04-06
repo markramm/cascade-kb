@@ -1,0 +1,39 @@
+---
+type: timeline_event
+id: 2025-10-10--john-bolton-indictment-expected
+date: 2025-10-10
+title: John Bolton Faces Imminent Federal Indictment on Classified Materials Charges
+importance: 9
+actors:
+- John Bolton
+- Federal Bureau of Investigation
+- U.S. Department of Justice
+- Trump Administration
+sources:
+- title: Trump Critic John Bolton to be Charged Soon
+  url: https://www.nbcnews.com/politics/justice-department/john-bolton-indictment-expected-rcna235123
+  date: '2025-10-10'
+  tier: 1
+  outlet: NBC News
+- title: Former Trump adviser John Bolton indicted on classified documents charges
+  url: https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id=126472878
+  date: '2025-10-16'
+  tier: 1
+  outlet: ABC News
+- title: What to know about the federal charges against John Bolton
+  url: https://www.pbs.org/newshour/politics/what-to-know-about-the-federal-charges-against-john-bolton
+  date: '2025-10-16'
+  tier: 1
+  outlet: PBS NewsHour
+tags:
+- political-prosecution
+- doj-weaponization
+- retaliatory-prosecution
+- systematic-corruption
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+status: reported
+---
+
+Former National Security Adviser John Bolton faces imminent federal indictment on classified materials charges following FBI raids. This represents the third major Trump critic to be indicted in October 2025, following James Comey and Letitia James. The systematic pattern of indictments targeting Trump critics - using different legal theories but all involving Trump's personal enemies - demonstrates coordinated weaponization of federal law enforcement for political revenge. The charges against Bolton, a lifelong conservative who became critical of Trump, show that ideological alignment offers no protection from political prosecution.

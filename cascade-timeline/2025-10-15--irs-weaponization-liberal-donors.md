@@ -1,0 +1,42 @@
+---
+type: timeline_event
+id: 2025-10-15--irs-weaponization-liberal-donors
+date: 2025-10-15
+title: Trump Administration Plans IRS Overhaul to Target Liberal Donors and Nonprofits
+importance: 9
+tags:
+- corruption
+- institutional-capture
+- weaponization-of-government
+- political-persecution
+- abuse-of-power
+actors:
+- Donald Trump
+- Scott Bessent
+- Gary Shapley
+- Internal Revenue Service
+- George Soros
+sources:
+- url: https://www.wsj.com/articles/trump-irs-liberal-donors-investigation
+  title: Trump Administration Weaponizes IRS Against Liberal Organizations
+  date: '2025-10-15'
+  tier: 1
+  outlet: The Wall Street Journal
+- url: https://www.democracynow.org/2025/10/17/headlines/wsj_trump_admin_to_overhaul_irs_to_pursue_left_leaning_groups_and_major_democratic_donors
+  title: Trump Admin to Overhaul IRS to Pursue Left-Leaning Groups and Major Democratic Donors
+  date: '2025-10-17'
+  tier: 1
+  outlet: Democracy Now
+- title: Trump Plots to Use IRS to Go After His Enemies and All Liberal Groups
+  url: https://newrepublic.com/post/201853/trump-irs-enemies-liberal-groups
+  outlet: The New Republic
+  date: '2025-10-15'
+  tier: 2
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Financial Capture
+---
+
+Trump officials announced plans to remake the IRS to investigate liberal donors and nonprofit organizations, including specifically targeting George Soros and affiliated groups. The scheme involves replacing agency lawyers with political loyalists under the guise of 'terrorism financing' enforcement. Treasury Secretary Scott Bessent and Trump official Gary Shapley are orchestrating the transformation of the IRS from an independent tax collection agency into a partisan weapon for political persecution. The plan represents systematic weaponization of federal law enforcement to harass political opponents, chill dissent, and punish ideological adversaries. By converting the IRS into a tool for targeting political enemies, the administration creates a framework for authoritarian control through selective tax enforcement. The initiative follows Trump's pattern of corrupting independent agencies to serve his personal political interests.

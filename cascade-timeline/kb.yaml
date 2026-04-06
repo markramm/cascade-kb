@@ -1,24 +1,14 @@
-name: cascade-timeline
-type: journalism-investigation
-description: >-
-  The Capture Cascade Timeline — documenting the systematic erosion of democratic
-  institutions from 1142 to present. 4,400+ verified events with source citations,
-  actor tracking, and institutional impact analysis.
-
-entry_types:
-  solidarity_event:
-    fields:
-      date: {type: date, required: true}
-      importance: {type: integer, min: 1, max: 10}
-      actors: {type: list}
-      tags: {type: list}
-      capture_lanes: {type: list}
-      verification_status: {type: string}
-      sources: {type: list}
-      significance: {type: text}
-
-subdirectories:
-  solidarity_event: events
-  actor: actors
-  source: sources
-  note: notes
+types:
+  event:
+    description: "Historical event documenting institutional capture, corruption, or democratic erosion"
+    subdirectory: ""
+    file_pattern: "{date}--{slug}.md"
+    required:
+      - title
+      - date
+    optional:
+      - importance
+      - status
+      - participants
+      - sources
+      - tags

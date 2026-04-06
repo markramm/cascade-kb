@@ -1,0 +1,42 @@
+---
+type: timeline_event
+id: 2025-02-01--education-civil-rights-gutted
+date: 2025-02-01
+importance: 5
+title: Education Department Civil Rights Division Slashed from 550 to 243 Employees
+location: Washington DC
+actors:
+- U.S. Department of Education
+- Russell Vought
+- Office for Civil Rights
+tags:
+- civil-rights
+- education
+- institutional-destruction
+- discrimination
+- workforce-reduction
+- traumatic-strategy
+- kleptocracy
+capture_lanes:
+- International Kleptocracy
+status: confirmed
+sources:
+- title: Education Department civil rights office cut by more than half
+  url: https://www.propublica.org/article/education-civil-rights-office-cuts
+  outlet: ProPublica
+  date: '2025-02-01'
+  tier: 1
+- title: Only 5 civil rights offices remain nationwide after massive cuts
+  url: https://www.washingtonpost.com/education/2025/02/01/civil-rights-office-cuts/
+  outlet: The Washington Post
+  date: '2025-02-01'
+  tier: 1
+- title: 'Vought''s strategy: Make bureaucrats ''traumatically affected'''
+  url: https://www.federalnewsnetwork.com/workforce/2025/02/vought-traumatic-strategy/
+  outlet: Federal News Network
+  date: '2025-02-02'
+  tier: 2
+notes: Vought explicitly stated goal to traumatize federal workers into quitting. Civil rights enforcement now "virtually impossible" according to remaining officials. Part of broader pattern of dismantling oversight and accountability mechanisms.
+---
+
+Education Department's Office for Civil Rights division slashed from 550 to approximately 243 employees, leaving only 5 civil rights offices nationwide. Officials described this as making discrimination complaint resolution "virtually impossible." Cuts part of Russell Vought's documented strategy as OMB Director stating "We want the bureaucrats to be traumatically affected...When they wake up in the morning, we want them to not want to go to work." Systematic dismantling of civil rights enforcement infrastructure prevents investigation of discrimination in schools.

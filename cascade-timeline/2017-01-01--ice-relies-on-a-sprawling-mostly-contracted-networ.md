@@ -1,0 +1,49 @@
+---
+type: timeline_event
+id: 2017-01-01--ice-relies-on-a-sprawling-mostly-contracted-networ
+date: 2017-01-01
+importance: 6
+title: ICE relies on a sprawling, mostly contracted network of ~200 detention facilities; oversight fragmented
+location: United States
+actors:
+- Immigration and Customs Enforcement (ICE)
+- CoreCivic
+- U.S. Department of Homeland Security
+- U.S. Marshals Service
+- State and local governments
+- U.S. Government Accountability Office
+tags:
+- detention-network
+- procurement-violations
+- immigration-enforcement
+- igsa-contracts
+- guaranteed-minimums
+- oversight-failure
+sources:
+- title: 'Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight (GAO-21-149)'
+  url: https://www.gao.gov/products/gao-21-149
+  outlet: GAO
+  date: '2021-01-13'
+  tier: 1
+- title: DHS Should Define Goals and Measures to Assess Facility Inspection Programs (GAO-25-107580)
+  url: https://www.gao.gov/products/gao-25-107580
+  outlet: GAO
+  date: '2025-05-21'
+  tier: 1
+- title: ICE Contractual Capacity and Number Detained
+  url: https://tracreports.org/reports/762/
+  outlet: TRAC Syracuse
+  date: '2025-07-08'
+  tier: 2
+- title: 'Oversight of Immigration Detention: An Overview'
+  url: https://www.americanimmigrationcouncil.org/fact-sheet/oversight-immigration-detention-overview/
+  outlet: American Immigration Council
+  date: '2022-05-16'
+  tier: 2
+notes: Replace unsourced '1,000+ undisclosed sites' language with verifiable counts and official oversight findings. Short‑term hoteling of children under Title 42 (2020) should be handled as a separate entry (see 102).
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+---
+
+GAO reports document ICE's reliance on a complex network of contracted detention facilities, including Intergovernmental Service Agreements (IGSAs) with guaranteed-minimum payment structures. In FY2019, ICE maintained contracts with 230+ facilities for longer‑term detention, alongside short‑term holds in jails and Border Patrol stations. GAO identified significant oversight gaps, with multiple DHS entities conducting inspections but lacking clearly defined performance goals and measures.

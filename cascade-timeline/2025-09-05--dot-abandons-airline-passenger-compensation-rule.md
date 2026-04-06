@@ -1,0 +1,40 @@
+---
+type: timeline_event
+id: 2025-09-05--dot-abandons-airline-passenger-compensation-rule
+date: 2025-09-05
+title: Transportation Department Drops Rule Requiring Airlines to Compensate Passengers for Delays
+importance: 7
+tags:
+- regulatory-capture
+- consumer-protection-rollback
+- revolving-door
+- corporate-favoritism
+sources:
+- url: https://www.cbsnews.com/news/transportation-department-airline-passenger-compensation-rule-dropped/
+  title: Trump Administration Abandons Consumer Protection for Flight Disruptions
+  date: '2025-09-05'
+  tier: 1
+  outlet: CBS News
+- url: https://thehill.com/policy/transportation/5488173-dot-withdraws-airline-disruption-rule/
+  title: Trump administration reversing Biden-era plan to compensate airline passengers for disruptions
+  date: '2025-09-05'
+  tier: 2
+  outlet: The Hill
+- url: https://www.cnn.com/2025/11/15/us/trump-administration-compensation-flight-disruptions-hnk
+  title: Trump administration drops plan to require passenger compensation for delayed flights
+  date: '2025-11-15'
+  tier: 1
+  outlet: CNN
+actors:
+- Sean Duffy
+- Department of Transportation
+- Airlines
+- Donald Trump
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Surveillance Infrastructure
+status: reported
+---
+
+The Department of Transportation dropped a Biden-era proposal that would have required airlines to compensate passengers with cash payments up to $775 for flight delays and cancellations under the carrier's control. The rule abandonment came after Trump installed former airline lobbyist Sean Duffy as Transportation Secretary, demonstrating direct regulatory capture where industry insiders eliminate consumer protections. Airlines successfully lobbied against automatic compensation requirements, arguing they should retain discretion over whether and how to compensate passengers. DOT's reversal leaves U.S. passengers with weaker protections than European travelers enjoy under EU261 regulations. The decision represents a pattern where Trump appointees with direct industry ties systematically dismantle consumer protections: airlines avoid billions in compensation costs while passengers bear the burden of service disruptions. This exemplifies the revolving door between industry and government that defines regulatory capture.
