@@ -57,7 +57,8 @@ sources:
   date: '2025-11-06'
   tier: 2
   outlet: Chicago Sun-Times
-status: confirmedcapture_lanes:
+status: confirmed
+capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 - Electoral Manipulation

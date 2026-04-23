@@ -52,6 +52,9 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 - Military Capture
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On August 22, 2025, Defense Secretary Pete Hegseth fired Lt. Gen. Jeffrey Kruse as director of the Defense Intelligence Agency. Kruse's removal came after the DIA produced a preliminary assessment finding that U.S. and Israeli airstrikes had set back Iran's nuclear program by only a few months — directly contradicting President Trump's public claim that Iran's nuclear capabilities had been "completely and fully obliterated" and Israeli Prime Minister Netanyahu's similar assertions.

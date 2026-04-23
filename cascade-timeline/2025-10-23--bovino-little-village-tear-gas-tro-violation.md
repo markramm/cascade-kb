@@ -44,7 +44,8 @@ sources:
   date: '2025-10-28'
   tier: 1
   outlet: CNN
-status: confirmedcapture_lanes:
+status: confirmed
+capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 - Media Capture & Control

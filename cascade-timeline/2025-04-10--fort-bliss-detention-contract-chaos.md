@@ -37,6 +37,9 @@ sources:
   tier: 1
 notes: Deployed Resources executives had hired dozens of former government insiders including high-ranking ICE officials. Built behind military walls to reduce transparency and fast-track deportations with minimal accountability.
 status: confirmed
+coverage:
+  - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
+    title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
 ---
 
 ICE awarded a $3.8 billion contract to Deployed Resources on April 10 for Fort Bliss tent detention camp, then terminated it three days later "for convenience" amid corruption allegations. The contract was then awarded to Acquisition Logistics LLC, a tiny Virginia company with no correction facility experience and no prior contracts over $16 million, for $1.2 billion. The Pentagon refused to release the contract or explain the selection. The 5,000-person tent camp operates in 100+ degree Texas heat. Two investigations into improper bidding occurred, plus a construction site death.

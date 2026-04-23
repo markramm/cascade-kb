@@ -52,6 +52,9 @@ related_events:
 - 2025-08-01--ice-detention-59000-custody-140-percent-capacity
 - 2025-07-04--immigration-detention-privatization
 - 2025-07-28--ice-denies-congress-detention-oversight
+coverage:
+  - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
+    title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
 ---
 
 As of December 14, 2025, Immigration and Customs Enforcement held 68,417 people in civil immigration detention -- the highest single-day count in the agency's history. The figure represented a roughly 75% increase from the approximately 39,000-40,500 people detained when Trump took office on January 20, 2025, and shattered the previous record of approximately 56,000 set during Trump's first term in 2019.

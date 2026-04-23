@@ -46,6 +46,9 @@ status: confirmed
 capture_lanes:
 - Law Enforcement Weaponization
 - Executive Power Consolidation
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On April 2, 2026, President Trump announced via Truth Social that Attorney General Pam Bondi was out, ending a 14-month tenure marked by aggressive DOJ weaponization that nonetheless failed to deliver the political prosecutions Trump demanded. Deputy Attorney General Todd Blanche—Trump's former personal criminal defense attorney during two federal cases and the New York hush money trial—was named acting Attorney General. EPA Administrator Lee Zeldin is reportedly under consideration as permanent replacement.

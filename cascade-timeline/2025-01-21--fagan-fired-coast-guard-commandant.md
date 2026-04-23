@@ -35,6 +35,9 @@ status: confirmed
 capture_lanes:
 - Military Capture
 - Executive Power Expansion
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On January 21, 2025 — Trump's second day in office — the administration fired Admiral Linda Fagan as Commandant of the Coast Guard, making her the first military leader removed in what would become the most extensive purge of senior military leadership since the post-World War II era.

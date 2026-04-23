@@ -47,6 +47,9 @@ status: confirmed
 capture_lanes:
 - Military Capture
 - Intelligence Penetration
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On April 3, 2025, General Timothy Haugh was fired as director of the National Security Agency and head of U.S. Cyber Command, along with his civilian deputy Wendy Noble. No official cause was stated. The firing followed a visit to the Oval Office by political activist Laura Loomer, who publicly claimed Haugh and Noble were fired for being "disloyal" to Trump.

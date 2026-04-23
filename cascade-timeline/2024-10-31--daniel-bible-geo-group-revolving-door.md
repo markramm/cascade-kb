@@ -42,6 +42,11 @@ sources:
   tier: 1
 notes: As of 2023, funding from ICE makes up nearly half of GEO Group's total revenue. The revolving door pattern includes 2017 Deputy Director Daniel Ragsdale and 2022 hire Matthew Albence, who led ICE during Trump's first term.
 status: confirmed
+coverage:
+- url: https://theramm.substack.com/p/the-blueprint-for-americas-detention
+  title: "The Blueprint for America's Detention Camps"
+- url: https://theramm.substack.com/p/the-bypass
+  title: "The Bypass"
 ---
 
 Daniel Bible, ICE's top career official responsible for immigrant detention for nearly 15 years, left the agency on October 31, 2024, to become executive vice president at GEO Group, ICE's largest private detention contractor. This move is part of a systemic 'revolving door' pattern where senior government officials transition to lucrative private sector roles. Bible joins at least six other former ICE officials who have moved to GEO Group over the past decade. The company had previously paid $1,025 for Bible's travel and lunch during an 'employment discussion' and contributed over $1 million to Trump-aligned PACs in 2024.

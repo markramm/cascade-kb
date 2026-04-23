@@ -55,6 +55,9 @@ status: confirmed
 capture_lanes:
 - Military Capture
 - Executive Power Expansion
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On April 2, 2026, Defense Secretary [[hegseth-pete|Pete Hegseth]] forced out General Randy George, the 41st Chief of Staff of the Army, ordering him to retire "effective immediately." The ouster came while the United States was actively waging war against Iran and approximately 18 months before George's four-year term was set to expire. Hegseth also removed two other senior officers the same day.

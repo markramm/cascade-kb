@@ -37,6 +37,9 @@ status: confirmed
 capture_lanes:
 - Military Capture
 - Executive Power Expansion
+coverage:
+- url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
+  title: "Hegseth Removed The Circuit Breakers"
 ---
 
 On May 5, 2025, Defense Secretary Pete Hegseth signed a memo directing the military services to eliminate at least 20% of four-star general and admiral positions, plus 20% of general officer positions in the National Guard, and an additional 10% reduction through combatant command consolidation.

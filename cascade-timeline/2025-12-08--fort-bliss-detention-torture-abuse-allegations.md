@@ -74,6 +74,8 @@ coverage:
     date: '2026-02-26'
     publication: theramm
     note: "Documents Acquisition Logistics LLC ($1.24B contract, 39 employees) and insulin denial at the same facility"
+  - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
+    title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
 ---
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations

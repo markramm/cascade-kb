@@ -30,6 +30,9 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Judicial Capture
+coverage:
+- url: https://theramm.substack.com/p/the-blueprint-for-americas-detention
+  title: "The Blueprint for America's Detention Camps"
 ---
 
 Florida officials concealed a $608 million federal funding request for an immigration detention facility nicknamed 'Alligator Alcatraz,' misleading courts about federal involvement to bypass environmental safeguards and legal challenges. The DeSantis administration's secrecy allowed the controversial facility to continue operating while hiding the massive federal subsidy from public and judicial scrutiny. The concealment demonstrates coordination between state and federal officials to obscure the true scale and funding sources of immigration detention infrastructure. By misleading courts about federal involvement, officials evaded requirements for environmental reviews and public input that apply to federally funded projects. The deception exemplifies how Trump-aligned state governments collaborate to expand detention capacity while hiding costs and circumventing legal protections.

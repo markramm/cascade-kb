@@ -37,6 +37,9 @@ capture_lanes:
 - Surveillance Infrastructure
 - Immigration System Capture
 - Corporate Capture
+coverage:
+  - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
+    title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
 ---
 DHS signed a $1 billion blanket purchase agreement with Palantir for immigration surveillance across ICE and CBP without competitive bidding. Palantir's technology enables mass data integration across multiple government databases, creating comprehensive surveillance profiles of immigrants and their communities. The no-bid nature of the contract and Palantir's close ties to Trump allies raise serious conflict-of-interest concerns.
 
