@@ -55,33 +55,47 @@ const filtered = $derived.by(() => {
 
 const totalPages = $derived(Math.max(1, Math.ceil(filtered.length / PAGE_SIZE)));
 
-// Top tags across all events for faceted filtering
-const topTags = $derived.by(() => {
+// Tag counts across all events (full map; topTags/totalTags derive from this)
+const tagCounts = $derived.by(() => {
 	const counts = new Map<string, number>();
 	for (const e of events) {
 		for (const t of e.tags || []) {
 			counts.set(t, (counts.get(t) || 0) + 1);
 		}
 	}
-	return [...counts.entries()]
-		.sort((a, b) => b[1] - a[1])
-		.slice(0, 20)
-		.map(([name, count]) => ({ name, count }));
+	return counts;
 });
 
-// Top actors across all events for faceted filtering
-const topActors = $derived.by(() => {
+// Actor counts across all events (full map; topActors/totalActors derive from this)
+const actorCounts = $derived.by(() => {
 	const counts = new Map<string, number>();
 	for (const e of events) {
 		for (const a of e.actors || []) {
 			counts.set(a, (counts.get(a) || 0) + 1);
 		}
 	}
-	return [...counts.entries()]
+	return counts;
+});
+
+// Top tags for faceted filtering (capped)
+const topTags = $derived.by(() =>
+	[...tagCounts.entries()]
+		.sort((a, b) => b[1] - a[1])
+		.slice(0, 20)
+		.map(([name, count]) => ({ name, count }))
+);
+
+// Top actors for faceted filtering (capped)
+const topActors = $derived.by(() =>
+	[...actorCounts.entries()]
 		.sort((a, b) => b[1] - a[1])
 		.slice(0, 50)
-		.map(([name, count]) => ({ name, count }));
-});
+		.map(([name, count]) => ({ name, count }))
+);
+
+// True totals (uncapped) for header display
+const totalTags = $derived(tagCounts.size);
+const totalActors = $derived(actorCounts.size);
 
 const paginated = $derived.by(() => {
 	const start = (page - 1) * PAGE_SIZE;
@@ -96,11 +110,14 @@ async function load() {
 	loading = true;
 	error = null;
 	try {
-		// Load lightweight index first (no body/sources — much smaller)
-		let res = await fetch(`${base}/api/timeline-index.json`);
+		// Load lightweight index first (no body/sources — much smaller).
+		// cache: 'no-cache' forces revalidation against origin ETag/Last-Modified
+		// so viewers see fresh data immediately after each reseed, without a
+		// hard-refresh, while still getting 304s when nothing has changed.
+		let res = await fetch(`${base}/api/timeline-index.json`, { cache: 'no-cache' });
 		if (!res.ok) {
 			// Fallback to full timeline.json if index not available
-			res = await fetch(`${base}/api/timeline.json`);
+			res = await fetch(`${base}/api/timeline.json`, { cache: 'no-cache' });
 		}
 		if (!res.ok) throw new Error(`HTTP ${res.status}`);
 		const data: unknown = await res.json();
@@ -123,7 +140,7 @@ async function loadEventDetail(eventId: string): Promise<TimelineEvent | null> {
 
 	// Load full timeline.json and cache all bodies
 	try {
-		const res = await fetch(`${base}/api/timeline.json`);
+		const res = await fetch(`${base}/api/timeline.json`, { cache: 'no-cache' });
 		if (!res.ok) return existing ?? null;
 		const data: unknown = await res.json();
 		const fullEvents: TimelineEvent[] = Array.isArray(data) ? data : (data as { events: TimelineEvent[] }).events;
@@ -245,6 +262,8 @@ export const timeline = {
 	get dateTo() { return dateTo; },
 	get topTags() { return topTags; },
 	get topActors() { return topActors; },
+	get totalTags() { return totalTags; },
+	get totalActors() { return totalActors; },
 
 	load,
 	loadEventDetail,

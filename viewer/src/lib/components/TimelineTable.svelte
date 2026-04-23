@@ -36,8 +36,8 @@
 			<h2>Timeline Explorer</h2>
 			<span class="stats-bar">
 				{timeline.events.length.toLocaleString()} events &middot;
-				{timeline.topActors.length.toLocaleString()} actors &middot;
-				{timeline.topTags.length.toLocaleString()} tags
+				{timeline.totalActors.toLocaleString()} actors &middot;
+				{timeline.totalTags.toLocaleString()} tags
 			</span>
 			<span class="result-count">{timeline.filtered.length.toLocaleString()} events</span>
 		</div>
