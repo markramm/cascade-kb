@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--israel-strikes-iran-south-pars-gas-field
 date: '2026-03-18'
 title: Israel Bombs South Pars Gas Field — World's Largest Natural Gas Reserve Hit, Triggering Gulf Retaliation Spiral

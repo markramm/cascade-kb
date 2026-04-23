@@ -2,7 +2,7 @@
 id: 2025-05-14--gabbard-fires-venezuela-analysts
 date: '2025-05-14'
 title: Gabbard Fires Two Career Intelligence Officials Whose Venezuela Assessment Contradicted White House
-type: event
+type: timeline_event
 importance: 9
 actors:
 - Tulsi Gabbard

@@ -1,7 +1,7 @@
 ---
 id: wilmington-coup-d-tat-overthrows-elected-biracial-government-through-mass-racial-violence
 title: Wilmington Coup d'État Overthrows Elected Biracial Government Through Mass Racial Violence
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

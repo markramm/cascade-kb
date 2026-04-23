@@ -1,7 +1,7 @@
 ---
 id: 2025-10-16--pentagon-press-credential-rules-hegseth
 date: '2025-10-16'
-type: event
+type: timeline_event
 title: Pentagon Strips Press Credentials After Hegseth Imposes Rules Labeling Journalists as Security Risks
 importance: 9
 actors:

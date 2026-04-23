@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--iran-mojtaba-khamenei-named-supreme-leader
 date: '2026-03-08'
 title: Iran Names Mojtaba Khamenei Supreme Leader After Father Killed in US-Israeli Strike

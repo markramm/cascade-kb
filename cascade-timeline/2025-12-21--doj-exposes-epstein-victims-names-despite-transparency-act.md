@@ -21,7 +21,7 @@ sources:
   outlet: NBC News
   date: '2025-12-21'
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Department of Justice
 - Brad Edwards

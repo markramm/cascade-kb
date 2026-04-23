@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--freedom-house-us-lowest-score-ever
 date: '2026-03-19'
 title: Freedom House Reports U.S. at Lowest Score Ever, Net Decline of 12 Points Since 2005

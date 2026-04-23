@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--ice-detention-expansion-bipartisan-resistance
 date: '2026-03-17'
 title: ICE Detention Population Hits 73,000 as Deaths Mount and Bipartisan Community Opposition Intensifies

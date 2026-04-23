@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-10-01--palantir-va-385m-veterans-data-platform
 date: '2025-10-01'
 title: VA Awards Palantir $385M Contract for Veterans Data Platform Integrating HHS, DoD, SSA, and IRS Data

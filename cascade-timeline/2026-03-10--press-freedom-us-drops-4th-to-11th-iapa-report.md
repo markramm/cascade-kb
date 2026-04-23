@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--press-freedom-us-drops-4th-to-11th-iapa-report
 date: '2026-03-10'
 title: U.S. Records Sharpest Press Freedom Drop in Americas, Falls from 4th to 11th Place

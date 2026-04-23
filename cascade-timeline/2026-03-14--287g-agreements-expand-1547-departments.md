@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-14--287g-agreements-expand-1547-departments
 date: '2026-03-14'
 title: "287(g) Agreements Expand to 1,547 Departments Across 39 States, Covering 77 Million Americans"

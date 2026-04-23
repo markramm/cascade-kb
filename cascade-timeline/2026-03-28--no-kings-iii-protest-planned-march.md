@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-28--no-kings-iii-protest-planned-march
 date: '2026-03-28'
 title: No Kings III Protest Announced for March 28 as Movement Plans Third Nationwide Mobilization

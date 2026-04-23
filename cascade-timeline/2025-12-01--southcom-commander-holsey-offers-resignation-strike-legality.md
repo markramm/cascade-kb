@@ -20,7 +20,7 @@ sources:
   tier: 1
   outlet: PBS NewsHour
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Alvin Holsey
 - Pete Hegseth

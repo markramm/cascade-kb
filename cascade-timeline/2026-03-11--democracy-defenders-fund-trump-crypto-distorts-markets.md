@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--democracy-defenders-fund-trump-crypto-distorts-markets
 date: '2026-03-11'
 title: Report Finds Trump Crypto Ventures Propelled by UAE Investment, Preferential Treatment, and Regulatory Shielding

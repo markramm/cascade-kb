@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--gabbard-worldwide-threats-iran-not-rebuilding
 date: '2026-03-18'
 title: "DNI Gabbard Admits Iran Was 'Not Rebuilding Enrichment' Before War — Omits Finding from Oral Testimony"

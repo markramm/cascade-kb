@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--senators-stablecoin-genius-act-trump-crypto-conflicts
 date: '2026-03-10'
 title: Senate Stablecoin Bill Stalls as Democrats Cite Trump Crypto Conflicts of Interest

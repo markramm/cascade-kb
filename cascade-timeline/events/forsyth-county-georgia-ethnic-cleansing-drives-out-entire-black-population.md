@@ -1,7 +1,7 @@
 ---
 id: forsyth-county-georgia-ethnic-cleansing-drives-out-entire-black-population
 title: Forsyth County Georgia Ethnic Cleansing Drives Out Entire Black Population
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

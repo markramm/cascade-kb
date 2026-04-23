@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--silicon-valley-anti-war-movement-rekindled
 date: '2026-03-22'
 title: Pentagon-Anthropic Dispute Rekindles Silicon Valley Anti-War Movement — Worker Coalitions Demand Companies Refuse Unrestricted Military AI

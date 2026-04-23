@@ -1,7 +1,7 @@
 ---
 id: 2026-04-01--scotus-birthright-citizenship-oral-arguments
 date: '2026-04-01'
-type: event
+type: timeline_event
 title: Supreme Court Hears Birthright Citizenship Arguments; Gorsuch Exposes Government's Inability to Protect Native American Citizenship
 importance: 10
 actors:

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--gao-warns-irs-tax-season-workforce-cuts
 date: '2026-03-17'
 title: GAO Report Warns IRS Workforce Cut 27% Under DOGE, Tax Processing Severely Degraded

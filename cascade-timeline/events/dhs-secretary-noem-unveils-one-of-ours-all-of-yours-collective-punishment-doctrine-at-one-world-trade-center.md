@@ -1,7 +1,7 @@
 ---
 id: dhs-secretary-noem-unveils-one-of-ours-all-of-yours-collective-punishment-doctrine-at-one-world-trade-center
 title: DHS Secretary Noem Unveils "One of Ours, All of Yours" Collective Punishment Doctrine at One World Trade Center
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - immigration

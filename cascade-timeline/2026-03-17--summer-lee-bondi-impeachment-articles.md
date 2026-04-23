@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--summer-lee-bondi-impeachment-articles
 date: '2026-03-17'
 title: Rep. Summer Lee Introduces Articles of Impeachment Against Attorney General Pam Bondi

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--house-democrats-demand-ai-role-iran-school-strike
 date: '2026-03-13'
 title: 120+ House Democrats Demand Pentagon Explain AI's Role in Selecting Minab School Target That Killed 170+

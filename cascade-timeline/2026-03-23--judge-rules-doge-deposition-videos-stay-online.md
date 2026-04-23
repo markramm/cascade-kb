@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--judge-rules-doge-deposition-videos-stay-online
 date: '2026-03-23'
 title: Federal Judge Reverses Takedown Order, Rules DOGE Deposition Videos Can Stay Online

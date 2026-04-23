@@ -1,7 +1,7 @@
 ---
 id: 2025-06-09--rfk-jr-fires-all-acip-members
 date: '2025-06-09'
-type: event
+type: timeline_event
 title: RFK Jr. Fires All 17 ACIP Members, Wholesale Replacement of Vaccine Advisory Committee
 importance: 8
 actors:

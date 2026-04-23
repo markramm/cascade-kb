@@ -1,7 +1,7 @@
 ---
 id: 2025-02-13--opm-orders-mass-firing-probationary-federal-employees
 date: '2025-02-13'
-type: event
+type: timeline_event
 title: OPM Orders Mass Firing of Nearly 25,000 Probationary Federal Employees Across All Agencies
 importance: 10
 actors:

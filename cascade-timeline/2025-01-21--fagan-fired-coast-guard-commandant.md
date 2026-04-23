@@ -2,7 +2,7 @@
 id: 2025-01-21--fagan-fired-coast-guard-commandant
 date: '2025-01-21'
 title: Trump Fires Coast Guard Commandant Adm. Linda Fagan on Day Two — First Military Leader Removed
-type: event
+type: timeline_event
 importance: 9
 actors:
 - Linda Fagan

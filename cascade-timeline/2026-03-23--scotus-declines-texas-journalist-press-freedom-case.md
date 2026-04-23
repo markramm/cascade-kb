@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--scotus-declines-texas-journalist-press-freedom-case
 date: '2026-03-23'
 title: Supreme Court Declines Citizen Journalist Case, Sotomayor Dissents on First Amendment Arrest

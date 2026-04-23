@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-27--openai-pentagon-deal-after-anthropic-blacklist
 date: '2026-02-27'
 title: 'OpenAI Strikes Pentagon Deal Hours After Trump Blacklists Anthropic, Drawing Backlash'

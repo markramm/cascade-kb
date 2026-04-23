@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-01-09--pnk-social-circle-dhs-detention-sale
 date: '2026-01-09'
 title: "PNK Sells Social Circle, GA Warehouse to DHS for $128.5M at 4x Cost Basis in Four-Day Closing for 10,000-Bed ICE Detention Conversion"

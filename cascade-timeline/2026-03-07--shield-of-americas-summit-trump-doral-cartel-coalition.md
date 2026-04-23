@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--shield-of-americas-summit-trump-doral-cartel-coalition
 date: '2026-03-07'
 title: Trump Hosts Shield of the Americas Summit at His Own Doral Resort, Launches Military Cartel Coalition

@@ -1,7 +1,7 @@
 ---
 id: 2025-07-18--epa-mass-layoffs-3700-employees-reagan-era-staffing
 date: '2025-07-18'
-type: event
+type: timeline_event
 title: EPA Announces Largest Workforce Reduction in History — 3,707 Employees Cut, Office of Research and Development Eliminated
 importance: 9
 actors:

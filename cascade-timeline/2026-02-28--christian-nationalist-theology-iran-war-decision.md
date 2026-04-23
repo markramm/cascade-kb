@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-28--christian-nationalist-theology-iran-war-decision
 date: '2026-02-28'
 title: Evangelical End-Times Theology Shapes Trump's Iran War Decision as Hagee and Huckabee Push Biblical Case for Strikes

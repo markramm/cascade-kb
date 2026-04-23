@@ -22,7 +22,7 @@ sources:
   outlet: U.S. Department of Justice
   date: '2025-11-19'
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Brad Edwards
 - Brittany Henderson

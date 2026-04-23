@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--cnn-hegseth-american-crusade-war-analysis
 date: '2026-03-13'
 title: CNN Analysis Connects Hegseth's "American Crusade" Book to His Leadership of Iran War

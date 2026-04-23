@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-09-01--palantir-treasury-irs-unified-api-contract
 date: '2025-09-01'
 title: Treasury Awards Palantir Contract for Unified IRS API Layer, Creating Centralized Access to Taxpayer Data

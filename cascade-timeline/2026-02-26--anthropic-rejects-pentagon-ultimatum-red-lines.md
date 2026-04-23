@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-26--anthropic-rejects-pentagon-ultimatum-red-lines
 date: '2026-02-26'
 title: 'Anthropic Formally Rejects Pentagon Ultimatum, Amodei Holds Red Lines on AI Safety'

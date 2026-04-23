@@ -1,7 +1,7 @@
 ---
 id: 2026-04-03--us-f15e-shot-down-over-iran
 date: '2026-04-03'
-type: event
+type: timeline_event
 title: US F-15E Fighter Jet Shot Down Over Iran, One Crew Member Rescued, Second Missing
 importance: 10
 actors:

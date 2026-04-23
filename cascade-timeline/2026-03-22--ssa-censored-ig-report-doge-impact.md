@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--ssa-censored-ig-report-doge-impact
 date: '2026-03-22'
 title: Trump Admin Altered SSA Inspector General Report to Hide DOGE Impact on Services

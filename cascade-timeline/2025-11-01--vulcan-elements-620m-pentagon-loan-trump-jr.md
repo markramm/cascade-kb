@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-11-01--vulcan-elements-620m-pentagon-loan-trump-jr
 date: '2025-11-01'
 title: Pentagon Awards Record $620M Loan to Trump Jr.-Backed Vulcan Elements for Rare Earth Magnets

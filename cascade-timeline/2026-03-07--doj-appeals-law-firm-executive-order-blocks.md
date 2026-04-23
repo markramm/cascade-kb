@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--doj-appeals-law-firm-executive-order-blocks
 date: '2026-03-07'
 title: DOJ Appeals Four Court Rulings Blocking Trump Executive Orders Targeting Political Opponent Law Firms

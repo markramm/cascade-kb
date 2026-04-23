@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-03-05--scale-ai-pentagon-thunderforge-military-planning
 date: '2025-03-05'
 title: Scale AI Wins Pentagon "Thunderforge" Contract for AI Military Planning, Partnering with Anduril

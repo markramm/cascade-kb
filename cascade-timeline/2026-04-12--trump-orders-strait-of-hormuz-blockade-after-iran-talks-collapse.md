@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-12--trump-orders-strait-of-hormuz-blockade-after-iran-talks-collapse
 date: '2026-04-12'
 title: "Trump Orders US Navy to Blockade Strait of Hormuz After 21-Hour Iran Peace Talks Collapse"

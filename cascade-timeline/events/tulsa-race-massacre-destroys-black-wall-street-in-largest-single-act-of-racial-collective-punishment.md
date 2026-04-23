@@ -1,7 +1,7 @@
 ---
 id: tulsa-race-massacre-destroys-black-wall-street-in-largest-single-act-of-racial-collective-punishment
 title: Tulsa Race Massacre Destroys Black Wall Street in Largest Single Act of Racial Collective Punishment
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

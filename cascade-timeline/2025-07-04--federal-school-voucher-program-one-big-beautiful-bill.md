@@ -1,7 +1,7 @@
 ---
 id: 2025-07-04--federal-school-voucher-program-one-big-beautiful-bill
 date: '2025-07-04'
-type: event
+type: timeline_event
 title: "First Federal School Voucher Program Signed into Law — Tax Credit Scholarships for Private and Religious Schools in One Big Beautiful Bill"
 importance: 9
 actors:

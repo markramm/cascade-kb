@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--pentagon-cto-no-chance-anthropic-talks
 date: '2026-03-13'
 title: Pentagon CTO Emil Michael Says "No Chance" of Renewed Anthropic Negotiations, Accuses Company of "Leaking and Bad Faith"

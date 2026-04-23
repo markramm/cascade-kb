@@ -1,7 +1,7 @@
 ---
 id: harlon-carter-joins-u-s-border-patrol-beginning-rise-to-chief-of-border-control
 title: Harlon Carter Joins U.S. Border Patrol Beginning Rise to Chief of Border Control
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - immigration

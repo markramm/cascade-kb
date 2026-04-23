@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--doj-releases-withheld-epstein-files-trump-allegations
 date: '2026-03-05'
 title: DOJ Releases Previously Withheld Epstein Files Containing Sexual Assault Allegations Against Trump

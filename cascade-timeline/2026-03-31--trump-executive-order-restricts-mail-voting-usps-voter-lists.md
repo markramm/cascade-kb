@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-31--trump-executive-order-restricts-mail-voting-usps-voter-lists
 date: '2026-03-31'
 title: "Trump Issues Executive Order Directing USPS to Refuse Delivery of Mail Ballots to Non-Approved Voters"

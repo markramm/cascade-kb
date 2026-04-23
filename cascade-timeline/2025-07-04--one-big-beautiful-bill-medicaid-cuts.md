@@ -1,7 +1,7 @@
 ---
 id: 2025-07-04--one-big-beautiful-bill-medicaid-cuts
 date: '2025-07-04'
-type: event
+type: timeline_event
 title: "Trump Signs 'One Big Beautiful Bill' Into Law: $911 Billion in Medicaid Cuts, 11.8 Million Projected to Lose Coverage"
 importance: 9
 actors:

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--wyden-accuses-blanche-blocking-epstein-dea-memo
 date: '2026-03-18'
 title: Wyden Accuses DAG Blanche of Blocking Unredacted DEA Memo on Epstein Drug Trafficking Investigation

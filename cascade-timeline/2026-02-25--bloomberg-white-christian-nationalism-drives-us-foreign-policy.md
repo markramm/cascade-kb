@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-25--bloomberg-white-christian-nationalism-drives-us-foreign-policy
 date: '2026-02-25'
 status: confirmed

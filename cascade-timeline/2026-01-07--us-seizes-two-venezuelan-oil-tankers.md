@@ -25,7 +25,7 @@ sources:
   tier: 1
   outlet: Military Times
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Donald Trump
 - US Navy

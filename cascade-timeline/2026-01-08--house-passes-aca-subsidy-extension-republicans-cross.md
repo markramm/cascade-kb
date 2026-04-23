@@ -28,7 +28,7 @@ sources:
   tier: 1
   outlet: CNBC
 status: confirmed
-type: legislative
+type: timeline_event
 actors:
 - Mike Lawler
 - Brian Fitzpatrick

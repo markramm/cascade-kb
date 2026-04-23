@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--us-strikes-natanz-nuclear-facility
 date: '2026-03-21'
 title: US Military Strikes Natanz Uranium Enrichment Facility in Major Nuclear Escalation

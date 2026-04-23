@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-24--palantir-anduril-golden-dome-software-development
 date: '2026-03-24'
 title: Palantir and Anduril Developing Core Software for $185 Billion Golden Dome Missile Shield

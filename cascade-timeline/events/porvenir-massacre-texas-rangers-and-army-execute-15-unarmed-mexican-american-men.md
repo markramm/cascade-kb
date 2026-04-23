@@ -1,7 +1,7 @@
 ---
 id: porvenir-massacre-texas-rangers-and-army-execute-15-unarmed-mexican-american-men
 title: 'Porvenir Massacre: Texas Rangers and Army Execute 15 Unarmed Mexican American Men'
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

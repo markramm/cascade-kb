@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--fortune-memecoin-selling-access-white-house
 date: '2026-03-19'
 title: Fortune Analysis Finds $TRUMP Memecoin's Only Utility Is Selling Access to the President

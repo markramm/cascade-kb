@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--pentagon-claims-iran-navy-destroyed
 date: '2026-03-04'
 title: Pentagon Claims Iran's Navy Destroyed and Senior Naval Leadership Killed in Operation Epic Fury

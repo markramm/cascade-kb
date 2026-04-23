@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-11-19--blue-owl-obdc-merger-terminated
 date: '2025-11-19'
 title: "Blue Owl Terminates OBDC/OBDC II Merger After FT Exposes 20% Investor Haircut; OBDC II Permanently Halts Quarterly Redemptions"

@@ -1,7 +1,7 @@
 ---
 id: 2025-06-06--scotus-restores-doge-access-social-security-data
 title: "Supreme Court Restores DOGE Access to Social Security Data in 6-3 Ruling, Overturns Lower Court Protections"
-type: event
+type: timeline_event
 tags:
 - scotus
 - doge

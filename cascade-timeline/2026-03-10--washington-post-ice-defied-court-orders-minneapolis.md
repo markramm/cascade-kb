@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--washington-post-ice-defied-court-orders-minneapolis
 date: '2026-03-10'
 title: Washington Post Investigation Details How ICE Systematically Defied Court Orders During Minneapolis Enforcement Surge

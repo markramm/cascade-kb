@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--solidarity-schools-spread-may-day-general-strike
 date: '2026-03-19'
 title: Nearly 100 Solidarity Schools Organizing Nationwide for May Day General Strike

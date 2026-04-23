@@ -1,7 +1,7 @@
 ---
 id: 2026-04-02--trump-100-percent-tariffs-pharmaceuticals
 date: '2026-04-02'
-type: event
+type: timeline_event
 title: Trump Imposes 100% Tariffs on Branded Pharmaceutical Imports via Section 232 Executive Order
 importance: 8
 actors:

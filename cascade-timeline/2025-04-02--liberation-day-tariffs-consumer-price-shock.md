@@ -1,7 +1,7 @@
 ---
 id: 2025-04-02--liberation-day-tariffs-consumer-price-shock
 date: '2025-04-02'
-type: event
+type: timeline_event
 title: "Liberation Day Tariffs Cost Average Household $1,000 in 2025, Imported Goods Prices Rise 4% as Americans Bear 94% of Tariff Cost"
 importance: 9
 actors:

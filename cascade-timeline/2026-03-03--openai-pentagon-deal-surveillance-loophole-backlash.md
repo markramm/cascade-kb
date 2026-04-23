@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--openai-pentagon-deal-surveillance-loophole-backlash
 date: '2026-03-03'
 title: "OpenAI Revises Pentagon Deal After Surveillance Loophole Backlash, Critics Remain Unconvinced"

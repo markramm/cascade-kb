@@ -2,7 +2,7 @@
 id: 2026-03-25--gabbard-whistleblower-complaint-surfaces
 date: '2026-03-25'
 title: Gabbard Whistleblower Complaint Surfaces — NSA Intercept Naming Kushner Buried for Eight Months
-type: event
+type: timeline_event
 importance: 9
 actors:
 - Tulsi Gabbard

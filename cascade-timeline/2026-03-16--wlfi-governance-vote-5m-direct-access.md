@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--wlfi-governance-vote-5m-direct-access
 date: '2026-03-16'
 title: World Liberty Financial Governance Vote Creates $5M Pay-for-Access Tier with Trump Team

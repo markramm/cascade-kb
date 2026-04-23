@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2023-01-01--spacex-starshield-1-8-billion-spy-satellite-constellation
 date: '2023-01-01'
 title: SpaceX Wins $1.8 Billion Classified NRO Contract for Hundreds of Spy Satellites

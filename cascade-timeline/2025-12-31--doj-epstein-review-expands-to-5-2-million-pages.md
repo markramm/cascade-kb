@@ -21,7 +21,7 @@ sources:
   outlet: CNBC
   date: '2025-12-31'
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Department of Justice
 - Federal Bureau of Investigation

@@ -20,7 +20,7 @@ sources:
   tier: 2
   outlet: Nationofchange
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Stephen Miller
 - U.S. Citizenship and Immigration Services

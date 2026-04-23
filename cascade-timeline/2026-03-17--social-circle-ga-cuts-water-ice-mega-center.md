@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--social-circle-ga-cuts-water-ice-mega-center
 date: '2026-03-17'
 title: Social Circle, Georgia Shuts Off Water to Planned 10,000-Bed ICE Mega-Center

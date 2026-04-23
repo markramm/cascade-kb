@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--iran-cia-ceasefire-outreach-trump-too-late
 date: '2026-03-05'
 title: Iran Secretly Contacts CIA to Discuss End of War; Trump Says It Is "Too Late" for Talks

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--trump-memecoin-gala-mar-a-lago-announced
 date: '2026-03-12'
 title: $TRUMP Memecoin Team Announces Second Mar-a-Lago Gala Selling Presidential Access to Top Holders

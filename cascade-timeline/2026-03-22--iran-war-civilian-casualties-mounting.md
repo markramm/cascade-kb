@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--iran-war-civilian-casualties-mounting
 date: '2026-03-22'
 title: Iran War Civilian Toll Mounts — 3,114+ Dead Including 1,354 Civilians, 210+ Children, 3.2M Displaced

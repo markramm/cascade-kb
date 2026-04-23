@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--trump-asks-supreme-court-end-haiti-tps-350000
 date: '2026-03-11'
 title: Trump Administration Asks Supreme Court to End Deportation Protections for 350,000 Haitians

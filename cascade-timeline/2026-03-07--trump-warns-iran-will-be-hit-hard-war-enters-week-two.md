@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--trump-warns-iran-will-be-hit-hard-war-enters-week-two
 date: '2026-03-07'
 title: War Enters Second Week as Trump Warns Iran "Will Be Hit Very Hard" and U.S. Evacuates Citizens from Middle East

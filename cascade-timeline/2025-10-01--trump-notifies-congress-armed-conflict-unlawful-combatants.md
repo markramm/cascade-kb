@@ -20,7 +20,7 @@ sources:
   tier: 2
   outlet: Council on Foreign Relations
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Donald Trump
 - U.S. Congress

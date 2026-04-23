@@ -1,7 +1,7 @@
 ---
 id: u-s-border-patrol-founded-staffed-by-former-klansmen-and-texas-rangers
 title: U.S. Border Patrol Founded Staffed by Former Klansmen and Texas Rangers
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - immigration

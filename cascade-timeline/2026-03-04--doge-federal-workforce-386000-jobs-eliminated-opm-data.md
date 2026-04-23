@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--doge-federal-workforce-386000-jobs-eliminated-opm-data
 date: '2026-03-04'
 title: OPM Data Confirms Federal Workforce Shrunk 12% Under DOGE, 386,000 Positions Eliminated

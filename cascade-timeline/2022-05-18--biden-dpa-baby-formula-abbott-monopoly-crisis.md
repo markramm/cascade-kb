@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2022-05-18--biden-dpa-baby-formula-abbott-monopoly-crisis
 date: '2022-05-18'
 title: Biden Invokes Defense Production Act for Baby Formula After Abbott Recall Exposes Dangerous Monopoly

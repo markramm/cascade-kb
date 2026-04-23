@@ -25,7 +25,7 @@ sources:
   tier: 1
   outlet: PBS NewsHour
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Federal Bureau of Investigation
 - Minnesota Bureau of Criminal Apprehension

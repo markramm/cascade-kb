@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--republicans-resist-iran-war-hearings
 date: '2026-03-16'
 title: Republican Leadership Actively Avoids Public Hearings on Iran War

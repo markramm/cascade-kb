@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-24--trammell-crow-merrimack-ice-deal-scuttled-ayotte
 date: '2026-02-24'
 title: "Trammell Crow's Merrimack NH ICE Detention Deal Scuttled After Pressure From Residents, ACLU, and Governor Ayotte — First Documented Successful Community Block of a WEXMAC-TITUS Transaction"

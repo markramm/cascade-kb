@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--tech-industry-rallies-anthropic-amicus-briefs
 date: '2026-03-16'
 title: Broad Tech Coalition Files Amicus Briefs Supporting Anthropic — TechNet Warns Procurement Now "Contingent on Political Favor"

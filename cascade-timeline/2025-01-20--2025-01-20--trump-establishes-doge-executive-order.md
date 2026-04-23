@@ -1,7 +1,7 @@
 ---
 id: 2025-01-20--trump-establishes-doge-executive-order
 title: "Trump Establishes Department of Government Efficiency via Executive Order, Names Musk Leader"
-type: event
+type: timeline_event
 tags:
 - doge
 - executive-order

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--judge-orders-va-restore-union-bargaining
 date: '2026-03-13'
 title: Judge Orders VA to Reinstate Union Collective Bargaining Agreement for 300,000 Employees

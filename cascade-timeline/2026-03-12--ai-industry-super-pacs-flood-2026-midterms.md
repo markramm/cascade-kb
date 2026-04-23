@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--ai-industry-super-pacs-flood-2026-midterms
 date: '2026-03-12'
 title: AI Industry Super PACs Pour $125 Million Into 2026 Midterms to Block Regulation, Targeting Candidates With Hidden Influence Campaign

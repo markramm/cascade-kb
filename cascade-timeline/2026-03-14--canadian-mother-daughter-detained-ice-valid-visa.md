@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-14--canadian-mother-daughter-detained-ice-valid-visa
 date: '2026-03-14'
 title: Canadian Mother and Autistic Daughter Detained by ICE at Texas Checkpoint Despite Valid Work Visa

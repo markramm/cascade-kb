@@ -1,7 +1,7 @@
 ---
 id: 2025-04-03--liberation-day-market-crash-6-trillion-wipeout
 date: '2025-04-03'
-type: event
+type: timeline_event
 title: "Liberation Day Market Crash: S&P 500 Drops 10.5% in Two Days, $6.6 Trillion Wiped Out in Largest Two-Day Loss in History"
 importance: 10
 actors:

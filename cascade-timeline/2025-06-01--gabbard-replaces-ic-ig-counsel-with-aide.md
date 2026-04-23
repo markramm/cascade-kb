@@ -2,7 +2,7 @@
 id: 2025-06-01--gabbard-replaces-ic-ig-counsel-with-aide
 date: '2025-06-01'
 title: Gabbard Replaces Intelligence Community Inspector General's Counsel with Her Own Adviser
-type: event
+type: timeline_event
 importance: 8
 actors:
 - Tulsi Gabbard

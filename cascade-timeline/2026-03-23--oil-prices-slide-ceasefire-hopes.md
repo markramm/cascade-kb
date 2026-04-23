@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--oil-prices-slide-ceasefire-hopes
 date: '2026-03-23'
 title: Oil Prices Drop Sharply on Ceasefire Hopes — Brent Falls 11% to $99.94 After Touching $126 Peak

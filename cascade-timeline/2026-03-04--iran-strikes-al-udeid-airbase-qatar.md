@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--iran-strikes-al-udeid-airbase-qatar
 date: '2026-03-04'
 title: Iran Strikes Al Udeid Air Base in Qatar with Ballistic Missiles, Breaching U.S. Defense Shield

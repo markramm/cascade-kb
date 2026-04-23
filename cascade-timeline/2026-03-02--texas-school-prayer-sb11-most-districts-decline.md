@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-02--texas-school-prayer-sb11-most-districts-decline
 date: '2026-03-02'
 status: confirmed

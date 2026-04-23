@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--ukrainians-deported-war-zone-via-poland
 date: '2026-03-17'
 title: ICE Charter Flights Deport Approximately 15 Ukrainians to Poland-Ukraine Border via Shannon, Ireland

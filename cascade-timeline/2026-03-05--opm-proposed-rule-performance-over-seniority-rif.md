@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--opm-proposed-rule-performance-over-seniority-rif
 date: '2026-03-05'
 title: OPM Proposes Rule Making Performance Primary Factor in Federal Layoffs, Replacing Seniority

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--iran-minab-school-strike-us-tomahawk-war-crime-investigation
 date: '2026-03-11'
 title: Evidence Points to US Tomahawk Strike on Minab Girls School Killing 170+, War Crime Investigation Demanded

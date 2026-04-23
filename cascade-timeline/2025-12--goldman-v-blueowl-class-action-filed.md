@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-12--goldman-v-blueowl-class-action-filed
 date: '2025-12-03'
 title: "Goldman v. Blue Owl Capital Inc. Securities Fraud Class Action Filed in S.D.N.Y. Alleging Concealment of BDC Redemption Crisis"

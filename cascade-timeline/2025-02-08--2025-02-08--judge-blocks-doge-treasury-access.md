@@ -1,7 +1,7 @@
 ---
 id: 2025-02-08--judge-blocks-doge-treasury-access
 title: "Federal Judge Issues First Major Ruling Blocking DOGE Access to Treasury Systems"
-type: event
+type: timeline_event
 tags:
 - doge
 - treasury

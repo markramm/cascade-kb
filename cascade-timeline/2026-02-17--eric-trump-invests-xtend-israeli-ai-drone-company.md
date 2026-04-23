@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-17--eric-trump-invests-xtend-israeli-ai-drone-company
 date: '2026-02-17'
 title: Eric Trump Invests in Israeli AI Drone Maker Xtend as Company Announces $1.5B Nasdaq Listing via Reverse Merger

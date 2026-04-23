@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--18-ags-demand-tariff-refund-legislation
 date: '2026-03-18'
 title: 18 State AGs Demand Congress Pass Legislation Requiring Refunds of $166B in Unlawful IEEPA Tariffs

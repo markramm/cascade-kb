@@ -1,7 +1,7 @@
 ---
 id: rosewood-massacre-destroys-entire-black-florida-town-following-false-accusation
 title: Rosewood Massacre Destroys Entire Black Florida Town Following False Accusation
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

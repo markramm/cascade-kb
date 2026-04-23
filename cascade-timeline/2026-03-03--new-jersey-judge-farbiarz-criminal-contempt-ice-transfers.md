@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--new-jersey-judge-farbiarz-criminal-contempt-ice-transfers
 date: '2026-03-03'
 title: New Jersey Federal Judge Threatens Criminal Contempt After ICE Violates Transfer

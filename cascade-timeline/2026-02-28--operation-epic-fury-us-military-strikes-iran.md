@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-28--operation-epic-fury-us-military-strikes-iran
 date: '2026-02-28'
 title: Operation Epic Fury - US and Israel Launch Massive Military Strikes on Iran

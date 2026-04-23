@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--senate-war-powers-iran-vote-defeated
 date: '2026-03-04'
 title: Senate Formally Defeats Iran War Powers Resolution 47-53, Ceding War Authority to Trump

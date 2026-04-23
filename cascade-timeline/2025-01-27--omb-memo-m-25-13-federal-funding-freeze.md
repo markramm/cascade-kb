@@ -1,7 +1,7 @@
 ---
 id: 2025-01-27--omb-memo-m-25-13-federal-funding-freeze
 date: '2025-01-27'
-type: event
+type: timeline_event
 title: OMB Issues Memo M-25-13 Freezing All Federal Financial Assistance, Triggering Constitutional Crisis Over Congressional Spending Power
 importance: 10
 actors:

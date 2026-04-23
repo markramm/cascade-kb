@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--senators-request-gao-audit-doj-epstein-files-handling
 date: '2026-03-11'
 title: Bipartisan Senators Request GAO Audit of DOJ Handling of Epstein Files

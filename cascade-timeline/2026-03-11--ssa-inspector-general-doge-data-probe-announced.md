@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--ssa-inspector-general-doge-data-probe-announced
 date: '2026-03-11'
 title: Social Security Administration Inspector General Opens Formal Probe into DOGE Data Misuse

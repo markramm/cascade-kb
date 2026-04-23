@@ -1,7 +1,7 @@
 ---
 id: 2026-04-03--mcconnell-joins-democrats-nato-membership-defense
 date: '2026-04-03'
-type: event
+type: timeline_event
 title: McConnell Joins Democrats to Defend US NATO Membership as Trump Considers Withdrawal
 importance: 8
 actors:

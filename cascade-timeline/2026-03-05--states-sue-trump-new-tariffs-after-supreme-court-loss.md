@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--states-sue-trump-new-tariffs-after-supreme-court-loss
 date: '2026-03-05'
 title: 24 State Attorneys General Sue Trump Over New Tariffs After Supreme Court Struck Down Previous Ones

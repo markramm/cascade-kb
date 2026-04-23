@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--estefany-rodriguez-released-ice-custody
 date: '2026-03-19'
 title: Journalist Estefany Rodriguez Released from ICE Custody After More Than Two Weeks

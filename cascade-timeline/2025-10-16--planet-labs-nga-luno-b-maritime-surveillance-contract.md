@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-10-16--planet-labs-nga-luno-b-maritime-surveillance-contract
 date: '2025-10-16'
 title: Planet Labs Wins $12.8M NGA Contract for AI Maritime Surveillance in Asia-Pacific

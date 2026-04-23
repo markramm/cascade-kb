@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-05--hegseth-national-prayer-breakfast-soldiers-salvation-christian-nation
 date: '2026-02-05'
 status: confirmed

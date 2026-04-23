@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--iran-fm-araghchi-rejects-ceasefire
 date: '2026-03-16'
 title: Iran FM Araghchi Rejects Ceasefire — "War Must End So Enemies Never Again Think of Repeating"

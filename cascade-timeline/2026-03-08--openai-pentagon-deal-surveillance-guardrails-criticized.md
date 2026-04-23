@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--openai-pentagon-deal-surveillance-guardrails-criticized
 date: '2026-03-08'
 title: EFF and The Intercept Find OpenAI's Pentagon Deal Surveillance Guardrails Unenforceable, Warning of AI-Powered Domestic Surveillance Risk

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--anthropic-files-dual-lawsuits-pentagon-supply-chain-designation
 date: '2026-03-09'
 title: Anthropic Files Dual Federal Lawsuits Challenging Pentagon's Supply Chain Risk Designation as Unconstitutional Retaliation

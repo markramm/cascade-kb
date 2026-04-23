@@ -1,7 +1,7 @@
 ---
 id: 2025-03-25--marty-makary-confirmed-fda-commissioner
 date: '2025-03-25'
-type: event
+type: timeline_event
 title: Senate Confirms Marty Makary as FDA Commissioner in 56-44 Vote, Architect of Deregulation Agenda
 importance: 7
 actors:

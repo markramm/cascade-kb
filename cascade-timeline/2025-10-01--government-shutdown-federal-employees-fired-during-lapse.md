@@ -1,7 +1,7 @@
 ---
 id: 2025-10-01--government-shutdown-federal-employees-fired-during-lapse
 date: '2025-10-01'
-type: event
+type: timeline_event
 title: Trump Administration Fires Federal Employees During Government Shutdown, Courts Order Reinstatement as Unions Win Injunctions
 importance: 8
 actors:

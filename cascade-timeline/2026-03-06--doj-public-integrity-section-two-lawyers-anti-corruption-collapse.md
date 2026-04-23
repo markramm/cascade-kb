@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--doj-public-integrity-section-two-lawyers-anti-corruption-collapse
 date: '2026-03-06'
 title: DOJ Public Integrity Section Collapses to Two Lawyers, Gutting Federal Anti-Corruption Enforcement

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--crew-testimony-trump-corruption-national-security
 date: '2026-03-17'
 title: CREW Testifies Trump Corruption Weakens Government and Threatens National Security

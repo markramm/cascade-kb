@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-11--cbp-clearview-ai-facial-recognition-contract
 date: '2026-02-11'
 title: CBP Signs Clearview AI Contract for "Tactical Targeting" Using 60 Billion Image Database

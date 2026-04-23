@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--cnn-2-5-million-epstein-documents-unreleased
 date: '2026-03-19'
 title: CNN Reports 2.5 Million Epstein Documents Remain Unreleased Despite Transparency Act

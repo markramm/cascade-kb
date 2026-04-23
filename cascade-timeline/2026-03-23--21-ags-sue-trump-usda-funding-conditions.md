@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--21-ags-sue-trump-usda-funding-conditions
 date: '2026-03-23'
 title: 21 State AGs Sue to Block USDA "2026 Conditions" Tying Food Assistance to Ideological Compliance

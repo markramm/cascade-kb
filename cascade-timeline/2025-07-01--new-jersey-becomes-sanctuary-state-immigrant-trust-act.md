@@ -1,7 +1,7 @@
 ---
 id: 2025-07-01--new-jersey-becomes-sanctuary-state-immigrant-trust-act
 date: '2025-07-01'
-type: event
+type: timeline_event
 title: New Jersey Becomes Official Sanctuary State as States Escalate Legislative Resistance to Federal Immigration Enforcement
 importance: 8
 actors:

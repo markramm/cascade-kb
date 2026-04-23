@@ -1,7 +1,7 @@
 ---
 id: 2026-04-02--hegseth-fires-army-chief-of-staff-randy-george
 date: '2026-04-02'
-type: event
+type: timeline_event
 title: Hegseth Fires Army Chief of Staff Gen. Randy George During Iran War, Installs Former Personal Aide
 importance: 9
 actors:

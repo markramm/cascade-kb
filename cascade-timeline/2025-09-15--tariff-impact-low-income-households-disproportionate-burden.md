@@ -1,7 +1,7 @@
 ---
 id: 2025-09-15--tariff-impact-low-income-households-disproportionate-burden
 date: '2025-09-15'
-type: event
+type: timeline_event
 title: "Federal Reserve Study Confirms Americans Bear 94% of Tariff Costs, Low-Income Households Hit Hardest as Food and Consumer Prices Surge"
 importance: 8
 actors:

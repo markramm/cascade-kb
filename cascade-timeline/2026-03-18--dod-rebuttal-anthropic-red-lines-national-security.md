@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--dod-rebuttal-anthropic-red-lines-national-security
 date: '2026-03-18'
 title: "DOD Files 40-Page Rebuttal Claiming Anthropic Might \"Disable Its Technology\" During Warfighting Operations Over Corporate Red Lines"

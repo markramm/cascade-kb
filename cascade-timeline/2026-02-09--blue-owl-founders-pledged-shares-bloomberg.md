@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-09--blue-owl-founders-pledged-shares-bloomberg
 date: '2026-02-09'
 title: "Bloomberg Reveals Blue Owl Co-CEOs Pledged $1.9B in Firm Shares as Collateral for Personal Loans Before 60% Stock Plunge"

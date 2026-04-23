@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-18--palantir-22-point-manifesto-published
 date: '2026-04-18'
 title: "Palantir Publishes 22-Point Manifesto Calling for Universal Military Service, AI Arms Race, and Attack on 'Regressive' Cultures"

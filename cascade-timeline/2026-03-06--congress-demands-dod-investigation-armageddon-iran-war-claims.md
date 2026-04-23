@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--congress-demands-dod-investigation-armageddon-iran-war-claims
 date: '2026-03-06'
 title: 29 Congress Members Demand DOD Inspector General Investigate Commanders Framing Iran War as Biblical Armageddon

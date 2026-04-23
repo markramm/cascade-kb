@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--claude-ai-iran-strikes-target-selection-ban-violation
 date: '2026-03-04'
 title: Pentagon Uses Banned Anthropic Claude to Select 1,000+ Iran Strike Targets While Simultaneously Blacklisting the Company

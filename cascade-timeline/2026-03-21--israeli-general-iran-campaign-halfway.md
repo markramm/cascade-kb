@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--israeli-general-iran-campaign-halfway
 date: '2026-03-21'
 title: Israeli Military Officials Say Iran Campaign at "Halfway" Point — Weeks More of Operations Ahead

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--federal-agencies-shed-anthropic-contracts-treasury-state-hhs
 date: '2026-03-04'
 title: Treasury, State, and HHS Begin Phasing Out Anthropic Products Following Trump Executive Directive

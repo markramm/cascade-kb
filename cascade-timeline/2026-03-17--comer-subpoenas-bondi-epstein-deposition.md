@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--comer-subpoenas-bondi-epstein-deposition
 date: '2026-03-17'
 title: House Oversight Chairman Comer Subpoenas AG Bondi for Sworn Deposition on Epstein Files

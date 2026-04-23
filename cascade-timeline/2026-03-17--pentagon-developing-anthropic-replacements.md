@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--pentagon-developing-anthropic-replacements
 date: '2026-03-17'
 title: Pentagon Confirms Working to Replace Anthropic's Claude — OpenAI Already Deployed, Google Gemini Next in Line

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--senate-democrats-iran-war-powers-hegseth-rubio-testify
 date: '2026-03-09'
 title: Senate Democrats Demand Hegseth and Rubio Testify on Iran War, Threaten Repeated War Powers Votes

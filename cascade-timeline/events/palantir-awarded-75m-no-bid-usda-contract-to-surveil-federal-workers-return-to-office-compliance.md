@@ -1,7 +1,7 @@
 ---
 id: palantir-awarded-75m-no-bid-usda-contract-to-surveil-federal-workers-return-to-office-compliance
 title: Palantir Awarded $75M No-Bid USDA Contract to Surveil Federal Workers Return-to-Office Compliance
-type: event
+type: timeline_event
 tags:
 - palantir
 - surveillance

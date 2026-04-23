@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--pentagon-requests-200-billion-iran-supplemental
 date: '2026-03-19'
 title: Pentagon Requests $200 Billion War Supplemental — Hegseth Says 'It Takes Money to Kill Bad Guys'

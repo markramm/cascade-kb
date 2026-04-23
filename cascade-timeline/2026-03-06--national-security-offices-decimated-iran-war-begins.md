@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--national-security-offices-decimated-iran-war-begins
 date: '2026-03-06'
 title: DOJ and FBI National Security Divisions Decimated by Purges as U.S. Confronts Iran War

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-04-14--general-matter-founders-fund-50m-thiel-joins-board
 date: '2025-04-14'
 title: Founders Fund Leads $50M Round for Enriched Uranium Startup General Matter; Peter Thiel Joins Board

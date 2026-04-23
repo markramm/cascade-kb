@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 actors:
 - Pete Hegseth
 - Doug Wilson

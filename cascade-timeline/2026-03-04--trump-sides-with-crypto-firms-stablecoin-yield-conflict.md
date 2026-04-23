@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--trump-sides-with-crypto-firms-stablecoin-yield-conflict
 date: '2026-03-04'
 title: Trump Publicly Champions Crypto Industry in Stablecoin Battle While Family Firm Profits from Same Rules

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--nws-half-offices-critically-understaffed
 date: '2026-03-20'
 title: Half of National Weather Service Offices Critically Understaffed, Eight Cease Overnight Operations

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--ice-detention-expansion-38-billion-mega-centers
 date: '2026-03-12'
 title: ICE Reveals $38.3 Billion Detention Expansion Plan for 92,600-Bed Mega-Center Network

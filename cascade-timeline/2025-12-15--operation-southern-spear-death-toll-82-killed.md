@@ -20,7 +20,7 @@ sources:
   tier: 1
   outlet: Hrw
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Pentagon
 - Human Rights Watch

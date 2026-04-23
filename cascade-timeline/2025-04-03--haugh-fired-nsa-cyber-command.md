@@ -2,7 +2,7 @@
 id: 2025-04-03--haugh-fired-nsa-cyber-command
 date: '2025-04-03'
 title: Trump Fires NSA Director Gen. Timothy Haugh and Deputy After Laura Loomer Oval Office Visit
-type: event
+type: timeline_event
 importance: 9
 actors:
 - Timothy Haugh

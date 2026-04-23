@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--doj-retaliatory-investigations-democratic-officials
 date: '2026-03-09'
 title: DOJ Pursues Retaliatory Investigations of Democratic Officials and Federal Reserve Chair

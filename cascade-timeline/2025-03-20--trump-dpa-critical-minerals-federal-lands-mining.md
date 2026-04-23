@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-03-20--trump-dpa-critical-minerals-federal-lands-mining
 date: '2025-03-20'
 title: Trump Invokes Defense Production Act for Critical Mineral Extraction on Federal Lands

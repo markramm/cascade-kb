@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--house-oversight-epstein-prison-guard-noel-testimony
 date: '2026-03-13'
 title: House Oversight Requests Epstein Prison Guard Tova Noel for Transcribed Interview

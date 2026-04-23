@@ -1,7 +1,7 @@
 ---
 id: 2025-05-30--measles-crisis-2286-cases-elimination-status-threatened
 date: '2025-05-30'
-type: event
+type: timeline_event
 title: "US Measles Crisis Reaches 1,088 Cases with First Deaths Since 2015 — Elimination Status at Risk for First Time Since 2000"
 importance: 9
 actors:

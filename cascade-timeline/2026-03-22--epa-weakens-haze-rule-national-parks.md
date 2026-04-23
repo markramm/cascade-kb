@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--epa-weakens-haze-rule-national-parks
 date: '2026-03-22'
 title: EPA Weakens National Park Haze Rule, Shields Coal Plants from Pollution Control Evaluations

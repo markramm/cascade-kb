@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--judge-quraishi-ejects-doj-prosecutor-nj
 date: '2026-03-17'
 title: "Judge Quraishi Ejects DOJ Prosecutor From Courtroom, Orders NJ US Attorney Leadership to Testify"

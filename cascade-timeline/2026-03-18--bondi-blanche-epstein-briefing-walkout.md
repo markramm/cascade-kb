@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--bondi-blanche-epstein-briefing-walkout
 date: '2026-03-18'
 title: Democrats Walk Out of Bondi-Blanche Epstein Briefing After Comer Vulgar Remark

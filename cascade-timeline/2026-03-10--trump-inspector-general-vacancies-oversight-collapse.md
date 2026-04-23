@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--trump-inspector-general-vacancies-oversight-collapse
 date: '2026-03-10'
 title: Public Citizen Report Finds Trump Removed More Inspectors General Than All Prior Presidents Combined

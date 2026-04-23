@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--usps-warns-congress-cash-runs-out-october
 date: '2026-03-17'
 title: Postmaster General Warns Congress USPS Could Run Out of Cash by October 2026

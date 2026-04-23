@@ -1,7 +1,7 @@
 ---
 id: doge-one-year-assessment-300-000-federal-jobs-cut-215b-savings-claim-unverified
 title: 'DOGE One-Year Assessment: 300,000 Federal Jobs Cut, $215B Savings Claim Unverified'
-type: event
+type: timeline_event
 tags:
 - doge
 - federal-workforce

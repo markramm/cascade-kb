@@ -1,7 +1,7 @@
 ---
 id: 2025-02-14--doge-mass-firing-probationary-federal-workers
 title: "DOGE Orchestrates Mass Firing of Nearly 25,000 Probationary Federal Workers Across Government"
-type: event
+type: timeline_event
 tags:
 - doge
 - mass-firings

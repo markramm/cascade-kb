@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--iran-fires-missiles-diego-garcia-long-range
 date: '2026-03-21'
 title: Iran Launches IRBMs at Diego Garcia — Missiles Fall Short but Reveal Range Far Exceeding Declared 2,000km Limit

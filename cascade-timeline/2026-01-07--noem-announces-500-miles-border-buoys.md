@@ -20,7 +20,7 @@ sources:
   tier: 2
   outlet: Newsnationnow
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Kristi Noem
 - DHS (Department of Homeland Security)

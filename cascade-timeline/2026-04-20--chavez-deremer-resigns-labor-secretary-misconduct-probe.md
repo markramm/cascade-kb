@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-20--chavez-deremer-resigns-labor-secretary-misconduct-probe
 date: '2026-04-20'
 title: Labor Secretary Lori Chavez-DeRemer Resigns Amid DOL Inspector General Misconduct Investigation

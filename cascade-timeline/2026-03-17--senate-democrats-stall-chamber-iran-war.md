@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--senate-democrats-stall-chamber-iran-war
 date: '2026-03-17'
 title: "Senate Six Democrats Prepare to Grind Chamber to Halt Over Iran War Oversight"

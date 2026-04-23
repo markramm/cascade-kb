@@ -1,7 +1,7 @@
 ---
 id: 2025-04-17--judge-blocks-doge-social-security-data-access
 title: "Federal Judge Blocks DOGE From Social Security Data, Orders Deletion of Personal Records"
-type: event
+type: timeline_event
 tags:
 - doge
 - social-security

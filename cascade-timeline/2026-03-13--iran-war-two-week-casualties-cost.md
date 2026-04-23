@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--iran-war-two-week-casualties-cost
 date: '2026-03-13'
 title: Iran War Two-Week Assessment — 5,300+ Killed, $11B+ Spent, 3.2M Displaced

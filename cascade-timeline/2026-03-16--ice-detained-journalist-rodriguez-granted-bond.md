@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--ice-detained-journalist-rodriguez-granted-bond
 date: '2026-03-16'
 title: ICE-Detained Journalist Estefany Rodriguez Granted $10K Bond After 12 Days in Custody

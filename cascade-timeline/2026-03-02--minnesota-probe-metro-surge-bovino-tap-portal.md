@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 actors:
 - Mary Moriarty
 - Greg Bovino

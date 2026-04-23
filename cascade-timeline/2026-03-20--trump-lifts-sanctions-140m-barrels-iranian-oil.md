@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--trump-lifts-sanctions-140m-barrels-iranian-oil
 date: '2026-03-20'
 title: Trump Issues 30-Day Waiver Allowing Purchase of 140M Barrels of Iranian Oil to Ease Price Surge

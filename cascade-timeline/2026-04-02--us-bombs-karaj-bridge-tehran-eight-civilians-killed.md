@@ -1,7 +1,7 @@
 ---
 id: 2026-04-02--us-bombs-karaj-bridge-tehran-eight-civilians-killed
 date: '2026-04-02'
-type: event
+type: timeline_event
 title: US Bombs Bridge Near Tehran Killing Eight Civilians, Trump Posts Collapse Video on Truth Social
 importance: 9
 actors:

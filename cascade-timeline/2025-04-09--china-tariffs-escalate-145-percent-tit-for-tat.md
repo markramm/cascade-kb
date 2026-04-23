@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-04-09--china-tariffs-escalate-145-percent-tit-for-tat
 date: '2025-04-09'
 title: "US-China Tariff Escalation Reaches 145% as Tit-for-Tat Retaliation Nears Total Decoupling"

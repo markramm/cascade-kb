@@ -20,7 +20,7 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Department of Justice
 - Richard Indyke

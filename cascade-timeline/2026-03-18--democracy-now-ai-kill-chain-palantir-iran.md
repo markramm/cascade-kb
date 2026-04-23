@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--democracy-now-ai-kill-chain-palantir-iran
 date: '2026-03-18'
 title: Democracy Now Airs Segment on Pentagon's AI Kill Chain — Palantir Maven Reduced Targeting From "Tens of Thousands of Hours" to "Seconds"

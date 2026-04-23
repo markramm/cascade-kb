@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--noem-firing-aftermath-dhs-tenure-controversies
 date: '2026-03-06'
 title: Post-Firing Analysis Details Five Major Controversies That Ended Noem's DHS Tenure

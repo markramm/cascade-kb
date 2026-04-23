@@ -1,7 +1,7 @@
 ---
 id: 2025-01-31--title-ix-reversion-2020-trump-rules
 date: '2025-01-31'
-type: event
+type: timeline_event
 title: DOE Reverts Title IX to Trump-Era 2020 Rules, Narrowing Sexual Harassment and Gender Identity Protections
 importance: 7
 actors:

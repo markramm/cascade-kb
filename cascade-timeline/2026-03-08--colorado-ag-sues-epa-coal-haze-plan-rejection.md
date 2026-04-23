@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--colorado-ag-sues-epa-coal-haze-plan-rejection
 date: '2026-03-08'
 title: Colorado Attorney General and Environmental Groups Sue EPA Over Illegal Rejection of State Clean Air Plan Protecting Coal

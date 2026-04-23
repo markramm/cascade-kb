@@ -1,7 +1,7 @@
 ---
 id: 2025-05-14--epa-pfas-drinking-water-standards-rollback
 date: '2025-05-14'
-type: event
+type: timeline_event
 title: EPA Rolls Back PFAS Drinking Water Protections, Delays Enforcement, Terminates Research Grants
 importance: 8
 actors:

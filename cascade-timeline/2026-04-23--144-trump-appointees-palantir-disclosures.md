@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-23--144-trump-appointees-palantir-disclosures
 date: '2026-04-23'
 title: ProPublica Disclosure Database Shows 144 Trump Administration Appointees with Palantir Holdings, Compensation, or Employment Ties

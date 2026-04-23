@@ -1,7 +1,7 @@
 ---
 id: harlon-carter-leads-nra-cincinnati-revolt-transforming-gun-lobby-into-political-weapon
 title: Harlon Carter Leads NRA Cincinnati Revolt Transforming Gun Lobby into Political Weapon
-type: event
+type: timeline_event
 tags:
 - conservative-movement
 - institutional-capture

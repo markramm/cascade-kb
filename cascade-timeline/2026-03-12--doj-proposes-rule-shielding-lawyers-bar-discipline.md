@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--doj-proposes-rule-shielding-lawyers-bar-discipline
 date: '2026-03-12'
 title: DOJ Proposes Rule Giving Attorney General Veto Power Over Bar Complaints Against Government Lawyers

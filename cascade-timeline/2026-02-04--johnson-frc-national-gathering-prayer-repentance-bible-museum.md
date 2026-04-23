@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-04--johnson-frc-national-gathering-prayer-repentance-bible-museum
 date: '2026-02-04'
 status: confirmed

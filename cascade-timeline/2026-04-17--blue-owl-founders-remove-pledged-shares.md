@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-17--blue-owl-founders-remove-pledged-shares
 date: '2026-04-17'
 title: "Blue Owl 8-K Confirms Co-CEOs Removed All Firm Shares as Loan Collateral After Reports of Imminent Margin Calls — Three Days Before RAMM Publishes 'Blue Owl System'"

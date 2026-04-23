@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2023-08-01--gotenna-off-grid-facial-recognition-sbir-air-force
 date: '2023-08-01'
 title: Thiel-Backed goTenna Contracted for "Off-Grid Facial Recognition" with U.S. Air Force

@@ -2,7 +2,7 @@
 id: 2025-04-04--chatfield-fired-nato-representative
 date: '2025-04-04'
 title: Vice Adm. Shoshana Chatfield Fired as U.S. Military Representative to NATO — 'Loss of Confidence'
-type: event
+type: timeline_event
 importance: 7
 actors:
 - Shoshana Chatfield

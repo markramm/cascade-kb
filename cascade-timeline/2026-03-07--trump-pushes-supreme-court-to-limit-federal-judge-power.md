@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--trump-pushes-supreme-court-to-limit-federal-judge-power
 date: '2026-03-07'
 title: Trump Administration Escalates Campaign to Strip Federal Judges of Power to Block Presidential Orders

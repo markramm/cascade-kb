@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--anthropic-sues-dod-supply-chain-risk-designation
 date: '2026-03-06'
 title: Anthropic Files Lawsuit Against Pentagon Over Unprecedented National Security Designation

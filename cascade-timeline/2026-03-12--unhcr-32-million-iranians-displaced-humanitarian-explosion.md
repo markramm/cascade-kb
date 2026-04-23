@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--unhcr-32-million-iranians-displaced-humanitarian-explosion
 date: '2026-03-12'
 title: UNHCR Reports 3.2 Million Iranians Displaced as UN Warns of "Humanitarian Explosion"

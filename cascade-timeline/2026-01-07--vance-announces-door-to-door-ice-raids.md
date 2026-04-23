@@ -24,7 +24,7 @@ sources:
   tier: 2
   outlet: Yahoo
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - JD Vance
 - Immigration and Customs Enforcement (ICE)

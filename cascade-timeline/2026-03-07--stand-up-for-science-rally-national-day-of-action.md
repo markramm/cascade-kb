@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--stand-up-for-science-rally-national-day-of-action
 date: '2026-03-07'
 title: Stand Up for Science Holds Nationwide 'Rally to Take Back Science' at 46+ Locations

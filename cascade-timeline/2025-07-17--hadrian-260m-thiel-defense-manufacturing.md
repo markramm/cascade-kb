@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-07-17--hadrian-260m-thiel-defense-manufacturing
 date: '2025-07-17'
 title: Thiel's Founders Fund Leads $260M Round for Hadrian Defense Manufacturing Startup

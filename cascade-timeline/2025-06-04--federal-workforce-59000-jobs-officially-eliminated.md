@@ -1,7 +1,7 @@
 ---
 id: 2025-06-04--federal-workforce-59000-jobs-officially-eliminated
 date: '2025-06-04'
-type: event
+type: timeline_event
 title: "59,000 Federal Jobs Officially Eliminated by June 2025, True Scope Far Larger as DOGE Campaign Transforms Government Workforce"
 importance: 8
 actors:

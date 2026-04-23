@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--doj-epstein-files-released-after-npm-investigation
 date: '2026-03-09'
 title: DOJ Releases Additional Epstein Files After NPR Investigation Exposes Withheld Trump-Related Documents

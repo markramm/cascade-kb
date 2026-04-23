@@ -24,7 +24,7 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - United Nations
 - Volker Türk

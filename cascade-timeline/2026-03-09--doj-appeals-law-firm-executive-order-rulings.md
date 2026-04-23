@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--doj-appeals-law-firm-executive-order-rulings
 date: '2026-03-09'
 title: DOJ Appeals Blocked Executive Orders Targeting Law Firms, Claims Judges "Bent Over Backwards" to Rule Against Trump

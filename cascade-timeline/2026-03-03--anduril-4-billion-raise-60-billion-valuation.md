@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--anduril-4-billion-raise-60-billion-valuation
 date: '2026-03-03'
 title: Anduril Raises $4 Billion at $60 Billion Valuation as Iran War Drives Defense Spending

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-12-12--quantum-systems-wins-246m-german-army-falke-contract
 date: '2025-12-12'
 title: Thiel-Backed Quantum Systems Wins $246M German Army Contract for 520 Falke Surveillance Drones

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--trump-48-hour-ultimatum-hormuz-power-plants
 date: '2026-03-22'
 title: "Trump Gives Iran 48-Hour Ultimatum to Reopen Hormuz — Threatens to 'Obliterate' Power Plants"

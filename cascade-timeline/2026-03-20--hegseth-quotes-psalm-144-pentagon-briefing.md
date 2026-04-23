@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--hegseth-quotes-psalm-144-pentagon-briefing
 date: '2026-03-20'
 title: Hegseth Quotes Psalm 144 at Pentagon Briefing, Calls Iranian Leaders "Religious Fanatics"

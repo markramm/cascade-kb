@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--cnn-whole-story-christian-nationalism-documentary
 date: '2026-03-22'
 title: CNN Airs Full-Hour Documentary Examining Christian Nationalism's Rise to Political Power

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--usps-dejoy-doge-deal-10000-workers-cut
 date: '2026-03-12'
 title: USPS Postmaster DeJoy Signs DOGE Deal to Cut 10,000 Postal Workers

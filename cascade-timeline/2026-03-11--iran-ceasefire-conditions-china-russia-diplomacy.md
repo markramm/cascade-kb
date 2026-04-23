@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--iran-ceasefire-conditions-china-russia-diplomacy
 date: '2026-03-11'
 title: Iran Sets Ceasefire Conditions as China and Russia Launch Diplomatic Intervention

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--us-bombs-kharg-island-oil-hub
 date: '2026-03-13'
 title: US Air Force Bombs Kharg Island Oil Hub, Strikes 90+ Military Targets Across Iran

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--senate-republicans-block-trump-emoluments-crypto-resolutions
 date: '2026-03-03'
 title: Senate Republicans Block Four Democratic Resolutions Condemning Trump Foreign Emoluments and Crypto Conflicts

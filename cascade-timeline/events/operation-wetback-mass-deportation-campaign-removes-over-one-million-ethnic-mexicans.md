@@ -1,7 +1,7 @@
 ---
 id: operation-wetback-mass-deportation-campaign-removes-over-one-million-ethnic-mexicans
 title: 'Operation Wetback: Mass Deportation Campaign Removes Over One Million Ethnic Mexicans'
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - immigration

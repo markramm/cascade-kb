@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-03--23-states-sue-trump-mail-voting-executive-order
 date: '2026-04-03'
 title: "23 States Sue Trump Over Mail Voting Executive Order as Democratic AGs File 100th Lawsuit Against Administration"

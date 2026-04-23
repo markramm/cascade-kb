@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--warren-warns-tsunami-of-corruption-markets
 date: '2026-03-11'
 title: "Warren Warns Institutional Investors of 'Tsunami of Corruption' Threatening Financial Markets"

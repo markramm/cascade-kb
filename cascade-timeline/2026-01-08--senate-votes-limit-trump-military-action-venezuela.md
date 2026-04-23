@@ -28,7 +28,7 @@ sources:
   tier: 1
   outlet: TIME
 status: confirmed
-type: legislative
+type: timeline_event
 actors:
 - Tim Kaine
 - Rand Paul

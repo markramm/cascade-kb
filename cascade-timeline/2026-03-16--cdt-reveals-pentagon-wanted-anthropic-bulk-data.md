@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--cdt-reveals-pentagon-wanted-anthropic-bulk-data
 date: '2026-03-16'
 title: Time/CDT Op-Ed Reveals Pentagon Wanted Anthropic to Help Collect and Analyze Bulk Commercial Data on Americans

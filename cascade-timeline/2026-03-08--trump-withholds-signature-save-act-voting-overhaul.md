@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--trump-withholds-signature-save-act-voting-overhaul
 date: '2026-03-08'
 title: Trump Threatens Legislative Blockade Until Congress Passes SAVE America Voter ID Act

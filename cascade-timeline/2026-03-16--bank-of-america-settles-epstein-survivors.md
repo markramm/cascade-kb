@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--bank-of-america-settles-epstein-survivors
 date: '2026-03-16'
 title: Bank of America Settles Epstein Survivor Lawsuit Over $170M in Suspicious Transactions

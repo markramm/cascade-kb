@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--pentagon-military-users-disagree-claude-replacement
 date: '2026-03-18'
 title: Military Users Warn Claude Replacement Could Take 12-18 Months — Pentagon IT Staff "Slow-Rolling" Transition

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--house-war-powers-iran-vote-defeated
 date: '2026-03-04'
 title: House Rejects Iran War Powers Resolution 212-219, Completing Congress's Abdication of War Authority

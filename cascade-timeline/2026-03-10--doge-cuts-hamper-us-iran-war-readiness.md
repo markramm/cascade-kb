@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--doge-cuts-hamper-us-iran-war-readiness
 date: '2026-03-10'
 title: DOGE Spending Cuts Leave U.S. Government Hollowed Out as Iran War Escalates

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-10-30--blue-owl-q3-2025-earnings-beat-stock-falls
 date: '2025-10-30'
 title: "Blue Owl Q3 2025 Earnings Beat Revenue Forecast by 7% — Stock Falls 4.6% Anyway as Investors Price In Private-Credit Stress"

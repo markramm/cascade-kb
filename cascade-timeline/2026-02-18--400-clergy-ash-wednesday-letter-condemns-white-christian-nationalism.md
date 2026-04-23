@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-18--400-clergy-ash-wednesday-letter-condemns-white-christian-nationalism
 date: '2026-02-18'
 status: confirmed

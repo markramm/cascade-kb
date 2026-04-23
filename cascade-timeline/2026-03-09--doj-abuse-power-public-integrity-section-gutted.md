@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--doj-abuse-power-public-integrity-section-gutted
 date: '2026-03-09'
 title: DOJ Public Integrity Section Gutted from 36 to 2 Lawyers, Stripped of Authority to File Cases

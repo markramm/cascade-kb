@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--no-kings-march-28-boston-rally-announced
 date: '2026-03-11'
 title: No Kings Coalition Announces Nationwide March 28 Protests, Aims to Be Largest in U.S. History

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--may-day-general-strike-organizing-national-momentum
 date: '2026-03-05'
 title: Labor Unions and Activist Groups Escalate May Day 2026 General Strike Organizing Nationwide

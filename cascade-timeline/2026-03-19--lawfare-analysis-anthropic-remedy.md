@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--lawfare-analysis-anthropic-remedy
 date: '2026-03-19'
 title: "Lawfare Analysis Argues Judge Should Block Government-Wide Ban and \"Secondary Boycott\" but Allow Pentagon to Stop Buying From Anthropic"

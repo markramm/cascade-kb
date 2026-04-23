@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--anthropic-pentagon-reopens-talks-defense-experts-back-company
 date: '2026-03-05'
 title: Anthropic Reopens Pentagon Talks as Defense Experts Warn Blacklist Sets Dangerous Precedent for AI Safety

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-02--iran-declares-strait-of-hormuz-closed
 date: '2026-03-02'
 title: Iran Formally Declares Strait of Hormuz "Closed," Threatening to Destroy Any Transiting Vessel

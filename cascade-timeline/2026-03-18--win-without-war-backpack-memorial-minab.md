@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--win-without-war-backpack-memorial-minab
 date: '2026-03-18'
 title: Win Without War Places 168 Children's Backpacks on Capitol Lawn Memorializing Minab School Victims

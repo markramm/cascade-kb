@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--project-homecoming-self-deportation-72000
 date: '2026-03-18'
 title: "Internal DHS Document Reveals 'Project Homecoming' Self-Deportation Numbers Far Below Administration Claims"

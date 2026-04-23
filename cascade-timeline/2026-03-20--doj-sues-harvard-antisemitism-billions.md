@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--doj-sues-harvard-antisemitism-billions
 date: '2026-03-20'
 title: DOJ Sues Harvard Alleging Antisemitism, Seeks to Recover Billions in Federal Subsidies

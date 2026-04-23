@@ -29,7 +29,7 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Donald Trump
 - Stephen Miller

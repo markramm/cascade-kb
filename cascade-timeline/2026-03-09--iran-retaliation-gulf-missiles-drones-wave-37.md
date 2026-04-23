@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--iran-retaliation-gulf-missiles-drones-wave-37
 date: '2026-03-09'
 title: Iran Launches Missiles and Drones at Gulf Nations and US Bases in Escalating Retaliation

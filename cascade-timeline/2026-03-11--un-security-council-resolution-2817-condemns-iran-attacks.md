@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--un-security-council-resolution-2817-condemns-iran-attacks
 date: '2026-03-11'
 title: UN Security Council Adopts Resolution 2817 Condemning Iran's Attacks on Neighbors; China and Russia Abstain

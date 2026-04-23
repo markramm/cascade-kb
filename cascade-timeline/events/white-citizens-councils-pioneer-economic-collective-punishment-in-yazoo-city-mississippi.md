@@ -1,7 +1,7 @@
 ---
 id: white-citizens-councils-pioneer-economic-collective-punishment-in-yazoo-city-mississippi
 title: White Citizens' Councils Pioneer Economic Collective Punishment in Yazoo City Mississippi
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2020-03-18--trump-invokes-dpa-refuses-compel-production-covid
 date: '2020-03-18'
 title: Trump Invokes Defense Production Act but Refuses to Compel PPE Production as Corporate Lobbying Blocks Emergency Powers

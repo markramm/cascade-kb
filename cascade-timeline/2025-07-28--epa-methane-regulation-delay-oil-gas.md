@@ -1,7 +1,7 @@
 ---
 id: 2025-07-28--epa-methane-regulation-delay-oil-gas
 date: '2025-07-28'
-type: event
+type: timeline_event
 title: EPA Delays Methane Pollution Rules for Oil and Gas Industry, Adding Equivalent of 25 Million Cars' Emissions
 importance: 8
 actors:

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--judge-orders-doge-deposition-videos-removed
 date: '2026-03-13'
 title: Judge Orders Plaintiffs to Remove Viral DOGE Deposition Videos from YouTube

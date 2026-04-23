@@ -20,7 +20,7 @@ sources:
   tier: 2
   outlet: Ms
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Thomas Massie
 - Ro Khanna

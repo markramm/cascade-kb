@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--second-minnesota-judge-threatens-contempt-ice-property
 date: '2026-03-05'
 title: Second Minnesota Federal Judge Threatens Contempt Against Feds Over ICE Detainees'

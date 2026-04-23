@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--v-dem-downgrades-us-no-longer-liberal-democracy
 date: '2026-03-18'
 title: V-Dem Downgrades U.S. from Liberal Democracy to Electoral Democracy in Historic Report

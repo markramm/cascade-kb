@@ -1,7 +1,7 @@
 ---
 id: 2025-03-12--steel-aluminum-tariffs-25-pct-universal-section-232
 date: '2025-03-12'
-type: event
+type: timeline_event
 title: Trump Raises Steel and Aluminum Tariffs to 25% on All Countries, Eliminating All Exemptions; EU and Canada Retaliate
 importance: 8
 actors:

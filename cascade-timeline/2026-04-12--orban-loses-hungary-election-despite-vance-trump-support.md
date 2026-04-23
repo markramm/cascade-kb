@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-12--orban-loses-hungary-election-despite-vance-trump-support
 date: '2026-04-12'
 title: "Orbán Concedes Defeat After 16 Years, Ending Authoritarian Rule Despite Last-Minute Vance Campaign Visit"

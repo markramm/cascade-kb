@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--mojtaba-khamenei-health-questions-persist
 date: '2026-03-18'
 title: Iran's New Supreme Leader Still Not Seen in Public — Health Questions Intensify After Father's Death in Strikes

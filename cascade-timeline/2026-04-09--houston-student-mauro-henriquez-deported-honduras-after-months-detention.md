@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-09--houston-student-mauro-henriquez-deported-honduras-after-months-detention
 date: '2026-04-09'
 title: "Houston ISD Soccer Captain Mauro Henriquez Deported to Honduras After Four Months in ICE Detention"

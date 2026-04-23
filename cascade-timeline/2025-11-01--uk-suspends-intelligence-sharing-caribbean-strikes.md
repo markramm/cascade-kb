@@ -20,7 +20,7 @@ sources:
   tier: 1
   outlet: TIME
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - United Kingdom
 - Five Eyes

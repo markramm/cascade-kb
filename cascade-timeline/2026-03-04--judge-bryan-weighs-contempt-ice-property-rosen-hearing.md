@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--judge-bryan-weighs-contempt-ice-property-rosen-hearing
 date: '2026-03-04'
 title: Judge Bryan Weighs Contempt for U.S. Attorney Rosen Over ICE Property Seizures

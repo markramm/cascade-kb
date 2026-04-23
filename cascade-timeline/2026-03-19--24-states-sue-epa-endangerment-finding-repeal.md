@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--24-states-sue-epa-endangerment-finding-repeal
 date: '2026-03-19'
 title: 24 States and 15 Local Governments Sue EPA Over Repeal of Greenhouse Gas Endangerment Finding

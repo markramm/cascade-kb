@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-15--raskin-investigation-retaliatory-prosecution-james
 date: '2026-03-15'
 title: House Democrats Launch Investigation Into DOJ Retaliatory Prosecution of NY AG Letitia James

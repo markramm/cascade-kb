@@ -2,7 +2,7 @@
 id: 2025-05-05--hegseth-orders-20-percent-four-star-cut
 date: '2025-05-05'
 title: Hegseth Orders 20% Cut to Four-Star General and Admiral Positions
-type: event
+type: timeline_event
 importance: 8
 actors:
 - Pete Hegseth

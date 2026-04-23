@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--dallas-fed-hormuz-closure-global-gdp-impact
 date: '2026-03-20'
 title: Dallas Fed Analysis — Hormuz Closure Could Cut Global GDP Growth by 2.9 Points, Push Oil to $132

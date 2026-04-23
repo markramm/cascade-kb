@@ -1,7 +1,7 @@
 ---
 id: 2025-01-21--executive-order-14173-ending-illegal-discrimination-dei
 date: '2025-01-21'
-type: event
+type: timeline_event
 title: "Trump Signs EO 14173 'Ending Illegal Discrimination' — Foundational Anti-DEI Order Requiring Federal Contractor Certification"
 importance: 9
 actors:

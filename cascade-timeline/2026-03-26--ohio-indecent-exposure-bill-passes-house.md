@@ -1,7 +1,7 @@
 ---
 id: 2026-03-26--ohio-indecent-exposure-bill-passes-house
 date: '2026-03-26'
-type: event
+type: timeline_event
 title: Ohio House Passes "Indecent Exposure Modernization Act" That Critics Say Could Criminalize Sports Bras and Cheerleading Uniforms
 importance: 7
 actors:

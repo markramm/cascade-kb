@@ -1,7 +1,7 @@
 ---
 id: 2025-03-20--judge-issues-tro-blocking-doge-social-security-access
 title: "Federal Judge Issues Temporary Restraining Order Blocking DOGE Access to Social Security Records"
-type: event
+type: timeline_event
 tags:
 - doge
 - social-security

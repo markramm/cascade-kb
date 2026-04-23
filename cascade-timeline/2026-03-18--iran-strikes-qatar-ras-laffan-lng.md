@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--iran-strikes-qatar-ras-laffan-lng
 date: '2026-03-18'
 title: Iran Missiles Strike Ras Laffan LNG — World's Largest Export Facility Knocked Offline for Years

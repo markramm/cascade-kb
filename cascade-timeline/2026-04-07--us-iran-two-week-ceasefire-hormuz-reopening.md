@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-07--us-iran-two-week-ceasefire-hormuz-reopening
 date: '2026-04-07'
 title: "US and Iran Agree to Two-Week Ceasefire After Trump Threatens to Destroy Iranian Civilization"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-02-11--trump-sons-join-dominari-securities-advisory-board
 date: '2025-02-11'
 title: Trump Sons Join Advisory Board of Trump Tower Broker-Dealer Dominari Securities, Stock Surges 83%

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--pentagon-plans-ai-training-classified-data
 date: '2026-03-17'
 title: Pentagon Plans to Let AI Companies Train Military Models on Classified Intelligence Data — OpenAI and xAI Already Have Agreements

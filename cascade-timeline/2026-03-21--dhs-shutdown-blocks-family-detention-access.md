@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--dhs-shutdown-blocks-family-detention-access
 date: '2026-03-21'
 title: DHS Shutdown Hurts Families Visiting Detained Relatives as Oversight Gutted Amid 26 ICE Deaths

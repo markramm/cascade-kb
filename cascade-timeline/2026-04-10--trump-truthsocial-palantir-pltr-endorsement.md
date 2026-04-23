@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-10--trump-truthsocial-palantir-pltr-endorsement
 date: '2026-04-10'
 title: "Trump Becomes First Sitting President to Endorse a Stock by Ticker on Truth Social, Promoting Palantir (PLTR) Amid 16% Freefall"

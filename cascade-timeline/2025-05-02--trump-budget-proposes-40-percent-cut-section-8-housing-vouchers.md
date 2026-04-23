@@ -1,7 +1,7 @@
 ---
 id: 2025-05-02--trump-budget-proposes-40-percent-cut-section-8-housing-vouchers
 date: '2025-05-02'
-type: event
+type: timeline_event
 title: Trump Budget Proposes 40% Cut to Section 8 Housing Vouchers, Block-Granting Rental Aid to States and Imposing Two-Year Time Limits
 importance: 8
 actors:

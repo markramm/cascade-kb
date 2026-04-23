@@ -1,7 +1,7 @@
 ---
 id: 2025-04-02--adams-corruption-case-dismissed-with-prejudice
 date: '2025-04-02'
-type: event
+type: timeline_event
 title: Judge Dale Ho Dismisses Eric Adams Corruption Case With Prejudice, Citing Apparent Quid Pro Quo With Trump DOJ
 importance: 8
 actors:

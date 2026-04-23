@@ -1,7 +1,7 @@
 ---
 id: congressional-hearings-on-kkk-terrorism-during-reconstruction-reveal-systematic-collective-punishment
 title: Congressional Hearings on KKK Terrorism During Reconstruction Reveal Systematic Collective Punishment
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

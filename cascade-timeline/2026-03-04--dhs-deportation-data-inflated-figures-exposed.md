@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--dhs-deportation-data-inflated-figures-exposed
 date: '2026-03-04'
 title: Internal ICE Data Exposes Vast Inflation in DHS Deportation Figures

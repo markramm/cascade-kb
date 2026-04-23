@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-20--blue-owl-lancaster-coreweave-financing-failure-bi
 date: '2026-02-20'
 title: "Business Insider Reports Blue Owl Could Not Syndicate $4B Lancaster CoreWeave Debt — 'We Saw It. We Passed' — Blue Owl Denies Characterization"

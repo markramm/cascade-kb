@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--doge-staffer-admits-no-deficit-reduction
 date: '2026-03-16'
 title: DOGE Staffer Admits Under Oath Agency Did Not Reduce Federal Deficit

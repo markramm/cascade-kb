@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-08--ice-data-reveals-1300-collateral-arrests-operation-metro-surge
 date: '2026-04-08'
 title: "ICE Data Reveals 1,300 'Collateral' Arrests During Operation Metro Surge -- 35% of All Minnesota Detentions"

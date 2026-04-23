@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--mullin-dhs-confirmation-hearing
 date: '2026-03-18'
 title: Mullin DHS Confirmation Hearing Marked by Confrontation with Rand Paul and Shift on ICE Warrant Policy

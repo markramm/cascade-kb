@@ -22,7 +22,7 @@ sources:
   outlet: CNN
   date: '2025-12-29'
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Central Intelligence Agency
 - Venezuela

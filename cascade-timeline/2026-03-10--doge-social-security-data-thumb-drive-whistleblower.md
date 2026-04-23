@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--doge-social-security-data-thumb-drive-whistleblower
 date: '2026-03-10'
 title: Whistleblower Alleges Ex-DOGE Staffer Stole Social Security Database on Thumb Drive

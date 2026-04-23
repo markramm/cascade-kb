@@ -1,7 +1,7 @@
 ---
 id: 2025-03-20--trump-executive-order-dismantle-department-of-education
 date: '2025-03-20'
-type: event
+type: timeline_event
 title: Trump Signs Executive Order Directing Dismantlement of Department of Education
 importance: 9
 actors:

@@ -1,7 +1,7 @@
 ---
 id: 2025-01-29--hegseth-launches-dei-purge-restoring-fighting-force
 title: "Hegseth Orders Pentagon DEI Purge, Establishes 'Restoring America's Fighting Force' Task Force"
-type: event
+type: timeline_event
 tags:
 - dei-purge
 - pentagon

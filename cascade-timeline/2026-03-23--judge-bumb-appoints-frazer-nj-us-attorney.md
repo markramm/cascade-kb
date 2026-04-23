@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--judge-bumb-appoints-frazer-nj-us-attorney
 date: '2026-03-23'
 title: Chief Judge Bumb Appoints Career Prosecutor Robert Frazer as NJ US Attorney, Resolving Constitutional Crisis

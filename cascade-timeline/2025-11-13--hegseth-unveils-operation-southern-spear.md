@@ -20,7 +20,7 @@ sources:
   tier: 2
   outlet: Council on Foreign Relations
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Pete Hegseth
 - U.S. Department of Defense

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--illinois-primary-ai-super-pac-mixed-results
 date: '2026-03-18'
 title: "AI Super PAC \"Think Big\" Spends $2.5M+ in Illinois Primaries With Mixed Results — Fortune Reports AI/Crypto \"Mostly Lost\""

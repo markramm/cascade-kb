@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-26--trump-draft-emergency-election-executive-order
 date: '2026-02-26'
 title: White House Circulates Draft Emergency Order to Seize Control of Federal Elections

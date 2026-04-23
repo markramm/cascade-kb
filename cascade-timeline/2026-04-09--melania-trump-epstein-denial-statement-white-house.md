@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-09--melania-trump-epstein-denial-statement-white-house
 date: '2026-04-09'
 title: "Melania Trump Issues Rare White House Statement Denying Epstein Ties, Calls for Congressional Survivor Hearings"

@@ -1,7 +1,7 @@
 ---
 id: 2026-04-03--trump-1-5-trillion-defense-budget-request-fy2027
 date: '2026-04-03'
-type: event
+type: timeline_event
 title: Trump Requests Record $1.5 Trillion Defense Budget for FY2027, Largest Year-Over-Year Increase Since WWII
 importance: 9
 actors:

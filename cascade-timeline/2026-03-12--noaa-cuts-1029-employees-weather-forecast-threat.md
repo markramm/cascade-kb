@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--noaa-cuts-1029-employees-weather-forecast-threat
 date: '2026-03-12'
 title: DOGE Cuts 1,029 More NOAA Employees, Threatening Weather Forecasting and Disaster Response

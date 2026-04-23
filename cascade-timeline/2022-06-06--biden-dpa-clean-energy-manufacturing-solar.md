@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2022-06-06--biden-dpa-clean-energy-manufacturing-solar
 date: '2022-06-06'
 title: Biden Invokes Defense Production Act for Solar Panels, Heat Pumps, and Grid Components

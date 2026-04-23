@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--hormuz-shipping-reduced-trickle
 date: '2026-03-18'
 title: Strait of Hormuz Shipping Reduced to Trickle — 21 Tankers Transit vs. 100+/Day Pre-War

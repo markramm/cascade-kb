@@ -1,7 +1,7 @@
 ---
 id: 14th-ice-detainee-dies-in-2026-as-detention-system-on-track-for-deadliest-year-since-2004
 title: 14th ICE Detainee Dies in 2026 as Detention System on Track for Deadliest Year Since 2004
-type: event
+type: timeline_event
 tags:
 - ice
 - immigration-detention

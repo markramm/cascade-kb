@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--pezeshkian-apology-irgc-split-iran-war
 date: '2026-03-07'
 title: Iran's President Apologizes for Strikes on Neighbors While IRGC Continues Independent Military Operations, Revealing Leadership Split

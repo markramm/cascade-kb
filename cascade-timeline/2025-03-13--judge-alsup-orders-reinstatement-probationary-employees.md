@@ -1,7 +1,7 @@
 ---
 id: 2025-03-13--judge-alsup-orders-reinstatement-probationary-employees
 date: '2025-03-13'
-type: event
+type: timeline_event
 title: "Judge Alsup Orders Reinstatement of Fired Probationary Employees, Rules OPM Mass Terminations Unlawful"
 importance: 9
 actors:

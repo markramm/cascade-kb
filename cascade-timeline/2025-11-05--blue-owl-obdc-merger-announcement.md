@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-11-05--blue-owl-obdc-merger-announcement
 date: '2025-11-05'
 title: "Blue Owl Announces OBDC/OBDC II Merger That Would Impose 20% NAV Haircut on Private Fund Investors to Solve Undisclosed Redemption Crisis"

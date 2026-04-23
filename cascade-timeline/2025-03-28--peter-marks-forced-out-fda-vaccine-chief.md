@@ -1,7 +1,7 @@
 ---
 id: 2025-03-28--peter-marks-forced-out-fda-vaccine-chief
 date: '2025-03-28'
-type: event
+type: timeline_event
 title: "Peter Marks Forced Out as FDA Vaccine Chief, Accuses RFK Jr. of 'Misinformation and Lies'"
 importance: 8
 actors:

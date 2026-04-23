@@ -29,7 +29,7 @@ sources:
   verified: true
   tier: 1
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Chuck Schumer
 - Thomas Massie

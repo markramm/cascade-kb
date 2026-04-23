@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-24--trump-sotu-christian-nationalist-religious-revival
 date: '2026-02-24'
 title: Trump Declares Christian Religious Revival in State of the Union, Frames Nation as God's Chosen Instrument

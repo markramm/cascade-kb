@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-09--religious-liberty-commission-lawsuit-excludes-muslims-hindus-sikhs
 date: '2026-02-09'
 status: confirmed

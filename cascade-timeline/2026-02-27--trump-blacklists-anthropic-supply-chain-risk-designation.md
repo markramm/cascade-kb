@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-27--trump-blacklists-anthropic-supply-chain-risk-designation
 date: '2026-02-27'
 title: 'Trump Blacklists Anthropic, Designates AI Company a Supply Chain Risk to National Security'

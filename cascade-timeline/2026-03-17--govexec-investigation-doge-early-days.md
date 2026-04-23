@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--govexec-investigation-doge-early-days
 date: '2026-03-17'
 title: Government Executive Investigation Reveals DOGE Staffers Fabricated White House Pressure

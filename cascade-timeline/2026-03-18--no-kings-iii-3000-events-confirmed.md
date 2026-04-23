@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-18--no-kings-iii-3000-events-confirmed
 date: '2026-03-18'
 title: No Kings Coalition Confirms 3,000+ Events for March 28, Targeting 9 Million Participants

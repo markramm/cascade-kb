@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 actors:
 - Donald Trump
 - Department of Government Efficiency

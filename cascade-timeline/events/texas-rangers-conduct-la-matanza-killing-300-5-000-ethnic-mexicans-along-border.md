@@ -1,7 +1,7 @@
 ---
 id: texas-rangers-conduct-la-matanza-killing-300-5-000-ethnic-mexicans-along-border
 title: Texas Rangers Conduct "La Matanza" Killing 300-5,000 Ethnic Mexicans Along Border
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

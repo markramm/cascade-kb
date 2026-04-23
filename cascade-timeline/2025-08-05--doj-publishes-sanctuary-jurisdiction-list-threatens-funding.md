@@ -1,7 +1,7 @@
 ---
 id: 2025-08-05--doj-publishes-sanctuary-jurisdiction-list-threatens-funding
 date: '2025-08-05'
-type: event
+type: timeline_event
 title: 'DOJ Publishes Official List of 35 "Sanctuary" Jurisdictions, Escalating Federal-State Confrontation Over Immigration Enforcement'
 importance: 7
 actors:

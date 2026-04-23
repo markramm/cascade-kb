@@ -1,7 +1,7 @@
 ---
 id: 2026-04-02--us-intelligence-iran-retains-half-missile-arsenal
 date: '2026-04-02'
-type: event
+type: timeline_event
 title: US Intelligence Assesses Iran Retains Roughly Half Its Missile Launchers After Five Weeks of Strikes
 importance: 9
 actors:

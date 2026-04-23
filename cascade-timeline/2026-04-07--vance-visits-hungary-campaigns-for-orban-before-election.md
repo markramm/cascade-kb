@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-07--vance-visits-hungary-campaigns-for-orban-before-election
 date: '2026-04-07'
 title: "VP Vance Campaigns for Orbán in Budapest Days Before Hungary Election, Securing $1.2B in Hungarian Arms and Oil Purchases"

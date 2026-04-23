@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-11--save-america-act-passes-house
 date: '2026-02-11'
 title: House Passes SAVE America Act Requiring Proof of Citizenship to Vote, Heads to Senate

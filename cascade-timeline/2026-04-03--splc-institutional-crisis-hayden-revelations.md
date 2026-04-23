@@ -1,7 +1,7 @@
 ---
 id: 2026-04-03--splc-institutional-crisis-hayden-revelations
 date: '2026-04-03'
-type: event
+type: timeline_event
 title: Michael Edison Hayden Reveals SPLC Gutted Its Intelligence Project Before Trump's Return, Leaving Far-Right Monitoring Degraded
 importance: 8
 actors:

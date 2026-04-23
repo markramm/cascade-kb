@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--150-former-judges-amicus-anthropic
 date: '2026-03-17'
 title: ~150 Retired Federal and State Judges File Bipartisan Amicus Brief Supporting Anthropic Against Pentagon Blacklist

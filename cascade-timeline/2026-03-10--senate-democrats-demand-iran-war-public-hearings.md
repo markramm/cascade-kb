@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--senate-democrats-demand-iran-war-public-hearings
 date: '2026-03-10'
 title: Senate Democrats Demand Public Hearings on Iran War After Closed Briefing Raises Alarms

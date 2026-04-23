@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-23--trump-postpones-strikes-claims-iran-talks
 date: '2026-03-23'
 title: "Trump Backs Off Ultimatum, Claims 'Productive Conversations' with Iran — Tehran Flatly Denies Any Talks"

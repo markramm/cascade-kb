@@ -24,7 +24,7 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Donald Trump
 - Stephen Miller

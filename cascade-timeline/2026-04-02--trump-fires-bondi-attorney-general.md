@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-02--trump-fires-bondi-attorney-general
 date: '2026-04-02'
 title: Trump Fires Attorney General Pam Bondi, Installs Personal Lawyer Todd Blanche as Acting AG

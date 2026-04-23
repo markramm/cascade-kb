@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-27--ai-super-pac-leading-the-future-targets-pro-regulation-midterms
 date: '2026-02-27'
 title: 'AI Industry Super PACs Deploy $125 Million to Target Pro-Regulation Candidates in 2026 Midterms'

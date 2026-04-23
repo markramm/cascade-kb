@@ -1,7 +1,7 @@
 ---
 id: 2025-04-09--trump-90-day-tariff-pause-bond-market-crisis
 date: '2025-04-09'
-type: event
+type: timeline_event
 title: "Trump Reverses Course with 90-Day Tariff Pause After Bond Market Crisis; China Excluded, Tariffs Escalate to 145%"
 importance: 9
 actors:

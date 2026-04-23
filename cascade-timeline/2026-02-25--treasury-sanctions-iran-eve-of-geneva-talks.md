@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 actors:
 - Scott Bessent
 - Steve Witkoff

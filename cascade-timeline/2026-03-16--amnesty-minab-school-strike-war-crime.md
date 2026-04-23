@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--amnesty-minab-school-strike-war-crime
 date: '2026-03-16'
 title: Amnesty International Declares Minab Girls' School Strike a Potential War Crime — 168+ Killed Including 100+ Children

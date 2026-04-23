@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-26--witkoff-kushner-conflicts-iran-nuclear-talks
 date: '2026-02-26'
 title: Witkoff and Kushner Lead Iran Nuclear Talks While Holding Massive Gulf State Financial Conflicts

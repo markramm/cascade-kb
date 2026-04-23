@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--scotus-grants-cert-haiti-syria-tps
 date: '2026-03-16'
 title: Supreme Court Grants Cert Before Judgment in Haiti and Syria TPS Cases, Keeping Injunctions in Place

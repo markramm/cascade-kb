@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--trump-section-301-tariff-investigations-replace-ieepa
 date: '2026-03-11'
 title: Trump Administration Launches Section 301 Trade Probes to Rebuild Tariff Regime After Supreme Court Defeat

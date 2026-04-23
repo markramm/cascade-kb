@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--dc-circuit-allows-law-firm-eo-appeals
 date: '2026-03-19'
 title: D.C. Circuit Allows DOJ to Proceed With Appeals Challenging Law Firm Executive Order Rulings

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-09-22--doj-eliminates-consumer-protection-branch
 date: '2025-09-22'
 title: DOJ Eliminates Consumer Protection Branch, Guts Civil Rights Division Enforcement

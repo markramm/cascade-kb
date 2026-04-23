@@ -1,7 +1,7 @@
 ---
 id: 2025-01-28--opm-fork-in-the-road-deferred-resignation-offer
 date: '2025-01-28'
-type: event
+type: timeline_event
 title: OPM Sends "Fork in the Road" Email Offering 2 Million Federal Employees Deferred Resignation
 importance: 9
 actors:

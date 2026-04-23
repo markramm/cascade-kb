@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--house-judiciary-passes-shut-down-sanctuary-policies-act
 date: '2026-03-05'
 title: House Judiciary Committee Passes Shut Down Sanctuary Policies Act, Threatening

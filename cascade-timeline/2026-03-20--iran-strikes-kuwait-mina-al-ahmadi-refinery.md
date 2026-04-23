@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--iran-strikes-kuwait-mina-al-ahmadi-refinery
 date: '2026-03-20'
 title: Iranian Drones Strike Kuwait's Largest Oil Refinery During Eid al-Fitr for Second Consecutive Day

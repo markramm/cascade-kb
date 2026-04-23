@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--ice-minnesota-reduced-47-officers-deportation-focus
 date: '2026-03-07'
 title: ICE Tells Court Its Minnesota Deployment Has Been Reduced to 47 Deportation Officers

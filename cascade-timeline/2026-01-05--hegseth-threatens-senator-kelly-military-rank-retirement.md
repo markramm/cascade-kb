@@ -24,7 +24,7 @@ sources:
   tier: 1
   outlet: CNBC
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Pete Hegseth
 - Mark Kelly

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--propublica-blanche-crypto-holdings-enforcement
 date: '2026-03-08'
 title: ProPublica Reveals Top DOJ, DOD Officials Hold Financial Interests in Sectors They Regulate

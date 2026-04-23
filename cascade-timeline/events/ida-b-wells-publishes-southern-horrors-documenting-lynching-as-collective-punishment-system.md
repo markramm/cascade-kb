@@ -1,7 +1,7 @@
 ---
 id: ida-b-wells-publishes-southern-horrors-documenting-lynching-as-collective-punishment-system
 title: Ida B. Wells Publishes "Southern Horrors" Documenting Lynching as Collective Punishment System
-type: event
+type: timeline_event
 tags:
 - civil-rights
 - institutional-racism

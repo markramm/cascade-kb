@@ -23,7 +23,7 @@ sources:
   tier: 1
   outlet: Abc7
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Keith Porter
 - Immigration and Customs Enforcement (ICE)

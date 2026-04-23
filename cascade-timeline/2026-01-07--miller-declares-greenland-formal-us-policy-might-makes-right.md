@@ -28,7 +28,7 @@ sources:
   tier: 2
   outlet: The Hill
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Stephen Miller
 - Thom Tillis

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-05--education-dept-guidance-teachers-can-pray-with-students
 date: '2026-02-05'
 status: confirmed

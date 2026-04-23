@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--whitehouse-demands-bondi-preserve-bar-rule-docs
 date: '2026-03-20'
 title: Sen. Whitehouse Demands Bondi Preserve All Records Related to DOJ Ethics Shield Rule

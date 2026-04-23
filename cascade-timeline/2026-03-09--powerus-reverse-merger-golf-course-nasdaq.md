@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-09--powerus-reverse-merger-golf-course-nasdaq
 date: '2026-03-09'
 title: Trump Sons' Drone Company Powerus Announces Nasdaq Listing via Reverse Merger with Golf Course Operator

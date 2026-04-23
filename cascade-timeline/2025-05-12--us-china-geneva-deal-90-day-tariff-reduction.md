@@ -1,7 +1,7 @@
 ---
 id: 2025-05-12--us-china-geneva-deal-90-day-tariff-reduction
 date: '2025-05-12'
-type: event
+type: timeline_event
 title: "US-China Geneva Deal: Both Sides Slash Tariffs by 115 Percentage Points for 90 Days After Weekend Negotiations"
 importance: 9
 actors:

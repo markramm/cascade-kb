@@ -2,7 +2,7 @@
 id: 2025-08-22--kruse-fired-dia-iran-assessment
 date: '2025-08-22'
 title: Hegseth Fires DIA Director Lt. Gen. Kruse After Agency's Iran Strike Assessment Contradicted Trump's 'Obliterated' Claim
-type: event
+type: timeline_event
 importance: 9
 actors:
 - Jeffrey Kruse

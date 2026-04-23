@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-27--oman-announces-iran-nuclear-breakthrough-eve-of-strikes
 date: '2026-02-27'
 title: Oman Announces Iran Agreed to Full IAEA Verification and Zero Uranium Stockpile — 24 Hours Before US Strikes

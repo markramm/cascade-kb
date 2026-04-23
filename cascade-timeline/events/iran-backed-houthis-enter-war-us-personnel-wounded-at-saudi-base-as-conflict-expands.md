@@ -1,7 +1,7 @@
 ---
 id: iran-backed-houthis-enter-war-us-personnel-wounded-at-saudi-base-as-conflict-expands
 title: Iran-Backed Houthis Enter War, US Personnel Wounded at Saudi Base as Conflict Expands
-type: event
+type: timeline_event
 tags:
 - iran-war
 - military

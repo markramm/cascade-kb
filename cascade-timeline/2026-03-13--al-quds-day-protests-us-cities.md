@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--al-quds-day-protests-us-cities
 date: '2026-03-13'
 title: Al-Quds Day Demonstrations in New York, Houston, and Chicago Denounce US-Israeli Strikes

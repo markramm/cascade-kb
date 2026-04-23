@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--ncaa-march-madness-planes-ice-deportation
 date: '2026-03-17'
 title: "'De-ICE These Flights' Campaign Targets NCAA Charter Airlines Also Used for ICE Deportations"

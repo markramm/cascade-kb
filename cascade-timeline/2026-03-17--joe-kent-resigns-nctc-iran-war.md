@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--joe-kent-resigns-nctc-iran-war
 date: '2026-03-17'
 title: "Joe Kent Resigns as NCTC Director — 'Iran Posed No Imminent Threat, War Driven by Israel Lobby'"

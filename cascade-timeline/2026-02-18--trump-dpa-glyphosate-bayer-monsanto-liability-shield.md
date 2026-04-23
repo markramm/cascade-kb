@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-18--trump-dpa-glyphosate-bayer-monsanto-liability-shield
 date: '2026-02-18'
 title: Trump Invokes Defense Production Act for Bayer/Monsanto Glyphosate, Potentially Shielding Corporation from 100,000+ Cancer Lawsuits

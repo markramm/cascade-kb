@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--palantir-maven-program-of-record
 date: '2026-03-21'
 title: Feinberg Signs Memo Designating Palantir Maven as Official DOD "Program of Record" — Locking in Long-Term Funding Despite Claude Dependency

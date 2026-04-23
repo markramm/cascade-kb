@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--maryland-no-kings-act-passes-senate-committee
 date: '2026-03-17'
 title: Maryland Senate Committee Advances "No Kings Act" Making Federal Agents Liable for Civil Rights Violations

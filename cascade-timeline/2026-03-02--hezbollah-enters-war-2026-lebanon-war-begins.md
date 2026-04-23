@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-02--hezbollah-enters-war-2026-lebanon-war-begins
 date: '2026-03-02'
 title: Hezbollah Launches Missiles and Drones at Israel, Triggering the 2026 Lebanon War

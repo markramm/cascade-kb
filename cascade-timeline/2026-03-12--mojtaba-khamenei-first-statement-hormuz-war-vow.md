@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--mojtaba-khamenei-first-statement-hormuz-war-vow
 date: '2026-03-12'
 title: New Iran Supreme Leader Mojtaba Khamenei Issues First Statement Vowing Revenge and Permanent Hormuz Closure

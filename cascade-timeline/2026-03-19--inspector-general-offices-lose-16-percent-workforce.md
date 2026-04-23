@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--inspector-general-offices-lose-16-percent-workforce
 date: '2026-03-19'
 title: Inspector General Offices Lose 16.6% of Workforce as Trump Installs Partisan Nominees

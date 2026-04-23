@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--doj-initially-drops-then-revives-law-firm-cases
 date: '2026-03-03'
 title: DOJ Drops Then Rapidly Reverses Course on Law Firm Retaliation Cases in Chaotic 24-Hour Reversal

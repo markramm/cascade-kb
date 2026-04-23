@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2020-04-28--trump-dpa-meat-plants-open-industry-drafted-order
 date: '2020-04-28'
 title: Meatpacking Industry Drafts Its Own DPA Executive Order Forcing Plants Open Despite Worker Deaths

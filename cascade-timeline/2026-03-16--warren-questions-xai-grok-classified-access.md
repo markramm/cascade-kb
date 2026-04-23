@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--warren-questions-xai-grok-classified-access
 date: '2026-03-16'
 title: Sen. Warren Questions Pentagon Granting Musk's xAI Access to Classified Military Networks Despite Grok's Harmful Outputs

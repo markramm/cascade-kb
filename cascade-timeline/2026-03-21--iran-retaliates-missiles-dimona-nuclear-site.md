@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-21--iran-retaliates-missiles-dimona-nuclear-site
 date: '2026-03-21'
 title: Iran Launches Ballistic Missiles at Dimona Nuclear Site — Two Penetrate Israeli Defenses, 180+ Injured

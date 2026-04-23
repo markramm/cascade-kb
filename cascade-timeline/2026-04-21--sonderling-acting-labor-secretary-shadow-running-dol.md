@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-21--sonderling-acting-labor-secretary-shadow-running-dol
 date: '2026-04-21'
 title: "Politico Reveals Keith Sonderling Was Running DOL All Along; Now Positioned as Indefinite Acting Secretary"

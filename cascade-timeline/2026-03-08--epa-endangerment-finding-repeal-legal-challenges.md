@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-08--epa-endangerment-finding-repeal-legal-challenges
 date: '2026-03-08'
 title: Legal Challenges Mount Against EPA Repeal of Greenhouse Gas Endangerment Finding

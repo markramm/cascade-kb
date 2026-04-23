@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-10-28--palantir-uscis-vows-marriage-fraud-platform
 date: '2025-10-28'
 title: Palantir Wins USCIS Contract for "VOWS" Marriage Fraud Detection Platform, Expanding Immigration Surveillance

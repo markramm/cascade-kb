@@ -1,7 +1,7 @@
 ---
 id: 2025-01-27--trump-signs-transgender-military-ban
 title: "Trump Signs Executive Order Banning Transgender Military Service, Reversing Biden Policy"
-type: event
+type: timeline_event
 tags:
 - transgender-ban
 - military-policy

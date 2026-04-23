@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--us-targets-iran-space-capabilities-natanz
 date: '2026-03-05'
 title: U.S. Strikes Target Iran's Space and Remaining Nuclear Infrastructure as Campaign Enters Second Week

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-01-30--federal-courts-block-trump-election-executive-order-voting-rights
 date: '2026-01-30'
 title: Federal Courts Issue Multiple Permanent Injunctions Blocking Trump's Anti-Voting Executive Order

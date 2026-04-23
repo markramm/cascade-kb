@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--comey-subpoenaed-grand-conspiracy-probe
 date: '2026-03-19'
 title: "Comey Subpoenaed in DOJ 'Grand Conspiracy' Probe Targeting Obama-Era Intelligence Officials"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--trump-shifting-rationales-iran-war
 date: '2026-03-03'
 title: White House Offers Shifting, Contradictory Rationales for Iran War as Intelligence Contradicts Claims

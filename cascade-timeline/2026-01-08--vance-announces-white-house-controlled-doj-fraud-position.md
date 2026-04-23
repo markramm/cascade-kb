@@ -24,7 +24,7 @@ sources:
   tier: 2
   outlet: Fox News
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - JD Vance
 - Donald Trump

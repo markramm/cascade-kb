@@ -21,7 +21,7 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Thomas Massie
 - Ro Khanna

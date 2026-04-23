@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-13--doge-cuts-hamper-iran-war-readiness
 date: '2026-03-13'
 title: "DOGE Cuts Hobble Pentagon IT, FBI Counterintel, and VOA as War Costs Dwarf All Savings"

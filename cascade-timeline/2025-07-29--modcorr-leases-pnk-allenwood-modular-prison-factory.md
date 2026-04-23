@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-07-29--modcorr-leases-pnk-allenwood-modular-prison-factory
 date: '2025-07-29'
 title: "ModCorr Leases 252,282 sqft from PNK at Allenwood, PA to Manufacture Modular Prison Cells — Same Campus Where PNK Later Proposes AI Data Center"

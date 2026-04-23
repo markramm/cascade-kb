@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--iran-counter-strikes-500-missiles-2000-drones-operation-true-promise-iv
 date: '2026-03-05'
 title: "Iran's Operation True Promise IV: 500+ Ballistic Missiles and 2,000 Drones Fired in First Week of War"

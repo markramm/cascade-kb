@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 actors:
 - U.S. Immigration and Customs Enforcement
 - Palantir Technologies

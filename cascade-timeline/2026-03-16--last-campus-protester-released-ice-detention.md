@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-16--last-campus-protester-released-ice-detention
 date: '2026-03-16'
 title: Last Person Detained in Trump Campus Protest Crackdown Released from ICE Custody on $100K Bond

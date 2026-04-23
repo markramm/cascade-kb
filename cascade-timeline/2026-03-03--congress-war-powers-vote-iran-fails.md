@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--congress-war-powers-vote-iran-fails
 date: '2026-03-03'
 title: Senate War Powers Resolution on Iran Fails as Republicans Defend Trump's Unauthorized War

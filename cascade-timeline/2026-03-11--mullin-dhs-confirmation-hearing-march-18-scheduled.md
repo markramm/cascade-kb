@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--mullin-dhs-confirmation-hearing-march-18-scheduled
 date: '2026-03-11'
 title: Mullin DHS Confirmation Hearing Formally Scheduled for March 18 Amid Rand Paul Friction

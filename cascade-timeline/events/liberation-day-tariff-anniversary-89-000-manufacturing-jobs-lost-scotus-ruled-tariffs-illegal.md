@@ -1,7 +1,7 @@
 ---
 id: liberation-day-tariff-anniversary-89-000-manufacturing-jobs-lost-scotus-ruled-tariffs-illegal
 title: 'Liberation Day Tariff Anniversary: 89,000 Manufacturing Jobs Lost, SCOTUS Ruled Tariffs Illegal'
-type: event
+type: timeline_event
 tags:
 - tariffs
 - trade-war

@@ -1,7 +1,7 @@
 ---
 id: 2025-02-01--trump-25-pct-tariffs-canada-mexico-opening-trade-war-salvo
 date: '2025-02-01'
-type: event
+type: timeline_event
 title: Trump Announces 25% Tariffs on Canada and Mexico, Opening Salvo of Trade War; Canada Retaliates; 30-Day Pause After 3 Days
 importance: 9
 actors:

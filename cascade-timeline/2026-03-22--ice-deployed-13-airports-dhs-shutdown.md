@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-22--ice-deployed-13-airports-dhs-shutdown
 date: '2026-03-22'
 title: ICE Agents Deployed to 13 Major Airports as DHS Shutdown Enters Sixth Week and 400+ TSA Officers Quit

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--maryland-judge-extends-ice-facility-restraining-order
 date: '2026-03-19'
 title: Judge Extends Restraining Order Against ICE Detention Facility in Williamsport, Maryland

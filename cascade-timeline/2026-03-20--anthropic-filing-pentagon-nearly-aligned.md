@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--anthropic-filing-pentagon-nearly-aligned
 date: '2026-03-20'
 title: "Anthropic Filing Reveals Pentagon Emailed Day After Blacklist Saying Sides Were \"Very Close\" — Calls DOD Claim of Approval Demand \"A Central Falsehood\""

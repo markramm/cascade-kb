@@ -1,7 +1,7 @@
 ---
 id: bortac-border-patrol-tactical-units-deployed-against-portland-blm-protesters
 title: BORTAC Border Patrol Tactical Units Deployed Against Portland BLM Protesters
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - civil-rights

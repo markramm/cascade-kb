@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-20--digenova-appointed-brennan-probe-medetis-long-removed
 date: '2026-04-20'
 title: DiGenova Sworn In as AG Counselor Leading Brennan "Grand Conspiracy" Probe After Career Prosecutor Removed for Questioning Evidence

@@ -1,7 +1,7 @@
 ---
 id: ice-announces-120-workforce-increase-to-22-000-after-recruiting-12-000-agents-in-under-a-year
 title: ICE Announces 120% Workforce Increase to 22,000 After Recruiting 12,000 Agents in Under a Year
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - ice

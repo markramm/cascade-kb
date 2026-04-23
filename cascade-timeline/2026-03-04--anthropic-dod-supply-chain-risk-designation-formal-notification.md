@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--anthropic-dod-supply-chain-risk-designation-formal-notification
 date: '2026-03-04'
 title: Pentagon Formally Designates Anthropic a National Security Supply-Chain Risk, First US Company So Labeled

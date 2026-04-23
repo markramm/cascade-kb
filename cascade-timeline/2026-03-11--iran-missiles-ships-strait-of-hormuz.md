@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--iran-missiles-ships-strait-of-hormuz
 date: '2026-03-11'
 title: Iran Strikes Cargo Ship in Strait of Hormuz, IRGC Vows "Not One Litre of Oil" to Pass

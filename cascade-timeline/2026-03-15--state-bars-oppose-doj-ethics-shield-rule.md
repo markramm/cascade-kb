@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-15--state-bars-oppose-doj-ethics-shield-rule
 date: '2026-03-15'
 title: Illinois and New York State Bar Associations File Formal Opposition to DOJ Ethics Shield Rule

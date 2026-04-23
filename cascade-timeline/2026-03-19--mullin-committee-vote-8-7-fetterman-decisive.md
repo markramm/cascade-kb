@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--mullin-committee-vote-8-7-fetterman-decisive
 date: '2026-03-19'
 title: Senate Committee Advances Mullin 8-7 with Fetterman's Decisive Vote; Floor Confirmation Expected March 24

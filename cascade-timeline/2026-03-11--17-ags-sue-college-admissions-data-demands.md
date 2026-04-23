@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--17-ags-sue-college-admissions-data-demands
 date: '2026-03-11'
 title: 17 State AGs Challenge Education Dept Demand for Seven Years of College Admissions Data

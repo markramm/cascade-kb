@@ -28,7 +28,7 @@ sources:
   tier: 1
   outlet: Al Jazeera
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - North Atlantic Treaty Organization
 - Mette Frederiksen

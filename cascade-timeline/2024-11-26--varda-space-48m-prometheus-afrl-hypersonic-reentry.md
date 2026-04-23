@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2024-11-26--varda-space-48m-prometheus-afrl-hypersonic-reentry
 date: '2024-11-26'
 title: Varda Space Industries Wins $48M AFRL "Prometheus" Contract for Military Hypersonic Reentry Testing

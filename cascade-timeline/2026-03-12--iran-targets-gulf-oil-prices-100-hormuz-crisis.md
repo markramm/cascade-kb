@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-12--iran-targets-gulf-oil-prices-100-hormuz-crisis
 date: '2026-03-12'
 title: Iran Launches New Wave of Gulf Attacks as Oil Prices Spike, Bahrain Reports Fuel Tank Strikes

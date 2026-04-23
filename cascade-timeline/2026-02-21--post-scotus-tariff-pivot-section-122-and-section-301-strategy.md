@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-21--post-scotus-tariff-pivot-section-122-and-section-301-strategy
 date: '2026-02-21'
 title: "Post-SCOTUS Tariff Pivot: Trump Invokes Section 122 Global Tariff and Launches Section 301 Investigations as Legal Workaround"

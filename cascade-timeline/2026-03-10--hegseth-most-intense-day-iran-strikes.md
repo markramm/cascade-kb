@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-10--hegseth-most-intense-day-iran-strikes
 date: '2026-03-10'
 title: Hegseth Announces "Most Intense Day of Strikes" on Iran as US Targets Drone Manufacturing

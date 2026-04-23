@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors
 date: '2026-03-29'
 title: "Warren, Raskin Lead 52 Lawmakers in Formal Inquiry to Six Detention Contractors and Real Estate Firms Over Trump Warehouse Detention Buildout"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--noem-220-million-dhs-ad-campaign-senate-scrutiny
 date: '2026-03-04'
 title: DHS $220 Million Self-Deportation Ad Campaign Faces Senate Scrutiny; Contracts

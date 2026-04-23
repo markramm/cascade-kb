@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--judge-strikes-pentagon-press-policy-unconstitutional
 date: '2026-03-20'
 title: Judge Strikes Down Pentagon Press Policy Requiring Pledge Not to Gather Unauthorized Information

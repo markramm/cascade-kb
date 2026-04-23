@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--state-ag-record-lawsuits-trump-administration-71-suits
 date: '2026-03-04'
 title: Democratic State AGs File Record 71 Lawsuits Against Trump Administration in First Year of Second Term

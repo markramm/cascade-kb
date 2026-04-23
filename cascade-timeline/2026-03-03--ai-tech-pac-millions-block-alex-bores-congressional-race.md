@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--ai-tech-pac-millions-block-alex-bores-congressional-race
 date: '2026-03-03'
 title: AI Industry Super PAC Backed by OpenAI Insiders and Palantir Pours Millions Into Blocking AI-Regulation Candidate Alex Bores

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-22--warren-vanderbilt-ai-crash-speech
 date: '2026-04-22'
 title: Warren Warns at Vanderbilt Policy Accelerator of Debt-Driven AI Bubble and Pre-Positioned Bailout Pathway

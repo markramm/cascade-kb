@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-10-31--stark-defence-fails-all-four-strikes-military-trials
 date: '2025-10-31'
 title: Thiel-Backed Stark Defence Fails All Four Strikes in UK and German Military Trials

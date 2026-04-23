@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--counterpunch-trumps-crusade-christian-nationalism
 date: '2026-03-20'
 title: CounterPunch Analysis Examines Crusade Imagery, Hegseth's Jerusalem Cross, and Militarized Christian Nationalism

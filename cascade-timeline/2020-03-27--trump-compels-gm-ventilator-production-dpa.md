@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2020-03-27--trump-compels-gm-ventilator-production-dpa
 date: '2020-03-27'
 title: Trump Orders General Motors to Produce Ventilators Under DPA After Nine-Day Delay Costs Lives

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--doj-powell-probe-lead-prosecutor-replaced
 date: '2026-03-11'
 title: Lead Prosecutor in DOJ Criminal Probe of Fed Chair Jerome Powell Replaced

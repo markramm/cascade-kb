@@ -23,7 +23,7 @@ sources:
   tier: 1
   outlet: Opb
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - U.S. Border Patrol
 - DHS (Department of Homeland Security)

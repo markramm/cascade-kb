@@ -1,7 +1,7 @@
 ---
 id: 2025-02-03--doge-gains-access-treasury-payment-systems
 title: "DOGE Gains Access to Treasury's Central Payment System Controlling Trillions in Annual Spending"
-type: event
+type: timeline_event
 tags:
 - doge
 - treasury

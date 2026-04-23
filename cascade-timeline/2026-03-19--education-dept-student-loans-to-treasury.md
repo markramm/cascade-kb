@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--education-dept-student-loans-to-treasury
 date: '2026-03-19'
 title: Education Dept Announces Transfer of $1.6 Trillion Student Loan Portfolio to Treasury

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--vermont-judge-releases-mistaken-ice-detainee
 date: '2026-03-19'
 title: Vermont Judge Orders Immediate Release of Man Detained by ICE in Case of Mistaken Identity

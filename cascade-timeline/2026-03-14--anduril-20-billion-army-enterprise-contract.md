@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-14--anduril-20-billion-army-enterprise-contract
 date: '2026-03-14'
 title: U.S. Army Awards Anduril $20 Billion Enterprise Contract for AI-Enabled Lattice Platform

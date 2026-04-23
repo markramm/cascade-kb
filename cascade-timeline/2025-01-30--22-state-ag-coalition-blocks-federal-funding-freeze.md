@@ -1,7 +1,7 @@
 ---
 id: 2025-01-30--22-state-ag-coalition-blocks-federal-funding-freeze
 date: '2025-01-30'
-type: event
+type: timeline_event
 title: Coalition of 22 State Attorneys General Secures Court Order Blocking Trump Federal Funding Freeze
 importance: 9
 actors:

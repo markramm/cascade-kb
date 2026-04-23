@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--booker-war-powers-resolution-fails-47-53
 date: '2026-03-19'
 title: Booker War Powers Resolution Fails 47-53 — Only Paul Crosses Party Lines for Yes, Fetterman for No

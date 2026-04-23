@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-15--deportation-data-transparency-crisis
 date: '2026-03-15'
 title: AP and Washington Post Investigation Exposes Wildly Inconsistent DHS Deportation Numbers

@@ -25,7 +25,7 @@ sources:
   tier: 3
   outlet: Wikipedia
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Donald Trump
 - Marco Rubio

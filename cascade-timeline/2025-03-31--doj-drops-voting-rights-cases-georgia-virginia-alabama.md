@@ -1,7 +1,7 @@
 ---
 id: 2025-03-31--doj-drops-voting-rights-cases-georgia-virginia-alabama
 date: '2025-03-31'
-type: event
+type: timeline_event
 title: DOJ Drops Voting Rights Cases in Georgia, Virginia, and Alabama, Abandoning Federal Enforcement
 importance: 8
 actors:

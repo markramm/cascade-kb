@@ -24,7 +24,7 @@ sources:
   tier: 2
   outlet: News
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Marimar Martinez
 - Charles Exum

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-28--houthis-enter-iran-war-missile-attack-israel-red-sea-fears
 date: '2026-03-28'
 title: Yemen's Houthis Launch Missiles at Israel, Raising Fears of Renewed Red Sea Shipping Attacks

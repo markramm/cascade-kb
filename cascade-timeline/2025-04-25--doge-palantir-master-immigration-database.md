@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-04-25--doge-palantir-master-immigration-database
 date: '2025-04-25'
 title: DOGE Building Master Immigration Enforcement Database with Palantir, Integrating IRS and Federal Agency Data

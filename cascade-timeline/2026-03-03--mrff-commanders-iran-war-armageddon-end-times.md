@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--mrff-commanders-iran-war-armageddon-end-times
 date: '2026-03-03'
 title: MRFF Documents Over 200 Complaints of Military Commanders Framing Iran War as Biblical Armageddon

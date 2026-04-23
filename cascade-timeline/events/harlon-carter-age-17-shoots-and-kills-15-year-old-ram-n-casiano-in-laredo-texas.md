@@ -1,7 +1,7 @@
 ---
 id: harlon-carter-age-17-shoots-and-kills-15-year-old-ram-n-casiano-in-laredo-texas
 title: Harlon Carter Age 17 Shoots and Kills 15-Year-Old Ramón Casiano in Laredo Texas
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - institutional-racism

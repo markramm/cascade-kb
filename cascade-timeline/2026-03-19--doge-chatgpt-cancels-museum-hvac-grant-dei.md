@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-19--doge-chatgpt-cancels-museum-hvac-grant-dei
 date: '2026-03-19'
 title: Court Documents Show DOGE ChatGPT Flagged Museum HVAC Grant as DEI, Canceling $349K

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--kash-patel-fires-fbi-iran-counterintelligence-unit
 date: '2026-03-03'
 title: Kash Patel Fires FBI Counterintelligence Unit That Tracked Iran, Days Before U.S. Strikes

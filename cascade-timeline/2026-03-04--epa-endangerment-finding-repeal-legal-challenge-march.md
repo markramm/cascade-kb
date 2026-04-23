@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-04--epa-endangerment-finding-repeal-legal-challenge-march
 date: '2026-03-04'
 title: Environmental Groups Press Legal Challenge Against EPA's Repeal of Greenhouse Gas Endangerment Finding

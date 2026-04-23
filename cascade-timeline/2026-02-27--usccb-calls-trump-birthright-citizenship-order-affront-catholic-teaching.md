@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-02-27--usccb-calls-trump-birthright-citizenship-order-affront-catholic-teaching
 date: '2026-02-27'
 status: confirmed

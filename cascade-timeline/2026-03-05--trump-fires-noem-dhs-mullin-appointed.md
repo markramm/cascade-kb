@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-05--trump-fires-noem-dhs-mullin-appointed
 date: '2026-03-05'
 title: Trump Fires DHS Secretary Kristi Noem, Names Sen. Markwayne Mullin as Replacement

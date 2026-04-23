@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2022-05-12--house-exposes-meatpacking-dpa-coordination-59000-infected
 date: '2022-05-12'
 title: House Investigation Reveals Meatpacking Industry Drafted Trump DPA Order While 59,000 Workers Infected

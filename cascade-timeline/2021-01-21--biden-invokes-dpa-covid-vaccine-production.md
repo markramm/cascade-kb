@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2021-01-21--biden-invokes-dpa-covid-vaccine-production
 date: '2021-01-21'
 title: Biden Invokes Defense Production Act for Vaccine Production on First Full Day in Office

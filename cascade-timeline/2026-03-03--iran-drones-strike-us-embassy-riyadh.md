@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-03--iran-drones-strike-us-embassy-riyadh
 date: '2026-03-03'
 title: Iranian Drones Strike U.S. Embassy in Riyadh as War Spreads Across Middle East

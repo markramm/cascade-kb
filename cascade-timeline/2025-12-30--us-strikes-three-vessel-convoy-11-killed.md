@@ -23,7 +23,7 @@ sources:
   tier: 2
   outlet: Theintercept
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - US Military
 - US Coast Guard

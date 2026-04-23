@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-17--iran-strikes-uae-shah-gas-field
 date: '2026-03-17'
 title: Iran Strikes UAE Energy Targets — Shah Gas Field and Fujairah Hit, Oil Output Drops 500K-800K bpd

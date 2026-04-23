@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-20--trump-winding-down-deploys-2500-marines
 date: '2026-03-20'
 title: "Trump Claims War 'Winding Down' While Deploying 2,500 Additional Marines to Middle East"

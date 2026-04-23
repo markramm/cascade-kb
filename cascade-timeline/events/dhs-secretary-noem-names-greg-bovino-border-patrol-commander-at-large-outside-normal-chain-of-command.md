@@ -1,7 +1,7 @@
 ---
 id: dhs-secretary-noem-names-greg-bovino-border-patrol-commander-at-large-outside-normal-chain-of-command
 title: DHS Secretary Noem Names Greg Bovino Border Patrol Commander-at-Large Outside Normal Chain of Command
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - ice

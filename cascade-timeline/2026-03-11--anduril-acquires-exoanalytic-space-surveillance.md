@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--anduril-acquires-exoanalytic-space-surveillance
 date: '2026-03-11'
 title: Anduril Acquires ExoAnalytic Solutions, Doubling Space Surveillance Unit for Golden Dome

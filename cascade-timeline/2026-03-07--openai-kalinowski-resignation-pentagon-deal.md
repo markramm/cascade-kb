@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-07--openai-kalinowski-resignation-pentagon-deal
 date: '2026-03-07'
 title: OpenAI Robotics Chief Caitlin Kalinowski Resigns Over Pentagon Deal, Citing Surveillance and Autonomous Weapons Concerns

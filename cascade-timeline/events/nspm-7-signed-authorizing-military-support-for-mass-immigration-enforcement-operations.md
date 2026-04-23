@@ -1,7 +1,7 @@
 ---
 id: nspm-7-signed-authorizing-military-support-for-mass-immigration-enforcement-operations
 title: NSPM-7 Signed Authorizing Military Support for Mass Immigration Enforcement Operations
-type: event
+type: timeline_event
 tags:
 - immigration-enforcement
 - immigration

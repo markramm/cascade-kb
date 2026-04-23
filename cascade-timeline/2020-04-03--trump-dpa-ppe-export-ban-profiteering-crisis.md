@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2020-04-03--trump-dpa-ppe-export-ban-profiteering-crisis
 date: '2020-04-03'
 title: Trump Uses DPA for PPE Export Ban While Allowing Domestic Profiteering and FEMA Supply Seizures

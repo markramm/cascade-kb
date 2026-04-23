@@ -1,7 +1,7 @@
 ---
 id: 2026-04-03--french-cma-cgm-ship-transits-strait-of-hormuz
 date: '2026-04-03'
-type: event
+type: timeline_event
 title: French-Owned Container Ship Crosses Strait of Hormuz, Signaling Iran's Strategy to Fracture Western Alliance
 importance: 8
 actors:

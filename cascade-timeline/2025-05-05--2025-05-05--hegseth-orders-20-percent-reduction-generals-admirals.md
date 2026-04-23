@@ -1,7 +1,7 @@
 ---
 id: 2025-05-05--hegseth-orders-20-percent-reduction-generals-admirals
 title: "Hegseth Orders 20% Reduction in Four-Star Generals and Admirals Across Military"
-type: event
+type: timeline_event
 tags:
 - military-purge
 - generals

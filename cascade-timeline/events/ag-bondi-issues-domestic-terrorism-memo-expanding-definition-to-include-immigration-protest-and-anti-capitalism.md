@@ -1,7 +1,7 @@
 ---
 id: ag-bondi-issues-domestic-terrorism-memo-expanding-definition-to-include-immigration-protest-and-anti-capitalism
 title: AG Bondi Issues Domestic Terrorism Memo Expanding Definition to Include Immigration Protest and Anti-Capitalism
-type: event
+type: timeline_event
 tags:
 - doj-weaponization
 - civil-liberties

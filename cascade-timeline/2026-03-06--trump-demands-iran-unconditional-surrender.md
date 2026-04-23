@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-06--trump-demands-iran-unconditional-surrender
 date: '2026-03-06'
 title: Trump Demands Iran's "Unconditional Surrender," Refuses Any Negotiated End to War

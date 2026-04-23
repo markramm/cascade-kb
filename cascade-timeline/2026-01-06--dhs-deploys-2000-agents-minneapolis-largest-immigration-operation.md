@@ -24,7 +24,7 @@ sources:
   tier: 1
   outlet: Department of Homeland Security
 status: confirmed
-type: political
+type: timeline_event
 actors:
 - Kristi Noem
 - Stephen Miller
