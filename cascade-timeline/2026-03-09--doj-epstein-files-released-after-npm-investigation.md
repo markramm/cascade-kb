@@ -43,6 +43,11 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 - Executive Power Expansion
+coverage:
+  - url: https://theramm.substack.com/p/kash-patel-ten-days-four-scandals
+    title: "Kash Patel: Ten days, four scandals"
+    date: '2026-04-27'
+    publication: theramm
 ---
 
 Beginning on March 9, 2026, the U.S. Department of Justice released additional Epstein files following an NPR investigation that exposed the selective withholding of documents related to sexual abuse allegations against President Donald Trump. NPR's investigation found 53 pages missing from the DOJ's public Epstein database, including notes from law enforcement interviews, a law enforcement report, and license records.

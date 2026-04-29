@@ -33,6 +33,11 @@ status: confirmed
 capture_lanes:
 - Institutional Capture
 - Executive Power
+coverage:
+  - url: https://theramm.substack.com/p/kash-patel-ten-days-four-scandals
+    title: "Kash Patel: Ten days, four scandals"
+    date: '2026-04-27'
+    publication: theramm
 ---
 
 FBI agents raided the home of former National Security Advisor John Bolton on August 22, 2025. The raid was directed by FBI Director Kash Patel.

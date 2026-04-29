@@ -46,5 +46,10 @@ capture_lanes:
 - 'Media Capture & Control'
 - Legislative Capture
 - Intelligence Penetration
+coverage:
+  - url: https://theramm.substack.com/p/kash-patel-ten-days-four-scandals
+    title: "Kash Patel: Ten days, four scandals"
+    date: '2026-04-27'
+    publication: theramm
 ---
 Trump Media & Technology Group awarded $800,000 in stock to Kash Patel on January 28, 2025, just days before his Senate confirmation hearing for FBI director. Patel claimed he would not accept the stock 'to avoid any appearance of conflict', but the award raised significant ethical questions about potential conflicts of interest in his nomination.
