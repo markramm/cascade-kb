@@ -47,6 +47,11 @@ sources:
     publisher: News-Item
     date: '2026-02-10'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
+    title: "Detention Pipeline: The May Inflection"
+    date: '2026-05-05'
+    publication: theramm
 ---
 
 On January 29, 2026, a deed transferring 172 acres and a 1.3-million-square-foot vacant warehouse at 50 Rausch Creek Road, Tremont Township, Pennsylvania took effect. The grantor was BIGTRPA001 LLC, a Delaware subsidiary of Blue Owl Real Estate Net Lease Property Fund. The grantee was the United States of America, acting through the Department of Homeland Security under the Navy's WEXMAC 2.2 TITUS procurement vehicle. Purchase price: $119,515,000 — exactly double Schuylkill County's certified full-market-value assessment of $59,600,000, which had been published ten weeks earlier as part of the county's first comprehensive reassessment since 1996.

@@ -27,6 +27,11 @@ sources:
     publisher: American Immigration Council
     date: '2026-04-10'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
+    title: "Detention Pipeline: The May Inflection"
+    date: '2026-05-05'
+    publication: theramm
 ---
 
 On April 9, 2026, Human Rights Watch published "Another Disturbing Surprise From ICE," documenting the pattern of abuses, opacity, and oversight gaps in ICE's rapidly expanding warehouse-to-detention pipeline — with particular focus on the March 6 award of a $313M contract to GardaWorld Federal Services for the Surprise, Arizona warehouse-detention site. The report connects the Surprise deal to the broader WEXMAC-TITUS-linked procurement structure that has moved approximately $1.074 billion for eleven warehouse acquisitions in the program to date, noting that contractors are being selected without detention-operational track records and communities are being informed only after deeds are recorded.
