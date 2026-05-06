@@ -138,6 +138,21 @@ This is the most consequential Congressional oversight action documented in the 
 
 As of the original Convergence Brief on April 23, 2026, it is not yet publicly documented whether any of the six recipients responded by the deadline, what their responses were, or whether Warren and Raskin have filed follow-up inquiries.
 
+## Response Trail (updated 2026-05-06)
+
+**Public-disclosure track through Q1 2026 quarterly cycle:**
+
+| Recipient | Public-Response Status | Source |
+|---|---|---|
+| **PNK Group** (Sharkov) | No public response located | Search through 2026-05-06 |
+| **CoreCivic** | Q1 2026 earnings release scheduled after market close May 6, 2026; conference call May 7. Pre-release press materials and the April 10, 2026 8-K (a $100M Incremental Term Loan from existing lenders) contain no Warren-Raskin reference. CEO Patrick Swindle's first quarterly cycle (succeeded Damon Hininger January 1, 2026). | [CoreCivic IR](https://ir.corecivic.com/news-releases); [Q4 2025 release](https://www.globenewswire.com/news-release/2026/02/11/3236679/0/en/corecivic-reports-fourth-quarter-and-full-year-2025-financial-results.html) |
+| **GEO Group** | **Q1 2026 results released May 6, 2026.** No reference to Warren-Raskin letter, no new risk-factor language on congressional inquiry, no Mullin-pause acknowledgment. Raised full-year guidance to $2.95B-$3.10B revenue. CFO transition (Suchinski → Shayn March effective April 1, 2026). | [[2026-05-06--geo-group-q1-2026-results-raises-guidance]] |
+| **GardaWorld Federal Services** | Private; no public-disclosure obligation; no public statement located | Search through 2026-05-06 |
+| **Newmark Group** | No public response located in Q1 2026 disclosure cycle (publicly traded; 10-Q forthcoming) | Search through 2026-05-06 |
+| **KVG LLC** | Private; no public-disclosure obligation; no public statement located | Search through 2026-05-06 |
+
+**Pattern-of-silence finding now extends through one full quarterly disclosure cycle.** GEO Group, the publicly traded recipient with the most ICE-detention exposure, did not treat the 52-lawmaker inquiry as a Q1 2026 materiality event in its earnings release. Whether the Q1 10-Q filing (forthcoming) carries different risk-factor language is the next monitoring milestone. CoreCivic Q1 release follows after market close May 6.
+
 The letter to PNK Group creates a specific public record:
 
 1. **Congressional documentation of Sharkov's Russian-origin corporate history.**
