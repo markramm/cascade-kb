@@ -38,7 +38,7 @@ notes: 'Marked "reported" because details rely on investigative reporting and a 
 
   '
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 ---
 Ben Shapiro and Jeremy Boreing launched The Daily Wire in September 2015.
 Multiple outlets have reported that Texas billionaire Farris Wilks provided

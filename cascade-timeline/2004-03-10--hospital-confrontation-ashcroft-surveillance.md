@@ -56,7 +56,7 @@ sources:
 _merge_note: 'Enhanced with information from duplicate event: 2004-03-10--hospital-confrontation-ashcroft-gonzales-comey-nsa-surveillance'
 _merge_timestamp: '2025-09-05T23:46:55.905511'
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

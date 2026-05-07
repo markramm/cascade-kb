@@ -31,7 +31,7 @@ sources:
   outlet: UC Berkeley School of Information
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Surveillance Infrastructure
 ---

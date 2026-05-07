@@ -38,7 +38,7 @@ notes: This was the first and only police booking photograph of a U.S. president
 capture_lanes:
 - Judicial Capture
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Former President Donald Trump voluntarily surrendered to authorities at the Fulton County Jail in Atlanta, Georgia, where he was booked, fingerprinted, and photographed in what became the first police mugshot of a U.S. president in American history. The booking photograph, showing Trump glowering at the camera with prisoner identification number P01135809, was released publicly and instantly became one of the most iconic political images of the modern era.

@@ -43,7 +43,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 ---
 

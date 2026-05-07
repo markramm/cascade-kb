@@ -33,7 +33,7 @@ tags:
 - legal-innovation
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 status: confirmed
 ---
 A sophisticated digital platform is launched by the Constitutional Litigation Consortium to enable real-time coordination, case management, and knowledge sharing among legal resistance networks. Leveraging emerging legal technology trends of 2025, the platform includes secure communication channels, AI-assisted case tracking, and collaborative research tools designed to enhance legal professional coordination and strategic response capabilities.

@@ -41,7 +41,7 @@ sources:
   outlet: NPR
 status: confirmed
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Regulatory Capture
 ---
 Facebook acquired photo-sharing app Instagram for  billion, implementing what the FTC would later characterize as a 'buy or bury' strategy to eliminate competitive threats. Internal emails revealed CEO Mark Zuckerberg explicitly stated the acquisition was motivated by a desire to 'neutralize a potential competitor' rather than enhance services. The FTC approved the acquisition despite its anticompetitive intent, demonstrating regulatory capture as Facebook successfully concealed key information about its monopolistic strategies from regulators.

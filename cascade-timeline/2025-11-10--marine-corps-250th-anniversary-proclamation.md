@@ -32,7 +32,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 ---
 

@@ -28,7 +28,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- Media Capture & Control
+- Media Capture and Control
 - Surveillance Infrastructure
 ---
 

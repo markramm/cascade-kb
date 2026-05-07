@@ -35,7 +35,7 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 status: confirmed
 ---

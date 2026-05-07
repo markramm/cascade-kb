@@ -17,7 +17,7 @@ capture_lanes:
 - Military-Industrial Complex
 - Intelligence Penetration
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: confirmed
 sources:
 - title: "Palmer Luckey Is Building the Future of War"

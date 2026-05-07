@@ -37,7 +37,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Civil Rights Suppression
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

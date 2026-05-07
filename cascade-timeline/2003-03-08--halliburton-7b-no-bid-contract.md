@@ -59,7 +59,7 @@ historical_significance: The Halliburton no-bid contract marks the systematic ex
   infrastructure and personal coordination mechanisms that bypass constitutional competitive
   processes.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 - Intelligence Penetration
 - Executive Power Expansion

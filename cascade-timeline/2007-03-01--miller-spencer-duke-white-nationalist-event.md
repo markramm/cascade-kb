@@ -26,7 +26,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Labor Suppression
 - Environmental Capture
 ---

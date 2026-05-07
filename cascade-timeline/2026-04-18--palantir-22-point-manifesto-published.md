@@ -70,7 +70,7 @@ status: confirmed
 capture_lanes:
 - Ideological Production
 - Defense Contractor Political Alignment
-- Civil-Religion / Culture-War Escalation
+- Civil-Religion and Culture-War Escalation
 ---
 
 On April 18, 2026 (Saturday), Palantir Technologies posted a 22-point document to its official X account summarizing a 2025 book by co-founder/CEO Alex Karp and head of corporate affairs Nicholas Zamiska titled *The Technological Republic: Hard Power, Soft Belief, and the Future of the West*. The post accumulated tens of millions of views within 72 hours and drew extensive international critical response, with multiple outlets characterizing the document as "technofascism" and an "AI-driven threat to humanity's existence." TechCrunch, Fortune, Tech Policy Press, Al Jazeera, Engadget, IBT, Euronews, and others covered the document within four days.

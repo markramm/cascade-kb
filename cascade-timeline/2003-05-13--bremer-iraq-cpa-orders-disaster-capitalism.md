@@ -11,9 +11,11 @@ actors:
   - Donald Rumsfeld
   - George W. Bush
   - Dick Cheney
-  - KBR/Halliburton
+  - Kellogg Brown & Root (KBR)
+  - Halliburton
   - Bechtel
-  - Erik Prince/Blackwater
+  - Erik Prince
+  - Blackwater
   - Custer Battles
 tags:
   - iraq-war

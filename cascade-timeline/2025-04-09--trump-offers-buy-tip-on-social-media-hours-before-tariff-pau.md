@@ -45,7 +45,7 @@ patterns:
 - kleptocratic-capture
 notes: High-priority kleptocratic event from comprehensive timeline.
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 ---
 Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted “THIS IS A GREAT TIME TO BUY!!! DJT” on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump—via his 53% stake—over $400 million in a day

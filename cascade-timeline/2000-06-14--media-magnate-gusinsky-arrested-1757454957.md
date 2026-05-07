@@ -16,7 +16,7 @@ tags:
 - russia-putin
 - media-suppression
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - outlet: PBS NewsHour
   title: Russian Media Tycoon, Vladimir Gusinsky, Arrested

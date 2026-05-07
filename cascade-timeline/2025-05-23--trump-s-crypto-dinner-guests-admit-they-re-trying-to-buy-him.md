@@ -8,7 +8,7 @@ actors:
 - Congressman Adam Smith
 capture_lanes:
 - Executive Power Expansion
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: monetizing_position
 connections:
 - Trump Family Crypto Ventures

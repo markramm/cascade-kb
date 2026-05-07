@@ -52,7 +52,7 @@ created_date: '2025-09-06T03:39:26.290616'
 category: constitutional-crisis
 verification_status: documented
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

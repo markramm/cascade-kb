@@ -42,7 +42,7 @@ patterns:
 - regulatory-capture
 notes: Event demonstrates systematic weakening of financial regulatory oversight
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Financial Capture
 ---

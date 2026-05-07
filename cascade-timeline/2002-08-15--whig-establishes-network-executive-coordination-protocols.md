@@ -41,7 +41,7 @@ sources:
   date: '2008-06-08'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Expansion

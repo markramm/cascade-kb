@@ -40,7 +40,7 @@ sources:
   tier: 3
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Anduril Industries wins a potential 10-year, $642.2 million contract from the U.S. Marine Corps for Installation-Counter small Unmanned Aircraft Systems (I-C-sUAS), beating nine other competing proposals. The contract covers detection, tracking, countering, and defense of Marine Corps facilities, personnel, and assets from small drone threats worldwide.

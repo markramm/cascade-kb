@@ -22,7 +22,8 @@ tags:
 actors:
   - JD Vance
   - Munich Security Conference
-  - European leaders (Boris Pistorius / Kaja Kallas)
+  - Boris Pistorius
+  - Kaja Kallas
 sources:
   - title: "Remarks by the Vice President at the Munich Security Conference"
     url: https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-munich-security-conference-0
@@ -66,7 +67,7 @@ sources:
     tier: 1
 capture_lanes:
   - Doctrinal Articulation — Project 2025 Mandate for Leadership
-  - State Department Values-Realignment / Skinner Chapter
+  - State Department Values-Realignment and Skinner Chapter
   - Vance Personal Policy Footprint
   - Transatlantic Relations Rupture
 coverage: []

@@ -6,7 +6,7 @@ actors:
 - Crypto.com
 - Yorkville America Digital
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Financial Capture
 capture_type: regulatory_capture

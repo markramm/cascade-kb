@@ -46,7 +46,7 @@ patterns:
 - insider-dealing
 notes: 'This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined.'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 ---
 State Department procurement documents showed plans for a 400 million purchase of armored Tesla vehicles, dramatically expanding a smaller Biden-era EV plan. After media scrutiny, the State Department removed Tesla from documents and claimed the purchase was on hold with no plans to proceed.

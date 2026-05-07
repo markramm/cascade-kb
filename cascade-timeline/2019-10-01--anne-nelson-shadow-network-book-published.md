@@ -27,7 +27,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - International Kleptocracy
 ---
 In October 2019, journalist Anne Nelson published "Shadow Network: Media, Money, and the Secret Hub of the Radical Right," providing the first comprehensive investigation of the Council for National Policy and its role as the coordination mechanism explaining how conservative institutions move in lockstep.

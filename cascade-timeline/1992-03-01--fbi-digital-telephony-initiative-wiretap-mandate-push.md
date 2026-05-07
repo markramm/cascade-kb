@@ -35,7 +35,7 @@ sources:
     tier: 3
 capture_lanes:
   - Surveillance Infrastructure
-  - Digital & Tech Capture
+  - Digital and Tech Capture
 coverage: []
 ---
 

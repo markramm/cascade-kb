@@ -17,7 +17,7 @@ tags:
 - ai-regulation
 - technological-risk
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 sources:
 - outlet: Fortune

@@ -35,7 +35,7 @@ sources:
   date: '2025-07-18'
   tier: 2
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Regulatory Capture
 - Systematic Corruption
 ---

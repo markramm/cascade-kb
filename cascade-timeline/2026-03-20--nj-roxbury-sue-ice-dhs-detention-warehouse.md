@@ -62,6 +62,10 @@ coverage:
     title: "Detention Pipeline: The May Inflection"
     date: '2026-05-05'
     publication: theramm
+  - url: https://theramm.substack.com/p/surprise
+    title: "Surprise"
+    date: '2026-05-07'
+    publication: theramm
 ---
 
 On March 20, 2026, New Jersey Governor Mikie Sherrill, New Jersey Attorney General (Davenport), and Roxbury Township jointly filed suit in federal court against the U.S. Department of Homeland Security and U.S. Immigration and Customs Enforcement to block the conversion of a vacant 470,000-square-foot warehouse at **1879 Route 46, Roxbury Township** into a 1,500-detainee ICE processing facility. On April 8, 2026 the plaintiffs filed an emergency motion for preliminary injunction.

@@ -6,7 +6,7 @@ actors:
 capture_lanes:
 - Surveillance Infrastructure
 - Labor Suppression
-- Digital & Tech Capture
+- Digital and Tech Capture
 date: 2019-08-28
 id: 2019-08-28--ring-400-police-partnerships-surveillance-expansion
 importance: 8

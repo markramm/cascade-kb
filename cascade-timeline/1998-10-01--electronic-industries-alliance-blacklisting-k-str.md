@@ -39,7 +39,7 @@ status: confirmed
 id: 1998-10-01--electronic-industries-alliance-blacklisting-k-str
 priority_id: RT-85893EE2-gingrich-k-street-project
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion

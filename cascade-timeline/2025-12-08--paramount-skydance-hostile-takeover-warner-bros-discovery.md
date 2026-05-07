@@ -61,8 +61,8 @@ sources:
   tier: 2
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 status: reported
 coverage:
   - url: https://theramm.substack.com/p/the-financial-loop

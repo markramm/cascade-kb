@@ -58,7 +58,7 @@ connections:
 historical_significance: 'This infrastructure establishment marked the systematic transformation of American media from independent journalism into government propaganda distribution. By creating institutional mechanisms that enabled coordinated manipulation of public discourse, WHIG demonstrated how government entities could capture media institutions through access privileges and strategic communication relationships.'
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Legislative Capture
 - Executive Power Expansion
 ---

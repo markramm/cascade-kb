@@ -1,0 +1,34 @@
+# Lane and actor URL renames — May 2026 SEO cleanup.
+#
+# Source: capture_lanes and actors values containing `/` were producing
+# Hugo URLs with embedded slashes (e.g. /lanes/private-credit-/-shadow-banking/),
+# which Google's sitemap parser rejects. Source labels were renamed in
+# cascade-timeline/*.md to remove the slashes.
+#
+# Lane labels with `&` were also producing double-dash slugs
+# (/lanes/digital--tech-capture/) which are valid but ugly; renamed to use
+# 'and' for clean single-segment slugs.
+#
+# These redirects keep any external inbound links from 404'ing.
+
+# Lane renames: slash-bearing labels
+redir /lanes/civil-religion-/-culture-war-escalation/ /lanes/civil-religion-and-culture-war-escalation/ 301
+redir /lanes/executive-branch-/-contractor-public-endorsement/ /lanes/executive-branch-and-contractor-public-endorsement/ 301
+redir /lanes/foreign-influence-/-emoluments/ /lanes/foreign-influence-and-emoluments/ 301
+redir /lanes/foreign-policy-/-personal-family-capital-loop/ /lanes/foreign-policy-and-personal-family-capital-loop/ 301
+redir /lanes/hhs-/-family-office-chapter-implementation/ /lanes/hhs-and-family-office-chapter-implementation/ 301
+redir /lanes/no-bid-/-rapid-close-federal-procurement/ /lanes/no-bid-and-rapid-close-federal-procurement/ 301
+redir /lanes/private-credit-/-retail-investor-harm/ /lanes/private-credit-and-retail-investor-harm/ 301
+redir /lanes/private-credit-/-shadow-banking/ /lanes/private-credit-and-shadow-banking/ 301
+redir /lanes/state-department-values-realignment-/-skinner-chapter/ /lanes/state-department-values-realignment-and-skinner-chapter/ 301
+
+# Lane renames: ampersand → 'and' (cleans up double-dash slugs)
+redir /lanes/media-capture--control/ /lanes/media-capture-and-control/ 301
+redir /lanes/digital--tech-capture/ /lanes/digital-and-tech-capture/ 301
+redir /lanes/intelligence--surveillance-capture/ /lanes/intelligence-and-surveillance-capture/ 301
+redir /lanes/housing--development-capture/ /lanes/housing-and-development-capture/ 301
+redir /lanes/executive-power--emergency-authority/ /lanes/executive-power-and-emergency-authority/ 301
+
+# Actor renames: slash-bearing names
+redir /actors/facebook/meta/ /actors/facebook/ 301
+redir /actors/x/twitter/ /actors/x/ 301

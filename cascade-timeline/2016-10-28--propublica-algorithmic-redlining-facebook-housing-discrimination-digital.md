@@ -29,7 +29,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Extraction
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 ---
 

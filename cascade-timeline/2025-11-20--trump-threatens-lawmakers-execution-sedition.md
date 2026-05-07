@@ -57,7 +57,7 @@ actors:
 - Mike Johnson
 capture_lanes:
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 status: reported
 ---

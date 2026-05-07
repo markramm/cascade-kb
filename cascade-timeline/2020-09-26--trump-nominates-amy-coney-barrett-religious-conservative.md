@@ -38,7 +38,7 @@ sources:
   tier: 1
   outlet: NBC News
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Systematic Corruption
 ---

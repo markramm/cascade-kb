@@ -48,7 +48,7 @@ sources:
   date: '2019-09-25'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Electoral Manipulation

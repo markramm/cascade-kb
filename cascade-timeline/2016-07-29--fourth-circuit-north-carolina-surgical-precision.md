@@ -39,7 +39,7 @@ sources:
 capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 The Fourth Circuit Court of Appeals strikes down North Carolina's comprehensive voter suppression law (HB 589) in a scathing ruling that finds the legislature "target[ed] African Americans with almost surgical precision." Judge Diana Gribbon Motz's opinion exposes how North Carolina Republicans requested racial data on voting practices, then systematically restricted every method disproportionately used by Black voters while preserving methods used by white voters—demonstrating intentional racial discrimination through data-driven suppression.

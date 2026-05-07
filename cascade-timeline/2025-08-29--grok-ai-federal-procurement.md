@@ -31,7 +31,7 @@ sources:
   tier: 2
   outlet: Public Citizen
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

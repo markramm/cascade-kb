@@ -34,7 +34,7 @@ sources:
   tier: 1
   outlet: U.S. Department of Justice, Special Counsel's Office
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 - Systematic Corruption
 ---

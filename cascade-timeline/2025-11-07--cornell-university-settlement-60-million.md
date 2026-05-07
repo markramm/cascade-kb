@@ -29,7 +29,7 @@ sources:
   outlet: The Hill
 capture_lanes:
 - Civil Rights Suppression
-- Media Capture & Control
+- Media Capture and Control
 - Environmental Capture
 status: reported
 ---

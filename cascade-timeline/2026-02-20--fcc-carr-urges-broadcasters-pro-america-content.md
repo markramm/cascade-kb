@@ -31,7 +31,7 @@ tags:
 - broadcast-regulation
 - state-media
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Backsliding
 ---
 FCC Chair Brendan Carr urged broadcasters to air patriotic "pro-America content" ahead of the nation's 250th anniversary, using the federal regulator's influence over broadcast licensing to pressure media outlets toward government-approved messaging. While framed as a voluntary suggestion, the request carried implicit regulatory weight given the FCC's power to revoke broadcast licenses and the administration's pattern of punishing media outlets that produce unfavorable coverage.

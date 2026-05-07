@@ -32,7 +32,7 @@ tags:
 capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

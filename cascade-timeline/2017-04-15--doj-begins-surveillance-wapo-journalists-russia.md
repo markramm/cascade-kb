@@ -32,7 +32,7 @@ tags:
 status: confirmed
 id: 2017-04-15--doj-begins-surveillance-wapo-journalists-russia
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Intelligence Penetration
 ---

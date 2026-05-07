@@ -50,7 +50,7 @@ sources:
   date: '2026-03-03'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Capture
 - Democratic Backsliding
 ---

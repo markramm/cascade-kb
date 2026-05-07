@@ -27,7 +27,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 ---
 

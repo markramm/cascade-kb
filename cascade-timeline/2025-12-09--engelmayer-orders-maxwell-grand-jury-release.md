@@ -39,7 +39,7 @@ sources:
 capture_lanes:
 - Judicial Capture
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

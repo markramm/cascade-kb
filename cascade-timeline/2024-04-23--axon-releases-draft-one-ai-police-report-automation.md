@@ -51,7 +51,7 @@ sources:
   outlet: Axon
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Surveillance Infrastructure
 ---

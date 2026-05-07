@@ -38,7 +38,7 @@ tags:
 - law-and-order-politics
 capture_lanes:
 - Democratic Erosion
-- Media Capture & Control
+- Media Capture and Control
 status: confirmed
 ---
 

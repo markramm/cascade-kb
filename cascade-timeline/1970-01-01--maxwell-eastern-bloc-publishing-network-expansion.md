@@ -18,7 +18,7 @@ tags:
 - academic-publishing
 - intelligence-cover
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 sources:
 - title: Robert Maxwell - Wikipedia

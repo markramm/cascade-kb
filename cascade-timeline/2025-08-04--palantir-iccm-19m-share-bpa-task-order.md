@@ -35,7 +35,7 @@ sources:
   tier: 2
 capture_lanes:
 - Health Data Consolidation
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Distributed Personnel Capture
 ---
 

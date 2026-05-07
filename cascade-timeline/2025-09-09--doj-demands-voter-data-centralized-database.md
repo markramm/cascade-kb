@@ -32,8 +32,8 @@ actors:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 coverage:
   - url: https://theramm.substack.com/p/trumps-campaign-to-decide-who-counts
     title: "Trump's Campaign to Decide \"Who Counts?\""

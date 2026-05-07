@@ -37,7 +37,7 @@ notes: Ailes hired February 1996. Used slogan "Fair and Balanced" to mask partis
   media ecosystem.
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Rupert Murdoch launched Fox News Channel on October 7, 1996, with Roger Ailes as CEO, explicitly designed as a conservative propaganda outlet disguised as news. The network's 'Fair and Balanced' slogan masked its partisan agenda, while Murdoch paid cable companies $10 per subscriber to carry the channel, eventually reaching 17 million homes. Internal memos later revealed Ailes directed coverage to favor Republicans and attack Democrats from day one.

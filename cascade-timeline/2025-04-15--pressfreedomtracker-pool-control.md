@@ -8,7 +8,7 @@ tags:
 - press-freedom
 - white-house
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 citations:
 - https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
 - https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions

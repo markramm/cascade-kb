@@ -18,7 +18,7 @@ tags:
 - america-first
 capture_lanes:
 - Democratic Erosion
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 sources:
 - title: Milo Yiannopoulos Is Now Interning for Marjorie Taylor Greene
   url: 'https://www.thedailybeast.com/milo-yiannopoulos-is-now-interning-for-marjorie-taylor-greene/'

@@ -67,7 +67,7 @@ connections:
 historical_significance: The establishment of systematic critic monitoring and opposition research apparatus marked WHIG's evolution from propaganda creation to active suppression of dissent. This institutional infrastructure created systematic mechanisms for weaponizing government power against critics, establishing dangerous precedents for executive branch intimidation of whistleblowers, journalists, and dissenting officials that threatened democratic accountability.
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

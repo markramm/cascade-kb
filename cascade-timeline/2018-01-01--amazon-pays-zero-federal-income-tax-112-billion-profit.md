@@ -32,7 +32,7 @@ sources:
   outlet: Snopes
 capture_lanes:
 - Financial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 ---
 

@@ -31,7 +31,7 @@ tags:
 - critical-infrastructure
 - national-security
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Democratic Backsliding
 ---
 The DHS shutdown furloughed more than 50% of the Cybersecurity and Infrastructure Security Agency workforce, compounding losses of approximately 33% of staff since the 2024 election. CISA operates without a Senate-confirmed director and has been systematically weakened through budget cuts and political hostility from the Trump administration, which views the agency's election security mission as a threat. The furloughs left critical infrastructure protection, election security support, and cyber threat monitoring severely degraded at a time of elevated threat from state-sponsored hackers and ransomware groups.

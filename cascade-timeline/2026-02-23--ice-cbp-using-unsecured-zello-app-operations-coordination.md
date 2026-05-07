@@ -28,7 +28,7 @@ tags:
 - january-6
 capture_lanes:
 - Immigration System Capture
-- Intelligence & Surveillance Capture
+- Intelligence and Surveillance Capture
 ---
 An investigation revealed ICE and CBP officers were coordinating enforcement operations using Zello, a free consumer walkie-talkie app previously linked to January 6 coordination, bypassing secure government communications systems. The use of an unsecured commercial app for sensitive law enforcement operations raises serious security and accountability concerns: communications on Zello are not subject to federal records retention requirements, cannot be easily audited, and are vulnerable to interception.
 

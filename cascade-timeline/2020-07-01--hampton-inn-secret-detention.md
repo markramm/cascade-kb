@@ -55,7 +55,7 @@ sources:
 notes: Anchor to original New York Times reporting by Caitlin Dickerson and ACLU/TCRP litigation; avoid activist framings when official/primary sources exist.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Judicial Capture
 - Regulatory Capture
 - Intelligence Penetration

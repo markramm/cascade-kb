@@ -8,7 +8,7 @@ actors:
 - Darryl Cooper
 - Laura Loomer
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 date: 2024-07-20
 id: 2024-07-20--vance-white-nationalist-social-media-ties

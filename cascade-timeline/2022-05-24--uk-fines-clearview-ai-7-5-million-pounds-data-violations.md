@@ -32,7 +32,7 @@ actors:
 - Clearview AI
 - United Kingdom
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Surveillance Infrastructure
 ---

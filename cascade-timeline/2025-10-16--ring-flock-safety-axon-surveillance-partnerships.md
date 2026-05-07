@@ -9,7 +9,7 @@ actors:
 capture_lanes:
 - Surveillance Infrastructure
 - Labor Suppression
-- Digital & Tech Capture
+- Digital and Tech Capture
 date: 2025-10-16
 id: 2025-10-16--ring-flock-safety-axon-surveillance-partnerships
 importance: 9

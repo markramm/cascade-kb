@@ -40,7 +40,7 @@ sources:
   date: '2023-07-10'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Intelligence Penetration
 - Electoral Manipulation

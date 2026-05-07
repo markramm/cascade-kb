@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Legislative Capture
 - Corporate Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 ---
 By the mid-1970s, Richard Viguerie had revolutionized conservative political fundraising through direct mail campaigns, building a massive donor network that would finance the New Right movement and create the infrastructure for corporate-funded "grassroots" activism. Dubbed the "funding father" of modern conservative strategy, Viguerie transformed how conservative causes mobilized financial support while maintaining an appearance of grassroots spontaneity.
 

@@ -27,7 +27,7 @@ sources:
   outlet: Foreign Policy
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 - Environmental Capture
 status: reported
 ---

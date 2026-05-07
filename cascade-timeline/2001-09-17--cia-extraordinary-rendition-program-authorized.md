@@ -41,7 +41,7 @@ sources:
   outlet: PBS Frontline
 capture_lanes:
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 ---
 

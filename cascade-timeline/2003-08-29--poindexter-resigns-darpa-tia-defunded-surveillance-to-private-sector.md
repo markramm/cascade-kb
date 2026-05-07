@@ -37,7 +37,7 @@ sources:
 capture_lanes:
 - Intelligence Privatization
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 On August 29, 2003, John Poindexter resigned as Director of DARPA's Information Awareness Office following the controversy over the Total Information Awareness (TIA) mass surveillance program and a related proposal for a "terrorism futures market" that would have allowed investors to bet on terrorist attacks. Congress formally defunded TIA on September 30, 2003. Poindexter's departure completed one of the most extraordinary arcs in the intelligence revolving door: a former National Security Advisor whose Iran-Contra conviction had been overturned on a technicality was brought back into government to build a mass surveillance system, then exited again to the private sector when the program proved too politically toxic even for the post-9/11 era.

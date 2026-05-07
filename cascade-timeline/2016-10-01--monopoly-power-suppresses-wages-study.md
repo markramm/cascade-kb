@@ -33,7 +33,7 @@ sources:
   date: '2022-01-01'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Labor Suppression
 - Corporate Capture
 ---

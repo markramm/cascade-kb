@@ -8,7 +8,8 @@ location: United States
 actors:
 - Jeffrey Epstein
 - Leslie Wexner
-- The Limited/Victoria's Secret
+- The Limited
+- Victoria's Secret
 - MEGA Group
 tags:
 - epstein-network

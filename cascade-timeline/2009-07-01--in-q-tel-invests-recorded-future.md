@@ -35,8 +35,8 @@ sources:
   date: '2024-09-12'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- Digital and Tech Capture
+- Media Capture and Control
 - Surveillance Infrastructure
 ---
 

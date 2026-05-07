@@ -32,7 +32,7 @@ sources:
   tier: 2
   outlet: Jacobin
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Regulatory Capture
 ---

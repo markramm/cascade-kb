@@ -28,7 +28,7 @@ sources:
   outlet: NPR
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Military-Industrial Complex
 ---
 

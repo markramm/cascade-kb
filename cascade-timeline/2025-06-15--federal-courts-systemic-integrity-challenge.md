@@ -39,7 +39,7 @@ tags:
 - executive-overreach
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Judicial Capture
 - Regulatory Capture
 - Financial Capture

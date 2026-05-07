@@ -31,7 +31,7 @@ sources:
   tier: 1
   outlet: San Jose Mercury News
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Systematic Corruption
 ---

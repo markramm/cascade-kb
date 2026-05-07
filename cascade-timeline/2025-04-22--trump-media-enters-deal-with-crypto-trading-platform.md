@@ -48,7 +48,7 @@ patterns:
 - media-monetization
 notes: Event from comprehensive kleptocracy timeline tracking. Strategic expansion into financial services and digital assets.
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Executive Power Expansion
 ---

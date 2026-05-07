@@ -52,6 +52,11 @@ sources:
     publisher: Texas Tribune
     date: '2026-01-29'
     tier: 1
+coverage:
+  - url: https://theramm.substack.com/p/surprise
+    title: "Surprise"
+    date: '2026-05-07'
+    publication: theramm
 ---
 
 The El Paso County Medical Examiner ruled that the January 3, 2026 death of Geraldo Lunas Campos, a 55-year-old Cuban national in ICE custody at Camp East Montana (Fort Bliss, Texas), was a **homicide** caused by asphyxia from neck and torso compression. The autopsy documented hemorrhage in muscles and connective tissues on the neck, scattered superficial abrasions, and signs of smaller hemorrhaging on the eyelids and skin of the neck. ICE had initially told the public Lunas Campos had died "during a suicide attempt" while staff "tried to save him." A Salvadoran detainee, **Santos Jesús Flores**, witnessed the incident from his cell window and told the Associated Press that guards handcuffed Lunas Campos, tackled him, and placed him in a chokehold until he was unconscious. Per Flores: *"After he stopped breathing, they removed the handcuffs."* At least five guards held him down. Lunas Campos had been in the United States since 1996.

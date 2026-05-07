@@ -8,7 +8,7 @@ actors:
 capture_lanes:
 - Surveillance Infrastructure
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 date: 2018-02-27
 id: 2018-02-27--amazon-acquires-ring-billion-dollar-doorbell-surveillance
 importance: 8

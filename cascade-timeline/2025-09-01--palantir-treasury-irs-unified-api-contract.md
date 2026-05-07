@@ -31,7 +31,7 @@ sources:
   tier: 2
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The U.S. Treasury Department awarded Palantir a Blanket Purchase Agreement to create a "unified API layer" supporting developer platforms, workflow automation, and data analytics for the IRS as part of IT modernization. The contract enables centralized access to IRS data through Palantir's Foundry platform.

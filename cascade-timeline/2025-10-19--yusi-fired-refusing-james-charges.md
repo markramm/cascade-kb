@@ -34,7 +34,7 @@ tags:
 capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

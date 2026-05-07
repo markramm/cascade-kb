@@ -35,7 +35,7 @@ sources:
   tier: 2
   outlet: Chainalysis
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Regulatory Capture
 ---

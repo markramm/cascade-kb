@@ -31,7 +31,7 @@ capture_lanes:
   - Federal-Contract Capture
   - Gulf-State Capital Flow
   - AI-Infrastructure Capture
-  - Foreign Influence / Emoluments
+  - Foreign Influence and Emoluments
 mechanisms_used:
   - Delaware-LLC opacity
   - UAE sovereign-wealth deployment

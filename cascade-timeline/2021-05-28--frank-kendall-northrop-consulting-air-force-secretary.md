@@ -36,7 +36,7 @@ sources:
   tier: 1
   outlet: Project on Government Oversight
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Systematic Corruption
 ---

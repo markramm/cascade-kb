@@ -31,7 +31,7 @@ sources:
   outlet: Trump Tyranny Tracker
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 coverage:
   - url: https://theramm.substack.com/p/for-the-benefit-of-knaves-at-the

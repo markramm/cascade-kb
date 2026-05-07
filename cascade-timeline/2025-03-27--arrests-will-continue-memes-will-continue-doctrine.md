@@ -40,7 +40,7 @@ coverage:
   - url: https://theramm.substack.com/p/the-white-house-memelord-and-the
     title: "The White House Memelord and the Doctored Photo"
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---

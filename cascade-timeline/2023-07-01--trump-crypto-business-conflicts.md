@@ -40,7 +40,7 @@ sources:
   tier: 1
   outlet: ABC News
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Financial Capture
 - Systematic Corruption
 ---

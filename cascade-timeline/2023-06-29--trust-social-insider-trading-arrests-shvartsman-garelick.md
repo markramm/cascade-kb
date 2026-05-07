@@ -10,7 +10,7 @@ actors:
 - Digital World Acquisition Corp
 - 'U.S. Attorney''s Office for the Southern District of New York'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Intelligence Penetration
 date: 2023-06-29

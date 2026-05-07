@@ -50,7 +50,7 @@ sources:
   date: '2021-09-14'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Surveillance Infrastructure
 ---

@@ -45,7 +45,7 @@ tags:
 - tech-regulation
 capture_lanes:
 - Military-Industrial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Democratic Backsliding
 coverage:
   - url: https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national

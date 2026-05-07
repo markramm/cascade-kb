@@ -20,7 +20,7 @@ tags:
 - chemical-industry
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Bhopal Gas Tragedy
   url: https://www.britannica.com/event/Bhopal-disaster

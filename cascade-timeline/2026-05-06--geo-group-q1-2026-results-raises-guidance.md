@@ -44,7 +44,9 @@ capture_lanes:
   - Detention Industrial Complex
   - Congressional Oversight (negative space)
   - Federal Contracting
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
+    title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
 ---
 
 On May 6, 2026, before the market opened, The GEO Group released its Q1 2026 financial results and raised full-year 2026 guidance, citing the ramp of ICE detention-bed reactivations awarded in 2025. The earnings call followed at 11:00 a.m. Eastern. CoreCivic's parallel Q1 2026 release lands after market close on the same date with a conference call scheduled for May 7 at 11:00 a.m. Eastern (see [[2026-05-06--corecivic-q1-2026-earnings-release-pending]] — pending entry).

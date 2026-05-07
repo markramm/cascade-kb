@@ -23,9 +23,9 @@ tags:
 - bitcoin
 capture_type: monetizing_position
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 sources:
 - date: '2025-06-03'
   outlet: CNBC

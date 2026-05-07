@@ -34,7 +34,7 @@ tags:
 capture_lanes:
 - Surveillance Infrastructure
 - Immigration System Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 DHS announced plans for a unified "matching engine" merging facial recognition and fingerprint databases across multiple agencies into a single searchable system. The combined biometric database would enable any DHS component to instantly cross-reference faces and fingerprints against records from immigration enforcement, border crossings, and other government interactions. Privacy advocates warned the system creates a mass surveillance infrastructure that could be used to track not just immigrants but any person whose biometric data has been collected by the government, including U.S. citizens who have traveled internationally or applied for government benefits.
 

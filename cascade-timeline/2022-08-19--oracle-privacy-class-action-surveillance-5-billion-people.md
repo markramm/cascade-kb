@@ -36,7 +36,7 @@ sources:
   outlet: The Register
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 ---
 

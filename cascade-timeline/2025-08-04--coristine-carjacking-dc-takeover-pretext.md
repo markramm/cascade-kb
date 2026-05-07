@@ -40,7 +40,7 @@ notes: 'Two 15-year-old suspects from Maryland arrested. Coristine had resigned 
 
   actually safer than in decades, contradicting Trump''s "totally out of control" narrative.'
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 ---
 

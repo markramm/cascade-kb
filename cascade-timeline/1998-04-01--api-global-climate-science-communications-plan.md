@@ -19,7 +19,7 @@ tags:
 - fossil-fuels
 - regulatory-capture
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 sources:
 - title: The Global Climate Science Communications Plan

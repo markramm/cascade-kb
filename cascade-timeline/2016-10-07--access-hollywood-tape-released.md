@@ -38,7 +38,7 @@ tags:
 - political-crisis
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 ---
 

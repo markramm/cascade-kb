@@ -45,7 +45,7 @@ sources:
   date: '2011-01-01'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Legislative Capture
 ---

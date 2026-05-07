@@ -30,7 +30,7 @@ tags:
 - anti-competitive-practices
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 ---
 -the-story-so-far
   date: '2020-08-23'

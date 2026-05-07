@@ -8,7 +8,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: regulatory_capture
 connections:
 - 'Cantor Fitzgerald''s stake in Tether'

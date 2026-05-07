@@ -20,9 +20,9 @@ tags:
 - regulatory-capture
 - project-2025
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: confirmed
 sources:
 - title: "Is Section 230 Going to Change? The FTC, DOJ and FCC Signal Significant Change for Online Businesses"

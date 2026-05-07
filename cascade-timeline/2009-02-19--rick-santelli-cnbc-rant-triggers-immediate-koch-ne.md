@@ -44,7 +44,7 @@ status: confirmed
 id: 2009-02-19--rick-santelli-cnbc-rant-triggers-immediate-koch-ne
 priority_id: RT-C7D79DA1-tea-party-koch-astroturf
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Democratic Erosion
 ---

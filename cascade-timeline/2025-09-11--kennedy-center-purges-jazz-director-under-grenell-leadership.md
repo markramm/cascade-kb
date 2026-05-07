@@ -26,7 +26,7 @@ actors:
 - Jason Moran
 - Kennedy Center
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Civil Rights Suppression
 status: reported
 ---

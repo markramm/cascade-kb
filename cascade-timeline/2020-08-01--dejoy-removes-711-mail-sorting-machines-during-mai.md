@@ -33,7 +33,7 @@ sources:
   date: '2024-01-01'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Financial Capture
 - Electoral Manipulation

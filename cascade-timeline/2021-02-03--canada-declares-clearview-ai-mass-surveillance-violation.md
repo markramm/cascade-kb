@@ -26,7 +26,7 @@ actors:
 - Clearview AI
 - RCMP
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Surveillance Infrastructure
 ---

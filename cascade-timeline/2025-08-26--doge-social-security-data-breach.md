@@ -46,7 +46,7 @@ sources:
   url: 'https://www.narfe.org/blog/2025/09/02/doge-compromised-social-security-data/'
   tier: 2
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Systematic Corruption
 tags:
 - data-breach

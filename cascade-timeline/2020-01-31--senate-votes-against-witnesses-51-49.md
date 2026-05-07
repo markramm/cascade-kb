@@ -34,7 +34,7 @@ sources:
   tier: 1
   outlet: NPR
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Executive Power Expansion
 - Electoral Manipulation
 ---

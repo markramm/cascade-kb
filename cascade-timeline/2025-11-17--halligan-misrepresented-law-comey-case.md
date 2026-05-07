@@ -39,7 +39,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

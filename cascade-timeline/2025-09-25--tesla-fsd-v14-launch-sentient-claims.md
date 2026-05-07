@@ -28,7 +28,7 @@ tags:
 - automation
 - tech-regulation
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

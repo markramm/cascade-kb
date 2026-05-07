@@ -32,7 +32,7 @@ sources:
   outlet: The Washington Post
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 status: reported
 ---

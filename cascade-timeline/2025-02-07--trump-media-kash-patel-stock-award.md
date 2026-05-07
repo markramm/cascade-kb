@@ -43,7 +43,7 @@ patterns:
 - revolving-door-politics
 notes: Stock award scrutinized for potential ethical violations in federal appointment process.
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Legislative Capture
 - Intelligence Penetration
 coverage:

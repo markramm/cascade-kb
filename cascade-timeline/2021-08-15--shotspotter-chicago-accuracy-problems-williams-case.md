@@ -33,7 +33,7 @@ sources:
   tier: 1
   outlet: MacArthur Justice Center
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Surveillance Infrastructure
 ---

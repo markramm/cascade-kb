@@ -42,7 +42,7 @@ sources:
   tier: 2
   outlet: ABC News
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Legislative Capture
 ---

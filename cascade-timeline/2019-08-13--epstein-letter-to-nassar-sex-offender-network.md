@@ -41,7 +41,7 @@ sources:
   date: '2023-06-02'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

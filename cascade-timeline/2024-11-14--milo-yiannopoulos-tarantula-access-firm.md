@@ -21,7 +21,7 @@ tags:
 - crisis-management
 - far-right-rehabilitation
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Systematic Corruption
 sources:
 - title: 'The Milo Yiannopoulos Makeover: The Alt-Right''s Fallen Poster Boy Is Back for Trump 2.0'

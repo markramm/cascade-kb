@@ -35,7 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 ---
 

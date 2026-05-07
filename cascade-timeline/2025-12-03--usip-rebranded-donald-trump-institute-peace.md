@@ -38,7 +38,7 @@ sources:
   tier: 1
   outlet: PBS
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Environmental Capture
 status: reported

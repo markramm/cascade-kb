@@ -42,7 +42,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 ---
 

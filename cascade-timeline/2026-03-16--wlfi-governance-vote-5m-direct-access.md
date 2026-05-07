@@ -14,7 +14,7 @@ actors:
 capture_lanes:
 - Financial Capture
 - International Kleptocracy
-- Digital & Tech Capture
+- Digital and Tech Capture
 tags:
 - wlfi
 - governance

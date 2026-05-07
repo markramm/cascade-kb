@@ -12,7 +12,9 @@ actors:
 - Heritage Trust
 - Citigroup
 - U.S. Treasury Department
-- DOJ/FBI/IRS investigation
+- DOJ
+- FBI
+- IRS
 tags:
 - russian-investment
 - spacex

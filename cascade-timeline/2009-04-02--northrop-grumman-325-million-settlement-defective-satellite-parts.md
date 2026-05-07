@@ -39,7 +39,7 @@ sources:
   outlet: Good Jobs First
 capture_lanes:
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

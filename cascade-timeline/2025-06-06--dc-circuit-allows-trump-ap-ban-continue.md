@@ -23,7 +23,7 @@ tags:
 - viewpoint-discrimination
 - judicial-capture
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 status: confirmed
 sources:

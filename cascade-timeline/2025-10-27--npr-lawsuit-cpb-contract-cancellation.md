@@ -27,7 +27,7 @@ tags:
 - weaponization-of-government
 title: NPR Sues After Corporation for Public Broadcasting Cancels $36M Contract Under Trump Pressure
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Systematic Corruption
 ---
 

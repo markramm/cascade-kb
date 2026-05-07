@@ -10,7 +10,8 @@ actors:
 - Donald Trump
 - Michael Cohen
 - Hope Hicks
-- National Enquirer/AMI
+- National Enquirer
+- American Media Inc.
 tags:
 - catch-and-kill
 - national-enquirer

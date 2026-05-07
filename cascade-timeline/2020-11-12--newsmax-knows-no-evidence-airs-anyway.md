@@ -43,7 +43,7 @@ sources:
 notes: Proves deliberate deception. Ruddy called Sidney Powell crazy privately while promoting her publicly. Led to $107 million defamation settlement. Shows media knowingly spread election lies for profit.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Electoral Manipulation
 ---
 Chris Ruddy writes internal email stating "We have no evidence" of Smartmatic election rigging, but Newsmax continues airing false claims 23 more times for ratings

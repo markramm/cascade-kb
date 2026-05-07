@@ -38,7 +38,7 @@ sources:
   outlet: ABC12
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Judicial Capture
 - Surveillance Infrastructure
 ---

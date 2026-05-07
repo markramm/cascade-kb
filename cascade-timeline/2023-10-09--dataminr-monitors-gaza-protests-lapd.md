@@ -30,7 +30,7 @@ sources:
   outlet: San Antonio Current
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---

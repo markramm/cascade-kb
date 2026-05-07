@@ -36,7 +36,7 @@ sources:
   date: '2003-03-01'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

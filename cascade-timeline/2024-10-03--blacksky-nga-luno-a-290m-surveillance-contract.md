@@ -83,7 +83,7 @@ notes: >
   market cap exceeds $1 billion (NYSE: BKSY).
 capture_lanes:
 - Surveillance Architecture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The National Geospatial-Intelligence Agency awarded BlackSky Technology a five-year, up to $290 million contract designated "Luno A" to monitor global economic activity, environmental changes, and military capability using AI-powered satellite surveillance. The contract marks a major escalation in the U.S. intelligence community's reliance on commercial surveillance infrastructure connected to Peter Thiel's investment network.

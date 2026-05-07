@@ -40,7 +40,7 @@ sources:
   date: '2004-05-01'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Financial Capture

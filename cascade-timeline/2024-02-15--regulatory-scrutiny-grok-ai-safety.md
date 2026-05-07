@@ -19,7 +19,7 @@ actors:
 - Color of Change
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 sources:
 - outlet: Fortune
   title: 'Elon Musk released xAI''s Grok 4 without any safety reports—despite calling AI more ''dangerous than nukes'''

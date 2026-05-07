@@ -56,7 +56,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 

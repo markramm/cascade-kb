@@ -40,7 +40,7 @@ sources:
   tier: 3
   outlet: Wikipedia
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Legislative Capture
 ---

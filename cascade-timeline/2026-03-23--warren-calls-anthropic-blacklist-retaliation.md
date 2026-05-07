@@ -31,7 +31,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 On March 23, 2026 — the eve of Anthropic's preliminary injunction hearing before Judge Rita Lin — Senator Elizabeth Warren sent a detailed letter to Defense Secretary Pete Hegseth calling the supply chain risk designation against Anthropic "retaliation" for the company's AI safety positions. Warren argued that if the Pentagon's actual concern had been Anthropic's refusal to meet contract requirements, the department had a straightforward remedy available: it could have simply terminated the contract. Instead, by deploying a supply chain risk designation, the Pentagon had chosen the most destructive option available, one that barred Anthropic from all federal procurement and signaled to the entire technology industry that maintaining AI safety standards would be punished.

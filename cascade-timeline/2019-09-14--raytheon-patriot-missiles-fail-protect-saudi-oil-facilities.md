@@ -40,7 +40,7 @@ actors:
 - Mohammed bin Salman
 - Houthi forces
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 - Military-Industrial Complex
 ---

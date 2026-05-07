@@ -11,7 +11,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 date: 2024-02-23
 id: 2024-02-23--federal-agents-charge-two-with-2-million-nft-rug-pull-money
 importance: 8

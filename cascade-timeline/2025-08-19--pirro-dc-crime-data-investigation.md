@@ -32,7 +32,7 @@ sources:
   tier: 2
   outlet: Trump Tyranny Tracker
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 US Attorney Jeanine Pirro launched a Justice Department investigation into whether DC police manipulated crime statistics to make rates appear lower, despite violent crime being down 26% and at a 30-year low. The investigation provides justification for Trump's federal takeover of DC police and deployment of 800 National Guard troops.

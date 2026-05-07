@@ -36,7 +36,7 @@ sources:
   tier: 2
   outlet: The Washington Post
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Judicial Capture
 ---

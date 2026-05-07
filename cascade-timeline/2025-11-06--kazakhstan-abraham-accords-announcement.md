@@ -27,7 +27,7 @@ sources:
   tier: 2
   outlet: Atlantic Council
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 status: reported
 ---

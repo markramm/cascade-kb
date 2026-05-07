@@ -58,7 +58,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Market Manipulation
-- Executive-Branch / Contractor Public Endorsement
+- Executive-Branch and Contractor Public Endorsement
 - Defense Contractor Political Alignment
 ---
 

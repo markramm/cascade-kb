@@ -10,7 +10,7 @@ actors:
 - Adama Barrow
 - Hassan Jallow
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - International Kleptocracy
 capture_type: monetizing_position

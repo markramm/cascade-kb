@@ -37,7 +37,7 @@ sources:
   tier: 2
   outlet: Fischer Legal Group
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Systematic Corruption
 ---

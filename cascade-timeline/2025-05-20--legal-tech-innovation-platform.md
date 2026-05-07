@@ -32,7 +32,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 ---
 Advanced legal technology platform launched, integrating AI-powered research tools to enhance legal resistance networks. Developed by interdisciplinary teams from Harvard and MIT, the platform offers automated document analysis, real-time constitutional threat monitoring, and AI-assisted legal research. Aims to democratize access to sophisticated legal technology while addressing potential technological disparities in legal service delivery.
 

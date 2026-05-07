@@ -34,7 +34,7 @@ sources:
   outlet: Defending Rights & Dissent
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 - Surveillance Infrastructure
 ---
 

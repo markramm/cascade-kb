@@ -4,7 +4,7 @@ actors:
 - Ring
 - Amazon
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 date: 2024-01-24
 id: 2024-01-24--ring-ends-police-request-for-assistance-feature

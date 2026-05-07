@@ -13,7 +13,7 @@ actors:
 - White House officials
 - Department of Justice
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Legislative Capture
 - Financial Capture
 - Intelligence Penetration

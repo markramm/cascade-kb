@@ -34,7 +34,7 @@ sources:
   tier: 1
 id: 2019-06-27--former-fda-commissioner-scott-gottlieb-joins-pfizer-board-af
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

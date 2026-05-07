@@ -8,7 +8,7 @@ actors:
 - Interpublic Group
 capture_lanes:
 - Intelligence Penetration
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Corporate Capture
 capture_type: monetizing_position
 connections:

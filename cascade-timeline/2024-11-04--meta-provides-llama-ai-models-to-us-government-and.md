@@ -28,7 +28,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 sources:
 - date_accessed: '2025-10-14'
   outlet: Bloomberg

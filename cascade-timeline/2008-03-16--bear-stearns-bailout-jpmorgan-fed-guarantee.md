@@ -36,7 +36,7 @@ sources:
   outlet: Institute for New Economic Thinking
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Financial Capture
 ---

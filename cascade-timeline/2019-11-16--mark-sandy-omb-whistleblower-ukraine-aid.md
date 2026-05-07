@@ -39,7 +39,7 @@ sources:
   outlet: NPR
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Executive Power Expansion
 - Systematic Corruption
 ---

@@ -58,7 +58,7 @@ patterns:
 - institutional-transformation
 notes: 'Legal challenges from the National Treasury Employees Union (NTEU) attempted to block the workforce reduction, but a federal appeals court with two Trump-appointed judges ruled in favor of the administration. The agency''s role has been dramatically reduced, shifting from broad consumer protection to minimal oversight.'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration

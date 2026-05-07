@@ -32,7 +32,7 @@ tags:
 status: confirmed
 id: 2025-01-20--bondi-rescinds-journalist-protection-safeguards
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

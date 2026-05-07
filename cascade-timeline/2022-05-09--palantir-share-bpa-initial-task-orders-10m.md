@@ -33,7 +33,7 @@ sources:
   tier: 2
 capture_lanes:
 - Health Data Consolidation
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Five days after announcing the five-year, $90 million [[share-bpa-palantir|HHS SHARE BPA]] with Palantir Technologies, the HHS Program Support Center issued the first two task orders under the agreement — combined value $10.4 million.

@@ -53,7 +53,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 coverage:
   - url: https://theramm.substack.com/p/the-hammer-gregory-bovinos-12-month
     title: "The Hammer: Gregory Bovino's 12-Month Escalation"

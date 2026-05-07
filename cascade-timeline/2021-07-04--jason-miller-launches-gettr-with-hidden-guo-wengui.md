@@ -41,7 +41,7 @@ status: confirmed
 id: 2021-07-04--jason-miller-launches-gettr-with-hidden-guo-wengui
 priority_id: RT-EXP-2E557553-gettr-jason-miller-chinese-funding
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 - Intelligence Penetration
 patterns:

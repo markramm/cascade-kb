@@ -17,7 +17,7 @@ tags:
 - tech-regulation
 capture_lanes:
 - Judicial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Regulatory Capture
 sources:
 - outlet: National Law Review

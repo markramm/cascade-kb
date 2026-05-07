@@ -46,6 +46,6 @@ patterns:
 notes: Settlement reflects broader patterns of media-political power dynamics
 capture_lanes:
 - Systematic Corruption
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 ---
 Paramount Global settled Trump's $20 billion lawsuit over a 2023 '60 Minutes' interview for $16 million, with no direct payment to Trump and an agreement to release future candidate interview transcripts. The settlement comes amid Paramount's pending merger with Skydance Media, raising questions about regulatory leverage.

@@ -34,7 +34,7 @@ sources:
   outlet: The Hill
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---

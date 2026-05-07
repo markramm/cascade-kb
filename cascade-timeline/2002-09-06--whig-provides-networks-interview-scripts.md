@@ -43,7 +43,7 @@ actors:
 - Karen Hughes
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

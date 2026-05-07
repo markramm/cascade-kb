@@ -36,7 +36,7 @@ sources:
   date: '2018-11-19'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration

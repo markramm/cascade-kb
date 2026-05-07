@@ -56,7 +56,7 @@ sources:
 notes: 'John Oliver called anchors "members of brainwashed cult." Exposed how Sinclair uses trusted local anchors to spread identical political messages. Major public backlash.'
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 ---
 Video compilation reveals Sinclair forced anchors at dozens of local stations to read identical script warning about "fake news," exposing synchronized propaganda operation
 

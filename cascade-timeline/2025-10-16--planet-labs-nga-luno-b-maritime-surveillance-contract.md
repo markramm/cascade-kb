@@ -55,7 +55,7 @@ sources:
   tier: 1
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Planet Labs Federal wins a $12.8 million contract from the National Geospatial-Intelligence Agency (NGA) under the Luno B IDIQ framework for AI-enabled maritime surveillance in the Asia-Pacific region. The contract, designated Advanced Analytics for Maritime Operations and Reconnaissance (AAMOR), combines Planet's daily global PlanetScope satellite imagery with AI analytics from partner SynMax's Theia platform to detect and track vessel activity — including illegal fishing, illicit ship-to-ship transfers, and vessels spoofing their identification signals.

@@ -28,7 +28,7 @@ sources:
   date: '2023-03-15'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 ---
 

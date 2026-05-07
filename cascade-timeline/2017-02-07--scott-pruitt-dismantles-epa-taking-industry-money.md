@@ -34,7 +34,7 @@ sources:
   date: '2020-01-15'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Financial Capture
 ---

@@ -35,7 +35,7 @@ sources:
   outlet: Texas Monthly
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

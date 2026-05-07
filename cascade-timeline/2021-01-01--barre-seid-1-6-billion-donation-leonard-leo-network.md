@@ -6,7 +6,7 @@ actors:
 - Marble Freedom Trust
 capture_lanes:
 - Judicial Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Electoral Manipulation
 date: 2021-01-01
 id: 2021-01-01--barre-seid-1-6-billion-donation-leonard-leo-network

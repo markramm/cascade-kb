@@ -36,7 +36,7 @@ notes: V-Dem's data shows U.S. following Hungary's 2010-2020 autocratization pat
   but at 5x speed
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Intelligence Penetration
 - Electoral Manipulation

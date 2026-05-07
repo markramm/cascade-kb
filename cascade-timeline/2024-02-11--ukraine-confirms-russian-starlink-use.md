@@ -9,7 +9,8 @@ actors:
 - Russian military
 - Ukrainian intelligence
 - Elon Musk
-- SpaceX/Starlink
+- SpaceX
+- Starlink
 tags:
 - starlink-compromise
 - russian-military

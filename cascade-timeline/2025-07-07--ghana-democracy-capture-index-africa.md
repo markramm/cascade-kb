@@ -35,7 +35,7 @@ tags:
 - civil-society
 - media-capture
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Democratic Erosion
 - Federal Workforce Capture
 validation_notes: Comprehensive verification of Democracy Capture Index details. Enhanced with source from Ghana News Agency providing additional context and systematic findings. Updated summary with more precise details from research.

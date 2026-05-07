@@ -33,7 +33,7 @@ sources:
   outlet: MIT Technology Review
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 ---
 

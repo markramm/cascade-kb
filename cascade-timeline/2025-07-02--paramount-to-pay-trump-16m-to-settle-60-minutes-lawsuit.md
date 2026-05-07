@@ -18,7 +18,7 @@ tags:
 - election-interference
 capture_lanes:
 - Electoral Manipulation
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 capture_type: monetizing_position
 location: 'Washington, D.C.'
 sources:

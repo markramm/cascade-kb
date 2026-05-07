@@ -14,7 +14,7 @@ actors:
 - Karen Hughes
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 - Legislative Capture
 tags:

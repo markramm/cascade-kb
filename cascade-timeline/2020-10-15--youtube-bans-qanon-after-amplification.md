@@ -44,7 +44,7 @@ status: confirmed
 id: 2020-10-15--youtube-bans-qanon-after-amplification
 capture_lanes:
 - Democratic Erosion
-- Media Capture & Control
+- Media Capture and Control
 capture_type: delayed_moderation_response
 patterns:
 - amplify-then-ban

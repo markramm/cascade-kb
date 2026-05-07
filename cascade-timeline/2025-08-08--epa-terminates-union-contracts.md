@@ -41,7 +41,7 @@ sources:
   date: '2025-08-08'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Regulatory Capture
 - Financial Capture

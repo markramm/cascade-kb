@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Former Air Force veteran and NSA contractor Reality Leigh Winner was arrested for leaking a classified intelligence report documenting Russian cyberattacks on U.S. election infrastructure. Her case would result in the longest prison sentence ever imposed for an unauthorized release of government information to the media.

@@ -45,7 +45,7 @@ tags:
 - civil-liberties
 capture_lanes:
 - Immigration System Capture
-- Intelligence & Surveillance Capture
+- Intelligence and Surveillance Capture
 - Democratic Backsliding
 ---
 By February 23, 2026, Operation Metro Surge was winding down with fewer than 1,000 federal agents remaining in Minnesota, down from a peak deployment of approximately 3,000—described by officials as the "largest DHS operation ever" conducted on domestic soil. Federal officials claimed roughly 4,000 total arrests over the course of the operation. However, independent analysis conducted by community rapid-response networks, legal observers, and civil liberties organizations documented only 578 confirmed arrests, approximately 14 percent of the official total. The vast discrepancy raised serious questions about the accuracy and integrity of government reporting on the operation.

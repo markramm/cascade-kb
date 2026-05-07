@@ -32,7 +32,7 @@ tags:
 id: 1990-01-01--trump-taj-mahal-casino-opens-with-675-million-junk-bond-debt
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 - Intelligence Penetration
 ---

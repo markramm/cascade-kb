@@ -42,7 +42,7 @@ patterns:
 notes: Comprehensive analysis reveals systematic attempt to generate economic uncertainty and potentially manipulate gold markets
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 ---
 President Trump and Elon Musk publicly suggested in early 2025 that U.S. gold reserves at Fort Knox might be missing or had not been properly audited, raising unfounded questions about whether the nation's gold supply was intact. ABC News and PBS NewsHour documented the baseless claims, with Axios subsequently reporting that the Treasury Department confirmed the gold reserves were untouched. The conspiracy theory had no basis in documented fact — Fort Knox gold reserves are subject to regular auditing by Treasury officials and congressional oversight — but the public amplification by the sitting president and the most powerful private actor in government created significant media coverage.
 

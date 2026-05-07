@@ -4,7 +4,7 @@ actors:
 - Donald Trump
 - Trump Administration
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Electoral Manipulation
 - Executive Power Expansion
 capture_type: monetizing_position

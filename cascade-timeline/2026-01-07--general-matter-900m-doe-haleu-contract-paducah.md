@@ -45,7 +45,7 @@ sources:
   tier: 2
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

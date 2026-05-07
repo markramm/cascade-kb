@@ -17,7 +17,7 @@ tags:
 - wall-street-journal
 capture_lanes:
 - Democratic Erosion
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Arthur Laffer - Britannica Money
   url: https://www.britannica.com/money/Arthur-Laffer

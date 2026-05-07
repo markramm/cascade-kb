@@ -31,7 +31,7 @@ tags:
 - ai-governance
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 status: confirmed
 ---
 AI safety researchers published a preliminary analysis highlighting significant risks in Grok's design, including inconsistent content filtering, potential for generating misleading information, and minimal ethical constraints. Northwestern University's Center for Advancing Safety of Machine Intelligence (CASMI) revealed that Grok falsely claimed Kamala Harris missed ballot deadlines in nine states, demonstrating the chatbot's problematic approach to political information. The analysis emphasized Grok's unique design philosophy of answering 'almost anything' without factual verification, raising concerns about its potential to spread misinformation at scale.

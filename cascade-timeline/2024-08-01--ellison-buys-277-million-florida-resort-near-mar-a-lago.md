@@ -33,7 +33,7 @@ sources:
   tier: 2
   outlet: Crain Currency
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Surveillance Infrastructure
 ---

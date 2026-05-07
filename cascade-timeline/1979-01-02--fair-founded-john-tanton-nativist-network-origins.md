@@ -37,7 +37,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Dr. John Tanton, a Michigan ophthalmologist and former Sierra Club population committee chair, founds the Federation for American Immigration Reform (FAIR) in Washington, D.C., establishing the organizational infrastructure for the modern nativist movement. Initially framing immigration restriction as an environmental issue, FAIR subsequently becomes the hub of a network of interconnected organizations promoting immigration restriction, including the Center for Immigration Studies (founded 1985), NumbersUSA (founded 1996), and ProEnglish, all sharing funding sources, personnel, and messaging strategies while maintaining nominal independence to create the appearance of broad consensus.

@@ -30,7 +30,7 @@ sources:
   outlet: Columbia Journalism Review
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Labor Suppression
 ---

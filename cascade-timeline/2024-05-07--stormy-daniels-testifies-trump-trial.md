@@ -39,7 +39,7 @@ notes: Daniels provided graphic, detailed testimony about a 2006 sexual encounte
 capture_lanes:
 - Judicial Capture
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Adult film actress Stormy Daniels took the witness stand in Donald Trump's criminal trial and delivered graphic, detailed testimony about a 2006 sexual encounter with Trump that she said led to the $130,000 hush money payment at the center of the case. Her testimony offered jurors a vivid account of the events that Trump allegedly paid to conceal from voters, while Trump sat at the defense table visibly angry, shaking his head and conferring heatedly with his lawyers.

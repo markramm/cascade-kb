@@ -33,7 +33,7 @@ sources:
   outlet: Foreign Policy
 capture_lanes:
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 ---
 

@@ -52,7 +52,7 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 ---
 Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company– –joining other Trump-family linked businesses pursuing the same strategy

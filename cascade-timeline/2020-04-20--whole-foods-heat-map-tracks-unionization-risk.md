@@ -35,7 +35,7 @@ status: confirmed
 capture_lanes:
 - Surveillance Infrastructure
 - Labor Suppression
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 # Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics

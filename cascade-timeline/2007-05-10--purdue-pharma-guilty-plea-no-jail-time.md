@@ -35,7 +35,7 @@ sources:
   tier: 2
   outlet: Judge for Yourselves
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Corporate Capture
 ---

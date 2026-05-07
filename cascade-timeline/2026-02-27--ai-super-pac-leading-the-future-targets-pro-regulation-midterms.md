@@ -60,7 +60,7 @@ sources:
   date: '2026-02-20'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Capture
 - Oligarchic Consolidation
 ---

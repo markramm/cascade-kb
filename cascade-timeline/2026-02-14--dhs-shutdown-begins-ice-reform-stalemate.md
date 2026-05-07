@@ -34,7 +34,7 @@ sources:
   tier: 1
 capture_lanes:
 - Legislative Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 coverage:
   - url: "https://theramm.substack.com/p/the-moral-battlefield-part-4"
     title: "The Moral Battlefield, Part 4: The Institutional Cascade"

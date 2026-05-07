@@ -32,7 +32,7 @@ actors:
 - Department of Justice
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

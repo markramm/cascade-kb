@@ -31,7 +31,7 @@ sources:
   tier: 1
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The Pentagon's Defense Innovation Unit awarded Scale AI a multimillion-dollar prototype contract for "Thunderforge," the DOD's flagship program using AI agents for military planning and operations. The program incorporates Anduril and Microsoft as technology partners.

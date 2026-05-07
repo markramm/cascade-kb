@@ -30,9 +30,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 On August 17, 2016, Donald Trump names Steve Bannon — executive chairman of Breitbart News and architect of the Gamergate-to-political-action pipeline — as his campaign's chief executive officer. Kellyanne Conway is simultaneously named campaign manager. The appointments, engineered by Robert and Rebekah Mercer (Breitbart's primary funders), formalize the connection between the online radicalization infrastructure Bannon built through Breitbart Tech and the Republican presidential campaign.

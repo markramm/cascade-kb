@@ -39,7 +39,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial System Risk
-- Private Credit / Shadow Banking
+- Private Credit and Shadow Banking
 ---
 
 On October 30, 2025, Blue Owl Capital reported Q3 2025 results that beat revenue expectations: **$727.99 million reported vs. $680.97 million forecast (+6.9%)**; EPS of $0.22 (meeting consensus); fee-related earnings of $0.24 per share; 18th consecutive quarter of management-fee and FRE growth; 29% management-fee growth over the prior 12 months with 86% from permanent-capital vehicles. Despite the headline beat, **OWL stock fell 4.56% in pre-market trading** to approximately $16 on the results, a classic "beat-but-sell-off" pattern signaling that investors were pricing in stress not yet visible in the operating numbers.

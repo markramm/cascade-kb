@@ -54,7 +54,7 @@ sources:
   date: '2016-04-15'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Surveillance State
 ---

@@ -34,7 +34,7 @@ sources:
   outlet: Euronews
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

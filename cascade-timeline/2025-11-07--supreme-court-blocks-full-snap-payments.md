@@ -35,7 +35,7 @@ sources:
   outlet: CNN
 capture_lanes:
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 status: reported
 ---

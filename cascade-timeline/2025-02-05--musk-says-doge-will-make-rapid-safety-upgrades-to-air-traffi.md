@@ -16,7 +16,7 @@ tags:
 - transportation-safety
 capture_lanes:
 - Systematic Corruption
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: technological_intervention
 sources:
 - outlet: The Hill

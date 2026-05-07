@@ -36,7 +36,7 @@ sources:
   tier: 1
 notes: This ruling came after the Bush administration ended the warrantless surveillance program in January 2007 following public revelation and legal challenges. When Judge Vinson refused to approve the government's attempt to expand surveillance authority, intelligence officials turned to Congress for new surveillance powers, resulting in the Protect America Act and ultimately the FISA Amendments Act of 2008.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Legislative Capture
 - Intelligence Penetration

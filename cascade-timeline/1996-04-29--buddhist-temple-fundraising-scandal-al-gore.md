@@ -39,7 +39,7 @@ sources:
 id: 1996-04-29--buddhist-temple-fundraising-scandal-al-gore
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

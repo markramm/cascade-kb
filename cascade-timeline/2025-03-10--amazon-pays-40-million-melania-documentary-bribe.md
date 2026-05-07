@@ -9,7 +9,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 date: 2025-03-10
 id: 2025-03-10--amazon-pays-40-million-melania-documentary-bribe
 importance: 8

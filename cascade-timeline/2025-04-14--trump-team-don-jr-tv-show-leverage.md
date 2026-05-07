@@ -7,7 +7,7 @@ actors:
 - David Zaslav
 - Steven Cheung
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Executive Power Expansion
 - Regulatory Capture
 capture_type: media_coordination

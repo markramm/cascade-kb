@@ -31,8 +31,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - Electoral Manipulation
 ---
 

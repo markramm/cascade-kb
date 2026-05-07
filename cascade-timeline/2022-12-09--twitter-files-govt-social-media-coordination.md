@@ -5,7 +5,7 @@ date: 2022-12-09
 title: Twitter Files Release Exposes Systematic Government-Social Media Coordination Infrastructure for Information Control and Democratic Manipulation
 actors:
 - Elon Musk
-- Twitter/X Corporation
+- X Corporation
 - Matt Taibbi
 - Bari Weiss
 - Michael Shellenberger
@@ -53,7 +53,7 @@ constitutional_violations:
 - Constitutional democratic discourse systematically manipulated through permanent government-technology platform integration
 historical_significance: The Twitter Files represent the systematic completion of WHIG information control evolution into permanent government-technology platform coordination infrastructure, demonstrating how episodic media coordination precedents created systematic information warfare capabilities that operate continuously through institutional relationships rather than requiring crisis conditions or coordinated propaganda campaigns.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

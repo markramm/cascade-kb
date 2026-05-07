@@ -34,7 +34,7 @@ sources:
   tier: 2
 capture_lanes:
 - Executive Power Expansion
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 ---
 

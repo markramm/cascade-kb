@@ -40,7 +40,7 @@ sources:
 capture_lanes:
 - Electoral Manipulation
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 The Supreme Court rules 5-4 to uphold Ohio's aggressive voter purge system—the most severe in the nation—that removes voters from registration rolls if they fail to vote in a single federal election and don't return a mailed confirmation notice. Justice Samuel Alito's majority opinion greenlights aggressive voter purging nationwide, while Justice Sonia Sotomayor's dissent warns that the ruling "entirely ignores the history of voter suppression" and enables disenfranchisement of minority and low-income voters.

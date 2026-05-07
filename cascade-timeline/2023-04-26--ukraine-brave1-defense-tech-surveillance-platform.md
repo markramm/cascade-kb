@@ -32,7 +32,7 @@ sources:
   tier: 1
   outlet: Center for Strategic and International Studies
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Regulatory Capture
 ---

@@ -30,7 +30,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 By the early 1950s, the CIA has built the most extensive media influence operation in American history. Under the direction of Frank Wisner — head of the Office of Policy Coordination, the agency's covert action arm — and later Cord Meyer, the CIA cultivates relationships with journalists, editors, and publishers at virtually every major American news outlet. The program, which journalists and researchers later call "Operation Mockingbird," operates not through a single directive but through a web of personal relationships, financial arrangements, and institutional access that makes the American press an instrument of intelligence policy.

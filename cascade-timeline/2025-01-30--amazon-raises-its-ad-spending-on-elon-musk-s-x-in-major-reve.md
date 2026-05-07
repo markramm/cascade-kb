@@ -41,7 +41,7 @@ patterns:
 - corporate-media-coordination
 notes: Event from comprehensive kleptocracy timeline tracking with updated sources.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Corporate Capture
 - Systematic Corruption
 ---

@@ -30,7 +30,7 @@ sources:
   outlet: ABC News
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Military-Industrial Complex
 - Systematic Corruption
 ---

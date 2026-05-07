@@ -35,7 +35,7 @@ sources:
   outlet: JURIST Legal News
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

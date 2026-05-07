@@ -35,7 +35,7 @@ importance: 8
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 - Surveillance Infrastructure
 ---
 

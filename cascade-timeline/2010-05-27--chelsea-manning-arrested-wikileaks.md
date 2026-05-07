@@ -34,7 +34,7 @@ sources:
   outlet: ACLU
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

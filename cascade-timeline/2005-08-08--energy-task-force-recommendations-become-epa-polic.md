@@ -46,7 +46,7 @@ created_date: '2025-09-06T03:41:26.657370'
 category: constitutional-crisis
 verification_status: extensively-documented
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion

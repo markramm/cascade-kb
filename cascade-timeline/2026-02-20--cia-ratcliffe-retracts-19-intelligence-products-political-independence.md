@@ -31,7 +31,7 @@ tags:
 - national-security
 - institutional-capture
 capture_lanes:
-- Intelligence & Surveillance Capture
+- Intelligence and Surveillance Capture
 - Democratic Backsliding
 ---
 CIA Director John Ratcliffe ordered the retraction or revision of 19 intelligence products covering topics including extremism, LGBT activism, and public health, claiming they lacked "political independence." The unprecedented move effectively subordinates intelligence analysis to political ideology, replacing evidence-based assessment with ideological conformity. Intelligence professionals warned that politicizing analysis degrades the information available to policymakers and creates blind spots that endanger national security.

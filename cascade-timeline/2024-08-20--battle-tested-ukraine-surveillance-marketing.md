@@ -34,7 +34,7 @@ sources:
   outlet: The Strategist (ASPI)
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

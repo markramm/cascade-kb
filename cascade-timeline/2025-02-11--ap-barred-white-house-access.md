@@ -15,7 +15,7 @@ tags:
 - lawsuit
 - access
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 citations:
 - https://www.ap.org/the-definitive-source/announcements/ap-statement-on-oval-office-access

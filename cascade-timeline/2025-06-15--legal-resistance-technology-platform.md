@@ -17,7 +17,7 @@ tags:
 - ai-powered-platforms
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 sources:
 - title: Digital Transformation in Law and Technology Revolution
   outlet: Leaders in Law

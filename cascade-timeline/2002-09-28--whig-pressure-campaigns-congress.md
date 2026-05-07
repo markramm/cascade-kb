@@ -53,7 +53,7 @@ constitutional_issues:
 - checks and balances
 historical_significance: The systematic targeting of congressional skeptics through coordinated pressure campaigns marked a fundamental transformation of executive-legislative relations from constitutional debate to political warfare. This operation established dangerous precedents for executive intimidation of legislative opposition and demonstrated how propaganda operations could systematically suppress democratic deliberation and manufacture artificial consensus.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion

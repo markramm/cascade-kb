@@ -31,7 +31,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Executive Power Expansion
-- Media Capture & Control
+- Media Capture and Control
 - Military-Industrial Complex
 ---
 

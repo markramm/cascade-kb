@@ -6,7 +6,8 @@ date: 2023-01-03
 importance: 5
 location: Online
 actors:
-- X/Twitter
+- X
+- Twitter
 - Elon Musk
 tags:
 - platform-policy
@@ -15,7 +16,7 @@ tags:
 - media-control
 capture_lanes:
 - Electoral Manipulation
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 citations:
 - url: 'https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03'
   archived: 'https://web.archive.org/web/20240101000000/https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03'

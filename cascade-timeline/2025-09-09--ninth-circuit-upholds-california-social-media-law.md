@@ -34,8 +34,8 @@ sources:
   tier: 2
   outlet: Bloomberg Law
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - Surveillance Infrastructure
 status: reported
 ---

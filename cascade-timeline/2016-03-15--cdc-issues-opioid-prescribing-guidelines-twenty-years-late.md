@@ -31,7 +31,7 @@ sources:
   outlet: New England Journal of Medicine
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Intelligence Penetration
 ---
 

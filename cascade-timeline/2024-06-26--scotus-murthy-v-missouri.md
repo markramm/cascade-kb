@@ -23,7 +23,7 @@ tags:
 - covid-19
 - misinformation
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 citations:
 - 23-411 Murthy v. Missouri (2024)

@@ -31,7 +31,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 ---
 A woman alleged Pete Hegseth sexually assaulted her at a California Federation of Republican Women conference in 2017. She told police she "remembered saying 'no' a lot" and that Hegseth blocked her from leaving his hotel room and took her phone. Hegseth paid the woman $50,000 to prevent a lawsuit that could damage his Fox News career, though he maintains the encounter was consensual.

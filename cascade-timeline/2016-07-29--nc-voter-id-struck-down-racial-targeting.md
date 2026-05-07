@@ -35,7 +35,7 @@ sources:
   date: '2016-07-29'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Intelligence Penetration
 - Electoral Manipulation

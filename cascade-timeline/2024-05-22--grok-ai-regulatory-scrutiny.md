@@ -78,7 +78,7 @@ description: 'Investigations revealed systematic problems with Grok AI, includin
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 patterns:
 - algorithmic-bias
 - tech-regulatory-capture

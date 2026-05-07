@@ -45,7 +45,7 @@ sources:
   outlet: WTTW Chicago
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 - Executive Power Expansion
 ---

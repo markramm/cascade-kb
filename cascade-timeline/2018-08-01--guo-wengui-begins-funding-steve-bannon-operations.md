@@ -31,7 +31,7 @@ tags:
 - media-manipulation
 - alternative-media
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Intelligence Penetration
 status: confirmed

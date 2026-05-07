@@ -36,7 +36,7 @@ sources:
   tier: 1
   outlet: The New York Times
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Executive Power Expansion
 ---

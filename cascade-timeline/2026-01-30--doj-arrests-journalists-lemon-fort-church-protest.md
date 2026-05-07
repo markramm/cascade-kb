@@ -34,7 +34,7 @@ sources:
   date: '2026-01-30'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Systematic Corruption
 ---
 

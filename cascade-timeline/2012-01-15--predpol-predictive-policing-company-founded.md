@@ -26,7 +26,7 @@ sources:
   outlet: Wikipedia
 capture_lanes:
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 ---
 

@@ -33,7 +33,7 @@ sources:
   date: '2017-04-21'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 - Intelligence Penetration
 ---

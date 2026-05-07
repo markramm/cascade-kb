@@ -48,7 +48,7 @@ sources:
   tier: 1
   outlet: House Committee on Oversight and Accountability
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Systematic Corruption
 ---

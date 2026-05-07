@@ -38,7 +38,7 @@ tags:
 importance: 9
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

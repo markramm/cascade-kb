@@ -38,7 +38,7 @@ sources:
   date: '2022-12-13'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Regulatory Capture
 ---

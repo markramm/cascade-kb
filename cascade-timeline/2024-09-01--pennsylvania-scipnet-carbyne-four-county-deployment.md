@@ -37,7 +37,7 @@ sources:
   outlet: Government Technology
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Intelligence Penetration
 - Surveillance Infrastructure
 ---

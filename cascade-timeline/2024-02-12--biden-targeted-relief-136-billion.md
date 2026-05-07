@@ -29,7 +29,7 @@ sources:
   outlet: NPR
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Systematic Corruption
 ---

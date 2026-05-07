@@ -61,7 +61,7 @@ status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2018-03-17--cambridge-analytica-facebook-scandal-systematic-digital-information-warfare-infrastructure-exposed'
 _merge_timestamp: '2025-09-05T23:46:55.899337'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 - Electoral Manipulation
 ---

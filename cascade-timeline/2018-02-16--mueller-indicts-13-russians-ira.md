@@ -35,7 +35,7 @@ sources:
   outlet: Office of the Director of National Intelligence
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 ---
 

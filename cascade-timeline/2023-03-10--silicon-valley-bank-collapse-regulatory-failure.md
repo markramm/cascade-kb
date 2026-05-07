@@ -39,7 +39,7 @@ sources:
   date: '2023-03-13'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Regulatory Capture
 ---

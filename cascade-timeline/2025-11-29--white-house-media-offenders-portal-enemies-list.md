@@ -74,7 +74,7 @@ sources:
   date: '2025-12-02'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Surveillance Infrastructure
 - Intelligence Penetration
 status: reported

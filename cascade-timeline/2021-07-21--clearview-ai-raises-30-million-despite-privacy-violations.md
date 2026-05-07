@@ -32,7 +32,7 @@ actors:
 - Peter Thiel
 - Naval Ravikant
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Regulatory Capture
 ---

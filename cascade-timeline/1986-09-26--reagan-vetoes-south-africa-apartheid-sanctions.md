@@ -33,7 +33,7 @@ sources:
 capture_lanes:
 - Labor Suppression
 - Legislative Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 President Reagan vetoes the Comprehensive Anti-Apartheid Act of 1986, calling economic sanctions against South Africa's white minority regime "economic warfare" and claiming they would hurt the impoverished Black majority. Reagan's veto represents the culmination of his administration's "constructive engagement" policy, which for six years had opposed meaningful pressure on the apartheid regime.

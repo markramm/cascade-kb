@@ -54,7 +54,7 @@ sources:
     tier: 1
 capture_lanes:
   - Doctrinal Articulation — Project 2025 Mandate for Leadership
-  - HHS / Family Office Chapter Implementation
+  - HHS and Family Office Chapter Implementation
   - Vance Personal Policy Footprint
 coverage: []
 ---

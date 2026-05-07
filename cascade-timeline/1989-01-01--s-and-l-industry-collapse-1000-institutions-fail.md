@@ -37,7 +37,7 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Financial Capture
 ---

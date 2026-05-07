@@ -75,7 +75,7 @@ sources:
   tier: 1
   outlet: U.S. House of Representatives
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Legislative Capture
 status: reported

@@ -28,7 +28,7 @@ actors:
 - Clearview AI
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 ---
 

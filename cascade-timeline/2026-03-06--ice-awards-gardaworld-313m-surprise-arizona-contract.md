@@ -39,6 +39,11 @@ sources:
     publisher: Human Rights Watch
     date: '2026-04-09'
     tier: 1
+coverage:
+  - url: https://theramm.substack.com/p/surprise
+    title: "Surprise"
+    date: '2026-05-07'
+    publication: theramm
 ---
 
 On March 6, 2026, ICE awarded GardaWorld Federal Services a $313.4 million contract to convert a 400,000-square-foot industrial building in Surprise, Arizona into an immigration detention facility with capacity for up to 1,500 people. The federal government had previously spent approximately $70 million acquiring the 418,000-square-foot warehouse near Dysart and Cactus roads. The contract was awarded through a Department of Defense procurement vehicle that bypassed normal competitive bidding. GardaWorld, the Virginia-based US subsidiary of a Canadian private security and armored-car conglomerate, has no prior direct detention-facility operating history — though it manages guards at the "Alligator Alcatraz" site in the Florida Everglades.

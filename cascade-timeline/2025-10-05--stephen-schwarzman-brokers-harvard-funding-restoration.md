@@ -32,7 +32,7 @@ tags:
 - billionaire-influence
 - systematic-corruption
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Executive Power Expansion
 status: reported

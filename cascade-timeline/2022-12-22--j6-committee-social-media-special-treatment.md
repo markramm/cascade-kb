@@ -6,8 +6,10 @@ importance: 6
 title: January 6th Committee Reveals Social Media Platforms Gave Special Treatment to Conservatives
 location: Washington DC
 actors:
-- Twitter/X
-- Facebook/Meta
+- Twitter
+- X
+- Facebook
+- Meta
 - House January 6th Committee
 - Eric Trump
 - Donald Trump Jr.

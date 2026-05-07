@@ -9,7 +9,8 @@ location: Washington, D.C.
 actors:
 - Saudi Arabia government
 - Trump International Hotel Washington
-- Qorvis/MSLGroup (Saudi lobbyists)
+- Qorvis
+- MSLGroup
 - Donald Trump
 tags:
 - foreign-payments

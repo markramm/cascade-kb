@@ -51,7 +51,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 coverage:
   - url: https://theramm.substack.com/p/trumps-campaign-to-decide-who-counts

@@ -43,7 +43,7 @@ patterns:
 notes: Comprehensive investigation documents systemic insider trading within Trump family cryptocurrency ventures
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 An extensive financial investigation revealed a sophisticated insider trading scheme involving the $MELANIA memecoin. 24 crypto wallets purchased $2.6 million in tokens just moments before the public launch, with one wallet tied to cryptocurrency entrepreneur Hayden Davis generating a $39 million profit within 24 hours. The coordinated trading raised serious ethical concerns about conflicts of interest in cryptocurrency ventures connected to the Trump family.

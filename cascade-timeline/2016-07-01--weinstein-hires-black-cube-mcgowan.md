@@ -4,13 +4,14 @@ actors:
 - Harvey Weinstein
 - Black Cube
 - Rose McGowan
-- Stella Penn Pechanac/Diana Filip
+- Stella Penn Pechanac
+- Diana Filip
 - K2 Intelligence
 - Kroll
 - David Boies
 - Ronan Farrow
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Intelligence Penetration
 date: 2016-07-01

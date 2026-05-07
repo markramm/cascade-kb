@@ -41,7 +41,7 @@ sources:
   date: '2025-05-07'
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Intelligence Penetration
 ---

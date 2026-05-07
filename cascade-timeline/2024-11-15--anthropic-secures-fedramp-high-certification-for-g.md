@@ -13,7 +13,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 date: 2024-11-15
 id: 2024-11-15--anthropic-secures-fedramp-high-certification-for-g
 importance: 9

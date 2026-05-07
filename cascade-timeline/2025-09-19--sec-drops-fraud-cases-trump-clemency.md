@@ -32,7 +32,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

@@ -33,7 +33,7 @@ sources:
   tier: 1
   outlet: C-SPAN
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 - Executive Power Expansion
 ---

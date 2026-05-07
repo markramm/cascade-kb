@@ -32,8 +32,8 @@ sources:
   outlet: Democracy Docket
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 status: reported
 ---
 

@@ -31,7 +31,7 @@ tags:
 - citizen-children
 - federal-housing
 capture_lanes:
-- Housing & Development Capture
+- Housing and Development Capture
 - Immigration System Capture
 - Democratic Backsliding
 ---

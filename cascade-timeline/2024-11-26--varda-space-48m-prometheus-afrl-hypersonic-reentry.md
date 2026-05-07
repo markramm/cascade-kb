@@ -61,7 +61,7 @@ sources:
   tier: 1
 capture_lanes:
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The Air Force Research Laboratory (AFRL) awarded Varda Space Industries a $48 million firm, fixed-price, indefinite-delivery/indefinite-quantity contract under the "Prometheus" program to test military payloads on reentry capsules at hypersonic speeds. The four-year contract, running through May 2028, leverages Varda's W-Series reentry capsules as low-cost, high-cadence testbeds for military reentry experiments -- capsules that reenter Earth's atmosphere at speeds exceeding Mach 25.

@@ -8,7 +8,8 @@ location: United States
 actors:
 - Tucker Carlson
 - Elon Musk
-- Twitter/X
+- Twitter
+- X
 - Fox News
 - Harmeet Dhillon
 tags:
@@ -45,7 +46,7 @@ sources:
 notes: No exclusive contract or special deal with Twitter/X. Operates as an independent creator. Forfeited $25M from Fox contract. Shows ideological alignment over financial incentive. Platform provided without formal agreement.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 ---
 Tucker Carlson announces he'll bring show to Twitter after Fox firing, but Elon Musk confirms "no deal of any kind," Carlson forgoes $25 million to break non-compete showing ideological commitment. Following his departure, Fox sent a cease-and-desist letter demanding Carlson stop posting videos, claiming contract violations. This move highlights the ongoing tension between traditional media platforms and emerging digital media spaces.

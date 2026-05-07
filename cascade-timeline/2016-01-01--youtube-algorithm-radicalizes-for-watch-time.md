@@ -6,7 +6,7 @@ description: By 2016, evidence emerged that YouTube's recommendation algorithm, 
 actors:
 - YouTube
 - Google
-- Guillaume Chaslot (former YouTube engineer/whistleblower)
+- Guillaume Chaslot
 - Zeynep Tufekci (researcher)
 importance: 9
 tags:
@@ -42,7 +42,7 @@ sources:
 status: confirmed
 id: 2016-01-01--youtube-algorithm-radicalizes-for-watch-time
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 - Corporate Capture
 capture_type: systematic_radicalization

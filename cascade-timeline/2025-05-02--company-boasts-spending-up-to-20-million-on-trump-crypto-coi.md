@@ -18,7 +18,7 @@ tags:
 - corruption
 capture_lanes:
 - Executive Power Expansion
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: monetizing_position
 patterns:
 - kleptocratic-capture

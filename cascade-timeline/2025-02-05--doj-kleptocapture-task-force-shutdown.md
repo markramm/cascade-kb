@@ -21,7 +21,7 @@ tags:
 - trump-administration
 - doj
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Executive Power Expansion
 - Judicial Capture
 sources:

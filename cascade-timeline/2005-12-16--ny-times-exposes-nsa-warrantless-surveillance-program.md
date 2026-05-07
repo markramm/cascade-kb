@@ -55,7 +55,7 @@ notes: This article marked a turning point in public awareness of domestic surve
 _merge_note: 'Enhanced with information from duplicate event: 2005-12-16--nyt-reveals-bush-nsa-warrantless-surveillance-prog'
 _merge_timestamp: '2025-09-05T23:46:55.899063'
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Regulatory Capture
 - Legislative Capture

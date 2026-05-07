@@ -30,7 +30,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 On October 20, 1977, *Rolling Stone* publishes Carl Bernstein's 25,000-word investigation "The CIA and the Media," the most comprehensive account of the American intelligence community's penetration of the press ever assembled. Two years after Watergate made his name, Bernstein turns the same investigative method on a system of media capture far more extensive than anything Nixon attempted.

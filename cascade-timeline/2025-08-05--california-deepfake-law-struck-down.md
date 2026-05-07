@@ -7,7 +7,8 @@ importance: 6
 location: California
 actors:
 - Federal Judge
-- X/Twitter
+- X
+- Twitter
 - California
 tags:
 - deepfake-regulation
@@ -41,7 +42,7 @@ sources:
   date: '2025-08-05'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Regulatory Capture
 - Financial Capture

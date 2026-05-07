@@ -34,7 +34,7 @@ sources:
 importance: 9
 significance: Demonstrated a systematic mechanism for coordinated propaganda dissemination across major media platforms, eliminating diverse perspectives and independent analysis through carefully choreographed messaging.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 - Intelligence Penetration
 tags:

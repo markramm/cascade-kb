@@ -37,7 +37,7 @@ sources:
   outlet: Slate
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 ---
 

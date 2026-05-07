@@ -31,7 +31,7 @@ sources:
   outlet: CNN
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

@@ -51,7 +51,7 @@ notes: Comprehensive documentation of cryptocurrency industry's political influe
 capture_lanes:
 - Executive Power Expansion
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Cryptocurrency firms donated an unprecedented $18 million to Trump's 2025 inaugural fund, with Ripple's $4.9 million being the second-largest contribution overall. Major companies including Coinbase, Kraken, Circle, and Robinhood participated, signaling their expectation of a crypto-friendly regulatory landscape and potential policy influence.

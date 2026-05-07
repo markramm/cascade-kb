@@ -22,7 +22,7 @@ tags:
 - regulatory-capture
 - international
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 sources:
 - title: The Global Climate Coalition

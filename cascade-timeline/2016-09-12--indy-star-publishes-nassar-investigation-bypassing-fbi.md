@@ -39,7 +39,7 @@ sources:
   date: '2018-12-10'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Intelligence Penetration
 ---

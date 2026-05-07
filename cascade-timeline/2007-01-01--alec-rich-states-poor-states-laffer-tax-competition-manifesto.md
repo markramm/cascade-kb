@@ -44,7 +44,7 @@ sources:
   tier: 2
 capture_lanes:
 - Financial Capture
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 ---
 

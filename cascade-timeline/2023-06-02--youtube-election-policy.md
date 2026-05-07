@@ -16,7 +16,7 @@ tags:
 - platforms
 capture_lanes:
 - Electoral Manipulation
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 citations:
 - url: 'https://support.google.com/youtube/answer/10835034'
   archived: 'https://web.archive.org/web/20240101000000/https://support.google.com/youtube/answer/10835034'

@@ -38,7 +38,7 @@ sources:
 capture_lanes:
 - Judicial Capture
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Justice Charles J. Tejada of the New York State Supreme Court vacated the convictions of all five men wrongfully imprisoned for the 1989 Central Park jogger case, ending one of the most notorious miscarriages of justice in American legal history. The exoneration came after Matias Reyes, a convicted serial rapist and murderer serving life in prison, confessed to committing the crime alone—a confession fully corroborated by DNA evidence that definitively excluded all five original defendants.

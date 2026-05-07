@@ -32,7 +32,7 @@ sources:
   date: '2024-08-06'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

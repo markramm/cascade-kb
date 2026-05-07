@@ -46,7 +46,7 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 Trump Media & Technology Group, the company controlling Trump's Truth Social platform, announced a partnership with Crypto.com — a Singapore-based cryptocurrency exchange — to launch a series of "Made in America" exchange-traded funds (ETFs) on March 24, 2025. Trump Media's stock price (ticker: DJT) surged approximately 12% on the news. The planned ETFs, developed through Trump Media's financial services subsidiary Truth.Fi, would invest in American-focused assets including domestic energy companies, domestic manufacturing, and cryptocurrency. Crypto.com would serve as a custodian and operational partner for the new financial products.
 

@@ -29,7 +29,7 @@ sources:
   date: '2024-04-24'
   tier: 3
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Military-Industrial Complex
 ---

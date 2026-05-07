@@ -42,7 +42,7 @@ sources:
   tier: 2
   outlet: Human Rights First
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Legislative Capture
 ---

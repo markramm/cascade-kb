@@ -46,7 +46,7 @@ sources:
   date: '2016-04-14'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 ---
 

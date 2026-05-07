@@ -48,7 +48,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial System Risk
-- Private Credit / Shadow Banking
+- Private Credit and Shadow Banking
 - AI Infrastructure Finance
 ---
 

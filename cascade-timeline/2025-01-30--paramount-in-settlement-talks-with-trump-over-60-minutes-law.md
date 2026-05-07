@@ -46,7 +46,7 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 - Executive Power Expansion
 ---

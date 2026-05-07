@@ -39,7 +39,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Immigration System Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 CNN reported that Elon Musk's DOGE is building a master database for immigration enforcement with Palantir's assistance, going beyond existing ICE systems to identify people with civil immigration violations by integrating data across federal agencies.

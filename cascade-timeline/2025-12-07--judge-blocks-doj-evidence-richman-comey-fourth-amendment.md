@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

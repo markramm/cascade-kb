@@ -46,7 +46,7 @@ status: confirmed
 capture_lanes:
 - Systematic Corruption
 - Legislative Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 ---
 

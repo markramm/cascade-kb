@@ -31,7 +31,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 On March 19, 2026, journalist Estefany Rodriguez was released from a federal detention facility in Louisiana after posting the $10,000 bond that an immigration judge had granted three days earlier. Rodriguez, a reporter for Nashville Noticias, had been held in ICE custody for over two weeks following her warrantless detention on March 4 while covering immigration enforcement operations in Nashville.

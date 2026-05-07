@@ -31,8 +31,8 @@ sources:
   outlet: NBC News
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- Digital and Tech Capture
+- Media Capture and Control
 - Surveillance Infrastructure
 ---
 

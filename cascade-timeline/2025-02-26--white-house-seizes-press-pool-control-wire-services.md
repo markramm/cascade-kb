@@ -22,7 +22,7 @@ tags:
 - media-control
 - authoritarian-tactics
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 status: confirmed
 sources:

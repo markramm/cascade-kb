@@ -38,7 +38,7 @@ sources:
   outlet: CNBC
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 - Systematic Corruption
 status: reported
 ---

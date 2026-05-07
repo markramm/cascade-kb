@@ -11,7 +11,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: regulatory_capture
 connections:
 - SpaceX federal contracts

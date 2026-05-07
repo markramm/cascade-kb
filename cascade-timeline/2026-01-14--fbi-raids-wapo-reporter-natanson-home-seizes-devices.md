@@ -35,8 +35,8 @@ sources:
   tier: 2
 capture_lanes:
 - Surveillance Infrastructure
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 ---
 
 In an unprecedented escalation against press freedom, FBI agents executed a search warrant at the Alexandria, Virginia home of Washington Post reporter Hannah Natanson on January 14, 2026, seizing two phones, two laptops, a Garmin watch, a portable hard drive, and a recording device. This marks the first time in U.S. history that the government has searched a reporter's home in a national security media leak investigation.

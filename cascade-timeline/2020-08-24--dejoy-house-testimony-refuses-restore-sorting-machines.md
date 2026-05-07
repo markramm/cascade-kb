@@ -41,7 +41,7 @@ sources:
   outlet: CNN
 capture_lanes:
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 ---
 

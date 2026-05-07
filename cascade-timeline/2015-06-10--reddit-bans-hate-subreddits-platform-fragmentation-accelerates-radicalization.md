@@ -23,8 +23,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- Digital and Tech Capture
+- Media Capture and Control
 ---
 
 On June 10, 2015, Reddit CEO Ellen Pao announces the ban of five subreddits under a new anti-harassment policy, including r/FatPeopleHate (150,000+ subscribers), r/HamPlanetHatred, r/Transfags, r/NeoFAGs, and r/ShitN***ersSay. The backlash is immediate and severe: users flood Reddit's front page with anti-Pao content, new hate subreddits spawn faster than moderators can remove them, and thousands of users migrate to Voat — a Reddit clone marketed as a "free speech" platform with no content moderation.

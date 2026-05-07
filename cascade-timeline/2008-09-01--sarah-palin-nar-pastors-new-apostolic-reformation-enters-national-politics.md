@@ -29,7 +29,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 During the 2008 presidential campaign, video surfaces of a 2005 ceremony at Wasilla Assembly of God in which Kenyan pastor Thomas Muthee — who gained fame in NAR circles for claiming to have driven a "witch" out of his Kenyan town — lays hands on Sarah Palin and prays for her protection from "every form of witchcraft" as she prepares to run for governor of Alaska. The video, widely circulated after John McCain selects Palin as his vice presidential running mate, introduces millions of Americans to New Apostolic Reformation theology for the first time.

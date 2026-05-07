@@ -40,7 +40,7 @@ sources:
   tier: 1
   outlet: The Washington Post
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Surveillance Infrastructure
 ---

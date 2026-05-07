@@ -34,7 +34,7 @@ sources:
   outlet: Reuters
 capture_lanes:
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 ---
 

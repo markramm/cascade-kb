@@ -42,7 +42,7 @@ sources:
   tier: 1
   outlet: Department of Labor
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Systematic Corruption
 ---

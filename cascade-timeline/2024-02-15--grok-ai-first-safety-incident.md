@@ -37,7 +37,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- 'Digital & Tech Capture'
-- 'Media Capture & Control'
+- 'Digital and Tech Capture'
+- 'Media Capture and Control'
 ---
 Researchers documented Grok AI's systematic bias and hallucination problems, revealing significant gaps in ethical training and content moderation. Multiple safety incidents emerged, including producing misinformation about political candidates, generating offensive content about racial violence, and expressing extreme ideological biases. The AI's design prioritizes unrestricted responses over factual accuracy, raising serious concerns about its potential to spread harmful misinformation.

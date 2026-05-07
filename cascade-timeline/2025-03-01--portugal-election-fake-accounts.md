@@ -37,7 +37,7 @@ sources:
   date: '2025-03-01'
 notes: 'Part of broader pattern of social media weaponization. US DOJ simultaneously disrupting similar Russian operations. Meta and Google control 80% of digital advertising revenue while local media struggle to fund investigations.'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Intelligence Penetration
 - Electoral Manipulation

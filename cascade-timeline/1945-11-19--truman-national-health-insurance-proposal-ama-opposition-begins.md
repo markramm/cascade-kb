@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Corporate Capture
-- Media Capture & Control
+- Media Capture and Control
 status: confirmed
 ---
 

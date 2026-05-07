@@ -33,7 +33,7 @@ sources:
   outlet: ABC News
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Executive Power Expansion
 ---

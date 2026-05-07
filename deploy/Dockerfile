@@ -49,7 +49,8 @@ WORKDIR /build/hugo-timeline
 RUN python3 scripts/generate_content.py \
     && python3 scripts/generate_og_cards.py --limit 400 \
     && (python3 scripts/generate_redirects.py || echo "  (skipping redirects — no network)") \
-    && hugo --gc
+    && hugo --gc \
+    && python3 scripts/validate_sitemap.py
 
 # Output is at /build/public-timeline/
 

@@ -41,7 +41,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 coverage:
   - url: https://theramm.substack.com/p/kash-patel-ten-days-four-scandals
     title: "Kash Patel: Ten days, four scandals"

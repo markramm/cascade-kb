@@ -42,7 +42,7 @@ sources:
   date: '2024-01-01'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Judicial Capture
 - Financial Capture
 ---

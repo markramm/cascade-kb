@@ -48,7 +48,7 @@ patterns:
 - monopolization
 notes: 'This merger represents dangerous media consolidation that threatens local journalism and democratic discourse. When one company controls TV stations reaching 80% of American households, it gains unprecedented power to shape public opinion and political narratives. The Trump administration''s explicit creation of a "regulatory-friendly environment" shows how deregulation serves media monopolization. Combined with the Gray Media acquisitions, we''re seeing rapid consolidation of local news into a few corporate hands, reducing diverse perspectives and enabling coordinated propaganda. Local news, trusted by communities, becomes a vector for centralized messaging.'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Legislative Capture
 ---
 Nexstar Media Group announced a $6.2 billion acquisition of Tegna Inc. in August 2025, creating a broadcasting giant that would control television stations reaching approximately 80% of U.S. television households. Broadcasting & Cable and Variety reported on the deal, noting that it represented the acceleration of local broadcast television consolidation under the Trump administration's FCC, which had created what industry observers described as a "regulatory-friendly environment" for media mergers following Biden-era restrictions on broadcast consolidation. The merger came shortly after the FCC's approval of the Skydance-Paramount deal and was part of a broader wave of broadcast consolidation.

@@ -45,7 +45,7 @@ status: confirmed
 id: 2017-03-20--youtube-ads-on-terrorism-hate-content
 capture_lanes:
 - Corporate Capture
-- Media Capture & Control
+- Media Capture and Control
 capture_type: corporate_negligence
 patterns:
 - monetizing-extremism

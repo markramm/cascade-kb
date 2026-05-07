@@ -21,7 +21,7 @@ tags:
 - immigration-enforcement
 - press-arrests
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Civil Rights Suppression
 status: confirmed
 sources:

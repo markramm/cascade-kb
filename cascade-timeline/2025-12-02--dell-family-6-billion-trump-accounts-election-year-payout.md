@@ -40,7 +40,7 @@ sources:
 capture_lanes:
 - Financial Capture
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

@@ -34,7 +34,7 @@ actors:
 capture_lanes:
 - Civil Rights Suppression
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

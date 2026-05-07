@@ -46,7 +46,7 @@ sources:
   tier: 2
   outlet: National Catholic Reporter
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

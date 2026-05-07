@@ -2,9 +2,10 @@
 type: timeline_event
 actors:
 - Elon Musk
-- X/Twitter
+- X
+- Twitter
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 citations:
 - url: https://x.com/elonmusk/status/1640490130543771650
   archived: https://nitter.net/elonmusk/status/1640490130543771650

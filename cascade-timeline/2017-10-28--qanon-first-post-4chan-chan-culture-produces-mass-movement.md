@@ -26,8 +26,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - Democratic Erosion
 ---
 

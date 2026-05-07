@@ -6,7 +6,7 @@ actors:
 - Leila Rouhi
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 date: 2020-09-24
 id: 2020-09-24--ring-always-home-cam-drone-announcement
 importance: 7

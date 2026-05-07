@@ -41,7 +41,7 @@ sources:
   outlet: U.S. News & World Report
 capture_lanes:
 - Financial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

@@ -45,7 +45,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Mark Zuckerberg conducts secret, unreported meetings with Donald Trump, Jared Kushner, and Facebook board member Peter Thiel at the White House to negotiate content moderation policies and regulatory pressure. According to later reporting, Zuckerberg promises to avoid fact-checking political speech in exchange for reduced regulation, demonstrating direct political capture at the highest level.

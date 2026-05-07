@@ -35,7 +35,7 @@ sources:
   date: '2020-05-01'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 - Regulatory Capture
 - Legislative Capture

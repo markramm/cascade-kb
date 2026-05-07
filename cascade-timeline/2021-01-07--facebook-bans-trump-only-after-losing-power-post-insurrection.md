@@ -43,7 +43,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 - Corporate Capture
 ---
 

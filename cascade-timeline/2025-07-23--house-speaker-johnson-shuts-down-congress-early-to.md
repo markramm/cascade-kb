@@ -32,7 +32,7 @@ sources:
   date: '2025-07-23'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 ---
 

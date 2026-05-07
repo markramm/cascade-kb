@@ -29,7 +29,7 @@ tags:
 - monopolization
 - tech-consolidation
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

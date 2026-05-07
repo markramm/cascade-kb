@@ -41,7 +41,7 @@ status: confirmed
 id: 2025-01-15--fda-cavazzoni-pfizer-revolving-door
 priority_id: RT-COMPLETED-PATTERN-20250906-02
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Financial Capture
 - Federal Workforce Capture

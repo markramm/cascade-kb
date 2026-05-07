@@ -44,7 +44,7 @@ patterns:
 - kleptocratic-capture
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Judicial Capture
 ---
 Meta CEO Mark Zuckerberg lobbied the Trump administration in late March 2025 to intervene on Meta's behalf in European Union regulatory proceedings that threatened to require Facebook and Instagram to offer ad-free subscription options and restrict Meta's ability to monetize user data for targeted advertising. The Wall Street Journal reported that Zuckerberg was seeking Trump's help ahead of an anticipated EU ruling under the Digital Markets Act (DMA) that could cost Meta billions in annual revenue and fundamentally change its advertising business model in Europe. Fortune had previously reported that Meta had warned EU regulators that it would "run to Trump" whenever it felt it was being unfairly treated.

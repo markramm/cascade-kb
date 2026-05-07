@@ -18,7 +18,7 @@ tags:
 - ai-surveillance
 - tech-authoritarianism
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 sources:
 - title: ICE to Use ImmigrationOS by Palantir, a New AI System, to Track Immigrants' Movements

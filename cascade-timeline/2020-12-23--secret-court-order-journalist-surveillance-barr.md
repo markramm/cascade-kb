@@ -38,7 +38,7 @@ tags:
 status: confirmed
 id: 2020-12-23--secret-court-order-journalist-surveillance-barr
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Judicial Capture
 - Regulatory Capture
 - Intelligence Penetration

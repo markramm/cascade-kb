@@ -42,7 +42,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

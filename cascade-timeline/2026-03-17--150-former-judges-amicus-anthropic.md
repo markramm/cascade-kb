@@ -26,7 +26,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Judicial Capture
 ---
 

@@ -30,7 +30,7 @@ tags:
 - journalist-safety
 - retaliation
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Immigration System Capture
 - Democratic Backsliding
 ---

@@ -35,8 +35,8 @@ sources:
   outlet: Media Matters for America
 status: confirmed
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - International Kleptocracy
 ---
 

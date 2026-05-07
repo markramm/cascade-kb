@@ -33,7 +33,7 @@ sources:
   outlet: PBS Frontline
 capture_lanes:
 - Judicial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

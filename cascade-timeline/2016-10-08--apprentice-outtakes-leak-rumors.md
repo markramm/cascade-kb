@@ -29,7 +29,7 @@ sources:
   tier: 1
   outlet: Variety
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Civil Rights Suppression
 - Intelligence Penetration
 actors:

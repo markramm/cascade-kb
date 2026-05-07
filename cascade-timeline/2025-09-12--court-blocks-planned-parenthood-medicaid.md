@@ -25,7 +25,7 @@ actors:
 - Planned Parenthood
 - Federal Appeals Court
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Judicial Capture
 status: reported
 ---

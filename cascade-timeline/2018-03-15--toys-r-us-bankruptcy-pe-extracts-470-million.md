@@ -34,7 +34,7 @@ sources:
   tier: 2
 capture_lanes:
 - Labor Suppression
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 ---
 

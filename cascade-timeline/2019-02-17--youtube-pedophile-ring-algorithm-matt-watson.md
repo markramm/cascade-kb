@@ -46,7 +46,7 @@ sources:
 status: confirmed
 id: 2019-02-17--youtube-pedophile-ring-algorithm-matt-watson
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Corporate Capture
 capture_type: child_exploitation_infrastructure
 patterns:

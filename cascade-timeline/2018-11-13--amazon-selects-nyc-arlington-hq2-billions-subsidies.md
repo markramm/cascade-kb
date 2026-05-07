@@ -33,7 +33,7 @@ sources:
   tier: 1
   outlet: Good Jobs First
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Intelligence Penetration
 ---

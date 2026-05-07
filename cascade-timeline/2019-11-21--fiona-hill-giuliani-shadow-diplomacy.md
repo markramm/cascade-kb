@@ -35,7 +35,7 @@ sources:
   tier: 1
   outlet: C-SPAN
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 - Executive Power Expansion
 ---

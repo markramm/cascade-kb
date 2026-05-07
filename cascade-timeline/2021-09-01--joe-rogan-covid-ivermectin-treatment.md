@@ -23,7 +23,7 @@ tags:
 - pandemic-response
 capture_lanes:
 - Systematic Corruption
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 sources:
 - outlet: CNN
   title: 'Joe Rogan says he has COVID, took ivermectin'

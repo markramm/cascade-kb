@@ -30,7 +30,7 @@ sources:
   tier: 2
   outlet: Chicago Magazine
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---

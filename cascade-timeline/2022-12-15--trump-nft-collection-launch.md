@@ -40,7 +40,7 @@ id: 2022-12-15--trump-nft-collection-launch
 priority_id: RT-EXP-086A8162-nft-pump-and-dump-networks
 capture_lanes:
 - Financial Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Surveillance Infrastructure
 importance: 4
 actors:

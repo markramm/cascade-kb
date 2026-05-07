@@ -20,7 +20,7 @@ tags:
 - democracy
 capture_lanes:
 - Financial Capture
-- Media Capture & Control
+- Media Capture and Control
 location: United States
 sources:
 - title: 'Democracy in Peril: Twenty Years of Media Consolidation'

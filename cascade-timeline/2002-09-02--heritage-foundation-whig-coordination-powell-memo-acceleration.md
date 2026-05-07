@@ -44,7 +44,7 @@ sources:
   date: '2004-03-20'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Executive Power Expansion
 ---

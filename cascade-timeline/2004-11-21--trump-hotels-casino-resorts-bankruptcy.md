@@ -30,7 +30,7 @@ sources:
   tier: 1
   outlet: University of Tennessee College of Law
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Corporate Capture
 - Financial Capture
 actors:

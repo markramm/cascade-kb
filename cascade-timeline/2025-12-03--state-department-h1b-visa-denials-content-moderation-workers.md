@@ -49,7 +49,7 @@ sources:
   tier: 2
   outlet: Al Jazeera
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Environmental Capture
 - Labor Suppression
 status: reported

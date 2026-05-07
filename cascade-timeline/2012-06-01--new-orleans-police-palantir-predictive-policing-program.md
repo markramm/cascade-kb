@@ -34,7 +34,7 @@ sources:
   tier: 1
   outlet: Privacy International
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---

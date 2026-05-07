@@ -15,7 +15,7 @@ tags:
 capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
-- Media Capture & Control
+- Media Capture and Control
 status: confirmed
 sources:
 - title: Elon Musk claims Trump appears in Epstein files, post deleted after 10M views

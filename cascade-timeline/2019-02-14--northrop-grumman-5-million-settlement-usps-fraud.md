@@ -34,7 +34,7 @@ sources:
   tier: 2
   outlet: Good Jobs First
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Military-Industrial Complex
 ---

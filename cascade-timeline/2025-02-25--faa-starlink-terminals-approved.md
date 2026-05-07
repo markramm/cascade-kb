@@ -8,7 +8,8 @@ location: Washington, DC
 actors:
 - Federal Aviation Administration
 - Elon Musk
-- SpaceX/Starlink
+- SpaceX
+- Starlink
 - Department of Government Efficiency
 - Verizon
 tags:

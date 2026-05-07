@@ -28,7 +28,7 @@ sources:
   tier: 1
   outlet: NPR
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Executive Power Expansion
 status: reported

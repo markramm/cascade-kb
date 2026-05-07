@@ -38,7 +38,7 @@ actors:
 - Marco Rubio
 capture_lanes:
 - Military-Industrial Complex
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 coverage:
 - url: "https://theramm.substack.com/p/venezuela-fits-the-pattern"
   title: "Venezuela Fits the Pattern"

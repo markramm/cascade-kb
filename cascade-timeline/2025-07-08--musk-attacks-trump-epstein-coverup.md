@@ -8,7 +8,8 @@ location: United States
 actors:
 - Elon Musk
 - Donald Trump
-- X/Twitter
+- X
+- Twitter
 - Department of Justice
 tags:
 - musk-trump-feud
@@ -20,7 +21,7 @@ tags:
 capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 sources:
 - title: 'It''s a cover up: Musk floods X with posts attacking Trump over Epstein'
   url: 'https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343'

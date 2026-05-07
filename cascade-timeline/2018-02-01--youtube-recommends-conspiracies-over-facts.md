@@ -45,7 +45,7 @@ sources:
 status: confirmed
 id: 2018-02-01--youtube-recommends-conspiracies-over-facts
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 capture_type: systematic_misinformation
 patterns:

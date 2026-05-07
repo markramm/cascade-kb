@@ -26,7 +26,7 @@ actors:
 - National Security Agency
 - Marco Rubio
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Surveillance Infrastructure
 - Intelligence Penetration
 status: reported

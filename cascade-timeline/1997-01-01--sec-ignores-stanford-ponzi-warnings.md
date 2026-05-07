@@ -35,7 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

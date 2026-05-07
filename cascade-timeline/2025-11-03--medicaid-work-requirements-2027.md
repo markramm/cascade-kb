@@ -26,7 +26,7 @@ actors:
 - Trump
 - U.S. Department of Health and Human Services
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Legislative Capture
 status: reported

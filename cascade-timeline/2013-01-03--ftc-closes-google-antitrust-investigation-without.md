@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 - Executive Power Expansion
-- Digital & Tech Capture
+- Digital and Tech Capture
 capture_type: institutional_manipulation
 patterns:
 - corporate-political-infrastructure

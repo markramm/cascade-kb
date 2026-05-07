@@ -45,7 +45,7 @@ tags:
 - cheney-administration
 - intelligence-manipulation
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 - Democratic Erosion
 category: intelligence_corruption

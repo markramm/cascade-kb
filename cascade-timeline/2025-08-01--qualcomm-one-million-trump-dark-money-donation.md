@@ -28,7 +28,7 @@ sources:
   tier: 2
   outlet: OpenSecrets
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Corporate Capture
 ---

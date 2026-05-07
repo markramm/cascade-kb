@@ -27,7 +27,7 @@ sources:
   tier: 2
   outlet: NLIHC
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 - Systematic Corruption
 status: reported

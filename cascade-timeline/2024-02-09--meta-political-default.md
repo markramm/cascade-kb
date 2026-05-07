@@ -20,7 +20,7 @@ tags:
 - content-moderation
 capture_lanes:
 - Electoral Manipulation
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 citations:
 - 'https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads'
 - 'https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds'

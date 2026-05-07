@@ -43,7 +43,7 @@ tags:
 - iraq-war
 - bush-administration
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Executive Power Expansion
 status: confirmed

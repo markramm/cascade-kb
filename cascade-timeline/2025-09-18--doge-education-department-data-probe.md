@@ -29,7 +29,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

@@ -27,7 +27,7 @@ tags:
 - constitutional-crisis
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

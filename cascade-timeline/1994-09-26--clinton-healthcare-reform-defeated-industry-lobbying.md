@@ -41,7 +41,7 @@ sources:
 id: 1994-09-26--clinton-healthcare-reform-defeated-industry-lobbying
 capture_lanes:
 - Legislative Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

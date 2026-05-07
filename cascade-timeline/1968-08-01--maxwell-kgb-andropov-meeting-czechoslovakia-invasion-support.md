@@ -22,7 +22,7 @@ tags:
 - yuri-andropov
 - parliamentary-influence
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 sources:
 - title: Robert Maxwell & the KGB

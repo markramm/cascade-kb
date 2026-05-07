@@ -36,7 +36,7 @@ sources:
   outlet: Federal News Network
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 ---
 

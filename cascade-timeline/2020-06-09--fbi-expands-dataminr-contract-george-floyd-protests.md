@@ -39,7 +39,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure
-- Media Capture & Control
+- Media Capture and Control
 - Civil Rights Suppression
 ---
 

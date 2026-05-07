@@ -18,7 +18,7 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Financial Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: monetizing_position
 sources:
 - date: '2025-04-28'

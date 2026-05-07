@@ -35,7 +35,7 @@ sources:
   outlet: ProPublica
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Systematic Corruption
 - Intelligence Penetration
 ---

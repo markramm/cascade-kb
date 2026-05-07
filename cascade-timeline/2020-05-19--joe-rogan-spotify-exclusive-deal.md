@@ -46,7 +46,7 @@ sources:
 notes: Deal made JRE exclusive to Spotify. Created financial dependency. Platform control over most influential podcast. Beginning of content shift toward controversy.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Intelligence Penetration
 ---

@@ -5,7 +5,7 @@ actors:
 - Amazon
 - Federal Trade Commission
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 - Regulatory Capture
 date: 2023-05-31

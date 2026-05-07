@@ -37,7 +37,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 notes: Systematic propaganda technique used to manipulate public perception of Iraq War threat
 ---
 

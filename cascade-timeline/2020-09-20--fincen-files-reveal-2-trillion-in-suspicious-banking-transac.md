@@ -49,7 +49,7 @@ status: confirmed
 id: 2020-09-20--fincen-files-reveal-2-trillion-in-suspicious-banking-transac
 priority_id: RT-COMPLETED-PATTERN-20250906-35
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration

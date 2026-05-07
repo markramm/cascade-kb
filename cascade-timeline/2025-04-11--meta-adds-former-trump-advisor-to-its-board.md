@@ -6,7 +6,7 @@ actors:
 - Dina Powell McCormick
 - Mark Zuckerberg
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Democratic Erosion
 capture_type: regulatory_capture

@@ -28,7 +28,7 @@ sources:
   tier: 2
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 tags:
 - whig

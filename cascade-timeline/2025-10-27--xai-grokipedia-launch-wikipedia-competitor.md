@@ -34,8 +34,8 @@ tags:
 - xai
 title: Elon Musk's xAI Launches Grokipedia to Challenge Wikipedia with AI-Generated Content
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - International Kleptocracy
 status: reported
 ---

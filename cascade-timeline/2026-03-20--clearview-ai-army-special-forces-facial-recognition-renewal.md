@@ -42,7 +42,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The U.S. Army's 1st Special Forces Command (Airborne) awards Clearview AI a renewed contract for five facial recognition software licenses, with a base period running from March 20, 2026, to March 19, 2027, and options extending through March 2030. The Mission and Installation Contracting Command at Fort Bragg issued the procurement under Solicitation W9124726QA005 as a sole-source award, characterizing Clearview AI as the only provider capable of meeting the command's requirements.

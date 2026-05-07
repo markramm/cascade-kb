@@ -33,7 +33,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - Systematic Corruption
 ---
 

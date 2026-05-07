@@ -38,7 +38,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 ---
 Following Rick Santelli's CNBC rant criticizing Obama's mortgage bailout, the Koch brothers' network immediately mobilized to create the Tea Party movement. Within hours, Americans for Prosperity registered TaxDayTeaParty.com, while other conservative organizations quickly followed. Peer-reviewed research by Skocpol and Williamson confirms this was a coordinated effort by billionaire-funded groups like Americans for Prosperity and FreedomWorks to simulate a grassroots uprising.

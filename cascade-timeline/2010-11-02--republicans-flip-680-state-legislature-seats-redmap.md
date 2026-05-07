@@ -38,7 +38,7 @@ sources:
 capture_lanes:
 - Electoral Manipulation
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Republicans achieve historic state legislative gains in the 2010 midterm elections, flipping a net 680 state legislative seats—breaking the previous record of 628 seats set by Democrats in the post-Watergate elections of 1974. The gains give Republicans control of redistricting in key states ahead of the 2011 redistricting cycle, fulfilling the strategic objectives of the REDMAP project.

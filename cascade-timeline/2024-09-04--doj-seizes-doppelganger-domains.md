@@ -33,7 +33,7 @@ sources:
   outlet: DFRLab
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Surveillance Infrastructure
 ---

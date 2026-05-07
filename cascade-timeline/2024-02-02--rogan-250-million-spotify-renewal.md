@@ -50,6 +50,6 @@ sources:
 notes: 'Guaranteed minimum plus ad revenue share. Most popular podcast globally 3 years running. Shows Spotify''s continued investment despite controversies. Total Rogan earnings from Spotify now $450M+. Platform dependency creates content shift. New deal removes previous exclusivity, allowing distribution on multiple platforms including YouTube, Apple Podcasts, and others.'
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 ---
 Spotify renews Joe Rogan deal worth up to $250 million, but removes exclusivity allowing distribution on Apple, YouTube, marking shift in podcast landscape and cementing Rogan's influence. The new multiyear deal represents a strategic pivot for Spotify, giving up podcast exclusivity in favor of broader distribution.

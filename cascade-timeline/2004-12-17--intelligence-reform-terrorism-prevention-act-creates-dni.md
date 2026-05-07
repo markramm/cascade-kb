@@ -8,7 +8,7 @@ status: confirmed
 actors:
 - George W. Bush
 - U.S. Congress
-- 9/11 Commission
+- 9-11 Commission
 - Office of the Director of National Intelligence
 tags:
 - intelligence-privatization

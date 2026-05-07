@@ -5,7 +5,7 @@ actors:
 - Mark Zuckerberg
 - Meta Corporation
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Corporate Capture
 capture_type: monetizing_position
 connections:

@@ -31,7 +31,7 @@ sources:
   outlet: The Daily Beast
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Systematic Corruption
 ---

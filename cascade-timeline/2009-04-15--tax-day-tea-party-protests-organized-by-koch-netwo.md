@@ -10,7 +10,7 @@ actors:
 - Dick Armey
 capture_lanes:
 - Financial Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 date: 2009-04-15
 id: 2009-04-15--tax-day-tea-party-protests-organized-by-koch-netwo
 importance: 8

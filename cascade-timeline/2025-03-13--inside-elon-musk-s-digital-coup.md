@@ -41,7 +41,7 @@ patterns:
 notes: Musk appointed as a 'special government employee' with significant yet nebulous authority, raising concerns about conflict of interest and democratic oversight.
 capture_lanes:
 - Financial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Elon Musk, operating through the Department of Government Efficiency (DOGE), gained unprecedented access to federal systems, including Treasury and Personnel Management databases, enabling radical restructuring and potential conflicts of interest.

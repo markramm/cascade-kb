@@ -38,7 +38,7 @@ sources:
   date: '2019-11-07'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 - Executive Power Expansion
 ---

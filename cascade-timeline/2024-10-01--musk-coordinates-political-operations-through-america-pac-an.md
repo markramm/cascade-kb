@@ -17,7 +17,7 @@ tags:
 - campaign-finance
 - media-capture
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Electoral Manipulation
 sources:
 - outlet: NPR

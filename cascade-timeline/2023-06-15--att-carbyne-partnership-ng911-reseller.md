@@ -36,7 +36,7 @@ sources:
   outlet: Urgent Communications
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Surveillance Infrastructure
 ---

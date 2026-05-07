@@ -30,6 +30,9 @@ tags:
 - warehouse-detention
 - wexmac-titus
 - 52-lawmakers
+coverage:
+- url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
+  title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
 sources:
 - title: "Warren, Raskin Lead 45+ Lawmakers in Investigating Contractors, Real Estate Firms Involved in Trump's Expansion of Inhumane Warehouse Detention Centers"
   url: https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers

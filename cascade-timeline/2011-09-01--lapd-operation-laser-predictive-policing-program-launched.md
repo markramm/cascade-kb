@@ -33,7 +33,7 @@ sources:
   tier: 2
   outlet: BuzzFeed News
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 - Surveillance Infrastructure
 ---

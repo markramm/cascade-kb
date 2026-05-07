@@ -47,7 +47,7 @@ notes: High-priority kleptocratic event from comprehensive timeline.
 _merge_note: 'Enhanced with information from duplicate event: 2025-05-09--large-investors-increased-stake-in-trump-media-by-'
 _merge_timestamp: '2025-09-05T23:46:55.898135'
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Executive Power Expansion
 ---
 Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president

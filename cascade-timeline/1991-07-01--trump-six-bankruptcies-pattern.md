@@ -32,7 +32,7 @@ sources:
   outlet: U.S. House Committee on the Judiciary
 capture_lanes:
 - Systematic Corruption
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Financial Capture
 actors:
 - Donald Trump

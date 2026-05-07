@@ -26,7 +26,7 @@ actors:
 - James Comer
 - Jeffrey Epstein
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

@@ -35,7 +35,7 @@ tags:
 capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 status: confirmed
 ---
 

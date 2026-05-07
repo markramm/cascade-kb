@@ -31,7 +31,7 @@ actors:
 - Yemeni civilians
 - Saudi Arabia
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Labor Suppression
 ---

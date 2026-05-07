@@ -20,8 +20,8 @@ tags:
 - technological-governance
 capture_lanes:
 - Regulatory Capture
-- 'Digital & Tech Capture'
-- 'Media Capture & Control'
+- 'Digital and Tech Capture'
+- 'Media Capture and Control'
 sources:
 - outlet: TechCrunch
   title: 'xAI''s promised safety report is MIA'

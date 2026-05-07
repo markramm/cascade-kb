@@ -51,7 +51,7 @@ patterns:
 - pay-to-play
 - obstruction-of-justice
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Crown Prince Mohammed bin Salman's entourage booked approximately 500 rooms at 

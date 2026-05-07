@@ -32,7 +32,7 @@ sources:
   outlet: Bridge Michigan
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Environmental Capture
 ---
 

@@ -40,7 +40,7 @@ sources:
   outlet: NPR
 capture_lanes:
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 ---
 

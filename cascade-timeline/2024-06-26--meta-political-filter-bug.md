@@ -13,7 +13,7 @@ tags:
 - platform-policy
 - media-control
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 citations:
 - 'https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads'
 - 'https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html'

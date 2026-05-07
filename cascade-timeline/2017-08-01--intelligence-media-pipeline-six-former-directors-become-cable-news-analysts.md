@@ -12,7 +12,7 @@ actors:
 - Leon Panetta
 - Andrew McCabe
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 - Regulatory Capture
 status: confirmed

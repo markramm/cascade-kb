@@ -37,7 +37,7 @@ sources:
 notes: Christmas Eve debate over skilled immigration exploded on social media. Musk and tech faction defended H-1B expansion for innovation. Bannon and Loomer represented America First populist opposition demanding immigration restriction. Exposed fundamental tension between tech-capitalist and economic nationalist wings of MAGA coalition. Vivek Ramaswamy sided with Musk, highlighting immigrant success stories in tech.
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 ---
 

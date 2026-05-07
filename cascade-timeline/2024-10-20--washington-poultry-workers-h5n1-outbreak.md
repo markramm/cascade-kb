@@ -32,7 +32,7 @@ sources:
   tier: 1
   outlet: CIDRAP
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Surveillance Infrastructure
 ---

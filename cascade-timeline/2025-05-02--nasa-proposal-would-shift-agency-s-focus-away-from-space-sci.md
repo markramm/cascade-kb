@@ -9,7 +9,7 @@ actors:
 capture_lanes:
 - Systematic Corruption
 - Corporate Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 capture_type: regulatory_capture
 connections:
 - 'Elon Musk''s SpaceX interests'

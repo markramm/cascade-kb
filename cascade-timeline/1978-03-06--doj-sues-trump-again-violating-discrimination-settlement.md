@@ -33,7 +33,7 @@ sources:
   outlet: TIME
 capture_lanes:
 - Judicial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Civil Rights Suppression
 ---
 

@@ -27,7 +27,7 @@ sources:
   date: '2024-08-08'
   tier: 3
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 ---
 

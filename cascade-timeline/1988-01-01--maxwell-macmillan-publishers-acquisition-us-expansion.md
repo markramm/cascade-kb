@@ -20,7 +20,7 @@ tags:
 - media-acquisition
 - corporate-debt
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 sources:
 - title: 'From wooden shack to global media magnate: The rise and fall of Robert Maxwell'

@@ -41,7 +41,7 @@ sources:
   tier: 1
 id: 2004-11-18--fda-whistleblower-david-graham-testifies-on-vioxx-cover-up-b
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 ---

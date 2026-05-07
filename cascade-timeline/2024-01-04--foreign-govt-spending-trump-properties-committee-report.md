@@ -14,7 +14,8 @@ notes: 'Show both: (1) the official congressional minority report and executive 
 status: confirmed
 actors:
 - U.S. House Committee on Oversight (Minority Staff)
-- Donald J. Trump / Trump Organization
+- Donald J. Trump
+- Trump Organization
 - Citizens for Responsibility and Ethics in Washington
 tags:
 - emoluments

@@ -46,6 +46,10 @@ coverage:
     title: "Detention Pipeline: The May Inflection"
     date: '2026-05-05'
     publication: theramm
+  - url: https://theramm.substack.com/p/surprise
+    title: "Surprise"
+    date: '2026-05-07'
+    publication: theramm
 ---
 
 On July 8, 2025, Naval Supply Systems Command activated WEXMAC 2.2 TITUS — the "Worldwide Expeditionary Multiple Award Contract, Territorial Integrity of the United States" — opening the Navy's $10 billion logistics contracting vehicle, originally designed for forward operating bases in Afghanistan, Sudan, and the Russia-Ukraine conflict, as the primary procurement channel for domestic immigration detention buildout. The TITUS modification added a performance work statement covering "infrastructure, staffing, services, and/or supplies necessary to provide safe and secure confinement for aliens in the administrative custody of Department of Homeland Security (DHS) and U.S. Immigration and Customs Enforcement (ICE)."

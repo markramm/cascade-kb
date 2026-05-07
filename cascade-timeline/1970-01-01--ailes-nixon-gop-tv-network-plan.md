@@ -6,7 +6,7 @@ actors:
 - Nixon Administration
 - Joseph Coors
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 date: 1970-01-01
 id: 1970-01-01--ailes-nixon-gop-tv-network-plan
 importance: 8

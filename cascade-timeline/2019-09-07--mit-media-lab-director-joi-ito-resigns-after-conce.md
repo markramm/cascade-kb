@@ -41,7 +41,7 @@ sources:
   tier: 2
 notes: The MIT case demonstrates how Epstein used charitable giving to elite institutions to rehabilitate his reputation and gain access to influential networks after his 2008 conviction.
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

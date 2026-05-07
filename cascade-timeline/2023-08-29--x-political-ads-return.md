@@ -6,7 +6,8 @@ importance: 5
 title: X reverses 2019 ban, allows U.S. political ads; verified accounts prioritized in recommendations
 location: Online
 actors:
-- X/Twitter
+- X
+- Twitter
 - Elon Musk
 tags:
 - platform-policy
@@ -16,7 +17,7 @@ tags:
 - x-twitter
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: X to Allow Political Ads in the US
   url: https://business.x.com/en/blog/causes-based-advertising-policy.html

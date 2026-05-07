@@ -36,7 +36,7 @@ sources:
   outlet: Nextgov/FCW
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

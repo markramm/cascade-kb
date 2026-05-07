@@ -27,8 +27,8 @@ sources:
   date: '2024-11-01'
   tier: 3
 capture_lanes:
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 - Corporate Capture
 ---
 

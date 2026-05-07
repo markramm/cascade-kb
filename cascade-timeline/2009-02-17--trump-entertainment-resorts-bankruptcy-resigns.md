@@ -30,7 +30,7 @@ sources:
   tier: 1
   outlet: PolitiFact
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Financial Capture
 - Intelligence Penetration
 actors:

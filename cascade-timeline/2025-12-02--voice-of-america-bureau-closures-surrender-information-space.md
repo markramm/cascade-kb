@@ -40,7 +40,7 @@ sources:
   tier: 1
   outlet: ABC News
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 - Surveillance Infrastructure
 status: reported

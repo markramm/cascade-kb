@@ -41,7 +41,7 @@ patterns:
 - media-financial-integration
 notes: Event from comprehensive kleptocracy timeline tracking. Expanded with additional source verification and detailed strategic context.
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Financial Capture
 - Intelligence Penetration
 ---

@@ -18,7 +18,7 @@ tags:
 - public-broadcasting
 capture_lanes:
 - Democratic Erosion
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Free to Choose - Wikipedia
   url: https://en.wikipedia.org/wiki/Free_to_Choose

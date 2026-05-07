@@ -20,7 +20,7 @@ tags:
 - cftc
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 location: Washington, D.C.
 sources:

@@ -23,7 +23,7 @@ tags:
 - hegseth
 - journalism
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Federal Workforce Capture
 - Democratic Erosion
 sources:

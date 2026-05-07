@@ -39,7 +39,7 @@ sources:
 id: 2001-01-20--marc-rich-pardon-corruption-allegations
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

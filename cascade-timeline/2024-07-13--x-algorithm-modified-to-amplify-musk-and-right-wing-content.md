@@ -32,7 +32,7 @@ tags:
 - media-capture
 - tech-political-influence
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Intelligence Penetration
 category: information-warfare

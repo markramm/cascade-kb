@@ -39,7 +39,7 @@ sources:
   outlet: CNBC
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Systematic Corruption
 ---

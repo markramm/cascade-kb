@@ -31,8 +31,8 @@ sources:
   outlet: CNN
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 status: reported
 ---
 

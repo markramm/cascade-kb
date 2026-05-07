@@ -67,7 +67,7 @@ notes: >
   further entrenching a Thiel-connected company in the national surveillance infrastructure.
 capture_lanes:
 - Surveillance Architecture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The U.S. Air Force Research Laboratory awarded BlackSky Technology a sole-source, multi-year $99 million IDIQ contract to develop next-generation satellite surveillance capabilities — high-resolution optical imaging, on-orbit AI processing, and advanced space domain awareness systems that go beyond what any current commercial satellite constellation can deliver.

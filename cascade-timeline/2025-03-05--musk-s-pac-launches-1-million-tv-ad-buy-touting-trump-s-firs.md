@@ -40,7 +40,7 @@ patterns:
 - media-manipulation
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 notes: Detailed 60-second TV ad campaign positioning Trump's early presidency, with commentary criticizing Biden and praising Trump's perceived accomplishments.
 ---
 

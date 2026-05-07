@@ -25,7 +25,7 @@ sources:
   tier: 2
   outlet: WIRED
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

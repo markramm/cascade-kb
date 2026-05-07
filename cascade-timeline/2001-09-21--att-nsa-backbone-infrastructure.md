@@ -29,7 +29,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 tags:
 - surveillance
 - telecommunications

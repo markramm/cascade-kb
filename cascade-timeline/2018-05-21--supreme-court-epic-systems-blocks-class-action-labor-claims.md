@@ -39,7 +39,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 - Labor Suppression
 ---
 

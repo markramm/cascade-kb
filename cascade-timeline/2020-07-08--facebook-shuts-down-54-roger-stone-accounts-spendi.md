@@ -14,7 +14,7 @@ tags:
 - stone-network
 - information-warfare
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Facebook removes Stone network
   url: https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior

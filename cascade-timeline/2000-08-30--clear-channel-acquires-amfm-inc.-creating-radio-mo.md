@@ -41,7 +41,7 @@ priority_id: RT-EXP-0C04C22A-clear-channel-media-consolidation
 capture_lanes:
 - Corporate Capture
 - Regulatory Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 actors:
 - Clear Channel Communications
 - Lowry Mays

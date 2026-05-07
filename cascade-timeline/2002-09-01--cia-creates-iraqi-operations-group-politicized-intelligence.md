@@ -34,7 +34,7 @@ sources:
 importance: 9
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Expansion

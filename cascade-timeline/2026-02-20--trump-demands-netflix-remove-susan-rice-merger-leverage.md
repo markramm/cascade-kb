@@ -31,7 +31,7 @@ tags:
 - political-retaliation
 - media-control
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Corporate Capture
 - Democratic Backsliding
 ---

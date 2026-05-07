@@ -34,7 +34,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Regulatory Capture
 ---
 On August 1, 1988, just one year after the FCC abolished the Fairness Doctrine, Rush Limbaugh launched his radio broadcast into national syndication with 56 radio stations. The show was co-owned and syndicated by Edward F. McLaughlin's EFM Media Management, with McLaughlin being former president of ABC Radio who founded EFM Media in 1988 with Limbaugh's show as his first product.

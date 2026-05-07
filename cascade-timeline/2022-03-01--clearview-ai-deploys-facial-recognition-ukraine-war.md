@@ -31,7 +31,7 @@ actors:
 - Ukraine Ministry of Defence
 - Hoan Ton-That
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Surveillance Infrastructure
 ---

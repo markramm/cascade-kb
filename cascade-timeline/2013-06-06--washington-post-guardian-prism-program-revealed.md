@@ -39,7 +39,7 @@ sources:
   outlet: Bloomberg
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 - Military-Industrial Complex
 ---

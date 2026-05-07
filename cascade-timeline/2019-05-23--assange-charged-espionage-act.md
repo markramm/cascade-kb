@@ -33,7 +33,7 @@ sources:
   tier: 1
   outlet: NPR
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 - Systematic Corruption
 ---

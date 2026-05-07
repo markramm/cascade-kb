@@ -42,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 - Military-Industrial Complex
-- Digital & Tech Capture
+- Digital and Tech Capture
 coverage:
   - url: "https://theramm.substack.com/p/making-it-visible-bringing-the-detention"
     title: "Making It Visible: Bringing the Detention Crisis Into the Light"

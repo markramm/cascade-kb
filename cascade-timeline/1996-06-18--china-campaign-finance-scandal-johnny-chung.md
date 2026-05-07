@@ -41,7 +41,7 @@ sources:
 id: 1996-06-18--china-campaign-finance-scandal-johnny-chung
 capture_lanes:
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 ---
 

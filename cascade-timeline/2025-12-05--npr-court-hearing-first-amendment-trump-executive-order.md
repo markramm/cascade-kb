@@ -58,7 +58,7 @@ tags:
 - weaponization-of-government
 title: NPR First Amendment Lawsuit Against Trump Reaches Pivotal Court Hearing on Retaliatory Funding Cuts
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Civil Rights Suppression
 - Judicial Capture
 ---

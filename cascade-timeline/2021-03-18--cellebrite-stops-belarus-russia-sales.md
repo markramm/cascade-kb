@@ -32,7 +32,7 @@ sources:
   tier: 2
   outlet: Business & Human Rights Resource Centre
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Surveillance Infrastructure
 ---

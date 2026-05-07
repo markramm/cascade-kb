@@ -46,7 +46,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Systematic Corruption
 ---

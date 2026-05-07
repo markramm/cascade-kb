@@ -33,7 +33,7 @@ sources:
   outlet: CNBC
 capture_lanes:
 - Executive Power Expansion
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 status: reported
 ---

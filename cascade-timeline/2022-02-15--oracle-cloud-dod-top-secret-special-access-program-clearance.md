@@ -35,7 +35,7 @@ sources:
   outlet: CIYIS
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Surveillance Infrastructure
 ---
 

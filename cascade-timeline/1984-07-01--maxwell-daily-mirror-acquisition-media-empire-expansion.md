@@ -20,7 +20,7 @@ tags:
 - information-warfare
 - british-media
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Robert Maxwell - Wikipedia
   url: https://en.wikipedia.org/wiki/Robert_Maxwell

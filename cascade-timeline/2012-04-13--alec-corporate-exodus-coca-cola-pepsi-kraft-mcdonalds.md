@@ -38,7 +38,7 @@ sources:
   date: '2012-04-17'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Corporate Capture
 ---

@@ -47,7 +47,7 @@ sources:
 notes: First time in history a presidential candidate owns publicly traded media company. Stock valuation and trading volume demonstrate significant market speculation. Potential for unprecedented conflicts of interest through media ownership and foreign investment.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 - Executive Power Expansion
 - Financial Capture

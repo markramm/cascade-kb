@@ -33,7 +33,7 @@ sources:
   date: '2007-05-24'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Financial Capture
 - Intelligence Penetration

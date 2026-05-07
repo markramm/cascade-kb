@@ -37,7 +37,7 @@ tags:
 - intelligence-fabrication
 capture_lanes:
 - Legislative Capture
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 significance: Documented evidence of a systematic, coordinated effort to manipulate the legislative process through targeted disinformation, revealing a profound corruption of democratic decision-making mechanisms.
 category: democratic_subversion

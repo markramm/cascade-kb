@@ -20,7 +20,7 @@ capture_type: political_suppression
 capture_lanes:
 - Democratic Erosion
 - Financial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 sources:
 - title: Bondi tells Tesla vandals to 'watch out'
   url: https://thehill.com/policy/technology/5195750-bondi-tells-tesla-vandals-to-watch-out/

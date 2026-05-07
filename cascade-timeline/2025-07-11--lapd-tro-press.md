@@ -18,7 +18,7 @@ tags:
 - journalist-protection
 - lapd
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Judicial Capture
 citations:
 - 'https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order'

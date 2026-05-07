@@ -34,7 +34,7 @@ actors:
 - Pfizer
 - Merck
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Systematic Corruption
 ---

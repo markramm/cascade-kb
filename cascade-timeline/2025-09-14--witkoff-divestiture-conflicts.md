@@ -32,7 +32,7 @@ tags:
 capture_lanes:
 - Financial Capture
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

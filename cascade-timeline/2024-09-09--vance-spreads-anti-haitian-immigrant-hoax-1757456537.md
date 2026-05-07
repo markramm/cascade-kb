@@ -33,7 +33,7 @@ id: 2024-09-09--vance-spreads-anti-haitian-immigrant-hoax-1757456537
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Systematic Corruption
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 geographical_focus:
   city: Springfield

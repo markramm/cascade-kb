@@ -41,7 +41,7 @@ sources:
   outlet: CBS News
 capture_lanes:
 - Legislative Capture
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

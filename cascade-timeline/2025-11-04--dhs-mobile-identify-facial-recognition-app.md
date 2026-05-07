@@ -33,7 +33,7 @@ actors:
 - U.S. Customs and Border Protection
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Intelligence Penetration
 status: reported
 ---

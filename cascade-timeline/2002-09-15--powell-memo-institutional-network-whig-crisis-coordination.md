@@ -44,7 +44,7 @@ sources:
   date: '2003-06-30'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 - Financial Capture
 - Intelligence Penetration

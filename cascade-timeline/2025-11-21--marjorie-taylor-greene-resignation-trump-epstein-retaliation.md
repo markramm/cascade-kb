@@ -51,7 +51,7 @@ notes: This resignation represents a dramatic break between Trump and one of his
 capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her "Marjorie Traitor Greene."

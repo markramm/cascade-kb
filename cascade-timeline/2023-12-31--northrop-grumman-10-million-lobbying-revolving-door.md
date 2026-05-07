@@ -35,7 +35,7 @@ sources:
   tier: 1
   outlet: OpenSecrets
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Electoral Manipulation
 - Regulatory Capture
 ---

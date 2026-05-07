@@ -47,7 +47,7 @@ sources:
 capture_lanes:
 - Military-Industrial Complex
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 The U.S. Army awarded Anduril Industries a 10-year enterprise contract worth up to $20 billion — consolidating over 120 separate procurement actions into a single agreement covering the company's AI-enabled Lattice operating system, integrated hardware, data infrastructure, and technical support services. The contract includes a five-year base period with a five-year optional extension.

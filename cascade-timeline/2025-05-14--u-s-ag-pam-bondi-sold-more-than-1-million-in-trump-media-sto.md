@@ -5,7 +5,7 @@ actors:
 - Pam Bondi
 - Trump Administration
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Executive Power Expansion
 - Regulatory Capture
 capture_type: monetizing_position

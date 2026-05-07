@@ -44,7 +44,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Financial Capture

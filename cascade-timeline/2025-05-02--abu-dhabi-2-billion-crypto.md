@@ -10,7 +10,7 @@ actors:
 - Justin Sun
 capture_lanes:
 - International Kleptocracy
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 date: 2025-05-02
 id: 2025-05-02--abu-dhabi-2-billion-crypto
 importance: 9

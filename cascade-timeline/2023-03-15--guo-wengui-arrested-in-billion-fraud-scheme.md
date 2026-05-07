@@ -37,7 +37,7 @@ id: 2023-03-15--guo-wengui-arrested-in-billion-fraud-scheme
 priority_id: RT-EXP-2E557553-gettr-jason-miller-chinese-funding
 capture_lanes:
 - Financial Capture
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Systematic Corruption
 - International Kleptocracy
 location: 'Manhattan, New York'

@@ -34,7 +34,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 ---
 

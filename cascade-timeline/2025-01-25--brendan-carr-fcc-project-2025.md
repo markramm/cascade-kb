@@ -20,7 +20,7 @@ tags:
 - censorship
 capture_lanes:
 - Executive Power Expansion
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: Trump picks Brendan Carr to lead the Federal Communications Commission
   url: https://www.nbcnews.com/politics/donald-trump/trump-brendan-carr-federal-communications-commission-rcna180567

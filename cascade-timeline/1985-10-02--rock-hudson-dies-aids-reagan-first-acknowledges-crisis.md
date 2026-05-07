@@ -45,8 +45,8 @@ sources:
   tier: 2
 capture_lanes:
 - Legislative Capture
-- Digital & Tech Capture
-- Media Capture & Control
+- Digital and Tech Capture
+- Media Capture and Control
 ---
 
 Hollywood icon Rock Hudson dies at age 59 of AIDS complications, becoming the first major U.S. celebrity to die of the disease and forcing President Reagan to finally acknowledge the epidemic publicly. Hudson's death marks a turning point: Reagan had maintained complete public silence on AIDS for over four years despite more than 12,000 deaths by late 1985. On September 17, 1985, two weeks before Hudson's death, Reagan mentions AIDS for the first time in response to a reporter's question, calling it a "top priority"—a designation contradicted by years of denied funding requests and suppressed public health guidance.

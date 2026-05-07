@@ -28,7 +28,7 @@ tags:
 - super-pac
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 status: reported
 ---

@@ -20,7 +20,7 @@ tags:
 - public-health
 - superfund
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 sources:
 - title: 'Love Canal: A Special Report'

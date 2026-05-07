@@ -40,7 +40,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 ---
 The Federal Communications Commission approved Skydance Media's $8 billion acquisition of Paramount Global — the parent company of CBS, Paramount+, MTV, Comedy Central, Nickelodeon, and other major media properties — on July 24, 2025, following a review process that extended well beyond the FCC's standard 180-day shot-clock. The Washington Post and NPR confirmed the approval. Skydance is controlled by David Ellison, son of Oracle founder Larry Ellison, a prominent Trump ally who had donated substantially to Trump-aligned causes. The deal gave Ellison control of CBS News, one of the three major broadcast television news networks.
 

@@ -36,7 +36,7 @@ sources:
   date: '2015-02-26'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Labor Suppression
 - Legislative Capture
 ---

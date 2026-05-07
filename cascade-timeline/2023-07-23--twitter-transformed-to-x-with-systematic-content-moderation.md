@@ -6,7 +6,8 @@ title: Twitter Transformed to X with Systematic Content Moderation Rollback and 
 importance: 8
 actors:
 - Elon Musk
-- Twitter/X Platform
+- Twitter
+- X
 - Center for Countering Digital Hate
 - Eddie Perez
 - Far-right Network Actors
@@ -18,7 +19,7 @@ tags:
 - platform-manipulation
 - content-moderation
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 - Electoral Manipulation
 sources:

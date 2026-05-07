@@ -31,7 +31,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 In 2009, the Joint Regional Intelligence Center (JRIC), Southern California's multiagency, multidisciplinary fusion center, began using Palantir Technologies' data analysis platform to connect and analyze Suspicious Activity Reports (SARs) and other intelligence data. This marked Palantir's first major deployment with local law enforcement, expanding the company's reach beyond federal intelligence and military agencies to municipal police departments.

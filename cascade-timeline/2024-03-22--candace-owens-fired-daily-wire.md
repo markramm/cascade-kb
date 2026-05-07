@@ -34,6 +34,6 @@ sources:
 notes: Owens departure followed months of increasingly public tension with Ben Shapiro over Israel-Gaza coverage. Represented first major MAGA media factional split of 2024. Owens had posted Christ is King content perceived as antisemitic dog whistle. Signaled deeper ideological rifts within conservative movement over Israel policy.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 ---
 Daily Wire announces Candace Owens departure following months of escalating conflict with co-founder Ben Shapiro over Israel-Gaza coverage. Owens had posted increasingly provocative content including "Christ is King" messaging perceived as antisemitic dog whistling, culminating in public social media feuding with Shapiro. The split represents the first major fracture in MAGA media coalition, exposing deep divisions over Israel policy that would widen throughout 2024-2025.

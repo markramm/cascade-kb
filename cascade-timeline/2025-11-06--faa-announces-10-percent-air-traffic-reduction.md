@@ -29,7 +29,7 @@ sources:
   outlet: CBS News
 capture_lanes:
 - Labor Suppression
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 status: reported
 ---

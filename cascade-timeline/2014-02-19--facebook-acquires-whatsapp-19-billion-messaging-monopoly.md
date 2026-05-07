@@ -46,7 +46,7 @@ status: confirmed
 capture_lanes:
 - Corporate Capture
 - Regulatory Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 Facebook acquires WhatsApp for $19 billion, the largest tech acquisition to date, eliminating its primary competitor in mobile messaging and consolidating monopoly control over personal communications platforms. The FTC approves the acquisition without structural separation requirements despite clear anticompetitive intent.

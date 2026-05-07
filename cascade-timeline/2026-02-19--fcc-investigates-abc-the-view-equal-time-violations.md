@@ -32,7 +32,7 @@ tags:
 - political-censorship
 - broadcast-regulation
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Backsliding
 ---
 FCC Chair Brendan Carr confirmed an investigation of ABC over alleged equal-time violations after Democratic candidates appeared on "The View," extending the administration's pattern of using broadcast regulators to intimidate media outlets. The investigation came alongside CBS blocking a Stephen Colbert interview with a Democratic candidate, suggesting broadcast networks were preemptively censoring political content to avoid regulatory retaliation.

@@ -31,7 +31,7 @@ actors:
 - Trump Administration
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 status: reported
 ---

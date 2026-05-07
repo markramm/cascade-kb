@@ -21,7 +21,7 @@ tags:
 - regulatory-capture
 - climate-denial
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 sources:
 - title: The Wise Use Movement
   url: 'https://www.sourcewatch.org/index.php/Wise_Use_Movement'

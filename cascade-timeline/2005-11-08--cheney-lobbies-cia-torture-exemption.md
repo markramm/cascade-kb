@@ -41,7 +41,7 @@ sources:
   tier: 1
   outlet: ACLU
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 - Intelligence Penetration
 ---

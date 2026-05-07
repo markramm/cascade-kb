@@ -8,7 +8,7 @@ actors:
 capture_lanes:
 - Surveillance Infrastructure
 - Executive Power Expansion
-- Digital & Tech Capture
+- Digital and Tech Capture
 date: 2022-07-13
 id: 2022-07-13--ring-admits-warrantless-police-data-sharing
 importance: 9

@@ -47,7 +47,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

@@ -64,7 +64,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Detention Industrial Complex
-- No-Bid / Rapid-Close Federal Procurement
+- No-Bid and Rapid-Close Federal Procurement
 - Local Democratic Bypass
 ---
 

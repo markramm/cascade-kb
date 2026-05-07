@@ -50,7 +50,7 @@ actors:
 - Department of Justice
 capture_lanes:
 - Executive Power Expansion
-- Media Capture & Control
+- Media Capture and Control
 - Legislative Capture
 status: reported
 ---

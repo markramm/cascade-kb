@@ -58,7 +58,7 @@ connections:
 historical_significance: Demonstrated a systematic approach to undermining congressional oversight by weaponizing classified intelligence briefings, establishing a dangerous precedent for executive manipulation of legislative authority through information control.
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

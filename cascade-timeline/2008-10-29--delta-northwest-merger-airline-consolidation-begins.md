@@ -35,7 +35,7 @@ sources:
   date: '2008-07-01'
   tier: 1
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Corporate Capture
 ---

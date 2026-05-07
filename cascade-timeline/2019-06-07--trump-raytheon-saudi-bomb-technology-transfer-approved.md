@@ -42,7 +42,7 @@ actors:
 - Mike Pompeo
 - William Hartung
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - International Kleptocracy
 - Military-Industrial Complex
 ---

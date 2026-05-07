@@ -9,7 +9,7 @@ actors:
 - Nigel Oakes
 - Alexander Nix
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 - Electoral Manipulation
 date: 2014-06-01

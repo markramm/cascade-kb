@@ -43,7 +43,7 @@ sources:
 capture_lanes:
 - Surveillance Infrastructure
 - Immigration Enforcement
-- Digital & Tech Capture
+- Digital and Tech Capture
 ---
 
 More than 200 Palantir employees sign an internal letter to CEO Alex Karp expressing concerns about the company's contracts with U.S. Immigration and Customs Enforcement (ICE), which provides Palantir's FALCON system for tracking and profiling immigrants. On July 31, 2018, over 50 external protesters from a coalition of 15 organizations — including the Tech Workers Coalition, Silicon Valley Rising, SEIU, the Santa Clara County Democratic Party, and Sacred Heart Community Service — gather outside Palantir's Palo Alto headquarters to deliver a letter demanding the company drop its ICE contracts.

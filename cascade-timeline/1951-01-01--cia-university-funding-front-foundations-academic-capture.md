@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Beginning in the early 1950s, the CIA channels millions of dollars annually to American universities through a network of foundations that serve as financial cutouts. The operation builds on wartime relationships — the Office of Strategic Services (OSS) recruited heavily from Ivy League faculties, and many professors who served in intelligence during World War II maintain their connections after returning to academic life. Now the CIA formalizes these relationships into a systematic program of academic capture.

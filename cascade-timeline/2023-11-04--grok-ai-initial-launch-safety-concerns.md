@@ -29,7 +29,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Elon Musk launches Grok AI as a chatbot integrated with X (Twitter), intentionally positioning it with reduced content moderation compared to other AI models. The launch signals Musk's approach to AI development: challenging mainstream tech companies' safety constraints and creating an AI platform that claims to prioritize 'unrestricted' dialogue over traditional ethical filtering.

@@ -50,7 +50,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial System Risk
-- Private Credit / Retail Investor Harm
+- Private Credit and Retail Investor Harm
 ---
 
 On November 5, 2025, Blue Owl Capital announced a definitive merger agreement between **Blue Owl Capital Corporation (OBDC)** — its publicly traded business development company — and **Blue Owl Capital Corporation II (OBDC II)** — its non-traded private BDC — with OBDC designated as the surviving company. The proposed exchange: **1-for-1 OBDC II shares into OBDC stock based on NAV**. Expected closing: early 2026.

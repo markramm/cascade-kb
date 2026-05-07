@@ -32,7 +32,7 @@ sources:
   tier: 2
   outlet: CNN
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Labor Suppression
 - Systematic Corruption
 ---

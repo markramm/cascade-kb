@@ -31,7 +31,7 @@ sources:
   outlet: Britannica
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Regulatory Capture
 - Financial Capture
 ---

@@ -33,7 +33,7 @@ sources:
   date: '2024-12-03'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 - Democratic Erosion
 status: confirmed

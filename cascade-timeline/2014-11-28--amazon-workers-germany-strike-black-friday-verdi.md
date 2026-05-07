@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Labor Suppression
 - Surveillance Infrastructure
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 # Amazon Workers in Germany Strike During Black Friday for Union Recognition

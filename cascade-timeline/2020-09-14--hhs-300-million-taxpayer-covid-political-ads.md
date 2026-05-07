@@ -42,7 +42,7 @@ sources:
   tier: 1
   outlet: The Hill
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Systematic Corruption
 - Electoral Manipulation
 ---

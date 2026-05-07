@@ -40,7 +40,7 @@ notes: Detailed assessment showing U.S. joining countries like Israel and UK on 
   for democratic backsliding
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 ---
 

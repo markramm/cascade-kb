@@ -12,7 +12,7 @@ actors:
 - Lewis Libby
 - WHIG
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

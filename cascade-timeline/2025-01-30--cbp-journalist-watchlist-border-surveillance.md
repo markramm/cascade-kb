@@ -33,7 +33,7 @@ tags:
 status: confirmed
 id: 2025-01-30--cbp-journalist-watchlist-border-surveillance
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Intelligence Penetration
 ---

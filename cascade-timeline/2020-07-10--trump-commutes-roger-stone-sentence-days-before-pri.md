@@ -34,7 +34,7 @@ sources:
   date: '2020-07-13'
   tier: 2
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

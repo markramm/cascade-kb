@@ -6,7 +6,7 @@ actors:
 - Mark Zuckerberg
 - Digital Sky Technologies
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 date: 2009-05-01
 id: 2009-05-01--russian-digital-sky-technologies-invests-200m-in-facebook

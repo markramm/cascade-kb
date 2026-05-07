@@ -33,7 +33,7 @@ sources:
 id: 1996-02-26--lincoln-bedroom-fundraising-scandal
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 ---
 

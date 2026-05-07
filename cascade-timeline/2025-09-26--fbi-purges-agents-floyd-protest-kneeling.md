@@ -28,7 +28,7 @@ sources:
   outlet: NPR
 capture_lanes:
 - Civil Rights Suppression
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

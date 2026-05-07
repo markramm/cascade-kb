@@ -33,7 +33,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 - Environmental Capture
 ---
 

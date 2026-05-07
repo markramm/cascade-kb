@@ -32,7 +32,7 @@ sources:
   outlet: YourTechStory
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Intelligence Penetration
 status: reported
 ---

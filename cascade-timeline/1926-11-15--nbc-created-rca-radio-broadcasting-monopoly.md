@@ -11,7 +11,7 @@ tags:
 - corporate-capture
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 actors:
 - David Sarnoff
 - Radio Corporation of America

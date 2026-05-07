@@ -30,8 +30,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 ---
 
 Robert Bowers, 46, enters the Tree of Life synagogue in Pittsburgh's Squirrel Hill neighborhood during Shabbat morning services and opens fire with an AR-15 and three Glock pistols, killing 11 worshippers and wounding 6 others, including 4 responding police officers. It is the deadliest antisemitic attack in United States history.

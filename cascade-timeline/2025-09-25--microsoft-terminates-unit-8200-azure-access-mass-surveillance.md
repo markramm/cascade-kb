@@ -46,7 +46,7 @@ actors:
 - Israel Ministry of Defense
 capture_lanes:
 - Surveillance Infrastructure
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Corporate Capture
 status: reported
 ---

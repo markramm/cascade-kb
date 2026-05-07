@@ -38,7 +38,7 @@ sources:
   outlet: Brennan Center for Justice
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 - Civil Rights Suppression
 ---
 

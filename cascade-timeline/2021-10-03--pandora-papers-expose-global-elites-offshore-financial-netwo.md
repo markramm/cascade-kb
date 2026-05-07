@@ -51,7 +51,7 @@ status: confirmed
 id: 2021-10-03--pandora-papers-expose-global-elites-offshore-financial-netwo
 priority_id: RT-COMPLETED-PATTERN-20250906-15
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration

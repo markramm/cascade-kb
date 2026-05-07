@@ -29,7 +29,7 @@ sources:
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Intelligence Penetration
 - Executive Power Expansion
 tags:

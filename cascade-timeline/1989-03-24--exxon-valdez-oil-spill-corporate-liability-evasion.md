@@ -20,7 +20,7 @@ tags:
 - regulatory-capture
 capture_lanes:
 - Judicial Capture
-- Media Capture & Control
+- Media Capture and Control
 sources:
 - title: The Exxon Valdez Oil Spill
   url: https://www.noaa.gov/education/resource-collections/ocean-coasts/exxon-valdez-oil-spill

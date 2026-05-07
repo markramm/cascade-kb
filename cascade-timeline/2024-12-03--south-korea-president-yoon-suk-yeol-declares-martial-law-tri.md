@@ -18,7 +18,7 @@ tags:
 - impeachment
 - political-instability
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 - Democratic Erosion
 sources:

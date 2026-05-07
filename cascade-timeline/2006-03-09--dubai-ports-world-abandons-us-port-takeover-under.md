@@ -45,7 +45,7 @@ status: confirmed
 id: 2006-03-09--dubai-ports-world-abandons-us-port-takeover-under
 priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration

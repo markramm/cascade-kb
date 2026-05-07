@@ -16,9 +16,9 @@ tags:
 - artificial-intelligence-regulation
 - government-ai-policy
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Regulatory Capture
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 status: confirmed
 sources:
 - outlet: TechCrunch

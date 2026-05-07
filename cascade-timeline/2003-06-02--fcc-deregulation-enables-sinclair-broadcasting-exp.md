@@ -34,7 +34,7 @@ sources:
   date: '2003-06-02'
   tier: 1
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Regulatory Capture
 - Legislative Capture
 ---

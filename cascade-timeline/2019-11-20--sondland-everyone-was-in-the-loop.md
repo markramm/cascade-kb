@@ -36,7 +36,7 @@ sources:
   outlet: C-SPAN
 capture_lanes:
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Executive Power Expansion
 ---
 

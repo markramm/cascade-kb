@@ -36,7 +36,7 @@ sources:
   tier: 2
   outlet: TIME
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Complex
 - Regulatory Capture
 ---

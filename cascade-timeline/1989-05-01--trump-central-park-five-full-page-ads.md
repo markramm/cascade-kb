@@ -35,7 +35,7 @@ sources:
   outlet: DocumentCloud
 capture_lanes:
 - Civil Rights Suppression
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Two weeks after five Black and Latino teenagers were arrested for the brutal rape and beating of a jogger in Central Park, Donald Trump spent $85,000 to place full-page advertisements in four major New York newspapers calling for their execution. The ads, which appeared in The New York Times, New York Daily News, New York Post, and Newsday, featured inflammatory language under the headline "BRING BACK THE DEATH PENALTY. BRING BACK OUR POLICE!"

@@ -34,7 +34,7 @@ sources:
   outlet: NPR
 capture_lanes:
 - Electoral Manipulation
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Executive Power Expansion
 ---
 

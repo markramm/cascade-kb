@@ -40,7 +40,7 @@ sources:
 capture_lanes:
 - Financial Capture
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Governor Ron DeSantis signs Senate Bill 7066 into law, requiring people with felony convictions to pay all fines, fees, court costs, and restitution before regaining voting rights—directly undermining the intent of Amendment 4, which Florida voters approved with 65% support just seven months earlier. Critics immediately denounce the law as a modern-day poll tax that creates a wealth-based barrier to voting rights restoration.

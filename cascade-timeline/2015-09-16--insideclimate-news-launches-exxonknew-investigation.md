@@ -40,7 +40,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- Media Capture & Control
+- Media Capture and Control
 - Democratic Erosion
 ---
 

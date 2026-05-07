@@ -39,7 +39,7 @@ patterns:
 - executive-leverage
 notes: Pro bono deal as a mechanism of institutional pressure and control
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Executive Power Expansion
 ---
 President Trump negotiated a $100 million pro bono legal services deal with Skadden, Arps, Slate, Meagher & Flom LLP, effectively avoiding an executive order that would have penalized the firm. The agreement includes specific conditions about employment practices and representation.

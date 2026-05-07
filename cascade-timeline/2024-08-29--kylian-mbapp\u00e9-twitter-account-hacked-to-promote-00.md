@@ -31,7 +31,7 @@ tags:
 - blockchain
 title: Kylian Mbappé Twitter Account Hacked to Promote $464M Crypto Pump-and-Dump Scam
 capture_lanes:
-- 'Digital & Tech Capture'
+- 'Digital and Tech Capture'
 - Financial Capture
 - Systematic Corruption
 ---

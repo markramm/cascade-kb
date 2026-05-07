@@ -38,7 +38,7 @@ sources:
 notes: Largest owner of local TV stations. Forces local anchors to read identical scripts. Must-run segments from Boris Epshteyn. Uses trusted local news format for political propaganda. Scale enables information control.
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Legislative Capture
 ---
 By 2022, Sinclair Broadcast Group had grown to operate approximately 193 local television stations reaching roughly 40% of U.S. households, making it the largest owner of local TV stations in the country. Sinclair's business model leveraged the trusted format of local news to distribute centrally-produced political content to markets across the country. The company, controlled by the Smith family and headquartered in Hunt Valley, Maryland, required its stations to air "must-carry" segments produced by corporate headquarters, bypassing local editorial control.

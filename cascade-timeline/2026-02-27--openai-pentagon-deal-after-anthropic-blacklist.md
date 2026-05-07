@@ -46,7 +46,7 @@ sources:
   date: '2026-02-28'
   tier: 2
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Military-Industrial Capture
 ---
 

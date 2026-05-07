@@ -109,7 +109,7 @@ sources:
   tier: 2
   outlet: Roll Call
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 - Surveillance Infrastructure
 status: reported

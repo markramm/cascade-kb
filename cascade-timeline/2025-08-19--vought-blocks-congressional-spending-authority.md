@@ -31,7 +31,7 @@ sources:
   outlet: Trump Tyranny Tracker
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 ---
 

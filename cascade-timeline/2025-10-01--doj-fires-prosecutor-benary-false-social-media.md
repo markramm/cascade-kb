@@ -36,7 +36,7 @@ sources:
 capture_lanes:
 - Executive Power Expansion
 - Regulatory Capture
-- Media Capture & Control
+- Media Capture and Control
 status: reported
 ---
 

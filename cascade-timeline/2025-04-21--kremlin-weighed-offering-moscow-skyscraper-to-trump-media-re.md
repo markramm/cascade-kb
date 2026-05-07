@@ -43,7 +43,7 @@ patterns:
 - diplomatic-manipulation
 notes: Complex diplomatic maneuvering revealing potential conflicts of interest
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - International Kleptocracy
 ---
 

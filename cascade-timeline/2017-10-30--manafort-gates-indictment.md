@@ -33,7 +33,7 @@ sources:
   tier: 1
   outlet: PBS NewsHour
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Legislative Capture
 - Labor Suppression
 ---

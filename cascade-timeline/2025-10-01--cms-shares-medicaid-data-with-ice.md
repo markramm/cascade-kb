@@ -28,7 +28,7 @@ tags:
 capture_lanes:
 - Surveillance Infrastructure
 - Judicial Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

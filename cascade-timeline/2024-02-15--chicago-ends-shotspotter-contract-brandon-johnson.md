@@ -32,7 +32,7 @@ sources:
   tier: 2
   outlet: Chicago Appleseed Center for Fair Courts
 capture_lanes:
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 - Surveillance Infrastructure
 ---

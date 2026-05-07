@@ -28,8 +28,8 @@ sources:
   tier: 1
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
-- Digital & Tech Capture
+- Media Capture and Control
+- Digital and Tech Capture
 coverage:
   - url: https://theramm.substack.com/p/minneapolis-banned-chokeholds-after
     title: "Minneapolis Banned Chokeholds After George Floyd. Federal Agents Used Them 40+ Times."

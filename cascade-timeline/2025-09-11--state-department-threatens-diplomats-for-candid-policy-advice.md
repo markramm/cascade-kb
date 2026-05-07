@@ -33,7 +33,7 @@ actors:
 capture_lanes:
 - Systematic Corruption
 - Environmental Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 status: reported
 ---
 

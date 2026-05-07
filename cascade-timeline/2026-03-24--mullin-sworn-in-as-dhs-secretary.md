@@ -76,6 +76,10 @@ coverage:
     title: "Detention Pipeline: The May Inflection"
     date: '2026-05-05'
     publication: theramm
+  - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
+    title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
+    date: '2026-05-07'
+    publication: theramm
 ---
 
 The U.S. Senate confirmed Sen. Markwayne Mullin (R-OK) as the ninth Secretary of the Department of Homeland Security on March 23, 2026, in a 54-45 vote. Trump swore Mullin in the following day, March 24, in an Oval Office ceremony administered by Attorney General Pam Bondi, with Mullin's wife Christie and their six children present. Mullin replaced Kristi Noem, whom Trump had fired March 5, 2026 (see [[2026-03-05--trump-fires-noem-nominates-mullin-dhs-secretary]]).

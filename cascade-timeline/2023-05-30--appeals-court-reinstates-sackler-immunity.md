@@ -34,7 +34,7 @@ sources:
   outlet: Davis Polk
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- Digital and Tech Capture
 - Financial Capture
 ---
 

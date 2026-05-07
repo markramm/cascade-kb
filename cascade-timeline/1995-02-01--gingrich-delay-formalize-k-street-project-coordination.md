@@ -37,7 +37,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Intelligence Penetration
 validation_metadata:
   last_corrected: '2025-09-16T19:13:42.897314'

@@ -34,7 +34,7 @@ tags:
 - whistleblowing
 - institutional-corruption
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Executive Power Expansion
 status: confirmed
 ---

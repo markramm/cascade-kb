@@ -26,8 +26,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- Digital and Tech Capture
+- Media Capture and Control
 ---
 
 In January 2008, after the Church of Scientology attempts to suppress a leaked Tom Cruise recruitment video, 4chan's Anonymous collective launches Project Chanology — a coordinated campaign of DDoS attacks, prank calls, fax spam, and ultimately real-world protests at Scientology centers worldwide. On February 10, 2008, an estimated 7,000-8,000 people protest simultaneously at Scientology locations across more than 100 cities, wearing the Guy Fawkes masks that become Anonymous's signature.

@@ -34,7 +34,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
-- Media Capture & Control
+- Media Capture and Control
 ---
 
 Tim LaHaye — Baptist pastor, co-author of the future "Left Behind" series, husband of Concerned Women for America founder Beverly LaHaye — founds the Council for National Policy (CNP) in 1981 with seed money from Texas oil billionaire Nelson Bunker Hunt and T. Cullen Davis. Paul Weyrich, Richard Viguerie, and Howard Phillips serve as co-founders. The CNP's founding purpose is explicit: create a coordination mechanism for the three legs of the conservative movement — religious right, corporate libertarians, and national security hawks — to align strategy outside public view.

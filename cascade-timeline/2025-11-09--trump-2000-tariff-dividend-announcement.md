@@ -27,7 +27,7 @@ sources:
   tier: 1
   outlet: ABC News
 capture_lanes:
-- Media Capture & Control
+- Media Capture and Control
 - Financial Capture
 - Legislative Capture
 status: reported

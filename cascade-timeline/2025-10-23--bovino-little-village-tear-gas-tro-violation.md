@@ -48,7 +48,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
-- Media Capture & Control
+- Media Capture and Control
 coverage:
   - url: https://theramm.substack.com/p/renee-goods-last-words-im-not-mad
     title: "Renee Good's Last Words: \"I'm Not Mad at You\""

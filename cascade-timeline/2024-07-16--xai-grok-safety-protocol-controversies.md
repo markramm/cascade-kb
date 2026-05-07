@@ -30,8 +30,8 @@ actors:
 - Boaz Barak
 - Dan Hendrycks
 capture_lanes:
-- 'Digital & Tech Capture'
-- 'Media Capture & Control'
+- 'Digital and Tech Capture'
+- 'Media Capture and Control'
 - Regulatory Capture
 status: confirmed
 ---

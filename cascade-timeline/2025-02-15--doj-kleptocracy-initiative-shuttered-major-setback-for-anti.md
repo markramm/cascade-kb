@@ -7,7 +7,7 @@ actors:
 - KleptoCapture Task Force
 - Transparency International
 capture_lanes:
-- 'Media Capture & Control'
+- 'Media Capture and Control'
 - Systematic Corruption
 - Judicial Capture
 date: 2025-02-15
