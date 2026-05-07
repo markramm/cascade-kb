@@ -1,0 +1,131 @@
+{{ define "main" }}
+{{ $entities := .Params.entities | default slice }}
+{{ $fromYear := .Params.fromYear | default 2000 }}
+{{ $toYear := .Params.toYear | default 2026 }}
+
+<div class="timeline-single">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <a href="/timelines/">Timelines</a>
+    <span class="sep">›</span>
+    <span aria-current="page">{{ .Title }}</span>
+  </nav>
+
+  {{/* Compact header — chart should appear above the fold. */}}
+  <header class="timeline-head timeline-head-compact">
+    <div class="th-titles">
+      {{ with .Params.subtitle }}<span class="eyebrow">{{ . }}</span>{{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.summary }}<p class="lede th-lede">{{ . }}</p>{{ end }}
+    </div>
+    <div class="th-meta">
+      <span><strong>{{ len $entities }}</strong> actor{{ if ne (len $entities) 1 }}s{{ end }}</span>
+      <span><strong>{{ $fromYear }}</strong>–<strong>{{ $toYear }}</strong></span>
+      <span>{{ sub $toYear $fromYear }} yrs</span>
+    </div>
+  </header>
+
+  {{/* Chart appears IMMEDIATELY — it's the lead visual. */}}
+  {{ partial "swimlane-chart.html" (dict
+      "entities" $entities
+      "aliases" (.Params.entity_aliases | default dict)
+      "fromYear" $fromYear
+      "toYear" $toYear
+      "title" .Title
+      "chart_id" (printf "tl-%s" (.File.ContentBaseName | urlize))
+  ) }}
+
+  {{/* Editorial essay (now BELOW the chart, narrow column for readability). */}}
+  {{ with .Content }}
+  <div class="timeline-essay">{{ . }}</div>
+  {{ end }}
+
+  {{/* Per-actor event lists below the chart — accessible alternative + SEO content */}}
+  <section style="margin-top:48px;">
+    <div class="section-head">
+      <h2 style="font-size:1.3rem;">All events on this timeline</h2>
+      <span class="meta">chronological</span>
+    </div>
+
+    {{/* Build flat event list. Match against entity name + aliases. */}}
+    {{ $aliasMap := .Params.entity_aliases | default dict }}
+    {{ $allMatchNames := slice }}
+    {{ range $entities }}
+      {{ $allMatchNames = $allMatchNames | append . }}
+      {{ with index $aliasMap . }}
+        {{ range . }}{{ $allMatchNames = $allMatchNames | append . }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $events := slice }}
+    {{ $allEvents := where site.RegularPages "Type" "event" }}
+    {{ range $allEvents }}
+      {{ $actors := .Params.actors | default slice }}
+      {{ $matched := false }}
+      {{ range $allMatchNames }}
+        {{ if in $actors . }}{{ $matched = true }}{{ end }}
+      {{ end }}
+      {{ if $matched }}
+        {{ $eYear := (time.AsTime (string .Params.date)).Year }}
+        {{ if and (ge $eYear $fromYear) (le $eYear $toYear) }}
+          {{ $events = $events | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ $sorted := sort $events ".Params.date" "asc" }}
+    <table class="ledger" aria-label="Events in this timeline">
+      <thead><tr><th>Date</th><th>Event</th><th>Actors</th><th class="dim">Status</th></tr></thead>
+      <tbody>
+      {{ range $sorted }}
+        <tr>
+          <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
+          <td class="title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.actors }}
+              <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">
+                {{ delimit (first 4 .) " · " }}{{ if gt (len .) 4 }} · +{{ sub (len .) 4 }}{{ end }}
+              </div>
+            {{ end }}
+          </td>
+          <td>{{ with .Params.actors }}<span class="dim mono" style="font-size:11px;">{{ len . }}</span>{{ end }}</td>
+          <td>{{ with .Params.status }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ . }}</span>{{ end }}</td>
+        </tr>
+      {{ end }}
+      </tbody>
+    </table>
+    <div style="text-align:center;font-family:var(--mono);font-size:11px;letter-spacing:0.08em;color:var(--ink-3);padding:14px 0;">
+      {{ len $sorted }} event{{ if ne (len $sorted) 1 }}s{{ end }} on this timeline
+    </div>
+  </section>
+
+  {{/* Other timelines — sibling cross-link */}}
+  {{ $thisSlug := .File.ContentBaseName }}
+  {{ $siblings := where (where .Site.RegularPages "Type" "timelines") "File.ContentBaseName" "ne" $thisSlug }}
+  {{ if $siblings }}
+  <section style="margin-top:64px;">
+    <div class="section-head"><h2 style="font-size:1.3rem;">Other curated timelines</h2><span class="meta">→</span></div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0;border-left:1px solid var(--paper-edge);">
+    {{ range (sort $siblings "Params.weight" "asc") }}
+      <a href="{{ .RelPermalink }}" style="display:block;padding:24px 28px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);background:var(--paper);transition:background .12s;" onmouseover="this.style.background='var(--paper-deep)'" onmouseout="this.style.background='var(--paper)'">
+        {{ with .Params.subtitle }}<span class="eyebrow" style="font-size:10px;display:block;margin-bottom:6px;">{{ . }}</span>{{ end }}
+        <div style="font-family:var(--serif-display);font-size:1.2rem;font-weight:500;line-height:1.2;margin-bottom:6px;">{{ .Title }}</div>
+        {{ with .Params.summary }}<p style="font-size:13.5px;color:var(--ink-3);line-height:1.5;margin:0;text-indent:0;">{{ . | truncate 130 }}</p>{{ end }}
+        <div class="mono" style="font-size:10.5px;letter-spacing:0.06em;color:var(--ink-4);margin-top:10px;padding-top:8px;border-top:1px dashed var(--paper-edge);">
+          {{ len (.Params.entities | default slice) }} actors · {{ .Params.fromYear }}–{{ .Params.toYear }}
+        </div>
+      </a>
+    {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Cite this view */}}
+  <div style="margin-top:48px;padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
+    <div class="eyebrow" style="margin-bottom:10px;">Cite this view</div>
+    <code class="mono" style="font-size:12px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
+      The Cascade Ledger. “{{ .Title }}.” Curated timeline view, capturecascade.org, {{ now.Format "January 2, 2006" }}. {{ .Permalink }}
+    </code>
+  </div>
+</div>
+{{ end }}

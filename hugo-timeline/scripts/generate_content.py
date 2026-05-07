@@ -263,6 +263,408 @@ def write_filter_dataset(events: list[dict]) -> None:
     (STATIC / "timeline.json").write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
     print(f"  timeline.json: {len(out)} events ({(STATIC/'timeline.json').stat().st_size//1024} KB)")
 
+def write_lane_stream(events: list[dict]) -> None:
+    """Per-year per-capture-lane event counts for the homepage stream chart.
+
+    Output: data/lane_stream.json
+        {
+          "lanes":  ["finance","democracy","corruption","labor","extraction"],
+          "rows":   [{"year": 1900, "finance": 2, "democracy": 1, ...}, ...],
+          "totals": {"finance": 1234, "democracy": 987, ...},
+          "peaks":  {"finance": {"year": 2008, "count": 45}, ...}
+        }
+
+    The stream chart on the home page expects one row per year from
+    STREAM_START_YEAR to END_YEAR; missing years get zeros. This lets the
+    Hugo template emit smooth SVG paths without nil-checks.
+    """
+    # 8-lane consolidation of the 184 raw labels in the corpus.
+    # Order matters: this is the visual stacking order on the stream chart.
+    # See lane_label_map below for which raw labels feed each consolidated lane.
+    LANE_KEYS = [
+        "regulatory",     # Regulatory + Federal Workforce + Fiscal capture
+        "financial",      # Financial Capture + Corporate Capture + Extraction
+        "intelligence",   # Intelligence + Surveillance State
+        "corruption",     # Systematic Corruption + Institutional Capture
+        "executive",      # Executive Power Expansion + Executive Power
+        "legislative",    # Legislative Capture + Electoral Manipulation
+        "judicial",       # Judicial Capture
+        "media",          # Media Capture + Digital/Tech Capture
+        "democratic",     # Democratic Erosion + Civil Rights Suppression
+        "military",       # Military-Industrial + Detention + Immigration
+        "labor",          # Labor Suppression + Environmental Capture
+        "other",          # everything else
+    ]
+    STREAM_START = 1900
+
+    LANE_LABEL_MAP = {
+        # raw label substring (lowercase) -> consolidated key
+        "regulatory capture":        "regulatory",
+        "federal workforce capture": "regulatory",
+        "fiscal capture":            "regulatory",
+        "financial capture":         "financial",
+        "corporate capture":         "financial",
+        "financial extraction":      "financial",
+        "intelligence penetration":  "intelligence",
+        "intelligence privatization":"intelligence",
+        "surveillance infrastructure":"intelligence",
+        "surveillance state":        "intelligence",
+        "systematic corruption":     "corruption",
+        "institutional capture":     "corruption",
+        "executive power expansion": "executive",
+        "executive power":           "executive",
+        "legislative capture":       "legislative",
+        "electoral manipulation":    "legislative",
+        "judicial capture":          "judicial",
+        "media capture":             "media",
+        "digital & tech capture":    "media",
+        "digital and tech capture":  "media",
+        "democratic erosion":        "democratic",
+        "democratic backsliding":    "democratic",
+        "civil rights suppression":  "democratic",
+        "military-industrial":       "military",
+        "military capture":          "military",
+        "detention industrial":      "military",
+        "immigration system":        "military",
+        "labor suppression":         "labor",
+        "environmental capture":     "labor",
+        "international kleptocracy": "other",
+    }
+
+    def lane_key(s: str) -> str:
+        s = (s or "").lower().strip()
+        # Direct lookup first
+        if s in LANE_LABEL_MAP: return LANE_LABEL_MAP[s]
+        # Substring match — handles minor wording variations
+        for needle, key in LANE_LABEL_MAP.items():
+            if needle in s:
+                return key
+        return "other"
+
+    by_year: dict[int, dict[str, int]] = defaultdict(lambda: {k: 0 for k in LANE_KEYS})
+    totals = {k: 0 for k in LANE_KEYS}
+
+    for ev in events:
+        if not ev.get("date"): continue
+        try:
+            year = int(str(ev["date"])[:4])
+        except ValueError:
+            continue
+        if year < STREAM_START or year > END_YEAR:
+            continue
+        lanes = ev.get("capture_lanes") or []
+        if not lanes:
+            by_year[year]["other"] += 1
+            totals["other"] += 1
+            continue
+        # An event with multiple lanes contributes to each lane it touches.
+        # This is editorially honest: an event that's both "Financial Capture"
+        # and "Democratic Erosion" really did do both things.
+        seen = set()
+        for lane in lanes:
+            k = lane_key(lane)
+            if k in seen: continue   # don't double-count if KB has dupes
+            seen.add(k)
+            by_year[year][k] += 1
+            totals[k] += 1
+
+    rows = []
+    for y in range(STREAM_START, END_YEAR + 1):
+        row = {"year": y}
+        row.update(by_year.get(y, {k: 0 for k in LANE_KEYS}))
+        rows.append(row)
+
+    # Find each lane's peak year (for annotations + diagnostics)
+    peaks = {}
+    for k in LANE_KEYS:
+        if totals[k] == 0: continue
+        peak_y, peak_c = max(((r["year"], r[k]) for r in rows), key=lambda p: p[1])
+        peaks[k] = {"year": peak_y, "count": peak_c}
+
+    out = {
+        "lanes": LANE_KEYS,
+        "start_year": STREAM_START,
+        "end_year": END_YEAR,
+        "rows": rows,
+        "totals": totals,
+        "peaks": peaks,
+    }
+    DATA.mkdir(parents=True, exist_ok=True)
+    (DATA / "lane_stream.json").write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    print(f"  lane_stream.json: {len(rows)} years, totals: {totals}")
+    print(f"    peaks: {peaks}")
+
+def write_timeline_membership(events: list[dict]) -> None:
+    """Build cross-reference maps between events/actors and curated timelines.
+
+    Output: data/timeline_membership.json
+        {
+          "by_event":  {event_slug: [timeline_slug, ...]},
+          "by_actor":  {actor_name: [timeline_slug, ...]},
+          "timelines": [{slug, title, summary, fromYear, toYear,
+                         entity_count, event_count}]
+        }
+
+    Drives the "this event appears in N timelines" surface on event pages
+    and "see [actor] in [timeline]" on actor pages. Computed once at build
+    time so per-page Hugo templates just do dict lookups.
+    """
+    timelines_dir = ROOT / "content" / "timelines"
+    if not timelines_dir.exists():
+        print("  timeline_membership.json: skipped (no timelines/ dir)")
+        return
+
+    # 1. Read each timeline preset's frontmatter.
+    timelines: list[dict] = []
+    for p in sorted(timelines_dir.glob("*.md")):
+        if p.name.startswith("_"):
+            continue
+        txt = p.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---", txt, re.DOTALL)
+        if not m: continue
+        try:
+            fm = yaml.safe_load(m.group(1)) or {}
+        except yaml.YAMLError:
+            continue
+        # Build the full match-name set for this timeline (entities + aliases)
+        entities = fm.get("entities") or []
+        aliases = fm.get("entity_aliases") or {}
+        match_names = set(entities)
+        for ent in entities:
+            for alias in aliases.get(ent) or []:
+                match_names.add(alias)
+        timelines.append({
+            "slug": p.stem,
+            "title": fm.get("title", p.stem),
+            "subtitle": fm.get("subtitle", ""),
+            "summary": fm.get("summary", ""),
+            "fromYear": fm.get("fromYear"),
+            "toYear":   fm.get("toYear"),
+            "weight":   fm.get("weight") or 100,
+            "entities": entities,           # for actor lookups: canonical row labels
+            "match_names": match_names,     # for event matching: union with aliases
+        })
+
+    # 2. For each event, compute which timelines contain it.
+    by_event: dict[str, list[str]] = {}
+    for ev in events:
+        slug = make_slug(ev)
+        date = str(ev.get("date") or "")
+        if len(date) < 4: continue
+        try:
+            year = int(date[:4])
+        except ValueError:
+            continue
+        actors = set(ev.get("actors") or [])
+        if not actors: continue
+        hits = []
+        for tl in timelines:
+            if tl["fromYear"] and year < tl["fromYear"]: continue
+            if tl["toYear"] and year > tl["toYear"]: continue
+            if actors & tl["match_names"]:
+                hits.append(tl["slug"])
+        if hits:
+            by_event[slug] = hits
+
+    # 3. For each actor, compute which timelines list them.
+    by_actor: dict[str, list[str]] = {}
+    for tl in timelines:
+        for ent in tl["entities"]:
+            by_actor.setdefault(ent, []).append(tl["slug"])
+        # Aliases also get the link — so /actors/justice-clarence-thomas/
+        # surfaces the Federalist Society timeline.
+        for ent in tl["entities"]:
+            aliases = []
+            try:
+                # re-load aliases (already in match_names but flattened)
+                p = timelines_dir / f"{tl['slug']}.md"
+                fm = yaml.safe_load(re.match(r"^---\n(.*?)\n---", p.read_text(), re.DOTALL).group(1))
+                aliases = (fm.get("entity_aliases") or {}).get(ent) or []
+            except Exception:
+                pass
+            for alias in aliases:
+                lst = by_actor.setdefault(alias, [])
+                if tl["slug"] not in lst:
+                    lst.append(tl["slug"])
+
+    # 4. Strip the working-set fields before serializing.
+    timelines_out = []
+    for tl in sorted(timelines, key=lambda t: t["weight"]):
+        timelines_out.append({
+            "slug": tl["slug"],
+            "title": tl["title"],
+            "subtitle": tl["subtitle"],
+            "summary": tl["summary"],
+            "fromYear": tl["fromYear"],
+            "toYear": tl["toYear"],
+            "entity_count": len(tl["entities"]),
+            "event_count": sum(1 for slug in by_event if tl["slug"] in by_event[slug]),
+        })
+
+    DATA.mkdir(parents=True, exist_ok=True)
+    out = {
+        "by_event": by_event,
+        "by_actor": by_actor,
+        "timelines": timelines_out,
+    }
+    (DATA / "timeline_membership.json").write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    n_events = len(by_event)
+    n_actors = len(by_actor)
+    n_tl = len(timelines_out)
+    print(f"  timeline_membership.json: {n_tl} timelines, {n_events} events x-ref'd, {n_actors} actor labels x-ref'd")
+
+def write_lane_top_actors(events: list[dict]) -> None:
+    """For each consolidated capture lane, find the top 10 actors by
+    event count *within that lane*. Drives a multi-row swimlane on
+    /lanes/<lane>/ term pages.
+
+    Output: data/lane_top_actors.json
+        {
+          "regulatory":  {top: ["Donald Trump", "Heritage Foundation", ...],
+                          year_min: 1900, year_max: 2026},
+          "financial":   {...},
+          ...
+        }
+    """
+    LANE_LABEL_MAP = {
+        "regulatory":   "regulatory", "federal workforce": "regulatory", "fiscal": "regulatory",
+        "financial":    "financial",  "corporate": "financial",
+        "intelligence": "intelligence", "surveillance": "intelligence",
+        "corruption":   "corruption", "institutional": "corruption",
+        "executive":    "executive",
+        "legislative":  "legislative", "electoral": "legislative",
+        "judicial":     "judicial",
+        "media":        "media", "digital": "media",
+        "democratic":   "democratic", "civil rights": "democratic",
+        "military":     "military", "detention": "military", "immigration": "military",
+        "labor":        "labor", "environmental": "labor",
+    }
+    def lane_key(s: str) -> str:
+        s = (s or "").lower()
+        for needle, key in LANE_LABEL_MAP.items():
+            if needle in s:
+                return key
+        return "other"
+
+    # Pass 1a: per-actor total event count (for normalization)
+    actor_total: dict[str, int] = defaultdict(int)
+    for ev in events:
+        for actor in ev.get("actors") or []:
+            actor_total[actor] += 1
+
+    # Pass 1b: per-lane per-actor counts + year range
+    by_lane: dict[str, dict] = defaultdict(lambda: {
+        "actor_counts": defaultdict(int),
+        "year_min": 9999, "year_max": 0,
+    })
+    for ev in events:
+        date = str(ev.get("date") or "")
+        if len(date) < 4: continue
+        try: year = int(date[:4])
+        except ValueError: continue
+        lanes = ev.get("capture_lanes") or []
+        seen = set()
+        for raw in lanes:
+            lk = lane_key(raw)
+            if lk in seen: continue
+            seen.add(lk)
+            slot = by_lane[lk]
+            if year < slot["year_min"]: slot["year_min"] = year
+            if year > slot["year_max"]: slot["year_max"] = year
+            for actor in ev.get("actors") or []:
+                slot["actor_counts"][actor] += 1
+
+    # Pass 2: rank by SPECIALIZATION not raw count.
+    # Score = lane_count * (lane_count / total_count) — favors actors whose
+    # work is concentrated in this lane. A specialized lane-actor outranks
+    # a generalist who happens to have many events in every lane.
+    # Floor: actor must have ≥3 events in the lane (avoid noise).
+    out: dict[str, dict] = {}
+    for lane_key_str, slot in by_lane.items():
+        ranked = []
+        for actor, count in slot["actor_counts"].items():
+            if count < 3: continue
+            total = actor_total.get(actor, count)
+            specialization = count / total if total > 0 else 0
+            score = count * specialization
+            ranked.append((actor, count, score))
+        # Sort by score desc, then count desc, then name
+        ranked.sort(key=lambda r: (-r[2], -r[1], r[0]))
+        out[lane_key_str] = {
+            "top": [name for name, _, _ in ranked[:10]],
+            "year_min": slot["year_min"],
+            "year_max": slot["year_max"],
+        }
+    DATA.mkdir(parents=True, exist_ok=True)
+    p = DATA / "lane_top_actors.json"
+    p.write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    n = sum(len(v["top"]) for v in out.values())
+    print(f"  lane_top_actors.json: {len(out)} lanes, {n} top-actor refs")
+
+def write_actor_events(events: list[dict]) -> None:
+    """For each actor, pre-compute a list of their event slugs ordered by date.
+
+    Output: data/actor_events.json keyed by actor name → list of compact
+    event records: {slug, date, lane_key, importance, status, title}.
+
+    Drives the per-actor mini-swimlane on actor term pages without forcing
+    Hugo to range/filter the full 5,021-event corpus per actor render.
+    Approximate savings: O(N×M) → O(M) on the actor-page renders that
+    use this data.
+    """
+    LANE_LABEL_MAP = {
+        "regulatory":   "regulatory", "federal workforce": "regulatory", "fiscal": "regulatory",
+        "financial":    "financial",  "corporate": "financial",
+        "intelligence": "intelligence", "surveillance": "intelligence",
+        "corruption":   "corruption", "institutional": "corruption",
+        "executive":    "executive",
+        "legislative":  "legislative", "electoral": "legislative",
+        "judicial":     "judicial",
+        "media":        "media", "digital": "media",
+        "democratic":   "democratic", "civil rights": "democratic",
+        "military":     "military", "detention": "military", "immigration": "military",
+        "labor":        "labor", "environmental": "labor",
+    }
+    def lane_key(s: str) -> str:
+        s = (s or "").lower()
+        for needle, key in LANE_LABEL_MAP.items():
+            if needle in s:
+                return key
+        return "other"
+
+    by_actor: dict[str, list[dict]] = defaultdict(list)
+    for ev in events:
+        if not ev.get("date"):
+            continue
+        slug = make_slug(ev)
+        # First lane → key (mirrors swimlane partial)
+        lanes = ev.get("capture_lanes") or []
+        lk = lane_key(lanes[0]) if lanes else "other"
+        rec = {
+            "slug":  slug,
+            "date":  str(ev["date"]),
+            "lane":  lk,
+            "imp":   ev.get("importance") or 5,
+            "stat":  (ev.get("status") or "")[:1],   # 'c'/'r'/'a'/'d' or ''
+            "title": (ev.get("title") or "")[:120],
+        }
+        for actor in ev.get("actors") or []:
+            by_actor[actor].append(rec)
+
+    # Sort each actor's events ascending by date for stable rendering
+    out: dict[str, list[dict]] = {}
+    for actor, recs in by_actor.items():
+        recs.sort(key=lambda r: r["date"])
+        out[actor] = recs
+
+    DATA.mkdir(parents=True, exist_ok=True)
+    p = DATA / "actor_events.json"
+    p.write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    n = len(out)
+    total_recs = sum(len(v) for v in out.values())
+    sz = p.stat().st_size // 1024
+    print(f"  actor_events.json: {n} actors, {total_recs} actor-event refs, {sz} KB")
+
 def write_co_actors(events: list[dict]) -> None:
     """For each actor, pre-compute their top-24 co-occurring actors (count desc).
 
@@ -612,6 +1014,10 @@ def main():
     write_taxonomy_indexes(events)
     write_resonance_index(events)
     write_co_actors(events)
+    write_actor_events(events)
+    write_lane_top_actors(events)
+    write_timeline_membership(events)
+    write_lane_stream(events)
     build_lastmod_map(events)
     write_quality_report(events, slug_idx)
     write_robots()

@@ -27,11 +27,17 @@
     <label for="f-lane">Lane</label>
     <select id="f-lane">
       <option value="">all lanes</option>
-      <option value="financial">Financial Capture</option>
-      <option value="democratic">Democratic Erosion</option>
-      <option value="corruption">Systematic Corruption</option>
-      <option value="labor">Labor Suppression</option>
-      <option value="extraction">Extraction Economy</option>
+      <option value="regulatory">Regulatory capture</option>
+      <option value="financial">Financial &amp; corporate</option>
+      <option value="intelligence">Intelligence &amp; surveillance</option>
+      <option value="corruption">Systematic corruption</option>
+      <option value="executive">Executive power</option>
+      <option value="legislative">Legislative &amp; electoral</option>
+      <option value="judicial">Judicial capture</option>
+      <option value="media">Media &amp; tech</option>
+      <option value="democratic">Democratic erosion</option>
+      <option value="military">Military &amp; detention</option>
+      <option value="labor">Labor &amp; environment</option>
     </select>
 
     <label for="f-status">Status</label>
@@ -180,13 +186,32 @@
     tagList:   document.getElementById('tag-list'),
   };
 
+  // Mirror the 12-lane consolidation in scripts/generate_content.py.
+  // Keep in sync.
   function laneKey(s){
     s = (s||'').toLowerCase();
-    if (s.indexOf('financial')!==-1) return 'finance';
-    if (s.indexOf('democratic')!==-1) return 'democracy';
-    if (s.indexOf('corruption')!==-1) return 'corruption';
-    if (s.indexOf('labor')!==-1) return 'labor';
-    if (s.indexOf('extraction')!==-1) return 'extraction';
+    if (s.indexOf('regulatory')!==-1)        return 'regulatory';
+    if (s.indexOf('federal workforce')!==-1) return 'regulatory';
+    if (s.indexOf('fiscal')!==-1)            return 'regulatory';
+    if (s.indexOf('financial')!==-1)         return 'financial';
+    if (s.indexOf('corporate')!==-1)         return 'financial';
+    if (s.indexOf('intelligence')!==-1)      return 'intelligence';
+    if (s.indexOf('surveillance')!==-1)      return 'intelligence';
+    if (s.indexOf('corruption')!==-1)        return 'corruption';
+    if (s.indexOf('institutional')!==-1)     return 'corruption';
+    if (s.indexOf('executive')!==-1)         return 'executive';
+    if (s.indexOf('legislative')!==-1)       return 'legislative';
+    if (s.indexOf('electoral')!==-1)         return 'legislative';
+    if (s.indexOf('judicial')!==-1)          return 'judicial';
+    if (s.indexOf('media')!==-1)             return 'media';
+    if (s.indexOf('digital')!==-1)           return 'media';
+    if (s.indexOf('democratic')!==-1)        return 'democratic';
+    if (s.indexOf('civil rights')!==-1)      return 'democratic';
+    if (s.indexOf('military')!==-1)          return 'military';
+    if (s.indexOf('detention')!==-1)         return 'military';
+    if (s.indexOf('immigration')!==-1)       return 'military';
+    if (s.indexOf('labor')!==-1)             return 'labor';
+    if (s.indexOf('environmental')!==-1)     return 'labor';
     return 'other';
   }
   function esc(s){ var d=document.createElement('div'); d.textContent=s||''; return d.innerHTML; }

@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="page timelines-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">Timelines</span>
+  </nav>
+
+  <header class="timelines-intro">
+    <span class="eyebrow">Curated views</span>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Params.summary | default "Hand-curated swimlane views — actor by actor, year by year. Each is a story you can read in five minutes and share as a URL." }}</p>
+  </header>
+
+  {{ with .Content }}
+  <div class="page-narrow" style="padding-top:32px;">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  <div class="timelines-grid">
+    {{ range (sort .Pages "Params.weight" "asc") }}
+    <a href="{{ .RelPermalink }}" class="timelines-card">
+      <span class="eyebrow">{{ .Params.subtitle | default "Timeline" }}</span>
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Params.summary }}</p>
+      <div class="timelines-card-meta">
+        <span>{{ len (.Params.entities | default slice) }} actors · {{ .Params.fromYear }}–{{ .Params.toYear }}</span>
+        <span>Read →</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

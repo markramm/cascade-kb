@@ -1,0 +1,242 @@
+{{/* ────────────────────────────────────────────────────────────────────
+  SWIMLANE CHART
+  Multi-track horizontal timeline. One row per entity (actor). Events
+  rendered as small filled markers, colored by capture lane, sized by
+  importance (1–10). Click marker → event page.
+
+  Inputs (passed via dict):
+    entities: []string         actor names to plot, in row order
+    fromYear: int              start of date axis (inclusive)
+    toYear:   int              end of date axis (inclusive)
+    title:    string           optional, used in aria-label
+    chart_id: string           unique DOM id (for tooltip targeting)
+
+  All math at template time → static SVG, no JS dependency for render.
+  Tooltip on hover via tiny inline JS (~30 lines). Print-safe.
+──────────────────────────────────────────────────────────────────── */}}
+{{- $entities := .entities | default slice -}}
+{{- $aliases := .aliases | default dict -}}
+{{- $fromYear := .fromYear | default 2000 -}}
+{{- $toYear := .toYear | default 2026 -}}
+{{- $chartId := .chart_id | default "swim" -}}
+{{- $title := .title | default "Swimlane timeline" -}}
+
+{{/* Density target: comfortable density for ~80 events per row. Higher
+     counts shrink markers proportionally so they don't smear into a bar.
+     Lower counts keep full-size markers. No data hidden. */}}
+{{- $densityTarget := 80 -}}
+
+{{- if not $entities -}}
+<p class="dim" style="font-style:italic;">No entities specified for this timeline.</p>
+{{- else -}}
+
+{{- /* Geometry */ -}}
+{{- $W := 1200 -}}
+{{- $rowH := 44 -}}
+{{- $padTop := 30 -}}      {{/* axis */}}
+{{- $padBottom := 14 -}}
+{{- $padLeft := 220 -}}     {{/* row labels */}}
+{{- $padRight := 18 -}}
+{{- $rowsCount := len $entities -}}
+{{- $H := add (add $padTop $padBottom) (mul $rowH $rowsCount) -}}
+{{- $plotW := sub $W (add $padLeft $padRight) -}}
+{{- $yearSpan := add 1 (sub $toYear $fromYear) -}}
+{{- $colW := div (float $plotW) (float $yearSpan) -}}
+
+{{- /* Capture lane → color map. Reuses the stream-chart palette. */ -}}
+{{- $laneColors := dict
+    "regulatory"   "#7a1f1f"
+    "financial"    "#a3406b"
+    "intelligence" "#3a5a7a"
+    "corruption"   "#b08833"
+    "executive"    "#5c2a4a"
+    "legislative"  "#5a7a3a"
+    "judicial"     "#9a5a1a"
+    "media"        "#2a6a6a"
+    "democratic"   "#b56a4a"
+    "military"     "#3a3a3a"
+    "labor"        "#7a7a3a"
+    "other"        "#8a8273"
+-}}
+
+{{- /* Pre-computed actor → events index from data/actor_events.json.
+       Each row reads its events via O(1) lookup instead of scanning
+       site.RegularPages (which would be O(N) per row). */ -}}
+{{- $actorEvents := site.Data.actor_events -}}
+
+{{- /* Annotation milestones in this date range. */ -}}
+{{- $annotations := slice
+    (dict "year" 1972 "label" "Watergate")
+    (dict "year" 1980 "label" "Reagan")
+    (dict "year" 1986 "label" "Iran-Contra")
+    (dict "year" 2001 "label" "9/11")
+    (dict "year" 2010 "label" "Citizens United")
+    (dict "year" 2017 "label" "Trump 1.0")
+    (dict "year" 2025 "label" "Trump 2.0")
+-}}
+
+<figure class="swimlane" aria-labelledby="{{ $chartId }}-title">
+  <svg viewBox="0 0 {{ $W }} {{ $H }}" preserveAspectRatio="xMidYMid meet" class="swimlane-svg" role="img" aria-label="{{ $title }} — {{ $rowsCount }} actor swimlanes from {{ $fromYear }} to {{ $toYear }}">
+    <title id="{{ $chartId }}-title">{{ $title }}</title>
+
+    {{/* X axis: top edge with year ticks */}}
+    {{- range $y := seq $fromYear $toYear -}}
+      {{- $i := sub $y $fromYear -}}
+      {{- $x := add $padLeft (mul (float $i) $colW) -}}
+      {{- $isDecade := eq (mod $y 10) 0 -}}
+      {{- $isHalfDec := eq (mod $y 5) 0 -}}
+      {{- if or $isDecade $isHalfDec -}}
+        <line x1="{{ $x }}" y1="{{ sub $padTop 6 }}" x2="{{ $x }}" y2="{{ sub $H $padBottom }}" class="sl-grid {{ if $isDecade }}sl-grid-decade{{ end }}"/>
+      {{- end -}}
+      {{- if $isDecade -}}
+        <text x="{{ $x }}" y="{{ sub $padTop 12 }}" class="sl-axis sl-axis-decade" text-anchor="middle">{{ $y }}</text>
+      {{- else if $isHalfDec -}}
+        <text x="{{ $x }}" y="{{ sub $padTop 12 }}" class="sl-axis" text-anchor="middle">{{ $y }}</text>
+      {{- end -}}
+    {{- end }}
+
+    {{/* Annotations: vertical hairline + label across full chart */}}
+    {{- range $annotations -}}
+      {{- if and (ge .year $fromYear) (le .year $toYear) -}}
+        {{- $i := sub .year $fromYear -}}
+        {{- $x := add $padLeft (mul (float $i) $colW) -}}
+        <line x1="{{ $x }}" y1="{{ $padTop }}" x2="{{ $x }}" y2="{{ sub $H $padBottom }}" class="sl-annot-line"/>
+        <text x="{{ add $x 4 }}" y="{{ add $padTop 9 }}" class="sl-annot-label">{{ .label }}</text>
+      {{- end -}}
+    {{- end }}
+
+    {{/* Per-entity rows */}}
+    {{- range $rowIdx, $entity := $entities -}}
+      {{- $rowY := add $padTop (mul (add $rowIdx 0.5) $rowH) -}}
+      {{- $rowTop := add $padTop (mul $rowIdx $rowH) -}}
+      {{- $rowBottom := add $padTop (mul (add $rowIdx 1) $rowH) -}}
+
+      {{/* Row background — alternating shade for readability */}}
+      {{- if eq (mod $rowIdx 2) 0 -}}
+        <rect x="0" y="{{ $rowTop }}" width="{{ $W }}" height="{{ $rowH }}" class="sl-row-shade"/>
+      {{- end -}}
+
+      {{/* Row separator line */}}
+      <line x1="0" y1="{{ $rowBottom }}" x2="{{ $W }}" y2="{{ $rowBottom }}" class="sl-row-rule"/>
+
+      {{/* Row label (entity name on left). The +N more count, if any, is
+           drawn just below the name once we know it (further down). */}}
+      {{- $entitySlug := $entity | urlize -}}
+      <a href="/actors/{{ $entitySlug }}/" class="sl-row-label-link">
+        <text x="{{ sub $padLeft 12 }}" y="{{ add $rowY 1 }}" class="sl-row-label" text-anchor="end">{{ $entity }}</text>
+      </a>
+
+      {{/* Row baseline (subtle horizontal line through the row) */}}
+      <line x1="{{ $padLeft }}" y1="{{ $rowY }}" x2="{{ sub $W $padRight }}" y2="{{ $rowY }}" class="sl-row-axis"/>
+
+      {{/* Build the matchable name set for this row: the entity itself
+           plus any aliases declared in $aliases[entity]. */}}
+      {{- $matchNames := slice $entity -}}
+      {{- with index $aliases $entity -}}
+        {{- range . -}}{{- $matchNames = $matchNames | append . -}}{{- end -}}
+      {{- end -}}
+
+      {{/* Pull this entity's pre-computed event records (plus any aliases),
+           then filter to the date range. Records are already shaped as
+           {slug, date, lane, imp, stat, title}. */}}
+      {{- $entityEvents := slice -}}
+      {{- $seen := dict -}}
+      {{- range $matchNames -}}
+        {{- $recs := index $actorEvents . | default slice -}}
+        {{- range $recs -}}
+          {{- if not (index $seen .slug) -}}
+            {{- $eYear := (time.AsTime .date).Year -}}
+            {{- if and (ge $eYear $fromYear) (le $eYear $toYear) -}}
+              {{- $entityEvents = $entityEvents | append . -}}
+              {{- $seen = merge $seen (dict .slug true) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{/* Compute density factor for this row. Markers scale by sqrt of
+           density-target / actual count so dense rows (1000+ events) get
+           small markers while sparse rows keep full-size ones. Clamped
+           to [0.35, 1.0] so even Donald Trump's row stays legible at ~1px. */}}
+      {{- $entityTotal := len $entityEvents -}}
+      {{- $rowDensityFactor := 1.0 -}}
+      {{- if gt $entityTotal $densityTarget -}}
+        {{- $rowDensityFactor = math.Sqrt (div (float $densityTarget) (float $entityTotal)) -}}
+        {{- if lt $rowDensityFactor 0.35 -}}{{- $rowDensityFactor = 0.35 -}}{{- end -}}
+      {{- end -}}
+
+      {{/* Render markers — records are pre-shaped {slug, date, lane, imp, stat, title}. */}}
+      {{- range $entityEvents -}}
+        {{- $t := time.AsTime .date -}}
+        {{- $eYear := $t.Year -}}
+        {{- $eMonth := int $t.Month -}}
+        {{- $eDay := $t.Day -}}
+        {{- $yearOffset := add (sub $eYear $fromYear) (div (float (sub $eMonth 1)) 12.0) -}}
+        {{- $yearOffset = add $yearOffset (div (float $eDay) 365.0) -}}
+        {{- $cx := add $padLeft (mul $yearOffset $colW) -}}
+        {{- $color := index $laneColors .lane | default "#888" -}}
+        {{- $rBase := add 3.5 (mul (float .imp) 0.4) -}}
+        {{- $r := mul $rBase $rowDensityFactor -}}
+        {{- $statusClass := "sl-event" -}}
+        {{- if eq .stat "a" -}}{{- $statusClass = "sl-event sl-event-alleged" -}}
+        {{- else if eq .stat "d" -}}{{- $statusClass = "sl-event sl-event-disputed" -}}
+        {{- else if eq .stat "r" -}}{{- $statusClass = "sl-event sl-event-reported" -}}{{- end -}}
+        <a href="/event/{{ .slug }}/" data-title="{{ .title }}" data-date="{{ dateFormat "Jan 2, 2006" .date }}" data-lane="{{ .lane }}">
+          <circle cx="{{ $cx }}" cy="{{ $rowY }}" r="{{ $r }}" fill="{{ $color }}" class="{{ $statusClass }}"/>
+        </a>
+      {{- end -}}
+
+      {{/* Event count under the row label, just for context.
+           No more "+N more" hidden — every event renders. */}}
+      {{- if gt $entityTotal 50 -}}
+        <text x="{{ sub $padLeft 12 }}" y="{{ add $rowY 14 }}" class="sl-row-count" text-anchor="end">{{ $entityTotal }} events</text>
+      {{- end -}}
+    {{- end }}
+
+    {{/* Top axis baseline */}}
+    <line x1="{{ $padLeft }}" y1="{{ $padTop }}" x2="{{ sub $W $padRight }}" y2="{{ $padTop }}" class="sl-axis-line"/>
+  </svg>
+
+  <div class="sl-tooltip" id="{{ $chartId }}-tip"></div>
+
+  {{/* Legend below */}}
+  <div class="sl-legend">
+    <span class="sl-legend-label">Capture lane</span>
+    {{- range $k, $v := $laneColors -}}
+      <span class="sl-legend-chip"><span class="sl-legend-dot" style="background:{{ $v }};"></span>{{ $k }}</span>
+    {{- end -}}
+    <span class="sl-legend-divider"></span>
+    <span class="sl-legend-label">Status</span>
+    <span class="sl-legend-chip"><span class="sl-legend-dot sl-legend-confirmed"></span>confirmed</span>
+    <span class="sl-legend-chip"><span class="sl-legend-dot sl-legend-alleged"></span>alleged</span>
+    <span class="sl-legend-chip"><span class="sl-legend-dot sl-legend-disputed"></span>disputed</span>
+  </div>
+</figure>
+
+<script>
+(function(){
+  var fig = document.querySelector('#{{ $chartId }}-tip').closest('.swimlane');
+  var tip = document.getElementById('{{ $chartId }}-tip');
+  if (!fig || !tip) return;
+  var markers = fig.querySelectorAll('a[data-title]');
+  markers.forEach(function(a){
+    var c = a.querySelector('circle');
+    a.addEventListener('mouseenter', function(){
+      tip.innerHTML = '<div class="sl-tip-date">' + a.dataset.date + '</div>'
+        + '<div class="sl-tip-title">' + a.dataset.title + '</div>'
+        + '<div class="sl-tip-lane">' + a.dataset.lane + '</div>';
+      tip.classList.add('on');
+    });
+    a.addEventListener('mouseleave', function(){
+      tip.classList.remove('on');
+    });
+    a.addEventListener('mousemove', function(e){
+      var r = fig.getBoundingClientRect();
+      tip.style.left = (e.clientX - r.left) + 'px';
+      tip.style.top  = (e.clientY - r.top - 16) + 'px';
+    });
+  });
+})();
+</script>
+
+{{- end }}

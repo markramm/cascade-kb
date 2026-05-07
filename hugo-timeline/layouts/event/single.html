@@ -39,17 +39,43 @@
         <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
       </div>
 
-      {{/* On this day in history — uses pre-computed data/resonance.json */}}
+      {{/* On this day in history — uses pre-computed data/resonance.json.
+           Strategy: try preferred offsets (1, 5, 10, 25, 50, 100 years
+           ago) first; if nothing exact matches, fall back to ANY same-
+           MM-DD event in another year. Excludes the current event. */}}
       {{ $mmddKey := dateFormat "0102" .Params.date }}
       {{ $bucket := index site.Data.resonance $mmddKey | default slice }}
+      {{ $thisSlug := .File.ContentBaseName }}
       {{ $resonance := slice }}
+      {{ $seen := dict }}
+      {{/* Pass 1: preferred offsets */}}
       {{ range slice 1 5 10 25 50 100 }}
         {{ $diff := . }}
         {{ $targetYear := sub $thisYear $diff }}
         {{ range $bucket }}
-          {{ if eq .year $targetYear }}
-            {{ $resonance = $resonance | append (dict "diff" $diff "year" .year "slug" .slug "title" .title) }}
+          {{ if and (eq .year $targetYear) (ne .slug $thisSlug) }}
+            {{ if not (index $seen .slug) }}
+              {{ $resonance = $resonance | append (dict "diff" $diff "year" .year "slug" .slug "title" .title) }}
+              {{ $seen = merge $seen (dict .slug true) }}
+            {{ end }}
           {{ end }}
+        {{ end }}
+      {{ end }}
+      {{/* Pass 2: fall back to any other same-day events, sorted by recency
+           relative to this event (closer years first), capped at 4. */}}
+      {{ if lt (len $resonance) 4 }}
+        {{ $candidates := slice }}
+        {{ range $bucket }}
+          {{ if and (ne .year $thisYear) (ne .slug $thisSlug) (not (index $seen .slug)) }}
+            {{ $absDiff := sub $thisYear .year }}
+            {{ if lt $absDiff 0 }}{{ $absDiff = sub 0 $absDiff }}{{ end }}
+            {{ $candidates = $candidates | append (dict "diff" $absDiff "year" .year "slug" .slug "title" .title) }}
+          {{ end }}
+        {{ end }}
+        {{ $sorted := sort $candidates "diff" "asc" }}
+        {{ $need := sub 4 (len $resonance) }}
+        {{ range first $need $sorted }}
+          {{ $resonance = $resonance | append . }}
         {{ end }}
       {{ end }}
       {{ if gt (len $resonance) 0 }}
@@ -57,7 +83,12 @@
         <div class="eyebrow" style="margin-bottom:10px;">On this day</div>
         {{ range $resonance }}
         <a href="/event/{{ .slug }}/" style="display:block;text-decoration:none;color:var(--ink-2);padding:8px 0;border-bottom:1px dashed var(--paper-edge);">
-          <span class="mono" style="color:var(--ox);font-size:10.5px;letter-spacing:0.08em;">{{ .diff }} year{{ if ne .diff 1 }}s{{ end }} ago · {{ .year }}</span><br>
+          <span class="mono" style="color:var(--ox);font-size:10.5px;letter-spacing:0.08em;">
+            {{- $diffN := int .diff -}}
+            {{- if eq $diffN 0 -}}same day · {{ .year }}
+            {{- else -}}{{ $diffN }} year{{ if ne $diffN 1 }}s{{ end }} ago · {{ .year }}
+            {{- end -}}
+          </span><br>
           <span style="font-family:var(--serif-display);font-size:13.5px;line-height:1.25;">{{ .title | truncate 70 }}</span>
         </a>
         {{ end }}
@@ -97,7 +128,7 @@
           {{ end }}
         </div>
         {{ with .Params.capture_lanes }}
-        <div style="margin-top:14px;display:flex;gap:8px;flex-wrap:wrap;">
+        <div style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;">
           {{ range . }}
             {{ $key := "other" }}
             {{ if in (lower .) "financial" }}{{ $key = "finance" }}
@@ -145,6 +176,26 @@
       {{ end }}
 
       <aside class="event-aside">
+        {{/* "Appears in" — cross-link to curated timelines that contain this event. */}}
+        {{ $tlSlugs := index site.Data.timeline_membership.by_event .File.ContentBaseName }}
+        {{ if $tlSlugs }}
+        <div>
+          <h3>Appears in</h3>
+          <div class="actor-list">
+            {{ range $tlSlugs }}
+              {{ $slug := . }}
+              {{ $tl := index (where site.Data.timeline_membership.timelines "slug" $slug) 0 }}
+              {{ if $tl }}
+              <a href="/timelines/{{ $slug }}/">
+                <span>{{ $tl.title }}</span>
+                <span class="count" aria-hidden="true">→</span>
+              </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
         {{ with .Params.actors }}
         <div>
           <h3>Actors named</h3>

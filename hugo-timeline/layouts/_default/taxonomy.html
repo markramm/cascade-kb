@@ -52,9 +52,96 @@
       </div>
     </header>
 
-    {{/* Mini density chart — gated to ≤500 events to keep build time bounded.
-         For larger terms (Donald Trump, etc.), skip — the ledger table tells the story. */}}
-    {{ if and (or (eq $kind "decade") (eq $kind "year") (ge $count 5)) (le $count 500) }}
+    {{/* Visualizations:
+         - actors → mini swimlane (one row, lane-colored event markers).
+         - decade/lane/tag → mini density bar (events per year).
+         - year → none (single-year span has no time signal). */}}
+
+    {{/* ── Actor: mini swimlane ─ uses pre-computed actor_events.json
+         to skip a full 5,021-event scan per actor page render. */}}
+    {{ if eq $kind "actors" }}
+      {{ $records := index site.Data.actor_events .Title | default slice }}
+      {{ if and (ge (len $records) 3) (le (len $records) 1500) }}
+        {{/* Compute year range from the records. */}}
+        {{ $minY := 9999 }}{{ $maxY := 0 }}
+        {{ range $records }}
+          {{ $y := (time.AsTime .date).Year }}
+          {{ if lt $y $minY }}{{ $minY = $y }}{{ end }}
+          {{ if gt $y $maxY }}{{ $maxY = $y }}{{ end }}
+        {{ end }}
+        {{ if lt (sub $maxY $minY) 10 }}
+          {{ $maxY = add $minY 10 }}
+          {{ if gt $maxY now.Year }}
+            {{ $maxY = now.Year }}
+            {{ if lt (sub $maxY $minY) 10 }}{{ $minY = sub $maxY 10 }}{{ end }}
+          {{ end }}
+        {{ end }}
+        <div style="margin:28px 0 14px;">
+          <div class="density-title" style="margin-bottom:10px;">
+            <span><strong>{{ .Title }} on the timeline</strong></span>
+            <span class="dim">{{ len $records }} event{{ if ne (len $records) 1 }}s{{ end }} · {{ $minY }}–{{ $maxY }} · click any marker</span>
+          </div>
+          {{ partial "swimlane-mini.html" (dict
+              "label"    .Title
+              "records"  $records
+              "fromYear" $minY
+              "toYear"   $maxY
+              "chart_id" (printf "act-%s" (.Title | urlize))
+          ) }}
+        </div>
+      {{ end }}
+    {{ end }}
+
+    {{/* ── Lane: top-actors swimlane (precomputed). Shows who drove
+         this lane over time, capped at top 10 actors by event volume. */}}
+    {{ if eq $kind "lanes" }}
+      {{/* Look up by consolidated key. The lane page title is the raw
+           name (e.g. "Regulatory Capture"); we re-derive its key. */}}
+      {{ $rawLower := lower .Title }}
+      {{ $laneKey := "other" }}
+      {{ if in $rawLower "regulatory" }}{{ $laneKey = "regulatory" }}
+      {{ else if in $rawLower "federal workforce" }}{{ $laneKey = "regulatory" }}
+      {{ else if in $rawLower "fiscal" }}{{ $laneKey = "regulatory" }}
+      {{ else if in $rawLower "financial" }}{{ $laneKey = "financial" }}
+      {{ else if in $rawLower "corporate" }}{{ $laneKey = "financial" }}
+      {{ else if in $rawLower "intelligence" }}{{ $laneKey = "intelligence" }}
+      {{ else if in $rawLower "surveillance" }}{{ $laneKey = "intelligence" }}
+      {{ else if in $rawLower "corruption" }}{{ $laneKey = "corruption" }}
+      {{ else if in $rawLower "institutional" }}{{ $laneKey = "corruption" }}
+      {{ else if in $rawLower "executive" }}{{ $laneKey = "executive" }}
+      {{ else if in $rawLower "legislative" }}{{ $laneKey = "legislative" }}
+      {{ else if in $rawLower "electoral" }}{{ $laneKey = "legislative" }}
+      {{ else if in $rawLower "judicial" }}{{ $laneKey = "judicial" }}
+      {{ else if in $rawLower "media" }}{{ $laneKey = "media" }}
+      {{ else if in $rawLower "digital" }}{{ $laneKey = "media" }}
+      {{ else if in $rawLower "democratic" }}{{ $laneKey = "democratic" }}
+      {{ else if in $rawLower "civil rights" }}{{ $laneKey = "democratic" }}
+      {{ else if in $rawLower "military" }}{{ $laneKey = "military" }}
+      {{ else if in $rawLower "detention" }}{{ $laneKey = "military" }}
+      {{ else if in $rawLower "immigration" }}{{ $laneKey = "military" }}
+      {{ else if in $rawLower "labor" }}{{ $laneKey = "labor" }}
+      {{ else if in $rawLower "environmental" }}{{ $laneKey = "labor" }}
+      {{ end }}
+      {{ $laneData := index site.Data.lane_top_actors $laneKey }}
+      {{ if $laneData }}
+        <div style="margin:32px 0 14px;">
+          <div class="density-title" style="margin-bottom:10px;">
+            <span><strong>Top 10 actors in this lane</strong></span>
+            <span class="dim">{{ len $laneData.top }} actors · {{ $laneData.year_min }}–{{ $laneData.year_max }}</span>
+          </div>
+          {{ partial "swimlane-chart.html" (dict
+              "entities" $laneData.top
+              "fromYear" $laneData.year_min
+              "toYear"   $laneData.year_max
+              "title"    (printf "Top actors in %s" .Title)
+              "chart_id" (printf "lane-%s" $laneKey)
+          ) }}
+        </div>
+      {{ end }}
+    {{ end }}
+
+    {{/* ── Tag / decade: mini density bar ────────────────────── */}}
+    {{ if and (or (eq $kind "decade") (eq $kind "tags")) (ge $count 5) (le $count 500) }}
     <div class="density-frame" style="margin:32px 0;padding:0;">
       <div class="density-title" style="margin-bottom:10px;">
         <span><strong>Activity over time</strong></span>
@@ -127,6 +214,29 @@
     </table>
 
     {{ template "_internal/pagination.html" . }}
+
+    {{/* "Appears in" — cross-link to curated timelines that include this actor. */}}
+    {{ if eq $kind "actors" }}
+    {{ $tlSlugs := index site.Data.timeline_membership.by_actor .Title }}
+    {{ if $tlSlugs }}
+    <section style="margin-top:48px;padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
+      <div class="eyebrow" style="margin-bottom:10px;">Appears in curated timelines</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-top:8px;">
+        {{ range $tlSlugs }}
+          {{ $slug := . }}
+          {{ $tl := index (where site.Data.timeline_membership.timelines "slug" $slug) 0 }}
+          {{ if $tl }}
+          <a href="/timelines/{{ $slug }}/" style="display:block;padding:14px 18px;background:var(--paper);border:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);transition:border-color .12s;" onmouseover="this.style.borderColor='var(--ox)'" onmouseout="this.style.borderColor='var(--paper-edge)'">
+            <span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ox);">{{ $tl.fromYear }}–{{ $tl.toYear }}</span>
+            <div style="font-family:var(--serif-display);font-size:1.1rem;line-height:1.2;margin-top:4px;font-weight:500;">{{ $tl.title }}</div>
+            {{ with $tl.subtitle }}<div style="font-size:13px;color:var(--ink-3);margin-top:4px;line-height:1.4;">{{ . }}</div>{{ end }}
+          </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+    {{ end }}
 
     {{/* Co-occurrence — uses pre-computed data/co_actors.json (top 24 only) */}}
     {{ if eq $kind "actors" }}

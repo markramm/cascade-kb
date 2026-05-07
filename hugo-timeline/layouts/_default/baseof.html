@@ -177,9 +177,10 @@
     </a>
     <nav class="nav" id="nav" aria-label="Main">
       <input type="search" class="nav-search nav-search-mobile" id="nav-search-mobile" placeholder="Search events…" aria-label="Search events" autocomplete="off">
+      <a href="/timelines/" class="{{ if hasPrefix .RelPermalink "/timelines" }}is-active{{ end }}">Timelines</a>
       <a href="/year/{{ now.Year }}/" class="{{ if hasPrefix .RelPermalink "/year/" }}is-active{{ end }}">By Year</a>
       <a href="/decade/" class="{{ if hasPrefix .RelPermalink "/decade/" }}is-active{{ end }}">By Decade</a>
-      <a href="/lanes/" class="{{ if hasPrefix .RelPermalink "/lanes/" }}is-active{{ end }}">Capture Lanes</a>
+      <a href="/lanes/" class="{{ if hasPrefix .RelPermalink "/lanes/" }}is-active{{ end }}">Lanes</a>
       <a href="/actors/" class="{{ if hasPrefix .RelPermalink "/actors/" }}is-active{{ end }}">Actors</a>
       <a href="/tags/" class="{{ if hasPrefix .RelPermalink "/tags/" }}is-active{{ end }}">Tags</a>
       <a href="/q/" class="{{ if eq .RelPermalink "/q/" }}is-active{{ end }}">Filter</a>

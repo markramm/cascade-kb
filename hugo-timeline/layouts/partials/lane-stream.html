@@ -1,0 +1,283 @@
+{{/* ────────────────────────────────────────────────────────────────────
+  THE CAPTURE LANE STREAM
+  A NORMALIZED stacked area chart — 1970–2026, x = year,
+  y = lane share of that year's events (each year sums to 100%).
+
+  Why normalized: 2025 alone has 2,905 events vs. ~300 in typical years.
+  An absolute-volume chart would render 1970–2024 as a flatline. The
+  composition chart answers the editorial question "which capture lane
+  was DOMINANT when?" — a question about ratio, not magnitude. The
+  homepage already has a separate density chart for absolute volume.
+
+  Why 1970+: pre-1970 totals are <30 events/year — too sparse for the
+  composition signal to be stable. The full 1142–2026 record is in
+  /decade/ and /year/ pages.
+
+  Uses data/lane_stream.json. All math done at template-time so the SVG
+  is self-contained and cacheable; no client-side JS chart lib.
+──────────────────────────────────────────────────────────────────── */}}
+{{- $d := site.Data.lane_stream -}}
+{{- if $d -}}
+
+{{- $W := 1200 -}}
+{{- $H := 360 -}}
+{{- $padTop := 12 -}}
+{{- $padBottom := 24 -}}
+{{- $plotH := sub $H (add $padTop $padBottom) -}}
+
+{{/* Filter to 1970+. Each year with a real total >0 gets included;
+     years with no events at all are dropped (gaps in the chart). */}}
+{{- $rangeStart := 1970 -}}
+{{- $rows := slice -}}
+{{- $lanes := $d.lanes -}}
+{{- range $d.rows -}}
+  {{- if ge .year $rangeStart -}}
+    {{- $row := . -}}
+    {{- $sum := 0 -}}
+    {{- range $lanes -}}{{- $sum = add $sum (index $row .) -}}{{- end -}}
+    {{- if gt $sum 0 -}}
+      {{- $rows = $rows | append (merge $row (dict "_total" $sum)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $years := len $rows -}}
+{{- $colW := div (float $W) (float $years) -}}
+
+{{/* Normalized: each year scales to 1.0. We multiply by plot height for
+     y-coords. No need for a separate $maxTotal since all years are full. */}}
+
+{{/* Lane palette + readable labels */}}
+{{- $colors := dict
+    "regulatory"   "#7a1f1f"
+    "financial"    "#a3406b"
+    "intelligence" "#3a5a7a"
+    "corruption"   "#b08833"
+    "executive"    "#5c2a4a"
+    "legislative"  "#5a7a3a"
+    "judicial"     "#9a5a1a"
+    "media"        "#2a6a6a"
+    "democratic"   "#b56a4a"
+    "military"     "#3a3a3a"
+    "labor"        "#7a7a3a"
+    "other"        "#8a8273"
+-}}
+{{- $labels := dict
+    "regulatory"   "Regulatory capture"
+    "financial"    "Financial &amp; corporate"
+    "intelligence" "Intelligence &amp; surveillance"
+    "corruption"   "Systematic corruption"
+    "executive"    "Executive power"
+    "legislative"  "Legislative &amp; electoral"
+    "judicial"     "Judicial capture"
+    "media"        "Media &amp; tech"
+    "democratic"   "Democratic erosion &amp; civil rights"
+    "military"     "Military &amp; detention"
+    "labor"        "Labor &amp; environment"
+    "other"        "Other"
+-}}
+
+{{/* Annotated milestones — pivotal years to surface inline */}}
+{{- $annotations := slice
+    (dict "year" 1929 "label" "1929 Crash")
+    (dict "year" 1953 "label" "Iran coup")
+    (dict "year" 1972 "label" "Watergate")
+    (dict "year" 1980 "label" "Reagan era")
+    (dict "year" 2001 "label" "9/11 / Patriot Act")
+    (dict "year" 2010 "label" "Citizens United")
+    (dict "year" 2017 "label" "Trump 1.0")
+    (dict "year" 2025 "label" "Project 2025")
+-}}
+
+<figure class="lane-stream" aria-labelledby="ls-title">
+  <figcaption class="ls-caption">
+    <div class="ls-eyebrow">Composition · {{ $rangeStart }}–{{ $d.end_year }}</div>
+    <h2 id="ls-title" class="ls-h">
+      Which capture lane was <em>dominant</em> when?
+    </h2>
+    <p class="ls-sub">
+      Each year normalized to 100% — the bands show which mechanisms of institutional capture
+      were most prominent across {{ sub $d.end_year $rangeStart }} years of record.
+      <span class="ls-sub-dim">Hover a band to isolate it. Click any year to enter that year.</span>
+    </p>
+  </figcaption>
+
+  <div class="ls-frame">
+    <svg viewBox="0 0 {{ $W }} {{ $H }}" preserveAspectRatio="none" class="ls-svg" role="img" aria-label="Stacked area chart of event volume per capture lane from {{ $d.start_year }} to {{ $d.end_year }}.">
+      {{/* Gridlines: 25%, 50%, 75% of stack height. */}}
+      {{- range slice 0.25 0.50 0.75 -}}
+        {{- $y := sub (add $padTop $plotH) (mul $plotH .) -}}
+        <line x1="0" y1="{{ $y }}" x2="{{ $W }}" y2="{{ $y }}" class="ls-grid"/>
+      {{- end }}
+
+      {{/* Decade tick marks on x-axis. We scan filtered rows by index so
+           x-positions match the filtered (1970+) range. */}}
+      {{- range $i, $row := $rows -}}
+        {{- if eq (mod $row.year 10) 0 -}}
+          {{- $x := mul (float $i) $colW -}}
+          <line x1="{{ $x }}" y1="{{ add $padTop $plotH }}" x2="{{ $x }}" y2="{{ add (add $padTop $plotH) 4 }}" class="ls-tick"/>
+          {{- if eq (mod $row.year 10) 0 -}}
+            <text x="{{ $x }}" y="{{ sub $H 6 }}" class="ls-axis" text-anchor="middle">{{ $row.year }}</text>
+          {{- end -}}
+        {{- end -}}
+      {{- end }}
+
+      {{/* Stacked area paths — one per lane, bottom-up.
+           NORMALIZED: cumulative[i] is a fraction in [0..1] representing
+           the share of year i's events covered by lanes already drawn.
+           upper[i] = cumulative[i] + row[lane] / row._total. */}}
+      {{- $cumulative := slice -}}
+      {{- range $rows -}}{{- $cumulative = $cumulative | append 0.0 -}}{{- end -}}
+      {{- range $li, $lane := $lanes }}
+        {{- $color := index $colors $lane | default "#888" -}}
+        {{- $label := index $labels $lane | default $lane -}}
+        {{- $total := index $d.totals $lane -}}
+
+        {{/* Compute upper edge for this lane (cumulative + lane share). */}}
+        {{- $upper := slice -}}
+        {{- range $i, $row := $rows -}}
+          {{- $prev := index $cumulative $i -}}
+          {{- $share := div (float (index $row $lane)) (float $row._total) -}}
+          {{- $next := add $prev $share -}}
+          {{- $upper = $upper | append $next -}}
+        {{- end -}}
+
+        {{/* Build SVG path: top edge L→R, bottom edge R→L. */}}
+        {{- $pathParts := slice -}}
+        {{- range $i, $row := $rows -}}
+          {{- $x := mul (float $i) $colW -}}
+          {{- $y := sub (add $padTop $plotH) (mul $plotH (index $upper $i)) -}}
+          {{- $cmd := "L" -}}
+          {{- if eq $i 0 -}}{{- $cmd = "M" -}}{{- end -}}
+          {{- $pathParts = $pathParts | append (printf "%s%.2f %.2f" $cmd $x $y) -}}
+        {{- end -}}
+        {{- range $j, $row := $rows -}}
+          {{- $i := sub (sub $years 1) $j -}}
+          {{- $x := mul (float $i) $colW -}}
+          {{- $base := index $cumulative $i -}}
+          {{- $y := sub (add $padTop $plotH) (mul $plotH $base) -}}
+          {{- $pathParts = $pathParts | append (printf "L%.2f %.2f" $x $y) -}}
+        {{- end -}}
+        {{- $pathParts = $pathParts | append "Z" -}}
+        <path d="{{ delimit $pathParts " " }}" class="ls-band ls-band-{{ $lane }}" data-lane="{{ $lane }}" data-label="{{ $label | safeHTML }}" data-total="{{ $total }}" fill="{{ $color }}"/>
+
+        {{/* Promote upper edge → cumulative for the next lane. */}}
+        {{- $cumulative = $upper -}}
+      {{- end }}
+
+      {{/* Annotation overlays — vertical hairlines + italic labels.
+           Find each annotated year's index in the filtered rows. */}}
+      {{- range $a := $annotations -}}
+        {{- $found := -1 -}}
+        {{- range $i, $row := $rows -}}
+          {{- if eq $row.year $a.year -}}{{- $found = $i -}}{{- end -}}
+        {{- end -}}
+        {{- if ge $found 0 -}}
+          {{- $x := mul (float $found) $colW -}}
+          <line x1="{{ $x }}" y1="{{ $padTop }}" x2="{{ $x }}" y2="{{ add $padTop $plotH }}" class="ls-annot-line"/>
+          <text x="{{ add $x 4 }}" y="{{ add $padTop 12 }}" class="ls-annot-label">{{ $a.label }}</text>
+        {{- end -}}
+      {{- end }}
+
+      {{/* Click-targets: invisible per-year rects routing to /year/. */}}
+      {{- range $i, $row := $rows -}}
+        {{- $x := mul (float $i) $colW -}}
+        <a href="/year/{{ $row.year }}/" aria-label="See events in {{ $row.year }}">
+          <rect x="{{ $x }}" y="{{ $padTop }}" width="{{ $colW }}" height="{{ $plotH }}" class="ls-yearcell" data-year="{{ $row.year }}" data-total="{{ $row._total }}"/>
+        </a>
+      {{- end }}
+
+      {{/* X axis baseline */}}
+      <line x1="0" y1="{{ add $padTop $plotH }}" x2="{{ $W }}" y2="{{ add $padTop $plotH }}" class="ls-axis-line"/>
+    </svg>
+
+    <div class="ls-tooltip" id="ls-tip"></div>
+  </div>
+
+  {{/* Legend below — clicking a chip toggles isolation */}}
+  <ul class="ls-legend" role="list">
+    {{- range $lanes -}}
+      {{- $color := index $colors . | default "#888" -}}
+      {{- $label := index $labels . | default . -}}
+      {{- $total := index $d.totals . -}}
+      <li>
+        <button type="button" class="ls-chip" data-lane="{{ . }}" aria-pressed="false">
+          <span class="ls-chip-swatch" style="background:{{ $color }};"></span>
+          <span class="ls-chip-label">{{ $label | safeHTML }}</span>
+          <span class="ls-chip-total">{{ $total }}</span>
+        </button>
+      </li>
+    {{- end -}}
+  </ul>
+</figure>
+
+<script>
+(function(){
+  var svg = document.querySelector('.lane-stream .ls-svg');
+  var tip = document.getElementById('ls-tip');
+  if(!svg) return;
+  var bands = svg.querySelectorAll('.ls-band');
+  var chips = document.querySelectorAll('.lane-stream .ls-chip');
+  var cells = svg.querySelectorAll('.ls-yearcell');
+  var isolated = null;
+
+  // Hover band → tooltip
+  bands.forEach(function(b){
+    b.addEventListener('mouseenter', function(e){
+      tip.innerHTML = b.dataset.label + ' · <strong>' + Number(b.dataset.total).toLocaleString() + '</strong> events';
+      tip.classList.add('on');
+      svg.classList.add('hovering');
+      b.classList.add('hover');
+    });
+    b.addEventListener('mouseleave', function(){
+      tip.classList.remove('on');
+      svg.classList.remove('hovering');
+      b.classList.remove('hover');
+    });
+    b.addEventListener('mousemove', function(e){
+      var r = svg.getBoundingClientRect();
+      tip.style.left = (e.clientX - r.left) + 'px';
+      tip.style.top  = (e.clientY - r.top - 18) + 'px';
+    });
+  });
+
+  // Hover/click year cell → year tooltip with that year's event count
+  cells.forEach(function(c){
+    c.addEventListener('mouseenter', function(e){
+      if(!svg.classList.contains('hovering')) {
+        var t = Number(c.dataset.total).toLocaleString();
+        tip.innerHTML = '<span class="ls-tip-year">' + c.dataset.year + '</span> · ' + t + ' events · click to enter';
+        tip.classList.add('on');
+      }
+    });
+    c.addEventListener('mouseleave', function(){
+      if(!svg.classList.contains('hovering')) tip.classList.remove('on');
+    });
+    c.addEventListener('mousemove', function(e){
+      var r = svg.getBoundingClientRect();
+      tip.style.left = (e.clientX - r.left) + 'px';
+      tip.style.top  = (e.clientY - r.top - 18) + 'px';
+    });
+  });
+
+  // Click chip → isolate that lane (others fade)
+  chips.forEach(function(chip){
+    chip.addEventListener('click', function(){
+      var lane = chip.dataset.lane;
+      if(isolated === lane){
+        isolated = null;
+        document.querySelector('.lane-stream').classList.remove('isolated');
+        chips.forEach(function(c){ c.setAttribute('aria-pressed','false'); });
+      } else {
+        isolated = lane;
+        document.querySelector('.lane-stream').classList.add('isolated');
+        document.querySelector('.lane-stream').dataset.isolated = lane;
+        chips.forEach(function(c){
+          c.setAttribute('aria-pressed', c.dataset.lane === lane ? 'true' : 'false');
+        });
+      }
+    });
+  });
+})();
+</script>
+
+{{- end }}
