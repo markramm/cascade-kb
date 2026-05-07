@@ -36,7 +36,10 @@ RUN pip install --no-cache-dir \
 
 WORKDIR /build
 
-# Copy KB source (cascade-timeline/) and the Hugo project (hugo-timeline/)
+# Copy KB source (cascade-timeline/) and the Hugo project (hugo-timeline/).
+# .git/ is included so generate_content.py can derive per-event lastmod from
+# git history (used in sitemap-events.xml).
+COPY .git/             ./.git/
 COPY cascade-timeline/ ./cascade-timeline/
 COPY hugo-timeline/    ./hugo-timeline/
 

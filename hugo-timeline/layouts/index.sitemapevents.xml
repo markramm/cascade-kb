@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-{{/* lastmod: Google rejects dates before ~1970 as "invalid" even though the
-     W3C Datetime spec allows them. For historical events whose .Lastmod is
-     the original event date (e.g. 1142, 1619), use the build time instead —
-     it semantically reflects when the URL was last regenerated. */}}
-{{- $cutoff := time.AsTime "1970-01-01" -}}
+{{/* lastmod sourced from data/lastmod.json (per-event git commit time,
+     pre-validated by scripts/generate_content.py). Falls back to build
+     time only if the slug is missing from the map. Google rejects
+     pre-1970 lastmod values; the generator already filters those out. */}}
 {{- $buildtime := now.Format "2006-01-02T15:04:05-07:00" -}}
+{{- $lastmod := site.Data.lastmod -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{- range where site.RegularPages "Type" "event" }}
-  {{- $lm := .Lastmod -}}
-  {{- $when := "" -}}
-  {{- if $lm.Before $cutoff -}}
-    {{- $when = $buildtime -}}
-  {{- else -}}
-    {{- $when = $lm.Format "2006-01-02T15:04:05-07:00" -}}
-  {{- end }}
+  {{- $slug := .File.ContentBaseName -}}
+  {{- $when := index $lastmod $slug | default $buildtime -}}
   <url>
     <loc>{{ .Permalink }}</loc>
     <lastmod>{{ $when | safeHTML }}</lastmod>

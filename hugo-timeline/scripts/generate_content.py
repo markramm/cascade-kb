@@ -287,6 +287,78 @@ def write_co_actors(events: list[dict]) -> None:
     (DATA / "co_actors.json").write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
     print(f"  co_actors.json: {len(out)} actors with co-occurrence data")
 
+def build_lastmod_map(events: list[dict]) -> dict[str, str]:
+    """Run a single `git log` pass to get last-commit date for every event
+    source file in cascade-timeline/. Returns {slug: ISO8601-date}.
+
+    Falls back to filesystem mtime if git is unavailable (e.g. shallow
+    Docker contexts without .git/), and to build time if mtime is also
+    suspicious. ISO8601 with timezone, ready for sitemap consumption.
+    """
+    import subprocess, datetime as _dt
+    out: dict[str, str] = {}
+    build_now = _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+    cutoff = _dt.datetime(1970, 1, 1, tzinfo=_dt.timezone.utc)
+
+    # Single git invocation listing every file in cascade-timeline/ with its
+    # most recent commit timestamp. ~700ms on a 5K-file repo vs. ~30s for
+    # 5,000 individual `git log -1` calls.
+    git_dir = KB.parent
+    git_dates: dict[str, str] = {}
+    try:
+        # `git log --name-only --format=%cI` walks history once, emitting
+        # commit timestamp followed by changed-file paths. We keep the FIRST
+        # timestamp seen per file (newest commit wins because `git log`
+        # defaults to reverse-chronological).
+        proc = subprocess.run(
+            ["git", "log", "--name-only", "--format=%cI"],
+            cwd=git_dir, capture_output=True, text=True, timeout=120,
+        )
+        if proc.returncode == 0:
+            current_ts = ""
+            for line in proc.stdout.splitlines():
+                line = line.strip()
+                if not line:
+                    continue
+                if re.match(r"^\d{4}-\d{2}-\d{2}T", line):
+                    current_ts = line
+                elif current_ts and line.startswith("cascade-timeline/"):
+                    rel = line[len("cascade-timeline/"):]
+                    git_dates.setdefault(rel, current_ts)   # first = newest
+            print(f"  lastmod: collected {len(git_dates)} git timestamps")
+        else:
+            print(f"  lastmod: git log failed (rc={proc.returncode}), using mtime fallback")
+    except (subprocess.TimeoutExpired, FileNotFoundError) as e:
+        print(f"  lastmod: git unavailable ({e!s}), using mtime fallback")
+
+    for ev in events:
+        slug = make_slug(ev)
+        # 1. Prefer git timestamp
+        fname = ev["_filename"] + ".md"
+        ts = git_dates.get(fname)
+        # 2. Fall back to mtime
+        if not ts:
+            try:
+                mtime = (KB / fname).stat().st_mtime
+                dt = _dt.datetime.fromtimestamp(mtime, _dt.timezone.utc)
+                ts = dt.strftime("%Y-%m-%dT%H:%M:%S+00:00")
+            except OSError:
+                ts = build_now
+        # 3. Validate — Google rejects pre-1970
+        try:
+            parsed = _dt.datetime.fromisoformat(ts.replace("Z", "+00:00"))
+            if parsed < cutoff:
+                ts = build_now
+        except ValueError:
+            ts = build_now
+        out[slug] = ts
+
+    DATA.mkdir(parents=True, exist_ok=True)
+    (DATA / "lastmod.json").write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    git_count = sum(1 for s in out.values() if s != build_now)
+    print(f"  lastmod.json: {len(out)} entries ({git_count} from git, {len(out)-git_count} build-time fallback)")
+    return out
+
 def write_resonance_index(events: list[dict]) -> None:
     """Pre-compute the "on this day" / historical-resonance lookup.
 
@@ -540,6 +612,7 @@ def main():
     write_taxonomy_indexes(events)
     write_resonance_index(events)
     write_co_actors(events)
+    build_lastmod_map(events)
     write_quality_report(events, slug_idx)
     write_robots()
     write_master_sitemap()
