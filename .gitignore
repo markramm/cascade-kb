@@ -18,6 +18,7 @@ hugo-timeline/static/_redirects
 hugo-timeline/static/redirects.nginx.conf
 hugo-timeline/static/redirects.htaccess
 hugo-timeline/static/robots.txt
+hugo-timeline/static/sitemap.xml
 hugo-timeline/scripts/.fonts/
 hugo-timeline/resources/_gen/
 hugo-timeline/.hugo_build.lock

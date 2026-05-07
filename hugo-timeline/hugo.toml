@@ -26,6 +26,12 @@ enableEmoji = false
   decade = "decade"
 
 [sitemap]
+  # We ship our own sitemap.xml as a static file (built by
+  # scripts/generate_content.py — a sitemap-index pointing to the four
+  # custom-format fragments). Hugo's built-in sitemap auto-emits to whatever
+  # `filename` is set here; if we set it to the same name, Hugo overwrites
+  # our static file. So we redirect Hugo's emission to an unused path.
+  filename = "_hugo_unused_sitemap.xml"
   changefreq = "daily"
   priority = 0.7
 
@@ -41,6 +47,15 @@ enableEmoji = false
   isPlainText = true
   notAlternative = false
 
+# Hugo's built-in `Sitemap` output format generates a urlset and writes
+# it to `sitemap.xml` by default — colliding with the static sitemap-index
+# we ship from generate_content.py. Redirect Hugo's emission to an unused
+# filename so our static file wins.
+[outputFormats.Sitemap]
+  baseName  = "_hugo_unused_sitemap"
+  mediaType = "application/xml"
+  notAlternative = true
+
 # Per-section sitemap fragments. Hugo emits these alongside the main
 # sitemap.xml (which is a sitemap-index pointing to them).
 [outputFormats.SitemapEvents]
@@ -48,28 +63,28 @@ enableEmoji = false
   baseName  = "sitemap-events"
   isPlainText = true
   notAlternative = true
-  rel = "sitemap"
+  # rel removed: was triggering Hugo to auto-emit a sitemap-index
 
 [outputFormats.SitemapActors]
   mediaType = "application/xml"
   baseName  = "sitemap-actors"
   isPlainText = true
   notAlternative = true
-  rel = "sitemap"
+  # rel removed: was triggering Hugo to auto-emit a sitemap-index
 
 [outputFormats.SitemapTags]
   mediaType = "application/xml"
   baseName  = "sitemap-tags"
   isPlainText = true
   notAlternative = true
-  rel = "sitemap"
+  # rel removed: was triggering Hugo to auto-emit a sitemap-index
 
 [outputFormats.SitemapMeta]
   mediaType = "application/xml"
   baseName  = "sitemap-meta"
   isPlainText = true
   notAlternative = true
-  rel = "sitemap"
+  # rel removed: was triggering Hugo to auto-emit a sitemap-index
 
 [minify]
   # Selective minification — preserves custom XML output formats (sitemap fragments).

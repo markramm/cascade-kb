@@ -474,6 +474,38 @@ def write_robots() -> None:
     (ROOT / "static").mkdir(parents=True, exist_ok=True)
     (ROOT / "static" / "robots.txt").write_text(ROBOTS_TXT, encoding="utf-8")
 
+def write_master_sitemap() -> None:
+    """Write a static sitemap-index pointing to the four section fragments
+    that Hugo emits via custom output formats. Hugo's built-in sitemap
+    output is disabled (hugo.toml [sitemap] disable=true), and Hugo's
+    HTML auto-escape mangles the `<?xml ?>` declaration when used through
+    Go template engine — so we write this directly here as plain text."""
+    base = "https://capturecascade.org/"
+    now = __import__("datetime").datetime.now(__import__("datetime").timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+    body = f"""<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{base}sitemap-events.xml</loc>
+    <lastmod>{now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>{base}sitemap-actors.xml</loc>
+    <lastmod>{now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>{base}sitemap-tags.xml</loc>
+    <lastmod>{now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>{base}sitemap-meta.xml</loc>
+    <lastmod>{now}</lastmod>
+  </sitemap>
+</sitemapindex>
+"""
+    (ROOT / "static").mkdir(parents=True, exist_ok=True)
+    (ROOT / "static" / "sitemap.xml").write_text(body, encoding="utf-8")
+    print(f"  sitemap.xml: written ({len(body)} bytes, points at 4 fragments)")
+
 # ─────────────────────────────────────────────────────────────────────
 # Main
 # ─────────────────────────────────────────────────────────────────────
@@ -510,6 +542,7 @@ def main():
     write_co_actors(events)
     write_quality_report(events, slug_idx)
     write_robots()
+    write_master_sitemap()
     print("Done.")
 
 if __name__ == "__main__":
