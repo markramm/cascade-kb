@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }} — capturecascade.org</title>
+<meta name="robots" content="noindex,follow">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,400&family=JetBrains+Mono:wght@400&family=Source+Serif+4:wght@400&display=swap" rel="stylesheet">
+{{ with resources.Get "css/main.css" | resources.Minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+{{ end }}
+<style>
+  /* Embed-specific: strip page chrome, fit within iframe */
+  html, body { margin: 0; padding: 0; background: var(--paper); }
+  body::before { display: none; }
+  .embed-frame {
+    padding: 14px clamp(12px, 3vw, 24px);
+  }
+  .embed-head {
+    display: flex; align-items: baseline; gap: 18px; flex-wrap: wrap;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 8px;
+  }
+  .embed-eyebrow {
+    font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--ox);
+  }
+  .embed-h {
+    font-family: var(--serif-display); font-size: 1.15rem;
+    font-weight: 500; letter-spacing: -0.01em; line-height: 1.15;
+    margin: 0; flex: 1; min-width: 0;
+  }
+  .embed-meta {
+    font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.08em; color: var(--ink-3);
+    text-transform: uppercase;
+  }
+  .embed-meta strong { color: var(--ox); font-weight: 500; }
+  .embed-cta {
+    margin-top: 10px;
+    text-align: center;
+    font-family: var(--mono); font-size: 10.5px;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .embed-cta a {
+    color: var(--ox); text-decoration: none;
+    border-bottom: 1px solid var(--ox);
+  }
+  .embed-cta a:hover { color: var(--ox-hot); }
+  .swimlane { margin: 0 calc(-1 * clamp(12px, 3vw, 24px)) !important; }
+  .swimlane .sl-legend { padding: 10px clamp(12px, 3vw, 24px); }
+  .swimlane-svg { height: auto !important; }
+</style>
+</head>
+<body>
+
+{{ $entities := .Params.entities | default slice }}
+{{ $fromYear := .Params.fromYear | default 2000 }}
+{{ $toYear := .Params.toYear | default 2026 }}
+
+<div class="embed-frame">
+  <div class="embed-head">
+    <div style="flex:1;min-width:0;">
+      {{ with .Params.subtitle }}<div class="embed-eyebrow">{{ . }}</div>{{ end }}
+      <h1 class="embed-h">{{ .Title }}</h1>
+    </div>
+    <div class="embed-meta">
+      <strong>{{ len $entities }}</strong> actors · <strong>{{ $fromYear }}–{{ $toYear }}</strong>
+    </div>
+  </div>
+
+  {{ partial "swimlane-chart.html" (dict
+      "entities" $entities
+      "aliases"  (.Params.entity_aliases | default dict)
+      "fromYear" $fromYear
+      "toYear"   $toYear
+      "title"    .Title
+      "chart_id" (printf "embed-%s" (.File.ContentBaseName | urlize))
+  ) }}
+
+  <div class="embed-cta">
+    From <a href="https://capturecascade.org/timelines/{{ .File.ContentBaseName }}/" target="_top">capturecascade.org</a>
+    · <a href="https://capturecascade.org/" target="_top">The Cascade Ledger</a>
+  </div>
+</div>
+
+</body>
+</html>

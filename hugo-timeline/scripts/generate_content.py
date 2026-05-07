@@ -394,6 +394,41 @@ def write_lane_stream(events: list[dict]) -> None:
     print(f"  lane_stream.json: {len(rows)} years, totals: {totals}")
     print(f"    peaks: {peaks}")
 
+def mirror_timelines_to_embed(events: list[dict]) -> None:
+    """Mirror each content/timelines/*.md to content/embed/timelines/*.md so
+    iframe-embeddable versions exist at /embed/timelines/<slug>/. The mirror
+    files reuse the exact same frontmatter; the layout decides what to render.
+    """
+    src_dir = ROOT / "content" / "timelines"
+    dst_dir = ROOT / "content" / "embed" / "timelines"
+    if not src_dir.exists(): return
+    dst_dir.mkdir(parents=True, exist_ok=True)
+    # Clean prior mirrors so removing a preset propagates.
+    for f in dst_dir.glob("*.md"):
+        f.unlink()
+    # Section index
+    (dst_dir / "_index.md").write_text(
+        "---\ntitle: \"Embeddable timelines\"\nlayout: list\nnoindex: true\n---\n",
+        encoding="utf-8",
+    )
+    # Mirror each preset
+    n = 0
+    for src in src_dir.glob("*.md"):
+        if src.name.startswith("_"): continue
+        # Read source, prepend a hint that this is the embed mirror.
+        txt = src.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---\n(.*)$", txt, re.DOTALL)
+        if not m: continue
+        fm_raw = m.group(1)
+        body = m.group(2)
+        # Write the mirror with `noindex: true` appended to frontmatter so
+        # /embed/* paths don't compete with /timelines/* in Google.
+        if "noindex:" not in fm_raw:
+            fm_raw = fm_raw + "\nnoindex: true"
+        (dst_dir / src.name).write_text(f"---\n{fm_raw}\n---\n{body}", encoding="utf-8")
+        n += 1
+    print(f"  embed mirrors: {n} timelines mirrored to {dst_dir.relative_to(ROOT)}/")
+
 def write_timeline_membership(events: list[dict]) -> None:
     """Build cross-reference maps between events/actors and curated timelines.
 
@@ -1016,6 +1051,7 @@ def main():
     write_co_actors(events)
     write_actor_events(events)
     write_lane_top_actors(events)
+    mirror_timelines_to_embed(events)
     write_timeline_membership(events)
     write_lane_stream(events)
     build_lastmod_map(events)

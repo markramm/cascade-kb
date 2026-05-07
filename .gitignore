@@ -14,6 +14,7 @@ hugo-timeline/data/lastmod.json
 hugo-timeline/data/timeline_membership.json
 hugo-timeline/data/actor_events.json
 hugo-timeline/data/lane_top_actors.json
+hugo-timeline/content/embed/
 hugo-timeline/static/og/event/
 hugo-timeline/static/data/timeline.json
 hugo-timeline/static/data/actors.json

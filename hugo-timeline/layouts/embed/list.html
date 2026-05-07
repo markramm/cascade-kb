@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">Embed</span>
+  </nav>
+  <header class="taxonomy-intro">
+    <span class="eyebrow">Embed timelines on your site</span>
+    <h1>Embeddable timelines</h1>
+    <p class="lede">Every curated timeline has an iframe-ready version stripped of site chrome. Drop one in a Substack post, blog article, or static page.</p>
+  </header>
+
+  <section style="margin-top:32px;">
+    <h2 style="font-size:1.15rem;margin-bottom:12px;">How to embed</h2>
+    <p style="max-width:64ch;margin-bottom:18px;">
+      Each timeline preset has an <code class="mono">/embed/</code> URL that renders the chart without site header or footer. Use it inside an <code class="mono">&lt;iframe&gt;</code>:
+    </p>
+    <pre style="background:var(--paper-deep);padding:18px 22px;font-family:var(--mono);font-size:13px;line-height:1.5;color:var(--ink-2);overflow-x:auto;border-left:3px solid var(--ox);"><code>&lt;iframe
+  src="https://capturecascade.org/embed/timelines/project-2025-architects/"
+  width="100%" height="780"
+  style="border:1px solid #d9d2bf;"
+  title="The Project 2025 architects — capturecascade.org"&gt;
+&lt;/iframe&gt;</code></pre>
+    <p style="max-width:64ch;margin-top:14px;font-size:14.5px;color:var(--ink-3);">
+      The embedded chart is fully interactive — hover any marker for date and lane, click to open the source event. The bottom strip credits capturecascade.org and links back.
+    </p>
+  </section>
+
+  <section style="margin-top:48px;">
+    <div class="section-head">
+      <h2>Available timelines</h2>
+      <span class="meta">{{ len .Pages }} embeddable views</span>
+    </div>
+    <div class="timelines-grid">
+      {{ range (sort .Pages "Params.weight" "asc") }}
+      <a href="{{ .RelPermalink }}" class="timelines-card" target="_blank">
+        <span class="eyebrow">{{ .Params.subtitle | default "Timeline" }}</span>
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.summary | truncate 130 }}</p>
+        <div class="timelines-card-meta">
+          <span>{{ len (.Params.entities | default slice) }} actors · {{ .Params.fromYear }}–{{ .Params.toYear }}</span>
+          <span>Embed →</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}
