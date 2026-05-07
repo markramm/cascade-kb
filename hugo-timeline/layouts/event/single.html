@@ -1,0 +1,237 @@
+{{ define "main" }}
+{{ $year := dateFormat "2006" .Params.date }}
+{{ $month := dateFormat "January" .Params.date }}
+{{ $decade := printf "%ss" (substr $year 0 3) }}
+{{ $importance := .Params.importance | default 5 }}
+{{ $mmdd := dateFormat "01-02" .Params.date }}
+{{ $thisYear := int $year }}
+{{ $current := . }}
+
+<div class="page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <a href="/decade/{{ $decade | urlize }}/">{{ $decade }}</a>
+    <span class="sep">›</span>
+    <a href="/year/{{ $year }}/">{{ $year }}</a>
+    <span class="sep">›</span>
+    <span aria-current="page">{{ .Params.date }}</span>
+  </nav>
+
+  <div class="spine-layout">
+    {{/* ─── LEFT: time spine — events in same year ─ */}}
+    <aside class="spine" aria-label="Other events in {{ $year }}">
+      <div class="spine-decade">{{ $year }}</div>
+      <ul>
+        {{ $yearTerm := site.GetPage (printf "/year/%s" $year) }}
+        {{ if $yearTerm }}
+          {{ range first 80 (sort $yearTerm.Pages ".Params.date" "asc") }}
+            <li{{ if eq .RelPermalink $current.RelPermalink }} class="is-current"{{ end }}>
+              <a href="{{ .RelPermalink }}">
+                <span class="mono">{{ dateFormat "01-02" .Params.date }}</span><br>
+                {{ .Title | truncate 60 }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+      <div style="margin-top:24px;padding-top:14px;border-top:1px solid var(--paper-edge);">
+        <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
+      </div>
+
+      {{/* On this day in history — uses pre-computed data/resonance.json */}}
+      {{ $mmddKey := dateFormat "0102" .Params.date }}
+      {{ $bucket := index site.Data.resonance $mmddKey | default slice }}
+      {{ $resonance := slice }}
+      {{ range slice 1 5 10 25 50 100 }}
+        {{ $diff := . }}
+        {{ $targetYear := sub $thisYear $diff }}
+        {{ range $bucket }}
+          {{ if eq .year $targetYear }}
+            {{ $resonance = $resonance | append (dict "diff" $diff "year" .year "slug" .slug "title" .title) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if gt (len $resonance) 0 }}
+      <div style="margin-top:32px;padding-top:18px;border-top:1px solid var(--paper-edge);">
+        <div class="eyebrow" style="margin-bottom:10px;">On this day</div>
+        {{ range $resonance }}
+        <a href="/event/{{ .slug }}/" style="display:block;text-decoration:none;color:var(--ink-2);padding:8px 0;border-bottom:1px dashed var(--paper-edge);">
+          <span class="mono" style="color:var(--ox);font-size:10.5px;letter-spacing:0.08em;">{{ .diff }} year{{ if ne .diff 1 }}s{{ end }} ago · {{ .year }}</span><br>
+          <span style="font-family:var(--serif-display);font-size:13.5px;line-height:1.25;">{{ .title | truncate 70 }}</span>
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </aside>
+
+    {{/* ─── RIGHT: event ─────────────────────────── */}}
+    <article>
+      <header class="event-head">
+        <div class="event-date-block">
+          <a href="/year/{{ $year }}/" style="text-decoration:none;color:inherit;">{{ dateFormat "Monday · January 2, 2006" .Params.date }}</a>
+        </div>
+        <h1 class="event-title">{{ .Title }}</h1>
+        <div class="event-meta">
+          {{ with .Params.status }}
+          <a href="/about/methodology/#status" class="status-pill status-{{ . }}" title="Editorial status — see methodology" style="text-decoration:none;">{{ . }}</a>
+          {{ end }}
+          {{ if .Params.importance }}
+          <a href="/about/methodology/#importance" class="importance-bar" title="Editorial importance, 1–10. See methodology." style="text-decoration:none;color:inherit;">
+            <span style="margin-right:6px;">Importance</span>
+            {{ range (seq 1 10) }}
+              <span class="pip {{ if le . $importance }}on{{ end }}"></span>
+            {{ end }}
+            <span style="margin-left:6px;color:var(--ink-3);">{{ $importance }}/10</span>
+          </a>
+          {{ end }}
+          {{/* Reading time */}}
+          {{ if gt .ReadingTime 0 }}
+          <span class="mono" style="font-size:11px;letter-spacing:0.1em;color:var(--ink-3);text-transform:uppercase;">~{{ .ReadingTime }} min read</span>
+          {{ end }}
+          {{ with .Params.sources }}
+          <span><strong>{{ len . }}</strong> source{{ if ne (len .) 1 }}s{{ end }}</span>
+          {{ end }}
+          {{ with .Params.actors }}
+          <span><strong>{{ len . }}</strong> actor{{ if ne (len .) 1 }}s{{ end }}</span>
+          {{ end }}
+        </div>
+        {{ with .Params.capture_lanes }}
+        <div style="margin-top:14px;display:flex;gap:8px;flex-wrap:wrap;">
+          {{ range . }}
+            {{ $key := "other" }}
+            {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+            {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+            {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+            {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+            {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+            <a href="/lanes/{{ . | urlize }}/" class="lane-chip" data-lane="{{ $key }}">{{ . }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </header>
+
+      <div class="event-body">
+        {{ .Content }}
+      </div>
+
+      {{ with .Params.sources }}
+      <section class="sources" aria-labelledby="sources-head">
+        <h2 id="sources-head">Sources &amp; Citations</h2>
+        {{ range $i, $s := . }}
+        <div class="source">
+          <span class="source-num">[{{ add $i 1 }}]</span>
+          <span class="source-text">
+            <a href="{{ $s.url }}" rel="noopener nofollow" target="_blank">{{ $s.title }}</a>
+            {{ with $s.publisher }}<span class="source-pub">— {{ . }}</span>{{ end }}
+            {{ with $s.date }}<span class="source-pub" style="font-style:normal;">· {{ $d := printf "%v" . }}{{ if eq (len $d) 10 }}{{ dateFormat "Jan 2, 2006" $d }}{{ else }}{{ $d }}{{ end }}</span>{{ end }}
+          </span>
+          <span>{{ with $s.tier }}<a href="/about/sources/#tier-{{ . }}" class="tier-pill tier-{{ . }}" style="text-decoration:none;">Tier {{ . }}</a>{{ end }}</span>
+        </div>
+        {{ end }}
+
+        {{/* Tier legend */}}
+        <div style="margin-top:18px;padding:14px 18px;background:var(--paper-deep);border-left:3px solid var(--rule-mute);font-size:13px;color:var(--ink-3);line-height:1.6;">
+          <strong style="color:var(--ink-2);font-weight:500;font-family:var(--mono);font-size:11px;letter-spacing:0.12em;text-transform:uppercase;">Tiers</strong>
+          <span style="display:block;margin-top:4px;">
+            <a href="/about/sources/#tier-1" style="color:var(--moss);">Tier 1</a> court records &amp; gov docs ·
+            <a href="/about/sources/#tier-2" style="color:var(--gilt);">Tier 2</a> established outlets ·
+            <a href="/about/sources/#tier-3" style="color:var(--ink-3);">Tier 3</a> regional &amp; specialty press ·
+            <a href="/about/sources/#tier-4" style="color:var(--ink-4);">Tier 4</a> opinion or single-source.
+            <a href="/about/sources/" style="color:var(--ox);">Methodology →</a>
+          </span>
+        </div>
+      </section>
+      {{ end }}
+
+      <aside class="event-aside">
+        {{ with .Params.actors }}
+        <div>
+          <h3>Actors named</h3>
+          <div class="actor-list">
+            {{ range . }}
+            <a href="/actors/{{ . | urlize }}/">
+              <span>{{ . }}</span>
+              <span class="count" aria-hidden="true">→</span>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.tags }}
+        <div>
+          <h3>Indexed under</h3>
+          <div class="tag-cloud">
+            {{ range . }}<a href="/tags/{{ . | urlize }}/">#{{ . }}</a>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        {{ with .Params.coverage }}
+        {{ if gt (len .) 0 }}
+        <div>
+          <h3>Coverage</h3>
+          <div class="actor-list">
+            {{ range . }}
+            <a href="{{ .url }}" target="_blank" rel="noopener">
+              <span>{{ .title | default "RAMM coverage" }}</span>
+              <span class="count">↗</span>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+      </aside>
+
+      {{/* ── Chronological pager ── */}}
+      <nav style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:64px;border-top:1px solid var(--rule);padding-top:24px;" aria-label="Chronological navigation">
+        {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;">
+          <div class="eyebrow" style="margin-bottom:6px;">← Earlier in record</div>
+          <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
+          <div class="mono dim" style="font-size:11px;letter-spacing:0.1em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+        </a>
+        {{ else }}<span></span>{{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;text-align:right;">
+          <div class="eyebrow" style="margin-bottom:6px;">Later in record →</div>
+          <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
+          <div class="mono dim" style="font-size:11px;letter-spacing:0.1em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+        </a>
+        {{ else }}<span></span>{{ end }}
+      </nav>
+
+      {{/* ── Per-lane pager (links to lane page for now — full traversal would be too slow) ── */}}
+      {{ with index (.Params.capture_lanes | default slice) 0 }}
+      {{ $laneSlug := . | urlize }}
+      <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:18px;padding-top:18px;border-top:1px dashed var(--paper-edge);" aria-label="Capture lane navigation">
+        <a href="/lanes/{{ $laneSlug }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
+          <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">In the {{ . }} lane</div>
+          <div class="serif" style="font-size:15px;line-height:1.25;">View all events in this capture lane →</div>
+        </a>
+      </nav>
+      {{ end }}
+
+      {{/* ── Per-actor pager (links to actor page) ── */}}
+      {{ with index (.Params.actors | default slice) 0 }}
+      <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:14px;" aria-label="Actor thread navigation">
+        <a href="/actors/{{ . | urlize }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
+          <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">{{ . }}'s timeline thread</div>
+          <div class="serif" style="font-size:15px;line-height:1.25;">View all events naming {{ . }} →</div>
+        </a>
+      </nav>
+      {{ end }}
+
+      {{/* ── Share / Cite ── */}}
+      <div style="margin-top:48px;padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
+        <div class="eyebrow" style="margin-bottom:10px;">Cite this entry</div>
+        <code class="mono" style="font-size:12px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
+          The Cascade Ledger. “{{ .Title }}.” The Capture Cascade Timeline, {{ dateFormat "January 2, 2006" .Params.date }}. {{ .Permalink }}
+        </code>
+      </div>
+    </article>
+  </div>
+</div>
+{{ end }}

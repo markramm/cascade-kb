@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+{{/* Sitemap for: home, section indexes, capture lanes, year/decade indexes,
+     about pages, the filter view. Smaller, higher-priority items. */}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ site.BaseURL }}</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>{{ site.BaseURL }}q/</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>{{ site.BaseURL }}about/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>{{ site.BaseURL }}about/methodology/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>{{ site.BaseURL }}about/sources/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>{{ site.BaseURL }}about/contribute/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>{{ site.BaseURL }}about/license/</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+{{- range $name, $taxonomy := site.Taxonomies.lanes }}
+  <url>
+    <loc>{{ site.BaseURL }}lanes/{{ $name }}/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+{{- end }}
+{{- range $name, $taxonomy := site.Taxonomies.year }}
+  <url>
+    <loc>{{ site.BaseURL }}year/{{ $name }}/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+{{- end }}
+{{- range $name, $taxonomy := site.Taxonomies.decade }}
+  <url>
+    <loc>{{ site.BaseURL }}decade/{{ $name }}/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+{{- end }}
+</urlset>

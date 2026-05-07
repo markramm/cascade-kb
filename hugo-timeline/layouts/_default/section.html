@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">{{ .Title }}</span>
+  </nav>
+  <header class="taxonomy-intro">
+    <span class="eyebrow">Section</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}<p class="lede">{{ . }}</p>{{ end }}
+  </header>
+  <div class="event-body" style="padding-top:24px;">
+    {{ .Content }}
+  </div>
+  {{ if .Pages }}
+  <ul style="list-style:none;padding:0;margin:24px 0 0;display:grid;gap:0;border-left:1px solid var(--paper-edge);">
+    {{ range .Pages }}
+    <li style="border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);padding:18px 22px;">
+      <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);font-family:var(--serif-display);font-size:1.15rem;">{{ .Title }}</a>
+      {{ with .Params.summary }}<div style="font-size:14px;color:var(--ink-3);margin-top:4px;">{{ . }}</div>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}

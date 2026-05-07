@@ -1,0 +1,226 @@
+{{ define "main" }}
+{{ $density := site.Data.density }}
+{{ $totalEvents := site.Params.totalEvents }}
+
+<div class="page">
+
+  {{/* ─── Hero ─────────────────────────────────────────────── */}}
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-mark">A Documentary Archive</div>
+    <h1 id="hero-title">
+      Democracy doesn’t fall.<br>
+      It <em>cascades</em>.
+    </h1>
+    <p class="hero-lede">
+      {{ site.Params.totalEvents }} verified events. {{ site.Params.totalActors | lang.FormatNumber 0 }} named actors.
+      Court records, government filings, investigative reporting — sourced and indexed from {{ site.Params.startYear }} to today.
+    </p>
+
+    <div class="hero-stats" role="list">
+      <div class="hero-stat" role="listitem">
+        <div class="hero-stat-num">{{ site.Params.totalEvents | lang.FormatNumber 0 }}</div>
+        <div class="hero-stat-label">Verified Events</div>
+      </div>
+      <div class="hero-stat" role="listitem">
+        <div class="hero-stat-num">{{ site.Params.totalActors | lang.FormatNumber 0 }}</div>
+        <div class="hero-stat-label">Named Actors</div>
+      </div>
+      <div class="hero-stat" role="listitem">
+        <div class="hero-stat-num">{{ site.Params.totalTags | lang.FormatNumber 0 }}</div>
+        <div class="hero-stat-label">Indexed Tags</div>
+      </div>
+      <div class="hero-stat" role="listitem">
+        <div class="hero-stat-num">{{ sub site.Params.endYear site.Params.startYear }}</div>
+        <div class="hero-stat-label">Years of Record</div>
+      </div>
+    </div>
+
+    {{/* ─── DENSITY CHART (the unforgettable bit) ───────────── */}}
+    <div class="density-frame" aria-labelledby="density-title">
+      <div class="density-title" id="density-title">
+        <span><strong>Event density, {{ site.Params.startYear }}–{{ site.Params.endYear }}</strong> · click any bar to enter that year</span>
+        <span class="dim">Vertical scale: events per year (log)</span>
+      </div>
+      <svg class="density" viewBox="0 0 1200 220" preserveAspectRatio="none" role="img" aria-label="Event density chart from 1142 to today; bars get markedly taller after 2016">
+        {{ $maxCount := 1 }}
+        {{ range $density }}{{ if gt .count $maxCount }}{{ $maxCount = .count }}{{ end }}{{ end }}
+        {{ $years := sub site.Params.endYear site.Params.startYear }}
+        {{ $w := div 1200.0 (float $years) }}
+        {{ range $i, $row := $density }}
+          {{ $x := mul (float $i) $w }}
+          {{ $logH := 0 }}
+          {{ if gt .count 0 }}{{ $logH = mul 200 (div (math.Log (add 1.0 (float .count))) (math.Log (add 1.0 (float $maxCount)))) }}{{ end }}
+          {{ $y := sub 210 $logH }}
+          {{ $cls := "bar-old" }}
+          {{ if ge .year 2017 }}{{ $cls = "bar-recent" }}{{ else if ge .year 2001 }}{{ $cls = "bar-mid" }}{{ end }}
+          <rect class="{{ $cls }}" x="{{ $x }}" y="{{ $y }}" width="{{ sub $w 0.5 }}" height="{{ $logH }}" data-year="{{ .year }}" data-count="{{ .count }}"></rect>
+        {{ end }}
+        {{/* Decade tick marks */}}
+        {{ range (seq 1200 100 2030) }}
+          {{ $tx := mul (sub (float .) (float site.Params.startYear)) $w }}
+          <line x1="{{ $tx }}" y1="200" x2="{{ $tx }}" y2="220" stroke="#5e564a" stroke-width="0.5"/>
+          <text x="{{ $tx }}" y="218" class="density-axis" text-anchor="middle">{{ . }}</text>
+        {{ end }}
+        {{/* Current-year marker — vertical hairline + dot */}}
+        {{ $nowX := mul (sub (float now.Year) (float site.Params.startYear)) $w }}
+        <line x1="{{ $nowX }}" y1="0" x2="{{ $nowX }}" y2="200" stroke="var(--ox)" stroke-width="0.6" stroke-dasharray="2 3" opacity="0.6"/>
+        <circle cx="{{ $nowX }}" cy="6" r="3" fill="var(--ox)"/>
+        <text x="{{ sub $nowX 6 }}" y="14" class="density-axis" text-anchor="end" style="fill:var(--ox);">now</text>
+      </svg>
+      <div class="density-tooltip" id="dtt"></div>
+    </div>
+
+    <div style="text-align:center;display:flex;gap:14px;flex-wrap:wrap;justify-content:center;margin-top:8px;">
+      <a href="/year/{{ now.Year }}/" class="btn btn-ox">Read this year &rarr;</a>
+      <a href="/q/" class="btn">Build a filtered view</a>
+      <a href="/about/" class="btn">About the archive</a>
+    </div>
+  </section>
+
+  {{/* ─── Capture lanes legend ─────────────────────────────── */}}
+  <div class="lanes-legend">
+    <span class="dim mono" style="font-size:11px;letter-spacing:0.16em;text-transform:uppercase;">Capture lanes</span>
+    <a class="lane-chip" data-lane="finance" href="/lanes/financial-capture/">Financial</a>
+    <a class="lane-chip" data-lane="democracy" href="/lanes/democratic-erosion/">Democratic</a>
+    <a class="lane-chip" data-lane="corruption" href="/lanes/systematic-corruption/">Corruption</a>
+    <a class="lane-chip" data-lane="labor" href="/lanes/labor-suppression/">Labor</a>
+    <a class="lane-chip" data-lane="extraction" href="/lanes/extraction-economy/">Extraction</a>
+  </div>
+
+  {{/* ─── On this day (homepage) — uses pre-computed resonance index ─ */}}
+  {{ $todayKey := now.Format "0102" }}
+  {{ $todayMonth := now.Format "January 2" }}
+  {{ $todayBucket := index site.Data.resonance $todayKey | default slice }}
+  {{ if gt (len $todayBucket) 0 }}
+  <section aria-labelledby="otd-head" style="margin-top:8px;">
+    <div class="section-head">
+      <h2 id="otd-head">On this day · <span style="color:var(--ox);">{{ $todayMonth }}</span></h2>
+      <span class="meta">{{ len $todayBucket }} entr{{ if eq (len $todayBucket) 1 }}y{{ else }}ies{{ end }} on the record</span>
+    </div>
+    <div class="recent-grid">
+      {{/* Sort by year descending so most recent shows first */}}
+      {{ range first 6 (sort $todayBucket "year" "desc") }}
+      <a href="/event/{{ .slug }}/" class="recent-item">
+        <span class="date" style="color:var(--gilt);">{{ .year }} · {{ $todayMonth }}</span>
+        <h3>{{ .title }}</h3>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* ─── Recent additions ─────────────────────────────────── */}}
+  <section aria-labelledby="recent-head">
+    <div class="section-head">
+      <h2 id="recent-head">Recent additions to the record</h2>
+      <span class="meta"><a href="/year/{{ now.Year }}/">All of {{ now.Year }} &rarr;</a></span>
+    </div>
+    <div class="recent-grid">
+      {{ range first 8 (where (where site.RegularPages "Type" "event") "Date" "ne" nil) }}
+      <a href="{{ .RelPermalink }}" class="recent-item">
+        <span class="date">{{ dateFormat "January 2, 2006" .Params.date }}</span>
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.actors }}
+        <div class="actors">{{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}</div>
+        {{ end }}
+        <div class="lane-row">
+          {{ range (.Params.capture_lanes | default slice) }}
+            {{ $key := "other" }}
+            {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+            {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+            {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+            {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+            {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+            <span class="lane-dot" style="background:var(--lane-{{ $key }});" title="{{ . }}"></span>
+          {{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* ─── Three doors: researchers / journalists / citizens ─ */}}
+  <section aria-labelledby="audiences-head">
+    <div class="section-head">
+      <h2 id="audiences-head">Built to be used</h2>
+      <span class="meta">three doors in</span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0;border-left:1px solid var(--rule);">
+      <a href="/q/" style="display:block;padding:36px 32px;text-decoration:none;color:var(--ink);border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);">
+        <span class="eyebrow">For researchers</span>
+        <h3 class="serif" style="font-size:1.6rem;margin:14px 0 12px;font-weight:500;">Filter, share, cite.</h3>
+        <p style="font-size:15px;color:var(--ink-3);">Compose a view by actor, tag, capture lane, year range. The URL is the citation. Every event has stable IDs and a JSON endpoint.</p>
+      </a>
+      <a href="/lanes/" style="display:block;padding:36px 32px;text-decoration:none;color:var(--ink);border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);">
+        <span class="eyebrow">For journalists</span>
+        <h3 class="serif" style="font-size:1.6rem;margin:14px 0 12px;font-weight:500;">Patterns, not anecdotes.</h3>
+        <p style="font-size:15px;color:var(--ink-3);">Five capture lanes show coordination across decades. Actor pages show network density. Source tiers tell you what is court-record solid.</p>
+      </a>
+      <a href="/decade/" style="display:block;padding:36px 32px;text-decoration:none;color:var(--ink);border-bottom:1px solid var(--rule);">
+        <span class="eyebrow">For citizens</span>
+        <h3 class="serif" style="font-size:1.6rem;margin:14px 0 12px;font-weight:500;">Read it as history.</h3>
+        <p style="font-size:15px;color:var(--ink-3);">Walk decade by decade. Every event has plain-language context: what happened, why it matters, where it fits in the cascade.</p>
+      </a>
+    </div>
+  </section>
+
+  {{/* ─── Top actors strip ────────────────────────────────── */}}
+  <section aria-labelledby="actors-head">
+    <div class="section-head">
+      <h2 id="actors-head">The most-documented actors</h2>
+      <span class="meta"><a href="/actors/">All {{ site.Params.totalActors | lang.FormatNumber 0 }} &rarr;</a></span>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:0;border-left:1px solid var(--paper-edge);">
+      {{ range (site.Taxonomies.actors.ByCount | first 12) }}
+      <a href="/actors/{{ .Name | urlize }}/" style="display:flex;justify-content:space-between;align-items:baseline;padding:14px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:16px;background:var(--paper);transition:background .12s;">
+        <span>{{ .Name }}</span>
+        <span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">{{ .Count }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* ─── Ribbon CTA ───────────────────────────────────────── */}}
+  <section class="ribbon">
+    <div class="ribbon-inner">
+      <span class="eyebrow" style="color:var(--gilt);">From The RAMM</span>
+      <h2>The patterns become unmistakable when you put them <em>in order</em>.</h2>
+      <p>This timeline is the data layer for an ongoing investigation. The reporting traces how each captured institution enables the next.</p>
+      <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:8px;">
+        <a href="{{ site.Params.rammURL }}" class="btn">Read The RAMM</a>
+        <a href="/about/" class="btn">Methodology</a>
+        <a href="{{ site.Params.datasetURL }}" class="btn">Get the dataset</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  var svg = document.querySelector('.density');
+  var tt  = document.getElementById('dtt');
+  if (!svg || !tt) return;
+  var rects = svg.querySelectorAll('rect');
+  rects.forEach(function(r){
+    r.addEventListener('mouseenter', function(e){
+      var y = r.getAttribute('data-year');
+      var c = r.getAttribute('data-count');
+      tt.textContent = y + ' · ' + c + ' event' + (c==='1'?'':'s');
+      tt.classList.add('on');
+    });
+    r.addEventListener('mousemove', function(e){
+      var rect = svg.getBoundingClientRect();
+      var parent = svg.parentElement.getBoundingClientRect();
+      tt.style.left = (e.clientX - parent.left) + 'px';
+      tt.style.top  = (e.clientY - parent.top) + 'px';
+    });
+    r.addEventListener('mouseleave', function(){ tt.classList.remove('on'); });
+    r.addEventListener('click', function(){
+      var y = r.getAttribute('data-year');
+      window.location.href = '/year/' + y + '/';
+    });
+  });
+})();
+</script>
+{{ end }}

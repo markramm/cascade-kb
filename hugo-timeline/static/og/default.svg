@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3efe6"/>
+      <stop offset="1" stop-color="#ebe5d6"/>
+    </linearGradient>
+    <pattern id="rule" width="80" height="6" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="3" x2="80" y2="3" stroke="#1c1a17" stroke-width="0.5" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#rule)"/>
+  <text x="80" y="160" font-family="Cormorant Garamond, Georgia, serif" font-size="92" font-weight="500" fill="#1c1a17" letter-spacing="-3">The Cascade Ledger</text>
+  <text x="80" y="220" font-family="JetBrains Mono, monospace" font-size="20" fill="#7a1f1f" letter-spacing="6">CAPTURE CASCADE TIMELINE · 1142–2026</text>
+  <text x="80" y="360" font-family="Cormorant Garamond, Georgia, serif" font-size="56" font-style="italic" fill="#36312a">A documentary archive of</text>
+  <text x="80" y="430" font-family="Cormorant Garamond, Georgia, serif" font-size="56" fill="#7a1f1f" font-weight="500">4,288 verified events</text>
+  <text x="80" y="500" font-family="Cormorant Garamond, Georgia, serif" font-size="56" font-style="italic" fill="#36312a">tracing institutional capture.</text>
+  <line x1="80" y1="560" x2="1120" y2="560" stroke="#1c1a17" stroke-width="2"/>
+  <text x="80" y="595" font-family="JetBrains Mono, monospace" font-size="16" fill="#5e564a" letter-spacing="3">timeline.transparencycascade.org</text>
+</svg>

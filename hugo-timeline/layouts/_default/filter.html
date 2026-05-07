@@ -1,0 +1,383 @@
+{{ define "main" }}
+<div class="page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">Filter</span>
+  </nav>
+
+  <header class="taxonomy-intro">
+    <span class="eyebrow">Compose a view</span>
+    <h1 id="filter-title">All events</h1>
+    <p class="lede" id="filter-lede">
+      Every URL is a citation. Pick filters, copy the link — the view is reproducible.
+    </p>
+  </header>
+
+  <div class="filter-bar" role="search">
+    <label for="f-search">Search</label>
+    <input type="search" id="f-search" placeholder="title, actor, source…" style="flex:1;min-width:160px;">
+
+    <label for="f-from">From</label>
+    <input type="number" id="f-from" min="1142" max="2026" placeholder="1142" style="width:90px;">
+
+    <label for="f-to">To</label>
+    <input type="number" id="f-to" min="1142" max="2026" placeholder="2026" style="width:90px;">
+
+    <label for="f-lane">Lane</label>
+    <select id="f-lane">
+      <option value="">all lanes</option>
+      <option value="financial">Financial Capture</option>
+      <option value="democratic">Democratic Erosion</option>
+      <option value="corruption">Systematic Corruption</option>
+      <option value="labor">Labor Suppression</option>
+      <option value="extraction">Extraction Economy</option>
+    </select>
+
+    <label for="f-status">Status</label>
+    <select id="f-status">
+      <option value="">all</option>
+      <option value="confirmed">confirmed</option>
+      <option value="reported">reported</option>
+      <option value="alleged">alleged</option>
+      <option value="disputed">disputed</option>
+    </select>
+
+    <label for="f-actor">Actor</label>
+    <input type="text" id="f-actor" placeholder="e.g. Donald Trump" list="actor-list" style="width:160px;">
+    <datalist id="actor-list"></datalist>
+
+    <label for="f-tag">Tag</label>
+    <input type="text" id="f-tag" placeholder="e.g. regulatory-capture" list="tag-list" style="width:160px;">
+    <datalist id="tag-list"></datalist>
+
+    <span class="count" id="f-count">— events</span>
+    <button class="copy-link" id="f-share" type="button" title="Copy shareable URL">Copy link</button>
+    <button class="copy-link" id="f-cite" type="button" title="Generate a citation for this view" style="background:transparent;color:var(--ox);border:1px solid var(--ox);">Cite</button>
+  </div>
+
+  <div id="f-status-msg" style="font-family:var(--mono);font-size:11px;color:var(--ink-3);letter-spacing:0.1em;text-transform:uppercase;padding:14px 0;text-align:center;display:none;">Loading dataset…</div>
+
+  {{/* Citation block — toggled open by JS */}}
+  <div id="f-cite-box" style="display:none;margin:14px 0;padding:18px 22px;background:var(--paper-deep);border-left:3px solid var(--ox);">
+    <div class="eyebrow" style="margin-bottom:8px;">Cite this filtered view</div>
+    <code class="mono" id="f-cite-text" style="font-size:12px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;background:transparent;"></code>
+    <button type="button" id="f-cite-copy" style="margin-top:10px;font-family:var(--mono);font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;padding:5px 11px;background:var(--ox);color:var(--paper);border:0;cursor:pointer;">Copy citation</button>
+  </div>
+
+  {{/* Server-rendered starter set — 50 most recent. Crawlers see real content
+       even before JS runs. JS replaces this when filters are applied. */}}
+  <div id="f-default" style="margin-top:18px;">
+    <div style="font-family:var(--mono);font-size:11px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-3);padding:8px 0;">
+      Default view · 50 most-recent events · pick filters above to narrow
+    </div>
+    <table class="ledger" aria-label="Most recent events">
+      <thead>
+        <tr><th>Date</th><th>Event</th><th>Actors</th><th>Lanes</th><th class="dim">Status</th></tr>
+      </thead>
+      <tbody>
+        {{ range first 50 (where (where site.RegularPages "Type" "event") "Date" "ne" nil) }}
+        <tr>
+          <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
+          <td class="title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.actors }}
+            <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">
+              {{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}
+            </div>
+            {{ end }}
+          </td>
+          <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--mono);font-size:11px;">{{ len . }}</span>{{ end }}</td>
+          <td class="lanes">
+            {{ range (.Params.capture_lanes | default slice) }}
+              {{ $key := "other" }}
+              {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+              {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+              {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+              {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+              {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+              <span class="dot" style="background:var(--lane-{{ $key }});display:inline-block;width:8px;height:8px;margin-right:3px;" title="{{ . }}"></span>
+            {{ end }}
+          </td>
+          <td><span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ .Params.status }}</span></td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    <div style="text-align:center;padding:18px 0;font-family:var(--mono);font-size:11px;color:var(--ink-3);letter-spacing:0.08em;">
+      Showing 50 of {{ len (where site.RegularPages "Type" "event") }} events.
+      <a href="/year/{{ now.Year }}/" style="color:var(--ox);">Browse by year →</a>
+    </div>
+  </div>
+
+  {{/* JS-driven filtered view (hidden until filters change) */}}
+  <table class="ledger" id="f-table" style="display:none;">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Event</th>
+        <th>Actors</th>
+        <th>Lanes</th>
+        <th class="dim">Status</th>
+      </tr>
+    </thead>
+    <tbody id="f-tbody"></tbody>
+  </table>
+
+  <div id="f-pager" style="text-align:center;padding:24px 0;display:none;">
+    <button class="btn" id="f-more" type="button">Load more</button>
+  </div>
+
+  {{/* In-page how-to / SEO copy — gives Google indexable text on a JS page */}}
+  <section style="margin-top:80px;padding-top:32px;border-top:1px solid var(--rule);">
+    <div class="section-head"><h2>How filtering works</h2><span class="meta">Permalink semantics</span></div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:32px;">
+      <div>
+        <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Every filter is a URL.</h3>
+        <p style="font-size:15px;color:var(--ink-2);">When you change a filter, the URL updates. Copy it, paste it in an article, share it on social media — the page reproduces exactly when someone follows the link.</p>
+      </div>
+      <div>
+        <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Combine fields.</h3>
+        <p style="font-size:15px;color:var(--ink-2);">Filter by <code class="mono">actor</code>, <code class="mono">tag</code>, <code class="mono">lane</code>, year range, status, or full-text search — all at once. Results update live.</p>
+      </div>
+      <div>
+        <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Cite the dataset.</h3>
+        <p style="font-size:15px;color:var(--ink-2);">The full corpus is available at <a href="{{ site.Params.datasetURL }}"><code class="mono">timeline.json</code></a> under CC BY-SA 4.0. Every event has a stable ID.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+(function(){
+  var DATASET = {{ site.Params.datasetURL | jsonify }};
+  var PAGE_SIZE = 100;
+  var data = [], filtered = [], shown = 0;
+
+  var els = {
+    search:  document.getElementById('f-search'),
+    from:    document.getElementById('f-from'),
+    to:      document.getElementById('f-to'),
+    lane:    document.getElementById('f-lane'),
+    status:  document.getElementById('f-status'),
+    actor:   document.getElementById('f-actor'),
+    tag:     document.getElementById('f-tag'),
+    count:   document.getElementById('f-count'),
+    msg:     document.getElementById('f-status-msg'),
+    table:   document.getElementById('f-table'),
+    tbody:   document.getElementById('f-tbody'),
+    pager:   document.getElementById('f-pager'),
+    more:    document.getElementById('f-more'),
+    share:   document.getElementById('f-share'),
+    cite:    document.getElementById('f-cite'),
+    citeBox: document.getElementById('f-cite-box'),
+    citeText:document.getElementById('f-cite-text'),
+    citeCopy:document.getElementById('f-cite-copy'),
+    title:   document.getElementById('filter-title'),
+    lede:    document.getElementById('filter-lede'),
+    deflt:   document.getElementById('f-default'),
+    actorList: document.getElementById('actor-list'),
+    tagList:   document.getElementById('tag-list'),
+  };
+
+  function laneKey(s){
+    s = (s||'').toLowerCase();
+    if (s.indexOf('financial')!==-1) return 'finance';
+    if (s.indexOf('democratic')!==-1) return 'democracy';
+    if (s.indexOf('corruption')!==-1) return 'corruption';
+    if (s.indexOf('labor')!==-1) return 'labor';
+    if (s.indexOf('extraction')!==-1) return 'extraction';
+    return 'other';
+  }
+  function esc(s){ var d=document.createElement('div'); d.textContent=s||''; return d.innerHTML; }
+  function slug(s){ return (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+
+  function readURL(){
+    var p = new URLSearchParams(location.search);
+    els.search.value = p.get('search') || '';
+    els.from.value   = p.get('from') || '';
+    els.to.value     = p.get('to') || '';
+    els.lane.value   = p.get('lane') || '';
+    els.status.value = p.get('status') || '';
+    els.actor.value  = p.get('actor') || p.get('actors') || '';
+    els.tag.value    = p.get('tag') || p.get('tags') || '';
+  }
+  function writeURL(){
+    var p = new URLSearchParams();
+    ['search','from','to','lane','status','actor','tag'].forEach(function(k){
+      if (els[k].value) p.set(k, els[k].value);
+    });
+    var q = p.toString();
+    history.replaceState(null,'', '/q/' + (q ? '?'+q : ''));
+  }
+
+  function updateTitle(){
+    var bits = [];
+    if (els.actor.value) bits.push(els.actor.value);
+    if (els.tag.value)   bits.push('#'+els.tag.value);
+    if (els.lane.value)  bits.push(els.lane.value+' lane');
+    if (els.status.value)bits.push(els.status.value);
+    if (els.search.value)bits.push('“'+els.search.value+'”');
+    if (els.from.value || els.to.value) {
+      bits.push((els.from.value||'…')+'–'+(els.to.value||'…'));
+    }
+    els.title.textContent = bits.length ? bits.join(' · ') : 'All events';
+    document.title = (bits.length ? bits.join(' · ')+' · ' : '') + 'Filter · The Cascade Ledger';
+    els.lede.textContent = bits.length
+      ? 'A reproducible view. Copy the URL to share — anyone who follows the link sees exactly this.'
+      : 'Every URL is a citation. Pick filters, copy the link — the view is reproducible.';
+  }
+
+  function apply(){
+    var q = els.search.value.trim().toLowerCase();
+    var from = parseInt(els.from.value,10) || 0;
+    var to   = parseInt(els.to.value,10) || 9999;
+    var lane = els.lane.value;
+    var st   = els.status.value;
+    var act  = els.actor.value.trim().toLowerCase();
+    var tag  = els.tag.value.trim().toLowerCase();
+
+    filtered = data.filter(function(e){
+      var y = parseInt((e.date||'').slice(0,4),10);
+      if (y < from || y > to) return false;
+      if (st && (e.status||'') !== st) return false;
+      if (lane) {
+        var laneOk = (e.capture_lanes||[]).some(function(l){ return laneKey(l) === lane; });
+        if (!laneOk) return false;
+      }
+      if (act) {
+        var actOk = (e.actors||[]).some(function(a){ return a.toLowerCase().indexOf(act) !== -1; });
+        if (!actOk) return false;
+      }
+      if (tag) {
+        var tagOk = (e.tags||[]).some(function(t){ return t.toLowerCase().indexOf(tag) !== -1; });
+        if (!tagOk) return false;
+      }
+      if (q) {
+        var hay = (e.title+' '+(e.actors||[]).join(' ')+' '+(e.tags||[]).join(' ')+' '+(e.body||'')).toLowerCase();
+        if (hay.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+
+    filtered.sort(function(a,b){ return (b.date||'').localeCompare(a.date||''); });
+    els.count.textContent = filtered.length.toLocaleString() + ' event' + (filtered.length===1?'':'s');
+    var hasFilter = !!(els.search.value || els.from.value || els.to.value || els.lane.value || els.status.value || els.actor.value || els.tag.value);
+    if (hasFilter) {
+      els.tbody.innerHTML = '';
+      shown = 0;
+      renderMore();
+      els.table.style.display = filtered.length ? '' : 'none';
+      els.msg.style.display   = filtered.length ? 'none' : '';
+      els.msg.textContent     = filtered.length ? '' : 'No events match — loosen a filter.';
+      els.deflt.style.display = 'none';
+    } else {
+      // No filter active — show the server-rendered default view
+      els.table.style.display = 'none';
+      els.msg.style.display   = 'none';
+      els.deflt.style.display = '';
+    }
+    updateTitle();
+    writeURL();
+  }
+  function renderMore(){
+    var slice = filtered.slice(shown, shown+PAGE_SIZE);
+    var html = slice.map(function(e){
+      var laneDots = (e.capture_lanes||[]).map(function(l){
+        return '<span class="dot" title="'+esc(l)+'" style="background:var(--lane-'+laneKey(l)+');"></span>';
+      }).join('');
+      var actors = (e.actors||[]).slice(0,3).map(esc).join(' · ');
+      var more   = (e.actors||[]).length > 3 ? ' · +'+((e.actors||[]).length-3) : '';
+      return '<tr>'
+        + '<td class="date">'+esc(e.date||'')+'</td>'
+        + '<td class="title"><a href="/event/'+esc(e.id||slug(e.title))+'/">'+esc(e.title)+'</a>'
+        + (actors ? '<div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">'+actors+more+'</div>' : '')
+        + '</td>'
+        + '<td>'+(actors||'<span class="dim">—</span>')+'</td>'
+        + '<td class="lanes">'+laneDots+'</td>'
+        + '<td><span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">'+esc(e.status||'')+'</span></td>'
+        + '</tr>';
+    }).join('');
+    els.tbody.insertAdjacentHTML('beforeend', html);
+    shown += slice.length;
+    els.pager.style.display = shown < filtered.length ? '' : 'none';
+  }
+
+  function buildAutocomplete(){
+    var actors = {}, tags = {};
+    data.forEach(function(e){
+      (e.actors||[]).forEach(function(a){ actors[a] = (actors[a]||0)+1; });
+      (e.tags||[]).forEach(function(t){ tags[t] = (tags[t]||0)+1; });
+    });
+    var topActors = Object.entries(actors).sort(function(a,b){return b[1]-a[1];}).slice(0,200);
+    var topTags   = Object.entries(tags).sort(function(a,b){return b[1]-a[1];}).slice(0,200);
+    els.actorList.innerHTML = topActors.map(function(p){return '<option value="'+esc(p[0])+'">';}).join('');
+    els.tagList.innerHTML   = topTags.map(function(p){return '<option value="'+esc(p[0])+'">';}).join('');
+  }
+
+  function copyShare(){
+    navigator.clipboard.writeText(location.href).then(function(){
+      els.share.textContent = 'Copied!';
+      setTimeout(function(){ els.share.textContent = 'Copy link'; }, 1600);
+    });
+  }
+
+  function buildCitation(){
+    var bits = [];
+    if (els.actor.value)  bits.push(els.actor.value);
+    if (els.tag.value)    bits.push('tag:'+els.tag.value);
+    if (els.lane.value)   bits.push(els.lane.value+' lane');
+    if (els.status.value) bits.push('status:'+els.status.value);
+    if (els.search.value) bits.push('search:"'+els.search.value+'"');
+    if (els.from.value || els.to.value) {
+      bits.push((els.from.value||'…')+'–'+(els.to.value||'…'));
+    }
+    var label = bits.length ? bits.join(' · ') : 'all events';
+    var today = new Date().toISOString().slice(0,10);
+    var n = filtered.length || 0;
+    return 'The Cascade Ledger. Filtered view: '+label+' ('+n.toLocaleString()+' event'+(n===1?'':'s')+'). Capture Cascade Timeline. Retrieved '+today+'. '+location.href;
+  }
+  function toggleCite(){
+    if (els.citeBox.style.display === 'none') {
+      els.citeText.textContent = buildCitation();
+      els.citeBox.style.display = '';
+      els.cite.textContent = 'Hide citation';
+    } else {
+      els.citeBox.style.display = 'none';
+      els.cite.textContent = 'Cite';
+    }
+  }
+  function copyCite(){
+    navigator.clipboard.writeText(els.citeText.textContent).then(function(){
+      els.citeCopy.textContent = 'Copied!';
+      setTimeout(function(){ els.citeCopy.textContent = 'Copy citation'; }, 1600);
+    });
+  }
+
+  // Wire up
+  ['search','from','to','lane','status','actor','tag'].forEach(function(k){
+    var ev = (k==='search'||k==='actor'||k==='tag'||k==='from'||k==='to') ? 'input' : 'change';
+    els[k].addEventListener(ev, debounce(apply, 200));
+  });
+  els.more.addEventListener('click', renderMore);
+  els.share.addEventListener('click', copyShare);
+  els.cite.addEventListener('click', toggleCite);
+  els.citeCopy.addEventListener('click', copyCite);
+  function debounce(fn, ms){ var t; return function(){ clearTimeout(t); var args=arguments; t=setTimeout(function(){fn.apply(null,args);},ms); }; }
+
+  // Boot
+  readURL();
+  fetch(DATASET)
+    .then(function(r){ return r.json(); })
+    .then(function(json){
+      data = Array.isArray(json) ? json : (json.events || []);
+      buildAutocomplete();
+      apply();
+    })
+    .catch(function(err){
+      els.msg.textContent = 'Could not load dataset. Try refreshing.';
+      console.error(err);
+    });
+})();
+</script>
+{{ end }}

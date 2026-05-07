@@ -1,0 +1,110 @@
+baseURL = "https://capturecascade.org/"
+languageCode = "en-us"
+title = "The Capture Cascade Timeline"
+publishDir = "../public-timeline"
+enableRobotsTXT = false   # we ship our own from static/robots.txt (richer AI-crawler rules)
+enableEmoji = false
+
+[params]
+  description = "A documentary archive of 4,288 verified events tracing the systematic capture of American democratic institutions from 1142 to today. Court records, government filings, investigative reporting — sourced and indexed."
+  shortName = "The Cascade Ledger"
+  tagline = "An archive of evidence."
+  repoURL = "https://github.com/markramm/cascade-kb"
+  datasetURL = "https://capturecascade.org/data/timeline.json"
+  rammURL = "https://theramm.substack.com"
+  totalEvents = 4288
+  totalActors = 7682
+  totalTags = 6239
+  startYear = 1142
+  endYear = 2026
+
+[taxonomies]
+  actor = "actors"
+  tag = "tags"
+  lane = "lanes"
+  year = "year"
+  decade = "decade"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "SitemapEvents", "SitemapActors", "SitemapTags", "SitemapMeta"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+  notAlternative = false
+
+# Per-section sitemap fragments. Hugo emits these alongside the main
+# sitemap.xml (which is a sitemap-index pointing to them).
+[outputFormats.SitemapEvents]
+  mediaType = "application/xml"
+  baseName  = "sitemap-events"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+[outputFormats.SitemapActors]
+  mediaType = "application/xml"
+  baseName  = "sitemap-actors"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+[outputFormats.SitemapTags]
+  mediaType = "application/xml"
+  baseName  = "sitemap-tags"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+[outputFormats.SitemapMeta]
+  mediaType = "application/xml"
+  baseName  = "sitemap-meta"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+[minify]
+  # Selective minification — preserves custom XML output formats (sitemap fragments).
+  minifyOutput = true
+  [minify.tdewolff.html]
+    keepWhitespace = false
+    keepEndTags = true
+    keepDocumentTags = true
+  [minify.tdewolff.css]
+    precision = 0
+  [minify.tdewolff.js]
+    precision = 0
+  [minify.tdewolff.xml]
+    keepWhitespace = true   # keep XML readable, prevent fragment suppression
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[permalinks.page]
+  event = "/event/:slug/"
+
+[permalinks.term]
+  year = "/year/:slug/"
+  decade = "/decade/:slug/"
+
+[pagination]
+  pagerSize = 100
+  path = "page"
+
+[caches]
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = "720h"

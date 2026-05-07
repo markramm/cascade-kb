@@ -1,0 +1,43 @@
+{{- $events := where site.RegularPages "Type" "event" -}}
+{{- $events = where $events "Date" "ne" nil -}}
+{{- $events = first 100 (sort $events ".Params.date" "desc") -}}
+{{- $title := "The Cascade Ledger — Recent additions" -}}
+{{- if .IsHome -}}{{- $title = printf "%s — Recent additions" site.Title -}}{{- end -}}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ $title }}</title>
+    <link>{{ site.BaseURL }}</link>
+    <description>{{ site.Params.description }}</description>
+    <language>en-US</language>
+    <copyright>© {{ now.Year }} Transparency Cascade Press · CC BY-SA 4.0</copyright>
+    <lastBuildDate>{{ (index $events 0).Params.date | default now | dateFormat "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    <generator>Hugo + Pyrite</generator>
+    <atom:link href="{{ .Permalink }}index.xml" rel="self" type="application/rss+xml" />
+    {{ range $events }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      <pubDate>{{ .Params.date | dateFormat "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <dc:date>{{ .Params.date | dateFormat "2006-01-02" }}</dc:date>
+      {{- with .Params.summary }}<description>{{ . | plainify | safeHTML }}</description>{{- end }}
+      {{- with .Params.actors -}}{{- range first 6 . -}}
+      <category>{{ . }}</category>
+      {{- end -}}{{- end }}
+      {{- with .Params.capture_lanes -}}{{- range . -}}
+      <category domain="capture-lane">{{ . }}</category>
+      {{- end -}}{{- end }}
+      {{- with .Params.tags -}}{{- range first 8 . -}}
+      <category domain="tag">{{ . }}</category>
+      {{- end -}}{{- end }}
+      <content:encoded><![CDATA[
+        {{- with .Params.summary }}<p>{{ . }}</p>{{- end -}}
+        {{- with .Params.actors }}<p><strong>Actors:</strong> {{ delimit . ", " }}</p>{{- end -}}
+        {{- with .Params.capture_lanes }}<p><strong>Capture lanes:</strong> {{ delimit . ", " }}</p>{{- end -}}
+        <p><a href="{{ .Permalink }}">Read full entry →</a></p>
+      ]]></content:encoded>
+    </item>
+    {{ end }}
+  </channel>
+</rss>

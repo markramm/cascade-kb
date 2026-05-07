@@ -1,0 +1,236 @@
+{{ define "title" }}Page not found · The Cascade Ledger{{ end }}
+
+{{ define "head" }}
+<meta name="robots" content="noindex,follow">
+<style>
+  /* ─── 404 page-local styling ─────────────────────────────── */
+  .notfound {
+    padding: 64px 0 24px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .notfound .eyebrow {
+    display: flex; align-items: baseline; gap: 14px;
+    margin-bottom: 22px;
+  }
+  .notfound .eyebrow::before, .notfound .eyebrow::after {
+    content: ""; flex: 1; height: 1px; background: var(--rule-mute);
+  }
+  .notfound h1 {
+    font-family: var(--serif-display);
+    font-size: clamp(2.4rem, 5.4vw, 4.2rem);
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 1.04;
+    max-width: 22ch;
+    margin: 0 0 22px;
+  }
+  .notfound h1 em { color: var(--ox); font-style: italic; }
+  .notfound .lede { max-width: 44ch; margin-bottom: 18px; }
+  .notfound .stamp {
+    margin-top: 26px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--ink-4);
+  }
+  .notfound .stamp code { color: var(--ox); }
+
+  /* ─── Search panel ───────────────────────────────────────── */
+  .nf-search {
+    margin: 44px 0 36px;
+    padding: 28px 28px 26px;
+    background: var(--paper-deep);
+    border-top: 2px solid var(--rule);
+    border-bottom: 2px solid var(--rule);
+  }
+  .nf-search-label {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--ox); font-weight: 500;
+    margin-bottom: 12px;
+    display: flex; align-items: baseline; gap: 14px;
+  }
+  .nf-search-label::after {
+    content: ""; flex: 1; height: 1px; background: var(--rule-mute);
+  }
+  .nf-search form {
+    display: flex; gap: 0; align-items: stretch;
+    border-bottom: 1px solid var(--rule);
+  }
+  .nf-search input[type="search"] {
+    flex: 1; min-width: 0;
+    padding: 14px 12px 14px 32px;
+    font-family: var(--mono); font-size: 17px;
+    background: transparent; border: 0;
+    color: var(--ink); letter-spacing: 0.01em;
+    border-radius: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%237a1f1f' stroke-width='2'><circle cx='11' cy='11' r='7'/><line x1='21' y1='21' x2='16.65' y2='16.65'/></svg>");
+    background-repeat: no-repeat; background-position: 8px center;
+  }
+  .nf-search input[type="search"]:focus {
+    outline: none;
+    box-shadow: inset 0 -2px 0 0 var(--ox);
+  }
+  .nf-search input[type="search"]::placeholder { color: var(--ink-4); font-style: italic; }
+  .nf-search button {
+    padding: 0 22px;
+    font-family: var(--mono); font-size: 11.5px; letter-spacing: 0.16em;
+    text-transform: uppercase; cursor: pointer;
+    background: var(--ink); color: var(--paper);
+    border: 0; border-radius: 0;
+    transition: background .12s;
+  }
+  .nf-search button:hover { background: var(--ox); }
+  .nf-search-hint {
+    margin-top: 14px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em;
+    color: var(--ink-3);
+  }
+
+  /* ─── Browse list ────────────────────────────────────────── */
+  .nf-browse {
+    margin: 0 0 8px;
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ink-3);
+    margin-bottom: 12px;
+  }
+  .nf-browse-list {
+    list-style: none; padding: 0; margin: 0 0 36px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 0;
+    border-left: 1px solid var(--paper-edge);
+  }
+  .nf-browse-list li {
+    border-right: 1px solid var(--paper-edge);
+    border-bottom: 1px solid var(--paper-edge);
+  }
+  .nf-browse-list a {
+    display: flex; align-items: baseline; gap: 12px;
+    padding: 16px 18px;
+    text-decoration: none; color: var(--ink);
+    font-family: var(--serif-body); font-size: 16px;
+    background: var(--paper);
+    transition: background .12s;
+  }
+  .nf-browse-list a:hover { background: var(--paper-deep); color: var(--ox); }
+  .nf-browse-list a::before {
+    content: "→";
+    color: var(--ox);
+    font-family: var(--mono); font-size: 14px;
+    flex-shrink: 0;
+  }
+
+  /* ─── Suggest CTA ────────────────────────────────────────── */
+  .nf-suggest {
+    margin: 56px 0 24px;
+    padding: 36px 32px;
+    background: var(--ink); color: var(--paper);
+    border-top: 4px double var(--ox);
+    border-bottom: 4px double var(--ox);
+    display: grid; gap: 16px;
+  }
+  .nf-suggest .eyebrow { color: var(--gilt); }
+  .nf-suggest h2 {
+    font-family: var(--serif-display);
+    font-size: clamp(1.4rem, 2.4vw, 1.8rem);
+    font-weight: 500; color: var(--paper);
+    letter-spacing: -0.005em; max-width: 28ch;
+  }
+  .nf-suggest p {
+    color: rgba(243,239,230,0.78);
+    max-width: 56ch;
+    font-size: 16px;
+  }
+  .nf-suggest .btn { border-color: var(--paper); color: var(--paper); }
+  .nf-suggest .btn:hover { background: var(--paper); color: var(--ink); }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="page">
+
+  {{/* ─── Masthead of the missing page ──────────────────────── */}}
+  <section class="notfound" aria-labelledby="nf-title">
+    <span class="eyebrow">Not in the record &middot; 404</span>
+    <h1 id="nf-title">This page <em>isn&rsquo;t catalogued.</em></h1>
+    <p class="lede">
+      Either the entry hasn&rsquo;t been written yet, or the URL is mistaken.
+      The ledger is open &mdash; help us find what you were looking for.
+    </p>
+    <div class="stamp">
+      Requested path: <code>{{ .RelPermalink }}</code>
+    </div>
+  </section>
+
+  {{/* ─── Search the timeline ───────────────────────────────── */}}
+  <section class="nf-search" aria-labelledby="nf-search-head">
+    <div class="nf-search-label" id="nf-search-head">Search the timeline</div>
+    <form action="/q/" method="get" role="search">
+      <input
+        type="search"
+        name="search"
+        placeholder="search the record&hellip;"
+        aria-label="Search the timeline"
+        autocomplete="off"
+        autofocus>
+      <button type="submit">Search</button>
+    </form>
+    <div class="nf-search-hint">Searches all {{ site.Params.totalEvents }} events &middot; actors, tags, capture lanes</div>
+  </section>
+
+  {{/* ─── Or browse ─────────────────────────────────────────── */}}
+  <div class="nf-browse">Or browse</div>
+  <ul class="nf-browse-list" aria-label="Browse the archive">
+    <li><a href="/year/{{ now.Year }}/">Most recent events</a></li>
+    <li><a href="/lanes/">All capture lanes</a></li>
+    <li><a href="/actors/">All actors</a></li>
+    <li><a href="/q/">Filter the timeline</a></li>
+    <li><a href="/decade/">Browse by decade</a></li>
+    <li><a href="/tags/">Browse by tag</a></li>
+  </ul>
+
+  {{/* ─── Recent additions to the record ────────────────────── */}}
+  <section aria-labelledby="nf-recent-head">
+    <div class="section-head">
+      <h2 id="nf-recent-head">Recent additions to the record</h2>
+      <span class="meta"><a href="/year/{{ now.Year }}/">All of {{ now.Year }} &rarr;</a></span>
+    </div>
+    <div class="recent-grid">
+      {{ range first 6 (where (where site.RegularPages "Type" "event") "Date" "ne" nil) }}
+      <a href="{{ .RelPermalink }}" class="recent-item">
+        <span class="date">{{ dateFormat "January 2, 2006" .Params.date }}</span>
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.actors }}
+        <div class="actors">{{ delimit (first 3 .) " &middot; " }}{{ if gt (len .) 3 }} &middot; +{{ sub (len .) 3 }}{{ end }}</div>
+        {{ end }}
+        <div class="lane-row">
+          {{ range (.Params.capture_lanes | default slice) }}
+            {{ $key := "other" }}
+            {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+            {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+            {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+            {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+            {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+            <span class="lane-dot" style="background:var(--lane-{{ $key }});" title="{{ . }}"></span>
+          {{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* ─── Suggest an entry ──────────────────────────────────── */}}
+  <aside class="nf-suggest" aria-labelledby="nf-suggest-head">
+    <span class="eyebrow">Suggest an entry</span>
+    <h2 id="nf-suggest-head">If you think this event should exist in the timeline, tell us.</h2>
+    <p>
+      The Cascade Ledger is an open archive. Tips, corrections, and missing
+      entries arrive through GitHub. We read every one.
+    </p>
+    <div>
+      <a class="btn" href="https://github.com/markramm/cascade-kb/issues/new?template=missing-entry.yml&amp;title=Missing+entry">
+        Open a tip issue &rarr;
+      </a>
+    </div>
+  </aside>
+
+</div>
+{{ end }}

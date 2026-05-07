@@ -1,0 +1,345 @@
+{{ define "main" }}
+{{ if eq .Kind "term" }}
+  {{/* ───────────────────────── TERM PAGE ───────────────────────── */}}
+  {{ $kind := .Type }}
+  {{ $count := len .Pages }}
+  {{ $events := where .Pages "Type" "event" }}
+  {{ $sortedAsc  := sort $events ".Params.date" "asc" }}
+  {{ $sortedDesc := sort $events ".Params.date" "desc" }}
+  {{ $first := false }}{{ $last := false }}
+  {{ if gt (len $sortedAsc) 0 }}{{ $first = index $sortedAsc 0 }}{{ end }}
+  {{ if gt (len $sortedDesc) 0 }}{{ $last = index $sortedDesc 0 }}{{ end }}
+
+  <div class="page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Ledger</a>
+      <span class="sep">›</span>
+      <a href="/{{ $kind }}/">{{ $kind | humanize | title }}</a>
+      <span class="sep">›</span>
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+
+    <header class="taxonomy-intro">
+      <span class="eyebrow">
+        {{ if eq $kind "actors" }}Actor profile
+        {{ else if eq $kind "tags" }}Tag index
+        {{ else if eq $kind "lanes" }}Capture lane
+        {{ else if eq $kind "year" }}Year of record
+        {{ else if eq $kind "decade" }}Decade of record
+        {{ else }}{{ $kind | humanize }}{{ end }}
+      </span>
+      <h1>{{ if eq $kind "tags" }}#{{ end }}{{ .Title }}</h1>
+      <p class="lede" style="margin-top:14px;">
+        {{ if eq $kind "actors" }}
+          {{ .Title }} is named in {{ $count }} event{{ if ne $count 1 }}s{{ end }} across the Capture Cascade Timeline{{ if and $first $last }}, from {{ dateFormat "2006" $first.Params.date }} to {{ dateFormat "2006" $last.Params.date }}{{ end }}.
+        {{ else if eq $kind "tags" }}
+          Events indexed under <em>#{{ .Title }}</em> — {{ $count }} entr{{ if ne $count 1 }}ies{{ else }}y{{ end }} in the record.
+        {{ else if eq $kind "lanes" }}
+          The {{ .Title }} capture lane traces {{ $count }} verified events documenting this mechanism of institutional capture.
+        {{ else if eq $kind "year" }}
+          {{ $count }} verified event{{ if ne $count 1 }}s{{ end }} recorded in {{ .Title }}.
+        {{ else if eq $kind "decade" }}
+          The {{ .Title }} contain {{ $count }} verified events in the Capture Cascade Timeline.
+        {{ end }}
+      </p>
+      <div class="taxonomy-stats">
+        <span><strong>{{ $count }}</strong> events</span>
+        {{ if and $first $last }}
+        <span>From <strong>{{ dateFormat "Jan 2, 2006" $first.Params.date }}</strong></span>
+        <span>To <strong>{{ dateFormat "Jan 2, 2006" $last.Params.date }}</strong></span>
+        {{ end }}
+        <span><a href="/q/?{{ if eq $kind "actors" }}actor{{ else if eq $kind "tags" }}tag{{ else if eq $kind "lanes" }}lane{{ else }}{{ $kind }}{{ end }}={{ .Title | urlize }}" style="color:var(--ox);text-decoration:none;">Open in filter view →</a></span>
+      </div>
+    </header>
+
+    {{/* Mini density chart — gated to ≤500 events to keep build time bounded.
+         For larger terms (Donald Trump, etc.), skip — the ledger table tells the story. */}}
+    {{ if and (or (eq $kind "decade") (eq $kind "year") (ge $count 5)) (le $count 500) }}
+    <div class="density-frame" style="margin:32px 0;padding:0;">
+      <div class="density-title" style="margin-bottom:10px;">
+        <span><strong>Activity over time</strong></span>
+        <span class="dim">Events per year</span>
+      </div>
+      {{ $byYear := dict }}
+      {{ range $events }}
+        {{ $y := dateFormat "2006" .Params.date }}
+        {{ $cur := index $byYear $y | default 0 }}
+        {{ $byYear = merge $byYear (dict $y (add $cur 1)) }}
+      {{ end }}
+      {{ $minY := 9999 }}{{ $maxY := 0 }}{{ $maxC := 1 }}
+      {{ range $y, $c := $byYear }}
+        {{ $yi := int $y }}
+        {{ if lt $yi $minY }}{{ $minY = $yi }}{{ end }}
+        {{ if gt $yi $maxY }}{{ $maxY = $yi }}{{ end }}
+        {{ if gt $c $maxC }}{{ $maxC = $c }}{{ end }}
+      {{ end }}
+      {{ $span := add 1 (sub $maxY $minY) }}
+      <svg class="density" viewBox="0 0 1200 120" preserveAspectRatio="none" style="height:120px;background:var(--paper-deep);border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);">
+        {{ $w := div 1200.0 (float $span) }}
+        {{ range $y, $c := $byYear }}
+          {{ $x := mul (sub (int $y) $minY) $w }}
+          {{ $h := mul 100 (div (float $c) (float $maxC)) }}
+          <rect x="{{ $x }}" y="{{ sub 110 $h }}" width="{{ sub $w 0.5 }}" height="{{ $h }}" fill="var(--ox)">
+            <title>{{ $y }} · {{ $c }} event{{ if ne $c 1 }}s{{ end }}</title>
+          </rect>
+        {{ end }}
+        <text x="6" y="116" class="density-axis">{{ $minY }}</text>
+        <text x="1194" y="116" class="density-axis" text-anchor="end">{{ $maxY }}</text>
+      </svg>
+    </div>
+    {{ end }}
+
+    {{/* Ledger of events (paginated) */}}
+    {{ $paginator := .Paginate $sortedDesc 100 }}
+    <table class="ledger" aria-label="Events">
+      <thead>
+        <tr><th>Date</th><th>Event</th><th>Lanes</th><th class="dim">Status</th></tr>
+      </thead>
+      <tbody>
+        {{ range $paginator.Pages }}
+        <tr>
+          <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
+          <td class="title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.actors }}
+            <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;font-weight:400;">
+              {{ delimit (first 4 .) " · " }}{{ if gt (len .) 4 }} · +{{ sub (len .) 4 }}{{ end }}
+            </div>
+            {{ end }}
+          </td>
+          <td class="lanes">
+            {{ range (.Params.capture_lanes | default slice) }}
+              {{ $key := "other" }}
+              {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+              {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+              {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+              {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+              {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+              <span class="dot" style="background:var(--lane-{{ $key }});" title="{{ . }}"></span>
+            {{ end }}
+          </td>
+          <td>
+            {{ with .Params.status }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ . }}</span>{{ end }}
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+
+    {{ template "_internal/pagination.html" . }}
+
+    {{/* Co-occurrence — uses pre-computed data/co_actors.json (top 24 only) */}}
+    {{ if eq $kind "actors" }}
+    {{ $coData := index site.Data.co_actors .Title }}
+    {{ if $coData }}
+    <section style="margin-top:64px;">
+      <div class="section-head">
+        <h2>Network neighbors</h2>
+        <span class="meta">{{ $coData.total }} other actors share an event{{ if gt $coData.total 24 }} · top 24 shown{{ end }}</span>
+      </div>
+      <div class="actor-list" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0 32px;">
+        {{ range $coData.top }}
+        <a href="/actors/{{ .slug }}/">
+          <span>{{ .name }}</span>
+          <span class="count">{{ .count }}× shared</span>
+        </a>
+        {{ end }}
+      </div>
+      {{ if gt $coData.total 24 }}
+      <div style="margin-top:18px;font-family:var(--mono);font-size:11px;letter-spacing:0.1em;color:var(--ink-3);">
+        Full co-occurrence is available in the dataset · <a href="{{ site.Params.datasetURL }}" style="color:var(--ox);">JSON →</a>
+      </div>
+      {{ end }}
+    </section>
+    {{ end }}
+    {{ end }}
+  </div>
+
+{{ else }}
+  {{/* ─────────────────────── TAXONOMY INDEX ─────────────────────── */}}
+  {{ $kind := .Type }}
+  {{ $terms := .Pages }}
+  {{ $heavy := or (eq $kind "actors") (eq $kind "tags") }}
+  {{ $catalog := "" }}
+  {{ if eq $kind "actors" }}{{ $catalog = "/data/actors.json" }}{{ end }}
+  {{ if eq $kind "tags" }}{{ $catalog = "/data/tags.json" }}{{ end }}
+
+  <div class="page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Ledger</a>
+      <span class="sep">›</span>
+      <span aria-current="page">{{ $kind | humanize | title }}</span>
+    </nav>
+
+    <header class="taxonomy-intro">
+      <span class="eyebrow">Index</span>
+      <h1>{{ $kind | humanize | title }}</h1>
+      <p class="lede">
+        {{ if eq $kind "actors" }}
+          Every named person and institution in the Capture Cascade Timeline. Each profile shows when they enter the record, who they appear with, and which capture lanes they occupy.
+        {{ else if eq $kind "tags" }}
+          The full taxonomy of indexed tags. Tags are the fastest way to follow a single mechanism — say <em>regulatory-capture</em> or <em>kleptocracy</em> — across decades.
+        {{ else if eq $kind "lanes" }}
+          Five capture lanes structure the entire timeline. Each lane is a mechanism of institutional capture; events typically fall in two or three.
+        {{ else if eq $kind "decade" }}
+          Walk the timeline by decade. Each page lists every verified event in chronological order.
+        {{ else if eq $kind "year" }}
+          Every year between {{ site.Params.startYear }} and today, with the verified events recorded against it.
+        {{ end }}
+      </p>
+      <div class="taxonomy-stats">
+        <span><strong>{{ len $terms }}</strong> entries</span>
+        <span><a href="/q/" style="color:var(--ox);text-decoration:none;">Build a filter →</a></span>
+      </div>
+    </header>
+
+    {{ if $heavy }}
+    {{/* Lazy-loaded catalog: top 200 above the fold, then alphabet buckets. */}}
+    <div style="margin:24px 0 18px;">
+      <input type="search" id="tax-search" placeholder="Search all {{ $kind }}…" data-catalog="{{ $catalog }}" style="width:100%;padding:14px 18px;font-family:var(--mono);font-size:14px;background:transparent;border:1px solid var(--rule);color:var(--ink);" autocomplete="off">
+      <div style="margin-top:6px;font-family:var(--mono);font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">Press / to focus · type 2+ characters to search the full catalog</div>
+    </div>
+
+    {{/* Live search results (JS fills) */}}
+    <div id="tax-search-results" style="display:none;border-top:1px solid var(--rule);"></div>
+
+    {{/* Top 200 most-documented (sorted by count) */}}
+    <div id="tax-default" style="margin-top:18px;">
+      <div class="section-head" style="margin-top:0;">
+        <h2 style="font-size:1.1rem;">Most documented · top 200</h2>
+        <span class="meta">sorted by event count</span>
+      </div>
+      {{ $sorted := first 200 (sort $terms ".Pages" "desc") }}
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0;border-left:1px solid var(--paper-edge);">
+        {{ range $sorted }}
+        <a href="{{ .RelPermalink }}" class="tax-item" data-name="{{ .Title | lower }}" style="display:flex;justify-content:space-between;align-items:baseline;padding:12px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:15.5px;background:var(--paper);transition:background .12s;">
+          <span>{{ if eq $kind "tags" }}#{{ end }}{{ .Title }}</span>
+          <span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">{{ len .Pages }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* Alphabet bucket nav — letters only (eager), contents lazy-loaded from catalog JSON.
+         Avoids rendering all 8,000+ entries to HTML. */}}
+    <div id="tax-alpha" style="margin-top:48px;">
+      <div class="section-head" style="margin-top:0;">
+        <h2 style="font-size:1.1rem;">Alphabetical · all {{ len $terms }}</h2>
+        <span class="meta">click any letter to load that bucket</span>
+      </div>
+      <div id="tax-alpha-bar" style="display:flex;flex-wrap:wrap;gap:6px;padding:12px 0;font-family:var(--mono);font-size:13px;letter-spacing:0.06em;">
+        {{ range (slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "#") }}
+        <button type="button" data-letter="{{ . }}" class="alpha-btn" style="display:inline-block;min-width:36px;text-align:center;padding:6px 8px;border:1px solid var(--rule-mute);background:var(--paper);font-family:var(--mono);font-size:13px;color:var(--ink-2);cursor:pointer;">{{ . }}</button>
+        {{ end }}
+      </div>
+      <div id="tax-alpha-results" style="margin-top:14px;"></div>
+    </div>
+
+    <script>
+    (function(){
+      var s = document.getElementById('tax-search');
+      var r = document.getElementById('tax-search-results');
+      var dflt = document.getElementById('tax-default');
+      var alpha = document.getElementById('tax-alpha');
+      if (!s) return;
+      var catalog = null;
+      function loadCatalog(){
+        if (catalog) return Promise.resolve();
+        return fetch(s.dataset.catalog).then(function(res){return res.json();}).then(function(j){catalog = j;});
+      }
+      function esc(t){var d=document.createElement('div');d.textContent=t;return d.innerHTML;}
+      function render(q){
+        q = q.trim().toLowerCase();
+        if (!q || q.length < 2) {
+          r.style.display='none'; dflt.style.display=''; alpha.style.display='';
+          return;
+        }
+        var matches = catalog.filter(function(e){return e.name.toLowerCase().indexOf(q) !== -1;}).slice(0,200);
+        if (!matches.length) {
+          r.innerHTML = '<div style="padding:18px;color:var(--ink-3);font-style:italic;">No matches in catalog.</div>';
+        } else {
+          r.innerHTML = '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0;border-left:1px solid var(--paper-edge);">'
+            + matches.map(function(e){
+                return '<a href="/{{ $kind }}/'+encodeURIComponent(e.slug)+'/" style="display:flex;justify-content:space-between;align-items:baseline;padding:12px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:15.5px;">'
+                  + '<span>{{ if eq $kind "tags" }}#{{ end }}'+esc(e.name)+'</span>'
+                  + '<span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">'+e.count+'</span>'
+                  + '</a>';
+              }).join('')
+            + '</div>';
+        }
+        r.style.display=''; dflt.style.display='none'; alpha.style.display='none';
+      }
+      var t;
+      s.addEventListener('input', function(){
+        clearTimeout(t);
+        t = setTimeout(function(){ loadCatalog().then(function(){ render(s.value); }); }, 180);
+      });
+      s.addEventListener('focus', function(){ loadCatalog(); });
+      document.addEventListener('keydown', function(e){
+        if (e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA') {
+          e.preventDefault(); s.focus();
+        }
+      });
+
+      // Alphabet bucket: lazy-fetch catalog, filter by first letter, render
+      var ar = document.getElementById('tax-alpha-results');
+      var activeLetter = null;
+      document.querySelectorAll('.alpha-btn').forEach(function(btn){
+        btn.addEventListener('click', function(){
+          var letter = btn.dataset.letter;
+          if (activeLetter === letter) {
+            // toggle off
+            ar.innerHTML = '';
+            btn.style.background = 'var(--paper)';
+            btn.style.color = 'var(--ink-2)';
+            activeLetter = null;
+            return;
+          }
+          // reset all buttons
+          document.querySelectorAll('.alpha-btn').forEach(function(b){
+            b.style.background = 'var(--paper)';
+            b.style.color = 'var(--ink-2)';
+          });
+          btn.style.background = 'var(--ox)';
+          btn.style.color = 'var(--paper)';
+          activeLetter = letter;
+          loadCatalog().then(function(){
+            var items = catalog.filter(function(e){
+              var c = (e.name||'').charAt(0).toUpperCase();
+              if (letter === '#') return !/[A-Z]/.test(c);
+              return c === letter;
+            }).sort(function(a,b){ return a.name.localeCompare(b.name); });
+            if (!items.length) {
+              ar.innerHTML = '<div style="padding:18px;color:var(--ink-3);font-style:italic;">No entries under '+letter+'.</div>';
+              return;
+            }
+            ar.innerHTML = '<div style="margin:8px 0;font-family:var(--mono);font-size:11px;letter-spacing:0.1em;color:var(--ink-3);text-transform:uppercase;">'+items.length+' entries · letter '+letter+'</div>'
+              + '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0;border-left:1px solid var(--paper-edge);">'
+              + items.map(function(e){
+                  return '<a href="/{{ $kind }}/'+encodeURIComponent(e.slug)+'/" style="display:flex;justify-content:space-between;align-items:baseline;padding:8px 14px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink-2);font-family:var(--serif-body);font-size:14.5px;">'
+                    + '<span>{{ if eq $kind "tags" }}#{{ end }}'+esc(e.name)+'</span>'
+                    + '<span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">'+e.count+'</span>'
+                    + '</a>';
+                }).join('')
+              + '</div>';
+          });
+        });
+      });
+    })();
+    </script>
+
+    {{ else }}
+    {{/* Smaller taxonomies (lanes, year, decade): full list, single grid. */}}
+    {{ $sorted := sort $terms ".Pages" "desc" }}
+    <div id="tax-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0;border-left:1px solid var(--paper-edge);margin-top:24px;">
+      {{ range $sorted }}
+      <a href="{{ .RelPermalink }}" style="display:flex;justify-content:space-between;align-items:baseline;padding:14px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:16px;background:var(--paper);">
+        <span>{{ .Title }}</span>
+        <span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">{{ len .Pages }}</span>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+{{ end }}
+{{ end }}

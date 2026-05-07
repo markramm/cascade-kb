@@ -1,0 +1,56 @@
+# Caddyfile run inside the cascade-static container.
+# The shared front-end Caddy reverse_proxies capturecascade.org → :8088 here.
+# This inner Caddy just serves static files with proper headers.
+
+{
+    admin off
+    auto_https off
+}
+
+:8088 {
+    root * /srv
+
+    # Compression
+    encode zstd gzip
+
+    # Long-cache static assets (CSS, JS, fonts, images, OG cards)
+    @static {
+        path /css/* /js/* /og/* /data/*.json *.png *.svg *.woff *.woff2
+    }
+    header @static Cache-Control "public, max-age=31536000, immutable"
+
+    # Short cache for HTML
+    @html {
+        path *.html /
+    }
+    header @html Cache-Control "public, max-age=300, must-revalidate"
+
+    # Sitemap / RSS / robots — short cache
+    @feed {
+        path /sitemap*.xml /index.xml /robots.txt
+    }
+    header @feed Cache-Control "public, max-age=3600"
+
+    # Security headers
+    header {
+        X-Content-Type-Options "nosniff"
+        Referrer-Policy "strict-origin-when-cross-origin"
+        Strict-Transport-Security "max-age=31536000; includeSubDomains"
+        # Defer X-Frame-Options to the front-end Caddy — we don't terminate TLS here
+        -Server
+    }
+
+    # Custom 404 page
+    handle_errors {
+        @404 expression {http.error.status_code} == 404
+        rewrite @404 /404.html
+        file_server
+    }
+
+    # Clean URLs: try /path/, /path/index.html, /path.html, then fall through
+    try_files {path} {path}/index.html {path}.html
+
+    file_server {
+        index index.html
+    }
+}

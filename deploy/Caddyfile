@@ -1,7 +1,22 @@
-capturecascade.org {
-	# Root redirects to the timeline site
-	redir / /site/cascade-timeline/ permanent
+# Front-end Caddyfile snippet for capturecascade.org.
+#
+# This is the block that lives in the SHARED front-end Caddy (the one that
+# also serves demo.pyrite.wiki and journalists.pyrite.wiki). On the VPS it's
+# at /home/deploy/pyrite/deploy/demo/Caddyfile.
+#
+# This snippet documents what the live config should contain after the static
+# migration. The actual edit is performed by deploy/deploy.sh which patches
+# the running file in place.
 
-	# Everything to Pyrite
-	reverse_proxy pyrite:8088
+www.capturecascade.org {
+    redir https://capturecascade.org{uri} permanent
+}
+
+capturecascade.org {
+    # Reverse-proxy to the cascade-static container (Caddy serving Hugo output)
+    reverse_proxy cascade:8088
+
+    # The inner Caddy in the cascade container handles caching, compression,
+    # security headers, and the custom 404 — see deploy/Caddyfile.container.
+    # Front-end Caddy just terminates TLS and forwards.
 }

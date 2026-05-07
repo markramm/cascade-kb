@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">All events</span>
+  </nav>
+  <header class="taxonomy-intro">
+    <span class="eyebrow">The full ledger</span>
+    <h1>All {{ len .Pages }} events</h1>
+    <p class="lede">Reverse chronological. For filtering and full-text search, use the <a href="/q/">filter view</a>.</p>
+  </header>
+
+  {{ $paginator := .Paginate (sort .Pages ".Params.date" "desc") 100 }}
+  <table class="ledger">
+    <thead><tr><th>Date</th><th>Event</th><th>Actors</th><th>Lanes</th></tr></thead>
+    <tbody>
+    {{ range $paginator.Pages }}
+      <tr>
+        <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
+        <td class="title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Params.actors }}
+          <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">
+            {{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}
+          </div>
+          {{ end }}
+        </td>
+        <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--sans-meta);font-size:13px;">{{ len . }}</span>{{ end }}</td>
+        <td class="lanes">
+          {{ range (.Params.capture_lanes | default slice) }}
+            {{ $key := "other" }}
+            {{ if in (lower .) "financial" }}{{ $key = "finance" }}
+            {{ else if in (lower .) "democratic" }}{{ $key = "democracy" }}
+            {{ else if in (lower .) "corruption" }}{{ $key = "corruption" }}
+            {{ else if in (lower .) "labor" }}{{ $key = "labor" }}
+            {{ else if in (lower .) "extraction" }}{{ $key = "extraction" }}{{ end }}
+            <span class="dot" style="background:var(--lane-{{ $key }});display:inline-block;width:8px;height:8px;margin-right:3px;" title="{{ . }}"></span>
+          {{ end }}
+        </td>
+      </tr>
+    {{ end }}
+    </tbody>
+  </table>
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

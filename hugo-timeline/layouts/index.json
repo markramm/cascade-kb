@@ -1,0 +1,21 @@
+{{- $events := where site.RegularPages "Type" "event" -}}
+{
+  "name": {{ site.Title | jsonify }},
+  "description": {{ site.Params.description | jsonify }},
+  "url": {{ site.BaseURL | jsonify }},
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "totals": {
+    "events": {{ len $events }},
+    "actors": {{ len (site.Taxonomies.actors) }},
+    "tags":   {{ len (site.Taxonomies.tags) }},
+    "lanes":  {{ len (site.Taxonomies.lanes) }},
+    "years":  {{ len (site.Taxonomies.year) }}
+  },
+  "endpoints": {
+    "dataset":  {{ site.Params.datasetURL | jsonify }},
+    "rss":      "{{ site.BaseURL }}index.xml",
+    "sitemap":  "{{ site.BaseURL }}sitemap.xml"
+  },
+  "schema_version": 1,
+  "generated": {{ now.UTC.Format "2006-01-02T15:04:05Z" | jsonify }}
+}

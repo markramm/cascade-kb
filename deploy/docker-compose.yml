@@ -1,29 +1,40 @@
+# Cascade Ledger — capturecascade.org
+#
+# Replaces the previous Pyrite-server container with a static-site container
+# that builds the Hugo site at image-build time and serves it via Caddy.
+#
+# Service is named `cascade` so the front-end Caddy can reverse_proxy to
+# `cascade:8088`. Compose gives the container the name `deploy-cascade-1`
+# on the shared network.
+#
+# Update plan:
+#   1. ssh deploy@vps
+#   2. cd ~/cascade-kb && git pull
+#   3. docker compose -f deploy/docker-compose.yml build cascade
+#   4. docker compose -f deploy/docker-compose.yml up -d
+#   5. Update /home/deploy/pyrite/deploy/demo/Caddyfile so the
+#      capturecascade.org block points at cascade:8088 (instead of
+#      deploy-pyrite-1:8088), then reload:
+#        docker exec demo-caddy-1 caddy reload --config /etc/caddy/Caddyfile
+#   6. Old pyrite container can be retired:
+#        docker compose -f deploy/docker-compose.yml rm -sf pyrite
+#      (only if you removed the `pyrite` service block; otherwise it'll keep
+#      running alongside).
+
 services:
-  pyrite:
+  cascade:
     build:
       context: ../
       dockerfile: deploy/Dockerfile
-    volumes:
-      - pyrite-data:/data
-    environment:
-      - PYRITE_HOST=0.0.0.0
-      - PYRITE_AUTH_ENABLED=true
-      - PYRITE_AUTH_ANONYMOUS_TIER=read
-      - PYRITE_CORS_ORIGINS=https://capturecascade.org
-      - PYRITE_SEARCH_MODE=hybrid
-      - PYRITE_DATA_DIR=/data
     networks:
       - shared
     restart: unless-stopped
     healthcheck:
-      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8088/health')"]
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost:8088/"]
       interval: 30s
       timeout: 5s
-      start_period: 15s
+      start_period: 10s
       retries: 3
-
-volumes:
-  pyrite-data:
 
 networks:
   shared:

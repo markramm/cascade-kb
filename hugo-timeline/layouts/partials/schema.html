@@ -1,0 +1,138 @@
+{{/*
+  schema.html — Type-specific JSON-LD per page.
+
+  - event/single  -> Article + about (Event) + mentions (Person/Organization for actors)
+  - actors/term   -> CollectionPage about Person OR Organization
+  - tags/term     -> DefinedTerm + CollectionPage
+  - lanes/term    -> CollectionPage with about (Thing)
+  - year/single   -> CollectionPage with temporalCoverage
+  - decade/single -> CollectionPage with temporalCoverage
+
+  Crawlers: Google Dataset Search, Bing knowledge graph, Common Crawl,
+  perplexity / kagi / brave indexers, GPT-class web indexers.
+*/}}
+{{- $title  := .Title -}}
+{{- $url    := .Permalink -}}
+{{- $desc   := .Params.summary | default (printf "%s — Capture Cascade Timeline." .Title) -}}
+{{- $pub    := dict "@type" "Organization" "name" "Transparency Cascade Press" "url" "https://transparencycascade.org" -}}
+{{- $partOf := dict "@type" "WebSite" "name" site.Title "url" site.BaseURL "@id" (printf "%s#website" site.BaseURL) -}}
+{{- $dataset := dict "@type" "Dataset" "name" "The Capture Cascade Timeline" "@id" (printf "%s#dataset" site.BaseURL) -}}
+{{- $data := dict "@context" "https://schema.org" -}}
+
+{{- if and .IsPage (eq .Type "event") -}}
+  {{- $eventDate := dateFormat "2006-01-02" .Params.date -}}
+  {{- $actorsList := slice -}}
+  {{- range (.Params.actors | default slice) -}}
+    {{- $actorsList = $actorsList | append (dict "@type" "Thing" "name" .) -}}
+  {{- end -}}
+  {{- $sourcesList := slice -}}
+  {{- range (.Params.sources | default slice) -}}
+    {{- $cit := dict "@type" "CreativeWork" "name" .title "url" .url -}}
+    {{- with .publisher -}}{{- $cit = merge $cit (dict "publisher" (dict "@type" "Organization" "name" .)) -}}{{- end -}}
+    {{- with .date -}}{{- $cit = merge $cit (dict "datePublished" .) -}}{{- end -}}
+    {{- $sourcesList = $sourcesList | append $cit -}}
+  {{- end -}}
+  {{- $data = merge $data (dict
+    "@type" "Article"
+    "headline" $title
+    "description" $desc
+    "url" $url
+    "datePublished" $eventDate
+    "dateModified" (.Params.lastmod | default $eventDate)
+    "publisher" $pub
+    "isPartOf" $partOf
+    "keywords" (.Params.tags | default slice)
+    "about" (dict
+      "@type" "Event"
+      "name" $title
+      "startDate" $eventDate
+      "description" $desc
+    )
+    "mentions" $actorsList
+    "citation" $sourcesList
+    "mainEntityOfPage" $url
+    "license" "https://creativecommons.org/licenses/by-sa/4.0/"
+    "inLanguage" "en-US"
+  ) -}}
+  {{- if .Params.importance -}}
+    {{- $data = merge $data (dict "audience" (dict "@type" "Audience" "audienceType" "researchers, journalists, civic communities")) -}}
+  {{- end -}}
+
+{{- else if eq .Type "actors" -}}
+  {{- /* Term page for an actor — Person if Title looks like a person; otherwise Organization */ -}}
+  {{- $isPerson := and (in $title " ") (not (or (in $title "Department") (in $title "Administration") (in $title "Foundation") (in $title "Council") (in $title "Bureau") (in $title "Agency") (in $title "Inc") (in $title "LLC") (in $title "Court") (in $title "Congress"))) -}}
+  {{- $aboutType := cond $isPerson "Person" "Organization" -}}
+  {{- $data = merge $data (dict
+    "@type" "CollectionPage"
+    "name" (printf "%s — Timeline of Events" $title)
+    "url" $url
+    "description" $desc
+    "isPartOf" $partOf
+    "mainEntity" (dict
+      "@type" $aboutType
+      "name" $title
+      "description" (printf "Person or institution catalogued in The Capture Cascade Timeline. Documented across %d events." (len .Pages))
+    )
+  ) -}}
+
+{{- else if eq .Type "tags" -}}
+  {{- $data = merge $data (dict
+    "@type" "CollectionPage"
+    "name" (printf "%s — Tagged Events" $title)
+    "url" $url
+    "description" $desc
+    "isPartOf" $partOf
+    "about" (dict "@type" "DefinedTerm" "name" $title "inDefinedTermSet" (dict "@type" "DefinedTermSet" "name" "Capture Cascade Tags" "url" (printf "%stags/" site.BaseURL)))
+  ) -}}
+
+{{- else if eq .Type "lanes" -}}
+  {{- $data = merge $data (dict
+    "@type" "CollectionPage"
+    "name" (printf "%s — Capture Lane" $title)
+    "url" $url
+    "description" $desc
+    "isPartOf" $partOf
+    "about" (dict "@type" "Thing" "name" (printf "Capture Lane: %s" $title))
+  ) -}}
+
+{{- else if or (eq .Type "year") (eq .Type "decade") -}}
+  {{- $data = merge $data (dict
+    "@type" "CollectionPage"
+    "name" (printf "Events in %s" $title)
+    "url" $url
+    "description" $desc
+    "isPartOf" $partOf
+    "temporalCoverage" $title
+  ) -}}
+
+{{- else -}}
+  {{- $data = merge $data (dict
+    "@type" "Article"
+    "headline" $title
+    "description" $desc
+    "url" $url
+    "publisher" $pub
+    "isPartOf" $partOf
+  ) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+
+{{/* Breadcrumb schema — every page that isn't home */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type":"ListItem","position":1,"name":"The Cascade Ledger","item":"{{ site.BaseURL }}" }
+    {{- if eq .Type "event" -}}
+    ,{ "@type":"ListItem","position":2,"name":"Year {{ dateFormat "2006" .Params.date }}","item":"{{ site.BaseURL }}year/{{ dateFormat "2006" .Params.date }}/" }
+    ,{ "@type":"ListItem","position":3,"name":"{{ .Title }}","item":"{{ .Permalink }}" }
+    {{- else -}}
+    ,{ "@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}" }
+    {{- end }}
+  ]
+}
+</script>

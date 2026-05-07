@@ -1,61 +1,64 @@
 # =============================================================================
-# Stage 1: Build Svelte viewer
+# Cascade Ledger static-site container
+#
+# Multi-stage build:
+#   1. builder  — runs scripts/generate_content.py, scripts/generate_og_cards.py,
+#                 scripts/generate_redirects.py, then `hugo` to emit
+#                 /build/public-timeline/.
+#   2. runtime  — minimal Caddy (alpine) that serves the static files on :8088.
+#                 Same port as the old Pyrite container so the demo Caddyfile
+#                 reverse_proxy line keeps working unchanged.
 # =============================================================================
-FROM node:22-alpine AS viewer-build
 
-WORKDIR /build/viewer
-COPY viewer/package.json viewer/package-lock.json ./
-RUN npm ci --legacy-peer-deps
-COPY viewer/ ./
-RUN npm run build
+# -----------------------------------------------------------------------------
+# Stage 1: build
+# -----------------------------------------------------------------------------
+FROM python:3.13-slim AS builder
 
-# =============================================================================
-# Stage 2: Pyrite + KB data + built viewer
-# =============================================================================
-FROM python:3.12-slim AS runtime
-
-WORKDIR /app
-
+# Install Hugo (extended)
+ARG HUGO_VERSION=0.151.2
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential gcc git \
+        wget ca-certificates git \
+    && wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" \
+        -O /tmp/hugo.deb \
+    && dpkg -i /tmp/hugo.deb \
+    && rm /tmp/hugo.deb \
+    && apt-get purge -y wget \
+    && apt-get autoremove -y \
     && rm -rf /var/lib/apt/lists/*
 
-# Clone and install pyrite from a specific release tag
-ARG PYRITE_VERSION=v0.22.5
-RUN git clone --branch $PYRITE_VERSION --depth=1 https://github.com/markramm/pyrite.git /tmp/pyrite && \
-    cd /tmp/pyrite && \
-    pip install --no-cache-dir ".[server,ai,cli]" && \
-    pip install --no-cache-dir ".[semantic]" && \
-    pip install --no-cache-dir /tmp/pyrite/extensions/journalism-investigation && \
-    pip install --no-cache-dir /tmp/pyrite/extensions/cascade && \
-    rm -rf /tmp/pyrite
+# Python deps for content generators (Pillow + numpy for OG cards)
+RUN pip install --no-cache-dir \
+        pyyaml \
+        Pillow \
+        numpy \
+        requests
 
-RUN apt-get purge -y build-essential gcc && \
-    apt-get autoremove -y && \
-    rm -rf /var/lib/apt/lists/*
+WORKDIR /build
 
-# Copy KB data for seeding
-COPY cascade-timeline/ /seed/cascade-timeline/
+# Copy KB source (cascade-timeline/) and the Hugo project (hugo-timeline/)
+COPY cascade-timeline/ ./cascade-timeline/
+COPY hugo-timeline/    ./hugo-timeline/
 
-# Copy built viewer
-COPY --from=viewer-build /build/viewer/build/ /app/viewer-dist/
+WORKDIR /build/hugo-timeline
 
-# Copy deploy scripts
-COPY deploy/seed.sh /app/seed.sh
-RUN chmod +x /app/seed.sh
+# Run the build pipeline
+RUN python3 scripts/generate_content.py \
+    && python3 scripts/generate_og_cards.py --limit 400 \
+    && (python3 scripts/generate_redirects.py || echo "  (skipping redirects — no network)") \
+    && hugo --gc
 
-# Create non-root user
-RUN useradd --create-home --shell /bin/bash pyrite
+# Output is at /build/public-timeline/
 
-ENV PYRITE_DATA_DIR=/data
-RUN mkdir -p /data && chown pyrite:pyrite /data
-VOLUME /data
+# -----------------------------------------------------------------------------
+# Stage 2: runtime — Caddy serving static files
+# -----------------------------------------------------------------------------
+FROM caddy:2-alpine AS runtime
 
-USER pyrite
+# Copy built static site
+COPY --from=builder /build/public-timeline /srv
+
+# Caddy config
+COPY deploy/Caddyfile.container /etc/caddy/Caddyfile
 
 EXPOSE 8088
-
-HEALTHCHECK --interval=30s --timeout=5s --start-period=15s --retries=3 \
-    CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8088/health')" || exit 1
-
-CMD ["pyrite-server"]
