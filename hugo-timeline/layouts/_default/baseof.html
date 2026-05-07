@@ -178,6 +178,7 @@
     <nav class="nav" id="nav" aria-label="Main">
       <input type="search" class="nav-search nav-search-mobile" id="nav-search-mobile" placeholder="Search events…" aria-label="Search events" autocomplete="off">
       <a href="/timelines/" class="{{ if hasPrefix .RelPermalink "/timelines" }}is-active{{ end }}">Timelines</a>
+      <a href="/explorer/" class="{{ if hasPrefix .RelPermalink "/explorer" }}is-active{{ end }}">Explorer</a>
       <a href="/year/{{ now.Year }}/" class="{{ if hasPrefix .RelPermalink "/year/" }}is-active{{ end }}">By Year</a>
       <a href="/decade/" class="{{ if hasPrefix .RelPermalink "/decade/" }}is-active{{ end }}">By Decade</a>
       <a href="/lanes/" class="{{ if hasPrefix .RelPermalink "/lanes/" }}is-active{{ end }}">Lanes</a>

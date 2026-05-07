@@ -1,0 +1,627 @@
+{{ define "main" }}
+<div class="page explorer-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Ledger</a>
+    <span class="sep">›</span>
+    <span aria-current="page">Compose a timeline</span>
+  </nav>
+
+  <header class="explorer-head">
+    <span class="eyebrow">Build your own swimlane</span>
+    <h1>Compose a timeline</h1>
+    <p class="lede">Pick actors, set a year range, filter by lane. The URL is the citation. <a href="/timelines/">Curated presets &rarr;</a></p>
+  </header>
+
+  {{/* Filter bar — sticky below the masthead */}}
+  <div class="explorer-bar" role="search">
+    <div class="explorer-bar-inner">
+      <div class="ex-field ex-field-grow" style="position:relative;">
+        <label for="ex-actor-input" class="ex-label">Actors</label>
+        <div class="ex-chips" id="ex-chips" aria-live="polite"></div>
+        <input type="text" id="ex-actor-input" class="ex-input" placeholder="Type a name…" autocomplete="off" aria-autocomplete="list" aria-controls="ex-suggest">
+        <div class="ex-suggest" id="ex-suggest" role="listbox"></div>
+      </div>
+      <div class="ex-field">
+        <label for="ex-from" class="ex-label">From</label>
+        <input type="number" id="ex-from" class="ex-input ex-input-num" min="1142" max="2026" value="2010" inputmode="numeric">
+      </div>
+      <div class="ex-field">
+        <label for="ex-to" class="ex-label">To</label>
+        <input type="number" id="ex-to" class="ex-input ex-input-num" min="1142" max="2026" value="2026" inputmode="numeric">
+      </div>
+      <div class="ex-field">
+        <label for="ex-lane" class="ex-label">Lane</label>
+        <select id="ex-lane" class="ex-input">
+          <option value="">all lanes</option>
+          <option value="regulatory">Regulatory</option>
+          <option value="financial">Financial &amp; corporate</option>
+          <option value="intelligence">Intelligence &amp; surveillance</option>
+          <option value="corruption">Systematic corruption</option>
+          <option value="executive">Executive power</option>
+          <option value="legislative">Legislative &amp; electoral</option>
+          <option value="judicial">Judicial</option>
+          <option value="media">Media &amp; tech</option>
+          <option value="democratic">Democratic erosion</option>
+          <option value="military">Military &amp; detention</option>
+          <option value="labor">Labor &amp; environment</option>
+        </select>
+      </div>
+      <div class="ex-field ex-field-actions">
+        <button type="button" class="ex-action ex-action-primary" id="ex-share" title="Copy this URL — it reproduces the view exactly">Copy link</button>
+        <button type="button" class="ex-action" id="ex-clear" title="Clear all selections">Reset</button>
+      </div>
+    </div>
+    <div class="ex-bar-status" id="ex-status" aria-live="polite">Loading the corpus…</div>
+  </div>
+
+  {{/* Chart canvas */}}
+  <div class="explorer-chart" id="ex-chart-frame">
+    <div class="ex-empty" id="ex-empty">
+      <div class="ex-empty-eyebrow">Nothing selected</div>
+      <p>Add an actor above to begin. Try <a href="#" class="ex-prefill" data-actors="Donald Trump,Pam Bondi,Russell Vought,Stephen Miller" data-from="2020" data-to="2026">Trump · Bondi · Vought · Miller</a>, or <a href="#" class="ex-prefill" data-actors="Federalist Society,Leonard Leo,Antonin Scalia,Clarence Thomas" data-from="1982" data-to="2026">the Federalist pipeline</a>, or <a href="#" class="ex-prefill" data-actors="Vladimir Putin,Donald Trump,Paul Manafort,Roger Stone" data-from="2014" data-to="2026">the Russia interference cluster</a>.</p>
+      <p class="ex-empty-hint">Or pick from the <a href="/timelines/">curated timelines</a> instead.</p>
+    </div>
+    <div id="ex-chart" hidden></div>
+  </div>
+
+  {{/* Event ledger below the chart */}}
+  <section class="ex-ledger-section" id="ex-ledger-section" hidden>
+    <div class="section-head">
+      <h2 style="font-size:1.25rem;">All events on this timeline</h2>
+      <span class="meta" id="ex-count">— events</span>
+    </div>
+    <table class="ledger" id="ex-ledger">
+      <thead><tr><th>Date</th><th>Event</th><th>Actor</th><th>Lane</th></tr></thead>
+      <tbody id="ex-ledger-body"></tbody>
+    </table>
+  </section>
+
+  {{/* Cite + save */}}
+  <div class="ex-footer" id="ex-footer" hidden>
+    <div class="ex-foot-card">
+      <div class="eyebrow" style="margin-bottom:8px;">Cite this view</div>
+      <code class="mono ex-cite" id="ex-cite"></code>
+      <button type="button" class="ex-foot-copy" id="ex-cite-copy">Copy citation</button>
+    </div>
+    <div class="ex-foot-card ex-foot-card-gilt">
+      <div class="eyebrow" style="margin-bottom:8px;color:var(--gilt);">Save as a curated preset</div>
+      <p style="margin:0 0 10px;font-size:13.5px;color:var(--ink-3);">If this view is worth keeping, propose it via GitHub. The frontmatter is generated from your selection.</p>
+      <button type="button" class="ex-foot-copy" id="ex-yaml-copy">Copy preset YAML</button>
+      <a href="https://github.com/markramm/cascade-kb/issues/new?template=new-timeline.yml" target="_blank" rel="noopener" class="ex-foot-link" id="ex-pr-link">Open issue →</a>
+    </div>
+  </div>
+
+  {{/* Methodology footer */}}
+  <details class="ex-method" style="margin-top:48px;">
+    <summary style="font-family:var(--mono);font-size:11px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ox);cursor:pointer;padding:8px 0;">How this works</summary>
+    <div style="padding:14px 0;font-family:var(--serif-body);font-size:15px;color:var(--ink-2);line-height:1.6;max-width:64ch;">
+      <p>Every actor in the corpus has a pre-computed event index that loads once when the page opens (~1.3 MB gzipped). Filter changes redraw the chart locally — no server round-trips, no telemetry.</p>
+      <p>Markers are sized by editorial importance (1–10 scale) and colored by the first capture lane on each event. Dense rows scale down marker size proportionally so 1,000+ events still render legibly. Click any marker to open its full record.</p>
+      <p>The URL state is canonical — copying the address bar gives anyone the exact same view. Use it as a citation in articles, footnotes, or social posts.</p>
+    </div>
+  </details>
+</div>
+
+<script>
+(function(){
+  /* ──────────────────────────────────────────────────────────────────
+     Cascade Ledger — interactive timeline composer
+     Loads /data/actor_events.json once, renders an SVG swimlane that
+     re-draws on filter change. URL state is canonical.
+     ────────────────────────────────────────────────────────────────── */
+
+  // ── Config (palette mirrors the static partial) ──────────────────
+  const LANE_COLORS = {
+    regulatory:   "#7a1f1f",
+    financial:    "#a3406b",
+    intelligence: "#3a5a7a",
+    corruption:   "#b08833",
+    executive:    "#5c2a4a",
+    legislative:  "#5a7a3a",
+    judicial:     "#9a5a1a",
+    media:        "#2a6a6a",
+    democratic:   "#b56a4a",
+    military:     "#3a3a3a",
+    labor:        "#7a7a3a",
+    other:        "#8a8273",
+  };
+  const LANE_LABEL = {
+    regulatory: "Regulatory capture",
+    financial: "Financial & corporate",
+    intelligence: "Intelligence & surveillance",
+    corruption: "Systematic corruption",
+    executive: "Executive power",
+    legislative: "Legislative & electoral",
+    judicial: "Judicial",
+    media: "Media & tech",
+    democratic: "Democratic erosion",
+    military: "Military & detention",
+    labor: "Labor & environment",
+    other: "Other",
+  };
+  const ANNOTATIONS = [
+    {year: 1972, label: "Watergate"},
+    {year: 1980, label: "Reagan"},
+    {year: 1986, label: "Iran-Contra"},
+    {year: 2001, label: "9/11"},
+    {year: 2010, label: "Citizens United"},
+    {year: 2017, label: "Trump 1.0"},
+    {year: 2025, label: "Trump 2.0"},
+  ];
+  const MAX_ACTORS = 14;
+
+  // ── State ────────────────────────────────────────────────────────
+  const state = {
+    actors: [],
+    fromYear: 2010,
+    toYear: 2026,
+    lane: "",
+    data: null,        // {actor: [{slug,date,lane,imp,stat,title}]}
+    actorsCatalog: [], // [{name, count}, ...] from actors.json
+  };
+
+  // ── DOM refs ─────────────────────────────────────────────────────
+  const $ = (id) => document.getElementById(id);
+  const els = {
+    chips: $("ex-chips"),
+    input: $("ex-actor-input"),
+    suggest: $("ex-suggest"),
+    from: $("ex-from"),
+    to: $("ex-to"),
+    lane: $("ex-lane"),
+    share: $("ex-share"),
+    clear: $("ex-clear"),
+    status: $("ex-status"),
+    chart: $("ex-chart"),
+    empty: $("ex-empty"),
+    ledgerSection: $("ex-ledger-section"),
+    ledger: $("ex-ledger-body"),
+    count: $("ex-count"),
+    footer: $("ex-footer"),
+    cite: $("ex-cite"),
+    citeCopy: $("ex-cite-copy"),
+    yamlCopy: $("ex-yaml-copy"),
+    prLink: $("ex-pr-link"),
+  };
+
+  function esc(s){var d=document.createElement("div");d.textContent=s||"";return d.innerHTML;}
+  function debounce(fn, ms){var t;return function(){clearTimeout(t);var a=arguments,c=this;t=setTimeout(function(){fn.apply(c,a);},ms);};}
+
+  // ── URL ↔ state ──────────────────────────────────────────────────
+  function readURL(){
+    const p = new URLSearchParams(location.search);
+    if (p.has("actors")) state.actors = p.get("actors").split(",").map(s=>s.trim()).filter(Boolean).slice(0, MAX_ACTORS);
+    if (p.has("from"))   state.fromYear = clampYear(parseInt(p.get("from"),10) || 2010);
+    if (p.has("to"))     state.toYear   = clampYear(parseInt(p.get("to"),10) || 2026);
+    if (p.has("lane"))   state.lane = p.get("lane") || "";
+    els.from.value = state.fromYear;
+    els.to.value   = state.toYear;
+    els.lane.value = state.lane;
+  }
+  function writeURL(){
+    const p = new URLSearchParams();
+    if (state.actors.length) p.set("actors", state.actors.join(","));
+    if (state.fromYear !== 2010) p.set("from", state.fromYear);
+    if (state.toYear !== 2026)   p.set("to", state.toYear);
+    if (state.lane)              p.set("lane", state.lane);
+    const q = p.toString();
+    history.replaceState(null, "", "/explorer/" + (q ? "?" + q : ""));
+  }
+  function clampYear(y){
+    if (!y || isNaN(y)) return 2010;
+    if (y < 1142) return 1142;
+    if (y > 2026) return 2026;
+    return y;
+  }
+
+  // ── Lane key (mirror of generate_content.py) ─────────────────────
+  function laneKey(s){
+    s = (s||"").toLowerCase();
+    if (s.indexOf("regulatory")!==-1) return "regulatory";
+    if (s.indexOf("federal workforce")!==-1) return "regulatory";
+    if (s.indexOf("fiscal")!==-1) return "regulatory";
+    if (s.indexOf("financial")!==-1) return "financial";
+    if (s.indexOf("corporate")!==-1) return "financial";
+    if (s.indexOf("intelligence")!==-1) return "intelligence";
+    if (s.indexOf("surveillance")!==-1) return "intelligence";
+    if (s.indexOf("corruption")!==-1) return "corruption";
+    if (s.indexOf("institutional")!==-1) return "corruption";
+    if (s.indexOf("executive")!==-1) return "executive";
+    if (s.indexOf("legislative")!==-1) return "legislative";
+    if (s.indexOf("electoral")!==-1) return "legislative";
+    if (s.indexOf("judicial")!==-1) return "judicial";
+    if (s.indexOf("media")!==-1) return "media";
+    if (s.indexOf("digital")!==-1) return "media";
+    if (s.indexOf("democratic")!==-1) return "democratic";
+    if (s.indexOf("civil rights")!==-1) return "democratic";
+    if (s.indexOf("military")!==-1) return "military";
+    if (s.indexOf("detention")!==-1) return "military";
+    if (s.indexOf("immigration")!==-1) return "military";
+    if (s.indexOf("labor")!==-1) return "labor";
+    if (s.indexOf("environmental")!==-1) return "labor";
+    return "other";
+  }
+
+  // ── Data load ────────────────────────────────────────────────────
+  async function loadData(){
+    els.status.textContent = "Loading actor index…";
+    try {
+      const [evRes, acRes] = await Promise.all([
+        fetch("/data/actor_events.json"),
+        fetch("/data/actors.json"),
+      ]);
+      if (!evRes.ok || !acRes.ok) throw new Error("data fetch failed");
+      state.data = await evRes.json();
+      state.actorsCatalog = await acRes.json();
+      els.status.textContent = `${state.actorsCatalog.length.toLocaleString()} actors · ${Object.values(state.data).reduce((n,a)=>n+a.length,0).toLocaleString()} actor-event refs ready`;
+    } catch (err) {
+      els.status.textContent = "Could not load corpus. Try refreshing.";
+      console.error(err);
+    }
+  }
+
+  // ── Chips (selected actors) ──────────────────────────────────────
+  function renderChips(){
+    if (!state.actors.length) {
+      els.chips.innerHTML = "";
+      return;
+    }
+    els.chips.innerHTML = state.actors.map(name =>
+      `<span class="ex-chip"><span class="ex-chip-name">${esc(name)}</span><button type="button" class="ex-chip-x" data-name="${esc(name)}" aria-label="Remove ${esc(name)}">✕</button></span>`
+    ).join("");
+    els.chips.querySelectorAll(".ex-chip-x").forEach(btn => {
+      btn.addEventListener("click", () => removeActor(btn.dataset.name));
+    });
+  }
+
+  function addActor(name){
+    if (!name || state.actors.includes(name)) return;
+    if (state.actors.length >= MAX_ACTORS) {
+      els.status.textContent = `Maximum ${MAX_ACTORS} actors at once. Remove one to add more.`;
+      return;
+    }
+    state.actors.push(name);
+    renderChips();
+    rerender();
+  }
+
+  function removeActor(name){
+    state.actors = state.actors.filter(n => n !== name);
+    renderChips();
+    rerender();
+  }
+
+  // ── Autocomplete suggestions ─────────────────────────────────────
+  let suggestSelectedIdx = -1;
+  function showSuggestions(query){
+    query = (query || "").trim().toLowerCase();
+    if (query.length < 2) { hideSuggestions(); return; }
+    const matches = state.actorsCatalog
+      .filter(a => a.name.toLowerCase().indexOf(query) !== -1 && !state.actors.includes(a.name))
+      .slice(0, 12);
+    if (!matches.length) {
+      els.suggest.innerHTML = `<div class="ex-suggest-empty">No actors matched.</div>`;
+      els.suggest.classList.add("on");
+      return;
+    }
+    els.suggest.innerHTML = matches.map((a, i) =>
+      `<div class="ex-suggest-item" role="option" data-name="${esc(a.name)}" tabindex="-1"><span>${esc(a.name)}</span><span class="ex-suggest-count">${a.count}</span></div>`
+    ).join("");
+    els.suggest.querySelectorAll(".ex-suggest-item").forEach(item => {
+      item.addEventListener("click", () => {
+        addActor(item.dataset.name);
+        els.input.value = "";
+        hideSuggestions();
+        els.input.focus();
+      });
+    });
+    els.suggest.classList.add("on");
+    suggestSelectedIdx = -1;
+  }
+  function hideSuggestions(){ els.suggest.classList.remove("on"); els.suggest.innerHTML = ""; suggestSelectedIdx = -1; }
+
+  els.input.addEventListener("input", debounce(() => showSuggestions(els.input.value), 100));
+  els.input.addEventListener("focus", () => { if (els.input.value) showSuggestions(els.input.value); });
+  els.input.addEventListener("keydown", (e) => {
+    const items = els.suggest.querySelectorAll(".ex-suggest-item");
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      suggestSelectedIdx = Math.min(suggestSelectedIdx + 1, items.length - 1);
+      items.forEach((el,i) => el.classList.toggle("sel", i === suggestSelectedIdx));
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      suggestSelectedIdx = Math.max(suggestSelectedIdx - 1, 0);
+      items.forEach((el,i) => el.classList.toggle("sel", i === suggestSelectedIdx));
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      if (suggestSelectedIdx >= 0 && items[suggestSelectedIdx]) {
+        addActor(items[suggestSelectedIdx].dataset.name);
+        els.input.value = "";
+        hideSuggestions();
+      } else if (items.length === 1) {
+        addActor(items[0].dataset.name);
+        els.input.value = "";
+        hideSuggestions();
+      }
+    } else if (e.key === "Escape") {
+      hideSuggestions();
+      els.input.blur();
+    } else if (e.key === "Backspace" && !els.input.value && state.actors.length) {
+      removeActor(state.actors[state.actors.length - 1]);
+    }
+  });
+  document.addEventListener("click", (e) => {
+    if (!els.suggest.contains(e.target) && e.target !== els.input) hideSuggestions();
+  });
+
+  // ── Range/lane handlers ──────────────────────────────────────────
+  els.from.addEventListener("change", () => { state.fromYear = clampYear(parseInt(els.from.value,10)); rerender(); });
+  els.to.addEventListener("change",   () => { state.toYear   = clampYear(parseInt(els.to.value,10));   rerender(); });
+  els.lane.addEventListener("change", () => { state.lane = els.lane.value; rerender(); });
+  els.clear.addEventListener("click", () => {
+    state.actors = []; state.lane = ""; state.fromYear = 2010; state.toYear = 2026;
+    els.lane.value = ""; els.from.value = 2010; els.to.value = 2026;
+    renderChips(); rerender();
+  });
+  els.share.addEventListener("click", () => {
+    navigator.clipboard.writeText(location.href).then(() => {
+      const orig = els.share.textContent;
+      els.share.textContent = "Copied!";
+      setTimeout(() => { els.share.textContent = orig; }, 1500);
+    });
+  });
+
+  // Prefill links from the empty state
+  document.querySelectorAll(".ex-prefill").forEach(a => {
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      state.actors = a.dataset.actors.split(",");
+      state.fromYear = clampYear(parseInt(a.dataset.from, 10));
+      state.toYear   = clampYear(parseInt(a.dataset.to, 10));
+      els.from.value = state.fromYear;
+      els.to.value   = state.toYear;
+      renderChips();
+      rerender();
+    });
+  });
+
+  // ── Build chart data from state ──────────────────────────────────
+  function buildRows(){
+    if (!state.data) return [];
+    const rows = [];
+    for (const name of state.actors) {
+      const all = state.data[name] || [];
+      const filtered = all.filter(r => {
+        const y = parseInt(r.date.slice(0, 4), 10);
+        if (y < state.fromYear || y > state.toYear) return false;
+        if (state.lane && r.lane !== state.lane) return false;
+        return true;
+      });
+      rows.push({ entity: name, events: filtered });
+    }
+    return rows;
+  }
+
+  // ── Chart render (SVG) ───────────────────────────────────────────
+  function renderChart(){
+    const rows = buildRows();
+    const totalEvents = rows.reduce((n,r) => n + r.events.length, 0);
+
+    if (!state.actors.length) {
+      els.chart.hidden = true;
+      els.empty.style.display = "";
+      els.ledgerSection.hidden = true;
+      els.footer.hidden = true;
+      return;
+    }
+    els.empty.style.display = "none";
+    els.chart.hidden = false;
+
+    // Geometry
+    const W = 1200, rowH = 44, padTop = 30, padBottom = 14, padLeft = 220, padRight = 18;
+    const H = padTop + padBottom + (rowH * rows.length);
+    const plotW = W - padLeft - padRight;
+    const yearSpan = (state.toYear - state.fromYear) + 1;
+    const colW = plotW / yearSpan;
+
+    const annotations = ANNOTATIONS.filter(a => a.year >= state.fromYear && a.year <= state.toYear);
+
+    // Build SVG
+    let svg = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet" class="swimlane-svg" role="img" aria-label="${state.actors.length} actors from ${state.fromYear} to ${state.toYear}">`;
+
+    // X-axis ticks
+    for (let y = state.fromYear; y <= state.toYear; y++) {
+      const i = y - state.fromYear;
+      const x = padLeft + i * colW;
+      const isDecade = y % 10 === 0;
+      const isHalf   = y % 5 === 0;
+      if (isDecade || isHalf) {
+        svg += `<line x1="${x}" y1="${padTop - 6}" x2="${x}" y2="${H - padBottom}" class="sl-grid${isDecade ? ' sl-grid-decade' : ''}"/>`;
+      }
+      if (isDecade) {
+        svg += `<text x="${x}" y="${padTop - 12}" class="sl-axis sl-axis-decade" text-anchor="middle">${y}</text>`;
+      } else if (isHalf) {
+        svg += `<text x="${x}" y="${padTop - 12}" class="sl-axis" text-anchor="middle">${y}</text>`;
+      }
+    }
+
+    // Annotations
+    for (const a of annotations) {
+      const x = padLeft + (a.year - state.fromYear) * colW;
+      svg += `<line x1="${x}" y1="${padTop}" x2="${x}" y2="${H - padBottom}" class="sl-annot-line"/>`;
+      svg += `<text x="${x + 4}" y="${padTop + 9}" class="sl-annot-label">${esc(a.label)}</text>`;
+    }
+
+    // Rows
+    rows.forEach((row, idx) => {
+      const rowY = padTop + (idx + 0.5) * rowH;
+      const rowTop = padTop + idx * rowH;
+      const rowBottom = padTop + (idx + 1) * rowH;
+      if (idx % 2 === 0) {
+        svg += `<rect x="0" y="${rowTop}" width="${W}" height="${rowH}" class="sl-row-shade"/>`;
+      }
+      svg += `<line x1="0" y1="${rowBottom}" x2="${W}" y2="${rowBottom}" class="sl-row-rule"/>`;
+
+      const slug = row.entity.toLowerCase().replace(/[^a-z0-9._~]+/g,"-").replace(/-+/g,"-").replace(/^-|-$/g,"");
+      svg += `<a href="/actors/${slug}/"><text x="${padLeft - 12}" y="${rowY + 1}" class="sl-row-label" text-anchor="end">${esc(row.entity)}</text></a>`;
+      svg += `<line x1="${padLeft}" y1="${rowY}" x2="${W - padRight}" y2="${rowY}" class="sl-row-axis"/>`;
+
+      // Density factor
+      const cnt = row.events.length;
+      let densityFactor = 1.0;
+      if (cnt > 80) densityFactor = Math.max(0.35, Math.sqrt(80 / cnt));
+
+      // Markers
+      for (const ev of row.events) {
+        const t = new Date(ev.date + "T00:00:00Z");
+        if (isNaN(t.getTime())) continue;
+        const evYear = t.getUTCFullYear();
+        const evMonth = t.getUTCMonth() + 1;
+        const evDay = t.getUTCDate();
+        const yearOffset = (evYear - state.fromYear) + (evMonth - 1) / 12 + evDay / 365;
+        const cx = padLeft + yearOffset * colW;
+        const color = LANE_COLORS[ev.lane] || LANE_COLORS.other;
+        const rBase = 3.5 + (ev.imp || 5) * 0.4;
+        const r = rBase * densityFactor;
+        let cls = "sl-event";
+        if (ev.stat === "a") cls = "sl-event sl-event-alleged";
+        else if (ev.stat === "d") cls = "sl-event sl-event-disputed";
+        else if (ev.stat === "r") cls = "sl-event sl-event-reported";
+        svg += `<a href="/event/${esc(ev.slug)}/" data-title="${esc(ev.title)}" data-date="${esc(formatDate(ev.date))}" data-lane="${esc(ev.lane)}"><circle cx="${cx.toFixed(2)}" cy="${rowY}" r="${r.toFixed(2)}" fill="${color}" class="${cls}"/></a>`;
+      }
+
+      // Row count badge
+      if (cnt > 50) {
+        svg += `<text x="${padLeft - 12}" y="${rowY + 14}" class="sl-row-count" text-anchor="end">${cnt} events</text>`;
+      }
+    });
+
+    // Top axis
+    svg += `<line x1="${padLeft}" y1="${padTop}" x2="${W - padRight}" y2="${padTop}" class="sl-axis-line"/>`;
+    svg += `</svg>`;
+    svg += `<div class="sl-tooltip" id="ex-tip"></div>`;
+    els.chart.innerHTML = `<figure class="swimlane">${svg}</figure>`;
+
+    // Wire tooltips
+    const fig = els.chart.querySelector(".swimlane");
+    const tip = els.chart.querySelector(".sl-tooltip");
+    fig.querySelectorAll("a[data-title]").forEach(a => {
+      a.addEventListener("mouseenter", () => {
+        tip.innerHTML = `<div class="sl-tip-date">${a.dataset.date}</div><div class="sl-tip-title">${a.dataset.title}</div><div class="sl-tip-lane">${a.dataset.lane}</div>`;
+        tip.classList.add("on");
+      });
+      a.addEventListener("mouseleave", () => tip.classList.remove("on"));
+      a.addEventListener("mousemove", (e) => {
+        const r = fig.getBoundingClientRect();
+        tip.style.left = (e.clientX - r.left) + "px";
+        tip.style.top  = (e.clientY - r.top - 16) + "px";
+      });
+    });
+
+    // Ledger
+    renderLedger(rows, totalEvents);
+    renderFooter(totalEvents);
+  }
+
+  function formatDate(iso) {
+    const t = new Date(iso + "T00:00:00Z");
+    if (isNaN(t.getTime())) return iso;
+    const m = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return `${m[t.getUTCMonth()]} ${t.getUTCDate()}, ${t.getUTCFullYear()}`;
+  }
+
+  // ── Ledger render ────────────────────────────────────────────────
+  function renderLedger(rows, total){
+    if (!total) {
+      els.ledgerSection.hidden = true;
+      return;
+    }
+    const flat = [];
+    for (const row of rows) {
+      for (const ev of row.events) flat.push(Object.assign({entity: row.entity}, ev));
+    }
+    flat.sort((a,b) => a.date.localeCompare(b.date));
+    els.count.textContent = `${total.toLocaleString()} event${total === 1 ? "" : "s"}`;
+    els.ledger.innerHTML = flat.slice(0, 200).map(ev => `
+      <tr>
+        <td class="date">${esc(ev.date)}</td>
+        <td class="title"><a href="/event/${esc(ev.slug)}/">${esc(ev.title)}</a></td>
+        <td><span class="dim mono" style="font-size:11px;">${esc(ev.entity)}</span></td>
+        <td><span class="mono" style="font-size:10.5px;letter-spacing:0.06em;color:var(--ink-3);">${esc(LANE_LABEL[ev.lane] || ev.lane)}</span></td>
+      </tr>`).join("");
+    if (flat.length > 200) {
+      els.ledger.innerHTML += `<tr><td colspan="4" style="text-align:center;font-style:italic;color:var(--ink-3);padding:14px 0;">Showing first 200 of ${flat.length} events. Narrow the year range or lane to see fewer.</td></tr>`;
+    }
+    els.ledgerSection.hidden = false;
+  }
+
+  // ── Footer (cite + save) ─────────────────────────────────────────
+  function renderFooter(total){
+    if (!total) {
+      els.footer.hidden = true;
+      return;
+    }
+    const labelBits = [];
+    if (state.actors.length) labelBits.push(state.actors.join(" · "));
+    if (state.lane) labelBits.push(state.lane + " lane");
+    if (state.fromYear || state.toYear) labelBits.push(`${state.fromYear}–${state.toYear}`);
+    const today = new Date().toISOString().slice(0,10);
+    const cite = `The Cascade Ledger. "${labelBits.join(", ")}" Composed view, capturecascade.org. ${total.toLocaleString()} event${total===1?"":"s"}. Retrieved ${today}. ${location.href}`;
+    els.cite.textContent = cite;
+
+    // YAML for "save as preset"
+    const yaml = [
+      "---",
+      `title: "Untitled timeline (rename me)"`,
+      `subtitle: "One-line description"`,
+      `summary: "Two- to three-sentence summary."`,
+      `weight: 200`,
+      `fromYear: ${state.fromYear}`,
+      `toYear: ${state.toYear}`,
+      `entities:`,
+      ...state.actors.map(a => `  - ${a}`),
+      "---",
+      "",
+      "Editorial intro paragraph here.",
+    ].join("\n");
+    els.yamlCopy.dataset.yaml = yaml;
+
+    els.footer.hidden = false;
+  }
+
+  els.citeCopy.addEventListener("click", () => {
+    navigator.clipboard.writeText(els.cite.textContent).then(() => {
+      const orig = els.citeCopy.textContent;
+      els.citeCopy.textContent = "Copied!";
+      setTimeout(() => { els.citeCopy.textContent = orig; }, 1500);
+    });
+  });
+  els.yamlCopy.addEventListener("click", () => {
+    const yaml = els.yamlCopy.dataset.yaml || "";
+    navigator.clipboard.writeText(yaml).then(() => {
+      const orig = els.yamlCopy.textContent;
+      els.yamlCopy.textContent = "Copied!";
+      setTimeout(() => { els.yamlCopy.textContent = orig; }, 1500);
+    });
+  });
+
+  // ── Top-level: re-derive everything ──────────────────────────────
+  function rerender(){
+    writeURL();
+    renderChart();
+  }
+
+  // ── Boot ────────────────────────────────────────────────────────
+  readURL();
+  renderChips();
+  loadData().then(() => {
+    renderChart();
+    if (state.actors.length) {
+      els.status.textContent = `${state.actors.length} actor${state.actors.length===1?"":"s"} selected — drag the year sliders or change the lane to refine.`;
+    } else {
+      els.status.textContent = `Type an actor name above. The corpus is ready.`;
+    }
+  });
+})();
+</script>
+{{ end }}

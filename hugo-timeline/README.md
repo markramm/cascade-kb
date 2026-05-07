@@ -12,6 +12,11 @@ Custom Hugo site rendering the Capture Cascade Timeline as a standalone document
 ./build.sh og --all    # regenerate the full OG card corpus (~20 min, ~3 GB)
 ```
 
+## Docs
+
+- [How to add a curated timeline preset](docs/timelines.md) — frontmatter
+  reference, validation, editorial guidelines.
+
 ## Architecture
 
 ```

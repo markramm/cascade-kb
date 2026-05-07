@@ -693,12 +693,17 @@ def write_actor_events(events: list[dict]) -> None:
         out[actor] = recs
 
     DATA.mkdir(parents=True, exist_ok=True)
-    p = DATA / "actor_events.json"
-    p.write_text(json.dumps(out, separators=(",", ":")), encoding="utf-8")
+    payload = json.dumps(out, separators=(",", ":"))
+    p1 = DATA / "actor_events.json"
+    p1.write_text(payload, encoding="utf-8")
+    # Also expose at /data/actor_events.json so the /explorer/ page can fetch it.
+    STATIC.mkdir(parents=True, exist_ok=True)
+    p2 = STATIC / "actor_events.json"
+    p2.write_text(payload, encoding="utf-8")
     n = len(out)
     total_recs = sum(len(v) for v in out.values())
-    sz = p.stat().st_size // 1024
-    print(f"  actor_events.json: {n} actors, {total_recs} actor-event refs, {sz} KB")
+    sz = p1.stat().st_size // 1024
+    print(f"  actor_events.json: {n} actors, {total_recs} actor-event refs, {sz} KB (data/ + static/data/)")
 
 def write_co_actors(events: list[dict]) -> None:
     """For each actor, pre-compute their top-24 co-occurring actors (count desc).
