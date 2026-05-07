@@ -9,6 +9,7 @@ hugo-timeline/content/decade/
 hugo-timeline/data/density.json
 hugo-timeline/data/resonance.json
 hugo-timeline/data/co_actors.json
+hugo-timeline/data/lane_stream.json
 hugo-timeline/data/quality.json
 hugo-timeline/data/lastmod.json
 hugo-timeline/data/timeline_membership.json
