@@ -4,11 +4,13 @@
   <url><loc>{{ site.BaseURL }}tags/</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
 {{- range $name, $taxonomy := site.Taxonomies.tags }}
   {{- if ge (len $taxonomy.Pages) 3 }}
+  {{- with $taxonomy.Page }}
   <url>
-    <loc>{{ site.BaseURL }}tags/{{ $name }}/</loc>
+    <loc>{{ .Permalink }}</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  {{- end }}
   {{- end }}
 {{- end }}
 </urlset>

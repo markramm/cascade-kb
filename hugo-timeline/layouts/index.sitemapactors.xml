@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-{{/* Only include actor pages with ≥3 events. Thin pages are noindex anyway. */}}
+{{/* Only include actor pages with ≥3 events. Thin pages are noindex anyway.
+     Use .Page.Permalink (resolved by Hugo) so URL-unsafe characters in the
+     taxonomy key get properly encoded. */}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>{{ site.BaseURL }}actors/</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
 {{- range $name, $taxonomy := site.Taxonomies.actors }}
   {{- if ge (len $taxonomy.Pages) 3 }}
+  {{- with $taxonomy.Page }}
   <url>
-    <loc>{{ site.BaseURL }}actors/{{ $name }}/</loc>
+    <loc>{{ .Permalink }}</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  {{- end }}
   {{- end }}
 {{- end }}
 </urlset>
