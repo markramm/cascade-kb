@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+{{/* lastmod: Google rejects dates before ~1970 as "invalid" even though the
+     W3C Datetime spec allows them. For historical events whose .Lastmod is
+     the original event date (e.g. 1142, 1619), use the build time instead —
+     it semantically reflects when the URL was last regenerated. */}}
+{{- $cutoff := time.AsTime "1970-01-01" -}}
+{{- $buildtime := now.Format "2006-01-02T15:04:05-07:00" -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {{- range where site.RegularPages "Type" "event" }}
+  {{- $lm := .Lastmod -}}
+  {{- $when := "" -}}
+  {{- if $lm.Before $cutoff -}}
+    {{- $when = $buildtime -}}
+  {{- else -}}
+    {{- $when = $lm.Format "2006-01-02T15:04:05-07:00" -}}
+  {{- end }}
   <url>
     <loc>{{ .Permalink }}</loc>
-    <lastmod>{{ (.Lastmod.Format "2006-01-02T15:04:05-07:00") | safeHTML }}</lastmod>
+    <lastmod>{{ $when | safeHTML }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
