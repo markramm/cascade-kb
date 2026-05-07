@@ -569,20 +569,26 @@
     const cite = `The Cascade Ledger. "${labelBits.join(", ")}" Composed view, capturecascade.org. ${total.toLocaleString()} event${total===1?"":"s"}. Retrieved ${today}. ${location.href}`;
     els.cite.textContent = cite;
 
-    // YAML for "save as preset"
+    // YAML for "save as preset" — pre-filled with hints from current selection
+    const firstThree = state.actors.slice(0,3).join(" · ");
+    const guessSlug = firstThree.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/-+/g,"-").replace(/^-|-$/g,"").slice(0,60) || "untitled-timeline";
     const yaml = [
+      "# File: content/timelines/" + guessSlug + ".md",
       "---",
-      `title: "Untitled timeline (rename me)"`,
-      `subtitle: "One-line description"`,
-      `summary: "Two- to three-sentence summary."`,
-      `weight: 200`,
+      `title: "${firstThree || "Untitled timeline"} (rename me)"`,
+      `subtitle: "One-line editorial framing"`,
+      `summary: "Two- to three-sentence summary that frames the chart's argument."`,
+      `weight: 200    # higher = lower in the index sort`,
       `fromYear: ${state.fromYear}`,
       `toYear: ${state.toYear}`,
       `entities:`,
       ...state.actors.map(a => `  - ${a}`),
+      "# entity_aliases: optional — see docs/timelines.md",
       "---",
       "",
-      "Editorial intro paragraph here.",
+      "Editorial intro paragraph (what the chart shows, what to look for).",
+      "",
+      "Second paragraph (broader context if useful — keep it tight).",
     ].join("\n");
     els.yamlCopy.dataset.yaml = yaml;
 
