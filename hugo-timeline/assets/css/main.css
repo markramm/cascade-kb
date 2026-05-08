@@ -235,10 +235,14 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
   .masthead-inner { grid-template-columns: auto 1fr auto; }
   .nav.open {
     display: flex; flex-direction: column;
-    position: fixed; top: 60px; left: 0; right: 0; bottom: 0;
+    position: fixed; top: 60px; left: 0; right: 0;
+    height: calc(100vh - 60px);
+    height: calc(100dvh - 60px);
     background: var(--paper); padding: 24px var(--gutter); gap: 6px;
     align-items: stretch; z-index: 99;
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
   }
   .nav.open a { font-size: 18px; padding: 10px 4px; border-bottom: 1px solid var(--paper-edge); }
 }
