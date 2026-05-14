@@ -110,6 +110,11 @@ sources:
     outlet: Inman
     date: '2025-03-18'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 # Pulte Appoints 1789 Capital's Omeed Malik to Fannie Mae Board

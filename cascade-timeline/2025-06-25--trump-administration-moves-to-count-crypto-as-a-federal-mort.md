@@ -46,6 +46,11 @@ notes: Event demonstrates significant regulatory innovation in financial asset r
 additional_context:
   policy_objective: Establish U.S. as global cryptocurrency financial hub
   regulatory_mechanism: Directing housing finance enterprises to recognize digital assets
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 The Federal Housing Finance Agency (FHFA) ordered Fannie Mae and Freddie Mac to formally recognize cryptocurrency held on U.S.-regulated exchanges as potential assets in mortgage loan risk assessments, marking a significant shift in federal mortgage lending policy under the Trump administration.

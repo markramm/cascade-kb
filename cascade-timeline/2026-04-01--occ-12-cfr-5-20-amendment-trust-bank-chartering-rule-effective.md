@@ -67,6 +67,11 @@ sources:
     outlet: FinTech Weekly
     date: '2026'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 # OCC 12 CFR 5.20 Amendment Takes Effect — "Operations of a Trust Company and Activities Related Thereto"

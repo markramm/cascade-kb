@@ -88,6 +88,11 @@ sources:
     outlet: NPR
     date: '2026-02-03'
     tier: 1
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 # Pulte Purges Fannie Mae and Freddie Mac Boards, Installs Himself as Chairman of Both GSEs
