@@ -14,19 +14,19 @@ sources:
 - title: Missouri Compromise Ushers in New Era for the Senate
   url: https://www.senate.gov/artandhistory/history/minute/Missouri_Compromise.htm
   outlet: U.S. Senate
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: Missouri Compromise
   url: https://www.archives.gov/milestone-documents/missouri-compromise
   outlet: National Archives
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: The Expansion of Slavery and the Missouri Compromise
   url: https://www.ncpedia.org/anchor/expansion-slavery-and
   outlet: NCpedia
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 tags:

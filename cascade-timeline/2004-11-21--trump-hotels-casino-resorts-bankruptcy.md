@@ -26,7 +26,7 @@ sources:
   outlet: PolitiFact
 - url: 'https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy'
   title: 'Trump Entertainment Resorts: Three Bankruptcies and the Failure to Make America Great Again'
-  date: 2017
+  date: '2017'
   tier: 1
   outlet: University of Tennessee College of Law
 capture_lanes:

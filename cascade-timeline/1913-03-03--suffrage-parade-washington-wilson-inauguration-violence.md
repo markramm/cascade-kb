@@ -20,19 +20,19 @@ sources:
   - title: "1913 Woman Suffrage Procession"
     url: "https://www.nps.gov/articles/woman-suffrage-procession1913.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Marching for the Vote: Remembering the Woman Suffrage Parade of 1913"
     url: "https://guides.loc.gov/american-women-essays/marching-for-the-vote"
     outlet: "Library of Congress"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Chaos and Persistence at the 1913 Women's Suffrage March"
     url: "https://boundarystones.weta.org/2018/01/31/chaos-and-persistence-1913-womens-suffrage-march"
     outlet: "WETA"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

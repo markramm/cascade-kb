@@ -20,19 +20,19 @@ sources:
   - title: "The National American Woman Suffrage Association"
     url: "https://www.loc.gov/collections/national-american-woman-suffrage-association/articles-and-essays/the-national-american-woman-suffrage-association/"
     outlet: "Library of Congress"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "National American Woman Suffrage Association"
     url: "https://www.britannica.com/topic/National-American-Woman-Suffrage-Association"
     outlet: "Britannica"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "National American Woman Suffrage Association"
     url: "https://en.wikipedia.org/wiki/National_American_Woman_Suffrage_Association"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

@@ -9,7 +9,7 @@ tags:
   - supreme-court
   - shadow-docket
   - alien-enemies-act
-  - 1798
+  - "1798"
   - tren-de-aragua
   - venezuelan-nationals
   - cecot-el-salvador

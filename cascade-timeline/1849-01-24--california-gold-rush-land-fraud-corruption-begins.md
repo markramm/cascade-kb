@@ -13,19 +13,19 @@ sources:
   - title: Discounting gold Money and banking in Gold Rush California
     url: https://globalcapitalism.history.ox.ac.uk/files/goldrushbankingcasepdf
     outlet: Oxford University
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: From Gold Rush to Golden State
     url: https://www.loc.gov/collections/california-first-person-narratives/articles-and-essays/early-california-history/from-gold-rush-to-golden-state/
     outlet: Library of Congress
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: California Gold Rush
     url: https://www.britannica.com/topic/California-Gold-Rush
     outlet: Britannica
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 tags:

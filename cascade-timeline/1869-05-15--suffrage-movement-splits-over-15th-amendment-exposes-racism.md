@@ -22,19 +22,19 @@ sources:
   - title: "Why the Women's Rights Movement Split Over the 15th Amendment"
     url: "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "From Solidarity to Schism: How the 15th Amendment Divided the Suffrage Movement"
     url: "https://ncheteach.org/resource/from-solidarity-to-schism-how-the-15th-amendment-divided-the-suffrage-movement/"
     outlet: "North Carolina Center for Teaching"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "National Woman Suffrage Association"
     url: "https://en.wikipedia.org/wiki/National_Woman_Suffrage_Association"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

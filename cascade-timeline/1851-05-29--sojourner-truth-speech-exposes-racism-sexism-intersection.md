@@ -18,19 +18,19 @@ sources:
   - title: "Sojourner Truth: Ain't I A Woman?"
     url: "https://www.nps.gov/articles/sojourner-truth.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Compare the Speeches — The Sojourner Truth Project"
     url: "https://www.thesojournertruthproject.com/compare-the-speeches/"
     outlet: "Sojourner Truth Project"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Ain't I a Woman?"
     url: "https://en.wikipedia.org/wiki/Ain't_I_a_Woman"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

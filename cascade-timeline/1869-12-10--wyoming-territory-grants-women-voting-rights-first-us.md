@@ -19,19 +19,19 @@ sources:
   - title: "Women Have Been Voting in Wyoming for 150 Years"
     url: "https://www.smithsonianmag.com/travel/women-voting-wyoming-150-years-here-how-state-celebrating-180971263/"
     outlet: "Smithsonian Magazine"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Woman Suffrage in the West"
     url: "https://www.nps.gov/articles/woman-suffrage-in-the-west.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Women's suffrage in Wyoming"
     url: "https://en.wikipedia.org/wiki/Women's_suffrage_in_Wyoming"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

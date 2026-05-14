@@ -19,19 +19,19 @@ sources:
   - title: "Alice Paul and Suffragists Were First To Picket the White House"
     url: "https://www.si.edu/collections/snapshot/alice-paul-and-suffragists-were-first-picket-white-house"
     outlet: "Smithsonian Institution"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Silent Sentinels"
     url: "https://en.wikipedia.org/wiki/Silent_Sentinels"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
   - title: "Alice Paul"
     url: "https://www.womenshistory.org/education-resources/biographies/alice-paul"
     outlet: "National Women's History Museum"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

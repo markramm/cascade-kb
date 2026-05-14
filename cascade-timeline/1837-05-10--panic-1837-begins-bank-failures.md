@@ -46,13 +46,13 @@ sources:
 - title: Panic of 1837
   url: https://www.ebsco.com/research-starters/history/panic-1837
   outlet: EBSCO Research Starters
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 - title: 1837 The Hard Times
   url: https://www.library.hbs.edu/hc/crises/1837.html
   outlet: Harvard Business School
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 status: confirmed

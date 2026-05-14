@@ -14,19 +14,19 @@ sources:
   - title: To Go to War with Mexico
     url: https://billofrightsinstitute.org/essays/to-go-to-war-with-mexico
     outlet: Bill of Rights Institute
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: The Senate Votes for War against Mexico
     url: https://www.senate.gov/artandhistory/history/minute/Senate_Votes_for_War_against_Mexico.htm
     outlet: U.S. Senate
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: James K. Polk Foreign Affairs
     url: https://millercenter.org/president/polk/foreign-affairs
     outlet: University of Virginia Miller Center
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 tags:

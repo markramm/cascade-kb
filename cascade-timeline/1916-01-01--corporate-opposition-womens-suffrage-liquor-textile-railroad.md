@@ -19,19 +19,19 @@ sources:
 - title: The Final Desperate Battle for Suffrage in Tennessee
   url: https://www.nps.gov/articles/000/the-final-desperate-battle-for-suffrage-in-tennesse.htm
   outlet: National Park Service
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: Anti-Suffragism in the United States
   url: https://www.nps.gov/articles/anti-suffragism-in-the-united-states.htm
   outlet: National Park Service
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: Women's Suffrage in North Carolina
   url: https://www.ncpedia.org/women-suffrage
   outlet: NCpedia
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 status: confirmed

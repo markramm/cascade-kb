@@ -13,19 +13,19 @@ sources:
   - title: William Henry Harrison 1840 presidential campaign
     url: https://en.wikipedia.org/wiki/William_Henry_Harrison_1840_presidential_campaign
     outlet: Wikipedia
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
   - title: The Bank War and Rise of the Whigs
     url: https://fscj.pressbooks.pub/ushistory/chapter/the-bank-war-and-rise-of-the-whigs/
     outlet: Florida State College
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Whig Party
     url: https://www.britannica.com/topic/Whig-Party
     outlet: Britannica
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 tags:

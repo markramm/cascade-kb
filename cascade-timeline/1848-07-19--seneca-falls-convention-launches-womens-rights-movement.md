@@ -21,19 +21,19 @@ sources:
   - title: "Seneca Falls Convention - Definition, 1848, Significance"
     url: "https://www.history.com/articles/seneca-falls-convention"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Declaration of Sentiments"
     url: "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/seneca-falls-and-building-a-movement-1776-1890/seneca-falls-and-the-start-of-annual-conventions/declaration-of-sentiments/"
     outlet: "Library of Congress"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Seneca Falls Convention"
     url: "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

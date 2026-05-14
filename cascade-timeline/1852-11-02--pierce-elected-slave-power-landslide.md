@@ -13,19 +13,19 @@ sources:
   - title: Franklin Pierce
     url: https://www.history.com/articles/franklin-pierce
     outlet: History Channel
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: The Kansas Nebraska Act of 1854
     url: https://www.essentialcivilwarcurriculum.com/the-kansas-nebraska-act-of-1854.html
     outlet: Essential Civil War Curriculum
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Franklin Pierce
     url: https://library.fiveable.me/key-terms/apush/franklin-pierce
     outlet: Fiveable
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 tags:

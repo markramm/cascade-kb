@@ -20,19 +20,19 @@ sources:
   - title: "Susan B. Anthony casts a vote, prompting arrest"
     url: "https://www.history.com/this-day-in-history/november-5/susan-b-anthony-arrested-for-trying-to-vote-1872"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "In 1872, Susan B. Anthony Was Arrested for Voting 'Unlawfully'"
     url: "https://www.smithsonianmag.com/smart-news/why-susan-b-anthony-was-arrested-1872-180975587/"
     outlet: "Smithsonian Magazine"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Trial of Susan B. Anthony"
     url: "https://en.wikipedia.org/wiki/Trial_of_Susan_B._Anthony"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

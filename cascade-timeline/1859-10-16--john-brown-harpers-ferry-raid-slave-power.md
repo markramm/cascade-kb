@@ -14,19 +14,19 @@ sources:
 - title: John Brown's raid on Harpers Ferry
   url: https://www.britannica.com/event/John-Browns-Raid-on-Harpers-Ferry
   outlet: Britannica
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 - title: Harpers Ferry
   url: https://www.nps.gov/hafe/learn/historyculture/john-brown.htm
   outlet: National Park Service
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: John Brown and Harpers Ferry
   url: https://www.battlefields.org/learn/biographies/john-brown
   outlet: American Battlefield Trust
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 tags:

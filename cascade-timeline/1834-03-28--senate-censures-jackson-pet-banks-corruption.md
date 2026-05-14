@@ -14,19 +14,19 @@ sources:
   - title: Andrew Jackson Censured for a "High Crime"
     url: https://www.americanheritage.com/andrew-jackson-censured-high-crime
     outlet: American Heritage
-    date: 2015
+    date: '2015'
     verified: true
     tier: 2
   - title: Bank War
     url: https://www.britannica.com/event/Bank-War
     outlet: Britannica
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: King Andrew and the Bank
     url: https://www.neh.gov/humanities/2008/januaryfebruary/feature/king-andrew-and-the-bank
     outlet: National Endowment for the Humanities
-    date: 2008
+    date: '2008'
     verified: true
     tier: 1
 tags:

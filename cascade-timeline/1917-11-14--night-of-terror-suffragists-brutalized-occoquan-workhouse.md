@@ -21,19 +21,19 @@ sources:
   - title: "The Night of Terror: When Suffragists Were Imprisoned and Tortured in 1917"
     url: "https://www.history.com/articles/night-terror-brutality-suffragists-19th-amendment"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Occoquan Workhouse"
     url: "https://www.nps.gov/places/occoquan-workhouse.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "This Week in 19th Amendment History: The Night of Terror"
     url: "https://library.arlingtonva.us/2019/11/12/this-week-in-19th-amendment-history-the-night-of-terror/"
     outlet: "Arlington Public Library"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

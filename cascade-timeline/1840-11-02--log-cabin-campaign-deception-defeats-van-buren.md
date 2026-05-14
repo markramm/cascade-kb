@@ -13,19 +13,19 @@ sources:
   - title: Presidential Election of 1840 A Resource Guide
     url: https://guides.lib.virginia.edu/c.php?g=515185&p=3855467
     outlet: University of Virginia Library
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: Martin Van Buren Campaigns and Elections
     url: https://millercenter.org/president/vanburen/campaigns-and-elections
     outlet: University of Virginia Miller Center
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: Lesson 3 The Campaign of 1840
     url: https://edsitement.neh.gov/lesson-plans/lesson-3-campaign-1840-campaign
     outlet: National Endowment for the Humanities
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 tags:

@@ -13,19 +13,19 @@ sources:
   - title: Texas annexation
     url: https://en.wikipedia.org/wiki/Texas_annexation
     outlet: Wikipedia
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
   - title: The Annexation of Texas A Historical Overview
     url: https://www.tshaonline.org/handbook/entries/annexation
     outlet: Texas State Historical Association
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Joint Resolution Annexing Texas
     url: https://history.house.gov/HouseRecord/Detail/15032436204
     outlet: U.S. House of Representatives
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 tags:

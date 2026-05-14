@@ -19,19 +19,19 @@ sources:
   - title: "Woman Suffrage and the 19th Amendment"
     url: "https://www.archives.gov/education/lessons/woman-suffrage"
     outlet: "National Archives"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Tennessee and the 19th Amendment"
     url: "https://www.nps.gov/articles/tennessee-women-s-history.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "19th Amendment ratified thanks to one vote"
     url: "https://www.history.com/this-day-in-history/19th-amendment-ratified-tennessee-thanks-to-one-vote"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

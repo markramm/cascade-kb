@@ -20,13 +20,13 @@ sources:
   - title: Corrupt Bargain
     url: https://millercenter.org/contested-presidential-elections/corrupt-bargain
     outlet: University of Virginia Miller Center
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: The Corrupt Bargain
     url: https://billofrightsinstitute.org/essays/the-corrupt-bargain
     outlet: Bill of Rights Institute
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 tags:

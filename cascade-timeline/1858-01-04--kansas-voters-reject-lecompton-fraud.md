@@ -13,19 +13,19 @@ sources:
   - title: Lecompton Constitution
     url: https://www.battlefields.org/learn/articles/lecompton-constitution
     outlet: American Battlefield Trust
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Lecompton
     url: https://hd.housedivided.dickinson.edu/node/9601
     outlet: Dickinson College
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: The Lecompton Constitution
     url: https://www.kspatriot.org/index.php/articles/16-territorial-kansas/709-the-lecompton-constitution.html
     outlet: Kansas State History
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 tags:

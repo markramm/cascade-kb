@@ -13,19 +13,19 @@ sources:
   - title: The Corrupt Bargain
     url: https://thehermitage.com/corrupt-bargain
     outlet: Andrew Jackson's Hermitage
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Corrupt bargain
     url: https://millercenter.org/contested-presidential-elections/corrupt-bargain
     outlet: University of Virginia Miller Center
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: John Quincy Adams Campaigns and Elections
     url: https://millercenter.org/president/jqadams/campaigns-and-elections
     outlet: University of Virginia Miller Center
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 tags:

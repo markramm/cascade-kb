@@ -41,13 +41,13 @@ sources:
 - title: Fugitive Slave Act of 1850
   url: https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850
   outlet: Wikipedia
-  date: 2025
+  date: '2025'
   verified: true
   tier: 3
 - title: The Fugitive Slave Act
   url: https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-fugitive-slave-act-1850
   outlet: National Constitution Center
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 status: confirmed

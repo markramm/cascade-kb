@@ -19,19 +19,19 @@ sources:
   - title: "Wilson and Women's Suffrage"
     url: "https://www.pbs.org/wgbh/americanexperience/features/wilson-womens-suffrage/"
     outlet: "PBS American Experience"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Woodrow Wilson and the Women's Suffrage Movement: A Reflection"
     url: "https://www.wilsoncenter.org/article/woodrow-wilson-and-the-womens-suffrage-movement-reflection"
     outlet: "Wilson Center"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Confrontations, Sacrifice, and the Struggle for Democracy, 1916–1917"
     url: "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/confrontations-sacrifice-and-the-struggle-for-democracy-1916-1917/"
     outlet: "Library of Congress"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 status: confirmed

@@ -20,19 +20,19 @@ sources:
   - title: "Confrontations, Sacrifice, and the Struggle for Democracy, 1916–1917"
     url: "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/confrontations-sacrifice-and-the-struggle-for-democracy-1916-1917/"
     outlet: "Library of Congress"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Alice Paul, Woodrow Wilson, and the Battles for Liberty"
     url: "https://www.nps.gov/articles/000/alice-paul-woodrow-wilson-and-the-battles-for-liberty.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "President Woodrow Wilson picketed by women suffragists"
     url: "https://www.history.com/this-day-in-history/august-28/president-woodrow-wilson-picketed-by-women-suffragists"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

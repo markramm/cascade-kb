@@ -19,19 +19,19 @@ sources:
   - title: "Woman's Christian Temperance Union"
     url: "https://www.britannica.com/topic/Womans-Christian-Temperance-Union"
     outlet: "Britannica"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "Suffrage in 60 Seconds: Temperance"
     url: "https://www.nps.gov/articles/000/suffrage60seconds_temperance.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Woman's Christian Temperance Union"
     url: "https://en.wikipedia.org/wiki/Woman's_Christian_Temperance_Union"
     outlet: "Wikipedia"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 3
 status: confirmed

@@ -20,19 +20,19 @@ sources:
   - title: "19th Amendment ratified thanks to one vote"
     url: "https://www.history.com/this-day-in-history/19th-amendment-ratified-tennessee-thanks-to-one-vote"
     outlet: "History.com"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "The Final Desperate Battle for Suffrage in Tennessee"
     url: "https://www.nps.gov/articles/000/the-final-desperate-battle-for-suffrage-in-tennesse.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "The vote that led to the 19th Amendment"
     url: "https://constitutioncenter.org/blog/the-man-and-his-mom-who-gave-women-the-vote"
     outlet: "Constitution Center"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

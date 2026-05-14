@@ -41,7 +41,7 @@ sources:
 - title: The Dred Scott Decision
   url: https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=293
   outlet: Digital History
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 status: confirmed

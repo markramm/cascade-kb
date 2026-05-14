@@ -13,19 +13,19 @@ sources:
   - title: The Contested Election of 1855
     url: https://civilwaronthewesternborder.org/blog/contested-election-1855
     outlet: Civil War on the Western Border
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Violence disrupts first Kansas election
     url: https://www.history.com/this-day-in-history/march-30/violence-disrupts-first-kansas-election
     outlet: History Channel
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Fraud Violence and Rigged Elections A Warning from Bleeding Kansas
     url: https://www.journalofthecivilwarera.org/2016/09/fraud-violence-rigged-elections-warning-bleeding-kansas/
     outlet: Journal of the Civil War Era
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
 tags:

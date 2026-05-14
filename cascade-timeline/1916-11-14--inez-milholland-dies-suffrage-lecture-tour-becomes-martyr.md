@@ -17,19 +17,19 @@ sources:
   - title: "Inez Milholland led 1913 D.C. suffrage parade but died before 19th Amendment ratification"
     url: "https://www.washingtonpost.com/graphics/2020/local/history/inez-milholland-suffrage-parade-womens-rights/"
     outlet: "Washington Post"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: "1913 Woman Suffrage Procession"
     url: "https://www.nps.gov/articles/woman-suffrage-procession1913.htm"
     outlet: "National Park Service"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 1
   - title: "Parading for Progress"
     url: "https://www.womenshistory.org/exhibits/parading-progress"
     outlet: "National Women's History Museum"
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 status: confirmed

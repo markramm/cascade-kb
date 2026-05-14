@@ -13,19 +13,19 @@ sources:
   - title: Lincoln-Douglas Debates
     url: https://www.battlefields.org/learn/articles/lincoln-douglas-debates
     outlet: American Battlefield Trust
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: Lincoln-Douglas debates
     url: https://www.britannica.com/event/Lincoln-Douglas-debates
     outlet: Britannica
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
   - title: The Lincoln-Douglas Debates
     url: https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3284
     outlet: Digital History
-    date: 2025
+    date: '2025'
     verified: true
     tier: 2
 tags:

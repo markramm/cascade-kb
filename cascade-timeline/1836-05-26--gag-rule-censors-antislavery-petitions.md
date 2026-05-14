@@ -40,13 +40,13 @@ sources:
 - title: Gag Rule
   url: https://www.senate.gov/about/powers-procedures/rules-procedures/slavery-petitions-gag-rule.htm
   outlet: U.S. Senate
-  date: 2025
+  date: '2025'
   verified: true
   tier: 1
 - title: Gag rule
   url: https://www.britannica.com/topic/gag-rule
   outlet: Britannica
-  date: 2025
+  date: '2025'
   verified: true
   tier: 2
 status: confirmed
