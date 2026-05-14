@@ -59,7 +59,7 @@ sources:
   - New OPR hires drawn largely from Border Patrol
   verified: true
   tier: 1
-- date: '2024-05-XX'
+- date: '2024-05'
   outlet: Southern Border Communities Coalition
   title: 'New GAO Report on Border Patrol Critical Incident Teams (CITs) Points to Widespread and Ongoing Abuse of Power'
   url: 'https://www.southernborder.org/new_gao_report_on_border_patrol_critical_incident_teams_cits_points_to_widespread_and_ongoing_abuse_of_power'

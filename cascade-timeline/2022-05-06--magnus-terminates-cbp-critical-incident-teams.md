@@ -70,7 +70,7 @@ sources:
   - OPR transition assignment
   verified: true
   tier: 2
-- date: '2022-05-XX'
+- date: '2022-05'
   outlet: The Hill (Latino)
   title: 'DHS restructures controversial Border Patrol investigations teams'
   url: 'https://thehill.com/latino/3479842-dhs-restructures-controversial-border-patrol-investigations-teams/'
@@ -79,7 +79,7 @@ sources:
   - Mainstream confirmation of memorandum and OPR transition
   verified: true
   tier: 2
-- date: '2022-05-XX'
+- date: '2022-05'
   outlet: American Immigration Council (Katy Murdza)
   title: 'The Border Patrol Is Going to Eliminate Its Secretive Critical Incident Teams'
   url: 'https://www.americanimmigrationcouncil.org/blog/border-patrol-critical-incident-teams/'
@@ -88,7 +88,7 @@ sources:
   - Reform context and advocacy reservations on OPR successor architecture
   verified: true
   tier: 2
-- date: '2022-05-XX'
+- date: '2022-05'
   outlet: TIME (Jasmine Aguilera)
   title: 'Border Patrol Agents Will No Longer Investigate Themselves'
   url: 'https://time.com/6174485/border-patrol-accountability/'

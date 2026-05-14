@@ -155,7 +155,7 @@
           <span class="source-text">
             <a href="{{ $s.url }}" rel="noopener nofollow" target="_blank">{{ $s.title }}</a>
             {{ with $s.publisher }}<span class="source-pub">— {{ . }}</span>{{ end }}
-            {{ with $s.date }}<span class="source-pub" style="font-style:normal;">· {{ $d := printf "%v" . }}{{ if eq (len $d) 10 }}{{ dateFormat "Jan 2, 2006" $d }}{{ else }}{{ $d }}{{ end }}</span>{{ end }}
+            {{ with $s.date }}<span class="source-pub" style="font-style:normal;">· {{ $d := printf "%v" . }}{{ if findRE `^\d{4}-\d{2}-\d{2}$` $d }}{{ dateFormat "Jan 2, 2006" $d }}{{ else }}{{ $d }}{{ end }}</span>{{ end }}
           </span>
           <span>{{ with $s.tier }}<a href="/about/sources/#tier-{{ . }}" class="tier-pill tier-{{ . }}" style="text-decoration:none;">Tier {{ . }}</a>{{ end }}</span>
         </div>

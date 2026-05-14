@@ -39,8 +39,8 @@ patterns:
 - shadow-units-without-statutory-authority
 - congressional-oversight-pressure-triggering-agency-action
 related_events:
-- 2022-05-XX--magnus-terminates-cbp-critical-incident-teams
-- 2010-05-28--anastasio-hernandez-rojas-killed-san-ysidro-cit-cover-up
+- 2022-05-06--magnus-terminates-cbp-critical-incident-teams
+- 2010-05-28--anastasio-hernandez-rojas-killed-cbp-san-ysidro-cit-cover-up
 - 2024-05-13--gao-report-cbp-cit-evidence-collection-teams-rebrand
 capture_lanes:
 - Immigration Enforcement
