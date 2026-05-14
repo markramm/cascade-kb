@@ -34,6 +34,21 @@
     @typo_decades path_regexp ^/decades(/.*)?$
     redir @typo_decades /decade{re.typo_decades.1} 301
 
+    # Trailing-slash canonicalization (SEO duplicate-content fix).
+    # Hugo emits canonical URLs with trailing slashes (e.g. /actors/foo/);
+    # Caddy's try_files also happily serves /actors/foo (no slash) from the
+    # same index.html, which Google sees as two distinct URLs for the same
+    # content. Redirect the no-slash form to the canonical with-slash form.
+    #
+    # Constraints:
+    #   - Skip paths containing a "." (file extensions like .xml, .png, .json)
+    #   - Skip the root "/"
+    #   - Skip already-redirected paths handled above
+    @needs_slash {
+        path_regexp ^/[^.]*[^./]$
+    }
+    redir @needs_slash {path}/ 301
+
     # Compression
     encode zstd gzip
 
