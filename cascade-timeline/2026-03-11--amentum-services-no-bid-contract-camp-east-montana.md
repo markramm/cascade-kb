@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-03-11--amentum-services-no-bid-contract-camp-east-montana
 date: '2026-03-11'
-title: "DHS Awards No-Bid $452.9M Contract to Amentum Services for Camp East Montana After Acquisition Logistics Termination"
+title: "DHS Awards No-Bid Sole-Source Contract to Amentum Services for Camp East Montana After Acquisition Logistics Termination"
 importance: 8
 status: confirmed
 tags:
@@ -45,7 +45,7 @@ capture_lanes:
 coverage: []
 ---
 
-On March 11, 2026, DHS issued a notice of intent to award a sole-source contract to Amentum Services, Inc. for detention, transportation, and medical services at Camp East Montana, the largest immigration detention facility in the United States. Amentum took over operations on March 12. The no-bid contract is valued at approximately $452.9 million and runs through September 30, 2026.
+On March 11, 2026, DHS issued a notice of intent to award a sole-source contract to Amentum Services, Inc. for detention, transportation, and medical services at Camp East Montana, the largest immigration detention facility in the United States. Amentum took over operations on March 12. The no-bid contract runs through September 30, 2026 (a 180-day term); Public Citizen characterizes it as "a no-bid, sole-sourced contract of an undetermined amount" — the contracting notice did not state a ceiling value, and tier-1 reporting (AP/WTOP) does not cite one.
 
 ## What Happened
 
@@ -61,7 +61,7 @@ The Amentum transition is the third contractor replacement in thirteen months at
 
 1. **Deployed Resources** ($3.8B ICE, April 10-13, 2025) — cancelled three days after award, stated reason never disclosed
 2. **Acquisition Logistics** ($1.24B Army, July 18, 2025 — March 2026) — terminated after three deaths, 60+ violations, illegal Texas business registration
-3. **Amentum Services** ($452.9M DHS, March 12, 2026 — September 30, 2026) — sole-source, no competition
+3. **Amentum Services** (DHS sole-source, undetermined amount, March 12, 2026 — September 30, 2026) — sole-source, no competition
 
 The subcontractor-to-prime-contractor conversion — Amentum being awarded the prime contract precisely because it was already on site as a subcontractor — exemplifies an accountability-evasion pattern: the entity that participated in operations under the terminated contract is positioned as the only eligible replacement, foreclosing competition and obscuring continuity of responsibility for prior abuses.
 

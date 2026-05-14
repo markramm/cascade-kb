@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2025-12-09--heritage-foundation-releases-heritage-2-0-2026-priorities-no-personnel-pillar
 date: '2025-12-09'
-title: "Heritage Foundation releases 'Heritage 2.0' 2026 policy priorities — no personnel pillar; Project 2025 four-pillar architecture not continued"
+title: "Heritage Foundation promotes 'Heritage 2.0' 2026 policy priorities (document released March 2025) — no personnel pillar; Project 2025 four-pillar architecture not continued"
 importance: 7
 status: confirmed
 tags:
@@ -39,7 +39,9 @@ coverage: []
 
 ## What Happened
 
-On approximately December 9, 2025, the Heritage Foundation released "Heritage 2.0," a forward-looking policy-priorities document outlining nine agenda areas for 2026. The document was promoted by Newsweek, NOTUS, and Axios, which framed it as a "Project 2026" successor. Heritage explicitly denied the "Project 2026" branding — a Heritage spokesperson told Newsweek: "There is no Project 2026 and will not be."
+On December 9, 2025, the Heritage Foundation publicly promoted "Heritage 2.0," a policy-priorities document outlining nine agenda areas for 2026. Per NOTUS, the underlying document was "originally released in March" 2025; December 9 is the date it was unveiled under the "Heritage 2.0" framing and covered by Newsweek, NOTUS, and Axios, which framed it as a "Project 2026" successor. Heritage explicitly denied the "Project 2026" branding — a Heritage spokesperson told Newsweek: "There is no Project 2026 and will not be."
+
+This timeline entry is dated to the December 9, 2025 promotion/coverage event, not the document's original March 2025 release.
 
 ## Key Facts
 
