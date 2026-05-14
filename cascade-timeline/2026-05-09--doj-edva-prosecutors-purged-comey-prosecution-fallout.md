@@ -19,6 +19,10 @@ actors:
   - James Comey
   - Lindsey Halligan
   - U.S. Attorney's Office Eastern District of Virginia
+coverage:
+  - digest: news-headlines-digest-2026-05-14
+    entry: H9
+    note: "H9 proposed Raskin-probe-adds-new-track update. Washington Times URL (raskin-probe source) returned 404; CBS News source (cbsnews.com/news/justice-department-firings-include-trump-investigators-jan-6-prosecutors/) covers July 2025 broader DOJ purge, not specifically the Raskin FBI-whistleblower probe. Insufficient sourcing for standalone new entry. Coverage field updated; Raskin investigation thread flagged for next news-headlines-search sweep. 2026-05-14"
 sources:
   - title: "DOJ sees fallout after push to prosecute former FBI chief James Comey"
     url: https://www.washingtonpost.com/national-security/2026/05/09/doj-sees-fallout-after-push-prosecute-former-fbi-director-james-comey/

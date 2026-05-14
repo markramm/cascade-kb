@@ -18,6 +18,9 @@ tags:
 coverage:
   - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
     title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
+  - digest: news-headlines-digest-2026-05-14
+    entry: H5
+    note: "H5 proposed new entry for 18th death + Diamondback opening; both already documented in this entry (18th death in CBS News source; Diamondback in body). Coverage updated rather than new entry written. 2026-05-14"
 actors:
   - U.S. Immigration and Customs Enforcement
   - U.S. Department of Homeland Security
