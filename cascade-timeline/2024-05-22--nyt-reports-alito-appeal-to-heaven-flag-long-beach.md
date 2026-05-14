@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2024-05-22--nyt-reports-alito-appeal-to-heaven-flag-long-beach
 date: '2024-05-22'
 title: "NYT publishes second Alito flag report: 'Appeal to Heaven' flag flew at New Jersey vacation home (July and September 2023)"

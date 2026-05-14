@@ -65,7 +65,7 @@ related_events:
 - 2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge
 - 2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge
 - 2026-01-19--ice-announces-3000-arrests-operation-metro-surge
-- 2026-02-12--homan-announces-operation-metro-surge-ends.md
+- 2026-02-12--homan-announces-operation-metro-surge-ends
 ---
 
 On December 4, 2025, the Department of Homeland Security formally announced Operation Metro Surge, an immigration enforcement operation targeting the Minneapolis-St. Paul metropolitan area. The operation initially deployed approximately 100 ICE agents specifically targeting the Somali community following President Trump's characterization of Somali Americans as "garbage" who "contribute nothing."

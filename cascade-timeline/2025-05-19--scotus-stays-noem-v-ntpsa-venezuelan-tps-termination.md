@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-05-19--scotus-stays-noem-v-ntpsa-venezuelan-tps-termination
 date: '2025-05-19'
 title: "SCOTUS shadow-docket stay in Noem v. National TPS Alliance clears Venezuelan Temporary Protected Status termination (initial stay)"

@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2023-11-13--scotus-adopts-nonbinding-code-of-conduct
 date: '2023-11-13'
 title: "Supreme Court adopts first-ever Code of Conduct — non-binding, unenforceable, no external oversight"

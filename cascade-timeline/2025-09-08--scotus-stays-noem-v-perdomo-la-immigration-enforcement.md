@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-09-08--scotus-stays-noem-v-perdomo-la-immigration-enforcement
 date: '2025-09-08'
 title: "SCOTUS shadow-docket stay in Noem v. Vasquez Perdomo permits ICE to use ethnicity, Spanish fluency, location, and occupation as reasonable-suspicion factors"

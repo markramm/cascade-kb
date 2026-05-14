@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-03-21--fincen-ifr-exempts-us-entities-from-boi-reporting
 date: '2025-03-21'
 title: "FinCEN interim final rule exempts all U.S.-formed entities and U.S. persons from Corporate Transparency Act beneficial-ownership reporting"
@@ -67,7 +67,11 @@ capture_lanes:
   - Regulatory Capture
   - Financial Capture
   - International Kleptocracy
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 ## Opening paragraph

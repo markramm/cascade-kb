@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-05-06--scotus-stays-us-v-shilling-transgender-military-ban
 date: '2025-05-06'
 title: "SCOTUS 6-3 shadow-docket stay in United States v. Shilling lifts injunction on Trump transgender military ban"

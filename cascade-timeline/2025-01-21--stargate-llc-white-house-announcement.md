@@ -1,8 +1,8 @@
 ---
 id: 2025-01-21--stargate-llc-white-house-announcement
 title: "Stargate LLC announced at White House: $500B AI-infrastructure JV with UAE sovereign-adjacent $7B tranche from MGX"
-type: event
-event_date: 2025-01-21
+type: timeline_event
+date: '2025-01-21'
 location: "The White House, Washington, DC"
 importance: 10
 era: "trump-2-first-100-days"

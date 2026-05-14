@@ -37,7 +37,7 @@ sources:
   tier: 2
 notes: "Pruitt's tenure represented the most extreme case of regulatory capture - an oil \nindustry ally dismantling environmental protections from within. He met almost \nexclusively with industry representatives, rolled back dozens of regulations, and \ndeleted climate change references from EPA materials. His replacement, Andrew Wheeler, \nwas a former coal lobbyist, continuing the pattern of industry insiders running \nagencies meant to regulate those industries. Trump praised Pruitt even as he resigned.\n"
 related_events:
-- 2017-03-31--tom-price-resigns-private-jet-scandal
+- 2017-09-29--hhs-secretary-tom-price-resigns-after-1-million-pr
 - 2018-12-15--ryan-zinke-resigns-corruption
 patterns:
 - regulatory-capture

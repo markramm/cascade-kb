@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-10-03--scotus-stays-ntpsa-venezuelan-tps-summary-judgment
 date: '2025-10-03'
 title: "SCOTUS second shadow-docket stay in Noem v. National TPS Alliance pauses summary judgment order restoring Venezuelan TPS"

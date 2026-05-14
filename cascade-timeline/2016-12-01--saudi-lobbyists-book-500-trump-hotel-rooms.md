@@ -40,8 +40,8 @@ notes: Multiple sources confirm systematic foreign government spending at Trump 
   Hotel, potentially violating the Emoluments Clause. The Saudi government's booking
   of 500 rooms was part of a broader pattern of foreign influence.
 related_events:
-- 2001-01-01--saudi-trump-tower-purchase
-- 2024-01-04--house-oversight-78-million-foreign-payments
+- 2001-06-01--saudi-arabia-purchases-45th-floor-trump-world-tower
+- 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 patterns:
 - emoluments-violations
 - foreign-influence

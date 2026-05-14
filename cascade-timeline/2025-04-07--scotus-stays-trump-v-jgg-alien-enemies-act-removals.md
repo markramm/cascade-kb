@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-04-07--scotus-stays-trump-v-jgg-alien-enemies-act-removals
 date: '2025-04-07'
 title: "SCOTUS 5-4 shadow-docket stay in Trump v. J.G.G. vacates TROs blocking Alien Enemies Act removals of Venezuelan nationals"

@@ -66,7 +66,7 @@ search_keywords:
 - Trump California military
 - domestic military operations
 related_events:
-- 2025-06-09--marines-los-angeles
+- 2025-06-09--usni-marines-los-angeles
 - 2025-06-12--la-deployment-unlawful-district-ruling
 - 2025-06-13--ninth-circuit-stays-la-deployment-ruling
 trigger_events:

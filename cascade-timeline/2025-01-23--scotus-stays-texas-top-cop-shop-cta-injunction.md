@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-01-23--scotus-stays-texas-top-cop-shop-cta-injunction
 date: '2025-01-23'
 title: "Supreme Court stays Fifth Circuit's nationwide injunction of Corporate Transparency Act in McHenry v. Texas Top Cop Shop (shadow-docket order)"

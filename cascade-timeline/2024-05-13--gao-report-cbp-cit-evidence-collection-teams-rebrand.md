@@ -40,7 +40,7 @@ patterns:
 related_events:
 - 2022-01-24--ten-congressional-chairs-request-gao-audit-cbp-critical-incident-teams
 - 2022-05-06--magnus-terminates-cbp-critical-incident-teams
-- 2010-05-28--anastasio-hernandez-rojas-killed-san-ysidro-cit-cover-up
+- 2010-05-28--anastasio-hernandez-rojas-killed-cbp-san-ysidro-cit-cover-up
 capture_lanes:
 - Immigration Enforcement
 - Accountability

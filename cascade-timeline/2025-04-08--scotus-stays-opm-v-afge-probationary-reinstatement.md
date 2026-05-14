@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-04-08--scotus-stays-opm-v-afge-probationary-reinstatement
 date: '2025-04-08'
 title: "SCOTUS shadow-docket stay in OPM v. AFGE lifts district-court order reinstating 16,000 probationary federal employees"

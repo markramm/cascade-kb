@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-05-30--scotus-stays-noem-v-doe-chnv-parole-termination
 date: '2025-05-30'
 title: "SCOTUS shadow-docket stay in Noem v. Doe clears Trump termination of CHNV humanitarian parole affecting ~500,000 Cuban, Haitian, Nicaraguan, Venezuelan migrants"

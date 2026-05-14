@@ -1,8 +1,8 @@
 ---
 id: 2025-10-24--crusoe-series-e-mubadala-capital-valor-co-lead
 title: "Crusoe closes $1.375B Series E at >$10B valuation; Mubadala Capital co-leads, putting UAE sovereign-adjacent capital at developer layer of Stargate Abilene"
-type: event
-event_date: 2025-10-24
+type: timeline_event
+date: '2025-10-24'
 location: "Denver, CO (Crusoe HQ); Abu Dhabi (Mubadala Capital)"
 importance: 9
 era: "trump-2-year-one"

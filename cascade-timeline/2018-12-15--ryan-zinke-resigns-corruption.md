@@ -37,9 +37,9 @@ sources:
   tier: 1
 notes: "Zinke's replacement, David Bernhardt, was an oil and gas lobbyist with so many \nconflicts of interest he carried a card listing them. This exemplified the Trump \nadministration pattern of appointing industry insiders to dismantle the agencies \nmeant to regulate them. Zinke's reduction of national monuments was later found \nto benefit uranium mining companies that had lobbied for the changes. He was the \nfourth Trump Cabinet member to resign under ethics clouds.\n"
 related_events:
-- 2017-03-31--tom-price-resigns-private-jet-scandal
+- 2017-09-29--hhs-secretary-tom-price-resigns-after-1-million-pr
 - 2018-07-05--scott-pruitt-resigns-corruption
-- 2019-03-28--david-bernhardt-confirmed-conflicts
+- 2019-04-11--david-bernhardt-confirmed-conflicts-of-interest
 patterns:
 - regulatory-capture
 - cabinet-corruption

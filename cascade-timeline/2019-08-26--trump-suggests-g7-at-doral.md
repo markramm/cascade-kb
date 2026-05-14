@@ -37,7 +37,7 @@ sources:
   tier: 1
 notes: "This represented one of the most brazen attempts at self-dealing, as Trump tried \nto use the presidency to direct government contracts to his failing business. \nThe Doral resort had seen massive revenue declines since Trump took office, and \nhosting G-7 would have provided a significant financial boost. The reversal only \ncame after Republicans joined Democrats in condemning the plan, showing even \nTrump's allies recognized the constitutional violation was too obvious to defend.\n"
 related_events:
-- 2024-01-04--house-oversight-78-million-foreign-payments
+- 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 - 2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms
 patterns:
 - self-dealing

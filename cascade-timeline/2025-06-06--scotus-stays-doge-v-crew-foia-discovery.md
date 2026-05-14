@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-06-06--scotus-stays-doge-v-crew-foia-discovery
 date: '2025-06-06'
 title: "SCOTUS shadow-docket stay in U.S. DOGE Service v. CREW narrows FOIA discovery against DOGE, shielding internal operations"

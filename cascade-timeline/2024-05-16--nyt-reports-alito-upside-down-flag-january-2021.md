@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2024-05-16--nyt-reports-alito-upside-down-flag-january-2021
 date: '2024-05-16'
 title: "NYT publishes photographic evidence of upside-down American flag at Alito's Alexandria home in January 2021"

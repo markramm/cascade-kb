@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-08-21--scotus-nih-v-apha-dei-grant-terminations-stay
 date: '2025-08-21'
 title: "SCOTUS shadow-docket stay in NIH v. American Public Health Association clears DEI-flagged grant terminations (Tucker Act routing)"

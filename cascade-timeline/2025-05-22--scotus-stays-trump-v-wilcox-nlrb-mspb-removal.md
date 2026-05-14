@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-05-22--scotus-stays-trump-v-wilcox-nlrb-mspb-removal
 date: '2025-05-22'
 title: "SCOTUS 6-3 shadow-docket stay in Trump v. Wilcox greenlights presidential removal of NLRB and MSPB members, effectively narrowing Humphrey's Executor"

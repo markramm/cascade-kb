@@ -44,7 +44,7 @@ sources:
 notes: "The timing of these payments is critical - the Saudi government was funneling money \nto Trump's business while orchestrating the murder of a Washington Post journalist \nand U.S. resident. Trump's subsequent defense of MBS despite CIA conclusions about \nhis role in the murder demonstrates how foreign payments may have influenced U.S. \nforeign policy decisions. Trump repeatedly cited Saudi economic ties when defending \nthe kingdom.\n"
 related_events:
 - 2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms
-- 2024-01-04--house-oversight-78-million-foreign-payments
+- 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 patterns:
 - emoluments-violations
 - foreign-influence

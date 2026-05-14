@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-04-04--scotus-stays-tro-dept-education-v-california-dei-grants
 date: '2025-04-04'
 title: "SCOTUS 5-4 shadow-docket stay in Department of Education v. California clears termination of DEI-flagged teacher-training grants"

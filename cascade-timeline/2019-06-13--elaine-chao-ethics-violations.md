@@ -38,7 +38,7 @@ sources:
   tier: 2
 notes: "The Chao-McConnell corruption demonstrated how Cabinet members used their positions \nto benefit family businesses with foreign ties. Foremost Group received hundreds of \nmillions in Chinese state bank loans while Chao shaped U.S. shipping policy. The \nDOJ's refusal to prosecute despite criminal referral showed how corruption was \nnormalized in the Trump administration. This case uniquely involved both executive \nand legislative branch leaders profiting from Chinese business relationships while \nshaping U.S.-China policy.\n"
 related_events:
-- 2024-01-04--house-oversight-78-million-foreign-payments
+- 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 patterns:
 - family-enrichment
 - foreign-influence

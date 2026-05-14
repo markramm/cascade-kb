@@ -43,7 +43,7 @@ search_keywords:
 related_events:
 - 2025-02-21--bondi-epstein-files-on-desk
 - 2025-05-01--bondi-briefs-trump-epstein-files
-- 2025-07-01--doj-blocks-epstein-releases
+- 2025-07-07--doj-blocks-further-epstein-file-releases
 trigger_events:
 - Phase 2 announcement
 - court order release

@@ -44,8 +44,6 @@ search_keywords:
 - Project 2025 CFPB elimination
 - consumer financial protections suspended
 related_events:
-- 2025-08-01--cfpb-shutdown-offices-closed
-- 2025-02-19--cfpb-shutdown-orders
 trigger_events:
 - court injunction CFPB
 - congressional oversight hearing

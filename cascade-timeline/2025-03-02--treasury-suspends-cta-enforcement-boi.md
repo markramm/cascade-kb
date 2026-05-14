@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-03-02--treasury-suspends-cta-enforcement-boi
 date: '2025-03-02'
 title: "Treasury announces suspension of Corporate Transparency Act enforcement against U.S. citizens and domestic reporting companies"
@@ -56,7 +56,11 @@ capture_lanes:
   - Regulatory Capture
   - Financial Capture
   - International Kleptocracy
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/the-rollback-wave
+    title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
+    date: '2026-05-13'
+    publication: theramm
 ---
 
 ## Opening paragraph

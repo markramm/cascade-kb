@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2024-12-21--senate-judiciary-scotus-ethics-final-report
 date: '2024-12-21'
 title: "Senate Judiciary Democrats release final investigative report on SCOTUS ethics crisis — 20-month probe of Thomas, Alito, Scalia gifts and recusal patterns"

@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2024-10-01--stanford-internet-observatory-shutdown
 date: '2024-10-01'
 title: "Stanford Internet Observatory effectively wound down as standalone research operation — five-year academic infrastructure for platform accountability research dismantled under sustained political and legal pressure"

@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2026-04-18--kantor-liptak-nyt-shadow-docket-leak-clean-power-plan-memos
 date: '2026-04-18'
 title: "NYT publishes Kantor/Liptak investigation of leaked 2016 SCOTUS memos documenting the origins of the modern shadow (interim) docket"

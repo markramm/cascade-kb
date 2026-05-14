@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2024-05-29--alito-refuses-recusal-jan6-trump-cases
 date: '2024-05-29'
 title: "Alito formally refuses recusal from Trump immunity and Fischer January 6 cases; Roberts declines meeting with Senate Judiciary (May 30)"

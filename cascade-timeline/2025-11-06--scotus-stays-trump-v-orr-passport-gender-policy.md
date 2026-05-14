@@ -1,5 +1,5 @@
 ---
-type: event
+type: timeline_event
 id: 2025-11-06--scotus-stays-trump-v-orr-passport-gender-policy
 date: '2025-11-06'
 title: "SCOTUS shadow-docket stay in Trump v. Orr clears State Department passport policy requiring sex-at-birth marker"
