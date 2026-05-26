@@ -38,6 +38,9 @@ sources:
     publisher: Immigration Policy Tracking Project
     date: '2026-04-15'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/fees-collected-service-not-rendered
+    title: "Fees Collected – Service Not Rendered"
 ---
 
 On May 10, 2026, USCIS rescinded the 2022 policy that automatically granted deferred action to Special Immigrant Juveniles (SIJs) — children who have been abused, neglected, or abandoned and have been adjudicated dependent by a state court. Since 2022, SIJ-approved children unable to immediately adjust status (due to visa backlogs in the EB-4 category that can stretch 8-10 years for Central American applicants) received automatic deportation protection and work authorization. Under the new USCIS policy memo (PM-602-0198, issued April 10), that automatic consideration is eliminated: children must now individually petition on Form G-325A and will face discretionary denial. Children who miss the window lose protection, and because the EB-4 backlog persists, many SIJ-approved children now face legal limbo during their entire remaining minority.

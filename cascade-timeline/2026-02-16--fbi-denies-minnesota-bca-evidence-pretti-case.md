@@ -36,6 +36,11 @@ sources:
 capture_lanes:
   - Constitutional Breakdown
   - Democratic Erosion
+coverage:
+  - url: https://theramm.substack.com/p/three-jesuses-one-building
+    title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"
+    date: '2026-05-19'
+    publication: theramm
 ---
 
 The FBI formally notified the Minnesota Bureau of Criminal Apprehension (BCA) that it would not provide the BCA with any information or evidence collected in the January 24, 2026 killing of Alex Pretti by CBP agents during Operation Metro Surge.

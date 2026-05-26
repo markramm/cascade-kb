@@ -44,6 +44,10 @@ coverage:
     title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
     date: '2026-05-13'
     publication: theramm
+  - url: https://theramm.substack.com/p/the-precedent-corridor
+    title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
+    date: '2026-05-16'
+    publication: theramm
 ---
 
 At a Senate Banking Committee hearing on February 26, 2026, ranking member Elizabeth Warren pressed OCC Comptroller Jonathan Gould on whether WLTC Holdings' charter application disclosed that Aryam Investment 1 — the twin-shell vehicle controlled by UAE National Security Advisor Sheikh Tahnoon bin Zayed Al Nahyan's G42 lieutenants — holds 49% of World Liberty Financial. Warren referenced OCC regulations requiring charter applicants to disclose "all shareholders with at least a 10% direct or indirect stake in the proposed bank" and stated that failing to file the required biographical and financial reports would justify dismissing the application.

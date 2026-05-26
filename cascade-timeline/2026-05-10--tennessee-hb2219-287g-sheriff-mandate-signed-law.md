@@ -13,6 +13,9 @@ tags:
   - institutional-capture
   - executive-power-expansion
   - democratic-erosion
+coverage:
+  - url: https://theramm.substack.com/p/the-charge-is-always-something-else
+    title: "The Charge Is Always Something Else"
 actors:
   - Governor Bill Lee
   - Tennessee General Assembly

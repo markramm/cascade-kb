@@ -72,6 +72,10 @@ coverage:
     title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
     date: '2026-05-13'
     publication: theramm
+  - url: https://theramm.substack.com/p/the-precedent-corridor
+    title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
+    date: '2026-05-16'
+    publication: theramm
 ---
 
 # OCC 12 CFR 5.20 Amendment Takes Effect — "Operations of a Trust Company and Activities Related Thereto"

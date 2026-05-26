@@ -41,6 +41,10 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 coverage:
+  - url: https://theramm.substack.com/p/three-jesuses-one-building
+    title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"
+    date: '2026-05-19'
+    publication: theramm
   - url: https://theramm.substack.com/p/the-hammer-gregory-bovinos-12-month
     title: "The Hammer: Gregory Bovino's 12-Month Escalation"
   - url: https://theramm.substack.com/p/the-ice-director-who-preaches-on

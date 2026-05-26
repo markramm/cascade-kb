@@ -65,7 +65,11 @@ capture_lanes:
   - Christian Nationalism
   - Theological legitimation layer
   - Electoral capture
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/three-jesuses-one-building
+    title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"
+    date: '2026-05-19'
+    publication: theramm
 ---
 
 Between Charlie Kirk's assassination on September 10, 2025 and May 2026, Vice President JD Vance made at least four confirmed public appearances at Turning Point USA events alongside or honoring Erika Kirk — Kirk's widow and newly-installed TPUSA CEO — while delivering a succession of increasingly explicit Christian-nationalist declarations. The series documents the Pentecostal/NAR-adjacent operational lane of Vance's integrating-bridge architecture operating in its least-institutional, most personally-legible register: a VP publicly vouching for a bereaved widow, and the widow reciprocating with a 2028 presidential endorsement.

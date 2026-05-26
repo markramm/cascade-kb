@@ -19,6 +19,9 @@ tags:
 - safety-net
 - one-big-beautiful-bill
 - austerity
+coverage:
+- url: https://theramm.substack.com/p/render-unto-caesar
+  title: "Render Unto Caesar"
 sources:
 - title: "President Trump's One Big Beautiful Bill Is Now the Law"
   url: https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/

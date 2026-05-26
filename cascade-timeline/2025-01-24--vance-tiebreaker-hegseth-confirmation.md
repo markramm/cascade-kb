@@ -59,6 +59,11 @@ cross_references:
   - "[[2025-01-24--hegseth-confirmed-defense-secretary-tiebreaker]]"
   - "[[hegseth-pete]]"
   - "[[vance-jd]]"
+coverage:
+  - url: https://theramm.substack.com/p/three-jesuses-one-building
+    title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"
+    date: '2026-05-19'
+    publication: theramm
 ---
 
 On January 24, 2025, Vice President JD Vance cast the tiebreaking vote confirming Pete Hegseth as Secretary of Defense, 51-50 (Senate Roll Call Vote 15, 119th Congress, 1st Session). This is a VANCE-PERSONAL footprint event: without Vance's single vote, the Hegseth confirmation would have failed.

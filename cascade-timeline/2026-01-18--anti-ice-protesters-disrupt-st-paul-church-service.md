@@ -17,6 +17,9 @@ tags:
 - immigration
 - surveillance
 - press-freedom
+coverage:
+- url: https://theramm.substack.com/p/the-charge-is-always-something-else
+  title: "The Charge Is Always Something Else"
 sources:
 - url: https://religionnews.com/2026/01/20/cities-church-in-minnesota-is-considering-legal-options-after-anti-ice-protest/
   title: Cities Church in Minnesota is considering legal options after anti-ICE protest

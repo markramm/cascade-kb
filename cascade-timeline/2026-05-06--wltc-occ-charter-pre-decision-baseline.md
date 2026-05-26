@@ -76,7 +76,11 @@ capture_lanes:
   - Financial Capture
   - Gulf-State Capital Flow
   - Systematic Corruption
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/the-precedent-corridor
+    title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
+    date: '2026-05-16'
+    publication: theramm
 ---
 
 ## Opening paragraph

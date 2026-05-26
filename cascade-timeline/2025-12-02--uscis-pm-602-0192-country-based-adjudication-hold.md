@@ -43,7 +43,9 @@ sources:
     publisher: U.S. District Court for the District of Massachusetts
     date: '2026-04-30'
     tier: 1
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/fees-collected-service-not-rendered
+    title: "Fees Collected – Service Not Rendered"
 ---
 
 On December 2, 2025, USCIS issued Policy Memorandum PM-602-0192, placing an indefinite adjudicative hold on all pending immigration benefit requests filed by nationals of an initial set of 19 designated countries. On January 1, 2026, PM-602-0194 expanded the hold to 39 countries. Under both memos, USCIS continues to accept applications — and the associated filing fees, which are non-refundable under USCIS's own Policy Manual — but neither approves nor denies them: the cases are held in an indefinite pending state with no adjudication timeline.
