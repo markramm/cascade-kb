@@ -19,6 +19,10 @@ tags:
 - iran-war
 - pltr-ticker-endorsement
 - market-manipulation-allegations
+- investigation-2
+- wartime-procurement-acceleration
+- thiel-network
+- presidential-endorsement
 sources:
 - title: Trump Praises Palantir's 'War Fighting Capabilities' in Social Media Post
   url: https://www.bloomberg.com/news/articles/2026-04-10/trump-singles-out-palantir-s-war-fighting-capabilities-in-post
@@ -60,6 +64,7 @@ capture_lanes:
 - Market Manipulation
 - Executive-Branch and Contractor Public Endorsement
 - Defense Contractor Political Alignment
+- Wartime Procurement Acceleration
 ---
 
 On April 10, 2026, President Donald Trump posted on Truth Social endorsing Palantir Technologies by stock ticker symbol, becoming the **first sitting U.S. president to endorse a publicly traded stock by ticker on any platform**. The post came during Palantir's worst trading week in over a year — the stock had been in a reported 15–16% freefall — and briefly reversed the decline. Senator Mark Warner (D-VA) publicly called the post an example of market manipulation.
@@ -89,6 +94,8 @@ The post came during ongoing U.S. military operations in Iran, where Palantir's 
 1. Active wartime use of Palantir's products by the U.S. military
 2. Presidential public promotion of Palantir's stock by ticker
 3. A stock-price floor for a defense contractor whose valuation depends on continued political alignment with the endorsing administration
+
+Per the investigation-2 Thiel-thread reconnaissance ([[thiel-network-iran-war-exposure-thiel-thread-prospecting]]), Trump's on-record praise is documented as a **wartime-procurement-acceleration** signal: the Iran war functioning as a live demo that converts the Palantir/Maven defense-AI stack from contractual relationships into "proven warfighting capability" with the President's own words. This event is distinct from the stock-manipulation dimension — it is also the principal-level verbal endorsement of Palantir's war role, arrived at by the head of the executive branch who simultaneously holds Palantir equity (per OGE disclosure). The Quiver Quantitative coverage was the first to surface the contract-escalation and presidential-praise connection as a linked phenomenon.
 
 ## Significance in the Broader Capture Pattern
 
@@ -123,3 +130,8 @@ The Truth Social platform context is relevant: Trump's post is on a platform own
 - [[2026-04-23--144-trump-appointees-palantir-disclosures]] — personnel-capture layer
 - [[warehouse-fungibility-and-the-detention-hedge]] — structural context
 - [[prosecutorial-revenge-faction]] — Patel as TMTG alumnus + PLTR holder
+- [[thiel-network-iran-war-exposure-thiel-thread-prospecting]] — Iran-war recon note establishing Palantir/Maven as the documented Thiel-thread operational node; this event is the principal-level verbal confirmation of Palantir's war role
+- [[2026-03-04--claude-ai-iran-strikes-target-selection-ban-violation]] — Maven Smart System operational context: Anthropic Claude embedded in Palantir's Maven generated ~1,000 prioritized Iran targets day one
+- [[2026-03-18--democracy-now-ai-kill-chain-palantir-iran]] — Maven kill-chain compression; tied to Minab misidentification
+- [[2026-03-11--iran-minab-school-strike-us-tomahawk-war-crime-investigation]] — the accountability hinge Trump's praise elides
+- [[wartime-procurement-acceleration-mechanism-thiel-defense-ai-stack]] — theme entry; this post is the exemplary political-durability conversion event
