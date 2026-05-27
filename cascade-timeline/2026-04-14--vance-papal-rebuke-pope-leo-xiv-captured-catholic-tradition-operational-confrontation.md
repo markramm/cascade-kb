@@ -85,6 +85,9 @@ capture_lanes:
 cross_references:
   - cascade-research/concepts/captured-tradition-vs-confessing-tradition.md
   - ramm/concepts/catholic-integralism-intellectual-lineage-maistre-to-vance.md
+coverage:
+  - url: https://theramm.substack.com/p/augustine-against-augustine
+    title: "Augustine Against Augustine"
 ---
 
 On April 14, 2026, Vice President JD Vance appeared at a Turning Point USA event at the University of Georgia in Athens, Georgia and publicly rebuked Pope Leo XIV on theological grounds, warning that "it's very, very important for the pope to be careful when he talks about matters of theology." Vance invoked "the more than 1,000-year tradition of just war theory" to challenge the pontiff's teaching that God "is never on the side of those who once wielded the sword and today drop bombs" — a statement Pope Leo had made on April 10 when addressing Chaldean Catholic bishops in Rome, amplified on the Vatican's official @Pontifex account on X. The next day, Auxiliary Bishop James Massa of Brooklyn, chairman of the U.S. Conference of Catholic Bishops' Committee on Doctrine, issued a corrective statement on April 15 clarifying that "when Pope Leo XIV speaks as supreme pastor of the universal Church, he is not merely offering opinions on theology, he is preaching the Gospel," and that the thousand-year just-war tradition Vance invoked actually requires that "a nation can only legitimately take up the sword 'in self-defense, once all peace efforts have failed.'" White House border czar Tom Homan amplified the administration's position on the same day, telling reporters that the Catholic Church should "stay out of politics."

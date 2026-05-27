@@ -35,6 +35,9 @@ sources:
     publisher: PBS NewsHour
     date: '2025-02-11'
     tier: 1
+coverage:
+  - url: https://theramm.substack.com/p/augustine-against-augustine
+    title: "Augustine Against Augustine"
 ---
 
 On February 11, 2025, Vice President JD Vance delivered the Trump administration's signature AI-policy address at the **Artificial Intelligence Action Summit in Paris**, reframing the international AI agenda from *safety* to *opportunity* and *dominance*. The speech's defining line: **"I'm not here this morning to talk about AI safety, which was the title of the conference a couple of years ago. I'm here to talk about AI opportunity."** Vance warned that **"excessive regulation of the AI sector could kill a transformative industry just as it's taking off,"** and declared, **"The United States of America is the leader in AI, and our administration plans to keep it that way."**

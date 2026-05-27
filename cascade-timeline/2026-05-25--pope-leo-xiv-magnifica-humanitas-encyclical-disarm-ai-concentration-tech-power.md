@@ -40,6 +40,9 @@ sources:
     publisher: National Catholic Reporter
     date: '2026-05-25'
     tier: 1
+coverage:
+  - url: https://theramm.substack.com/p/augustine-against-augustine
+    title: "Augustine Against Augustine"
 ---
 
 On May 25, 2026, Pope Leo XIV presented his first encyclical, **"Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence"** — an 82-page document calling for AI to be **"disarmed" from logics of domination, exclusion, and war.** The encyclical specifically names autonomous weapons systems, algorithms that "deny access to healthcare, employment or security based on unjust and prejudiced data," and — the structurally load-bearing phrase — **"the concentration of technological power among a handful of corporations."** Leo urged that technological progress be placed at the service of human dignity, solidarity, and the common good. He is the first pope to personally present an encyclical letter to the world rather than delegating the role to a cardinal. The document emerged from extensive consultation with scientists, engineers, educators, and political leaders, and reports "very troubling voices" on autonomous weapons and discriminatory algorithmic gatekeeping (NPR, WaPo, CNN, NCR, USCCB — all 2026-05-25).
