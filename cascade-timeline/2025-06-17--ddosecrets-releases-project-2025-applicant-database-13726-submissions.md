@@ -23,7 +23,7 @@ sources:
     url: https://theintercept.com/2025/07/23/project-2025-leak-paul-ingrassia-justice-department/
     publisher: The Intercept
     date: '2025-07-23'
-    tier: 2
+    tier: 1
   - title: "Leak exposes data on applicants to Heritage Foundation's Project 2025"
     url: https://san.com/cc/leak-exposes-data-on-applicants-to-heritage-foundations-project-2025/
     publisher: SAN
