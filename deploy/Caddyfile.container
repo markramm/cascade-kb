@@ -18,6 +18,17 @@
     # to fix Google sitemap parsing). Static, hand-edited; lives at static/.
     import /srv/redirects-renamed.caddy
 
+    # Legacy URL prefixes from RAMM Substack articles. Before the 2026 reorg,
+    # RAMM linked to /timeline/<slug>/ and /viewer/<slug>/. Those paths were
+    # never wired up after the reorg → 32 published RAMM articles have dead
+    # links. 301 to the canonical /event/<slug>/. If the target slug was also
+    # renamed by the reorg, the /event/ 404 falls through to the reorg-rescue
+    # 302 in handle_errors below.
+    @legacy_timeline path_regexp legacy_timeline ^/timeline(/.*)?$
+    redir @legacy_timeline /event{re.legacy_timeline.1} 301
+    @legacy_viewer   path_regexp legacy_viewer   ^/viewer(/.*)?$
+    redir @legacy_viewer /event{re.legacy_viewer.1} 301
+
     # Plural/singular path forgivers — common typos when someone hand-types
     # or guesses a URL. The site canonical is mixed (event=singular,
     # actors=plural, etc.) so we redirect both directions to the canonical.
