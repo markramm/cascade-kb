@@ -111,12 +111,16 @@ The six-layer Thiel-network stack documented in the X-Network six-layer brief wa
 
 The CLARITY Act's fate without a dedicated czar is a genuine open question. Legislative coordination from an advisory body (PCAST) rather than an operational White House advocate represents a real downgrade in legislative capacity, though not in the Thiel-network's control of the policy-authorship function itself.
 
+## Departure Context: Iran/All-In Controversy (March 14, 2026)
+
+Twelve days before the March 26 departure announcement, on **March 14, 2026**, Sacks used an All-In Podcast episode to publicly call for a U.S. exit from the U.S.-Israel war with Iran — the first time a senior White House figure had publicly broken with Trump over the war. He warned of catastrophic escalation scenarios including destruction of Gulf desalination plants ("you could literally render the Gulf almost uninhabitable") and characterized Iran as holding a "dead man's switch over the economic fate of the Gulf states." Trump distanced himself, telling reporters that Sacks "hadn't spoken to him" about the war. Asked about the episode at his March 26 departure announcement, Sacks stated: "I'm not on the foreign policy team or the national security team," characterizing his Iran comments as personal views. The TechCrunch departure article noted "his recent podcast comments about the Iran conflict may have been a factor" — this is analytically inferred, not documented as causal. The stated reason (130-day SGE limit) is documented; the Iran-episode/departure connection is analytical. Sources: Fortune March 14, 2026; Bloomberg March 26, 2026 (via TechCrunch summary).
+
 ## Research Gaps
 
-- [ ] Confirm CLARITY Act status as of publication date — stalled, advancing, or withdrawn?
+- [ ] Confirm CLARITY Act status as of 2026-05 — stalled, advancing, or withdrawn?
 - [ ] Patrick Witt's Thiel-network affiliations, if any — confirm or rule out
-- [ ] Formal PCAST membership list finalized (13 of 24 positions filled at announcement; remaining 11 unknown)
-- [ ] Any new formal AI/Crypto czar appointment made after March 2026 (monitoring required)
+- [x] Formal PCAST membership list — 13 members confirmed (Andreessen, Brin, Catz, Dell, DeWitte, Ehrsam, Ellison, Friedberg, Huang, Martinis, Mumgaard, Su, Zuckerberg); up to 24 positions, additional appointments expected. Partially resolved 2026-05-28.
+- [x] Any new formal AI/Crypto czar appointment made after March 2026 — Confirmed: NO successor named. White House source (Axios, March 26, 2026) confirmed no replacement. Resolved 2026-05-28.
 - [ ] Kratsios's Founders Fund board directorship (Scale AI board) — whether that role was retained through OSTP confirmation
 
 ## Related Entries
