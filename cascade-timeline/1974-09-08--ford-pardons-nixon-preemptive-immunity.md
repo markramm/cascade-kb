@@ -13,6 +13,9 @@ tags:
   - accountability-failure
   - institutional-corruption
   - rule-of-law
+  - forgiveness-over-accountability-ratchet
+  - elite-impunity
+  - non-prosecution
 sources:
   - title: 'Nixon Pardon'
     url: 'https://www.fordlibrarymuseum.gov/digital-research-room/library-collections/topic-guides/nixon-pardon'

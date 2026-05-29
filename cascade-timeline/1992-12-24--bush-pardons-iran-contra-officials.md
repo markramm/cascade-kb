@@ -12,6 +12,9 @@ tags:
 - obstruction-of-justice
 - accountability
 - cover-up
+- forgiveness-over-accountability-ratchet
+- elite-impunity
+- non-prosecution
 actors:
 - George H.W. Bush
 - Caspar Weinberger

@@ -18,6 +18,11 @@ tags:
 - accountability
 - ssci
 - waterboarding
+- forgiveness-over-accountability-ratchet
+- documentary-monument
+- non-prosecution
+- holder-eric
+- elite-impunity
 status: confirmed
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)

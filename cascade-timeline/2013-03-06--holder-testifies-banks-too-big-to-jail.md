@@ -21,6 +21,10 @@ tags:
 - economic-policy
 - legal-accountability
 - corporate-crime
+- forgiveness-over-accountability-ratchet
+- too-big-to-jail
+- holder-eric
+- elite-impunity
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

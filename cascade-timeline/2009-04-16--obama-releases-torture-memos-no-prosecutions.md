@@ -21,6 +21,10 @@ tags:
 - war-crimes
 - accountability
 - justice-department
+- forgiveness-over-accountability-ratchet
+- holder-eric
+- non-prosecution
+- elite-impunity
 sources:
 - title: Obama Releases Bush-Era Memos Authorizing Torture Techniques
   url: https://www.democracynow.org/2009/4/17/memos

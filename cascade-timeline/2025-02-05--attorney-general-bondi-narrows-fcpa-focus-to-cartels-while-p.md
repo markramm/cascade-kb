@@ -17,6 +17,10 @@ tags:
 - foreign-bribery
 - pam-bondi
 - corruption-enabling
+- forgiveness-over-accountability-ratchet
+- elite-impunity
+- non-prosecution
+- regulatory-capture
 capture_type: regulatory_capture
 sources:
 - title: 'Bloomberg: Attorney General Bondi Narrows FCPA Focus to Carte'

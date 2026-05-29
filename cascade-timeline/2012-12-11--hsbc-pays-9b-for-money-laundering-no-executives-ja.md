@@ -17,6 +17,11 @@ tags:
 - drug-cartels
 - financial-crime
 - impunity
+- forgiveness-over-accountability-ratchet
+- holder-eric
+- elite-impunity
+- non-prosecution
+- documentary-monument
 status: confirmed
 sources:
 - title: HSBC to pay $1.9 billion U.S. fine in money-laundering case
