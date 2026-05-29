@@ -27,7 +27,7 @@ tags:
   - n-d-cal
   - bench-trial
   - title-10
-  - 12406
+  - "12406"
   - california-national-guard
   - judicial-resistance
   - federalization
