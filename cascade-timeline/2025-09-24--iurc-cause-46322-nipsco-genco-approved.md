@@ -53,7 +53,7 @@ sources:
     date: '2026'
     tier: 2
 capture_lanes:
-  - Energy Systems / Ratepayer Cost-Shift
+  - Energy Systems and Ratepayer Cost-Shift
 coverage: []
 ---
 

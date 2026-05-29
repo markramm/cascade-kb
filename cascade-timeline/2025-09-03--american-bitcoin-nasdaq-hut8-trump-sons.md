@@ -71,7 +71,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Trump Family Crypto Empire Expansion
-- Bitcoin Mining / Infrastructure
+- Bitcoin Mining and Infrastructure
 - Abu Dhabi Sovereign-Adjacent Partnership
 - Nasdaq-Listed Trump Family Entity
 ---

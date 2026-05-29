@@ -70,7 +70,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Gaza Reconstruction Profit Architecture
-- Demographic Restructuring / Displacement-Adjacent Development
+- Demographic Restructuring and Displacement-Adjacent Development
 - Trump-Family Foreign Policy Profiteering
 - Board of Peace Governance Structure
 ---

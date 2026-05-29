@@ -22,6 +22,14 @@ redir /lanes/private-credit-/-retail-investor-harm/ /lanes/private-credit-and-re
 redir /lanes/private-credit-/-shadow-banking/ /lanes/private-credit-and-shadow-banking/ 301
 redir /lanes/state-department-values-realignment-/-skinner-chapter/ /lanes/state-department-values-realignment-and-skinner-chapter/ 301
 
+# Lane renames: slash-bearing labels — 2026-05-29 second wave (newer lanes
+# that slipped in after the original May cleanup)
+redir /lanes/bitcoin-mining-/-infrastructure/ /lanes/bitcoin-mining-and-infrastructure/ 301
+redir /lanes/demographic-restructuring-/-displacement-adjacent-development/ /lanes/demographic-restructuring-and-displacement-adjacent-development/ 301
+redir /lanes/energy-systems-/-ratepayer-cost-shift/ /lanes/energy-systems-and-ratepayer-cost-shift/ 301
+redir /lanes/foreign-sovereign-wealth-/-u.s.-diplomatic-overlap/ /lanes/foreign-sovereign-wealth-and-u.s.-diplomatic-overlap/ 301
+redir /lanes/mediterranean-luxury-development-/-displacement-adjacent-real-estate/ /lanes/mediterranean-luxury-development-and-displacement-adjacent-real-estate/ 301
+
 # Lane renames: ampersand → 'and' (cleans up double-dash slugs)
 redir /lanes/media-capture--control/ /lanes/media-capture-and-control/ 301
 redir /lanes/digital--tech-capture/ /lanes/digital-and-tech-capture/ 301

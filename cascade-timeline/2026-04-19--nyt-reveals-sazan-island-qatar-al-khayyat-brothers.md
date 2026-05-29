@@ -64,7 +64,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Hidden-Sovereign-Adjacent-Capital Behind Trump-Family Deal
-- Mediterranean Luxury Development / Displacement-Adjacent Real Estate
+- Mediterranean Luxury Development and Displacement-Adjacent Real Estate
 - Foreign-State-Entity Project Structured as Private
 - Qatar-Kushner Sustained Partnership
 ---

@@ -60,7 +60,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Peace-Envoy Family-Business Conflicts
-- Foreign Sovereign Wealth / U.S. Diplomatic Overlap
+- Foreign Sovereign Wealth and U.S. Diplomatic Overlap
 - Private-Credit Real Estate Fund
 ---
 
