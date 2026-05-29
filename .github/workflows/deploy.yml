@@ -1,0 +1,44 @@
+name: Deploy capturecascade.org
+
+# Initial state: manual-trigger only. After the first successful run,
+# switch this to:
+#
+#   on:
+#     push:
+#       branches: [main]
+#     workflow_dispatch:
+#
+# so any push to main auto-deploys. Conservative initial config avoids
+# failed runs piling up in Actions history while SSH secrets are being
+# bootstrapped.
+on:
+  workflow_dispatch:
+
+# Only one deploy at a time. If a second push lands while one is running,
+# the second waits; if a third lands, GitHub cancels the queued second one.
+concurrency:
+  group: deploy-capturecascade
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: SSH to VPS and run deploy.sh
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.CASCADE_DEPLOY_HOST }}
+          username: ${{ secrets.CASCADE_DEPLOY_USER }}
+          key: ${{ secrets.CASCADE_DEPLOY_SSH_KEY }}
+          port: ${{ secrets.CASCADE_DEPLOY_PORT || 22 }}
+          # Fail loudly on any error inside the SSH session.
+          # --no-interactive skips the prune prompt; CI never prunes,
+          # since `docker system prune -af --volumes` would wipe ALL
+          # unused volumes on the shared host (pyrite, demo, etc.).
+          script: |
+            set -euo pipefail
+            cd ~/cascade-kb
+            bash deploy/deploy.sh --no-interactive
+          # Stream output line-by-line so failures show in Actions log.
+          script_stop: true

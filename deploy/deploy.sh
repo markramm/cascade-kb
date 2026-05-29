@@ -12,7 +12,20 @@
 #      at cascade:8088 instead of deploy-pyrite-1:8088
 #   5. reload the front-end Caddy
 #   6. (manual) remove the old pyrite container once verified
+#
+# Flags:
+#   --no-interactive   Skip the disk-prune prompt. Used by CI (GitHub Actions
+#                      → SSH → this script). Never prunes in this mode — handle
+#                      disk cleanup manually when needed.
 set -euo pipefail
+
+NO_INTERACTIVE=0
+for arg in "$@"; do
+  case "$arg" in
+    --no-interactive) NO_INTERACTIVE=1 ;;
+    *) echo "Unknown flag: $arg" >&2; exit 2 ;;
+  esac
+done
 
 cd "$(dirname "$0")/.."
 
@@ -24,9 +37,13 @@ git pull --ff-only
 echo ""
 echo "→ Free up Docker disk before build"
 docker system df
-read -p "  Run 'docker system prune -a' first? (recommended; frees old Pyrite layers) [y/N] " yn
-if [[ "$yn" =~ ^[Yy]$ ]]; then
-  docker system prune -af --volumes
+if [ "$NO_INTERACTIVE" = "1" ]; then
+  echo "  (--no-interactive: skipping prune prompt)"
+else
+  read -p "  Run 'docker system prune -a' first? (recommended; frees old Pyrite layers) [y/N] " yn
+  if [[ "$yn" =~ ^[Yy]$ ]]; then
+    docker system prune -af --volumes
+  fi
 fi
 
 echo ""
