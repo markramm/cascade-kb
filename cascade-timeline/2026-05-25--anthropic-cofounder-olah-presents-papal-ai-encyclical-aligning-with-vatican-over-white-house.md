@@ -40,6 +40,8 @@ sources:
 coverage:
   - url: https://theramm.substack.com/p/augustine-against-augustine
     title: "Augustine Against Augustine"
+  - url: https://theramm.substack.com/p/the-pope-finished-the-sentence
+    title: "The Pope Finished the Sentence"
 ---
 
 On May 25, 2026, **Anthropic co-founder Chris Olah appeared at Pope Leo XIV's side at the Vatican Synod Hall** for the release of the encyclical [[2026-05-25--pope-leo-xiv-magnifica-humanitas-encyclical-disarm-ai-concentration-tech-power|*Magnifica Humanitas*]], jointly calling for a **Church-tech ethics partnership** to build AI safeguards. Olah — a 33-year-old AI-lab leader described as an atheist — told the gathering: **"We need informed critics who will tell the labs when we are failing... We need moral voices that the incentives cannot bend."** The Washington Post headlined the event **"Anthropic aligns with Vatican over White House."** The encyclical itself urges governments, corporations, and individuals to **slow the rate of AI development** and keep it **subject to ethical and political oversight** (WaPo, NCR, RNS).

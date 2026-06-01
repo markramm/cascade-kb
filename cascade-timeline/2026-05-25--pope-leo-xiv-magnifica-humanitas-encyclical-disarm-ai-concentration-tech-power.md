@@ -43,6 +43,8 @@ sources:
 coverage:
   - url: https://theramm.substack.com/p/augustine-against-augustine
     title: "Augustine Against Augustine"
+  - url: https://theramm.substack.com/p/the-pope-finished-the-sentence
+    title: "The Pope Finished the Sentence"
 ---
 
 <!-- PRIMARY TEXT VERIFIED 2026-05-27: full encyclical text obtained from vatican.va (Mark). DATE CORRECTION: the encyclical is SIGNED "15 May... 2026" (dateline: "Given in Rome, at Saint Peter's, on 15 May, in the year 2026"); presented/released ~May 25. This event entry's date (05-25) = presentation; signing = 05-15. Verbatim load-bearing passages now confirmed against primary text — see "Verified verbatim" block below. -->
