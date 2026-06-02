@@ -50,6 +50,10 @@ capture_lanes:
 coverage:
 - url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
   title: "Hegseth Removed The Circuit Breakers"
+- digest: news-headlines-digest-2026-06-02
+  entry: H12
+  note: "Adds ongoing DOJ rebuilding-crisis dimension: nearly 1,000 AUSAs have left their posts, FBI using social media recruitment and abbreviated training for transfers from non-FBI agencies, new DOJ hiring rules allow law graduates with no trial experience to lead federal cases. Sources: PBS News (https://www.pbs.org/newshour/nation/fbi-and-justice-department-try-to-rebuild-after-wave-of-resignations-and-firings) and CNBC (https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html)."
+  processed: '2026-06-02'
 ---
 
 On April 2, 2026, President Trump announced via Truth Social that Attorney General Pam Bondi was out, ending a 14-month tenure marked by aggressive DOJ weaponization that nonetheless failed to deliver the political prosecutions Trump demanded. Deputy Attorney General Todd Blanche—Trump's former personal criminal defense attorney during two federal cases and the New York hush money trial—was named acting Attorney General. EPA Administrator Lee Zeldin is reportedly under consideration as permanent replacement.
