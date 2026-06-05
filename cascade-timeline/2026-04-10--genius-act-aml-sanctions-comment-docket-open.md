@@ -84,9 +84,22 @@ WLTC Holdings LLC, WLF's banking subsidiary, filed for an OCC national trust ban
 
 The most sophisticated form of regulatory capture visible here: WLF, the direct beneficiary of the compliance framework, has not needed to comment because the rule's thresholds appear pre-calibrated to WLF's existing infrastructure. The rule benefits incumbents with institutional-grade trust company backing and BSA programs already in place — exactly what WLF/BitGo/BlackRock already have. New entrants face the compliance overhead; the Trump family's stablecoin gains legitimacy as the de facto compliant baseline. This replicates the [[Powell-articulator-implementor-framing]] pattern: the conditions for capture were laid in the GENIUS Act text (signed while WLF was already operating), and the rulemaking operationalizes what was already designed in.
 
+## Comment record update (2026-06-05 — 4 days to deadline)
+
+**June 3-5 new filings**: Regulations.gov portal and public API return 403/400 to agent access in final comment sprint — direct enumeration of new filings not possible without authenticated session. See `genius-act-comment-docket-update-2026-06-05.md` for full update note.
+
+**Newly confirmed rule parameters**: $5,000 SAR threshold (bank-standard, not $2,000 MSB standard); $3,000 travel rule recordkeeping; $10B cap for state-qualified issuers before federal transition; block/freeze capability required on both primary and secondary markets. Source: ABA Business Law Today (June 2026), King & Spalding client alert.
+
+**Regulatory landscape widening**: FDIC issued parallel GENIUS Act illicit finance proposal in June 2026. Federal Reserve has not yet issued its proposed rule (as of May 2026) — creating asymmetric regulatory clarity favoring OCC-pathway applicants including WLTC Holdings. The multi-agency layering (OCC + FinCEN/OFAC + FDIC + Fed pending) creates compliance complexity that advantages well-resourced incumbents.
+
+**Circle**: Widely expected to seek federal authorization; CPN Managed Payments product (April 2026) is explicitly post-GENIUS Act compliance. No FinCEN docket filing confirmed. **Tether**: Must align BVI-domicile with "comparable standards" certification for US market access; structurally defensive position. No FinCEN docket filing confirmed.
+
+**WLF/Trump-family absence maintained**: No comment filing from any WLF, WLTC Holdings, USD1, or Trump-family entity found in any public record as of June 5, 2026.
+
 ## Open forensic questions (through June 9 deadline)
 
-- Will WLF, WLTC Holdings, or any Trump-adjacent entity file a late comment?
+- **June 5-9 final sprint**: Will WLF, WLTC Holdings, Circle, Tether, or major industry actors file before deadline?
 - Are there ex parte communications between David Sacks / White House crypto office and FinCEN during the comment period?
-- What are the substantive positions in the ABA/BPI joint letter attachment?
+- What are the substantive positions in the ABA/BPI joint letter attachment (filed April 22)?
 - What is the exact RIN for FINCEN-2026-0100?
+- Will the Federal Reserve issue its proposed GENIUS Act rule before the July 18, 2026 final rule statutory deadline?
