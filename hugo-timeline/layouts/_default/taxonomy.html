@@ -52,6 +52,18 @@
       </div>
     </header>
 
+    {{/* ── Editorial bio (receipts-forward) ─────────────────────────────
+         Rendered from content/actors/<slug>/_index.md when one exists.
+         .Content is empty for the ~9,200 actors without a curated bio, so
+         this block simply doesn't render for them. For the curated set it
+         gives the page real, unique, sourced body text (and .Params.summary
+         drives a unique meta description via baseof.html). */}}
+    {{ with .Content }}
+    <section class="actor-bio" aria-label="Profile">
+      {{ . }}
+    </section>
+    {{ end }}
+
     {{/* Visualizations:
          - actors → mini swimlane (one row, lane-colored event markers).
          - decade/lane/tag → mini density bar (events per year).
@@ -188,6 +200,7 @@
           <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
           <td class="title">
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.sources }}<span class="src-badge" title="{{ len . }} cited source{{ if ne (len .) 1 }}s{{ end }}" style="font-family:var(--sans-meta);font-size:11px;color:var(--ink-3);margin-left:8px;white-space:nowrap;">{{ len . }} src</span>{{ end }}
             {{ with .Params.actors }}
             <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;font-weight:400;">
               {{ delimit (first 4 .) " · " }}{{ if gt (len .) 4 }} · +{{ sub (len .) 4 }}{{ end }}
