@@ -106,7 +106,18 @@ This extends and closes the verified-absence monitoring track from: `genius-act-
 | International Bancshares Corporation | April 27, 2026 | Filed with attachment; Mexico-US border corridor bank; substantive position not yet extracted | 1 |
 | Coinbax Inc. | April 22, 2026 | Position not fully extracted | 2 |
 
-Expected final-sprint filers whose docket presence requires post-closure authenticated verification: Circle Internet Financial, Tether, major-bank individual filings (JPMorgan, Visa separate from ABA coalition letter), Better Markets, Americans for Financial Reform, TRM Labs. (See `follow-up-genius-act-aml-comment-capture-post-june-9-authenticated-regulations-gov-enumeration` — post-closure authenticated enumeration task.)
+**Post-closure enumeration update (June 10, 2026)**: Regulations.gov metadata indicates approximately **338 comments** received at docket close — substantially higher than the ~36 pre-closure industry-tracker figure, consistent with a significant final-sprint surge in the June 3–9 window. Direct portal access remains 403-blocked; 338 figure sourced from web-search metadata, not authenticated docket pull.
+
+**Confirmed final-sprint filers (June 9, 2026)** — documented from public web sources:
+
+| Entity | Filing date | Category | Position summary |
+|--------|------------|----------|-----------------|
+| **Paradigm + Hyperliquid Policy Center** (joint) | June 9, 2026 | Crypto VC + DeFi policy | Broadly supports primary-market-centered obligations; opposes extending AML to secondary-market smart contracts; warns rule would push US stablecoins out of DeFi; CEO of Hyperliquid Policy Center: Jake Chervinsky |
+| **TRM Labs** | June 9, 2026 | Blockchain analytics firm | Stablecoins as "compliance opportunity"; supports freeze-burn-reissue safe harbors; advocates AI-generated intelligence as SAR alternative; recommends regulatory recognition of financial intelligence units (T3 FCU) |
+| **Crypto Council for Innovation (CCI)** | June 9, 2026 | Crypto industry trade group | Filed PDF; text not extracted by agent; CCI members include Circle, Coinbase, Fidelity Digital Assets, Grayscale |
+| **Coin Center** | June 9, 2026 | Crypto civil-liberties nonprofit | Opposes monitoring beyond mint/redeem; warns P2P monitoring = "pervasive surveillance"; advocates zero-knowledge proof alternatives |
+
+**Not confirmed in FinCEN docket** (despite expected participation): Circle Internet Financial (possible CCI member filing), Tether (BVI-domiciled; may not have filed separately), Better Markets (filed OCC comment only, May 4), Americans for Financial Reform (no filing confirmed). (See `genius-act-comment-docket-post-closure-2026-06-10.md` for full post-closure enumeration note.)
 
 **Confirmed absent from both primary GENIUS Act rulemakings.** WLF's docket absence at FINCEN-2026-0100 closure creates a now-complete cross-docket verified-absence record: (1) OCC GENIUS Act NPRM (closed May 1, 2026; ~47 organizations filed; WLF absent); (2) FinCEN/OFAC AML/sanctions NPRM (closed June 9, 2026; ~36 comments; WLF absent). Peer operators — Visa, JPMorgan, Coinbase (OCC), ABA/BPI coalition (both dockets) — participated. WLF, the commercially most-exposed entity under both rulemakings, participated in neither public-record comment process.
 
