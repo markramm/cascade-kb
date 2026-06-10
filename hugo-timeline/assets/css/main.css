@@ -750,6 +750,79 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
 }
 .taxonomy-stats strong { color: var(--ox); font-weight: 500; }
 
+/* ─── Actor bio (receipts-forward editorial profile) ───────────
+   Rendered from content/actors/<slug>/_index.md into .actor-bio.
+   Sections: ## Quick facts (bullet list) · ### Key positions (table)
+   · ## Biography (prose) · ## Sources (reference list). */
+.actor-bio {
+  margin: 36px 0 8px;
+  max-width: var(--measure);
+  font-family: var(--serif-body);
+  color: var(--ink-2);
+}
+.actor-bio h2 {
+  font-family: var(--serif-display);
+  font-size: clamp(1.5rem, 2.6vw, 2rem);
+  font-weight: 500; letter-spacing: -0.018em;
+  color: var(--ink);
+  margin: 38px 0 14px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid var(--rule);
+}
+.actor-bio h2:first-child { margin-top: 0; }
+.actor-bio h3 {
+  font-family: var(--mono);
+  font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
+  font-weight: 500; color: var(--ink-3);
+  margin: 26px 0 10px;
+}
+.actor-bio p { margin: 0 0 16px; line-height: 1.62; }
+.actor-bio > ul { list-style: none; margin: 0 0 8px; padding: 0; }
+.actor-bio > ul > li {
+  position: relative;
+  padding: 9px 0 9px 18px;
+  line-height: 1.5;
+  border-bottom: 1px solid var(--paper-edge);
+}
+.actor-bio > ul > li::before {
+  content: ""; position: absolute; left: 0; top: 17px;
+  width: 5px; height: 5px; background: var(--ox);
+}
+.actor-bio > ul > li > strong { color: var(--ox); font-weight: 600; }
+
+/* Key-positions table — echoes the .ledger vocabulary */
+.actor-bio table {
+  width: 100%; border-collapse: collapse; margin: 4px 0 8px;
+}
+.actor-bio th, .actor-bio td {
+  text-align: left; vertical-align: baseline;
+  padding: 11px 14px 11px 0; border-bottom: 1px solid var(--paper-edge);
+}
+.actor-bio th {
+  font-family: var(--mono); font-size: 10px; letter-spacing: 0.16em;
+  text-transform: uppercase; color: var(--ink-3); font-weight: 500;
+  border-bottom: 2px solid var(--rule);
+}
+.actor-bio td { line-height: 1.4; }
+.actor-bio td:last-child {
+  font-family: var(--mono); font-size: 13px; color: var(--ox);
+  white-space: nowrap; width: 1%; padding-right: 0;
+}
+.actor-bio tr:last-child td { border-bottom: none; }
+
+/* Sources — compact reference list with wrapping URLs */
+.actor-bio h2 + ul:last-child,
+.actor-bio h2:last-of-type ~ ul {
+  font-size: 0.92em; color: var(--ink-3);
+}
+.actor-bio a { color: var(--ox); text-decoration: none; word-break: break-word; }
+.actor-bio a:hover { color: var(--ox-hot); text-decoration: underline; }
+
+@media (prefers-color-scheme: dark) {
+  .actor-bio > ul > li,
+  .actor-bio th, .actor-bio td { border-color: var(--plate-edge); }
+}
+
 /* ─── Buttons ──────────────────────────────────────────────── */
 .btn {
   display: inline-flex; align-items: center; gap: 8px;
