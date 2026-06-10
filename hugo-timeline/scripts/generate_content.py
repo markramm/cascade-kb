@@ -1026,13 +1026,25 @@ def write_master_sitemap() -> None:
 
 def main():
     events = []
-    for p in sorted(KB.glob("*.md")):
+    # Load top-level events plus the events/ subdir. The subdir holds events
+    # whose `id` is a bare (date-less) slug; they were previously orphaned —
+    # the build only globbed the top level, so /event/<slug>/ 404'd for them
+    # even though Google had the URLs indexed. parse_kb_event derives the date
+    # from frontmatter, so subdir files publish at /event/<id>/ like the rest.
+    seen_slugs: set[str] = set()
+    for p in sorted(KB.glob("*.md")) + sorted((KB / "events").glob("*.md")):
         if p.name.startswith("_"):
             continue
         ev = parse_kb_event(p)
-        if ev:
-            events.append(ev)
-    print(f"Loaded {len(events)} events from {KB}")
+        if not ev:
+            continue
+        slug = make_slug(ev)
+        if slug in seen_slugs:
+            print(f"  WARN: duplicate slug {slug} ({p}) — skipping")
+            continue
+        seen_slugs.add(slug)
+        events.append(ev)
+    print(f"Loaded {len(events)} events from {KB} (incl. events/ subdir)")
 
     slug_idx = build_slug_index(events)
     print(f"  slug index: {len(slug_idx)} canonical+alias entries")

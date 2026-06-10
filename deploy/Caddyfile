@@ -8,8 +8,36 @@
 # migration. The actual edit is performed by deploy/deploy.sh which patches
 # the running file in place.
 
+# www → non-www, collapsing the legacy plural/section paths in the SAME hop.
+#
+# Why this is more than a host strip: Google's "Not found (404)" report is
+# entirely www URLs of the form www.capturecascade.org/events/<slug>/ (plural).
+# A bare host-strip redirect (redir …{uri}) preserves the plural path, so the
+# URL then needs a SECOND redirect (/events/→/event/) from the inner Caddy —
+# a 2–3 hop chain Google declines to consolidate, leaving the old URL logged
+# as 404. By normalizing the path here we emit a single 301 straight to the
+# canonical non-www singular URL, which consolidates cleanly.
+#
+# Most specific path match first; the final handle is the catch-all host strip.
 www.capturecascade.org {
-    redir https://capturecascade.org{uri} permanent
+    # Legacy plural / section path normalizations → canonical singular.
+    @ev    path_regexp ev    ^/events(/.*)?$
+    @site  path_regexp site  ^/site/cascade-timeline(/.*)?$
+    @siteroot path /site /site/
+
+    handle @site {
+        redir https://capturecascade.org/event{re.site.1} permanent
+    }
+    handle @siteroot {
+        redir https://capturecascade.org/ permanent
+    }
+    handle @ev {
+        redir https://capturecascade.org/event{re.ev.1} permanent
+    }
+    # Everything else: strip www only, preserve path.
+    handle {
+        redir https://capturecascade.org{uri} permanent
+    }
 }
 
 capturecascade.org {

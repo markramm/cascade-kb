@@ -40,3 +40,29 @@ redir /lanes/executive-power--emergency-authority/ /lanes/executive-power-and-em
 # Actor renames: slash-bearing names
 redir /actors/facebook/meta/ /actors/facebook/ 301
 redir /actors/x/twitter/ /actors/x/ 301
+
+# ─────────────────────────────────────────────────────────────────────
+# 2026-06-10 SEO cleanup — tail of GSC "Not found (404)" report.
+#
+# After recovering the 26 orphaned cascade-timeline/events/ entries into the
+# build (generate_content.py now globs the events/ subdir), only these few
+# legacy URLs lack a clean 1:1 target. They were old /site/ actor/index pages
+# that have no standalone page in the new taxonomy. Per the "no obvious target
+# → most relevant section" rule, send them to the section root (real 200),
+# NOT to /q/?search= (a soft-404 Google won't consolidate).
+
+# Old actor pages with no standalone term page → actors index.
+redir /site/cascade-timeline/at-t                          /actors/ 301
+redir /site/cascade-timeline/mckinsey-company              /actors/ 301
+redir /site/cascade-timeline/trump-media-technology-group  /actors/ 301
+
+# Old pseudo-pages → home.
+redir /site/cascade-timeline/homepage        / 301
+redir /site/cascade-timeline/timeline-events / 301
+
+# ─────────────────────────────────────────────────────────────────────
+# Legacy taxonomy pagination — the new Hugo site does not paginate term
+# lists under /<section>/page/N/. Google has these indexed and they 404.
+# Redirect every /<section>/page/N/ to the section root.
+@legacy_pagination path_regexp legacy_pagination ^/(actors|tags|lanes|years|decades|event)/page/[0-9]+/?$
+redir @legacy_pagination /{re.legacy_pagination.1}/ 301
