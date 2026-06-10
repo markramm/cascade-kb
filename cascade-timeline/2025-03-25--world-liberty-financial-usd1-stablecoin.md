@@ -51,5 +51,10 @@ notes: Event highlights complex financial relationships between Trump network an
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
+coverage:
+  - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
+    title: "What World Liberty Didn't Submit"
+    date: '2026-06-06'
+    publication: theramm
 ---
 World Liberty Financial, a cryptocurrency venture co-founded by Trump's associates, announced the launch of USD1, a stablecoin pegged 1-to-1 to the U.S. dollar. The launch involves a strategic partnership with Binance and a $75 million investment from Justin Sun, raising significant concerns about potential conflicts of interest and regulatory compliance.

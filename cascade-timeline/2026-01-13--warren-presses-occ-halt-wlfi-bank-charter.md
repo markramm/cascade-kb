@@ -29,6 +29,11 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Systematic Corruption
+coverage:
+  - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
+    title: "What World Liberty Didn't Submit"
+    date: '2026-06-06'
+    publication: theramm
 ---
 
 On January 13, 2026 — six days after World Liberty Financial's WLTC Holdings LLC subsidiary filed its OCC national trust bank charter application — Senate Banking Committee ranking member Elizabeth Warren sent a formal letter to Comptroller of the Currency Jonathan Gould demanding that the OCC halt review of the application until President Trump "divests from the company and eliminates all financial conflicts of interest involving himself, his family, or the company."

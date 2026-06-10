@@ -47,6 +47,11 @@ capture_lanes:
 - Intelligence Penetration
 notes: Event from comprehensive kleptocracy timeline tracking. Involves significant
   regulatory changes benefiting Trump's personal financial interests.
+coverage:
+  - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
+    title: "What World Liberty Didn't Submit"
+    date: '2026-06-06'
+    publication: theramm
 ---
 
 President Trump signed the GENIUS Act (Guiding and Establishing National Innovation for US Stablecoins Act), creating the first federal regulatory system for stablecoins. The legislation requires 100% reserve backing and monthly public disclosures, simultaneously establishing a legal framework that benefits World Liberty Financial's USD1 stablecoin, a venture partially owned by the Trump family.
