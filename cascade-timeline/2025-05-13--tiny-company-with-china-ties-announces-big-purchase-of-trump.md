@@ -39,8 +39,11 @@ connections:
 - Cryptocurrency market manipulation
 patterns:
 - kleptocratic-capture
-notes: Source diversity is limited. No Reuters/AP coverage found. Requires further verification.
+notes: "COMPLETION STATUS: $300M BVI commitment never drawn at scale. TRUMP token purchase NEVER executed (not in any GDC SEC filing through Q1 2026). Actual crypto executed: 7,500 BTC acquired via related-party Pallas Capital (BVI) deal in September 2025 — sellers Zhang Binyang (PRC, Wealthy Concord Ltd) + Cui Runan (PRC, East Valley Technology Ltd), both pre-existing GDC minority shareholders. BVI investor identity in original May agreement remains undisclosed (non-public registry). See 2025-09-29--gd-culture-pallas-capital-btc-acquisition-bvi-related-party for completion audit."
 capture_lanes:
 - Regulatory Capture
+- International Kleptocracy
 ---
 GD Culture Group, a small Nasdaq-traded technology company with ties to China, announced plans to purchase up to $300 million in Bitcoin and $TRUMP cryptocurrency. The investment comes amid financial challenges for the company, including a Nasdaq delisting warning and a $14.1 million net loss in 2024. The purchase involves selling common stock to an unnamed British Virgin Islands entity, raising questions about foreign influence and potential conflicts of interest.
+
+**Completion audit (2026-06-11)**: The announced $300M BVI commitment was never drawn down at scale — only ~$4.5M in gross proceeds from related facilities appear in subsequent SEC filings. No TRUMP memecoin purchase appears in any GDC filing through Q1 2026. The crypto acquisition that did execute (September 2025) was 7,500 Bitcoin via a related-party deal with Chinese national investors Zhang Binyang and Cui Runan through their BVI vehicle Pallas Capital. The identity of the original anonymous BVI investor from the May 2025 agreement remains undisclosed in public sources.
