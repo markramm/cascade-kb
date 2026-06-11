@@ -45,6 +45,11 @@ sources:
     outlet: CoinDesk
     date: '2026-04-22'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
+    title: "What World Liberty Didn't Submit"
+    date: '2026-06-06'
+    publication: theramm
 ---
 
 ## Event

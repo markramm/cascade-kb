@@ -44,6 +44,10 @@ coverage:
     title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
     date: '2026-05-16'
     publication: theramm
+  - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
+    title: "What World Liberty Didn't Submit"
+    date: '2026-06-06'
+    publication: theramm
 ---
 
 On February 9, 2026, the National Community Reinvestment Coalition (NCRC) and Americans for Financial Reform Education Fund (AFREF) both filed formal public-comment letters with the OCC opposing the WLTC Holdings, LLC application (OCC docket 2026-Charter-344521; regulations.gov docket OCC-2026-0100-0004) to establish World Liberty Trust Company, National Association.
