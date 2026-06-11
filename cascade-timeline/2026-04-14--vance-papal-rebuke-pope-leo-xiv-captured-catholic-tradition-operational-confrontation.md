@@ -53,6 +53,41 @@ sources:
     publisher: Mediaite / Yahoo News
     date: '2026-04-14'
     tier: 2
+  - title: "WATCH LIVE: This Is the Turning Point Tour ft. Vice President JD Vance (Athens GA, April 14 2026)"
+    url: https://www.youtube.com/watch?v=FQw9q6U820Q
+    publisher: Turning Point USA (YouTube, official TPUSA channel)
+    date: '2026-04-14'
+    tier: 0
+    note: "Primary video recording of the full Athens event. Source for all TPUSA-speech quotes verified against this recording."
+  - title: "VP Vance Delivers Remarks for Turning Point USA at the University of Georgia"
+    url: https://www.c-span.org/event/public-affairs-event/vp-vance-delivers-remarks-for-turning-point-usa-at-the-university-of-georgia/442147
+    publisher: C-SPAN (event #442147 / program #677365)
+    date: '2026-04-14'
+    tier: 0
+    note: "C-SPAN recording. Page redirects to TollBit paywall (HTTP 402); content not directly fetchable without subscription."
+  - title: "Remarks: JD Vance Joins a Town Hall-Style Turning Point Event in Athens, Georgia — April 14, 2026"
+    url: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-jd-vance-turning-point-usa-athens-georgia-april-14-2026/
+    publisher: Roll Call / Factbase
+    date: '2026-04-14'
+    tier: 1
+    note: "Full transcript (628 sentences, 9,597 words, ~3,095 seconds). Confirms 'be careful when he talks about matters of theology' passage."
+  - title: "Turning Point USA J.D. Vance Georgia transcript"
+    url: https://www.rev.com/transcripts/vance-speaks-at-tpusa-event
+    publisher: Rev.com
+    date: '2026-04-14'
+    tier: 1
+    note: "Full transcript of Athens TPUSA event. Confirms verbatim wording of 'be careful' passage."
+  - title: "JD Vance tells Pope Leo XIV to 'stick to matters of morality' and stay out of US public policy"
+    url: https://www.foxnews.com/media/jd-vance-tells-pope-leo-xiv-stick-matters-morality-stay-us-public-policy
+    publisher: Fox News
+    date: '2026-04-14'
+    tier: 2
+    note: "SEPARATE statement from Bret Baier Fox News interview (April 13-14), NOT from the TPUSA speech. Quote: 'I certainly think that in some cases, it would be best for the Vatican to stick to matters of morality, and let the President of the United States stick to dictating American public policy.'"
+  - title: "In Athens, VP Vance continues administration's verbal sparring with Pope: 'Be careful when he talks about matters of theology'"
+    url: https://www.11alive.com/article/news/politics/jd-vance-comments-athens-georgia-tpusa-event-pope-leo/85-323e8c6f-ff8a-40ca-9e6c-6c195e0a6ade
+    publisher: 11Alive (Atlanta NBC affiliate)
+    date: '2026-04-14'
+    tier: 1
   - title: "To Members of the Synod of Bishops of the Chaldean Church of Baghdad (10 April 2026)"
     url: https://www.vatican.va/content/leo-xiv/en/speeches/2026/april/documents/20260410-chiesa-baghdad-caldei.html
     publisher: The Holy See (primary text)
@@ -104,6 +139,8 @@ coverage:
   - url: https://theramm.substack.com/p/augustine-against-augustine
     title: "Augustine Against Augustine"
 ---
+
+**Source verification note (2026-06-11):** Primary recording confirmed at TPUSA YouTube channel (https://www.youtube.com/watch?v=FQw9q6U820Q — "WATCH LIVE: This Is the Turning Point Tour ft. Vice President JD Vance") and C-SPAN event #442147 (c-span.org; C-SPAN page redirects to TollBit paywall, not directly fetchable). Full transcript confirmed via Roll Call/Factbase (rollcall.com/factbase/trump/transcript/donald-trump-remarks-jd-vance-turning-point-usa-athens-georgia-april-14-2026/ — 628 sentences, 9,597 words) and Rev.com (rev.com/transcripts/vance-speaks-at-tpusa-event). The verbatim quote in this entry ("it's very, very important for the pope to be careful when he talks about matters of theology") is confirmed as an accurate partial quote from the longer passage: "I think it's important, in the same way that it's important for the vice president of the United States to be careful when I talk about matters of public policy, I think it's very, very important for the pope to be careful when he talks about matters of theology." (Multiple Tier-1/2 outlets citing TPUSA YouTube recording.) Additional confirmed TPUSA-speech quotes: "Was God on the side of the Americans who liberated France from the Nazis? Was God on the side of the Americans who liberated Holocaust camps?" — "How can you say that God is never on the side of those who wield the sword?" — "if you're going to opine on matters of theology, you've got to be careful. You've got to make sure it's anchored in the truth." — "I like it when the Pope talks about matters of war and peace... it invites a conversation." IMPORTANT DISTINCTION: The quote "I certainly think that in some cases, it would be best for the Vatican to stick to matters of morality, and let the President of the United States stick to dictating American public policy" is from a SEPARATE Fox News "Special Report with Bret Baier" interview on April 13-14, NOT from the Athens TPUSA speech; cited in sources above for disambiguation.
 
 On April 14, 2026, Vice President JD Vance appeared at a Turning Point USA event at the University of Georgia in Athens, Georgia and publicly rebuked Pope Leo XIV on theological grounds, warning that "it's very, very important for the pope to be careful when he talks about matters of theology." Vance invoked "the more than 1,000-year tradition of just war theory" to challenge the pontiff's teaching that "whoever is a disciple of Christ, the Prince of Peace, never stands on the side of those who yesterday wielded the sword and today drop bombs" — a statement Pope Leo had made on April 10 when addressing Chaldean Catholic bishops in Rome (primary text: vatican.va/content/leo-xiv/en/speeches/2026/april/documents/20260410-chiesa-baghdad-caldei.html), amplified on the Vatican's official @Pontifex account on X (x.com/Pontifex/status/2042588417578668338). The @Pontifex post condensed the wording slightly to: "God does not bless any conflict. Anyone who is a disciple of Christ, the Prince of Peace, is never on the side of those who once wielded the sword and today drop bombs." The next day, Auxiliary Bishop James Massa of Brooklyn, chairman of the U.S. Conference of Catholic Bishops' Committee on Doctrine, issued a corrective statement on April 15 clarifying that "when Pope Leo XIV speaks as supreme pastor of the universal Church, he is not merely offering opinions on theology, he is preaching the Gospel," and that the thousand-year just-war tradition Vance invoked actually requires that "a nation can only legitimately take up the sword 'in self-defense, once all peace efforts have failed.'" White House border czar Tom Homan amplified the administration's position on the same day, telling reporters that the Catholic Church should "stay out of politics."
 
