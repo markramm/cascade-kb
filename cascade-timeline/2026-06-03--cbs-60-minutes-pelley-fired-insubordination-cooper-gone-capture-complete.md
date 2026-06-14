@@ -42,3 +42,4 @@ The Pelley firing is Phase 5 in the Paramount-Skydance editorial capture sequenc
 
 ---
 <!-- digest_provenance: news-headlines-digest-2026-06-05, H2 -->
+<!-- coverage: news-headlines-digest-2026-06-14-full-lane-sweep, H8 — duplicate-path; events already documented across 2026-06-01, 2026-06-03, 2026-06-08 entries; no new entry written (2026-06-14) -->
