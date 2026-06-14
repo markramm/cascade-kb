@@ -81,6 +81,10 @@ coverage:
     title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
     date: '2026-05-16'
     publication: theramm
+  - url: https://theramm.transparencycascade.org/p/caesars-stablecoin
+    title: "Caesar's Stablecoin?"
+    date: '2026-06-14'
+    publication: second-sermon
 ---
 
 ## Opening paragraph

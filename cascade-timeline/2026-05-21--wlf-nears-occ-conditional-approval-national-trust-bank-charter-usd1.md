@@ -33,6 +33,11 @@ sources:
     publisher: The Hill
     date: '2026-05-21'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/caesars-stablecoin
+    title: "Caesar's Stablecoin?"
+    date: '2026-06-14'
+    publication: second-sermon
 ---
 
 World Liberty Financial co-founder Zach Witkoff said on or around May 21, 2026 that the Trump-family crypto firm is in "the final stages of receiving conditional approval" for the national trust bank charter it sought through WLTC Holdings LLC, whose application was filed with the Office of the Comptroller of the Currency on January 7, 2026. The charter — under OCC supervision — would let WLF custody and issue its USD1 stablecoin (which reached $3.3 billion in circulation since its March 2025 launch) and access national payment networks, converting the venture into a federally chartered trust bank with Witkoff as proposed president and chairman. The advance follows the OCC's 12 CFR 5.20 trust-bank chartering rule taking effect April 1, 2026, and the lapse of the OCC's 120-day decision window on May 7, 2026 with no decision then announced.
