@@ -55,6 +55,11 @@ sources:
     publisher: Nextgov/FCW
     date: '2026-06-13'
     tier: 1-equivalent
+coverage:
+  - digest: news-headlines-digest-2026-06-14-full-lane-sweep
+    entry: H3
+    processed: '2026-06-14'
+    note: 'Digest entry H3 absorbed; existing entry written by prior worker (2026-06-14T16:05Z); no new facts to merge — digest sources NBC/Time/Fortune/Anthropic already in entry; digest NBC/Fortune URLs confirmed present.'
 ---
 
 On June 12, 2026, at 5:21 p.m. ET, Commerce Secretary Howard Lutnick sent Anthropic CEO Dario Amodei a directive designating the company's two most capable AI models — **Fable 5 and Mythos 5**, launched just three days earlier on June 9 — as subject to export controls "in all locations outside the US and for all foreign nationals inside the country," including Anthropic's own foreign-national employees. Because Anthropic cannot distinguish foreign nationals from US citizens in real time, it disabled both models for *all* customers worldwide to ensure compliance. Per Anthropic's own statement: "We received the directive from the government today at 5:21pm (ET)... we must abruptly disable Fable 5 and Mythos 5 for **all** our customers." This is the first known case of a commercially deployed AI model being halted through direct federal intervention. The stated rationale: an unnamed competitor (Axios) alerted Commerce that it had "jailbroken" Mythos; Anthropic's understanding is that the government objected to a narrow Fable 5 bypass method (prompts asking the model to read a specific codebase and fix flaws). Commerce kept the demonstration, assessment, and letter secret — the order rests on classified evidence unavailable for independent review. Anthropic objected that "the finding of a narrow potential jailbreak should [not] be cause for recalling a commercial model deployed to hundreds of millions of people," noted OpenAI's GPT-5.5 identifies the same weaknesses without any bypass, and stated the action "does not adhere to" transparent, fair-process principles while complying.
