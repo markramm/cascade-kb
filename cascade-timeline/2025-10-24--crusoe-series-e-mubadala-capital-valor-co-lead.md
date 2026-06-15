@@ -5,6 +5,7 @@ type: timeline_event
 date: '2025-10-24'
 location: "Denver, CO (Crusoe HQ); Abu Dhabi (Mubadala Capital)"
 importance: 9
+status: confirmed
 era: "trump-2-year-one"
 actors:
   - lochmiller-chase

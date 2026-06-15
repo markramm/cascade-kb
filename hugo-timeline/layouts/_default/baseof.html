@@ -56,14 +56,22 @@
 <meta name="twitter:image" content="{{ $ogImage | absURL }}">
 
 {{- /* ── Robots: noindex thin pages.
-       Term pages (actors, tags) with fewer than 3 events are flagged as
-       noindex,follow — Google still crawls links out, but the thin term page
-       itself doesn't enter the index. Year, decade, and lane terms are always
-       indexed since they're structured navigational surfaces. */ -}}
+       Term pages with too few events are flagged noindex,follow — Google still
+       crawls links out, but the thin term page itself doesn't enter the index.
+         · actors / tags  → noindex below 3 events
+         · lanes          → noindex below 5 events. Lanes are NOT a small curated
+           hub set: the timeline has accreted ~331 auto-generated lane terms, 240
+           of them with ≤2 events — hyper-specific analytical micro-tags, not
+           navigational surfaces. Only the ~65 lanes with 5+ events are real hubs
+           worth indexing; the rest are thin-content duplicates (they inherit the
+           sitewide meta description). Year/decade terms are always indexed. */ -}}
 {{- $noindex := false -}}
 {{- if .Params.noindex -}}{{- $noindex = true -}}{{- end -}}
 {{- if and (eq .Kind "term") (or (eq .Type "actors") (eq .Type "tags")) -}}
   {{- if lt (len .Pages) 3 -}}{{- $noindex = true -}}{{- end -}}
+{{- end -}}
+{{- if and (eq .Kind "term") (eq .Type "lanes") -}}
+  {{- if lt (len .Pages) 5 -}}{{- $noindex = true -}}{{- end -}}
 {{- end -}}
 {{- if $noindex }}
 <meta name="robots" content="noindex,follow">

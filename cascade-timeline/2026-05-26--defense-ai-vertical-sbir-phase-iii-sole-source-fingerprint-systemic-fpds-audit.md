@@ -64,7 +64,9 @@ sources:
 capture_lanes:
   - Defense Procurement Capture
   - Regulatory Capture
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/the-91-percent
+    title: "The 91 Percent"
 ---
 
 ## Opening

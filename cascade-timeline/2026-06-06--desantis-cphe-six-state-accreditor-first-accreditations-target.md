@@ -5,6 +5,7 @@ date: '2026-06-06'
 date_range: '2026-06-06 to 2026-06-09'
 lane: higher-ed-media-capture
 importance: 8
+status: confirmed
 tier: 1-equivalent
 pattern: coalition-event
 named_actors:

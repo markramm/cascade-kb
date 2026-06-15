@@ -44,7 +44,9 @@ capture_lanes:
   - Procurement capture
   - Personnel pipeline
   - Surveillance infrastructure
-coverage: []
+coverage:
+  - url: https://theramm.substack.com/p/the-recusal-that-wasnt
+    title: "The Recusal That Wasn't"
 ---
 
 ## Opening

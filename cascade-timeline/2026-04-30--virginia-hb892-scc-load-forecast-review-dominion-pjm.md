@@ -3,6 +3,7 @@ type: timeline_event
 date: 2026-04-30
 title: Virginia Enacts HB 892 Mandating SCC Investigation of Dominion Load Forecasting Methodology, Authorizes PJM Coordination
 importance: 7
+status: confirmed
 tags:
   - investigation-6
   - virginia

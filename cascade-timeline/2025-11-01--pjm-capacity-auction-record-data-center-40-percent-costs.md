@@ -3,6 +3,7 @@ type: timeline_event
 id: 2025-11-01--pjm-capacity-auction-record-data-center-40-percent-costs
 date: 2025-11-01
 importance: 8
+status: confirmed
 title: "PJM December 2025 capacity auction hits record $333/MW-day; data centers account for 40% ($6.5B) of total $16.4B cost"
 location: 'PJM Interconnection region, Eastern United States'
 actors:

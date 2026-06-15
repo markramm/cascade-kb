@@ -3,6 +3,7 @@ type: timeline_event
 id: 2025-02-01--core-scientific-590mw-coreweave-conversion-miner-to-ai-pivot
 date: 2025-02-01
 importance: 8
+status: confirmed
 title: "Core Scientific / CoreWeave HPC conversion reaches 590 MW across six sites, $10.2B over 12 years — landmark Bitcoin-miner-to-AI-infrastructure pivot"
 location: 'Multiple US sites (Core Scientific facilities; specific locations Texas, South Carolina, North Dakota, and others)'
 actors:

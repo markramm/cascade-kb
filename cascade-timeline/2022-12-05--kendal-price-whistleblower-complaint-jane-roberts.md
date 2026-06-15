@@ -4,6 +4,7 @@ id: 2022-12-05--kendal-price-whistleblower-complaint-jane-roberts
 date: 2022-12-05
 title: Kendal Price Files Whistleblower Complaint on Jane Roberts Commission Income and Chief Justice Non-Recusal
 importance: 8
+status: confirmed
 capture_lanes:
   - Judicial Capture
   - Systematic Corruption

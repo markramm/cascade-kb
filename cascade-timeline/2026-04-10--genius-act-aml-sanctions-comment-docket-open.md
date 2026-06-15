@@ -3,6 +3,7 @@ type: timeline_event
 id: 2026-04-10--genius-act-aml-sanctions-comment-docket-open
 date: 2026-04-10
 importance: 8
+status: confirmed
 title: FinCEN/OFAC open GENIUS Act AML/sanctions NPRM docket — WLF-benefiting rule enters comment period
 location: Washington, DC
 actors:

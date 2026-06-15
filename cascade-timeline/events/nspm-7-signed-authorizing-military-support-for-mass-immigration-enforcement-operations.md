@@ -1,22 +1,39 @@
 ---
 id: nspm-7-signed-authorizing-military-support-for-mass-immigration-enforcement-operations
-title: NSPM-7 Signed Authorizing Military Support for Mass Immigration Enforcement Operations
+title: Militarization of Immigration Enforcement — Genealogy [CORRECTED from NSPM-7 mis-attribution]
 type: timeline_event
 tags:
-- immigration-enforcement
-- immigration
 - ice
+- immigration-enforcement
 - executive-power
-- authoritarianism
-- constitutional-crisis
+- militarization
 - military-industrial-complex
-- executive-order
-date: '2025-09-25'
+- authoritarianism
+- correction
+- needs-reanchor
 importance: 10
+date: '2025-09-25'
+status: confirmed
+verification_status: unverified
 ---
 
-President Trump signs National Security Presidential Memorandum 7 (NSPM-7), a classified directive that authorizes the use of military resources, personnel, and infrastructure in support of domestic immigration enforcement operations. The memorandum, whose full text remains classified, reportedly empowers the Department of Defense to provide logistical support, surveillance capabilities, detention facilities, and personnel to ICE and CBP operations targeting immigrant communities across the United States.
+> **EDITORIAL CORRECTION — reconciliation, June 2026.** This entry previously asserted that NSPM-7 is a *classified* directive "authorizing military support for mass immigration enforcement." Both halves are inaccurate: (1) **NSPM-7 is not classified** — its full text is published at whitehouse.gov; and (2) **NSPM-7 is the domestic-terrorism / ideological-targeting directive** ("Countering Domestic Terrorism and Organized Political Violence"), documented and sourced at [[2025-09-25--nspm-7-domestic-terrorism-targets-anti-capitalist-beliefs]]. The militarization-of-immigration-enforcement *genealogy* below is analytically sound but was anchored to the wrong instrument. It is preserved here, de-anchored from NSPM-7, and should be treated as **draft / unsourced** pending re-anchoring to the correct authorities listed at the end.
 
-NSPM-7 represents the formal militarization of immigration enforcement—the legal framework that transforms what had been a civilian law enforcement function into a national security operation with military backing. The memorandum's classified status prevents public scrutiny of its scope, but its operational effects become visible in the months following its signing: military bases are repurposed as detention facilities, military aircraft are used for deportation flights, and the operational tempo and scale of immigration enforcement escalates dramatically.
+---
 
-The historical significance of NSPM-7 lies in its completion of the institutional arc that begins with the Border Patrol's founding in 1924. The agency born from Texas Rangers and Klansmen, which conducted Operation Wetback as a quasi-military operation in 1954, which deployed its tactical units against Portland protesters in 2020, now receives the formal backing of the United States military for domestic operations against immigrant communities. The classified nature of the memorandum itself extends the collective punishment tradition: communities targeted by military-backed enforcement operations cannot know the legal authority under which they are being targeted, cannot challenge rules of engagement they cannot read, and cannot hold the government accountable for operations conducted under classified authorization.
+## Militarization of immigration enforcement — genealogical analysis
+
+The formal militarization of immigration enforcement transforms what had been a civilian law-enforcement function into a national-security operation with military backing. Its operational signatures: military installations repurposed as detention facilities, military aircraft used for deportation flights, and a sharp escalation in the tempo and scale of enforcement.
+
+The institutional arc begins with the Border Patrol's founding in 1924 — an agency drawn from Texas Rangers and Klansmen — runs through Operation Wetback as a quasi-military operation in 1954 and the deployment of tactical units against Portland protesters in 2020, and arrives at the present formal backing of U.S. military resources for domestic operations against immigrant communities. Where that backing is granted under classified or non-transparent authority, it extends the collective-punishment tradition: targeted communities cannot know the legal authority under which they are pursued, cannot challenge rules of engagement they cannot read, and cannot hold the government accountable for operations conducted under sealed authorization.
+
+## Correct legal anchors (to source)
+
+The military backing described above does **not** run through NSPM-7. The instruments to document and source here instead include:
+
+- The January 2025 border-security executive order directing DoD military deployment to the southern border.
+- NSPM-4 / National Defense Areas (Roosevelt Reservation) — see [[2025-04-11--nspm-4-national-defense-area-roosevelt-reservation-first-designation]].
+- WEXMAC-TITUS, the Navy's domestic detention-procurement vehicle — see [[2025-07-08--wexmac-titus-navy-detention-contract-activation]].
+- Repurposing of military installations as detention facilities; military aircraft for deportation flights.
+
+Once re-anchored and sourced, this genealogy is a natural fit for the carceral / "new colonialism" lane rather than as a standalone NSPM-7 timeline event. The 2025-09-25 date was inherited from the NSPM-7 mis-attribution and should be reset when re-anchored.

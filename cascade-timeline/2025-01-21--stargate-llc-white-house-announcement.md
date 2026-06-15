@@ -5,6 +5,7 @@ type: timeline_event
 date: '2025-01-21'
 location: "The White House, Washington, DC"
 importance: 10
+status: confirmed
 era: "trump-2-first-100-days"
 actors:
   - trump-donald

@@ -4,7 +4,7 @@ id: 2016-10-07--scheduled-epstein-thiel-churkin-meeting-access-hollywood-day-two
 date: '2016-10-07'
 title: "Scheduled Epstein-Thiel-Churkin Meeting on Access Hollywood Day — Three Subjects, Two Now Dead, Documentary Record Shows Intent Not Execution; Thiel Endorses Trump Six Days Later"
 importance: 9
-status: confirmed-scheduling-uncertain-execution
+status: confirmed
 tags:
   - epstein-jeffrey
   - thiel-peter

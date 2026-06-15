@@ -3,6 +3,7 @@ type: timeline_event
 title: "Sberbank sells controlling stake in Sber Real Estate Funds days before SDN designation"
 date: 2022-04-01
 importance: 7
+status: confirmed
 tags: [sberbank, sfn, sber-fondy-nedvizhimosti, modern-real-estate-funds, ofac, sanctions, ao-start, fond-modern, pnk-group, russian-capital-exit]
 participants: [Sberbank, SB Blagosostoyanie LLC, AO Start, Fond Modern, Ekaterina Chernykh, Alexander Khrameshkin, Dmitry Mamatov]
 sources:
