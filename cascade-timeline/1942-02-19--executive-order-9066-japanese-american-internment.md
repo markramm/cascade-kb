@@ -18,6 +18,11 @@ tags:
 - constitutional-violation
 - property-seizure
 - wartime-repression
+- detention-industrial
+- mass-detention-without-due-process
+- executive-detention-template
+- immigration-detention-ancestor
+- criminalize-then-monetize
 sources:
 - title: Executive Order 9066 - National Archives
   url: https://www.archives.gov/milestone-documents/executive-order-9066
@@ -41,6 +46,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion
+- Detention Industrial Complex
 ---
 
 President Franklin D. Roosevelt signs Executive Order 9066 on February 19, 1942, authorizing the Secretary of War and military commanders to designate "military areas" from which "any or all persons may be excluded." Though the order never mentions Japanese Americans by name, its application becomes clear within weeks as the War Relocation Authority begins the forced removal of approximately 120,000 people of Japanese ancestry, two-thirds of whom are American citizens, from the West Coast to inland concentration camps.
@@ -52,3 +58,5 @@ The forced removal requires Japanese Americans to abandon homes, businesses, and
 Conditions in the ten War Relocation Authority camps are harsh: families live in tar-paper barracks behind barbed wire, guarded by armed soldiers. The camps are located in remote, inhospitable areas including deserts in Arizona and California, and swamplands in Arkansas. Despite their imprisonment, over 33,000 Japanese Americans serve in the U.S. military during the war, including the highly decorated 442nd Regimental Combat Team.
 
 Executive Order 9066 establishes a dangerous precedent for executive detention without due process based on race and national origin. The order remains in effect until 1976. In 1988, President Reagan signs the Civil Liberties Act formally apologizing and providing $20,000 in reparations to surviving internees, though this amount is a fraction of actual losses suffered.
+
+**Structural ancestor note (executive detention template):** EO 9066 establishes the three-mechanism template that reappears in 2025-26 ICE detention: (1) executive order bypassing legislative authorization, (2) mass detention of a targeted ethnic group without individual adjudication, (3) military/security framing used to suspend due-process norms. The War Relocation Authority's network of ten remote camps is the direct institutional ancestor of the 2025-26 warehouse buildout — geographically isolated facilities designed to prevent legal access. See: [[1944-12-18--korematsu-v-united-states-supreme-court-upholds-internment]], [[2025-01-08--gsa-secret-lease-gilroy-holsclaw-ice-detention-elmwood-capital-ecg6-llc]], [[detention-three-layer-enforcement-architecture-transfer-opacity-coercive-conditions-fifth-circuit-forum-shopping-2026]].

@@ -18,6 +18,10 @@ tags:
 - corporate-lobbying
 - institutional-capture
 - reagan-era
+- detention-industrial
+- criminalize-then-monetize
+- per-diem-model-ancestor
+- immigration-detention-financialization
 sources:
 - title: CoreCivic
   url: https://en.wikipedia.org/wiki/CoreCivic
@@ -38,6 +42,7 @@ status: confirmed
 capture_lanes:
 - Democratic Erosion
 - Systematic Corruption
+- Detention Industrial Complex
 ---
 
 Thomas W. Beasley (chairman of the Tennessee Republican Party), Robert Crants, and T. Don Hutto found Corrections Corporation of America (CCA) in Nashville, Tennessee, creating the first modern for-profit prison company. After a 15-minute presentation on Valentine's Day 1983, Massey Burch Investment Group—the venture capital firm that backed Hospital Corporation of America and Kentucky Fried Chicken—invests $500,000 in the concept of privatized incarceration.

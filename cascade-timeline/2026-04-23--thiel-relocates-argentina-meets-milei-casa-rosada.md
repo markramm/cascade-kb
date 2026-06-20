@@ -50,6 +50,9 @@ sources:
 capture_lanes:
   - Systematic Corruption
   - Democratic Erosion
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-power-the-pope-warned-about-has
+    title: "The Power the Pope Warned About Has a Guest List"
 ---
 
 On April 23, 2026, Argentine President Javier Milei received Peter Thiel at the Casa Rosada, with Foreign Minister Pablo Quirno present, after what Argentine outlets described as a week of private contacts between Thiel and the Milei government. In the days before the meeting Thiel had lunch with Santiago Caputo (a top personal adviser to Milei) and attended a dinner at the home of Deregulation and State Transformation Minister Federico Sturzenegger, alongside Quirno and economist Lucas Llach. Milei publicly called the meeting "wonderful" and said the two discussed sustaining Argentina's austerity program and ensuring "liberal and libertarian ideas endure beyond his presidency." Thiel had reportedly bought a roughly **$12 million mansion in Barrio Parque**, an exclusive Buenos Aires district, and temporarily relocated his family — enrolling his children in a local school for a planned stay of about two months.

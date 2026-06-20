@@ -51,6 +51,9 @@ sources:
 capture_lanes:
   - Systematic Corruption
   - Democratic Erosion
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-power-the-pope-warned-about-has
+    title: "The Power the Pope Warned About Has a Guest List"
 ---
 
 On June 16, 2026, WIRED published a verified account of a data leak exposing the membership of **Dialog**, the invitation-only society Peter Thiel co-founded in **2006** to convene U.S. officials, foreign-government figures, and Silicon Valley executives at off-the-record annual retreats. The exposure was not a sophisticated hack: Swiss hacktivist **maia arson crimew**, acting on an anonymous tip, found a member/affiliate directory left readable in the **HTML source code of Dialog's own website**. A source separately provided WIRED with the registration list for Dialog's **2026 retreat — 222 people**, scheduled for **August 12–16 at the Powerscourt Hotel outside Dublin, Ireland**. (The Stanford Daily, working from one leaked document, counted 113 named affiliates.)

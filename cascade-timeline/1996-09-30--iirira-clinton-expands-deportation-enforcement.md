@@ -14,6 +14,11 @@ tags:
 - retroactive-punishment
 - due-process
 - expedited-removal
+- detention-industrial
+- criminalize-then-monetize
+- mandatory-detention-mandate
+- aggravated-felony-pipeline
+- expedited-removal-ancestor
 sources:
 - title: Illegal Immigration Reform and Immigrant Responsibility Act of 1996
   url: https://www.law.cornell.edu/wex/illegal_immigration_reform_and_immigration_responsibility_act
@@ -33,6 +38,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
+- Detention Industrial Complex
 ---
 
 President Bill Clinton signs the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA), dramatically expanding deportation authority and creating new categories of removable offenses. The law increases annual deportations from approximately 50,000 to over 200,000 by the early 2000s, fundamentally transforming immigration enforcement from a civil administrative system into a quasi-criminal apparatus. Clinton asserts the legislation strengthens "the rule of law by cracking down on illegal immigration at the border, in the workplace, and in the criminal justice system—without punishing those living in the United States legally," though its implementation produces extensive collateral consequences for legal residents.

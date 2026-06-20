@@ -16,6 +16,10 @@ tags:
 - mandatory-minimum
 - due-process
 - criminal-justice
+- detention-industrial
+- criminalize-then-monetize
+- crimmigration-origin
+- aggravated-felony-pipeline
 sources:
 - title: Anti-Drug Abuse Act of 1988
   url: https://www.congress.gov/bill/100th-congress/house-bill/5210
@@ -36,6 +40,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 - Legislative Capture
+- Detention Industrial Complex
 ---
 
 President Ronald Reagan signs the Anti-Drug Abuse Act of 1988, introducing the "aggravated felony" concept into immigration law for the first time. Initially defined narrowly to include murder, federal drug trafficking, and illicit trafficking in certain firearms or destructive devices, the category carries severe immigration consequences including mandatory detention, deportation without possibility of relief, and permanent bars to future entry. The law merges the War on Drugs with immigration enforcement, creating legal infrastructure that subsequent legislation dramatically expands to encompass a vast array of offenses bearing no relationship to the original categories.

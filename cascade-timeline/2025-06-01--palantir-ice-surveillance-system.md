@@ -44,6 +44,8 @@ coverage:
     date: '2026-02-27'
     publication: theramm
     note: "Describes how removing Anthropic's mass-surveillance guardrails would give Palantir's ImmigrationOS 'a brain' — AI-enabled targeting without constitutional friction"
+  - url: https://theramm.transparencycascade.org/p/the-power-the-pope-warned-about-has
+    title: "The Power the Pope Warned About Has a Guest List"
 ---
 
 Palantir Technologies received a $30 million contract to deliver ImmigrationOS, an AI platform that integrates previously-segregated government databases including IRS tax records, Social Security files, passport records, and license-plate reader data for immigration enforcement. The system, to be delivered by September 2025, enables ICE to track and identify individuals across multiple government databases. Eight members of Congress warned this creates "a surveillance nightmare" and potential "mega-database" for targeting political enemies. Palantir engineers internally raised ethical concerns about building mass surveillance infrastructure.

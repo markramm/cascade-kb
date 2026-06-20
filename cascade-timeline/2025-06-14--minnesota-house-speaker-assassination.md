@@ -44,6 +44,9 @@ sources:
 notes: Northwestern researchers established direct statistical causation between Trump tweets and violence magnitude. This assassination exemplifies stochastic terrorism pattern where inflammatory rhetoric inspires lone actors without direct commands.
 capture_lanes:
 - Legislative Capture
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-power-the-pope-warned-about-has
+    title: "The Power the Pope Warned About Has a Guest List"
 ---
 
 In the early morning hours of June 14, 2025, Vance Boelter (57) of Green Isle, MN attacked two Democratic lawmakers' homes. At 2 AM, posing as police, he shot State Senator John Hoffman and wife Yvette at their Champlin home (both survived). At 3:35 AM, he killed Speaker Emerita Melissa Hortman (served as 61st Speaker 2019-2025) and husband Mark at their home. Boelter's abandoned vehicle contained a list of 70 targets including Gov. Walz, Reps. Craig and Omar, Sens. Klobuchar and Smith, abortion providers, and activists. Captured June 15. Gov. Walz called it "targeted political violence." Attack represents dangerous escalation of stochastic terrorism.

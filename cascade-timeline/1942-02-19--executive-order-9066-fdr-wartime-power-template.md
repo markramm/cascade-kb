@@ -11,6 +11,10 @@ tags:
   - fdr
   - internment
   - civil-rights-suppression
+  - detention-industrial
+  - executive-detention-template
+  - immigration-detention-ancestor
+  - alien-enemies-act-predicate
 actors:
   - Franklin D. Roosevelt
   - Henry Stimson
@@ -37,6 +41,7 @@ capture_lanes:
   - Executive Power Expansion
   - Wartime Emergency Power
   - Civil Rights Suppression
+  - Detention Industrial Complex
 coverage: []
 ---
 

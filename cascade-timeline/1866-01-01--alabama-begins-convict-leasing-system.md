@@ -30,9 +30,16 @@ tags:
 - systematic-corruption
 - institutional-capture
 - racial-injustice
+- detention-industrial
+- deaths-in-custody
+- criminalize-then-monetize
+- thirteenth-amendment-exception
+- convict-leasing
+- per-diem-model-ancestor
 capture_lanes:
 - Labor Suppression
 - Financial Capture
+- Detention Industrial Complex
 status: confirmed
 ---
 
@@ -41,3 +48,5 @@ Alabama Governor Robert Patton authorizes convict leasing, declaring that Black 
 The convict leasing system exploits the Thirteenth Amendment's exception allowing involuntary servitude "as punishment for crime." Private companies including Pratt Coal and Iron, Tennessee Coal Iron and Railroad Company (TCI), and Sloss Iron and Steel receive exclusive rights to prisoner labor. By 1888, TCI negotiates a 10-year contract for all able-bodied state prisoners at $9-18.50 per month depending on abilities—payments going to the state, not workers.
 
 The financial incentives prove enormous: by 1883, Alabama derives 10 percent of revenue from convict leasing; by 1898, this reaches 73 percent—nearly $100,000 annually. Companies build prison facilities requiring 10-hour workdays with mandatory quotas. The system creates direct incentives for mass incarceration of African Americans through Black Code enforcement, establishing patterns of prison profiteering that persist in modern private prison contracts and prison labor programs.
+
+**Structural ancestor note (criminalize-then-monetize recursion):** The per-prisoner payment model established here — state leases human bodies to private operators, operators profit from captive labor — prefigures the modern per-bed-day immigration detention contract. The Thirteenth Amendment labor exception exploited here is the same provision used in GEO Group's and CoreCivic's Voluntary Work Program (paying ICE detainees $1/day). The racialized criminalization pipeline (Black Codes → mass arrest → profitable labor) recurs structurally in the 1988 "aggravated felony" expansion → 1996 IIRIRA retroactive deportation category → 2025-26 warehouse detention buildout. See also: [[1983-01-28--corrections-corporation-america-founded]], [[1984-01-22--first-private-prison-houston-ins-facility]], [[phase-2-detention-financial-control-layer-per-bed-day-contracts-and-thirteenth-amendment-labor-exception]].
