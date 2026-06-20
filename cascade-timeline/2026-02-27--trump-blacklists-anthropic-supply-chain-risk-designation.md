@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-02-27--trump-blacklists-anthropic-supply-chain-risk-designation
 date: '2026-02-27'
-title: 'Trump Blacklists Anthropic, Designates AI Company a Supply Chain Risk to National Security'
+title: Trump Blacklists Anthropic, Designates AI Company a Supply Chain Risk to National Security
 importance: 10
 status: confirmed
 actors:
@@ -21,33 +21,33 @@ tags:
 - executive-overreach
 - democratic-backsliding
 sources:
-- url: 'https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html'
-  title: 'Trump admin blacklists Anthropic as AI firm refuses Pentagon demands'
+- url: https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html
+  title: Trump admin blacklists Anthropic as AI firm refuses Pentagon demands
   outlet: CNBC
   date: '2026-02-27'
   tier: 1
-- url: 'https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898'
-  title: 'Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain risk'
+- url: https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
+  title: Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain risk
   outlet: ABC News
   date: '2026-02-27'
   tier: 1
-- url: 'https://www.axios.com/2026/02/27/ai-trump-supply-chain-anthropic-pentagon-blacklist'
-  title: 'What Trump labeling Anthropic AI a supply chain risk means'
+- url: https://www.axios.com/2026/02/27/ai-trump-supply-chain-anthropic-pentagon-blacklist
+  title: What Trump labeling Anthropic AI a supply chain risk means
   outlet: Axios
   date: '2026-02-27'
   tier: 2
-- url: 'https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban'
-  title: 'OpenAI announces Pentagon deal after Trump bans Anthropic'
+- url: https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban
+  title: OpenAI announces Pentagon deal after Trump bans Anthropic
   outlet: NPR
   date: '2026-02-27'
   tier: 1
-- url: 'https://thehill.com/policy/technology/5763323-pentagon-stuns-silicon-valley-with-anthropic-ban/'
-  title: 'Pentagon stuns Silicon Valley with Anthropic ban'
+- url: https://thehill.com/policy/technology/5763323-pentagon-stuns-silicon-valley-with-anthropic-ban/
+  title: Pentagon stuns Silicon Valley with Anthropic ban
   outlet: The Hill
   date: '2026-02-27'
   tier: 2
-- url: 'https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/'
-  title: 'Pentagon moves to designate Anthropic as a supply-chain risk'
+- url: https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/
+  title: Pentagon moves to designate Anthropic as a supply-chain risk
   outlet: TechCrunch
   date: '2026-02-27'
   tier: 2
@@ -57,8 +57,11 @@ capture_lanes:
 - Democratic Backsliding
 - Executive Power Seizure
 coverage:
-  - url: https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national
-    title: "The Pentagon Banned Claude as a National Security Threat. Then It Used Claude to Bomb Iran."
+- url: https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national
+  title: The Pentagon Banned Claude as a National Security Threat. Then It Used Claude to Bomb Iran.
+- url: https://theramm.transparencycascade.org/p/they-said-the-quiet-part-in-june
+  title: They Said the Quiet Part in June
+---
 ---
 
 On February 27, 2026, President Donald Trump issued a directive ordering all United States government agencies to "immediately cease" using technology from Anthropic, while Defense Secretary Pete Hegseth formally designated the AI company a "Supply-Chain Risk to National Security." The action terminated Anthropic's approximately $200 million Defense Department contract—a contract under which Claude had become the first frontier AI model approved for use on classified military networks—and imposed cascading consequences throughout the federal contractor ecosystem.

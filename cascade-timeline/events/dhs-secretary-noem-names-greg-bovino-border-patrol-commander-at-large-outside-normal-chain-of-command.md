@@ -8,6 +8,7 @@ tags:
 - institutional-capture
 - abuse-of-power
 - trump-administration
+- 2026-cascade
 metadata:
   capture_lanes:
   - Civil Rights Suppression
@@ -16,10 +17,36 @@ metadata:
   location: Washington, D.C.
 date: '2025-10-15'
 importance: 8
-participants:
+actors:
 - Kristi Noem
 - Greg Bovino
 - CBP
+sources:
+- title: "Greg Bovino's Border Patrol Agents Use Disproportionate Force, Data Shows"
+  url: https://www.pogo.org/investigates/greg-bovinos-border-patrol-agents-use-disproportionate-force-data-shows
+  outlet: Project On Government Oversight / American University Investigative Reporting Workshop
+  date: '2025-11-04'
+  tier: 1
+- title: "Trump's Top Border Patrol Goon Gregory Bovino Posts Dark Use-of-Force Record With El Centro"
+  url: https://www.thedailybeast.com/trumps-top-border-patrol-goon-gregory-bovino-posts-dark-use-of-force-record-with-el-centro/
+  outlet: The Daily Beast
+  date: '2025-11-10'
+  tier: 1
+- title: "Gregory Bovino"
+  url: https://en.wikipedia.org/wiki/Gregory_Bovino
+  outlet: Wikipedia
+  date: '2026-01-01'
+  tier: 1
+- title: "Gregory Bovino: the officer leading Trump's strong-arm immigration tactics"
+  url: https://theweek.com/politics/gregory-bovino-officer-border-patrol
+  outlet: The Week
+  date: '2025-11-01'
+  tier: 1
+- title: "Court transcripts show Border Patrol official Greg Bovino dodging questions about use of force"
+  url: https://www.aol.com/articles/court-transcripts-show-border-patrol-230149471.html
+  outlet: AOL News
+  date: '2026-01-01'
+  tier: 1
 ---
 
 DHS Secretary Kristi Noem names Greg Bovino as commander-at-large of the Border Patrol in an op-ed announcement, creating a rank with no statutory basis that allows Bovino to operate outside the Border Patrol's normal chain of command and report directly to Noem. Bovino, who had served as Chief Patrol Agent of the El Centro Sector since April 2020, brings a documented record of overseeing units with disproportionate use of force — a 3.6:1 ratio of force incidents to assaults faced, compared to 2:1 for Border Patrol overall, according to a Project on Government Oversight investigation.
