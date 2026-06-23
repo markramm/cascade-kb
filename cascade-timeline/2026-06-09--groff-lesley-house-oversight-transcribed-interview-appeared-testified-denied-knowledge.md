@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-09--groff-lesley-house-oversight-transcribed-interview-appeared-testified-denied-knowledge
 date: '2026-06-09'
-title: "Lesley Groff Appears Before House Oversight, Testifies Voluntarily, Denies Knowledge of Epstein Crimes — Transcript Not Yet Public"
+title: "Lesley Groff Appears Before House Oversight, Testifies Voluntarily, Denies Knowledge of Epstein Crimes — Transcript Released 2026-06-23"
 importance: 8
 status: confirmed
 tags:
@@ -11,13 +11,17 @@ tags:
   - groff-lesley
   - house-oversight-epstein
   - thiel-churkin-witness
-  - sworn-testimony-void
+  - trump-epstein
+  - transcript-released
 actors:
   - Lesley Groff
   - James Comer
   - Robert Garcia
   - James Walkinshaw
   - Stephen Lynch
+  - Raja Krishnamoorthi
+  - Yassamin Ansari
+  - Melanie Stansbury
   - House Oversight Committee
 sources:
   - title: "Jeffrey Epstein's former assistant Lesley Groff interviewed by House panel"
@@ -44,6 +48,31 @@ sources:
     url: https://www.pbs.org/newshour/politics/who-is-lesley-groff-jeffrey-epsteins-former-assistant-being-interviewed-in-house-probe
     publisher: PBS NewsHour
     date: '2026-06-09'
+    tier: 1
+  - title: "Oversight Committee Releases Gates and Groff Transcripts"
+    url: https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/
+    publisher: House Oversight Committee
+    date: '2026-06-23'
+    tier: 1
+  - title: "Transcript reveals former Epstein assistant arranged multiple calls between Epstein and Trump before he was president"
+    url: https://www.cnn.com/2026/06/23/politics/video/epstein-lesley-groff-bill-gates-house-oversight-lead-tapper
+    publisher: CNN
+    date: '2026-06-23'
+    tier: 1
+  - title: "'I did not know': Former Epstein secretary Lesley Groff denies any awareness of boss' sex crimes"
+    url: https://abcnews.com/US/former-epstein-secretary-lesley-groff-denies-awareness-boss/story?id=133925464
+    publisher: ABC News
+    date: '2026-06-23'
+    tier: 1
+  - title: "Lesley Groff Set Up Regular Calls Between Trump and Epstein"
+    url: https://www.mediaite.com/media/news/epsteins-exec-assistant-told-lawmakers-she-arranged-calls-between-trump-and-epstein-about-once-a-quarter-before-their-falling-out/
+    publisher: Mediaite
+    date: '2026-06-23'
+    tier: 2
+  - title: "Read the House transcripts of Bill Gates and Lesley Groff's interviews in Epstein probe"
+    url: https://www.pbs.org/newshour/politics/read-the-house-transcripts-of-bill-gates-and-lesley-groffs-interviews-in-epstein-probe
+    publisher: PBS NewsHour
+    date: '2026-06-23'
     tier: 1
 ---
 
@@ -73,17 +102,41 @@ Multiple Democrats exiting the closed session publicly questioned the credibilit
 
 ## Documents Status
 
-Groff's full transcript is **not yet publicly released** as of June 11, 2026. The committee has released prior interview transcripts (Pam Bondi, June 4, 2026; Sarah Kellen, June 4, 2026; Tova Noel, May 18, 2026) typically within days to weeks of the interview date. Groff's transcript is expected to follow the same pattern.
+Groff's full transcript was **publicly released June 23, 2026** by the House Oversight Committee, simultaneously with Bill Gates's June 10, 2026 transcript. Primary source: https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/
 
 The committee's investigation reviewed: federal government handling of Epstein investigations; circumstances of Epstein's 2019 death; operation of sex-trafficking networks; Epstein and Maxwell's influence-seeking; and ethics violations by elected officials.
 
-## The October 2016 Thiel-Churkin-Epstein Lunch — Testimony Gap
+## Transcript Content — Key Sworn Exchanges (Released 2026-06-23)
 
-No contemporaneous reporting documents any committee questions or Groff answers regarding the **October 7, 2016 Thiel-Churkin-Epstein lunch** — the only documented in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle.
+### Trump-Epstein Calls
 
-Groff is the **sole living witness with documented, email-level involvement** in that event (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682). Whether the committee raised this in the closed-door session is unknown pending transcript release.
+The released transcript reveals Groff arranged **quarterly phone calls between Jeffrey Epstein and Donald Trump** before Trump became president. She arranged them "about once a quarter." When asked about the tenor of the conversations, she said she did not know their content. Rep. Lynch confirmed this finding, noting the calls pre-dated Trump's presidency. (CNN, 2026-06-23; Mediaite, 2026-06-23)
 
-**The sworn-testimony void regarding the October 7, 2016 lunch persists** until the transcript is released and confirms or denies any exchange on that topic.
+### Massage Scheduling — Minor Victim Account
+
+A committee attorney questioned Groff about a witness who — as a minor at the time — told the FBI that Groff "knew that the massage appointments were sexual" and that she had explicitly told Groff she was not 18 years old and needed money for an abortion.
+
+Committee attorney exchange:
+- Committee attorney: "Do you think that a 14-year-old sounds the same as a person in their 20s or 30s or 40s?"
+- Groff: "It's possible. I don't know. I was not evaluating voices. Nobody ever sounded like they were underage."
+
+Groff disputed the minor victim's account: "I'm not saying that what she's thinking — that she told someone — but she did not tell me... I think she is mistaken. I know she is mistaken."
+
+Rep. Krishnamoorthi challenged her directly: "You want us to believe that after 18 years working in the employ of Mr. Jeffrey Epstein that not on one occasion did you believe that any of your contacts in setting up these appointments with Jeffrey Epstein were either a minor or an underage person, correct?"
+
+### Characterization of 2007 Law Enforcement Action
+
+Groff said Epstein told her his 2007 Florida prosecution was a blackmail attempt: "It was a shakedown, he claimed, for money" — citing his claim the girl had lied about her age. Groff relayed Epstein's own framing without independently assessing it.
+
+### Repeat Non-Recall Pattern
+
+Rep. Yassamin Ansari characterized Groff's testimony as containing repeated instances of "I don't recall, I don't know."
+
+### The October 2016 Thiel-Churkin-Epstein Lunch — Sworn-Testimony Gap Persists
+
+No reporting on the released transcript documents any committee questions or Groff answers regarding the **October 7, 2016 Thiel-Churkin-Epstein lunch**. The transcript covers scheduling of massages, Trump calls, and Epstein's characterization of his 2007 prosecution. Searches across all major post-release reporting (CNN, ABC News, PBS, Mediaite, Daily Beast, IBTimes) surfaced **no mention of Thiel, Churkin, October 2016, or the Thiel-Russia connection** in Groff's released testimony.
+
+**The sworn-testimony void on the October 7, 2016 lunch persists.** The committee may not have raised it, or any exchange on that topic may have been redacted from the public release. Groff remains the sole living witness with documented email-level involvement (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682) in the only confirmed in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle — and that event received no documented sworn questioning in this proceeding.
 
 ## Background
 
