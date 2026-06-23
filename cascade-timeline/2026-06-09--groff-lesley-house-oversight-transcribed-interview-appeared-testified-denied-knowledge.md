@@ -132,11 +132,21 @@ Groff said Epstein told her his 2007 Florida prosecution was a blackmail attempt
 
 Rep. Yassamin Ansari characterized Groff's testimony as containing repeated instances of "I don't recall, I don't know."
 
-### The October 2016 Thiel-Churkin-Epstein Lunch — Sworn-Testimony Gap Persists
+### The October 2016 Thiel-Churkin-Epstein Lunch — GAP-IN-QUESTIONING CONFIRMED
 
-No reporting on the released transcript documents any committee questions or Groff answers regarding the **October 7, 2016 Thiel-Churkin-Epstein lunch**. The transcript covers scheduling of massages, Trump calls, and Epstein's characterization of his 2007 prosecution. Searches across all major post-release reporting (CNN, ABC News, PBS, Mediaite, Daily Beast, IBTimes) surfaced **no mention of Thiel, Churkin, October 2016, or the Thiel-Russia connection** in Groff's released testimony.
+**Disposition: GAP-IN-QUESTIONING** (three-way ambiguity resolved 2026-06-23 by full transcript scan).
 
-**The sworn-testimony void on the October 7, 2016 lunch persists.** The committee may not have raised it, or any exchange on that topic may have been redacted from the public release. Groff remains the sole living witness with documented email-level involvement (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682) in the only confirmed in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle — and that event received no documented sworn questioning in this proceeding.
+Full scan of the 229-page public transcript (pages 1-229, all pages read 2026-06-23) finds **zero references** to Peter Thiel, Vitaly Churkin, October 7 2016, October 2016, or the Thiel-Russia convergence. The committee never asked about the October 7, 2016 lunch at any point in the public record.
+
+Evidence basis:
+- **Calendar-review section** (Majority Exhibit 7, pp.159-165): Committee staff walked Groff through Epstein associates by name — Pritzker, Fekkai, Leon Black, Summers, Staley, Gates, Rothschild, Dershowitz, Ruemmler, RFK Jr., Bannon, Lutnick, Botstein, Chomsky, Wolff, Ferguson, Mandelson, Sulayem, Musk — **Thiel absent from the entire list**.
+- **Intelligence-agency questioning** (p.218): Committee asked whether Epstein or Maxwell worked for any intelligence service of any nation, including the United States — no Churkin or Russia-2016 angle pursued.
+- **Open-ended closing question** (p.228): Committee attorney Brignac: "Is there anything we've not asked you about today that you would like to offer into the record?" Groff: "I don't believe so, no." Neither side raised the Thiel-Churkin event.
+- **No redaction markers** visible in public transcript around any calendar or Russia-related section.
+
+**Residual ambiguity**: A fully-redacted closed-session exchange on Thiel/Churkin cannot be ruled out by transcript scan alone. The public transcript contains no redaction indicators, but the committee could have asked about this subject in a portion not released. This is the narrower remaining gap; the three-way ambiguity (gap-in-questioning / gap-in-reporting / redaction in public text) is resolved as gap-in-questioning for the public record.
+
+Groff remains the sole living witness with documented email-level involvement (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682) in the only confirmed in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle — and the public record of this proceeding contains no sworn questioning on that event.
 
 ## Background
 
