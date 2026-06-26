@@ -63,6 +63,10 @@ sources:
   outlet: Democracy Docket
   date: '2026-05-28'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-save-database-at-97
+    title: "The SAVE Database at 97%: How a 3% Error Rate Could Become Millions of Ignored Votes"
+
 ---
 
 ## What happened

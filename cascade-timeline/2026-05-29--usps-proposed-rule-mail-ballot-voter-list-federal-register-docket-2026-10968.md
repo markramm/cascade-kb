@@ -46,6 +46,10 @@ sources:
   outlet: Federal Register
   date: '2026-04-03'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-save-database-at-97
+    title: "The SAVE Database at 97%: How a 3% Error Rate Could Become Millions of Ignored Votes"
+
 ---
 
 ## What happened

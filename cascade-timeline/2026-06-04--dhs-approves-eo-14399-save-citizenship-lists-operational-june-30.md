@@ -46,6 +46,10 @@ sources:
 related:
   - 2026-05-29--usps-proposed-rule-mail-ballot-voter-list-federal-register-docket-2026-10968
   - 2026-05-28--nichols-declines-block-trump-mail-ballot-eo-dscc-naacp-lulac-consolidated
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-save-database-at-97
+    title: "The SAVE Database at 97%: How a 3% Error Rate Could Become Millions of Ignored Votes"
+
 ---
 
 On **June 4, 2026**, DHS approved the implementation of **EO 14399's State Citizenship Lists** — a two-part voter-verification architecture. **Part 1**: state election officials are required to submit entire statewide voter registration lists — including Social Security numbers, driver's license numbers, and dates of birth — to USCIS's **SAVE (Systematic Alien Verification for Entitlements) database**. **Part 2**: a new DHS portal allows state election officials to cross-reference voter registration data against citizenship records held by USCIS, the Social Security Administration, and the State Department. Both systems are expected to be **operational by June 30, 2026** — days before the USPS Docket 2026-10968 comment period closes July 2. SAVE is a documented database with **high false-positive rates**; it has previously been shown to incorrectly identify American citizens as non-citizens. **Common Cause v. DOJ** (D.D.C., Case No. 1:26-cv-01352, filed April 21) challenges the system; DOJ filed a motion to dismiss June 2; Common Cause filed a partial summary judgment motion May 19. The June 30 operational date falls weeks before the November 2026 midterm election cycle begins in earnest.
