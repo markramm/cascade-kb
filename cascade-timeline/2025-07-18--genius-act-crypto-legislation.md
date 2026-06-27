@@ -37,7 +37,12 @@ sources:
   date: '2025-07-18'
   tier: 2
 notes: GENIUS requires stablecoin issuers hold liquid asset reserves, grant coin holders bankruptcy priority. Subjects issuers to AML/sanctions compliance. No direct tax changes - IRS still treats crypto as property (Notice 2014-21). House also passed Digital Asset Market Clarity Act (SEC/CFTC roles) and Anti-CBDC Surveillance State Act. Trump fulfilled campaign promise to make US "crypto capital of the world." Bill legitimizes $3T crypto industry.
+coverage:
+- title: "Senate passes stablecoin framework in major crypto milestone — The Hill"
+  url: "https://thehill.com/policy/technology/5356035-regulatory-framework-stablecoins-senate/"
 status: confirmed
 ---
+
+<!-- STAGE-FLAG: ledger 2026-06-17 reports SENATE PASSAGE 68-30 heading to House; this entry's title says 'signed' — verify the bill's actual stage/date before relying on either. -->
 
 Trump signed GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins) July 18, 2025, first major crypto law passed by Congress (House 308-122, Senate 68-30). Establishes federal stablecoin framework requiring 100% reserves (cash/ Treasuries), Bank Secrecy Act compliance. Trump's World Liberty Financial issued USD1 stablecoin, though bill bars officials issuing stablecoins during service. Ian Katz called it "Good Housekeeping seal" for crypto industry.
