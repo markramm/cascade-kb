@@ -28,6 +28,8 @@ summary: >-
   long-term location data but says nothing clear about what the government may BUY. Patel's
   on-the-record statement makes the FBI's reliance on purchased commercial data official.
 coverage:
+  - url: https://theramm.transparencycascade.org/p/no-warrant-required-how-a-social
+    title: "No Warrant Required: How a Social Media Post Becomes a Federal Threat"
   - url: https://theramm.transparencycascade.org/p/make-yourself-expensive-a-field-guide
     title: "Make Yourself Expensive: A Field Guide to Shrinking Your Data Footprint"
 sources:

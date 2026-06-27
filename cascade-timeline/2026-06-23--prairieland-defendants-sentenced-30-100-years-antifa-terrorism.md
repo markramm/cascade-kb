@@ -36,6 +36,9 @@ sources:
     publisher: CBS News Texas
     date: '2026-06-23'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/no-warrant-required-how-a-social
+    title: "No Warrant Required: How a Social Media Post Becomes a Federal Threat"
 ---
 
 A federal judge in Texas sentenced eight defendants connected to the July 4, 2025 protest at Prairieland Detention Center to prison terms ranging from 30 to 100 years — exceeding all January 6 Capitol riot sentences. The government applied its executive-order antifa terror designation retroactively to upgrade the charges; one defendant received 30 years solely for moving a box of zines after the incident.
