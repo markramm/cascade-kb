@@ -205,3 +205,5 @@ echo "  cd ~/cascade-kb"
 echo "  docker compose -f deploy/docker-compose.yml stop pyrite || true"
 echo "  docker compose -f deploy/docker-compose.yml rm -f pyrite || true"
 echo "  docker volume rm deploy_pyrite-data || true"
+
+# (warm-cache deploy test 23220436)
