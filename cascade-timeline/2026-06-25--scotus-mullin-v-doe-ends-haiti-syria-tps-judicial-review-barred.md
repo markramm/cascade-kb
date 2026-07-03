@@ -52,7 +52,7 @@ sources:
   outlet: Springfield News-Sun
   date: '2026-06-25'
   tier: 2
-coverage:
+coverage_notes:
   - drafts/drafts/springfield-the-protection-is-gone-2026-06-26 (The RAMM, "After the Arrest" series)
 related_events:
   - 2026-06-29--snyder-names-springfield-haiti-policy-ethnic-cleansing

@@ -225,10 +225,15 @@
           <h3>Coverage</h3>
           <div class="actor-list">
             {{ range . }}
+            {{/* Only render items that are maps with a url. A bare string
+                 (e.g. an internal provenance note written by automation) is
+                 skipped defensively so it can never crash the build. */}}
+            {{ if and (reflect.IsMap .) .url }}
             <a href="{{ .url }}" target="_blank" rel="noopener">
               <span>{{ .title | default "RAMM coverage" }}</span>
               <span class="count">↗</span>
             </a>
+            {{ end }}
             {{ end }}
           </div>
         </div>

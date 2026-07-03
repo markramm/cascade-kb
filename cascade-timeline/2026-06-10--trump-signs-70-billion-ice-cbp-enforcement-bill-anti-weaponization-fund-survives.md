@@ -37,7 +37,7 @@ sources:
     publisher: CNN
     date: '2026-06-04'
     tier: 1
-coverage:
+coverage_notes:
   - 'news-headlines-digest-2026-06-14-full-lane-sweep — H2 (processed 2026-06-14)'
 related:
   - 2026-02-14--dhs-partial-shutdown-begins-immigration-enforcement-continues

@@ -38,7 +38,7 @@ sources:
     publisher: IBTimes UK
     date: '2026-06-05'
     tier: 2
-coverage:
+coverage_notes:
   - 'news-headlines-digest-2026-06-14-full-lane-sweep — H1 (duplicate confirmed; coverage reference added 2026-06-14)'
 related:
   - 2026-03-30--adelanto-geo-fourth-death-california-record-seven-months
