@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 # =============================================================================
 # Cascade Ledger static-site container
 #
@@ -45,8 +46,14 @@ COPY hugo-timeline/    ./hugo-timeline/
 
 WORKDIR /build/hugo-timeline
 
-# Run the build pipeline
-RUN python3 scripts/generate_content.py \
+# Run the build pipeline.
+# The cache mount persists generated OG-card PNGs across builds — the generator
+# skips existing files by default, so only NEW/changed events regenerate cards
+# instead of rebuilding all ~400 every time (~260s → ~seconds on later builds).
+# hugo runs in the same RUN, after generation, so it still copies the cards from
+# static/og into the published site.
+RUN --mount=type=cache,target=/build/hugo-timeline/static/og \
+    python3 scripts/generate_content.py \
     && python3 scripts/generate_og_cards.py --limit 400 \
     && (python3 scripts/generate_redirects.py || echo "  (skipping redirects — no network)") \
     && hugo --gc \
