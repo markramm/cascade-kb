@@ -1,17 +1,17 @@
 name: Deploy capturecascade.org
 
-# Initial state: manual-trigger only. After the first successful run,
-# switch this to:
-#
-#   on:
-#     push:
-#       branches: [main]
-#     workflow_dispatch:
-#
-# so any push to main auto-deploys. Conservative initial config avoids
-# failed runs piling up in Actions history while SSH secrets are being
-# bootstrapped.
+# Auto-deploys on any push to main that touches site-affecting paths, plus a
+# manual trigger. The site is a Hugo build of the cascade-timeline content, so
+# timeline edits, the Hugo layouts/scripts, and the deploy config all trigger a
+# rebuild; unrelated repo changes (viewer/, docs, KB tooling) do not.
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'cascade-timeline/**'
+      - 'hugo-timeline/**'
+      - 'deploy/**'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 # Only one deploy at a time. If a second push lands while one is running,
@@ -42,3 +42,21 @@ jobs:
             bash deploy/deploy.sh --no-interactive
           # Stream output line-by-line so failures show in Actions log.
           script_stop: true
+
+      # Surface a failed deploy on the run summary so a broken build is visible
+      # rather than silent. deploy.sh already rolls back on the VPS (the live
+      # site keeps serving the previous container), so this is notification, not
+      # remediation.
+      - name: Report deploy failure
+        if: failure()
+        run: |
+          echo "::error title=capturecascade.org deploy failed::deploy.sh exited non-zero. The VPS rolled back to the previous commit and the live site kept serving the prior container. See the SSH step log for the build error."
+          {
+            echo "## ❌ capturecascade.org deploy failed"
+            echo ""
+            echo "\`deploy.sh\` exited non-zero on the VPS. Per the rollback rail, the"
+            echo "checkout was reverted to the previously-deployed commit and the site"
+            echo "kept serving the prior container — **the live site was not taken down.**"
+            echo ""
+            echo "Fix the build error (see the SSH step log), push again, and the deploy re-runs."
+          } >> "$GITHUB_STEP_SUMMARY"
