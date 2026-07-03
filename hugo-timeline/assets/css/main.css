@@ -681,6 +681,15 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
 }
 .actor-list a:hover { color: var(--ox); }
 .actor-list .count { font-family: var(--mono); font-size: 11px; color: var(--ink-4); letter-spacing: 0.06em; }
+/* Actors named on this event but appearing in too few events to warrant their
+   own page — shown as plain text (same type as the linked ones, muted, no
+   link affordance). */
+.actor-list .actor-plain {
+  font-family: var(--serif-body); font-size: 16px; color: var(--ink-3);
+  display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
+  padding: 4px 0; border-bottom: 1px dashed var(--paper-edge);
+}
+.tag-cloud .tag-plain { color: var(--ink-4); }
 
 /* ─── Filter / share / pagination ──────────────────────────── */
 .filter-bar {
