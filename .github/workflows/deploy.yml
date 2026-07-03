@@ -23,7 +23,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: SSH to VPS and run deploy.sh
         uses: appleboy/ssh-action@v1.2.0
@@ -36,8 +36,8 @@ jobs:
           # 5,500+ pages + sitemap validate) runs ~10-12 min inside a fresh
           # Docker build. appleboy/ssh-action defaults to a 10m command_timeout,
           # which was clipping the build mid-render — raise it well clear.
-          # (The job-level timeout-minutes: 30 is the outer bound.)
-          command_timeout: 25m
+          # (The job-level timeout-minutes: 45 is the outer bound.)
+          command_timeout: 40m
           # Fail loudly on any error inside the SSH session.
           # --no-interactive skips the prune prompt; CI never prunes,
           # since `docker system prune -af --volumes` would wipe ALL

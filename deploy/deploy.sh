@@ -141,13 +141,20 @@ echo "  Redirect: $(curl -sI https://capturecascade.org/site/cascade-timeline/11
 # A Hugo mis-build can return HTTP 200 with an empty or broken body; status codes
 # alone don't catch that. These assert the homepage and a known deep event page
 # render real content.
+#
+# NOTE ON pipefail: do NOT use `echo "$X" | grep -q ...` here. Under
+# `set -o pipefail`, `grep -q` exits on first match and SIGPIPEs the upstream
+# `echo` (exit 141), which pipefail then reports as a pipeline failure — falsely
+# failing the check on a page that DID match. Use `grep -c` on a string (reads
+# the whole input, no early exit) and compare the count instead.
 echo "  → content assertions:"
 
 HOME_BODY="$(curl -s --max-time 20 https://capturecascade.org/ || true)"
-if echo "$HOME_BODY" | grep -qiE 'cascade|timeline|event' && [ "${#HOME_BODY}" -gt 2000 ]; then
-  echo "    ✓ homepage: real content (${#HOME_BODY} bytes)"
+HOME_HITS="$(printf '%s' "$HOME_BODY" | grep -ciE 'cascade|timeline|ledger' || true)"
+if [ "${HOME_HITS:-0}" -gt 0 ] && [ "${#HOME_BODY}" -gt 2000 ]; then
+  echo "    ✓ homepage: real content (${#HOME_BODY} bytes, ${HOME_HITS} keyword hits)"
 else
-  echo "    ✗ homepage: MISSING content (${#HOME_BODY} bytes) — build may be broken"
+  echo "    ✗ homepage: MISSING content (${#HOME_BODY} bytes, ${HOME_HITS} hits) — build may be broken"
   VERIFY_FAIL=1
 fi
 
@@ -155,10 +162,11 @@ fi
 # render pipeline worked, not just that the homepage exists).
 EVENT_URL="https://capturecascade.org/event/2026-01-31--all-50-states-ice-facility-protests/"
 EVENT_BODY="$(curl -sL --max-time 20 "$EVENT_URL" || true)"
-if echo "$EVENT_BODY" | grep -qiE 'ICE|protest|50501|facility' && [ "${#EVENT_BODY}" -gt 1500 ]; then
-  echo "    ✓ event page: real content (${#EVENT_BODY} bytes)"
+EVENT_HITS="$(printf '%s' "$EVENT_BODY" | grep -ciE 'ICE|protest|50501|facility|timeline' || true)"
+if [ "${EVENT_HITS:-0}" -gt 0 ] && [ "${#EVENT_BODY}" -gt 1500 ]; then
+  echo "    ✓ event page: real content (${#EVENT_BODY} bytes, ${EVENT_HITS} keyword hits)"
 else
-  echo "    ✗ event page: MISSING content (${#EVENT_BODY} bytes) — event render may be broken"
+  echo "    ✗ event page: MISSING content (${#EVENT_BODY} bytes, ${EVENT_HITS} hits) — event render may be broken"
   VERIFY_FAIL=1
 fi
 
