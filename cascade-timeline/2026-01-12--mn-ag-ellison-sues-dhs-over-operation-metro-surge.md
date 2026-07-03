@@ -43,6 +43,11 @@ coverage:
     date: '2026-02-20'
     publication: theramm
     note: "Documents the transfer system that moved detainees out of Minnesota in defiance of court orders during the same surge"
+  - url: "https://sahanjournal.com/?p=85291"
+    title: "Twin Cities Somali businesses face long, slow recovery after Operation Metro Surge"
+    date: '2026-07-02'
+    publication: Sahan Journal
+    note: "6-month economic-recovery status (2026-07): Somali-owned Minneapolis businesses still struggling; legislative relief effort failed. Tier-2 single-source ground reporting — attached as coverage rather than a standalone entry (below the 2-source floor for canon)."
   - url: https://theramm.substack.com/p/border-patrol-a-criminal-organization
     title: "Border Patrol: A Criminal Organization Disguised as a Federal Agency"
     date: '2026-02-17'
