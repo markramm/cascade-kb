@@ -28,6 +28,14 @@ STATIC = ROOT / "static" / "data"
 START_YEAR = 1142
 END_YEAR   = 2026
 
+# An actor/tag needs to appear in at least this many events to get its own
+# standalone taxonomy page (and sitemap entry). Below this, the name still shows
+# on its event(s) as plain text but has no crawlable page — kills thin-content
+# stubs (68% of actors appeared in exactly one event). Populated in main().
+TERM_PAGE_MIN_EVENTS = 3
+LINKED_ACTORS: set[str] = set()
+LINKED_TAGS: set[str] = set()
+
 def hugo_urlize(s: str) -> str:
     """Mirror Hugo's `urlize` function — lowercase, replace spaces and most
     punctuation with dashes, but PRESERVE dots and other path-safe chars.
@@ -204,8 +212,14 @@ def write_event(ev: dict, slug_idx: dict[str, str]) -> None:
         "date":  ev.get("date"),
         "lastmod": ev.get("lastmod") or ev.get("date"),
         "summary": (body or "").split("\n\n", 1)[0][:280] if body else "",
-        "actors": ev.get("actors", []) or [],
-        "tags":   ev.get("tags", []) or [],
+        # `actors`/`tags` are the Hugo TAXONOMY fields — only ≥threshold entities,
+        # so Hugo builds standalone pages only for those. `actors_all`/`tags_all`
+        # keep the FULL lists so the event page still displays every name (the
+        # template links the taxonomy ones, shows the rest as plain text).
+        "actors": [a for a in (ev.get("actors") or []) if a in LINKED_ACTORS],
+        "tags":   [t for t in (ev.get("tags")   or []) if str(t) in LINKED_TAGS],
+        "actors_all": ev.get("actors", []) or [],
+        "tags_all":   ev.get("tags", []) or [],
         "lanes":  ev.get("capture_lanes", []) or [],
         "year":   [str(ev["date"])[:4]] if ev.get("date") else [],   # Hugo: plural=singular ("year")
         "decade": [f"{str(ev['date'])[:3]}0s"] if ev.get("date") else [],
@@ -846,12 +860,16 @@ def write_taxonomy_indexes(events: list[dict]) -> None:
         for t in ev.get("tags") or []:
             tag_counts[t] += 1
 
+    # Only list entities that get a standalone page (≥ threshold), so the
+    # browse-all index and sitemap don't advertise pages that aren't built.
     actors = sorted(
-        ({"name": k, "count": v, "slug": hugo_urlize(k)} for k, v in actor_counts.items()),
+        ({"name": k, "count": v, "slug": hugo_urlize(k)}
+         for k, v in actor_counts.items() if v >= TERM_PAGE_MIN_EVENTS),
         key=lambda x: (-x["count"], x["name"].lower()),
     )
     tags = sorted(
-        ({"name": k, "count": v, "slug": hugo_urlize(k)} for k, v in tag_counts.items()),
+        ({"name": k, "count": v, "slug": hugo_urlize(k)}
+         for k, v in tag_counts.items() if v >= TERM_PAGE_MIN_EVENTS),
         key=lambda x: (-x["count"], x["name"].lower()),
     )
     (STATIC / "actors.json").write_text(json.dumps(actors, separators=(",", ":")), encoding="utf-8")
@@ -1057,6 +1075,26 @@ def main():
         for f in evdir.glob("*.md"):
             f.unlink()
     evdir.mkdir(parents=True, exist_ok=True)
+
+    # Compute actor/tag frequency so only significant entities get a standalone
+    # taxonomy PAGE. An actor/tag mentioned in fewer than TERM_PAGE_MIN_EVENTS
+    # events was generating a thin, near-duplicate page (68% of actors appeared
+    # in exactly one event) — bad for search (thin content) and for build size.
+    # Below-threshold names still render ON their event page (as plain text via
+    # actors_all/tags_all), they just don't get a crawlable standalone URL.
+    actor_freq: dict[str, int] = defaultdict(int)
+    tag_freq: dict[str, int] = defaultdict(int)
+    for ev in events:
+        for a in ev.get("actors") or []:
+            actor_freq[a] += 1
+        for t in ev.get("tags") or []:
+            tag_freq[str(t)] += 1
+    global LINKED_ACTORS, LINKED_TAGS
+    LINKED_ACTORS = {a for a, n in actor_freq.items() if n >= TERM_PAGE_MIN_EVENTS}
+    LINKED_TAGS   = {t for t, n in tag_freq.items() if n >= TERM_PAGE_MIN_EVENTS}
+    print(f"  term-page threshold ≥{TERM_PAGE_MIN_EVENTS}: "
+          f"{len(LINKED_ACTORS)}/{len(actor_freq)} actors, "
+          f"{len(LINKED_TAGS)}/{len(tag_freq)} tags get standalone pages")
 
     for ev in events:
         write_event(ev, slug_idx)

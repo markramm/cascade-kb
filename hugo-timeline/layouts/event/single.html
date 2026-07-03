@@ -196,25 +196,33 @@
         </div>
         {{ end }}
 
-        {{ with .Params.actors }}
+        {{/* Show ALL actors from actors_all; link only those with a standalone
+             page (in .Params.actors), render the rest as plain text. */}}
+        {{ $linked := .Params.actors | default slice }}
+        {{ with (.Params.actors_all | default .Params.actors) }}
         <div>
           <h3>Actors named</h3>
           <div class="actor-list">
             {{ range . }}
+            {{ if in $linked . }}
             <a href="/actors/{{ . | urlize }}/">
               <span>{{ . }}</span>
               <span class="count" aria-hidden="true">→</span>
             </a>
+            {{ else }}
+            <span class="actor-plain"><span>{{ . }}</span></span>
+            {{ end }}
             {{ end }}
           </div>
         </div>
         {{ end }}
 
-        {{ with .Params.tags }}
+        {{ $linkedTags := .Params.tags | default slice }}
+        {{ with (.Params.tags_all | default .Params.tags) }}
         <div>
           <h3>Indexed under</h3>
           <div class="tag-cloud">
-            {{ range . }}<a href="/tags/{{ . | urlize }}/">#{{ . }}</a>{{ end }}
+            {{ range . }}{{ if in $linkedTags . }}<a href="/tags/{{ . | urlize }}/">#{{ . }}</a>{{ else }}<span class="tag-plain">#{{ . }}</span>{{ end }}{{ end }}
           </div>
         </div>
         {{ end }}
