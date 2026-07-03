@@ -10,7 +10,7 @@ tags:
   - mass-mobilization
   - general-strike
   - ice-out
-  - 50501
+  - "50501"
 actors:
   - 50501 Movement
   - Women's March

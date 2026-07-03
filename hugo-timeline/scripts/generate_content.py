@@ -32,7 +32,9 @@ def hugo_urlize(s: str) -> str:
     """Mirror Hugo's `urlize` function — lowercase, replace spaces and most
     punctuation with dashes, but PRESERVE dots and other path-safe chars.
     This matches what Hugo emits for /actors/<urlize>/ paths."""
-    s = s.lower()
+    # Coerce to str: a tag/taxonomy value that YAML parses as an int (e.g. an
+    # unquoted numeric tag like `50501`) must not crash the whole site build.
+    s = str(s).lower()
     # Hugo's urlize keeps a-z 0-9 and a small set of safe chars (-._~)
     # Everything else becomes a dash; runs of dashes collapse.
     s = re.sub(r"[^a-z0-9._~]+", "-", s)
