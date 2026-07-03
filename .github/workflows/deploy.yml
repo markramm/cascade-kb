@@ -45,6 +45,13 @@ jobs:
           script: |
             set -euo pipefail
             cd ~/cascade-kb
+            # Pull FIRST, here — not inside deploy.sh. bash reads the whole
+            # script into memory before executing, so if deploy.sh pulled itself
+            # it would run the PRE-pull version of its own logic (a fix to
+            # deploy.sh would never take effect on the run that pulls it). By
+            # pulling before invoking, the deploy.sh we run is always current.
+            git fetch origin main --quiet
+            git reset --hard origin/main
             bash deploy/deploy.sh --no-interactive
           # Stream output line-by-line so failures show in Actions log.
           script_stop: true

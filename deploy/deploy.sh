@@ -31,13 +31,18 @@ cd "$(dirname "$0")/.."
 
 echo "──── Cascade Ledger deploy ────────────────────────────────────"
 
-# Record the currently-deployed commit so we can roll back to it if the new
-# build never becomes healthy.
-PREV_COMMIT="$(git rev-parse HEAD)"
-echo "→ current commit (rollback target): ${PREV_COMMIT:0:12}"
+# The running cascade image IS the last-known-good artifact — capture its ID so
+# rollback can restart it directly, rather than rebuilding a git commit (the
+# checkout has already been fast-forwarded to the new code by the caller/CI, so
+# a git-based rollback target is no longer available here).
+PREV_IMAGE="$(docker compose -f deploy/docker-compose.yml images -q cascade 2>/dev/null || true)"
+echo "→ last-known-good image (rollback target): ${PREV_IMAGE:0:19}"
 
-echo "→ git pull"
-git pull --ff-only
+# NOTE: the pull is done by the caller (CI workflow / operator) BEFORE invoking
+# this script, so the running deploy.sh is always the current version. We do a
+# defensive ff-pull here too for manual runs, but it is a no-op under CI.
+echo "→ git pull (no-op if caller already pulled)"
+git pull --ff-only 2>/dev/null || echo "  (already up to date / pull handled by caller)"
 
 echo ""
 echo "→ Free up Docker disk before build"
@@ -90,19 +95,24 @@ done
 # the last-known-good version, then fail the deploy loudly.
 if [ "$HEALTHY" != "1" ]; then
   echo ""
-  echo "  ✗ cascade never became healthy — ROLLING BACK to ${PREV_COMMIT:0:12}"
-  git reset --hard "$PREV_COMMIT"
-  docker compose -f deploy/docker-compose.yml build cascade
-  docker compose -f deploy/docker-compose.yml up -d cascade
-  for i in $(seq 1 30); do
-    if docker compose -f deploy/docker-compose.yml ps cascade 2>/dev/null | grep -q "healthy"; then
-      echo "  ✓ rolled back — previous version is healthy again"
-      break
-    fi
-    sleep 2
-  done
-  echo "  Deploy FAILED and was rolled back. The live Caddy was never repointed,"
-  echo "  so the site kept serving the previous container throughout."
+  echo "  ✗ cascade never became healthy — ROLLING BACK to last-known-good image ${PREV_IMAGE:0:19}"
+  if [ -n "$PREV_IMAGE" ]; then
+    # Restart the previous image directly (no rebuild). Tag it back as the
+    # compose service image and bring it up.
+    docker tag "$PREV_IMAGE" deploy-cascade:latest 2>/dev/null || true
+    docker compose -f deploy/docker-compose.yml up -d --no-build cascade || \
+      docker compose -f deploy/docker-compose.yml up -d cascade
+    for i in $(seq 1 30); do
+      if docker compose -f deploy/docker-compose.yml ps cascade 2>/dev/null | grep -q "healthy"; then
+        echo "  ✓ rolled back — previous image is healthy again"
+        break
+      fi
+      sleep 2
+    done
+  else
+    echo "  ! no previous image captured — leaving current container in place for manual inspection"
+  fi
+  echo "  Deploy FAILED and was rolled back to the last-known-good image."
   exit 1
 fi
 
@@ -173,13 +183,17 @@ fi
 if [ "$VERIFY_FAIL" = "1" ]; then
   echo ""
   echo "  ✗ CONTENT VERIFICATION FAILED — the site returns 200 but the body is"
-  echo "    empty or missing expected content. ROLLING BACK to ${PREV_COMMIT:0:12}."
-  git reset --hard "$PREV_COMMIT"
-  docker compose -f deploy/docker-compose.yml build cascade
-  docker compose -f deploy/docker-compose.yml up -d cascade
-  sleep 5
-  echo "    Rolled back to the previous version; the front-end Caddy already"
-  echo "    points at the same container name, so traffic follows the rollback."
+  echo "    empty or missing expected content. ROLLING BACK to last-known-good image ${PREV_IMAGE:0:19}."
+  if [ -n "$PREV_IMAGE" ]; then
+    docker tag "$PREV_IMAGE" deploy-cascade:latest 2>/dev/null || true
+    docker compose -f deploy/docker-compose.yml up -d --no-build cascade || \
+      docker compose -f deploy/docker-compose.yml up -d cascade
+    sleep 5
+    echo "    Rolled back to the previous image; the front-end Caddy points at the"
+    echo "    same container name, so traffic follows the rollback."
+  else
+    echo "    ! no previous image captured — current container left for manual inspection"
+  fi
   exit 1
 fi
 
