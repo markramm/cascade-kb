@@ -1,11 +1,28 @@
 # Automated deploys for capturecascade.org
 
-The GitHub Actions workflow at `.github/workflows/deploy.yml` runs
-`deploy/deploy.sh --no-interactive` on the VPS over SSH.
+> **STATUS (2026-07-03): LIVE.** Every push to `main` that touches
+> `cascade-timeline/`, `hugo-timeline/`, `deploy/`, or the workflow auto-deploys
+> to the VPS via GitHub Actions (`.github/workflows/deploy.yml`) using a
+> dedicated `deploy`-user SSH key. Secrets are set; the first green run was
+> 2026-07-03. Deploy takes ~12-17 min (OG-card generation dominates).
+>
+> **Safety rails in `deploy/deploy.sh`:**
+> - Zero-downtime: the front-end Caddy is only reloaded after health + content
+>   checks pass; a failed build never takes the live site down (proven).
+> - Build-cache reclaim every run (safe on the shared host; freed 76 GB once).
+> - Content verification: fetches real page bodies and asserts keywords, not
+>   just HTTP status. Uses `grep -c` (not `grep -q`) to avoid a pipefail
+>   false-positive.
+> - Rollback: restarts the last-known-good IMAGE (no rebuild) if health or
+>   content checks fail.
+> - The CI workflow pulls BEFORE invoking deploy.sh, so the running script is
+>   always current (deploy.sh pulling itself ran the pre-pull version — fixed).
+>
+> **Known follow-up:** the ~12-min build is dominated by ~260 s regenerating
+> all 400 OG-card PNGs every build (Docker discards them between builds). A
+> Docker cache-mount on the OG-cards dir would cut deploys to ~4 min.
 
-Initial state: **manual-trigger only** (workflow_dispatch). Once the
-first run succeeds, edit the workflow's `on:` block to also trigger on
-`push: branches: [main]` so any merge to main auto-deploys.
+---
 
 ## One-time bootstrap
 
