@@ -62,8 +62,7 @@ sources:
     date: '2025-04-28'
     tier: 1
 capture_lanes:
-  - Gulf-State Capital Flow
-  - Foreign Enrichment as Foreign Policy
+  - International Kleptocracy
   - Permanent-Revenue-Mechanism Captured-X Variant
   - Generational-Firewall Captured-X Variant
   - Paid-Access Club Infrastructure

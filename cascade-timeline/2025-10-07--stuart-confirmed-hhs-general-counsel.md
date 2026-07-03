@@ -41,9 +41,9 @@ sources:
     date: '2025'
     tier: 1
 capture_lanes:
-  - Distributed Personnel Capture
-  - Legal-Office Capture
-  - Health Data Consolidation
+  - Personnel Capture
+  - Executive Power Expansion
+  - Surveillance Infrastructure
 coverage: []
 ---
 

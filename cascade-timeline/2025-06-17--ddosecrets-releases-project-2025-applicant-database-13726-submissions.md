@@ -35,7 +35,7 @@ sources:
     date: '2025-06-17'
     tier: 2
 capture_lanes:
-  - Personnel Pipeline
+  - Personnel Capture
   - Institutional Accountability
 coverage: []
 ---

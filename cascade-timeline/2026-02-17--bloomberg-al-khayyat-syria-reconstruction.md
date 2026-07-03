@@ -38,9 +38,7 @@ sources:
     date: '2026-04'
     tier: 2
 capture_lanes:
-  - Foreign Policy Capture
-  - Sanctions Policy Capture
-  - Trump-Family Financial Architecture
+  - International Kleptocracy
 ---
 
 On February 17, 2026, Bloomberg published the first comprehensive Western-media account of how the Syrian-born Qatari billionaire Al-Khayyat brothers — Moutaz, Ramez, and Mohamad — had converted the December 2025 Caesar Act repeal into approximately **$12 billion in Syrian government-backed reconstruction contracts** in the span of roughly two months. The Bloomberg story connected three previously-separate threads: the brothers' successful repeal lobbying, their concurrent Sazan Island Albania deal negotiations with the Kushner-Trump family, and their post-repeal commercial pivot to Syria.

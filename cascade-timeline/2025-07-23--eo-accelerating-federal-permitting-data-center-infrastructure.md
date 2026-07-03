@@ -65,8 +65,7 @@ sources:
 capture_lanes:
   - Regulatory Capture
   - Executive Power Expansion
-  - Energy Systems Capture
-  - Administrative Deregulation
+  - Environmental Capture
 coverage: []
 ---
 

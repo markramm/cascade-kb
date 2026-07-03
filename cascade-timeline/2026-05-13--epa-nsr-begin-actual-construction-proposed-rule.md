@@ -24,7 +24,6 @@ tags:
 capture_lanes:
   - Regulatory Capture
   - Environmental Capture
-  - Administrative Deregulation
 coverage: []
 sources:
   - title: "EPA Proposes Redefining 'Begin Actual Construction' to Remove Unnecessary Impediments to Building and Advance Economic Progress"

@@ -37,7 +37,7 @@ sources:
     tier: 2
 capture_lanes:
   - Financial Capture
-  - Accountability Elimination
+  - Democratic Erosion
 coverage: []
 ---
 

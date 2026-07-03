@@ -24,7 +24,7 @@ actors:
   - Illinois State Police Lt. Col. Jason Bradley
 location: Broadview ICE Processing Center, Broadview, Illinois (procession originating from St. Eulalia Catholic Church, Maywood, Illinois)
 capture_lanes:
-  - Religious Capture and Holy War Apparatus
+  - Theological Legitimation
 verification_status: confirmed
 sources:
   - url: https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/

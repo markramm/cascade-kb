@@ -18,7 +18,8 @@ actors:
 - narya-capital
 - Marc Andreessen
 - Eric Schmidt
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: Bloomberg

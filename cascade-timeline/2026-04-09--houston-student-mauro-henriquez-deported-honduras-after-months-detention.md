@@ -34,7 +34,7 @@ sources:
     tier: 2
 capture_lanes:
   - Civil Rights Suppression
-  - Immigration System Capture
+  - Detention Industrial Complex
 ---
 
 Mauro Henriquez, an 18-year-old senior at Sam Houston Math, Science, and Technology Center and captain of his high school soccer team, was deported to Honduras on April 9 after spending four months in ICE detention. Henriquez and his father were detained on December 16, 2025 and held at ICE's Montgomery Processing Center in Conroe, Texas. For the majority of his detention, Henriquez did not have a lawyer. He was informed of his deportation on a Tuesday night and flown to Tegucigalpa the next day. ICE stated both Henriquez and his father received "full due process under the law and been ordered deported."

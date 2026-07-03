@@ -55,6 +55,7 @@ sources:
 coverage:
   - drafts/drafts/springfield-the-protection-is-gone-2026-06-26 (The RAMM, "After the Arrest" series)
 related_events:
+  - 2026-06-29--snyder-names-springfield-haiti-policy-ethnic-cleansing
   - 2024-09-09--vance-spreads-anti-haitian-immigrant-hoax-1757456537
   - 2026-03-11--trump-asks-supreme-court-end-haiti-tps-350000
   - 2026-03-16--scotus-grants-cert-haiti-syria-tps

@@ -65,7 +65,8 @@ sources:
     date: '2026-05-14'
     tier: 1
 capture_lanes:
-  - Presidential Utterance Layer
+  - Executive Power Expansion
+relocated_lanes:
   - Captured-X (Five-Beat Arc)
 coverage: []
 ---

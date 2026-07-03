@@ -22,8 +22,8 @@ tags:
   - investigation-6
   - electricity-markets
 capture_lanes:
-  - Energy-Markets Capture
-  - AI-Infrastructure Capture
+  - Environmental Capture
+  - Digital and Tech Capture
 sources:
   - title: "Core Scientific to Provide Approximately 200 MW of Infrastructure to CoreWeave"
     url: https://investors.corescientific.com/news-events/press-releases/detail/74/core-scientific-to-provide-approximately-200-mw-of-infrastructure-to-host-coreweaves-high-performance-computing-services-capturing-significant-ai-compute-opportunity

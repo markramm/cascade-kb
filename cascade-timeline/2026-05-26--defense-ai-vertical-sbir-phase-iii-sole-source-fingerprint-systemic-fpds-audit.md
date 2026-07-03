@@ -62,7 +62,7 @@ sources:
     date: '2025-08-22'
     tier: 1
 capture_lanes:
-  - Defense Procurement Capture
+  - Military-Industrial Complex
   - Regulatory Capture
 coverage:
   - url: https://theramm.substack.com/p/the-91-percent

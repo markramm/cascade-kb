@@ -54,9 +54,7 @@ sources:
     date: '2025-09-23'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - catholic-integralism
-  - theological-legitimation-layer
+  - Theological Legitimation
   - friendship-as-substrate
 coverage: []
 ---

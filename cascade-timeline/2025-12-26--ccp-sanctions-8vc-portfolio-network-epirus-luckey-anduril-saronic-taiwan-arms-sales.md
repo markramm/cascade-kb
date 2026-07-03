@@ -32,10 +32,8 @@ actors:
   - Boeing
   - L3Harris
 capture_lanes:
-  - Defense Procurement Capture
-  - Foreign-Adversary-Identification
-  - Taiwan-Arms-Sales
-  - Gulf-LP-base-evidence
+  - Military-Industrial Complex
+  - International Kleptocracy
 sources:
   - title: "Decision on Taking Countermeasures Against U.S. Military-Related Companies and Senior Executives (Decree No. 19)"
     url: https://www.mfa.gov.cn/eng/xw/wjbxw/202512/t20251226_11787632.html

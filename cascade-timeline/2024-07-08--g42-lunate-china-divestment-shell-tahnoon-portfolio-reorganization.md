@@ -52,9 +52,9 @@ sources:
     date: '2023'
     tier: 1
 capture_lanes:
-  - National Security Bypass
-  - Foreign-Enrichment-as-Foreign-Policy
-  - AI-Infrastructure Capture
+  - Executive Power Expansion
+  - International Kleptocracy
+  - Digital and Tech Capture
 ---
 
 In July 2024, Bloomberg reported that **Lunate** — a newly-established Abu Dhabi investment vehicle under Sheikh Tahnoon bin Zayed's **Royal Group / International Holding Company** — had taken over the China-focused **42X Fund** that was previously held by G42, Tahnoon's AI company. The 42X Fund held stakes in Chinese technology companies including **JD.com** and **ByteDance**. The transfer from G42 to Lunate was the formal mechanism by which G42 complied with U.S. government demands that it divest from Chinese technology — while keeping those same Chinese assets within the Tahnoon portfolio.

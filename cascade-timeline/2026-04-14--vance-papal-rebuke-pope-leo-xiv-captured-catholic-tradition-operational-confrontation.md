@@ -130,8 +130,8 @@ sources:
     tier: 2
 capture_lanes:
   - Captured Pulpits
-  - Religious Capture
-  - Democratic Backsliding
+  - Theological Legitimation
+  - Democratic Erosion
 cross_references:
   - cascade-research/concepts/captured-tradition-vs-confessing-tradition.md
   - ramm/concepts/catholic-integralism-intellectual-lineage-maistre-to-vance.md

@@ -49,9 +49,7 @@ sources:
     date: '2026'
     tier: 3
 capture_lanes:
-  - Sanctions Policy Capture
-  - Foreign Policy Capture
-  - Trump-Family Financial Architecture
+  - International Kleptocracy
 ---
 
 In December 2025, Congress included language in the Fiscal Year 2026 National Defense Authorization Act (NDAA) repealing the **Caesar Syria Civilian Protection Act of 2019**. The FY 2026 NDAA passed both chambers and was signed into law by President Trump, taking effect in January 2026. The Caesar Act repeal removed comprehensive U.S. secondary sanctions that had made it commercially unviable for non-U.S. firms with U.S.-dollar or U.S.-market exposure to participate in Syrian government-backed reconstruction contracts.

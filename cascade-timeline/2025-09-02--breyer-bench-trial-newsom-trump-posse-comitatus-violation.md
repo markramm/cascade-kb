@@ -19,7 +19,7 @@ capture_lanes:
   - Judicial Capture
   - Executive Power Expansion
   - Civil Rights Suppression
-  - Federal-State-Local Enforcement Integration
+  - Detention Industrial Complex
 tags:
   - posse-comitatus
   - newsom-v-trump

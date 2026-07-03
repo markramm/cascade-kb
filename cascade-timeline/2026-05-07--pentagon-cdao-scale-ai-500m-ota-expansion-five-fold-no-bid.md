@@ -60,9 +60,9 @@ sources:
     date: '2026-05-07'
     tier: 2
 capture_lanes:
-  - Military-Industrial Capture
+  - Military-Industrial Complex
   - Digital and Tech Capture
-  - Accountability Elimination
+  - Democratic Erosion
 ---
 
 On May 7, 2026, the Department of War's Chief Digital and Artificial Intelligence Office (CDAO) announced a five-fold expansion of its enterprise agreement with Scale AI — from a $100 million ceiling to $500 million — just eight months after the original award. The expansion used Other Transaction Authority (OTA), the same no-bid mechanism that simultaneously allowed the contract to be modified without competitive solicitation. Any Pentagon component can now launch a Project Agreement against the vehicle without issuing a new bid.

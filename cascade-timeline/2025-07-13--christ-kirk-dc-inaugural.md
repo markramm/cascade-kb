@@ -47,9 +47,8 @@ sources:
     date: '2025-07-15'
     tier: 2
 capture_lanes:
-  - christian-nationalism
-  - theological-legitimation-layer
-  - personnel-pipeline
+  - Theological Legitimation
+  - Personnel Capture
 coverage: []
 ---
 

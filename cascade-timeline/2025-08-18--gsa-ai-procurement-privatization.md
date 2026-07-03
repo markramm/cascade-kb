@@ -20,7 +20,8 @@ actors:
 - General Services Administration
 - Tech companies
 - Defense contractors
-capture_lane: regulatory
+capture_lane:
+  - Regulatory Capture
 status: confirmed
 sources:
 - outlet: GSA

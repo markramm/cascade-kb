@@ -70,11 +70,9 @@ sources:
     date: '2025-09-12'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - nar-pentecostal-lane
+  - Theological Legitimation
   - cross-track-integration
-  - theological-legitimation-layer
-  - electoral-capture
+  - Electoral Manipulation
 coverage: []
 ---
 

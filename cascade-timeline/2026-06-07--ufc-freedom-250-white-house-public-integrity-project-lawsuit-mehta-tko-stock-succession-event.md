@@ -71,8 +71,7 @@ related:
   - 2025-07-24--fcc-paramount-skydance-approval
 capture_lanes:
   - Systematic Corruption
-  - Media Capture
-  - Conflicts of Interest
+  - Media Capture and Control
 ---
 
 On **June 7, 2026**, the **Public Integrity Project** — an anti-corruption law firm led by CEO **Brendan Ballou** (former DOJ prosecutor, resigned January 2025 over Trump's pardons of January 6 rioters), backed by former Wisconsin Democratic Senator Russ Feingold — filed a federal lawsuit in the U.S. District Court for the District of Columbia (Case No. gov.uscourts.dcd.293217) on behalf of two Virginia-area residents (described as a Vietnam War veteran and a civic activist) seeking to block the **UFC Freedom 250** event scheduled for **June 14, 2026** (Trump's 80th birthday) on the **White House South Lawn**. U.S. District Judge **Amit P. Mehta** was assigned the case and on June 8 ordered the Interior Department to propose a schedule for briefings and a potential hearing. The Trump administration filed its response on **Tuesday evening June 9**, per the court's deadline. The **DOJ characterized all claims as "meritless"** and argued that federal law does not require Congressional approval for "temporary structures" on White House grounds. The government notified Judge Mehta that counsel would be available **Thursday June 11** should he schedule oral arguments. Plaintiffs' reply was due Wednesday evening June 10.

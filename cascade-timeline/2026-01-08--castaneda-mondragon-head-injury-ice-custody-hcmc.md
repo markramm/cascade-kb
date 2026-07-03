@@ -40,7 +40,7 @@ sources:
     date: "2026-02-07"
     tier: 2
 capture_lanes:
-  - Constitutional Breakdown
+  - Constitutional Crisis
   - Democratic Erosion
 ---
 

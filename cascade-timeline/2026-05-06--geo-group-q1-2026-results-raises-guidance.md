@@ -42,8 +42,8 @@ sources:
     tier: 2
 capture_lanes:
   - Detention Industrial Complex
-  - Congressional Oversight (negative space)
-  - Federal Contracting
+  - Legislative Capture
+  - Corporate Capture
 coverage:
   - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
     title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"

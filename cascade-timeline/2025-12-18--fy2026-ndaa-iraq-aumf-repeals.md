@@ -47,7 +47,7 @@ sources:
     tier: 1
 capture_lanes:
   - Legislative Capture
-  - War Powers
+  - Executive Power Expansion
 coverage: []
 ---
 

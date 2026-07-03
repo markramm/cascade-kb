@@ -111,7 +111,6 @@ capture_lanes:
   - Legislative Capture
   - Executive Power Expansion
   - International Kleptocracy
-  - Trump-Family Financial Architecture
 coverage: []
 ---
 

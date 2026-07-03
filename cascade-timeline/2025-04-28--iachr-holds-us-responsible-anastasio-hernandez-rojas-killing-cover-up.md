@@ -51,9 +51,9 @@ sources:
     date: '2025-05-11'
     tier: 2
 capture_lanes:
-  - immigration-enforcement
-  - accountability-capture
-  - international-accountability
+  - Detention Industrial Complex
+  - Democratic Erosion
+  - International Kleptocracy
 coverage:
   - url: https://theramm.substack.com/p/three-jesuses-one-building
     title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"

@@ -17,7 +17,6 @@ tags:
   - foreign-policy
 capture_lanes:
   - Foreign State Capital Flow
-  - Conflicts of Interest
   - Systematic Corruption
   - Personal-Family Capture
 actors:

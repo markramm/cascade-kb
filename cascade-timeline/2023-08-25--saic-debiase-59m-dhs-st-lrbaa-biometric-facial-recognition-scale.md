@@ -66,7 +66,7 @@ sources:
     date: '2026-05-14'
     tier: 1
 capture_lanes:
-  - Surveillance-Inc-Privatized-Surveillance-Industrial-Complex
+  - Surveillance Infrastructure
   - DHS-RD-Pipeline-Accountability-Gap
 coverage: []
 ---

@@ -36,7 +36,7 @@ sources:
     date: "2026-06-09"
     tier: 1
 capture_lanes:
-  - Judicial
+  - Judicial Capture
   - Democratic Erosion
 ---
 

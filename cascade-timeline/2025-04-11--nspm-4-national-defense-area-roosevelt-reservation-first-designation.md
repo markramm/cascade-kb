@@ -61,8 +61,8 @@ capture_lanes:
   - Executive Power Expansion
   - Military-Industrial Complex
   - Civil Rights Suppression
-  - Federal-State-Local Enforcement Integration
-  - Visibility Suppression
+  - Detention Industrial Complex
+  - Media Capture and Control
 authority_invoked:
   - National Security Presidential Memorandum 4 (NSPM-4)
   - Article II commander-in-chief authority (asserted)

@@ -32,9 +32,9 @@ sources:
     date: '2026-04-20'
     tier: 1
 capture_lanes:
-  - Procurement Capture
-  - Navy-Procurement-Bypass (WEXMAC-TITUS)
-  - Congressional Oversight
+  - Corporate Capture
+  - Military-Industrial Complex
+  - Legislative Capture
 coverage:
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
     title: "Detention Pipeline: The May Inflection"

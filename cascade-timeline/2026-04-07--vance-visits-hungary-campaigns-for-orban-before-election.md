@@ -41,7 +41,7 @@ sources:
     date: '2026-04-07'
     tier: 1
 capture_lanes:
-  - Democratic Backsliding
+  - Democratic Erosion
   - International Kleptocracy
 ---
 

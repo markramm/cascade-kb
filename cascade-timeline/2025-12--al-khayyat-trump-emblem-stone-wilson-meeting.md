@@ -43,7 +43,7 @@ sources:
     date: '2026-04'
     tier: 3
 capture_lanes:
-  - Sanctions Policy Capture
+  - International Kleptocracy
   - Trump-Brand-Leverage
   - Executive Patronage
 coverage: []

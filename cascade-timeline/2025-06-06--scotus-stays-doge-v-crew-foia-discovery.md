@@ -41,7 +41,7 @@ sources:
 capture_lanes:
   - Judicial Capture
   - Executive Power Expansion
-  - Federal Workforce Capture
+  - Personnel Capture
 coverage: []
 ---
 

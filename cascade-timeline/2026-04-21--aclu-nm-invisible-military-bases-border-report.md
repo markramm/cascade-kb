@@ -40,7 +40,7 @@ capture_lanes:
   - Civil Rights Suppression
   - Executive Power Expansion
   - Military-Industrial Complex
-  - Visibility Suppression
+  - Media Capture and Control
 key_findings:
   - "109,651 acres in New Mexico designated as National Defense Areas (DoD-jurisdiction federal land)"
   - "4,600+ federal cases filed alleging military-trespass violations since first NDA designation April 2025"

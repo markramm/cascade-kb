@@ -60,7 +60,7 @@ sources:
 capture_lanes:
   - Detention Industrial Complex
   - Executive Power Expansion
-  - Federal Contracting
+  - Corporate Capture
 coverage: []
 ---
 

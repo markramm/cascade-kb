@@ -48,8 +48,8 @@ sources:
     date: '2025-12-11'
     tier: 2
 capture_lanes:
-  - Defense-Tech Privatization
-  - Surveillance-Industrial Complex
+  - Military-Industrial Complex
+  - Surveillance Infrastructure
   - Foreign-Technology Export
   - Gulf-State-as-Foreign-Laboratory
 coverage: []

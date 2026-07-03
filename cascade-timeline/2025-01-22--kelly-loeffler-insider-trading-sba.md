@@ -5,7 +5,8 @@ actors:
 - intercontinental-exchange
 - sba
 - Jeffrey Sprecher
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 capture_lanes:
 - Systematic Corruption
 connections:

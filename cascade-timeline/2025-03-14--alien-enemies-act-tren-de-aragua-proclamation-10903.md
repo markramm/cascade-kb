@@ -18,8 +18,8 @@ verification_status: tier-1
 capture_lanes:
   - Executive Power Expansion
   - Civil Rights Suppression
-  - Federal-State-Local Enforcement Integration
-  - Visibility Suppression
+  - Detention Industrial Complex
+  - Media Capture and Control
 tags:
   - alien-enemies-act
   - tren-de-aragua

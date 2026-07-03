@@ -48,9 +48,9 @@ sources:
     date: '2026-05-28'
     tier: 1
 capture_lanes:
-  - AI Policy Capture
+  - Digital and Tech Capture
   - Regulatory Capture
-  - Theological Legitimation Layer
+  - Theological Legitimation
 coverage: []
 ---
 

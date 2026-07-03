@@ -37,8 +37,8 @@ sources:
     date: "2010-12-23"
     tier: 1
 capture_lanes:
-  - detention-industrial-complex
-  - revolving-door
+  - Detention Industrial Complex
+  - Personnel Capture
 coverage: []
 ---
 

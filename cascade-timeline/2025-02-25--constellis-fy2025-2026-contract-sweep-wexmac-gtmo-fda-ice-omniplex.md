@@ -71,9 +71,8 @@ sources:
     date: '2025-01-14'
     tier: 2
 capture_lanes:
-  - Privatized-Force-Projection Arc (Phase 3 → Phase 4)
   - Military-Industrial Complex
-  - Domestic-Detention-and-Removal Substrate
+  - Detention Industrial Complex
 coverage: []
 ---
 

@@ -65,8 +65,9 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
   - Executive Power Expansion
+  - Media Capture and Control
+relocated_lanes:
   - Judicial Resistance
-  - Visibility Suppression
 docket_references:
   - "In re Misdemeanor Charges Pursuant to 50 U.S.C. § 797 AND 18 U.S.C. § 1382, No. 2:25-mc-00019 (D.N.M.) — May 1, 2025 order directing government briefing on mens rea requirements"
   - "United States v. Lopez-Gonzalez, No. 25-mj-01562 (D.N.M.) — May 14, 2025 individual dismissal order (Tier-1 docket-pull: govinfo.gov/content/pkg/USCOURTS-nmd-2_25-mj-01498/pdf/ documents the D.N.M. 2:25-mj series; full docket pull requires PACER)"

@@ -21,7 +21,8 @@ actors:
 - jair-bolsonaro
 - brazil-government
 - world-trade-organization
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: White House

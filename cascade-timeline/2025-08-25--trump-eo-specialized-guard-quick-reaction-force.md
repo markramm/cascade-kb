@@ -18,7 +18,7 @@ capture_lanes:
   - Executive Power Expansion
   - Military-Industrial Complex
   - Civil Rights Suppression
-  - Federal-State-Local Enforcement Integration
+  - Detention Industrial Complex
 tags:
   - executive-order
   - national-guard

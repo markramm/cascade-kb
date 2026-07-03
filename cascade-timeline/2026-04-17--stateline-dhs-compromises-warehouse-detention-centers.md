@@ -49,8 +49,9 @@ sources:
     tier: 2
 capture_lanes:
   - Detention Industrial Complex
+  - Regulatory Capture
+relocated_lanes:
   - State-Level Resistance
-  - Administrative Reversal
 coverage:
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
     title: "Detention Pipeline: The May Inflection"

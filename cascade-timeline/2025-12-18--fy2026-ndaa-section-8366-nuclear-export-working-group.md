@@ -49,8 +49,7 @@ sources:
     date: '2026-02'
     tier: 1
 capture_lanes:
-  - Foreign Policy Capture
-  - Sanctions Policy Capture
+  - International Kleptocracy
   - Legislative Capture
 coverage: []
 ---

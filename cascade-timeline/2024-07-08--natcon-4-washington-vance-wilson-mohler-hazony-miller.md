@@ -50,10 +50,9 @@ sources:
     date: '2025-05-01'
     tier: 1
 capture_lanes:
-  - Theological legitimation layer
-  - Electoral capture
-  - Christian Nationalism
-  - Personnel pipeline
+  - Theological Legitimation
+  - Electoral Manipulation
+  - Personnel Capture
 coverage: []
 ---
 

@@ -50,7 +50,7 @@ sources:
     date: '2025-11-12'
     tier: 2
 capture_lanes:
-  - Energy Systems Capture
+  - Environmental Capture
   - Regulatory Capture
   - Executive Power Expansion
 coverage: []

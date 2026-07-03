@@ -62,9 +62,8 @@ sources:
     date: '2025-12-20'
     tier: 1
 capture_lanes:
-  - Christian Nationalism
-  - Theological legitimation layer
-  - Electoral capture
+  - Theological Legitimation
+  - Electoral Manipulation
 coverage:
   - url: https://theramm.substack.com/p/three-jesuses-one-building
     title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"

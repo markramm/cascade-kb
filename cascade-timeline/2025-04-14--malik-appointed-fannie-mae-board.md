@@ -32,7 +32,7 @@ tags:
 capture_lanes:
   - Regulatory Capture
   - Financial Capture
-  - Trump-Family Financial Architecture
+  - International Kleptocracy
   - Executive Power Expansion
 sources:
   - title: "Fannie Mae Appoints Omeed Malik to the Board of Directors, Effective April 14, 2025"

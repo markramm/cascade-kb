@@ -19,7 +19,7 @@ actors:
   - Immigration and Customs Enforcement (ICE)
 location: Broadview ICE Processing Center, Broadview, Illinois
 capture_lanes:
-  - Religious Capture and Holy War Apparatus
+  - Theological Legitimation
 verification_status: confirmed
 sources:
   - url: https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility

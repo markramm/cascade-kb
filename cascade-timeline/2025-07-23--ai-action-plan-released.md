@@ -49,7 +49,7 @@ sources:
 capture_lanes:
   - Regulatory Capture
   - Executive Power Expansion
-  - Energy Systems Capture
+  - Environmental Capture
 coverage: []
 ---
 

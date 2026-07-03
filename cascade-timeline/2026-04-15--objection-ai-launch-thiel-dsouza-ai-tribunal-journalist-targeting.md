@@ -12,10 +12,10 @@ actors:
   - Sarah Cone
   - Kyle Grant-Talbot
 capture_lanes:
-  - Press Suppression
-  - AI Infrastructure Capture
+  - Media Capture and Control
+  - Digital and Tech Capture
+relocated_lanes:
   - Thiel Network
-  - Captured-X Automation Layer
 tags:
   - objection-ai
   - ai-tribunal

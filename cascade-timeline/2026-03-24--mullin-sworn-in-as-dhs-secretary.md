@@ -69,7 +69,7 @@ sources:
     tier: 2
 capture_lanes:
   - Executive Power Expansion
-  - Immigration System Capture
+  - Detention Industrial Complex
   - Democratic Erosion
 coverage:
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection

@@ -79,7 +79,7 @@ sources:
     date: '2026'
     tier: 1
 capture_lanes:
-  - Energy Systems Capture
+  - Environmental Capture
   - Regulatory Capture
   - Executive Power Expansion
 coverage: []

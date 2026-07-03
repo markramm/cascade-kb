@@ -54,8 +54,8 @@ sources:
     date: '2026-02-17'
     tier: 2
 capture_lanes:
-  - Congressional Oversight
-  - Navy-Procurement-Bypass (WEXMAC-TITUS)
+  - Legislative Capture
+  - Military-Industrial Complex
   - DoD-DHS Resource Diversion
 coverage: []
 ---

@@ -37,8 +37,7 @@ sources:
     date: '2021'
     tier: 2
 capture_lanes:
-  - Foreign Policy Capture
-  - Sanctions Policy Capture
+  - International Kleptocracy
 ---
 
 On **July 30, 2019**, a claim form was issued in the Queen's Bench Division of the England and Wales High Court, case number **QB-2019-002712**, naming Moutaz Al-Khayyat, Ramez Al-Khayyat, and Doha Bank Limited as defendants in a civil terrorism-financing action. On subsequent appeal and strike-out motion practice, the case was styled ***BB and Others v Doha Bank Ltd*** ([2023] EWCA Civ 253).

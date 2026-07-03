@@ -44,8 +44,8 @@ sources:
     date: "2026-05-15"
     tier: 1
 capture_lanes:
-  - Detention/ICE
-  - Contracts/Surveillance
+  - Detention Industrial Complex
+  - Surveillance Infrastructure
 ---
 
 On June 17, 2026, Reuters published a data-driven investigation — using ICE mortality records obtained by the Deportation Data Project through public records requests, processed by the Vera Institute of Justice — establishing that the death rate in US immigration detention has more than doubled since Trump returned to office.

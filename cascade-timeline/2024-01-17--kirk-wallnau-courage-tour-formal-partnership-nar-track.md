@@ -55,10 +55,8 @@ sources:
     date: '2024-05-01'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - nar-pentecostal-lane
-  - electoral-capture
-  - theological-legitimation-layer
+  - Theological Legitimation
+  - Electoral Manipulation
   - seven-mountains-dominionism
 coverage: []
 ---

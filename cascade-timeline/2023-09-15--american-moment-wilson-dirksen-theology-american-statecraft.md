@@ -37,9 +37,8 @@ sources:
     date: '2024-01-01'
     tier: 2
 capture_lanes:
-  - Personnel pipeline
-  - Theological legitimation layer
-  - Christian Nationalism
+  - Personnel Capture
+  - Theological Legitimation
 coverage: []
 ---
 

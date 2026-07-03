@@ -34,7 +34,7 @@ sources:
     tier: 2
 capture_lanes:
   - Surveillance Infrastructure
-  - Financialization
+  - Financial Capture
 coverage: []
 ---
 

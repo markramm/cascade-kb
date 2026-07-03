@@ -43,7 +43,7 @@ sources:
     publisher: "Journal of Policy History, Cambridge University Press"
     tier: 1
 capture_lanes:
-  - Captured-Pulpits Genealogy
+  - Theological Legitimation
   - Abortion as Political Wedge — Origins
   - Nixon Catholic Strategy
 coverage: []

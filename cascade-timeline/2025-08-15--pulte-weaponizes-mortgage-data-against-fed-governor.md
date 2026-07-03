@@ -22,7 +22,8 @@ actors:
 - Federal Reserve
 - fhfa
 - Department of Justice
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: CNN Business

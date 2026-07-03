@@ -74,7 +74,7 @@ sources:
 capture_lanes:
   - Regulatory Capture
   - Financial Capture
-  - Gulf-State Capital Flow
+  - International Kleptocracy
   - Systematic Corruption
 coverage:
   - url: https://theramm.substack.com/p/the-precedent-corridor

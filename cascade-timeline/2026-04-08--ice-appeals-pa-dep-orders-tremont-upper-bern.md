@@ -49,8 +49,9 @@ sources:
     tier: 1
 capture_lanes:
   - Detention Industrial Complex
-  - State-Level Resistance
   - Environmental Review Circumvention
+relocated_lanes:
+  - State-Level Resistance
 coverage:
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
     title: "Detention Pipeline: The May Inflection"

@@ -34,7 +34,7 @@ sources:
     date: "2026-02-13"
     tier: 2
 capture_lanes:
-  - Constitutional Breakdown
+  - Constitutional Crisis
   - Democratic Erosion
 coverage:
   - url: https://theramm.substack.com/p/three-jesuses-one-building

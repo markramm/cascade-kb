@@ -39,7 +39,7 @@ sources:
     date: "2025-05-11"
     tier: 1
 capture_lanes:
-  - Constitutional Breakdown
+  - Constitutional Crisis
   - Democratic Erosion
 ---
 

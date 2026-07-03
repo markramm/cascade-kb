@@ -20,7 +20,7 @@ actors:
   - Kelly Hayes
 location: Broadview ICE Processing Center, Broadview, Illinois
 capture_lanes:
-  - Religious Capture and Holy War Apparatus
+  - Theological Legitimation
 verification_status: confirmed
 sources:
   - url: https://wgntv.com/news/video-ice-agents-shoot-chicago-pastor-in-head-with-pepper-ball-outside-broadview-facility/

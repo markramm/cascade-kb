@@ -37,7 +37,7 @@ sources:
 status: confirmed
 capture_lanes:
   - Regulatory Capture
-  - Personnel Pipeline
+  - Personnel Capture
 ---
 
 Lindsey Burke, author of Project 2025's Chapter 11 (Department of Education) and Heritage Foundation fellow for 17 years, is named Deputy Chief of Staff for Policy and Programs at the Education Department, June 9, 2025. Burke's chapter called for dismantling the department, converting Title I and IDEA funding to block grants, and expanding school choice. Her placement is one of seven confirmed chapter-author-to-executive-role matches in the Project 2025 personnel pipeline across the Trump 2 administration's first eighteen months.

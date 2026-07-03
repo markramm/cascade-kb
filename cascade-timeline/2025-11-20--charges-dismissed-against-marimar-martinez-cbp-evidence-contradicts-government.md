@@ -13,7 +13,7 @@ actors:
   - Judge Georgia Alexakis
 capture_lanes:
   - Civil Rights Suppression
-  - Accountability Bypass
+  - Democratic Erosion
 tags:
   - marimar-martinez
   - cbp

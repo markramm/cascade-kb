@@ -46,7 +46,7 @@ sources:
     date: '2025-06-12'
     tier: 1
 capture_lanes:
-  - Sanctions Policy Capture
+  - International Kleptocracy
   - Legislative Pre-positioning
 coverage: []
 ---

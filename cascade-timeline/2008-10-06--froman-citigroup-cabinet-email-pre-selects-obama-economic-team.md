@@ -50,7 +50,6 @@ sources:
     tier: 1
 capture_lanes:
   - Personnel Capture
-  - Revolving Door
   - Financial-Crisis Non-Prosecution
 coverage: []
 ---

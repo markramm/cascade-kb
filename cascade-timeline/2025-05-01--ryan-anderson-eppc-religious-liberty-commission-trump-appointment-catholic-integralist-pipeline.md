@@ -35,7 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
   - Regulatory Capture
-  - Personnel Pipeline
+  - Personnel Capture
 ---
 
 On the National Day of Prayer, May 1, 2025, President Trump signs an executive order creating the Presidential Religious Liberty Commission and names EPPC President Ryan T. Anderson as a member. Texas Lieutenant Governor Dan Patrick chairs the commission; former HHS Secretary Ben Carson is vice chair. Additional members include Cardinal Timothy Dolan, Bishop Robert Barron, and Rabbi Meier Soloveichik.

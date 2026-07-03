@@ -37,7 +37,7 @@ sources:
     tier: 2
 capture_lanes:
   - Electoral Manipulation
-  - Democratic Backsliding
+  - Democratic Erosion
 ---
 
 A coalition of 23 states and the District of Columbia filed a federal lawsuit challenging Trump's March 31 executive order restricting mail-in voting, arguing it "violates bedrock principles of federalism and separation of powers" by attempting to bypass the constitutional role of states and Congress in administering elections. The lawsuit, led by California, was filed in federal district court in Massachusetts. Attorney General Keith Ellison of Minnesota and Letitia James of New York were among the leads. A parallel lawsuit was filed by Senate Minority Leader Chuck Schumer, House Minority Leader Hakeem Jeffries, the DNC, and party campaign organizations.

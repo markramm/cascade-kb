@@ -73,9 +73,10 @@ sources:
     tier: 1
 capture_lanes:
   - Detention Industrial Complex
-  - State-Level Resistance
   - NEPA-Evasion
-  - Navy-Procurement-Bypass (WEXMAC-TITUS)
+  - Military-Industrial Complex
+relocated_lanes:
+  - State-Level Resistance
 coverage:
   - url: https://theramm.substack.com/p/surprise
     title: "Surprise"

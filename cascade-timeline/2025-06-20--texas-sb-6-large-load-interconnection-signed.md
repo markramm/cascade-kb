@@ -52,8 +52,8 @@ sources:
     date: '2025-07-25'
     tier: 2
 capture_lanes:
-  - State Regulatory Reform
-  - Energy Systems Capture
+  - Regulatory Capture
+  - Environmental Capture
 coverage: []
 ---
 

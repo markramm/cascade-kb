@@ -19,7 +19,8 @@ actors:
 - Department of Justice
 - Internal Revenue Service
 - drake-ventures-llc
-capture_lane: judicial
+capture_lane:
+  - Judicial Capture
 status: confirmed
 sources:
 - outlet: Tax Notes

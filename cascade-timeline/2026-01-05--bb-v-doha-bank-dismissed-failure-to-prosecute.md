@@ -34,8 +34,7 @@ sources:
     date: '2023-03-08'
     tier: 0
 capture_lanes:
-  - Foreign Policy Capture
-  - Sanctions Policy Capture
+  - International Kleptocracy
 ---
 
 On **January 5, 2026**, Judge Emma Kelly of the England and Wales High Court (Queen's Bench Division) dismissed in its entirety the ~330-claimant terrorism-financing civil suit ***BB and Others v Doha Bank Ltd*** (parallel to original claim QB-2019-002712, filed July 30, 2019). The dismissal struck out claims against **both** Moutaz Al-Khayyat, Ramez Al-Khayyat, **and** Doha Bank Ltd.

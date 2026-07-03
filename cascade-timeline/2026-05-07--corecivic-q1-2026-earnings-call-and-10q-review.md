@@ -17,8 +17,8 @@ actors:
   - Markwayne Mullin
 capture_lanes:
   - Detention Industrial Complex
-  - Congressional Oversight (negative space)
-  - Federal Contracting
+  - Legislative Capture
+  - Corporate Capture
   - Financial Capture
 tags:
   - q1-2026-earnings

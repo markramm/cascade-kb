@@ -27,7 +27,7 @@ sources:
     date: '2025-10'
     tier: 1
 capture_lanes:
-  - Privatization of Force Projection
+  - Military-Industrial Complex
 coverage: []
 ---
 

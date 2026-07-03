@@ -6,7 +6,8 @@ actors:
 - pacific-architects-and-engineers
 - Defense Department
 - National Security Council
-capture_lane: military
+capture_lane:
+  - Military-Industrial Complex
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

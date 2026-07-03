@@ -70,8 +70,8 @@ sources:
     date: '2025-04-28'
     tier: 1
 capture_lanes:
-  - immigration-enforcement
-  - accountability
+  - Detention Industrial Complex
+  - Democratic Erosion
   - cover-up-architecture
 coverage:
   - url: https://theramm.substack.com/p/three-jesuses-one-building

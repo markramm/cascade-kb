@@ -6,7 +6,8 @@ actors:
 - continental-resources
 - Microsoft
 - u-s-office-of-government-ethics
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

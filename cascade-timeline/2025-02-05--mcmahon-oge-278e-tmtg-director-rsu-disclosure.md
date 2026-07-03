@@ -35,8 +35,7 @@ actors:
 capture_lanes:
   - Systematic Corruption
   - Regulatory Capture
-  - Conflicts of Interest
-  - Trump-Family Financial Architecture
+  - International Kleptocracy
 capture_type: monetizing_position
 patterns:
   - kleptocratic-capture

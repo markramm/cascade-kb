@@ -35,10 +35,9 @@ sources:
     date: '2022-03-30'
     tier: 2
 capture_lanes:
-  - christian-nationalism
+  - Theological Legitimation
   - pentecostal-nar-adjacent
-  - electoral-capture
-  - theological-legitimation-layer
+  - Electoral Manipulation
 coverage: []
 ---
 

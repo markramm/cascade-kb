@@ -36,7 +36,7 @@ sources:
     date: '2024-06-19'
     tier: 2
 capture_lanes:
-  - Christian Nationalism
+  - Theological Legitimation
   - Legislative Capture
 coverage: []
 ---

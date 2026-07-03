@@ -56,6 +56,9 @@ sources:
   date: '2024-02-09'
   archive_url: 'https://web.archive.org/web/20240815000000/https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-architecture-of-visibility
+    title: "The Architecture of Visibility: How Meta Made Political Speech Disappear Without Banning It"
 ---
 Meta announced on February 9, 2024, that Instagram and Threads would no longer proactively recommend political content from accounts that users do not already follow, making political content non-recommended by default. The policy change, announced by Meta CEO Mark Zuckerberg, applied to content related to politics, crime, tragedy, and civil unrest. Users who wished to see political content in their Explore feeds, Reels recommendations, or suggested accounts would need to actively opt in through settings changes.
 

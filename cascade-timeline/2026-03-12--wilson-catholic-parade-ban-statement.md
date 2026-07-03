@@ -42,8 +42,7 @@ sources:
     date: '2026-03-17'
     tier: 2
 capture_lanes:
-  - christian-nationalism
-  - church-state-capture
+  - Theological Legitimation
   - coalition-fracture
 coverage: []
 ---

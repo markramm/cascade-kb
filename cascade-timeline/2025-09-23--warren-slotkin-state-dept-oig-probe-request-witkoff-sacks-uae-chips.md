@@ -42,9 +42,8 @@ sources:
     date: '2025-09-25'
     tier: 2
 capture_lanes:
-  - Foreign Enrichment as Foreign Policy
-  - Accountability Elimination
-  - Gulf-State Capital Flow
+  - International Kleptocracy
+  - Democratic Erosion
 coverage: []
 ---
 

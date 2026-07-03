@@ -23,8 +23,8 @@ tags:
   - self-dealing
   - Bank-Secrecy-Act
 capture_lanes:
-  - Crypto Cascade
-  - MAGA Empire
+  - Financial Capture
+  - International Kleptocracy
 sources:
   - title: 'Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements'
     url: https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism

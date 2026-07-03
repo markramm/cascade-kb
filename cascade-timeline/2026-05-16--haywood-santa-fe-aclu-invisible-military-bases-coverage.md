@@ -41,7 +41,7 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
   - Executive Power Expansion
-  - Visibility Suppression
+  - Media Capture and Control
 named_actors_added_to_corpus:
   - "Judge Gregory Wormuth (Chief Federal Magistrate, District of NM, Las Cruces) — May 2025 probable-cause dismissals; ordered briefing on state-of-mind standard"
   - "Ryan Ellison (First Assistant U.S. Attorney, District of NM) — author of the three-stacked-charges prosecutorial theory; opposed advisory briefing"

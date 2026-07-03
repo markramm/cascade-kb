@@ -33,7 +33,7 @@ sources:
     tier: 1
 capture_lanes:
   - Electoral Manipulation
-  - Democratic Backsliding
+  - Democratic Erosion
 ---
 
 President Trump issued Executive Order "Ensuring Citizen Verification and Integrity in Federal Elections," directing federal agencies to compile lists of US citizens and transmit them to states before every election, directing the US Postal Service to create a list of "approved" mail voters, and instructing USPS to refuse to deliver ballots from voters not on the federally created list. Constitutional scholars and election law experts said the president lacks authority to unilaterally impose changes to federal election procedures without an act of Congress.

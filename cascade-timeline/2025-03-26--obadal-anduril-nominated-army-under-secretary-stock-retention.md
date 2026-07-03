@@ -41,9 +41,9 @@ sources:
     date: '2025-03-26'
     tier: 2
 capture_lanes:
-  - Procurement capture
-  - Personnel pipeline
-  - Surveillance infrastructure
+  - Corporate Capture
+  - Personnel Capture
+  - Surveillance Infrastructure
 coverage:
   - url: https://theramm.substack.com/p/the-recusal-that-wasnt
     title: "The Recusal That Wasn't"

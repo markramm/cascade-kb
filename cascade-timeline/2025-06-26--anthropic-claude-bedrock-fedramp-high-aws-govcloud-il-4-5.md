@@ -33,8 +33,8 @@ sources:
     date: '2025-06-26'
     tier: 2
 capture_lanes:
-  - Surveillance infrastructure
-  - Critical-infrastructure dependency
+  - Surveillance Infrastructure
+  - Digital and Tech Capture
 coverage: []
 ---
 

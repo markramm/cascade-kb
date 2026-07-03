@@ -34,7 +34,7 @@ tags:
   - investigation-2
 capture_lanes:
   - Captured-X Political Coalition Layer
-  - Tech-Policy Capture
+  - Digital and Tech Capture
   - Bipartisan-Coalition
   - China-Hawk-Substrate
 sources:

@@ -80,8 +80,8 @@ sources:
     tier: 2
     note: "Bilingual English and Hungarian transcript archive. DIRECT (secondary archive of primary text)."
 capture_lanes:
-  - Democratic Erosion and Autocratic Legalism
-  - International Capture-Model Export
+  - Democratic Erosion
+  - International Kleptocracy
 coverage: []
 ---
 

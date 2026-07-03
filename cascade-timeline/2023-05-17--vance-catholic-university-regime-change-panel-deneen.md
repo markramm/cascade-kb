@@ -45,9 +45,8 @@ sources:
     date: '2024-08-15'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - catholic-integralism
-  - conservative-institutional-network
+  - Theological Legitimation
+  - Legislative Capture
 coverage: []
 ---
 

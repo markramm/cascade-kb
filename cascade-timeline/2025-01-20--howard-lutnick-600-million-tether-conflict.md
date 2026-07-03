@@ -7,7 +7,8 @@ actors:
 - Department of Justice
 - U.S. Department of Commerce
 - Elizabeth Warren
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

@@ -114,9 +114,9 @@ sources:
     tier: 2
     note: DIRECT — full English text of the May 19 keynote with all 12 points; independently corroborates the official About Hungary version
 capture_lanes:
-  - International Capture-Model Export
-  - Democratic Backsliding Infrastructure
-  - Christian Nationalism Coalition Infrastructure
+  - International Kleptocracy
+  - Democratic Erosion
+  - Theological Legitimation
 coverage: []
 ---
 

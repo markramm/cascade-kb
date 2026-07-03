@@ -17,7 +17,7 @@ tags:
 capture_lanes:
   - Judicial Capture
   - Democratic Erosion
-  - Law Enforcement Weaponization
+  - Executive Power Expansion
 actors:
   - Boris Epshteyn
   - Kris Mayes

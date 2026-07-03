@@ -43,7 +43,7 @@ sources:
     tier: 1
 capture_lanes:
   - Democratic Erosion
-  - Constitutional Breakdown
+  - Constitutional Crisis
 ---
 
 On or about June 17, 2026, U.S. District Judge Indira Talwani (D. Mass.) ruled in *State of California v. Trump* (1:26-cv-11581) — the suit by California AG Rob Bonta and a coalition of two dozen states and Pennsylvania's governor against Executive Order 14399, "Ensuring Citizenship Verification and Integrity in Federal Elections." The order (issued March 31, 2026) directs DHS, under Secretary Markwayne Mullin, to work with the Social Security Administration to compile a federal list of "verified" citizen-voters and bars the USPS from mailing ballots to anyone not on the list. Talwani **denied the administration's bid to dismiss the claims** as they pertain to the November midterms, letting the core challenge proceed.

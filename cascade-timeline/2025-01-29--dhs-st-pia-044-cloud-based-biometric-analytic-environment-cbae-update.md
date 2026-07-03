@@ -41,7 +41,7 @@ sources:
     date: '2024-03'
     tier: 2
 capture_lanes:
-  - Surveillance-Inc-Privatized-Surveillance-Industrial-Complex
+  - Surveillance Infrastructure
   - DHS-S&T-SBIR-LRBAA-R&D-Pipeline
 coverage: []
 ---

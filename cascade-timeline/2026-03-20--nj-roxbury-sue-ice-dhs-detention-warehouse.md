@@ -55,8 +55,9 @@ sources:
     tier: 1
 capture_lanes:
   - Detention Industrial Complex
+  - Military-Industrial Complex
+relocated_lanes:
   - State-Level Resistance
-  - Navy-Procurement-Bypass (WEXMAC-TITUS)
 coverage:
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
     title: "Detention Pipeline: The May Inflection"

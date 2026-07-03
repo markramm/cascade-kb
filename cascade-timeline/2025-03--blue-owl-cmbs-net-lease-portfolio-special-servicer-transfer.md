@@ -41,7 +41,7 @@ sources:
     date: '2025-10-22'
     tier: 1
 capture_lanes:
-  - Financial System Risk
+  - Financial Capture
   - Detention Industrial Complex
 coverage:
   - url: https://theramm.substack.com/p/the-blue-owl-system-the-1195-million

@@ -21,7 +21,8 @@ actors:
 - india-government
 - Apple Inc.
 - Russia
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: White House

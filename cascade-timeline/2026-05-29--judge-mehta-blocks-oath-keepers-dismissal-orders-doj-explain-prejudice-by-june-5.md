@@ -53,9 +53,9 @@ sources:
     date: '2026-04'
     tier: 1
 capture_lanes:
-  - Institutional Capture
+  - Democratic Erosion
+relocated_lanes:
   - Judicial Resistance
-  - Accountability Bypass
 related_entries:
   - blanche-todd
   - 2025-01-20--trump-2-j6-pardons-proud-boys-oath-keepers

@@ -63,7 +63,7 @@ status: confirmed
 capture_lanes:
   - Executive Power Expansion
   - Regulatory Capture
-  - Personnel Pipeline
+  - Personnel Capture
 ---
 
 A per-position audit across 19 high-visibility Trump 2 administration placements confirms that the Project 2025 personnel pipeline operates through three parallel mechanisms, with the Reformed-evangelical / Center for Renewing America stream achieving the highest chapter-author-to-role placement density.

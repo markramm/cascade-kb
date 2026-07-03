@@ -20,7 +20,8 @@ actors:
 - nexstar-media-group
 - tegna
 - Federal Communications Commission
-capture_lane: media
+capture_lane:
+  - Media Capture and Control
 status: confirmed
 sources:
 - outlet: Nexstar Media Group

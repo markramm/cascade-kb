@@ -32,8 +32,7 @@ sources:
     date: '2022-04-14'
     tier: 2
 capture_lanes:
-  - Foreign Policy Capture
-  - Sanctions Policy Capture
+  - International Kleptocracy
 ---
 
 On **March 8, 2023**, the England and Wales Court of Appeal (Civil Division) issued its ruling in ***BB and Others v Doha Bank Ltd*** **[2023] EWCA Civ 253**, addressing Doha Bank's state-immunity defense and related jurisdictional challenges to the underlying terrorism-financing civil proceeding (Queen's Bench Division claim number QB-2019-002712; see [[2019-07-30--bb-and-others-v-doha-bank-uk-filing]]).

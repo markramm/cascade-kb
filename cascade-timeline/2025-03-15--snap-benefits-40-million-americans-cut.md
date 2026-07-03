@@ -20,7 +20,8 @@ actors:
 - USDA
 - department-of-health-human-services
 - U.S. Department of Labor
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: Democracy Forward

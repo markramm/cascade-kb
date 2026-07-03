@@ -46,10 +46,8 @@ sources:
     date: '2024-07-16'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - reformed-postliberal
-  - electoral-capture
-  - theological-legitimation-layer
+  - Theological Legitimation
+  - Electoral Manipulation
 coverage: []
 ---
 

@@ -80,6 +80,7 @@ capture_lanes:
   - Executive Power Expansion
   - Regulatory Capture
   - Loyalty Enforcement
+relocated_lanes:
   - State Resistance
 coverage: []
 ---

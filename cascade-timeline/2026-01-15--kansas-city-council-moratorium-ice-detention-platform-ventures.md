@@ -45,6 +45,7 @@ sources:
     tier: 2
 capture_lanes:
   - Detention Industrial Complex
+relocated_lanes:
   - Community Resistance Infrastructure
   - Local Government Resistance
 ---

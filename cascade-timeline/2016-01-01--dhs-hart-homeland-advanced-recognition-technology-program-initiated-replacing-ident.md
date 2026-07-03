@@ -55,7 +55,7 @@ sources:
 capture_lanes:
   - Surveillance Infrastructure
   - Digital and Tech Capture
-  - Immigration System Capture
+  - Detention Industrial Complex
 coverage: []
 ---
 

@@ -34,6 +34,9 @@ sources:
     publisher: OPB (syndicated NPR, June 4 follow)
     date: '2026-06-04'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-architecture-of-visibility
+    title: "The Architecture of Visibility: How Meta Made Political Speech Disappear Without Banning It"
 ---
 
 On the night of June 3, 2026, CBS fired veteran anchor Scott Pelley — citing "insubordination" — after Pelley confronted new executive producer Nick Bilton in a staff meeting, accusing Weiss-installed leadership of pressuring him to "inject falsehoods and bias" and "include assertions that are unverified." Anderson Cooper is simultaneously reported to have departed the prior month, concerned about the direction of CBS News coverage. NPR's David Folkenflik characterized the pattern on June 3 as "a broader fight over the direction of CBS News" with CBS's acquisition by a billionaire family whose business interests are "intertwined with the political interests of President Trump." The 60 Minutes editorial staff has now lost its anchor, its three senior correspondents (Alfonsi, Vega, Simon — fired in the June 1 "Black Thursday" event, see `2026-06-01--60-minutes-black-thursday-mass-firing-weiss-dan-rather-letter-pelley`), and its veteran executive producer within weeks of Weiss's installation.

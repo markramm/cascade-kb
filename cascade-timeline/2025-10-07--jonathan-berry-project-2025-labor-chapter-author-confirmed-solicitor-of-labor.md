@@ -36,7 +36,7 @@ sources:
 status: confirmed
 capture_lanes:
   - Executive Power Expansion
-  - Personnel Pipeline
+  - Personnel Capture
 ---
 
 Jonathan Berry, sole author of Project 2025's Chapter 18 (Department of Labor), is confirmed as Solicitor of Labor — the department's chief legal officer — in October 2025 as part of a Senate package of 100+ Trump nominees. Berry's DOL chapter called for weakening the federal minimum wage, limiting overtime eligibility, and undermining union organizing through mandatory secret-ballot elections.

@@ -29,8 +29,8 @@ sources:
     date: '2024-08-10'
     tier: 1
 capture_lanes:
-  - Personnel Pipeline
-  - Institutional Capture
+  - Personnel Capture
+  - Democratic Erosion
 coverage: []
 ---
 

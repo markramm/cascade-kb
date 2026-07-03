@@ -29,8 +29,8 @@ tags:
   - kleptocracy
   - media-capture
 capture_lanes:
-  - Democratic Erosion and Autocratic Legalism
-  - International Capture-Model Export
+  - Democratic Erosion
+  - International Kleptocracy
 sources:
   - title: "KESMA founding documents and Hungarian commercial registry"
     url: https://theorangefiles.hu/the-central-european-press-and-media-foundation/

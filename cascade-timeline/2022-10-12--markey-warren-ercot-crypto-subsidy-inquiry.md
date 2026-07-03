@@ -36,8 +36,8 @@ sources:
     date: '2022-10-12'
     tier: 2
 capture_lanes:
-  - Energy Systems Capture
-  - Congressional Oversight
+  - Environmental Capture
+  - Legislative Capture
 coverage: []
 ---
 

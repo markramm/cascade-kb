@@ -23,7 +23,7 @@ actors:
   - Immigration and Customs Enforcement (ICE)
 location: Broadview ICE Processing Center, Broadview, Illinois
 capture_lanes:
-  - Religious Capture and Holy War Apparatus
+  - Theological Legitimation
 verification_status: confirmed
 sources:
   - url: https://www.cbsnews.com/chicago/news/religious-leaders-turned-away-broadview-ice-facility/

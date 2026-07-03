@@ -28,7 +28,6 @@ sources:
     tier: 1
 capture_lanes:
   - Executive Power Expansion
-  - Wartime Emergency Power
 coverage: []
 ---
 

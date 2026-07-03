@@ -74,8 +74,8 @@ sources:
 capture_lanes:
   - Personnel Capture
   - Regulatory Capture
-  - AI Policy Capture
-  - Crypto Policy Capture
+  - Digital and Tech Capture
+  - Financial Capture
 coverage: []
 ---
 

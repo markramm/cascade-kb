@@ -32,8 +32,8 @@ sources:
     date: '2025-12-09'
     tier: 2
 capture_lanes:
-  - Institutional Capture
-  - Policy Architecture
+  - Democratic Erosion
+  - Legislative Capture
 coverage: []
 ---
 

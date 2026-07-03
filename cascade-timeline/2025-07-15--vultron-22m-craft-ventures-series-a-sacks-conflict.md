@@ -50,8 +50,8 @@ sources:
     tier: 1
 capture_lanes:
   - Regulatory Capture
-  - AI Policy Capture
-  - Procurement Capture
+  - Digital and Tech Capture
+  - Corporate Capture
   - Financial Capture
 coverage: []
 ---

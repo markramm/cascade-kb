@@ -41,7 +41,7 @@ sources:
     tier: 1
 capture_lanes:
   - Military-Industrial Complex
-  - Democratic Backsliding
+  - Democratic Erosion
 ---
 
 After 21 hours of face-to-face negotiations in Islamabad, Pakistan collapsed without agreement, President Trump ordered the US Navy to "begin the process of BLOCKADING any and all Ships trying to enter, or leave, the Strait of Hormuz." The US delegation was led by Vice President JD Vance -- rather than Secretary of State Marco Rubio -- alongside special envoy Steve Witkoff and Jared Kushner. Vance departed Pakistan saying Iran had "chosen not to accept our terms."

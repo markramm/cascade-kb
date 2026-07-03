@@ -18,9 +18,8 @@ tags:
   - sanctions-evasion
   - crypto-mining
 capture_lanes:
-  - Russia-Adjacent Capital
-  - Crypto Cascade
-  - Sanctions Compliance
+  - International Kleptocracy
+  - Financial Capture
 actors:
   - Valery Vavilov
   - Jonathan Gould

@@ -36,7 +36,8 @@ actors:
   - Patrick V. Dahlstrom
 location: U.S. District Court, Northern District of Illinois (Eastern Division)
 capture_lanes:
-  - Religious Capture and Holy War Apparatus
+  - Theological Legitimation
+relocated_lanes:
   - Judicial Resistance Arc
 verification_status: confirmed
 sources:

@@ -19,7 +19,8 @@ actors:
 - Department of Justice
 - Federal Bureau of Investigation
 - Trump Administration
-capture_lane: judicial
+capture_lane:
+  - Judicial Capture
 status: confirmed
 sources:
 - outlet: Reuters

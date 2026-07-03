@@ -52,10 +52,8 @@ sources:
     date: '2022-11-01'
     tier: 2
 capture_lanes:
-  - christian-nationalism
-  - catholic-integralism
-  - electoral-capture
-  - theological-legitimation-layer
+  - Theological Legitimation
+  - Electoral Manipulation
 coverage: []
 ---
 

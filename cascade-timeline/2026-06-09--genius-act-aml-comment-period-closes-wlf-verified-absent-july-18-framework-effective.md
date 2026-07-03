@@ -21,8 +21,8 @@ tags:
   - comment-period-closure
   - july-18-2026
 capture_lanes:
-  - Crypto Cascade
-  - MAGA Empire
+  - Financial Capture
+  - International Kleptocracy
   - Capture Cascade
 actors:
   - Scott Bessent

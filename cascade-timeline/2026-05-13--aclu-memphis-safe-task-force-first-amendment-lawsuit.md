@@ -69,8 +69,8 @@ sources:
     tier: 2
 capture_lanes:
   - Civil Rights Suppression
-  - Federal-State-Local Enforcement Integration
-  - Visibility Suppression
+  - Detention Industrial Complex
+  - Media Capture and Control
   - Executive Power Expansion
 case_name: "Demster v. Blanche"
 court: "United States District Court for the Western District of Tennessee"

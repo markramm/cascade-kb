@@ -41,8 +41,8 @@ sources:
     date: '2025-06-17'
     tier: 2
 capture_lanes:
-  - Surveillance infrastructure
-  - Congressional oversight
+  - Surveillance Infrastructure
+  - Legislative Capture
 coverage: []
 ---
 

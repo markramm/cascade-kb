@@ -49,7 +49,7 @@ sources:
     date: '2026-04-17'
     tier: 1
 capture_lanes:
-  - Procurement Capture
+  - Corporate Capture
 coverage: []
 ---
 

@@ -64,7 +64,7 @@ sources:
     date: '2024-01-01'
     tier: 3
 capture_lanes:
-  - Surveillance-Industrial Complex
+  - Surveillance Infrastructure
   - Press Freedom and Information Operations
 coverage: []
 ---

@@ -19,6 +19,7 @@ tags:
 capture_lanes:
   - Civil Rights Suppression
   - Democratic Erosion
+relocated_lanes:
   - State Resistance
 actors:
   - Mary Moriarty

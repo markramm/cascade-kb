@@ -33,7 +33,7 @@ sources:
     tier: 2
 capture_lanes:
   - Civil Rights Suppression
-  - Immigration System Capture
+  - Detention Industrial Complex
 ---
 
 Newly released ICE data revealed that 1,300 of the 3,785 arrests during Operation Metro Surge in Minnesota were labeled "collateral" -- people who were not the target of enforcement actions but were swept up during raids. This means 35% of all arrests during the massive operation were bystanders. The operation, which ran from December 2025 through February 2026, deployed at least 2,000 ICE officers and 1,000 CBP officers to the state.

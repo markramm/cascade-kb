@@ -57,8 +57,8 @@ sources:
 capture_lanes:
   - Military-Industrial Complex
   - Legislative Capture
-  - Trump-Family Financial Architecture
-  - Commercial Space Capture
+  - International Kleptocracy
+  - Digital and Tech Capture
 coverage: []
 ---
 

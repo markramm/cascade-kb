@@ -52,9 +52,7 @@ sources:
     date: '2025-08-07'
     tier: 1
 capture_lanes:
-  - christian-nationalism
-  - reformed-postliberal
-  - theological-legitimation-layer
+  - Theological Legitimation
 coverage: []
 ---
 

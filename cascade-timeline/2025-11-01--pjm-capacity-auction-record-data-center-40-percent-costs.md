@@ -21,8 +21,8 @@ tags:
   - electricity-markets
   - investigation-6
 capture_lanes:
-  - Energy-Markets Capture
-  - AI-Infrastructure Capture
+  - Environmental Capture
+  - Digital and Tech Capture
 sources:
   - title: "PJM capacity prices hit record high as grid operator falls short of reliability target"
     url: https://www.utilitydive.com/news/pjm-interconnection-capacity-auction-data-center/808264/

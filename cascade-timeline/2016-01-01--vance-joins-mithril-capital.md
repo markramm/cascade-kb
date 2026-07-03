@@ -17,7 +17,8 @@ actors:
 - J.D. Vance
 - Peter Thiel
 - Mithril Capital
-capture_lane: economic
+capture_lane:
+  - Financial Capture
 status: confirmed
 sources:
 - outlet: Forbes

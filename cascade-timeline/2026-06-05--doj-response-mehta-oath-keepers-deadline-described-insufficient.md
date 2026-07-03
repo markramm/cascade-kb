@@ -49,9 +49,9 @@ sources:
     date: '2026-06-09'
     tier: 2
 capture_lanes:
-  - Institutional Capture
+  - Democratic Erosion
+relocated_lanes:
   - Judicial Resistance
-  - Accountability Bypass
 related_entries:
   - blanche-todd
   - 2026-05-29--judge-mehta-blocks-oath-keepers-dismissal-orders-doj-explain-prejudice-by-june-5

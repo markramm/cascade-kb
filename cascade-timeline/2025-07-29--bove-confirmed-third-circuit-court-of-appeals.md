@@ -15,7 +15,7 @@ tags:
   - consiglieres
 capture_lanes:
   - Judicial Capture
-  - Law Enforcement Weaponization
+  - Executive Power Expansion
   - Executive Power Consolidation
 actors:
   - Emil Bove

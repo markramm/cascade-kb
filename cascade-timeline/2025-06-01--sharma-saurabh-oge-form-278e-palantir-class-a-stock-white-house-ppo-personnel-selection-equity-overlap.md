@@ -44,9 +44,9 @@ sources:
     date: '2021-03-03'
     tier: 2
 capture_lanes:
-  - Personnel Pipeline
+  - Personnel Capture
   - Surveillance Contractor Capture
-  - Conflicts of Interest
+  - Systematic Corruption
 coverage: []
 ---
 

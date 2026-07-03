@@ -31,7 +31,7 @@ sources:
     date: '2009-04'
     tier: 0
 capture_lanes:
-  - Sanctions Policy Capture
+  - International Kleptocracy
 ---
 
 In **April 2009**, the Financial Crimes Enforcement Network (FinCEN) and the Office of the Comptroller of the Currency (OCC) each assessed concurrent civil money penalties of **$5 million** against the New York branch of Doha Bank Q.P.S.C. for Bank Secrecy Act (BSA) violations. The branch consented to payment without admitting or denying the allegations; total liability was satisfied by a single $5 million payment to the U.S. Treasury because the penalties were structured concurrently.

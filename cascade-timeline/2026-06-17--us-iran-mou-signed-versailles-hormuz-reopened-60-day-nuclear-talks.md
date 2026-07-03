@@ -53,9 +53,9 @@ sources:
     date: "2026-06-18"
     tier: 1
 capture_lanes:
-  - War/Military
-  - Economic Capture
-  - Contracts/Surveillance
+  - Military-Industrial Complex
+  - Financial Capture
+  - Surveillance Infrastructure
 ---
 
 On June 17, 2026 — 109 days after the launch of US-Israel strikes on Iran (Operation Epic Fury, [[2026-02-28--operation-epic-fury-us-military-strikes-iran]]) — Presidents Trump and Pezeshkian electronically signed a 14-point, roughly 800-word Memorandum of Understanding (MOU) to end the war and reopen the Strait of Hormuz. The initial signing ceremony took place at the Palace of Versailles during a G7 summit dinner; Vice President JD Vance and Iran's chief negotiator Mohammad Bagher Ghalibaf had signed the initial document the day prior with Trump witnessing.

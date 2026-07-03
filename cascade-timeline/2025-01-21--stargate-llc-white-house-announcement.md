@@ -29,10 +29,9 @@ tags:
   - abilene-tx
   - delaware-llc
 capture_lanes:
-  - Federal-Contract Capture
-  - Gulf-State Capital Flow
-  - AI-Infrastructure Capture
-  - Foreign Influence and Emoluments
+  - Corporate Capture
+  - International Kleptocracy
+  - Digital and Tech Capture
 mechanisms_used:
   - Delaware-LLC opacity
   - UAE sovereign-wealth deployment

@@ -36,7 +36,6 @@ sources:
     tier: 2
 capture_lanes:
   - Executive Power Expansion
-  - Wartime Emergency Power
   - Civil Rights Suppression
 coverage: []
 ---

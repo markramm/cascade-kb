@@ -43,7 +43,7 @@ sources:
     tier: 1
 capture_lanes:
   - Judicial Capture
-  - Federal Workforce Capture
+  - Personnel Capture
   - Executive Power Expansion
 coverage: []
 ---

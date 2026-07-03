@@ -48,7 +48,7 @@ sources:
     date: '2025-08-25'
     tier: 1
 capture_lanes:
-  - Energy Systems Capture
+  - Environmental Capture
   - Federal Land Conversion
   - Regulatory Capture
 coverage: []

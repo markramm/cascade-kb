@@ -69,9 +69,8 @@ sources:
     tier: 1
 capture_lanes:
   - Executive Self-Dealing
-  - Crypto Capture
-  - Gulf-State Licensing
-  - Trump-Family Financial Architecture
+  - Financial Capture
+  - International Kleptocracy
 ---
 
 On June 13, 2025, Donald J. Trump signed his first OGE Form 278e annual public financial disclosure as the 47th President. The White House released it publicly on or about June 16, 2025, pursuant to a 30-day filing extension granted by the Office of Government Ethics. The disclosure covered calendar year 2024 income and assets held as of the filing date — a reporting period that begins before Trump's second inauguration and runs through the months during which World Liberty Financial was launched, Dar Al Arkan began executing its Saudi licensing agreements, and TMTG completed its post-merger lock-up structure.

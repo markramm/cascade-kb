@@ -75,8 +75,9 @@ sources:
     date: '2025-09-08'
     tier: 2
 capture_lanes:
-  - Defense-Tech Privatization
-  - Surveillance-Industrial Complex
+  - Military-Industrial Complex
+  - Surveillance Infrastructure
+relocated_lanes:
   - Thiel Network
 coverage: []
 ---

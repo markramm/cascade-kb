@@ -30,10 +30,10 @@ actors:
   - Ballard Partners
   - Senate Judiciary Committee
 capture_lanes:
-  - Conflicts of Interest
+  - Systematic Corruption
   - Regulatory Capture
-  - DOJ Weaponization
-  - Revolving Door
+  - Executive Power Expansion
+  - Personnel Capture
 capture_type: monetizing_position
 patterns:
   - kleptocratic-capture

@@ -51,8 +51,8 @@ sources:
     date: '2026-02-18'
     tier: 1
 capture_lanes:
-  - immigration-enforcement
-  - accountability
+  - Detention Industrial Complex
+  - Democratic Erosion
 coverage: []
 ---
 

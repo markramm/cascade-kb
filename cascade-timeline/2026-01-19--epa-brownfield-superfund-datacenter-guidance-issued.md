@@ -53,8 +53,7 @@ sources:
     tier: 3
 capture_lanes:
   - Regulatory Capture
-  - Administrative Deregulation
-  - Energy Systems Capture
+  - Environmental Capture
 coverage: []
 ---
 

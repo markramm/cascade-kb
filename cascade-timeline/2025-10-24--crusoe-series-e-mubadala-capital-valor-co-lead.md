@@ -24,9 +24,9 @@ tags:
   - uae-sovereign-adjacent
   - ai-infrastructure
 capture_lanes:
-  - Gulf-State Capital Flow
-  - AI-Infrastructure Capture
-  - Federal-Contract Capture
+  - International Kleptocracy
+  - Digital and Tech Capture
+  - Corporate Capture
 mechanisms_used:
   - Venture-round co-lead
   - Sovereign-subsidiary GP structure

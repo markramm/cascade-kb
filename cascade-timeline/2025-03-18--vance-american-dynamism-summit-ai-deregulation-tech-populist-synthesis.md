@@ -40,7 +40,7 @@ sources:
     tier: 1
 capture_lanes:
   - Regulatory Capture
-  - AI Policy Capture
+  - Digital and Tech Capture
   - Personnel Capture
 coverage: []
 ---

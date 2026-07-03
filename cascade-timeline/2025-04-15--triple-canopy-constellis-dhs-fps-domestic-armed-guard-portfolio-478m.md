@@ -61,7 +61,7 @@ sources:
 capture_lanes:
   - Privatized-Force-Projection Arc (Phase 4)
   - Military-Industrial Complex
-  - Domestic-Detention-and-Removal Substrate
+  - Detention Industrial Complex
 coverage: []
 ---
 

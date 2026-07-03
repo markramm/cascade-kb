@@ -62,7 +62,6 @@ sources:
 capture_lanes:
   - Financial Capture
   - Regulatory Capture
-  - Crypto Capture
 coverage: []
 ---
 
