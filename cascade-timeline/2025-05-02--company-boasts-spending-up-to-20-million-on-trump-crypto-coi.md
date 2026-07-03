@@ -2,8 +2,8 @@
 type: timeline_event
 id: 2025-05-02--company-boasts-spending-up-to-20-million-on-trump-crypto-coi
 date: 2025-05-02
-title: Freight Technologies Purchases $20M in Trump Crypto to Lobby Against Tariffs
-description: 'Freight Technologies Inc. CEO Javier Selgas revealed a bold lobbying strategy by purchasing $20 million worth of Trump''s cryptocurrency, with the explicit goal of gaining the president''s attention regarding punitive tariffs on Mexican imports that were significantly impacting the company''s shipping operations.'
+title: Freight Technologies Commits to Buy Up to $20M in Trump Crypto to Lobby Against Tariffs
+description: 'Freight Technologies Inc. CEO Javier Selgas revealed a bold lobbying strategy by committing to a financing plan to purchase up to $20 million of Trump''s cryptocurrency (with roughly $2 million actually spent at the time), with the explicit goal of gaining the president''s attention regarding punitive tariffs on Mexican imports that were significantly impacting the company''s shipping operations.'
 actors:
 - Donald Trump
 - Javier Selgas
@@ -50,4 +50,4 @@ connections:
 status: confirmed
 notes: Event from comprehensive kleptocracy timeline tracking. Updated with additional sources and context.
 ---
-Freight Technologies Inc., a North American shipping logistics company, announced a $20 million purchase of President Trump's cryptocurrency ($TRUMP) as a strategic attempt to influence White House trade policy and lobby for tariff relief. CEO Javier Selgas explicitly stated the goal was to draw attention to the devastating impact of 25% tariffs on cross-border freight traffic.
+Freight Technologies Inc., a North American shipping logistics company, announced a financing plan to purchase up to $20 million of President Trump's cryptocurrency ($TRUMP) — a convertible-note structure beginning with a $1 million offering, with roughly $2 million actually spent as of a May 12, 2025 follow-up filing — as a strategic attempt to influence White House trade policy and lobby for tariff relief. CEO Javier Selgas explicitly stated the goal was to draw attention to the devastating impact of 25% tariffs on cross-border freight traffic.

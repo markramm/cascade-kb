@@ -3,7 +3,7 @@ type: timeline_event
 id: 2025-01-25--nepotism-20-families
 date: 2025-01-25
 importance: 8
-title: At least 20 families have multiple members in federal posts
+title: Trump appoints three in-law family members to senior diplomatic and advisory posts
 location: Washington, DC
 actors:
 - Charles Kushner
@@ -40,7 +40,8 @@ sources:
   date: '2025-01-15'
   tier: 2
 notes: Creative legal interpretations distinguish between departments and White House positions
+qa_note: 'QA 2026-07-03 — the original title/body claimed "at least 20 families have multiple members in federal posts" in 2025, but that statistic is sourced to the Nov-2017 Daily Beast article about Trump''s FIRST administration (whose 20 families were Ivanka/Kushner, McGahn, Giuliani, DeVos, Gorka et al. — NOT the 2025 appointees). Retitled and rewritten to the three appointments the 2025 sources actually support. The "20 families" claim is NOT supported for 2025 and was removed.'
 status: confirmed
 ---
 
-Trump appoints Charles Kushner (Jared's father), Kimberly Guilfoyle (Donald Jr.'s fiancée), and Massad Boulos (Tiffany's father-in-law) to positions, with at least 20 families having multiple members in federal posts circumventing Anti-Nepotism Statute.
+On January 25, 2025, Trump had appointed three of his in-law family members to senior posts: Charles Kushner (Jared's father) as ambassador to France, Kimberly Guilfoyle (Donald Jr.'s then-fiancée) as ambassador to Greece, and Massad Boulos (Tiffany's father-in-law) as a senior Middle East adviser. The pattern of placing relatives-by-marriage in diplomatic and advisory roles — rather than direct family in agency posts — reflects the same distinction (White House vs. department positions) that the administration has used to navigate the federal Anti-Nepotism Statute.

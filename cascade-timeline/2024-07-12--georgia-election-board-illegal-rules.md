@@ -40,6 +40,7 @@ sources:
   date: '2024-10-15'
   tier: 2
 notes: Board attempted to create chaos through hand-counting requirements and certification delays. Rules coordinated with national Republican strategy to contest elections. Court intervention prevented disruption of 2024 election.
+qa_note: 'QA 2026-07-03 — the Oct-2024 rule-invalidation was by FULTON COUNTY SUPERIOR COURT (Judge Robert C.I. McBurney / T.A. Cox Jr.), NOT the Georgia Supreme Court; Cox invalidated 7 rules (the GA Supreme Court later affirmed 4 of them on 2025-06-10). All three originally-cited source URLs (NPR/AJC/American Oversight) returned 404. The July-12 meeting itself (board passes contested rules, RNC-coordinated) is accurate; the court attribution and source URLs need correction. Flagged for Mark — verify against live NPR/AJC coverage before re-citing.'
 ---
 
 Georgia State Election Board with Republican majority including Janelle King, Janice Johnston, and Rick Jeffares passed multiple illegal rules between July and September 2024 coordinated with Republican National Committee. Rules included hand-count ballot requirements, "reasonable inquiry" provisions before certification, and expanded poll watcher access designed to create confusion and delays. Georgia Supreme Court invalidated four rules after finding board violated procedural requirements, including holding rushed July 12, 2024 meeting without proper notice. Attempt to sabotage election administration through regulatory capture.

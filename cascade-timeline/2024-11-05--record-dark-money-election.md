@@ -23,21 +23,21 @@ capture_lanes:
 - International Kleptocracy
 status: confirmed
 sources:
-- title: Dark money spending in 2024 federal elections reaches record $1.9 billion
-  url: https://www.brennancenter.org/our-work/analysis-opinion/dark-money-2024-elections
+- title: Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races
+  url: https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races
   outlet: Brennan Center for Justice
-  date: '2024-11-06'
+  date: '2025-05-07'
   tier: 1
-- title: Wall Street giants funneled $171 million to Project 2025 groups
-  url: https://www.desmog.com/2024/11/07/wall-street-project-2025-dark-money/
+- title: 'The Friendly New Face of Dark Money: How Fidelity, Schwab, and Vanguard Helped Wealthy Donors Pour $171 Million of Dark Money into Project 2025'
+  url: https://www.desmog.com/2024/10/28/friendly-new-face-dark-money-fidelity-schwab-vanguard-donor-advised-funds-daf-project-2025/
   outlet: DeSmog
-  date: '2024-11-07'
+  date: '2024-10-28'
   tier: 2
-- title: Dark money contributions to super PACs exceed two previous cycles combined
-  url: https://www.washingtonpost.com/politics/2024/11/08/dark-money-super-pacs-record/
-  outlet: The Washington Post
-  date: '2024-11-08'
-  tier: 1
+# NOTE (QA 2026-07-03): a third source (a Washington Post article on super-PAC
+# dark money "exceeding two prior cycles combined") was REMOVED — the cited URL
+# 404'd and no such WaPo article could be located under any date/title/URL
+# variant; the claim it was cited for traces to the Brennan report above.
+qa_note: 'Source URLs corrected 2026-07-03 (Brennan report is May-2025, DeSmog Oct-2024; the event itself is election day 2024-11-05). Fabricated WaPo source removed. Core figures ($1.9B total, $171M via DAFs to Project 2025) verified accurate.'
 notes: Nearly double previous record. Shell companies used extensively to hide ultimate funding sources. Donor-advised funds provide complete anonymity while claiming tax benefits.
 ---
 
