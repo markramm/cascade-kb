@@ -32,6 +32,12 @@ jobs:
           username: ${{ secrets.CASCADE_DEPLOY_USER }}
           key: ${{ secrets.CASCADE_DEPLOY_SSH_KEY }}
           port: ${{ secrets.CASCADE_DEPLOY_PORT || 22 }}
+          # The full build (content-gen + ~260s of OG-card PNGs + hugo render of
+          # 5,500+ pages + sitemap validate) runs ~10-12 min inside a fresh
+          # Docker build. appleboy/ssh-action defaults to a 10m command_timeout,
+          # which was clipping the build mid-render — raise it well clear.
+          # (The job-level timeout-minutes: 30 is the outer bound.)
+          command_timeout: 25m
           # Fail loudly on any error inside the SSH session.
           # --no-interactive skips the prune prompt; CI never prunes,
           # since `docker system prune -af --volumes` would wipe ALL
