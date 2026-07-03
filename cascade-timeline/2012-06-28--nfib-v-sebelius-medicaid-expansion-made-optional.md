@@ -6,7 +6,7 @@ title: Supreme Court Makes ACA Medicaid Expansion Optional, Enabling State Obstr
 importance: 9
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
+- John Roberts
 - National Federation of Independent Business
 - Republican Governors
 - Republican State Attorneys General

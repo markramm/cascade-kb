@@ -8,7 +8,7 @@ status: confirmed
 importance: 9
 location: Alexandria, Virginia
 actors:
-- JD Vance
+- J.D. Vance
 - Christopher Garcia
 - Health Supply US
 - 9 EDR LLC

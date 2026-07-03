@@ -10,7 +10,7 @@ actors:
 - George W. Bush
 - John Ashcroft
 - Bill Gates
-- Judge Colleen Kollar-Kotelly
+- Colleen Kollar-Kotelly
 sources:
 - title: United States v. Microsoft Corp.
   outlet: Wikipedia

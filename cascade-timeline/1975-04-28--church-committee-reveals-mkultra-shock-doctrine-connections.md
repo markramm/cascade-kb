@@ -5,7 +5,7 @@ date: 1975-04-28
 title: Church Committee Exposes Psychological Manipulation Techniques in Government Operations
 importance: 9
 actors:
-- Senator Frank Church
+- Frank Church
 - Central Intelligence Agency
 - Intelligence Community
 - Donald Ewen Cameron

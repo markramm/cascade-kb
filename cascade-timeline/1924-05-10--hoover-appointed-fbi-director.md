@@ -7,7 +7,7 @@ importance: 10
 status: confirmed
 actors:
   - J. Edgar Hoover
-  - Attorney General Harlan Fiske Stone
+  - Harlan Fiske Stone
   - Bureau of Investigation
   - Calvin Coolidge
 tags:

@@ -22,7 +22,7 @@ tags:
   - medicaid
   - immigration-enforcement
 actors:
-  - JD Vance
+  - J.D. Vance
   - Donald Trump
   - Rand Paul
   - Susan Collins

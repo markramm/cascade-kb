@@ -8,7 +8,7 @@ actors:
 - Federal Aviation Administration
 - Department of Justice
 - House Transportation Committee
-- Senator Richard Blumenthal
+- Richard Blumenthal
 sources:
 - outlet: FlyerTalk
   title: 'The Doomed Planes "Designed By Clowns Supervised by Monkeys"'

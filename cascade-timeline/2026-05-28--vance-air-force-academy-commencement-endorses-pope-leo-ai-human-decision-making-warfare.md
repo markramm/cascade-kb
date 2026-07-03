@@ -18,7 +18,7 @@ tags:
   - warfare-ai
   - military-autonomy
 actors:
-  - JD Vance
+  - J.D. Vance
   - Pope Leo XIV
   - United States Air Force Academy
 sources:

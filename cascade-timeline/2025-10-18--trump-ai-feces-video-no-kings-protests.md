@@ -18,7 +18,7 @@ tags:
 actors:
 - Donald Trump
 - Mike Johnson
-- JD Vance
+- J.D. Vance
 - Kenny Loggins
 - Harry Sisson
 - protesters

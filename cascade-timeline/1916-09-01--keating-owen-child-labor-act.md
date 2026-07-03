@@ -6,7 +6,7 @@ title: 'Keating-Owen Child Labor Act Passed, First Federal Child Labor Restricti
 importance: 7
 actors:
 - U.S. Congress
-- President Woodrow Wilson
+- Woodrow Wilson
 tags:
 - labor-rights
 - child-labor

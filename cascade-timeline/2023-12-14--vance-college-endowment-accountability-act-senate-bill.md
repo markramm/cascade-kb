@@ -17,7 +17,7 @@ tags:
   - senate-bill
   - obbba-predecessor
 actors:
-  - JD Vance
+  - J.D. Vance
   - Ron Wyden
   - U.S. Senate
 capture_lanes:

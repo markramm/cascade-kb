@@ -33,13 +33,13 @@ sources:
   url: 'https://www.wesa.fm/politics-government/2026-01-28/allegheny-county-no-ice-cooperation'
   tier: 2
 tags:
-- ICE
+- ice
 - courthouse-arrests
 - immigration-enforcement
 - dual-capacity-pattern
 - sanctuary-policy
-- Pennsylvania
-- Pittsburgh
+- pennsylvania
+- pittsburgh
 - sheriff
 - judiciary
 - civil-rights

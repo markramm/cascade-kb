@@ -5,7 +5,7 @@ date: 1964-07-02
 title: Civil Rights Act of 1964 Passes After Filibuster Defeats Corporate Southern Resistance
 importance: 9
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Southern Democratic Senators
 - Richard Russell
 - Strom Thurmond

@@ -18,7 +18,7 @@ actors:
 - Pope Leo XIV
 - Trump Administration
 - White House
-- Senator Dick Durbin
+- Dick Durbin
 - Catholic Church
 sources:
 - title: Pope Leo XIV says inhuman treatment of immigrants not pro-life

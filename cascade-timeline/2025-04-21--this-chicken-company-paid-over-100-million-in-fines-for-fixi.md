@@ -11,7 +11,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Pilgrim's Pride
-- Senator Elizabeth Warren
+- Elizabeth Warren
 tags:
 - government-contracts
 - corporate-donations

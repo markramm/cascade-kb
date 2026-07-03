@@ -5,9 +5,9 @@ date: 2002-06-27
 title: Zelman v. Simmons-Harris - Supreme Court Upholds School Vouchers for Religious Schools
 importance: 8
 actors:
-- Chief Justice William Rehnquist
-- Justice Sandra Day O'Connor
-- Justice Clarence Thomas
+- William Rehnquist
+- Sandra Day O'Connor
+- Clarence Thomas
 - Institute for Justice
 - Clint Bolick
 - American Federation for Children

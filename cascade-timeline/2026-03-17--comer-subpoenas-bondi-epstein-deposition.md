@@ -5,7 +5,7 @@ date: '2026-03-17'
 title: House Oversight Chairman Comer Subpoenas AG Bondi for Sworn Deposition on Epstein Files
 importance: 7
 actors:
-- Rep. James Comer
+- James Comer
 - Pam Bondi
 tags:
 - epstein

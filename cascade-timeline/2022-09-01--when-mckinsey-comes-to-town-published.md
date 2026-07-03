@@ -8,7 +8,7 @@ actors:
 - Walt Bogdanich
 - Michael Forsythe
 - McKinsey & Company
-- The New York Times
+- New York Times
 - Penguin Random House
 tags:
 - mckinsey

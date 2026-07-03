@@ -5,9 +5,9 @@ date: 1962-10-10
 title: Thalidomide Scandal Drives Kefauver-Harris Amendment Strengthening FDA Drug Safety Requirements
 importance: 8
 actors:
-- Senator Estes Kefauver
+- Estes Kefauver
 - Representative Oren Harris
-- President John F. Kennedy
+- John F. Kennedy
 - Frances Kelsey
 - Richardson-Merrell
 - Food and Drug Administration

@@ -8,7 +8,7 @@ actors:
 - Letitia James
 - U.S. Department of Justice
 - Norfolk Virginia Grand Jury
-- Judge Cameron McGowan Currie
+- Cameron McGowan Currie
 - Lindsey Halligan
 - Pam Bondi
 - Abbe Lowell

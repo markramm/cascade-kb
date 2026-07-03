@@ -7,7 +7,7 @@ title: Mark Zuckerberg Testifies Before Congress on Cambridge Analytica and Russ
 location: Washington D.C.
 actors:
 - Mark Zuckerberg
-- US Congress
+- U.S. Congress
 - Facebook
 - Cambridge Analytica
 tags:

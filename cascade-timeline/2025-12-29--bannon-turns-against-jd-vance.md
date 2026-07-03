@@ -6,7 +6,7 @@ title: Bannon Turns Against Vice President JD Vance Amid Escalating MAGA Civil W
 importance: 8
 actors:
 - Steve Bannon
-- JD Vance
+- J.D. Vance
 tags:
 - bannon
 - jd-vance

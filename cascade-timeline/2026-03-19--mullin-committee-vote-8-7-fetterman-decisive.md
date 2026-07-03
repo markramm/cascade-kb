@@ -6,9 +6,9 @@ title: Senate Committee Advances Mullin 8-7 with Fetterman's Decisive Vote; Floo
 importance: 9
 actors:
 - Markwayne Mullin
-- Sen. Rand Paul
-- Sen. John Fetterman
-- Sen. Martin Heinrich
+- Rand Paul
+- John Fetterman
+- Martin Heinrich
 tags:
 - immigration-enforcement
 - dhs-leadership

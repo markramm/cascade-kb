@@ -7,7 +7,7 @@ importance: 9
 actors:
 - AG Letitia James
 - EPA
-- Trump administration
+- Trump Administration
 tags:
 - environmental-policy
 - climate-change

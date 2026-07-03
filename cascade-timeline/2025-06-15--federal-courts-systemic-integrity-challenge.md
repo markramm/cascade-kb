@@ -8,7 +8,7 @@ actors:
 - Margaret Satterthwaite
 - UN Special Rapporteur
 - Supreme Court Justices
-- Sen. Cory Booker
+- Cory Booker
 - Department of Justice
 - Executive Branch
 sources:

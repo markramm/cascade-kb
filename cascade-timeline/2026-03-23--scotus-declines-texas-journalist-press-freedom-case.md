@@ -6,7 +6,7 @@ title: Supreme Court Declines Citizen Journalist Case, Sotomayor Dissents on Fir
 importance: 8
 actors:
 - Supreme Court
-- Justice Sonia Sotomayor
+- Sonia Sotomayor
 - Priscilla Villarreal
 - City of Laredo
 tags:

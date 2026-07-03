@@ -5,8 +5,8 @@ date: 1963-12-17
 title: Clean Air Act of 1963 Establishes First Federal Air Pollution Control Despite Industry Opposition
 importance: 7
 actors:
-- President John F. Kennedy
-- President Lyndon B. Johnson
+- John F. Kennedy
+- Lyndon B. Johnson
 - U.S. Congress
 - American Petroleum Institute
 - National Coal Association

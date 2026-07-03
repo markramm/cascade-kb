@@ -27,7 +27,7 @@ sources:
   outlet: PBS NewsHour
 actors:
 - Heritage Foundation
-- Justice Samuel Alito
+- Samuel Alito
 - Donald Trump
 - U.S. Supreme Court
 capture_lanes:

@@ -17,7 +17,7 @@ tags:
   - integrating-bridge
   - nar-pentecostal-lane
 actors:
-  - JD Vance
+  - J.D. Vance
   - Erika Kirk
   - Turning Point USA
 sources:

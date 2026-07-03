@@ -6,7 +6,7 @@ importance: 5
 title: DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and are swapped
 actors:
 - Anna Chapman
-- US Department of Justice
+- U.S. Department of Justice
 - Federal Bureau of Investigation
 tags:
 - russian-spy-ring

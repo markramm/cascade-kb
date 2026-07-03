@@ -4,12 +4,12 @@ date: 2005-12-15
 title: Coast Guard Identifies Critical Intelligence Gaps in Dubai Ports World Deal
 description: In December 2005, Coast Guard intelligence officials concluded that significant intelligence gaps existed that prevented a comprehensive threat assessment of the potential Dubai Ports World (DPW) port management merger. The unclassified report stated that broad information deficiencies made it impossible to fully evaluate potential risks related to DPW's operations, personnel, and potential foreign influence supporting terrorist activities.
 actors:
-- US Coast Guard
+- U.S. Coast Guard
 - Dubai Ports World
 - UAE
 - 9-11 Commission
 - George W. Bush administration
-- Sen. Susan Collins
+- Susan Collins
 tags:
 - intelligence-assessment
 - national-security

@@ -6,7 +6,7 @@ date: 2025-07-23
 importance: 8
 location: Washington DC
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - CPSC Commissioners
 - Justice Kagan

@@ -8,7 +8,7 @@ actors:
 - Senator Gaylord Nelson
 - Denis Hayes
 - Environmental Action
-- President Richard Nixon
+- Richard Nixon
 tags:
 - environmental-regulation
 - grassroots-organizing

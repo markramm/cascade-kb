@@ -10,7 +10,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Cadwalader, Wickersham & Taft
-- Senator Sheldon Whitehouse
+- Sheldon Whitehouse
 - Todd Blanche
 tags:
 - government-contracts

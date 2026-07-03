@@ -18,7 +18,7 @@ tags:
   - child-tax-credit
   - vp-policy-footprint
 actors:
-  - JD Vance
+  - J.D. Vance
   - March for Life
   - Mike Johnson
 sources:

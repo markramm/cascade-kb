@@ -8,7 +8,7 @@ actors:
 - Bank of America
 - Leon Black
 - Judge Jed S. Rakoff
-- Sen. Ron Wyden
+- Ron Wyden
 tags:
 - epstein
 - financial-crime

@@ -11,7 +11,7 @@ actors:
 - World Liberty Financial
 - Securities and Exchange Commission
 - Donald Trump
-- Senator Richard Blumenthal
+- Richard Blumenthal
 - TRON DAO
 tags:
 - foreign-influence

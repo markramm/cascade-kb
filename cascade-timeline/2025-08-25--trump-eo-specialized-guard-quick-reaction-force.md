@@ -11,7 +11,7 @@ actors:
   - Donald Trump
   - Pete Hegseth
   - Stephen Miller
-  - DC National Guard
+  - D.C. National Guard
   - U.S. National Guard Bureau
 verification_status: tier-1
 capture_lanes:

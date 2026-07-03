@@ -17,7 +17,7 @@ actors:
 - Melania Trump
 - Cryptocurrency traders
 - World Liberty Financial
-- Sen. Chris Murphy
+- Chris Murphy
 sources:
 - title: Warren Details Trump Family Crypto Corruption Scheme
   url: 'https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration'

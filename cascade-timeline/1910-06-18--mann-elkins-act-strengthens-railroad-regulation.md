@@ -5,7 +5,7 @@ date: 1910-06-18
 title: 'Mann-Elkins Act Strengthens Railroad Regulation, Expands ICC Authority to Telecommunications'
 importance: 7
 actors:
-- President William Howard Taft
+- William Howard Taft
 - Stephen Benton Elkins
 - James Robert Mann
 - Interstate Commerce Commission

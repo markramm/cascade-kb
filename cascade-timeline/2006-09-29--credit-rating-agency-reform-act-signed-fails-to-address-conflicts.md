@@ -5,7 +5,7 @@ date: 2006-09-29
 title: Bush Signs Credit Rating Agency Reform Act, But Law Fails to Address Core Conflicts of Interest
 importance: 8
 actors:
-- President George W. Bush
+- George W. Bush
 - Securities and Exchange Commission
 - Moody's Investors Service
 - Standard & Poor's

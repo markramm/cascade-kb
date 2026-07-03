@@ -5,7 +5,7 @@ date: 1913-10-03
 title: 'Underwood Tariff Slashes Corporate Protection, Establishes Modern Income Tax After 16th Amendment'
 importance: 9
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Oscar Underwood
 - Democratic Party
 tags:

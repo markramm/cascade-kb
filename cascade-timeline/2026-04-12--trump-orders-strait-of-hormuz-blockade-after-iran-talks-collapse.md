@@ -14,7 +14,7 @@ tags:
   - oil
 actors:
   - Donald Trump
-  - JD Vance
+  - J.D. Vance
   - Jared Kushner
   - Steve Witkoff
   - Iran

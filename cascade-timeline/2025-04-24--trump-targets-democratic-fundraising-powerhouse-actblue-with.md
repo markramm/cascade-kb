@@ -3,7 +3,7 @@ type: timeline_event
 actors:
 - Donald Trump
 - Trump Administration
-- Attorney General Pam Bondi
+- Pam Bondi
 - ActBlue
 capture_lanes:
 - Legislative Capture

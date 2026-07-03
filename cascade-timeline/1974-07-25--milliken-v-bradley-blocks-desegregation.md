@@ -5,8 +5,8 @@ date: 1974-07-25
 title: Milliken v. Bradley - Supreme Court Blocks Cross-District School Desegregation, Entrenches White Flight
 importance: 9
 actors:
-- Chief Justice Warren Burger
-- Justice Thurgood Marshall
+- Warren Burger
+- Thurgood Marshall
 - U.S. Supreme Court
 - NAACP Legal Defense Fund
 - Detroit Public Schools

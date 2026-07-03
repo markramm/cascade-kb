@@ -10,7 +10,7 @@ actors:
 - DHS (Department of Homeland Security)
 - TSA
 - Federal Emergency Management Agency (FEMA)
-- US Coast Guard
+- U.S. Coast Guard
 sources:
 - url: 'https://www.dhs.gov/news/2026/02/22/dhs-shutdown-emergency-measures'
   title: 'DHS Implements Emergency Resource Conservation Measures During Lapse in Appropriations'

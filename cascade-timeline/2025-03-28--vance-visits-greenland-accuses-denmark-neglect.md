@@ -5,7 +5,7 @@ date: 2025-03-28
 title: Vice President Vance Visits Greenland, Accuses Denmark of Neglecting Territory
 importance: 8
 actors:
-- JD Vance
+- J.D. Vance
 - Usha Vance
 - Mike Waltz
 - Chris Wright

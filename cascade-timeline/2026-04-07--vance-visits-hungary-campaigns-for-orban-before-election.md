@@ -14,7 +14,7 @@ tags:
   - democratic-backsliding
   - nato
 actors:
-  - JD Vance
+  - J.D. Vance
   - Viktor Orbán
   - Péter Magyar
   - Donald Trump

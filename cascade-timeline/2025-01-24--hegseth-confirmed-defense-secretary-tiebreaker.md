@@ -5,7 +5,7 @@ date: 2025-01-24
 title: Pete Hegseth confirmed as Defense Secretary in historic VP tiebreaker vote
 actors:
 - Pete Hegseth
-- JD Vance
+- J.D. Vance
 - U.S. Senate
 - Mitch McConnell
 - Lisa Murkowski

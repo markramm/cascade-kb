@@ -8,7 +8,7 @@ actors:
 - Charlie Kirk
 - Tyler Robinson
 - Donald Trump
-- JD Vance
+- J.D. Vance
 - Spencer Cox
 - Turning Point USA
 tags:

@@ -15,7 +15,7 @@ tags:
   - regulatory-capture
   - deregulation
 actors:
-  - JD Vance
+  - J.D. Vance
   - Andreessen Horowitz
 sources:
   - title: "Remarks by the Vice President at the American Dynamism Summit"

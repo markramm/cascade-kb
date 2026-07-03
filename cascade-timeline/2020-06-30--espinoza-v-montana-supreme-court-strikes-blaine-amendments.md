@@ -5,9 +5,9 @@ date: 2020-06-30
 title: Espinoza v. Montana - Supreme Court Strikes Down State Bans on Religious School Funding
 importance: 8
 actors:
-- Chief Justice John Roberts
-- Justice Clarence Thomas
-- Justice Samuel Alito
+- John Roberts
+- Clarence Thomas
+- Samuel Alito
 - Institute for Justice
 - Becket Fund for Religious Liberty
 tags:

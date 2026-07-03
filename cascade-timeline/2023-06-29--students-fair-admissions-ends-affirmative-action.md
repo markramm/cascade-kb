@@ -6,18 +6,18 @@ importance: 9
 title: Supreme Court Ends Affirmative Action in College Admissions in Students for Fair Admissions Decisions
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
-- Justice Clarence Thomas
-- Justice Samuel Alito
-- Justice Neil Gorsuch
-- Justice Brett Kavanaugh
-- Justice Amy Coney Barrett
+- John Roberts
+- Clarence Thomas
+- Samuel Alito
+- Neil Gorsuch
+- Brett Kavanaugh
+- Amy Coney Barrett
 - Students for Fair Admissions
 - Harvard University
 - University of North Carolina
-- Justice Sonia Sotomayor
-- Justice Elena Kagan
-- Justice Ketanji Brown Jackson
+- Sonia Sotomayor
+- Elena Kagan
+- Ketanji Brown Jackson
 - Edward Blum
 - Leonard Leo
 - Federalist Society

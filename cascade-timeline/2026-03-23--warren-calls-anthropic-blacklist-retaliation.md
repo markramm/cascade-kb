@@ -5,7 +5,7 @@ date: '2026-03-23'
 title: "Sen. Warren Calls Anthropic Blacklist \"Retaliation\" for AI Safety Positions — Says DOD Trying to Strong-Arm Companies Into Bulk Surveillance"
 importance: 7
 actors:
-- Sen. Elizabeth Warren
+- Elizabeth Warren
 - Pete Hegseth
 - Anthropic
 tags:

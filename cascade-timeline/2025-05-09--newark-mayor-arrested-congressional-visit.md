@@ -8,8 +8,8 @@ location: Newark, New Jersey
 actors:
 - Ras Baraka
 - Immigration and Customs Enforcement (ICE)
-- Rep. LaMonica McIver
-- Rep. Bonnie Watson Coleman
+- LaMonica McIver
+- Bonnie Watson Coleman
 - Rep. Robert Menendez Jr.
 - GEO Group
 tags:

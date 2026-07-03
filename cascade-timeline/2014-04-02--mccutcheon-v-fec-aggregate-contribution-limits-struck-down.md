@@ -6,13 +6,13 @@ importance: 9
 title: Supreme Court Strikes Down Aggregate Campaign Contribution Limits in McCutcheon v. FEC
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
+- John Roberts
 - Shaun McCutcheon
 - Republican National Committee
-- Justice Anthony Kennedy
-- Justice Antonin Scalia
-- Justice Samuel Alito
-- Justice Clarence Thomas
+- Anthony Kennedy
+- Antonin Scalia
+- Samuel Alito
+- Clarence Thomas
 - Leonard Leo
 - Federalist Society
 tags:

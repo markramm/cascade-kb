@@ -5,10 +5,10 @@ date: 1913-12-23
 title: 'Federal Reserve Act Creates Central Banking System: Wilson Signs Compromise Between Private Bank Control and Government Oversight'
 importance: 10
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Carter Glass
 - Robert Latham Owen
-- JP Morgan
+- J.P. Morgan
 - William Jennings Bryan
 sources:
 - title: Federal Reserve Act Signed into Law

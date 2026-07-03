@@ -5,7 +5,7 @@ date: 2021-03-25
 title: Georgia SB 202 Enacts Comprehensive Voter Suppression with Multiple ALEC Provisions
 importance: 10
 actors:
-- Governor Brian Kemp
+- Brian Kemp
 - Georgia Republican Legislature
 - Secretary of State Brad Raffensperger
 - American Legislative Exchange Council

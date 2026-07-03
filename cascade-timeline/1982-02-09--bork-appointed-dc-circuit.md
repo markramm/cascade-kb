@@ -50,7 +50,7 @@ importance: 8
 actors:
 - Robert Bork
 - Ronald Reagan
-- DC Circuit Court of Appeals
+- D.C. Circuit Court of Appeals
 - Federalist Society
 - Department of Justice Antitrust Division
 - Federal Trade Commission

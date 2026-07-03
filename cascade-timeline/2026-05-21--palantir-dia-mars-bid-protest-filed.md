@@ -7,16 +7,16 @@ importance: 9
 status: confirmed
 tags:
   - palantir
-  - DIA
+  - dia
   - MARS
   - bid-protest
   - procurement-capture
   - capture-via-protest
-  - FASA
+  - fasa
   - CICA
   - EO-14265
-  - Hegseth
-  - defense-AI
+  - hegseth
+  - defense-ai
   - investigation-2
   - capture-mechanism
 actors:

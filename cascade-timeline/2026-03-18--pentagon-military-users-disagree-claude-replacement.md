@@ -6,7 +6,7 @@ title: Military Users Warn Claude Replacement Could Take 12-18 Months — Pentag
 importance: 8
 actors:
 - Pentagon IT staff
-- defense contractors
+- Defense contractors
 - Palantir
 tags:
 - military-ai

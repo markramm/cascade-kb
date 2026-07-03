@@ -12,9 +12,9 @@ actors:
 - Texas Legislature
 - League of United Latin American Citizens (LULAC)
 - Texas NAACP
-- Rep. Al Green
+- Al Green
 - Rep. Jasmine Crockett
-- Justice Elena Kagan
+- Elena Kagan
 - U.S. District Judge Jeffrey Brown
 tags:
 - supreme-court

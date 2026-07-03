@@ -5,8 +5,8 @@ date: 1965-07-30
 title: Medicare and Medicaid Signed Into Law After Defeating Decades of AMA Opposition and Reagan Propaganda Campaign
 importance: 8
 actors:
-- President Lyndon B. Johnson
-- President Harry S. Truman
+- Lyndon B. Johnson
+- Harry S. Truman
 - American Medical Association
 - Ronald Reagan
 - Wilbur Mills

@@ -6,7 +6,7 @@ date: 2025-07-10
 importance: 6
 location: Washington DC
 actors:
-- US Senate
+- U.S. Senate
 - Senate Appropriations Committee
 - Government Accountability Office (GAO)
 tags:

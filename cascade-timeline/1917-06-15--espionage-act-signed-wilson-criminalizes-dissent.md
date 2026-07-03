@@ -5,7 +5,7 @@ date: 1917-06-15
 title: 'Espionage Act Signed: Wilson Criminalizes Antiwar Speech, Targets IWW Labor Organizers and Socialists'
 importance: 9
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Industrial Workers of the World (IWW)
 - Eugene V. Debs
 - Victor L. Berger

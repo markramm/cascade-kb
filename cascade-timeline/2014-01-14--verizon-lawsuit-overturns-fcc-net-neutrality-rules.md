@@ -6,7 +6,7 @@ title: Verizon Lawsuit Successfully Overturns FCC Net Neutrality Rules, Court De
 importance: 9
 actors:
 - Verizon Communications
-- DC Circuit Court of Appeals
+- D.C. Circuit Court of Appeals
 - Federal Communications Commission
 - Julius Genachowski
 tags:

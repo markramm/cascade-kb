@@ -2,7 +2,7 @@
 type: timeline_event
 actors:
 - Supreme Court of the United States
-- Chief Justice John Roberts
+- John Roberts
 - National Marine Fisheries Service
 capture_lanes:
 - Judicial Capture

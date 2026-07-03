@@ -14,7 +14,7 @@ tags:
   - trump-administration
   - institutional-capture
 actors:
-  - US Navy
+  - U.S. Navy
   - Naval Supply Systems Command
   - Department of Homeland Security
   - ICE

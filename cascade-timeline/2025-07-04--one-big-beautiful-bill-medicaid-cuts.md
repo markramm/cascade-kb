@@ -6,7 +6,7 @@ title: "Trump Signs 'One Big Beautiful Bill' Into Law: $911 Billion in Medicaid 
 importance: 9
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 - Rand Paul
 - Susan Collins
 - Thom Tillis

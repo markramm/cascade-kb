@@ -5,7 +5,7 @@ date: 1965-08-06
 title: Voting Rights Act Signed After Selma Bloody Sunday Defeats Southern Legislative Resistance
 importance: 9
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Martin Luther King Jr.
 - John Lewis
 - Southern Democratic Senators

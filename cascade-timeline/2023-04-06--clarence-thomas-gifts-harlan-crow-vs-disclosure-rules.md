@@ -11,7 +11,7 @@ notes: 'Present both investigative findings and the judiciary''s evolving disclo
   '
 status: confirmed
 actors:
-- Justice Clarence Thomas
+- Clarence Thomas
 - Harlan Crow
 - Judicial Conference of the United States
 tags:

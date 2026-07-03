@@ -17,7 +17,7 @@ tags:
   - afpi
   - swing-state-mobilization
 actors:
-  - JD Vance
+  - J.D. Vance
   - Lance Wallnau
   - Mario Murillo
   - Jason Howard

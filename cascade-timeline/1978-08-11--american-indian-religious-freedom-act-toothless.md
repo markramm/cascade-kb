@@ -6,7 +6,7 @@ title: American Indian Religious Freedom Act Passes Without Enforcement Mechanis
 importance: 6
 actors:
 - U.S. Congress
-- President Jimmy Carter
+- Jimmy Carter
 - Bureau of Indian Affairs
 - Native American Tribes
 sources:

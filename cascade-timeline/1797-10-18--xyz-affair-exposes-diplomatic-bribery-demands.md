@@ -9,7 +9,7 @@ actors:
 - Charles Cotesworth Pinckney
 - John Marshall
 - Elbridge Gerry
-- President John Adams
+- John Adams
 tags:
 - diplomatic-corruption
 - foreign-influence

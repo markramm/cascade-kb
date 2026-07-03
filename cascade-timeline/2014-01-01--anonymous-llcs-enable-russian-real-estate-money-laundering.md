@@ -14,7 +14,7 @@ tags:
 - regulatory-capture
 - financial-crime
 actors:
-- US Treasury
+- U.S. Treasury
 - FinCEN
 - Russian Oligarchs
 - US real estate industry

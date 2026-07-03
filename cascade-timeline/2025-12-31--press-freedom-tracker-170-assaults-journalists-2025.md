@@ -8,7 +8,7 @@ location: United States
 actors:
 - U.S. Press Freedom Tracker
 - Freedom of the Press Foundation
-- Federal law enforcement
+- Federal Law Enforcement
 - ICE
 - Department of Homeland Security
 tags:

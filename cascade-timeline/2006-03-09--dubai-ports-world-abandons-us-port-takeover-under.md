@@ -11,7 +11,7 @@ actors:
 - George W. Bush
 - American International Group
 - CFIUS
-- US Congress
+- U.S. Congress
 tags:
 - corporate-defeat
 - congressional-oversight

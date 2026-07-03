@@ -19,7 +19,7 @@ actors:
   - Chris Olah
   - Pope Leo XIV
   - Anthropic
-  - JD Vance
+  - J.D. Vance
   - Catholic Church
 sources:
   - title: "Anthropic aligns with Vatican over White House as Pope Leo addresses AI fears"

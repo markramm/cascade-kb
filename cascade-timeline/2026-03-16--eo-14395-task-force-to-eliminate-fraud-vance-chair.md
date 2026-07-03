@@ -19,7 +19,7 @@ tags:
   - forgiveness-over-accountability-ratchet
 actors:
   - Donald Trump
-  - JD Vance
+  - J.D. Vance
   - Andrew Ferguson
   - Stephen Miller
   - Colin McDonald

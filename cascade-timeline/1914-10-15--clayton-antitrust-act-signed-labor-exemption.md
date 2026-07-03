@@ -5,7 +5,7 @@ date: 1914-10-15
 title: 'Clayton Antitrust Act Signed: Labor Unions Exempted from Antitrust Laws, Gompers Calls It Labor''s Magna Carta'
 importance: 9
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Henry De Lamar Clayton Jr.
 - Samuel Gompers
 - American Federation of Labor

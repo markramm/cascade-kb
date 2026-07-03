@@ -5,13 +5,13 @@ date: 2024-07-01
 title: Supreme Court Trump Immunity Ruling Institutionalizes WHIG Constitutional Crisis Precedent into Permanent Oligarchic Governance Framework
 actors:
 - Supreme Court of the United States
-- Chief Justice John Roberts
+- John Roberts
 - Donald Trump
-- Justice Clarence Thomas
-- Justice Samuel Alito
-- Justice Neil Gorsuch
-- Justice Brett Kavanaugh
-- Justice Amy Coney Barrett
+- Clarence Thomas
+- Samuel Alito
+- Neil Gorsuch
+- Brett Kavanaugh
+- Amy Coney Barrett
 tags:
 - supreme-court-capture
 - presidential-immunity-institutionalization

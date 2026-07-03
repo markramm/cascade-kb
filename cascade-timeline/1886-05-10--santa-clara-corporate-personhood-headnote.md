@@ -6,7 +6,7 @@ title: 'Santa Clara County v. Southern Pacific Railroad: The Corporate Personhoo
 importance: 10
 actors:
 - U.S. Supreme Court
-- Chief Justice Morrison Waite
+- Morrison Waite
 - J.C. Bancroft Davis (Court Reporter)
 - Southern Pacific Railroad
 - Santa Clara County

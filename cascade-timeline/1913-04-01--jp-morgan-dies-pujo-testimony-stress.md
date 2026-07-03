@@ -5,7 +5,7 @@ date: 1913-04-01
 title: 'JP Morgan Dies in Rome: House of Morgan Partners Blame Pujo Committee Testimony Stress'
 importance: 8
 actors:
-- JP Morgan
+- J.P. Morgan
 - Pujo Committee
 - Samuel Untermyer
 - House of Morgan

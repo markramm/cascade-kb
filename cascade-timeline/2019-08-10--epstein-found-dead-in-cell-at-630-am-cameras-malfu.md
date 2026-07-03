@@ -9,7 +9,7 @@ actors:
 - MCC prison staff
 - FBI investigators
 - Medical examiner
-- Attorney General William Barr
+- William Barr
 tags:
 - witness-elimination
 - cover-up

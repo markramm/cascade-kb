@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Kerner Commission
 - Governor Otto Kerner Jr.
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Richard Nixon
 sources:
 - title: The 1968 Kerner Commission Got It Right, But Nobody Listened

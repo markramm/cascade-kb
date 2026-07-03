@@ -16,12 +16,12 @@ tags:
   - stablecoin
   - AML
   - regulatory-capture
-  - FinCEN
-  - OFAC
+  - fincen
+  - ofac
   - WLF
-  - USD1
+  - usd1
   - self-dealing
-  - Bank-Secrecy-Act
+  - bank-secrecy-act
 capture_lanes:
   - Financial Capture
   - International Kleptocracy

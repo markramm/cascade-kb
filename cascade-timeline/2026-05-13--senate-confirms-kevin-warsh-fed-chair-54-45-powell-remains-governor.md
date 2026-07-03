@@ -16,7 +16,7 @@ actors:
   - Kevin Warsh
   - Jerome Powell
   - Scott Bessent
-  - JD Vance
+  - J.D. Vance
   - John Fetterman
   - Donald Trump
 sources:

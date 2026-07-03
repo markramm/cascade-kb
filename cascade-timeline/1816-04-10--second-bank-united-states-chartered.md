@@ -5,7 +5,7 @@ date: 1816-04-10
 title: Second Bank of the United States Chartered, Immediately Plagued by Speculation and Fraud
 importance: 8
 actors:
-- President James Madison
+- James Madison
 - U.S. Congress
 - Second Bank of the United States
 - William Jones

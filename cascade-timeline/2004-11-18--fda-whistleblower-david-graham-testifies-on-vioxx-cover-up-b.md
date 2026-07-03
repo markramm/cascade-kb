@@ -4,7 +4,7 @@ date: 2004-11-18
 title: FDA Whistleblower David Graham Testifies on Vioxx Cover-up Before Senate
 importance: 9
 actors:
-- Dr. David Graham
+- David Graham
 - Food and Drug Administration
 - Merck
 - U.S. Senate Finance Committee

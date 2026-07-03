@@ -21,7 +21,7 @@ actors:
 - Jeffrey Epstein
 - Russian banks
 - Bank of America
-- JP Morgan
+- J.P. Morgan
 - Deutsche Bank
 sources:
 - title: As Trump Sits on Key Epstein Files, Wyden Lays Out 'Follow the Money' Investigation for DOJ

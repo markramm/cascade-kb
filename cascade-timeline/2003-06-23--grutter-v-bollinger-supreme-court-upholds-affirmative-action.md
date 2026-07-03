@@ -5,8 +5,8 @@ date: 2003-06-23
 title: Grutter v. Bollinger - Supreme Court Upholds Affirmative Action but Sets 25-Year Limit
 importance: 8
 actors:
-- Justice Sandra Day O'Connor
-- Justice Clarence Thomas
+- Sandra Day O'Connor
+- Clarence Thomas
 - University of Michigan Law School
 - Lee Bollinger
 - Center for Individual Rights

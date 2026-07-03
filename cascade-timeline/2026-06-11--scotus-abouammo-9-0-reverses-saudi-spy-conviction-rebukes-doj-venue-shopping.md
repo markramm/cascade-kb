@@ -14,7 +14,7 @@ tags:
   - saudi-arabia
 actors:
   - U.S. Supreme Court (unanimous)
-  - Justice Elena Kagan
+  - Elena Kagan
   - Ahmad Abouammo
   - Twitter / X
   - Saudi official (MBS staffer)

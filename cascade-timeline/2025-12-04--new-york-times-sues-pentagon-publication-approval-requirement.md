@@ -6,7 +6,7 @@ importance: 9
 title: 'New York Times Sues Pentagon Over Restrictive Media Rules Requiring Publication Approval, Violating First Amendment'
 location: 'Washington, DC'
 actors:
-- The New York Times
+- New York Times
 - Pete Hegseth
 - U.S. Department of Defense
 - NPR

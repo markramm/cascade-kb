@@ -8,7 +8,7 @@ actors:
 - Tulsi Gabbard
 - John Ratcliffe
 - Kash Patel
-- Sen. Mark Warner
+- Mark Warner
 - Senate Intelligence Committee
 tags:
 - iran-war

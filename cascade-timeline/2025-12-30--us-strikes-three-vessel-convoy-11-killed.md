@@ -25,8 +25,8 @@ sources:
 status: confirmed
 type: timeline_event
 actors:
-- US Military
-- US Coast Guard
+- U.S. Military
+- U.S. Coast Guard
 - SOUTHCOM
 capture_lanes:
 - Judicial Capture

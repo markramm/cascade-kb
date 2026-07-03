@@ -7,7 +7,7 @@ title: Treasury records reveal $1.1 billion in Epstein wire transfers through Ru
 location: United States
 actors:
 - Jeffrey Epstein
-- Senator Ron Wyden
+- Ron Wyden
 - U.S. Treasury Department
 - Russian banks
 tags:

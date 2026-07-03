@@ -5,9 +5,9 @@ date: 1975-04-22
 title: 'Church Committee: Landmark Democratic Resistance Framework Against Intelligence Abuses'
 importance: 9
 actors:
-- Senator Frank Church
-- Senator John Tower
-- US Senate
+- Frank Church
+- John Tower
+- U.S. Senate
 - Central Intelligence Agency
 - National Security Agency
 - Federal Bureau of Investigation

@@ -8,7 +8,7 @@ location: Washington, DC
 actors:
 - U.S. District Court
 - Associated Press
-- The White House
+- White House
 - Trump Administration
 tags:
 - courts

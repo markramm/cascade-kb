@@ -6,7 +6,7 @@ title: Civilization Fund Act Authorizes Federal Funding for Indigenous Assimilat
 importance: 7
 actors:
 - U.S. Congress
-- President James Monroe
+- James Monroe
 - Bureau of Indian Affairs
 - Religious missions
 - Protestant organizations

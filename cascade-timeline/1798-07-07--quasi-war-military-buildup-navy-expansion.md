@@ -5,7 +5,7 @@ date: 1798-07-07
 title: Quasi-War Enables Military-Industrial Expansion and Permanent Navy Establishment
 importance: 7
 actors:
-- President John Adams
+- John Adams
 - Secretary of the Navy Benjamin Stoddert
 - U.S. Congress
 - George Washington

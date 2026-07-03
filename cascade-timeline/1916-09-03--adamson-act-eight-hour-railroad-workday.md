@@ -5,7 +5,7 @@ date: 1916-09-03
 title: Adamson Act Establishes Eight-Hour Workday for Railroad Workers
 importance: 8
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Representative William C. Adamson
 - Railroad Labor Brotherhoods
 - Austin B. Garretson

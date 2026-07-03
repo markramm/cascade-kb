@@ -6,7 +6,7 @@ title: 'War Industries Board Established: Bernard Baruch and "Dollar-a-Year Men"
 importance: 8
 actors:
 - Bernard Baruch
-- President Woodrow Wilson
+- Woodrow Wilson
 - U.S. War Department
 - Navy Department
 sources:

@@ -12,7 +12,7 @@ tags:
 - ceremonial
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 sources:
 - title: 250th Anniversary of the Founding of the United States Marine Corps – The White House
   url: https://www.whitehouse.gov/presidential-actions/2025/11/250th-anniversary-of-the-founding-of-the-united-states-marine-corps/

@@ -12,10 +12,10 @@ tags:
   - trump-administration
   - rule-of-law
 actors:
-  - US Navy
+  - U.S. Navy
   - USS Spruance
   - CENTCOM
-  - US Marines
+  - U.S. Marines
   - Iran
   - Donald Trump
 sources:

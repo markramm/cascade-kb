@@ -8,7 +8,7 @@ actors:
 - National Labor Relations Board
 - U.S. Congress
 - Corporate lobbying groups
-- Reagan administration
+- Reagan Administration
 tags:
 - labor-suppression
 - nlrb

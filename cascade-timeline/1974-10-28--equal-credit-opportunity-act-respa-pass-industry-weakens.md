@@ -6,7 +6,7 @@ title: Equal Credit Opportunity Act and RESPA Pass After Industry Lobbying Weake
 importance: 7
 actors:
 - U.S. Congress
-- President Gerald Ford
+- Gerald Ford
 - American Bankers Association
 - Mortgage Bankers Association
 - Federal Reserve

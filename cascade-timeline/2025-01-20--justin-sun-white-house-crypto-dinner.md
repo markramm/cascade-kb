@@ -12,7 +12,7 @@ actors:
 - Securities and Exchange Commission
 - World Liberty Financial
 - CIC Digital LLC
-- HTX exchange
+- HTX Exchange
 tags:
 - crypto-conflicts
 - foreign-investment

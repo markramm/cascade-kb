@@ -10,7 +10,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Sergio Gor
-- Sen. Chuck Grassley
+- Chuck Grassley
 tags:
 - kleptocracy
 - institutional-capture

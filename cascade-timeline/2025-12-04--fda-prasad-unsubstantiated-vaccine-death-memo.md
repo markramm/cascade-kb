@@ -6,7 +6,7 @@ importance: 9
 title: FDA Vaccine Chief Vinay Prasad Circulates Unsubstantiated Memo Claiming COVID Vaccines Killed At Least Ten Children
 location: 'Washington, DC'
 actors:
-- Dr. Vinay Prasad
+- Vinay Prasad
 - FDA Center for Biologics Evaluation and Research (CBER)
 - Robert F. Kennedy Jr.
 - FDA Commissioner Martin Makary

@@ -6,7 +6,7 @@ title: Mullin DHS Confirmation Hearing Marked by Confrontation with Rand Paul an
 importance: 9
 actors:
 - Markwayne Mullin
-- Sen. Rand Paul
+- Rand Paul
 - Senate Homeland Security Committee
 tags:
 - immigration-enforcement

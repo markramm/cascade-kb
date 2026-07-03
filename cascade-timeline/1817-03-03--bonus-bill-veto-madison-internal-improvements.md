@@ -5,7 +5,7 @@ date: 1817-03-03
 title: Madison Vetoes Bonus Bill for Internal Improvements on Constitutional Grounds, Setting Precedent Against Federal Infrastructure
 importance: 7
 actors:
-- President James Madison
+- James Madison
 - John C. Calhoun
 - Henry Clay
 - U.S. Congress

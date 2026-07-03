@@ -15,7 +15,7 @@ actors:
   - Jeffrey Epstein
   - Jean-Luc Brunel
   - House Oversight Committee
-  - US Navy
+  - U.S. Navy
 sources:
   - title: "Exclusive: Navy secretary John Phelan listed as passenger on Jeffrey Epstein's private plane in 2006"
     url: https://www.cnn.com/2026/02/06/politics/phelan-epstein-flight

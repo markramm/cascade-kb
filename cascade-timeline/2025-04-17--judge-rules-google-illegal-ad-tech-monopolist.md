@@ -5,7 +5,7 @@ date: 2025-04-17
 title: Judge Rules Google Operates Illegal Ad Tech Monopoly, Orders Divestiture of Ad Business
 status: confirmed
 actors:
-- Judge Leonie Brinkema
+- Leonie Brinkema
 - Department of Justice
 - Google
 - Sundar Pichai

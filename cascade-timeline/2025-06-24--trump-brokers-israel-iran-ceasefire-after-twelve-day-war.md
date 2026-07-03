@@ -6,7 +6,7 @@ title: Trump Brokers Israel-Iran Ceasefire Ending Twelve-Day War
 importance: 9
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 - Benjamin Netanyahu
 - Qatar
 tags:

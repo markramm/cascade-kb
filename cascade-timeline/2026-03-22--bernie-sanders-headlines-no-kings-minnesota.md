@@ -5,7 +5,7 @@ date: '2026-03-22'
 title: Sanders Confirmed as Headliner for Flagship No Kings Rally at Minnesota State Capitol
 importance: 8
 actors:
-- Sen. Bernie Sanders
+- Bernie Sanders
 - Peggy Flanagan
 - Keith Ellison
 - Jane Fonda

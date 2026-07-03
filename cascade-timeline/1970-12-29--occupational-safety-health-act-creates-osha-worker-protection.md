@@ -5,7 +5,7 @@ date: 1970-12-29
 title: Occupational Safety and Health Act Creates OSHA After Decades of Industry Opposition to Workplace Safety
 importance: 8
 actors:
-- President Richard Nixon
+- Richard Nixon
 - U.S. Congress
 - AFL-CIO
 - National Association of Manufacturers

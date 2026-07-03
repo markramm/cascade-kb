@@ -8,7 +8,7 @@ actors:
 - American Federation of Labor
 - United States Steel Corporation
 - Elbert H. Gary
-- Attorney General A. Mitchell Palmer
+- A. Mitchell Palmer
 - J. Edgar Hoover
 tags:
 - labor-suppression

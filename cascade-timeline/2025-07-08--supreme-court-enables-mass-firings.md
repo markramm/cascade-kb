@@ -10,8 +10,8 @@ actors:
 - Federal Agencies
 - General Services Administration
 - Department of Government Efficiency
-- Justice Ketanji Brown Jackson
-- Justice Sonia Sotomayor
+- Ketanji Brown Jackson
+- Sonia Sotomayor
 tags:
 - supreme-court
 - mass-firings

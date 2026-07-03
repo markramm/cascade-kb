@@ -20,7 +20,7 @@ actors:
 - William Pulte
 - Lisa Cook
 - Federal Reserve
-- fhfa
+- FHFA
 - Department of Justice
 capture_lane:
   - Financial Capture

@@ -5,11 +5,11 @@ date: 1914-08-01
 title: 'JP Morgan Becomes Allied War Financier: $3 Billion in Loans and Munitions Contracts, Abandons Neutrality for Profit'
 importance: 8
 actors:
-- 'JP Morgan & Co.'
+- JP Morgan & Co.
 - British Government
 - French government
 - Thomas Lamont
-- President Woodrow Wilson
+- Woodrow Wilson
 - Secretary of State William Jennings Bryan
 tags:
 - war-profiteering

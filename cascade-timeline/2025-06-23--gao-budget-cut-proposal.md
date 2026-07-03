@@ -6,7 +6,7 @@ date: 2025-06-23
 importance: 6
 location: Washington DC
 actors:
-- US House of Representatives
+- U.S. House of Representatives
 - Government Accountability Office (GAO)
 - U.S. Congress
 tags:

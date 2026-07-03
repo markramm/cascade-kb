@@ -6,7 +6,7 @@ title: 'Schenck v. United States: Supreme Court Creates ''Clear and Present Dang
 importance: 8
 actors:
 - Supreme Court of the United States
-- Justice Oliver Wendell Holmes Jr.
+- Oliver Wendell Holmes Jr.
 - Charles Schenck
 - Socialist Party of America
 tags:

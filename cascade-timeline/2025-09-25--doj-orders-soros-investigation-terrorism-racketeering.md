@@ -11,7 +11,7 @@ actors:
 - Aakash Singh
 - Todd Blanche
 - Donald Trump
-- JD Vance
+- J.D. Vance
 tags:
 - doj
 - political-prosecution

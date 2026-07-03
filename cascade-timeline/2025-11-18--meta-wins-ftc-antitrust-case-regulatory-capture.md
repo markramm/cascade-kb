@@ -5,7 +5,7 @@ date: 2025-11-18
 title: Meta Wins FTC Antitrust Case as Judge Rules No Monopoly Despite Instagram/WhatsApp Acquisitions
 status: confirmed
 actors:
-- Judge James Boasberg
+- James Boasberg
 - Meta
 - Mark Zuckerberg
 - Federal Trade Commission

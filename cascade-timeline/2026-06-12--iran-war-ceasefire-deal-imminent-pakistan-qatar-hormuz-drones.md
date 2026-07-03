@@ -18,7 +18,7 @@ actors:
   - Abbas Araghchi
   - Pakistan (mediator)
   - Qatar (mediator)
-  - US Military
+  - U.S. Military
   - Iran
 sources:
   - title: 'Iran war live updates — Trump, Israel, Iran ceasefire and nuclear MoU'

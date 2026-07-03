@@ -10,7 +10,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Jay Monahan
-- Yasir al-Rumayyan
+- Yasir Al-Rumayyan
 - PGA Tour
 - LIV Golf
 tags:

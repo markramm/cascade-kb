@@ -7,8 +7,8 @@ importance: 8
 actors:
 - Eugene V. Debs
 - American Railway Union
-- President Grover Cleveland
-- Attorney General Richard Olney
+- Grover Cleveland
+- Richard Olney
 - Pullman Palace Car Company
 tags:
 - labor-suppression

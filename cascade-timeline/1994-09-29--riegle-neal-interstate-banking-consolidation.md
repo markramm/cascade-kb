@@ -5,8 +5,8 @@ date: 1994-09-29
 title: Riegle-Neal Act Enables Nationwide Bank Consolidation, Mortgage Market Transformation
 importance: 7
 actors:
-- President Bill Clinton
-- Senator Donald Riegle
+- Bill Clinton
+- Donald Riegle
 - Representative Stephen Neal
 - American Bankers Association
 - NationsBank

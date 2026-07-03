@@ -9,7 +9,7 @@ actors:
 - crispr-therapeutics
 - dragonfly-therapeutics
 - wisner-baum-law-firm
-- Senator Elizabeth Warren
+- Elizabeth Warren
 capture_lane: political
 capture_lanes:
 - Regulatory Capture

@@ -23,7 +23,7 @@ sources:
 actors:
 - Donald Trump
 - Erika McEntarfer
-- EJ Antoni
+- E.J. Antoni
 - Bureau of Labor Statistics
 - Heritage Foundation
 capture_lanes:

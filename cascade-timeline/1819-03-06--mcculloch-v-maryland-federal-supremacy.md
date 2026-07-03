@@ -5,7 +5,7 @@ date: 1819-03-06
 title: McCulloch v. Maryland Establishes Federal Supremacy and Implied Powers, Protecting Second Bank from State Accountability
 importance: 8
 actors:
-- Chief Justice John Marshall
+- John Marshall
 - U.S. Supreme Court
 - Second Bank of the United States
 - State of Maryland

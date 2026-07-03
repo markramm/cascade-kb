@@ -5,7 +5,7 @@ date: 1967-12-15
 title: Age Discrimination in Employment Act Protects Workers Over 40 from Job Discrimination
 importance: 7
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - U.S. Congress
 - Secretary of Labor W. Willard Wirtz
 - U.S. Chamber of Commerce

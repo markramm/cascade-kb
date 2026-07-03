@@ -5,7 +5,7 @@ date: '2026-03-16'
 title: Sen. Warren Questions Pentagon Granting Musk's xAI Access to Classified Military Networks Despite Grok's Harmful Outputs
 importance: 7
 actors:
-- Sen. Elizabeth Warren
+- Elizabeth Warren
 - Pete Hegseth
 - Elon Musk
 - xAI

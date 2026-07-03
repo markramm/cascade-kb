@@ -30,7 +30,7 @@ actors:
 - Federal Bureau of Investigation
 - Minnesota Bureau of Criminal Apprehension
 - Bob Jacobson
-- JD Vance
+- J.D. Vance
 - Jacob Frey
 capture_lanes:
 - Civil Rights Suppression

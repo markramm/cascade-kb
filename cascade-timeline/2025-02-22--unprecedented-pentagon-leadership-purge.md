@@ -12,8 +12,8 @@ actors:
 - Admiral Lisa Franchetti
 - General James Slife
 - Military Legal Officers
-- 'Lt. Gen. Dan ''Razin'' Caine'
-- Senator Jack Reed
+- Lt. Gen. Dan ''Razin'' Caine
+- Jack Reed
 tags:
 - military-purge
 - joint-chiefs

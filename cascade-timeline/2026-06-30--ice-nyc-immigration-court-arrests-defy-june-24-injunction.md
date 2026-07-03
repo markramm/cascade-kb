@@ -14,7 +14,7 @@ tags:
 actors:
   - ICE
   - Make the Road New York
-  - Judge Kevin Castel
+  - Kevin Castel
 sources:
   - title: "ICE Flouting Federal Judge's Order to Stop Arresting Immigrants at New York Courts"
     url: "https://theintercept.com/2026/07/01/ice-court-order-arrests/"

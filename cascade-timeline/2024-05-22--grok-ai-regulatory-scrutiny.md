@@ -7,8 +7,8 @@ importance: 9
 actors:
 - Elon Musk
 - xAI
-- Senator Elizabeth Warren
-- Rep. Don Bacon
+- Elizabeth Warren
+- Don Bacon
 - Rep. Tom Suozzi
 - Rep. Josh Gottheimer
 - Senate Minority Leader Chuck Schumer

@@ -9,7 +9,7 @@ actors:
 - David Sacks
 - White House
 - David Warrington
-- Sen. Elizabeth Warren
+- Elizabeth Warren
 - Craft Ventures
 - Office of Government Ethics
 tags:

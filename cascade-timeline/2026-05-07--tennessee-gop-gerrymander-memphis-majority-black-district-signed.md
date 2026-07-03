@@ -15,9 +15,9 @@ tags:
   - democratic-erosion
   - republican-party
 actors:
-  - Governor Bill Lee
+  - Bill Lee
   - Tennessee General Assembly
-  - Representative Steve Cohen
+  - Steve Cohen
   - Donald Trump
   - Democracy Docket
 sources:

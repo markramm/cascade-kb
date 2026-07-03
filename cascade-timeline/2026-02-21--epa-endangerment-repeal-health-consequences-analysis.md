@@ -11,7 +11,7 @@ actors:
 - Donald Trump
 - Inside Climate News
 - American Public Health Association
-- fossil fuel industry
+- Fossil Fuel Industry
 tags:
 - regulatory-capture
 - environmental-destruction

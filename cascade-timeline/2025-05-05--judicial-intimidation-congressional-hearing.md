@@ -6,7 +6,7 @@ title: Congressional Hearing Exposes Systematic Judicial Intimidation Tactics
 importance: 9
 actors:
 - Senate Judiciary Committee
-- Chief Justice John Roberts
+- John Roberts
 - U.S. Marshals Service
 - Supreme Court Justices
 - Dick Durbin

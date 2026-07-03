@@ -6,7 +6,7 @@ importance: 6
 title: Supreme Court Allows Virginia to Purge 1,600 Voters Days Before Election Despite Federal Law
 location: Virginia
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Glenn Youngkin (Governor)
 - Virginia Coalition for Immigrant Rights
 tags:

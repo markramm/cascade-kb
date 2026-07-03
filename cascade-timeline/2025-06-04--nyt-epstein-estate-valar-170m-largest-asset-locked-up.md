@@ -14,7 +14,7 @@ tags:
   - investment-vehicles
   - estate-beneficiaries
 actors:
-  - Jeffrey Epstein estate
+  - Jeffrey Epstein Estate
   - Valar Ventures
   - Peter Thiel
   - Darren Indyke

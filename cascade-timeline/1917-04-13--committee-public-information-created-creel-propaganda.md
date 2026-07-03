@@ -5,7 +5,7 @@ date: 1917-04-13
 title: 'Committee on Public Information Created: Wilson Establishes Federal Propaganda Machine'
 importance: 8
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - George Creel
 - Secretary of State Robert Lansing
 - Secretary of War Newton Baker

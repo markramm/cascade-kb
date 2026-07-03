@@ -5,7 +5,7 @@ date: '2026-03-13'
 title: Judge Orders Plaintiffs to Remove Viral DOGE Deposition Videos from YouTube
 importance: 7
 actors:
-- Judge Colleen McMahon
+- Colleen McMahon
 - Nate Cavanaugh
 - Justin Fox
 - Department of Government Efficiency

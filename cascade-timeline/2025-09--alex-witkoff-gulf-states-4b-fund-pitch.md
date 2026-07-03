@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Alex Witkoff
 - Steve Witkoff
-- The Witkoff Group
+- Witkoff Group
 - Qatar Investment Authority
 - Abu Dhabi sovereign funds
 - Kuwait Investment Authority

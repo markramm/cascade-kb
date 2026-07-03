@@ -7,7 +7,7 @@ importance: 10
 actors:
 - Senator Henry L. Dawes
 - U.S. Congress
-- President Grover Cleveland
+- Grover Cleveland
 - Bureau of Indian Affairs
 - Five Civilized Tribes
 sources:

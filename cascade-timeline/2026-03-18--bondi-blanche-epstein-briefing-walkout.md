@@ -7,8 +7,8 @@ importance: 7
 actors:
 - Pam Bondi
 - Todd Blanche
-- Rep. James Comer
-- Rep. Robert Garcia
+- James Comer
+- Robert Garcia
 - Rep. Summer Lee
 tags:
 - epstein

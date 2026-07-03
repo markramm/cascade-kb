@@ -5,7 +5,7 @@ date: 2012-07-30
 title: Senate Harkin Report Documents Massive Fraud and Abuse in For-Profit College Industry
 importance: 8
 actors:
-- Senator Tom Harkin
+- Tom Harkin
 - Senate HELP Committee
 - University of Phoenix
 - Corinthian Colleges

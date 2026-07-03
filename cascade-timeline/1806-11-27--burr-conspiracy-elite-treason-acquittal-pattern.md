@@ -7,8 +7,8 @@ importance: 8
 actors:
 - Aaron Burr
 - General James Wilkinson
-- President Thomas Jefferson
-- Chief Justice John Marshall
+- Thomas Jefferson
+- John Marshall
 tags:
 - elite-corruption
 - treason

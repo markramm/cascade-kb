@@ -8,10 +8,10 @@ actors:
 - Pete Hegseth
 - Jeffrey Goldberg
 - Mike Waltz
-- JD Vance
+- J.D. Vance
 - Admiral Frank Bradley
-- Senator Jack Reed
-- Senator Roger Wicker
+- Jack Reed
+- Roger Wicker
 - Donald Trump
 - Sean Parnell
 tags:

@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Supreme Court
 - Donald Trump
-- Judge Ana Reyes
+- Ana Reyes
 tags:
 - immigration-enforcement
 - tps

@@ -18,7 +18,7 @@ tags:
 - little-village
 actors:
 - Gregory Bovino
-- Judge Sara Ellis
+- Sara Ellis
 - U.S. Department of Homeland Security
 - U.S. Customs and Border Protection
 - Chicago Headline Club

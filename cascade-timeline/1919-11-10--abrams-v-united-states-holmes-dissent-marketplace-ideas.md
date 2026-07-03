@@ -6,8 +6,8 @@ title: 'Abrams v. United States: Holmes Dissents, Articulates ''Marketplace of I
 importance: 7
 actors:
 - Supreme Court of the United States
-- Justice Oliver Wendell Holmes Jr.
-- Justice Louis Brandeis
+- Oliver Wendell Holmes Jr.
+- Louis Brandeis
 - Jacob Abrams
 tags:
 - free-speech

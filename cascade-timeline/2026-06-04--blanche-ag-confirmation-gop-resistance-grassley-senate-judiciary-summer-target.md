@@ -15,7 +15,7 @@ actors:
   - Todd Blanche
   - Chuck Grassley
   - Senate Judiciary Committee
-  - Senate Republican caucus
+  - Senate Republican Caucus
   - John Thune
 sources:
   - title: "Todd Blanche's confirmation faces GOP opposition"

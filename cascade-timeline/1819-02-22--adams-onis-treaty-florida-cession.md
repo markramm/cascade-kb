@@ -7,7 +7,7 @@ importance: 7
 actors:
 - Secretary of State John Quincy Adams
 - Spanish Minister Luis de Onís
-- President James Monroe
+- James Monroe
 - General Andrew Jackson
 tags:
 - territorial-expansion

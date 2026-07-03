@@ -5,7 +5,7 @@ date: 1968-04-11
 title: Fair Housing Act Passes After MLK Assassination Overcomes National Association of Real Estate Boards Decades of Opposition
 importance: 8
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Martin Luther King Jr.
 - National Association of Real Estate Boards
 - National Association of Realtors

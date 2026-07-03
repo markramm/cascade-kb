@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Treasury Department
 - Donald Trump
-- Sen. Richard Blumenthal
+- Richard Blumenthal
 tags:
 - iran-war
 - oil-sanctions

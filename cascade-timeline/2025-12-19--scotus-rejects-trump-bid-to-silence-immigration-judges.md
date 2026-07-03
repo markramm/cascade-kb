@@ -11,7 +11,7 @@ actors:
 - National Association of Immigration Judges (NAIJ)
 - Department of Justice
 - 4th Circuit Court of Appeals
-- Judge Leonie Brinkema
+- Leonie Brinkema
 - D. John Sauer
 - Stephen Vladeck
 tags:

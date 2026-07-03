@@ -14,7 +14,7 @@ tags:
   - oz-cms
   - vance
 actors:
-  - JD Vance
+  - J.D. Vance
   - Mehmet Oz
   - Gavin Newsom
   - Rob Bonta

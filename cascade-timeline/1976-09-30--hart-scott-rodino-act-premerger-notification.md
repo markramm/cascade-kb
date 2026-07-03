@@ -8,7 +8,7 @@ actors:
 - Gerald Ford
 - Senator Philip Hart
 - Senator Hugh Scott
-- Representative Peter Rodino
+- Peter Rodino
 - Federal Trade Commission
 - Department of Justice
 tags:

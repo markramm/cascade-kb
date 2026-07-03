@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - Hampton Dellinger
 - Office of Special Counsel
-- Judge Amy Berman Jackson
+- Amy Berman Jackson
 - U.S. Senate
 tags:
 - courts

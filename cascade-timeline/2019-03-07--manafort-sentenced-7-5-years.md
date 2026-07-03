@@ -17,7 +17,7 @@ actors:
 - Paul Manafort
 - Donald Trump
 - Judge T.S. Ellis III
-- Judge Amy Berman Jackson
+- Amy Berman Jackson
 - Robert Mueller
 sources:
 - url: https://www.npr.org/2019/03/13/702743703/paul-manafort-to-serve-total-of-more-than-7-years-following-d-c-guilty-plea

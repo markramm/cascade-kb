@@ -7,9 +7,9 @@ importance: 6
 location: Los Angeles, California / Ninth Circuit
 actors:
 - Ninth Circuit Court of Appeals
-- Judge Charles Breyer
+- Charles Breyer
 - California National Guard
-- US Marines
+- U.S. Marines
 tags:
 - judicial-review
 - emergency-stays

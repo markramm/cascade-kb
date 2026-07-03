@@ -9,14 +9,14 @@ tags:
   - palantir
   - DCGS-A
   - Federal-Circuit
-  - FASA
+  - fasa
   - bid-protest
   - procurement-capture
   - capture-via-protest
   - Army
   - commercial-item-preference
   - COFC
-  - defense-AI
+  - defense-ai
   - investigation-2
 actors:
   - Palantir Technologies

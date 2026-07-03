@@ -15,7 +15,7 @@ actors:
   - Cole Tomas Allen
   - Donald Trump
   - Melania Trump
-  - JD Vance
+  - J.D. Vance
   - U.S. Secret Service
   - DC Metropolitan Police
   - Federal Bureau of Investigation

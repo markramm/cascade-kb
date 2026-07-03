@@ -17,7 +17,7 @@ tags:
 actors:
   - Viktor Orbán
   - Péter Magyar
-  - JD Vance
+  - J.D. Vance
   - Donald Trump
   - Fidesz
   - Tisza Party

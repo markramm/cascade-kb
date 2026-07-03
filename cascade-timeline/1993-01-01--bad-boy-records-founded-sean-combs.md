@@ -10,7 +10,7 @@ actors:
 - Clive Davis
 - Arista Records
 - Andre Harrell
-- The Notorious B.I.G.
+- Notorious B.I.G.
 tags:
 - music-industry
 - business-formation

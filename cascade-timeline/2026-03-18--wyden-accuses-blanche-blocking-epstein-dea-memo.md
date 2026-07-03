@@ -5,7 +5,7 @@ date: '2026-03-18'
 title: Wyden Accuses DAG Blanche of Blocking Unredacted DEA Memo on Epstein Drug Trafficking Investigation
 importance: 9
 actors:
-- Sen. Ron Wyden
+- Ron Wyden
 - Todd Blanche
 - DEA
 tags:

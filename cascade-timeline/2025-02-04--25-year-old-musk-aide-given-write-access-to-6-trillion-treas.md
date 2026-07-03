@@ -13,7 +13,7 @@ actors:
 - Scott Bessent
 - David Lebryk
 - Donald Trump
-- JD Vance
+- J.D. Vance
 tags:
 - treasury
 - payment-system

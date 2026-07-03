@@ -13,7 +13,7 @@ actors:
 - Kash Patel
 - John Ratcliffe
 - Federal Bureau of Investigation
-- JD Vance
+- J.D. Vance
 tags:
 - political-retaliation
 - classified-documents

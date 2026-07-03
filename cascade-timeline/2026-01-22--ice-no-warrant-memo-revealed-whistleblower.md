@@ -10,7 +10,7 @@ actors:
 - Immigration and Customs Enforcement (ICE)
 - Kristi Noem
 - Richard Blumenthal
-- JD Vance
+- J.D. Vance
 tags:
 - ice
 - fourth-amendment

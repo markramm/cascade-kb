@@ -10,7 +10,7 @@ actors:
 - James Buckley
 - Eugene McCarthy
 - Francis Valeo
-- Justice Byron White
+- Byron White
 tags:
 - campaign-finance
 - supreme-court

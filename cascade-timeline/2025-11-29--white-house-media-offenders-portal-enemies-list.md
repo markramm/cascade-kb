@@ -8,14 +8,14 @@ actors:
 - Donald Trump
 - Karoline Leavitt
 - White House
-- The Washington Post
+- Washington Post
 - MSNBC
 - CBS News
 - CNN
-- The New York Times
+- New York Times
 - Politico
-- The Wall Street Journal
-- The Boston Globe
+- Wall Street Journal
+- Boston Globe
 - The Independent
 - ABC News
 - NBC News

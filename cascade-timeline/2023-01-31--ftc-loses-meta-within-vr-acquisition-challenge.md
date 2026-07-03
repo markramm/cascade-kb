@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Federal Trade Commission
 - Meta Platforms
-- Judge Edward Davila
+- Edward Davila
 - Lina Khan
 tags:
 - antitrust

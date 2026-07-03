@@ -5,12 +5,12 @@ date: 1965-10-03
 title: Immigration and Nationality Act Abolishes National Origins Quota System After Defeating Conservative Opposition
 importance: 7
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Senator Philip Hart
-- Representative Emanuel Celler
+- Emanuel Celler
 - Senator James Eastland
 - Senator Samuel Ervin
-- Senator Everett Dirksen
+- Everett Dirksen
 sources:
 - title: Immigration and Nationality Act of 1965
   outlet: Wikipedia

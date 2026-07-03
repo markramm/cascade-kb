@@ -6,7 +6,7 @@ title: McKinsey Claims It's 'Horrified' After Saudi Dissident Report Made Public
 importance: 7
 actors:
 - McKinsey & Company
-- The New York Times
+- New York Times
 - Saudi Arabia
 - Omar Abdulaziz
 - Khalid al-Alkami

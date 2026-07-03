@@ -8,7 +8,7 @@ status: confirmed
 actors:
 - David Sacks
 - Chamath Palihapitiya
-- JD Vance
+- J.D. Vance
 - Donald Trump
 - Cameron Winklevoss
 - Tyler Winklevoss

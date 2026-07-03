@@ -8,7 +8,7 @@ location: Northern Mariana Islands (CNMI)
 actors:
 - Government Accountability Office (GAO)
 - Commonwealth of Northern Mariana Islands Government
-- US Congress
+- U.S. Congress
 tags:
 - economic-crisis
 - territory-neglect

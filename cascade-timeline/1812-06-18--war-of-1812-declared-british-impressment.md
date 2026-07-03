@@ -5,7 +5,7 @@ date: 1812-06-18
 title: War of 1812 Declared, Enabling Widespread Profiteering and Contractor Fraud
 importance: 7
 actors:
-- President James Madison
+- James Madison
 - U.S. Congress
 - British Empire
 - War profiteers

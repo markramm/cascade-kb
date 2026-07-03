@@ -7,7 +7,7 @@ status: confirmed
 title: "Vance Calls Watergate 'a 12-Hour News Story' from the Nixon Library, Casts Nixon as a Deep-State Victim"
 location: Richard Nixon Presidential Library, Yorba Linda, CA
 actors:
-- JD Vance
+- J.D. Vance
 - Richard Nixon
 - Donald Trump
 capture_lanes:

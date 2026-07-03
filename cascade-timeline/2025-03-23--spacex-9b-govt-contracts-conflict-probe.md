@@ -8,8 +8,8 @@ actors:
 - Donald Trump
 - Elon Musk
 - Trump Administration
-- Rep. Stephen Lynch
-- Rep. Gerry Connolly
+- Stephen Lynch
+- Gerry Connolly
 importance: 9
 sources:
 - date: '2025-03-23'

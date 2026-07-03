@@ -5,7 +5,7 @@ date: '2026-03-20'
 title: Sen. Whitehouse Demands Bondi Preserve All Records Related to DOJ Ethics Shield Rule
 importance: 6
 actors:
-- Sen. Sheldon Whitehouse
+- Sheldon Whitehouse
 - Pam Bondi
 - Todd Blanche
 tags:

@@ -5,9 +5,9 @@ date: '2026-03-19'
 title: CNN Reports 2.5 Million Epstein Documents Remain Unreleased Despite Transparency Act
 importance: 7
 actors:
-- Rep. Thomas Massie
-- Rep. Ro Khanna
-- Judge Paul Engelmayer
+- Thomas Massie
+- Ro Khanna
+- Paul Engelmayer
 tags:
 - epstein
 - transparency

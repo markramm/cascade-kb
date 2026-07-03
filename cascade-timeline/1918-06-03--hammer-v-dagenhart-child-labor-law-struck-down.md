@@ -7,7 +7,7 @@ importance: 8
 actors:
 - U.S. Supreme Court
 - Justice William R. Day
-- Justice Oliver Wendell Holmes Jr.
+- Oliver Wendell Holmes Jr.
 tags:
 - supreme-court
 - child-labor

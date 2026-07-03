@@ -20,7 +20,7 @@ tags:
   - vance-reformed-bridge
   - vp-selection
 actors:
-  - JD Vance
+  - J.D. Vance
   - Doug Wilson
   - Albert Mohler
   - Yoram Hazony

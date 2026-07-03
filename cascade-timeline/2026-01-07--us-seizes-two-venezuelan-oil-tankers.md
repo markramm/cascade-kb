@@ -28,7 +28,7 @@ status: confirmed
 type: timeline_event
 actors:
 - Donald Trump
-- US Navy
+- U.S. Navy
 - Navy SEALs
 - Russia
 - China

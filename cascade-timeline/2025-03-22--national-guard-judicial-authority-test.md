@@ -6,10 +6,10 @@ actors:
 - State Governors
 - Donald Trump
 - 9th U.S. Circuit Court of Appeals
-- Judge Charles Breyer
+- Charles Breyer
 - California Governor Gavin Newsom
 - California Attorney General Rob Bonta
-- Judge Karin Immergut
+- Karin Immergut
 - Oregon State Government
 capture_lanes:
 - Judicial Capture

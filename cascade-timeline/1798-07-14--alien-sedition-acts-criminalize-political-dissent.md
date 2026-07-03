@@ -5,7 +5,7 @@ date: 1798-07-14
 title: Alien and Sedition Acts Criminalize Political Dissent and Democratic Opposition
 importance: 9
 actors:
-- President John Adams
+- John Adams
 - Federalist Party
 - Secretary of State Timothy Pickering
 - Democratic-Republican newspaper editors

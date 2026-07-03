@@ -6,18 +6,18 @@ importance: 8
 title: Supreme Court Allows Religious Exemptions from Anti-Discrimination Laws in 303 Creative v. Elenis
 actors:
 - U.S. Supreme Court
-- Justice Neil Gorsuch
-- Chief Justice John Roberts
-- Justice Clarence Thomas
-- Justice Samuel Alito
-- Justice Brett Kavanaugh
-- Justice Amy Coney Barrett
+- Neil Gorsuch
+- John Roberts
+- Clarence Thomas
+- Samuel Alito
+- Brett Kavanaugh
+- Amy Coney Barrett
 - Lorie Smith
 - 303 Creative LLC
 - Colorado Civil Rights Commission
-- Justice Sonia Sotomayor
-- Justice Elena Kagan
-- Justice Ketanji Brown Jackson
+- Sonia Sotomayor
+- Elena Kagan
+- Ketanji Brown Jackson
 - Alliance Defending Freedom
 - Leonard Leo
 - Federalist Society

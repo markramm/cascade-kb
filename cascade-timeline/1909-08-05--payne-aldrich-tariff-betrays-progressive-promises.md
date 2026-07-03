@@ -5,7 +5,7 @@ date: 1909-08-05
 title: 'Payne-Aldrich Tariff Betrays Progressive Promises: Taft Praises "Best Tariff Bill," Splits Republican Party'
 importance: 8
 actors:
-- President William Howard Taft
+- William Howard Taft
 - Nelson Aldrich
 - Progressive Republicans
 - Old Guard Republicans

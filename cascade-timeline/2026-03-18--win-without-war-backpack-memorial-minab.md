@@ -6,8 +6,8 @@ title: Win Without War Places 168 Children's Backpacks on Capitol Lawn Memoriali
 importance: 8
 actors:
 - Win Without War
-- Sen. Chris Van Hollen
-- Rep. Pramila Jayapal
+- Chris Van Hollen
+- Pramila Jayapal
 - Rep. Sara Jacobs
 tags:
 - anti-war

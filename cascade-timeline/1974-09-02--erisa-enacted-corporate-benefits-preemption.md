@@ -7,7 +7,7 @@ title: ERISA Enacted, Establishing Federal Preemption of State Employee Benefit 
 location: Washington, D.C.
 actors:
 - U.S. Congress
-- President Gerald Ford
+- Gerald Ford
 tags:
 - erisa
 - corporate-preemption

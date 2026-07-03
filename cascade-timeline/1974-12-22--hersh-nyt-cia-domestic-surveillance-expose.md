@@ -7,7 +7,7 @@ importance: 10
 status: confirmed
 actors:
   - Seymour Hersh
-  - The New York Times
+  - New York Times
   - William Colby
   - Gerald Ford
   - Central Intelligence Agency

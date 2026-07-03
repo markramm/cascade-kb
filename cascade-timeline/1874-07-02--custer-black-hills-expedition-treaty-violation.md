@@ -9,7 +9,7 @@ actors:
 - U.S. Army
 - Sioux Nation
 - Horatio Ross (prospector)
-- President Ulysses S. Grant
+- Ulysses S. Grant
 sources:
 - title: In 1868, Two Nations Made a Treaty. The U.S. Broke It
   outlet: Smithsonian Magazine

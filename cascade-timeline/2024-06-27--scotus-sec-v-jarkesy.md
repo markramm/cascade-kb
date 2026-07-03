@@ -8,12 +8,12 @@ location: 'Washington, DC'
 actors:
 - Supreme Court of the United States
 - Securities and Exchange Commission
-- Chief Justice John Roberts
+- John Roberts
 - Justice Neil Gorsuch (concurring)
-- Justice Clarence Thomas
-- Justice Sonia Sotomayor
-- Justice Elena Kagan
-- Justice Ketanji Brown Jackson
+- Clarence Thomas
+- Sonia Sotomayor
+- Elena Kagan
+- Ketanji Brown Jackson
 - George Jarkesy (respondent)
 tags:
 - administrative-law

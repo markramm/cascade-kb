@@ -18,7 +18,7 @@ tags:
 - border-patrol
 - first-amendment
 actors:
-- Judge Sara Ellis
+- Sara Ellis
 - Gregory Bovino
 - U.S. Department of Homeland Security
 - U.S. Customs and Border Protection

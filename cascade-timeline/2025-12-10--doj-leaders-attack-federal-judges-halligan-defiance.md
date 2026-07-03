@@ -15,10 +15,10 @@ actors:
 - Pam Bondi
 - Todd Blanche
 - Lindsey Halligan
-- Judge Cameron McGowan Currie
-- Judge Leonie Brinkema
-- Judge Colleen Kollar-Kotelly
-- Judge William Fitzpatrick
+- Cameron McGowan Currie
+- Leonie Brinkema
+- Colleen Kollar-Kotelly
+- William Fitzpatrick
 - Department of Justice
 sources:
 - title: DOJ Hits Back at Judges Doubting Halligan's US Attorney Role

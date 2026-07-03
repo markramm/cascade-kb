@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Rep. Summer Lee
 - Pam Bondi
-- Rep. Rashida Tlaib
+- Rashida Tlaib
 tags:
 - doj-weaponization
 - impeachment

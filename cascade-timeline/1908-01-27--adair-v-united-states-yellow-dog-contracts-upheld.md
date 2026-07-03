@@ -6,7 +6,7 @@ title: 'Adair v. United States: Supreme Court Strikes Down Federal Ban on Yellow
 importance: 7
 actors:
 - Supreme Court of the United States
-- Justice John Marshall Harlan
+- John Marshall Harlan
 - William Adair
 - Louisville and Nashville Railroad
 tags:

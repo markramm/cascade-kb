@@ -5,7 +5,7 @@ actors:
 - Trump Administration
 - Elon Musk
 - SpaceX DOGE Team
-- Rep. Gerry Connolly
+- Gerry Connolly
 - Rep. Shontel Brown
 capture_lanes:
 - Regulatory Capture

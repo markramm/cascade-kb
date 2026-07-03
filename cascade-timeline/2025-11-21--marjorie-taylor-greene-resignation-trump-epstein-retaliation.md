@@ -10,7 +10,7 @@ location: Washington, D.C.
 actors:
 - Marjorie Taylor Greene
 - Donald Trump
-- Rep. Ro Khanna
+- Ro Khanna
 - House Speaker Mike Johnson
 - Georgia Governor Brian Kemp
 tags:

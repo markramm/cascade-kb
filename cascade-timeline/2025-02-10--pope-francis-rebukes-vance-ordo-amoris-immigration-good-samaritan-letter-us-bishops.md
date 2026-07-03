@@ -16,7 +16,7 @@ tags:
   - religious-capture
   - usccb
 actors:
-  - JD Vance
+  - J.D. Vance
   - Pope Francis
   - Donald Trump
   - James Martin

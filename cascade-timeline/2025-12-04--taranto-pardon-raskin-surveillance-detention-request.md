@@ -7,7 +7,7 @@ title: 'DOJ Seeks to Detain Jan 6 Pardoned Defendant Taylor Taranto After Survei
 location: 'Takoma Park, Maryland'
 actors:
 - Taylor Taranto
-- Rep. Jamie Raskin
+- Jamie Raskin
 - Donald Trump
 - Department of Justice
 - U.S. Capitol Police

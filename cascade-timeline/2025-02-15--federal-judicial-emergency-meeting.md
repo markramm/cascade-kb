@@ -5,7 +5,7 @@ date: 2025-02-15
 title: Federal Judges Address Escalating Threats to Judicial Independence
 importance: 9
 actors:
-- Chief Justice John Roberts
+- John Roberts
 - Chief Judge James Boasberg
 - Federal Judiciary
 - U.S. Supreme Court

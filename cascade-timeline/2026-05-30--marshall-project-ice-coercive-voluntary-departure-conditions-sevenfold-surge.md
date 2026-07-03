@@ -16,7 +16,7 @@ actors:
   - GEO Group
   - ICE
   - U.S. Immigration and Customs Enforcement
-  - Trump administration
+  - Trump Administration
   - The Marshall Project
 sources:
   - title: "Bad Food. Poor Care. No Toilets. ICE Detention Misery Pushes Immigrants to 'Voluntarily' Depart."

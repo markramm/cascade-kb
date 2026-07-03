@@ -5,7 +5,7 @@ date: 1920-01-02
 title: Palmer Raids Escalate with Coordinated Mass Arrests Across 33 Cities
 importance: 8
 actors:
-- Attorney General A. Mitchell Palmer
+- A. Mitchell Palmer
 - J. Edgar Hoover
 - Department of Justice
 - Acting Secretary of Labor Louis Post

@@ -8,7 +8,7 @@ status: confirmed
 actors:
 - Dana Priest
 - William Arkin
-- The Washington Post
+- Washington Post
 - Office of the Director of National Intelligence
 tags:
 - revolving-door

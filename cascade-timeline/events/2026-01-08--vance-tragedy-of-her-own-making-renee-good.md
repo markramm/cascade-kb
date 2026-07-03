@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 title: VP Vance Calls Renee Good's Death "A Tragedy of Her Own Making"
 actors:
-  - JD Vance
+  - J.D. Vance
   - Renee Nicole Good
   - Jonathan Ross
   - ICE

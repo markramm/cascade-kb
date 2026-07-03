@@ -13,7 +13,7 @@ tags:
 - easter
 actors:
 - Pope Francis
-- JD Vance
+- J.D. Vance
 - Catholic Church
 - Vatican
 sources:

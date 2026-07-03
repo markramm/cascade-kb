@@ -7,7 +7,7 @@ actors:
 - Dr. Scott Gottlieb
 - Food and Drug Administration
 - Pfizer
-- Senator Elizabeth Warren
+- Elizabeth Warren
 tags:
 - regulatory-capture
 - fda

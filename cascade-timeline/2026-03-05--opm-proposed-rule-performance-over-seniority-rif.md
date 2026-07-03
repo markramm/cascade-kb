@@ -7,7 +7,7 @@ importance: 8
 actors:
 - OPM
 - AFGE
-- Rep. James Walkinshaw
+- James Walkinshaw
 tags:
 - doge
 - federal-workforce

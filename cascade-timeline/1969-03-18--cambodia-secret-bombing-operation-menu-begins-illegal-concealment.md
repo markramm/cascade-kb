@@ -5,7 +5,7 @@ date: 1969-03-18
 title: Nixon and Kissinger Launch Secret Illegal Bombing Campaign Against Cambodia - Operation Menu Kills 150,000-500,000 Civilians
 importance: 9
 actors:
-- President Richard Nixon
+- Richard Nixon
 - National Security Advisor Henry Kissinger
 - Secretary of Defense Melvin Laird
 - Secretary of State William Rogers

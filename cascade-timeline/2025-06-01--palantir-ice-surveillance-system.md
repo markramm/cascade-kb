@@ -9,7 +9,7 @@ actors:
 - Palantir Technologies
 - Immigration and Customs Enforcement (ICE)
 - Peter Thiel
-- Sen. Ron Wyden
+- Ron Wyden
 - Rep. Alexandria Ocasio-Cortez
 tags:
 - mass-surveillance

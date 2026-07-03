@@ -7,7 +7,7 @@ importance: 9
 actors:
 - U.S. Supreme Court
 - Justice Rufus Peckham
-- Justice Oliver Wendell Holmes Jr.
+- Oliver Wendell Holmes Jr.
 - Justice John Harlan
 - Joseph Lochner
 tags:

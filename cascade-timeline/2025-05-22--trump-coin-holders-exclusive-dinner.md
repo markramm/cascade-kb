@@ -18,7 +18,7 @@ actors:
 - $TRUMP coin holders
 - World Liberty Financial
 - Justin Sun
-- Sen. Elizabeth Warren
+- Elizabeth Warren
 sources:
 - title: Warren Documents Trump's Crypto Pay-for-Access Scheme
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration

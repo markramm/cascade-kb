@@ -14,7 +14,7 @@ tags:
 actors:
   - John Phelan
   - Donald Trump
-  - US Senate
+  - U.S. Senate
   - Blue Owl Capital
   - MSD Capital
   - Michael Dell

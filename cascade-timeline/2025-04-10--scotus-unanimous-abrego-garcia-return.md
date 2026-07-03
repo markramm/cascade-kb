@@ -7,7 +7,7 @@ importance: 10
 status: confirmed
 actors:
 - Supreme Court
-- Chief Justice John Roberts
+- John Roberts
 - Kilmar Abrego Garcia
 - Trump Administration
 - Kristi Noem

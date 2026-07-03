@@ -5,7 +5,7 @@ date: 1966-09-09
 title: National Traffic and Motor Vehicle Safety Act Passes After GM Harassment of Ralph Nader Backfires
 importance: 8
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Ralph Nader
 - General Motors
 - James Roche

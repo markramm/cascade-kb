@@ -6,7 +6,7 @@ title: Sedition Act of 1918 Expands Espionage Act to Criminalize Anti-Government
 importance: 8
 actors:
 - U.S. Congress
-- President Woodrow Wilson
+- Woodrow Wilson
 - U.S. Postmaster General
 tags:
 - civil-liberties

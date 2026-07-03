@@ -8,8 +8,8 @@ location: United States (Aurora CO, Baltimore MD, California, Texas)
 actors:
 - Immigration and Customs Enforcement (ICE)
 - U.S. Department of Homeland Security
-- Rep. Jason Crow
-- Sen. Chris Van Hollen
+- Jason Crow
+- Chris Van Hollen
 - Sen. Angela Alsobrooks
 - Rep. Kweisi Mfume
 - Rep. Glenn Ivey

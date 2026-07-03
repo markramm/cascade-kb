@@ -7,11 +7,11 @@ title: Twelve House Democrats sue Trump administration for blocking detention fa
 location: Washington, D.C. (U.S. District Court)
 actors:
 - Rep. Joe Neguse (CO)
-- Rep. Jason Crow
+- Jason Crow
 - Rep. Adriano Espaillat (NY)
 - Rep. Dan Goldman (NY)
 - Rep. Bennie Thompson (MS)
-- Rep. Jamie Raskin
+- Jamie Raskin
 - Rep. Veronica Escobar (TX)
 - Rep. Robert Garcia (CA)
 - Rep. Luis Correa (CA)

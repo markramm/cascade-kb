@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Eugene V. Debs
 - Socialist Party of America
-- President Woodrow Wilson
+- Woodrow Wilson
 - Judge David C. Westenhaver
 tags:
 - free-speech

@@ -7,7 +7,7 @@ importance: 10
 actors:
 - Office of Management and Budget
 - Donald Trump
-- Judge John McConnell
+- John McConnell
 - Letitia James
 - 22 State Attorneys General
 - Democracy Forward

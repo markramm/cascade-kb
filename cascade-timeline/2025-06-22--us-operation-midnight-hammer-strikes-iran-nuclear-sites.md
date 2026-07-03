@@ -6,8 +6,8 @@ title: US Launches 'Operation Midnight Hammer' Strikes on Iran's Fordow and Nata
 importance: 10
 actors:
 - Donald Trump
-- US Air Force
-- US Navy
+- U.S. Air Force
+- U.S. Navy
 - Rafael Grossi
 tags:
 - iran

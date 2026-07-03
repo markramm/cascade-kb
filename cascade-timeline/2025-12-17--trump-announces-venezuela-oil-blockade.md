@@ -30,7 +30,7 @@ actors:
 - Donald Trump
 - Marco Rubio
 - Venezuela
-- US Navy
+- U.S. Navy
 capture_lanes:
 - Military-Industrial Complex
 coverage:

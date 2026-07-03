@@ -12,7 +12,7 @@ tags:
 - catholic-church
 - papal-succession
 actors:
-- JD Vance
+- J.D. Vance
 - Pope Francis
 - Vatican
 - Trump Administration

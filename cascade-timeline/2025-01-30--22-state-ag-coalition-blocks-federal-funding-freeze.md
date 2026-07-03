@@ -6,7 +6,7 @@ title: Coalition of 22 State Attorneys General Secures Court Order Blocking Trum
 importance: 9
 actors:
 - Letitia James
-- Judge John McConnell
+- John McConnell
 - 22 State Attorneys General
 - District of Columbia
 tags:

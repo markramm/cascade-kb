@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Arsène Pujo
 - Samuel Untermyer
-- JP Morgan
+- J.P. Morgan
 - George F. Baker
 - James E. Stillman
 - U.S. House of Representatives

@@ -5,8 +5,8 @@ date: 1973-03-21
 title: San Antonio v. Rodriguez - Supreme Court Upholds Property Tax School Funding, Entrenches Inequality
 importance: 9
 actors:
-- Justice Lewis Powell
-- Justice Thurgood Marshall
+- Lewis Powell
+- Thurgood Marshall
 - Demetrio Rodriguez
 - Mexican American Legal Defense and Educational Fund
 - U.S. Supreme Court

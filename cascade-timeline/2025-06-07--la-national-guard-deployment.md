@@ -8,7 +8,7 @@ location: Los Angeles, California
 actors:
 - Donald Trump
 - California National Guard
-- US Marines
+- U.S. Marines
 - Governor of California
 - Pentagon
 tags:

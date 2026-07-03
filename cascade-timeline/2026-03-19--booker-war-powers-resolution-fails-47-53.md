@@ -5,9 +5,9 @@ date: '2026-03-19'
 title: Booker War Powers Resolution Fails 47-53 — Only Paul Crosses Party Lines for Yes, Fetterman for No
 importance: 8
 actors:
-- Sen. Cory Booker
-- Sen. Rand Paul
-- Sen. John Fetterman
+- Cory Booker
+- Rand Paul
+- John Fetterman
 tags:
 - iran-war
 - war-powers

@@ -17,7 +17,7 @@ tags:
 - peter-thiel-network
 - satellite-surveillance
 - NGA
-- NRO
+- nro
 - maritime-surveillance
 - geospatial-intelligence
 - defense-contracts

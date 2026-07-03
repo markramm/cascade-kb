@@ -6,8 +6,8 @@ title: McNamara and Johnson Administration Begin Systematic Deception About Viet
 importance: 8
 actors:
 - Secretary of Defense Robert McNamara
-- President Lyndon B. Johnson
-- Senator J. William Fulbright
+- Lyndon B. Johnson
+- J. William Fulbright
 - U.S. Department of Defense
 sources:
 - title: Credibility Gap & the Vietnam War

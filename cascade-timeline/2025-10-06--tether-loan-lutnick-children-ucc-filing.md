@@ -11,7 +11,7 @@ tags:
 - crypto
 - conflict-of-interest
 actors:
-- Tether
+- tether
 - Brandon Lutnick
 - Kyle Lutnick
 - Howard Lutnick

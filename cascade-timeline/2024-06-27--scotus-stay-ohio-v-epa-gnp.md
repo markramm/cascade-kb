@@ -8,7 +8,7 @@ location: Washington, DC
 actors:
 - Supreme Court of the United States
 - Environmental Protection Agency (EPA)
-- Justice Neil Gorsuch
+- Neil Gorsuch
 - Justice Amy Coney Barrett (dissent)
 - State of Ohio
 - State of Indiana (applicant)

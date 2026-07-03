@@ -8,9 +8,9 @@ status: confirmed
 actors:
 - Donald Trump
 - Justin Sun
-- Rep. Sean Casten
-- Rep. Adam Smith
-- Rep. Jamie Raskin
+- Sean Casten
+- Adam Smith
+- Jamie Raskin
 location: Trump National Golf Club
 tags:
 - crypto

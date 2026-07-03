@@ -12,7 +12,7 @@ actors:
 - Eric Trump
 - Zach Witkoff
 - Justin Sun
-- Sen. Richard Blumenthal
+- Richard Blumenthal
 tags:
 - crypto
 - financial-capture

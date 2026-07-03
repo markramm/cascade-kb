@@ -5,7 +5,7 @@ title: Supreme Court declines to let firing of OSC chief take immediate effect
 date: 2025-02-21
 importance: 6
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Hampton Dellinger
 tags:
 - courts

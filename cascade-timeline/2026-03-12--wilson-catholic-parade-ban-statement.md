@@ -16,7 +16,7 @@ tags:
   - hegseth
 actors:
   - Doug Wilson
-  - JD Vance
+  - J.D. Vance
   - Thomas Massie
   - Carrie Prejean Boller
   - Pete Hegseth

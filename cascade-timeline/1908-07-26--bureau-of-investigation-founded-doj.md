@@ -7,7 +7,7 @@ importance: 9
 status: confirmed
 actors:
   - Attorney General Charles Bonaparte
-  - President Theodore Roosevelt
+  - Theodore Roosevelt
   - Stanley Finch
   - Department of Justice
   - Bureau of Investigation

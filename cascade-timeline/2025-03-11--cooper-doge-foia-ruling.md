@@ -6,7 +6,7 @@ importance: 6
 title: Judge Cooper rules DOGE subject to FOIA due to "unusual secrecy" and "substantial authority"
 location: Washington, DC
 actors:
-- Judge Christopher Cooper
+- Christopher Cooper
 - Department of Government Efficiency
 - Citizens for Responsibility and Ethics in Washington
 - Elon Musk

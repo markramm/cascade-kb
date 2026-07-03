@@ -6,8 +6,8 @@ title: 29 Congress Members Demand DOD Inspector General Investigate Commanders F
 importance: 9
 actors:
 - Rep. Jared Huffman
-- Rep. Jamie Raskin
-- Rep. Chrissy Houlahan
+- Jamie Raskin
+- Chrissy Houlahan
 - Military Religious Freedom Foundation
 - U.S. Department of Defense
 - Pete Hegseth

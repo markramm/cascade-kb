@@ -24,7 +24,7 @@ actors:
   - Fr. Dennis Berry S.T.
   - Fr. Dan Hartnett SJ
   - Kristi Noem
-  - President Donald J. Trump
+  - Donald J. Trump
   - Gregory Bovino
   - Pamela Bondi
   - Russell Hott

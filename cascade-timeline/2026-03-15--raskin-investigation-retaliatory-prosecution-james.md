@@ -5,10 +5,10 @@ date: '2026-03-15'
 title: House Democrats Launch Investigation Into DOJ Retaliatory Prosecution of NY AG Letitia James
 importance: 7
 actors:
-- Rep. Jamie Raskin
-- Rep. Ted Lieu
-- Rep. Jerrold Nadler
-- Rep. Dan Goldman
+- Jamie Raskin
+- Ted Lieu
+- Jerrold Nadler
+- Dan Goldman
 - Pam Bondi
 - Letitia James
 - Lindsey Halligan

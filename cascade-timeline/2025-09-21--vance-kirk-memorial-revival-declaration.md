@@ -18,7 +18,7 @@ tags:
   - martyrdom-mobilization
   - seven-mountains-dominionism
 actors:
-  - JD Vance
+  - J.D. Vance
   - Erika Kirk
   - Charlie Kirk
   - Turning Point USA

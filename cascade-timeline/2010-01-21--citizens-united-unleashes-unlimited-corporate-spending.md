@@ -8,8 +8,8 @@ actors:
 - U.S. Supreme Court
 - Citizens United
 - Federal Election Commission
-- Justice Anthony Kennedy
-- Justice John Paul Stevens
+- Anthony Kennedy
+- John Paul Stevens
 tags:
 - dark-money
 - campaign-finance

@@ -9,7 +9,7 @@ actors:
 - Spotify
 - The Joe Rogan Experience
 - Food and Drug Administration
-- Dr. Anthony Fauci
+- Anthony Fauci
 - Neil Young
 - Joni Mitchell
 location: United States

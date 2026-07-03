@@ -7,7 +7,7 @@ importance: 9
 actors:
 - U.S. Congress
 - Senator Joseph T. Robinson
-- Representative Wright Patman
+- Wright Patman
 - Federal Trade Commission
 tags:
 - antitrust

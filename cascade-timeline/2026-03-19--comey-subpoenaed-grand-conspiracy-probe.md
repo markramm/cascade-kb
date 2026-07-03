@@ -7,7 +7,7 @@ importance: 9
 actors:
 - James Comey
 - Jason A. Reding Quinones
-- Judge Aileen Cannon
+- Aileen Cannon
 - John Brennan
 - Jack Smith
 tags:

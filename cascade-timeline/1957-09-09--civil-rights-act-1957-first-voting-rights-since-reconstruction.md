@@ -9,7 +9,7 @@ actors:
 - Lyndon B. Johnson
 - Strom Thurmond
 - Richard Russell
-- Attorney General Herbert Brownell
+- Herbert Brownell
 - U.S. Congress
 tags:
 - voting-rights

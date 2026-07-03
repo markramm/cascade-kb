@@ -9,7 +9,7 @@ actors:
 - U.S. Court of Appeals for the D.C. Circuit
 - Judge Neomi Rao
 - Judge Gregory Katsas
-- Judge Cornelia Pillard
+- Cornelia Pillard
 - Associated Press
 - White House
 - Donald Trump

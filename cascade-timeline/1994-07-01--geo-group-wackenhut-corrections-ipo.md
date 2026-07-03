@@ -8,7 +8,7 @@ actors:
 - Wackenhut Corrections Corporation (WCC)
 - GEO Group
 - George C. Zoley
-- The Wackenhut Corporation
+- Wackenhut Corporation
 - Nasdaq
 tags:
 - intelligence-privatization

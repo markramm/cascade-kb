@@ -8,7 +8,7 @@ location: Washington D.C.
 actors:
 - Facebook
 - Internet Research Agency
-- US Congress
+- U.S. Congress
 - Russian Government
 - Mark Zuckerberg
 tags:

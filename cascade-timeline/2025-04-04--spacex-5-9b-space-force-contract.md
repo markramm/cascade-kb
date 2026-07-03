@@ -9,8 +9,8 @@ actors:
 - SpaceX
 - U.S. Space Force
 - Elon Musk
-- Rep. Stephen Lynch
-- Rep. Gerry Connolly
+- Stephen Lynch
+- Gerry Connolly
 - U.S. Department of Defense
 tags:
 - spacex

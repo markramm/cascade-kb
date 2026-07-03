@@ -16,7 +16,7 @@ tags:
 actors:
   - Pete Hegseth
   - Marco Rubio
-  - JD Vance
+  - J.D. Vance
   - Iran Quds Force
   - US Navy 5th Fleet
   - MT Marivex crew

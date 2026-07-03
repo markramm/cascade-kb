@@ -8,7 +8,7 @@ actors:
 - U.S. Congress
 - Sioux Nation
 - Lakota people
-- President Ulysses S. Grant
+- Ulysses S. Grant
 sources:
 - title: United States v. Sioux Nation of Indians
   outlet: Supreme Court - Legal Information Institute

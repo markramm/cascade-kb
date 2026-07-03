@@ -21,10 +21,10 @@ actors:
 - Supreme Court of the United States
 - State of Texas
 - Biden Administration
-- Justice Samuel Alito
-- Justice Sonia Sotomayor
-- Justice Elena Kagan
-- Justice Ketanji Brown Jackson
+- Samuel Alito
+- Sonia Sotomayor
+- Elena Kagan
+- Ketanji Brown Jackson
 notes: Rapidly changing legal landscape with law allowed then blocked within hours
 status: confirmed
 sources:

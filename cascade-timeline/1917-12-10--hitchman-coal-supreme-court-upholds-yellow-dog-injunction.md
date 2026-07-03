@@ -6,7 +6,7 @@ title: 'Hitchman Coal v. Mitchell: Supreme Court Authorizes Injunctions to Enfor
 importance: 7
 actors:
 - Supreme Court of the United States
-- Justice Mahlon Pitney
+- Mahlon Pitney
 - United Mine Workers of America
 - Hitchman Coal and Coke Company
 tags:

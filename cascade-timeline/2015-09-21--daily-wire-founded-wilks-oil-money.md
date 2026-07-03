@@ -8,7 +8,7 @@ actors:
 - Ben Shapiro
 - Jeremy Boreing
 - Farris Wilks
-- The Daily Wire
+- Daily Wire
 tags:
 - media-capture
 - conservative-media

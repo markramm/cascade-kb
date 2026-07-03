@@ -5,8 +5,8 @@ date: 1970-12-31
 title: Clean Air Act of 1970 Creates EPA and National Air Quality Standards Despite Industry Opposition
 importance: 9
 actors:
-- President Richard Nixon
-- Senator Edmund Muskie
+- Richard Nixon
+- Edmund Muskie
 - American Petroleum Institute
 - National Coal Association
 - Automotive Industry

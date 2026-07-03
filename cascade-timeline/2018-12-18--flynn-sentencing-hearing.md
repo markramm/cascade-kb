@@ -15,7 +15,7 @@ tags:
 - national-security
 actors:
 - Michael Flynn
-- Judge Emmet Sullivan
+- Emmet Sullivan
 - Robert Mueller
 - Donald Trump
 sources:

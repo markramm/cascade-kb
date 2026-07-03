@@ -5,12 +5,12 @@ date: '2026-03-17'
 title: "Senate Six Democrats Prepare to Grind Chamber to Halt Over Iran War Oversight"
 importance: 7
 actors:
-- Sen. Adam Schiff
-- Sen. Cory Booker
-- Sen. Tim Kaine
-- Sen. Chris Murphy
-- Sen. Tammy Duckworth
-- Sen. Tammy Baldwin
+- Adam Schiff
+- Cory Booker
+- Tim Kaine
+- Chris Murphy
+- Tammy Duckworth
+- Tammy Baldwin
 tags:
 - iran-war
 - war-powers

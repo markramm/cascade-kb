@@ -6,7 +6,7 @@ importance: 8
 title: 'Navy Seeks 2,400 Housing Units for Guam Military Buildup as Costs Squeeze Local Residents'
 location: Guam
 actors:
-- US Navy
+- U.S. Navy
 - U.S. Department of Defense
 - Joint Region Marianas
 - Pacific Center for Island Security

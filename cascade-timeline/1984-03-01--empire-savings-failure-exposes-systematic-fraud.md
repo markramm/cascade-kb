@@ -5,7 +5,7 @@ actors:
 - Edwin Gray
 - Federal Home Loan Bank Board
 - Texas Real Estate Networks
-- Reagan administration
+- Reagan Administration
 - Spencer Blain Jr.
 capture_lanes:
 - Financial Capture

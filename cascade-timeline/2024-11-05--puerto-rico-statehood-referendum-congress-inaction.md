@@ -8,7 +8,7 @@ location: Puerto Rico
 actors:
 - Puerto Rico State Commission on Elections
 - Jenniffer González-Colón
-- US Congress
+- U.S. Congress
 - Popular Democratic Party
 tags:
 - statehood-referendum

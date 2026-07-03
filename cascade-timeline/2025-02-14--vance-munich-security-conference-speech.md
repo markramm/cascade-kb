@@ -20,7 +20,7 @@ tags:
   - immigration
   - vp-policy-footprint
 actors:
-  - JD Vance
+  - J.D. Vance
   - Munich Security Conference
   - Boris Pistorius
   - Kaja Kallas

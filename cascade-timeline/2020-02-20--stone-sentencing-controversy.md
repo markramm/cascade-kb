@@ -19,7 +19,7 @@ actors:
 - William Barr
 - Aaron Zelinsky
 - Jonathan Kravis
-- Judge Amy Berman Jackson
+- Amy Berman Jackson
 - Adam Jed
 - Michael Marando
 sources:

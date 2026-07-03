@@ -10,7 +10,7 @@ actors:
 - Lockheed
 - Boeing
 - General Dynamics
-- Representative Donald Rumsfeld
+- Donald Rumsfeld
 sources:
 - title: RMK-BRJ
   outlet: Wikipedia

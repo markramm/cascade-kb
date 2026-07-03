@@ -7,7 +7,7 @@ title: 'Trump Signs "One Big Beautiful Bill" Slashing $863 Billion from Medicaid
 location: United States
 actors:
 - Donald Trump
-- US Congress
+- U.S. Congress
 - Stacey Plaskett
 - U.S. Department of Health and Human Services
 tags:

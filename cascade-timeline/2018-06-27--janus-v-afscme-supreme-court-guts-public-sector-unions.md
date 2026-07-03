@@ -5,8 +5,8 @@ date: 2018-06-27
 title: Janus v. AFSCME - Supreme Court Strikes Down Public Sector Union Fees, Targeting Teachers' Unions
 importance: 9
 actors:
-- Justice Samuel Alito
-- Justice Neil Gorsuch
+- Samuel Alito
+- Neil Gorsuch
 - National Right to Work Foundation
 - State Policy Network
 - Bradley Foundation

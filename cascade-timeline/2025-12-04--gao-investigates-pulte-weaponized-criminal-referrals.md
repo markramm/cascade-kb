@@ -10,9 +10,9 @@ actors:
 - Bill Pulte
 - Federal Housing Finance Agency
 - Letitia James
-- Sen. Adam Schiff
+- Adam Schiff
 - Federal Reserve Gov. Lisa Cook
-- Rep. Eric Swalwell
+- Eric Swalwell
 - Senate Democrats
 - Department of Justice
 tags:

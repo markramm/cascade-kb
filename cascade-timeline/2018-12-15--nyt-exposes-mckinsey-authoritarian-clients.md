@@ -8,7 +8,7 @@ actors:
 - McKinsey & Company
 - Walt Bogdanich
 - Michael Forsythe
-- The New York Times
+- New York Times
 - Saudi Arabia
 - China
 - Russia

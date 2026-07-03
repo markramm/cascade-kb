@@ -12,7 +12,7 @@ actors:
 - Mark Kelly
 - Elissa Slotkin
 - Jason Crow
-- Chris Deluzio
+- Chris DeLuzio
 - Chrissy Houlahan
 - Maggie Goodlander
 tags:

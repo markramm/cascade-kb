@@ -7,7 +7,7 @@ title: Supreme Court Rejects Dangerous "Independent State Legislature" Theory in
   v. Harper
 location: Washington DC
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - North Carolina Legislature
 - Democracy advocates
 tags:

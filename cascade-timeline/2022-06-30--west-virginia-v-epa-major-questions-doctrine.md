@@ -6,17 +6,17 @@ importance: 9
 title: 'Supreme Court Establishes Major Questions Doctrine in West Virginia v. EPA, Limiting Regulatory Power'
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
-- Justice Clarence Thomas
-- Justice Samuel Alito
-- Justice Neil Gorsuch
-- Justice Brett Kavanaugh
-- Justice Amy Coney Barrett
+- John Roberts
+- Clarence Thomas
+- Samuel Alito
+- Neil Gorsuch
+- Brett Kavanaugh
+- Amy Coney Barrett
 - Environmental Protection Agency (EPA)
 - West Virginia Attorney General Patrick Morrisey
-- Justice Elena Kagan
-- Justice Stephen Breyer
-- Justice Sonia Sotomayor
+- Elena Kagan
+- Stephen Breyer
+- Sonia Sotomayor
 - Leonard Leo
 - Federalist Society
 tags:

@@ -8,7 +8,7 @@ actors:
 - Daniel Ellsberg
 - New York Times
 - Washington Post
-- President Richard Nixon
+- Richard Nixon
 - Secretary of Defense Robert McNamara
 - Henry Kissinger
 - Neil Sheehan

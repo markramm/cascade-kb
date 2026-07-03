@@ -16,7 +16,7 @@ tags:
 actors:
   - Jay Obernolte
   - Lori Trahan
-  - The White House
+  - White House
   - AI Litigation Task Force
 sources:
   - title: "White House negotiating federal preemption of state AI laws in exchange for Hill priorities"

@@ -7,10 +7,10 @@ importance: 7
 actors:
 - House Republicans
 - Speaker John Boehner
-- Rep. Joe Barton
+- Joe Barton
 - Rep. Pat Meehan
 - Speaker Paul Ryan
-- President Barack Obama
+- Barack Obama
 tags:
 - healthcare
 - aca-sabotage

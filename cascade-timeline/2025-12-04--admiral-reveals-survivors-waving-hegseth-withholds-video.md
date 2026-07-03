@@ -48,10 +48,10 @@ sources:
 actors:
 - Admiral Frank Bradley
 - Pete Hegseth
-- Senator Jack Reed
+- Jack Reed
 - Representative Jim Himes
-- Representative Adam Smith
-- Senator Tom Cotton
+- Adam Smith
+- Tom Cotton
 - Donald Trump
 capture_lanes:
 - Judicial Capture

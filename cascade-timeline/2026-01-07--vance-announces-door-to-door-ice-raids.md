@@ -26,7 +26,7 @@ sources:
 status: confirmed
 type: timeline_event
 actors:
-- JD Vance
+- J.D. Vance
 - Immigration and Customs Enforcement (ICE)
 - Fox News
 capture_lanes:

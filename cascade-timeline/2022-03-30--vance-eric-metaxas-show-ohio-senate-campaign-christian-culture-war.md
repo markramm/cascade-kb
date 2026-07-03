@@ -16,7 +16,7 @@ tags:
   - culture-war-framing
   - ohio-senate-2022
 actors:
-  - JD Vance
+  - J.D. Vance
   - Eric Metaxas
 sources:
   - title: "Eric Metaxas Interviews J.D. Vance"

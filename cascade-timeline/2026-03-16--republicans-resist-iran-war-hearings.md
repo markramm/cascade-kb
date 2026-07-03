@@ -5,7 +5,7 @@ date: '2026-03-16'
 title: Republican Leadership Actively Avoids Public Hearings on Iran War
 importance: 6
 actors:
-- Sen. John Thune
+- John Thune
 - Senate Republicans
 tags:
 - iran-war

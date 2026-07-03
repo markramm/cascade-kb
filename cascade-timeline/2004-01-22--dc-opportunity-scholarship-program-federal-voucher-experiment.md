@@ -5,9 +5,9 @@ date: 2004-01-22
 title: DC Opportunity Scholarship Program - First Federally-Funded School Voucher System
 importance: 7
 actors:
-- President George W. Bush
+- George W. Bush
 - Speaker Dennis Hastert
-- Senator Judd Gregg
+- Judd Gregg
 - DC Public Schools
 - Heritage Foundation
 - American Federation for Children

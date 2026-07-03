@@ -6,7 +6,7 @@ title: Miranda v. Arizona Decision Requiring Rights Warnings Sparks Law Enforcem
 importance: 7
 actors:
 - U.S. Supreme Court
-- Chief Justice Earl Warren
+- Earl Warren
 - Richard Nixon
 - Law enforcement organizations
 sources:

@@ -21,7 +21,7 @@ sources:
   tier: 1
   outlet: Associated Press
 actors:
-- Chief Justice John Roberts
+- John Roberts
 - Donald Trump
 - Rebecca Slaughter
 - U.S. Supreme Court

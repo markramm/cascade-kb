@@ -5,7 +5,7 @@ date: 1966-07-04
 title: Freedom of Information Act Signed After Decade of Executive Branch Opposition
 importance: 8
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Representative John Moss
 - Senator Edward Long
 - American Society of Newspaper Editors

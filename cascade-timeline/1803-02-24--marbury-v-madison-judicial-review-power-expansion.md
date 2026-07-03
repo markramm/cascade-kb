@@ -5,7 +5,7 @@ date: 1803-02-24
 title: Marbury v. Madison Establishes Judicial Review and Supreme Court Power Expansion
 importance: 9
 actors:
-- Chief Justice John Marshall
+- John Marshall
 - William Marbury
 - Secretary of State James Madison
 - U.S. Supreme Court

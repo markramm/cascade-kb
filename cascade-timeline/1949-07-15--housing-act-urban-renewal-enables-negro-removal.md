@@ -6,7 +6,7 @@ title: Housing Act of 1949 Creates Urban Renewal Program, Becomes "Negro Removal
 importance: 8
 actors:
 - U.S. Congress
-- President Harry Truman
+- Harry Truman
 - Local Redevelopment Agencies
 tags:
 - institutional-capture

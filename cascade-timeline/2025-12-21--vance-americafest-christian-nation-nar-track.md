@@ -16,7 +16,7 @@ tags:
   - americafest
   - erika-kirk
 actors:
-  - JD Vance
+  - J.D. Vance
   - Erika Kirk
   - Turning Point USA
   - TPUSA Faith

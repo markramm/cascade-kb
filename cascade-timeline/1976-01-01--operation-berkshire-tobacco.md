@@ -8,7 +8,7 @@ title: Tobacco Industry 'Operation Berkshire' and global coordination to resist 
 actors:
 - British American Tobacco
 - Philip Morris
-- RJ Reynolds
+- R.J. Reynolds
 - Imperial Tobacco
 tags:
 - corporate-collusion

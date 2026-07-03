@@ -3,7 +3,7 @@ type: timeline_event
 actors:
 - Howard Lutnick
 - Cantor Fitzgerald
-- tether
+- Tether
 - Department of Justice
 - U.S. Department of Commerce
 - Elizabeth Warren

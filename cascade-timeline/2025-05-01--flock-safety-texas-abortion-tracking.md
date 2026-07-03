@@ -9,8 +9,8 @@ actors:
 - Johnson County Sheriff Adam King
 - Flock Safety
 - Electronic Frontier Foundation
-- Representative Raja Krishnamoorthi
-- Representative Robert Garcia
+- Raja Krishnamoorthi
+- Robert Garcia
 tags:
 - surveillance
 - alpr

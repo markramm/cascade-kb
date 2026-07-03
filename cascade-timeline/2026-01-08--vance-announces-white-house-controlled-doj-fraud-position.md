@@ -26,7 +26,7 @@ sources:
 status: confirmed
 type: timeline_event
 actors:
-- JD Vance
+- J.D. Vance
 - Donald Trump
 - Department of Justice
 - Tim Walz

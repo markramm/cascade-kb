@@ -10,7 +10,7 @@ id: 2025-08-11--dc-guard-prep
 location: 'Washington, DC'
 actors:
 - Donald Trump
-- DC National Guard
+- D.C. National Guard
 - West Virginia National Guard
 - South Carolina National Guard
 - Ohio National Guard

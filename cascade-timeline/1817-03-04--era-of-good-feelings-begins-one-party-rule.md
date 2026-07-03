@@ -5,7 +5,7 @@ date: 1817-03-04
 title: Era of Good Feelings Begins with Monroe Presidency, Masking Corruption as "Era of Good Stealings"
 importance: 7
 actors:
-- President James Monroe
+- James Monroe
 - Democratic-Republican Party
 - Federalist Party remnants
 tags:

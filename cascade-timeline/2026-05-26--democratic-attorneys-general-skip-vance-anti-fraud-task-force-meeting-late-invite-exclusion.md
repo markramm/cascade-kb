@@ -15,7 +15,7 @@ tags:
   - accountability-elimination
   - loyalty-enforcement
 actors:
-  - JD Vance
+  - J.D. Vance
   - Andrew Ferguson
   - Stephen Miller
   - Letitia James

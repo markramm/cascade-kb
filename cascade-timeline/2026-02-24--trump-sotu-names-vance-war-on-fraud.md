@@ -16,7 +16,7 @@ tags:
 - investigation-3
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 sources:
 - title: "Read Trump's Full 2026 State of the Union Address"
   url: https://www.pbs.org/newshour/politics/read-trumps-full-2026-state-of-the-union-address

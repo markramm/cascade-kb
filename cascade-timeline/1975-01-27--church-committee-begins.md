@@ -6,7 +6,7 @@ importance: 6
 title: Church Committee begins exposing illegal intelligence activities
 location: Washington, DC
 actors:
-- Senator Frank Church
+- Frank Church
 - Church Committee
 - Mike Mansfield
 - Seymour Hersh

@@ -5,7 +5,7 @@ actors:
 - Binance.US
 - Changpeng Zhao
 - Donald Trump
-- Senator Chris Murphy
+- Chris Murphy
 - Trump Family
 - World Liberty Financial
 date: 2025-10-29

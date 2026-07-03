@@ -17,7 +17,7 @@ coverage:
   - url: https://theramm.substack.com/p/the-charge-is-always-something-else
     title: "The Charge Is Always Something Else"
 actors:
-  - Governor Bill Lee
+  - Bill Lee
   - Tennessee General Assembly
   - Immigration and Customs Enforcement (ICE)
   - Senator Jack Johnson

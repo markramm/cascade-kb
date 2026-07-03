@@ -14,7 +14,7 @@ tags:
   - david-sacks
 actors:
   - Donald Trump
-  - The White House
+  - White House
   - federal agencies (30/60-day deliverables)
 sources:
   - title: "Promoting Advanced Artificial Intelligence Innovation and Security (Presidential Action)"

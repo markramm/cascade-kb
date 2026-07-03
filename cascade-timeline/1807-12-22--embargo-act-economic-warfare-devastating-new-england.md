@@ -5,7 +5,7 @@ date: 1807-12-22
 title: Embargo Act Demonstrates Economic Warfare Against Domestic Political Opposition
 importance: 7
 actors:
-- President Thomas Jefferson
+- Thomas Jefferson
 - U.S. Congress
 - New England merchants
 - Federalist Party

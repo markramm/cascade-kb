@@ -5,7 +5,7 @@ date: 1803-10-20
 title: Louisiana Purchase Demonstrates Jefferson Constitutional Hypocrisy and Executive Power Expansion
 importance: 7
 actors:
-- President Thomas Jefferson
+- Thomas Jefferson
 - Treasury Secretary Albert Gallatin
 - U.S. Senate
 - Napoleon Bonaparte

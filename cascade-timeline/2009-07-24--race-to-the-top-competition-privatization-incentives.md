@@ -5,7 +5,7 @@ date: 2009-07-24
 title: Race to the Top Competition Uses Federal Funds to Incentivize Charter Expansion and Teacher Evaluation Reforms
 importance: 8
 actors:
-- President Barack Obama
+- Barack Obama
 - Secretary of Education Arne Duncan
 - Bill Gates
 - Gates Foundation

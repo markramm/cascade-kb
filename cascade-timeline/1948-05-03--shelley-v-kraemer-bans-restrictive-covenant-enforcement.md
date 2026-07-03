@@ -6,7 +6,7 @@ title: Supreme Court Rules Racially Restrictive Housing Covenants Unenforceable
 importance: 7
 actors:
 - U.S. Supreme Court
-- Chief Justice Fred Vinson
+- Fred Vinson
 - NAACP Legal Defense Fund
 tags:
 - institutional-capture

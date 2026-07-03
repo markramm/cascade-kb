@@ -6,8 +6,8 @@ title: 'Celler-Kefauver Act Closes Merger Loopholes, Strengthens Government Powe
 importance: 9
 actors:
 - U.S. Congress
-- Representative Emanuel Celler
-- Senator Estes Kefauver
+- Emanuel Celler
+- Estes Kefauver
 - Harry Truman
 - Federal Trade Commission
 tags:

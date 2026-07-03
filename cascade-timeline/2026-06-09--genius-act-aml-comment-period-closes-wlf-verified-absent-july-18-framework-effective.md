@@ -10,14 +10,14 @@ tags:
   - stablecoin
   - AML
   - regulatory-capture
-  - FinCEN
-  - OFAC
+  - fincen
+  - ofac
   - WLF
-  - USD1
+  - usd1
   - forensic-signal-of-absence
   - closed-regulatory-loop
   - self-dealing
-  - Bank-Secrecy-Act
+  - bank-secrecy-act
   - comment-period-closure
   - july-18-2026
 capture_lanes:

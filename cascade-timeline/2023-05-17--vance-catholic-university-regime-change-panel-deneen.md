@@ -18,7 +18,7 @@ tags:
   - deliberate-synthesis
   - regime-change
 actors:
-  - JD Vance
+  - J.D. Vance
   - Patrick Deneen
   - Kevin Roberts
   - Daniel McCarthy

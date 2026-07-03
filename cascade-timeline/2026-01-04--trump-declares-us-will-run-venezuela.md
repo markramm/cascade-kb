@@ -28,7 +28,7 @@ type: timeline_event
 actors:
 - Donald Trump
 - Stephen Miller
-- JD Vance
+- J.D. Vance
 - Nicolas Maduro
 capture_lanes:
 - Military-Industrial Complex

@@ -26,7 +26,7 @@ actors:
   - DAMAC Properties
   - Trump Media & Technology Group
   - Trump Organization
-  - DT Marks Defi LLC
+  - DT Marks DEFI LLC
   - WLF Holdco LLC
   - CIC Ventures LLC
   - CIC Digital LLC

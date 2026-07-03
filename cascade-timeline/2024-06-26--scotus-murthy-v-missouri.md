@@ -7,10 +7,10 @@ importance: 6
 location: Washington, DC
 actors:
 - Supreme Court of the United States
-- Justice Amy Coney Barrett
-- Justice Samuel Alito
-- Justice Clarence Thomas
-- Justice Neil Gorsuch
+- Amy Coney Barrett
+- Samuel Alito
+- Clarence Thomas
+- Neil Gorsuch
 - Missouri (plaintiff state)
 - Louisiana
 tags:

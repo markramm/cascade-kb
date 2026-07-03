@@ -6,7 +6,7 @@ title: Wolfe on Webbon Election Night Livestream — "Our Separation From Vance 
 actors:
 - Stephen Wolfe
 - Joel Webbon
-- JD Vance
+- J.D. Vance
 tags:
 - christian-nationalism
 - theobros

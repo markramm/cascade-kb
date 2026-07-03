@@ -7,7 +7,7 @@ title: Trump signs Executive Order 14148 rescinding 78 Biden directives
 location: 'White House, Washington DC'
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 - Domestic Policy Council
 - National Economic Council
 tags:

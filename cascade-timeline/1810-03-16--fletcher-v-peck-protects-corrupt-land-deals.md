@@ -5,7 +5,7 @@ date: 1810-03-16
 title: Fletcher v. Peck Establishes Judicial Protection for Fraudulent Contracts and Corrupt Land Deals
 importance: 8
 actors:
-- Chief Justice John Marshall
+- John Marshall
 - U.S. Supreme Court
 - John Peck
 - Robert Fletcher

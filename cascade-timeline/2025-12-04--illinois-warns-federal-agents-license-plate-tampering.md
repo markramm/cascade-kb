@@ -9,7 +9,7 @@ actors:
 - Alexi Giannoulias
 - U.S. Department of Homeland Security
 - Immigration and Customs Enforcement (ICE)
-- Gov. JB Pritzker
+- JB Pritzker
 - Enterprise Rent-A-Car
 - Illinois Secretary of State
 tags:

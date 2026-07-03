@@ -15,7 +15,7 @@ tags:
   - second-sermon
   - regulatory-capture
 actors:
-  - JD Vance
+  - J.D. Vance
   - Donald Trump
   - European Union
   - Emmanuel Macron

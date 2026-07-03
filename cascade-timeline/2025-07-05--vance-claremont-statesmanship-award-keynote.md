@@ -26,7 +26,7 @@ tags:
   - substrate-specific-deniability
   - michael-anton
 actors:
-  - JD Vance
+  - J.D. Vance
   - Claremont Institute
   - Ryan P. Williams
   - Charlie Kirk

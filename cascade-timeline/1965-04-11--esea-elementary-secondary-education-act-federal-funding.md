@@ -5,7 +5,7 @@ date: 1965-04-11
 title: Elementary and Secondary Education Act Establishes Federal Role in Education Funding
 importance: 8
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - U.S. Congress
 - National Education Association
 tags:

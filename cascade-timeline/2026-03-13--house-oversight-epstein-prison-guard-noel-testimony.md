@@ -5,7 +5,7 @@ date: '2026-03-13'
 title: House Oversight Requests Epstein Prison Guard Tova Noel for Transcribed Interview
 importance: 7
 actors:
-- Rep. James Comer
+- James Comer
 - Tova Noel
 - Michael Thomas
 tags:

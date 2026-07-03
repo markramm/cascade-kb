@@ -5,7 +5,7 @@ date: '2026-03-11'
 title: "Warren Warns Institutional Investors of 'Tsunami of Corruption' Threatening Financial Markets"
 importance: 7
 actors:
-- Sen. Elizabeth Warren
+- Elizabeth Warren
 - SEC
 tags:
 - corruption

@@ -6,10 +6,10 @@ actors:
 - Dubai Ports World
 - Sheikh Mohammed bin Rashid Al Maktoum
 - CFIUS
-- US Coast Guard
+- U.S. Coast Guard
 - P&O
 - U.S. Department of Homeland Security
-- President George W. Bush
+- George W. Bush
 tags:
 - foreign-investment
 - national-security

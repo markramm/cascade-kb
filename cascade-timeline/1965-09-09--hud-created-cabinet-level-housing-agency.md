@@ -5,7 +5,7 @@ date: 1965-09-09
 title: HUD Created as Cabinet Department, Inherits FHA Discriminatory Practices
 importance: 7
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Robert C. Weaver
 - National Association of Home Builders
 - National Association of Real Estate Boards

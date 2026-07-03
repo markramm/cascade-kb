@@ -12,7 +12,7 @@ tags:
 - spyware-regulation
 - cyber-surveillance
 actors:
-- US Commerce Department
+- U.S. Commerce Department
 - Bureau of Industry and Security
 - Candiru
 - NSO Group

@@ -6,7 +6,7 @@ title: 'Aldrich Plan for Banking Reform Submitted: Secret Jekyll Island Meeting 
 importance: 8
 actors:
 - Nelson Aldrich
-- JP Morgan interests
+- J.P. Morgan interests
 - Paul Warburg
 - Frank Vanderlip
 - National Monetary Commission

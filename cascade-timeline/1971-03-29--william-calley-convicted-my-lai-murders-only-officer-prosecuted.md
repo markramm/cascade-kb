@@ -6,7 +6,7 @@ title: William Calley Convicted of My Lai Murders - Only Officer Prosecuted Desp
 importance: 8
 actors:
 - Lieutenant William Calley
-- President Richard Nixon
+- Richard Nixon
 - Secretary of the Army Howard Callaway
 - Lieutenant General William Peers
 sources:

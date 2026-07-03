@@ -17,7 +17,7 @@ tags:
   - senate-confirmation
   - 51-50
 actors:
-  - JD Vance
+  - J.D. Vance
   - Pete Hegseth
   - U.S. Senate
   - Mitch McConnell

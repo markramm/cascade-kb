@@ -5,7 +5,7 @@ date: 1913-04-11
 title: 'Wilson Administration Segregates Federal Government: Jim Crow Comes to Washington'
 importance: 8
 actors:
-- President Woodrow Wilson
+- Woodrow Wilson
 - Postmaster General Albert Burleson
 - Treasury Secretary William McAdoo
 - NAACP

@@ -8,7 +8,7 @@ actors:
 - United Auto Workers Local 1112
 - General Motors Assembly Division
 - General Motors Corporation
-- Senator Ted Kennedy
+- Ted Kennedy
 tags:
 - labor-organizing
 - democratic-resistance

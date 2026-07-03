@@ -18,7 +18,7 @@ actors:
   - Doug Wilson
   - Saurabh Sharma
   - Nick Solheim
-  - JD Vance
+  - J.D. Vance
   - American Moment
 sources:
   - title: "Doug Wilson Has Spent Decades Pushing for a Christian Theocracy. In Trump's DC, the New Right Is Listening."

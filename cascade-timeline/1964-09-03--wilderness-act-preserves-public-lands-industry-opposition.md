@@ -5,7 +5,7 @@ date: 1964-09-03
 title: Wilderness Act Signed After Eight Years of Industry Opposition, Creates National Wilderness Preservation System
 importance: 8
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Howard Zahniser
 - Wilderness Society
 - U.S. Forest Service

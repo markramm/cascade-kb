@@ -5,7 +5,7 @@ date: 1999-11-12
 title: Gramm-Leach-Bliley Act Retroactively Legalizes Citigroup Merger, Repeals Glass-Steagall
 importance: 9
 actors:
-- President Bill Clinton
+- Bill Clinton
 - Phil Gramm
 - Jim Leach
 - Thomas Bliley Jr

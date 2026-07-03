@@ -22,7 +22,7 @@ actors:
   - Schuylkill County
   - Tremont Township
   - Big Lots
-  - US Navy
+  - U.S. Navy
   - John Phelan
   - Brendan Rogers
   - Donald Trump

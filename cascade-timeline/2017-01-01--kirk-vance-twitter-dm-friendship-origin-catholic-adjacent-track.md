@@ -16,7 +16,7 @@ tags:
   - christian-nationalism
 actors:
   - Charlie Kirk
-  - JD Vance
+  - J.D. Vance
 sources:
   - title: "JD Vance describes relationship with Charlie Kirk: 'True friend'"
     url: https://thenationaldesk.com/news/americas-news-now/jd-vance-describes-relationship-with-charlie-kirk-true-friend

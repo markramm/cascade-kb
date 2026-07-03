@@ -18,7 +18,7 @@ tags:
   - capture-cascade
 actors:
   - Robert Reich
-  - JD Vance
+  - J.D. Vance
   - Marco Rubio
   - Mike Johnson
   - John Thune

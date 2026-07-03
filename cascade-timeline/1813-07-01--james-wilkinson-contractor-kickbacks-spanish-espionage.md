@@ -8,7 +8,7 @@ actors:
 - General James Wilkinson
 - Spanish Empire
 - U.S. Army contractors
-- President James Madison
+- James Madison
 tags:
 - military-corruption
 - espionage

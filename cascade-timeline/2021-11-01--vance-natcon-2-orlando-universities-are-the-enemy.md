@@ -17,7 +17,7 @@ tags:
   - theological-vocabulary
   - edmund-burke-foundation
 actors:
-  - JD Vance
+  - J.D. Vance
   - Edmund Burke Foundation
 sources:
   - title: "JD Vance - National Conservatism Conference, 2021"

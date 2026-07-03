@@ -11,7 +11,7 @@ actors:
 - John Mitchell
 - South Vietnamese President Nguyen Van Thieu
 - Ambassador Bui Diem
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 sources:
 - title: The Anna Chennault Affair
   outlet: Wilson Center

@@ -35,7 +35,7 @@ actors:
 - Admiral Frank "Mitch" Bradley
 - Pete Hegseth
 - Donald Trump
-- Senator Angus King
+- Angus King
 - Tren de Aragua
 capture_lanes:
 - Judicial Capture

@@ -5,7 +5,7 @@ date: 1998-10-07
 title: Higher Education Act Reauthorization Loosens Regulations, Enables For-Profit College Explosion
 importance: 7
 actors:
-- President Bill Clinton
+- Bill Clinton
 - U.S. Congress
 - University of Phoenix
 - Career Education Corporation

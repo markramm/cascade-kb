@@ -6,7 +6,7 @@ importance: 6
 title: Supreme Court Dismisses All Trump Emoluments Cases as Moot
 location: Washington DC
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - CREW (Citizens for Responsibility and Ethics in Washington)
 - District of Columbia

@@ -5,7 +5,7 @@ date: 1823-12-02
 title: Monroe Doctrine Proclaimed, Establishing Imperial Paradox of Anti-Colonial Rhetoric Masking U.S. Expansion
 importance: 8
 actors:
-- President James Monroe
+- James Monroe
 - Secretary of State John Quincy Adams
 - European colonial powers
 tags:

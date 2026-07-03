@@ -5,9 +5,9 @@ date: 2002-01-08
 title: No Child Left Behind Act Creates Testing-Industrial Complex and Punitive Accountability Regime
 importance: 8
 actors:
-- President George W. Bush
-- Senator Ted Kennedy
-- Representative John Boehner
+- George W. Bush
+- Ted Kennedy
+- John Boehner
 - Pearson Education
 - ETS
 - McGraw-Hill

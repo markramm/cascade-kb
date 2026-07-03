@@ -5,7 +5,7 @@ date: 1967-07-28
 title: Reagan Signs Mulford Act Gun Control Law With NRA Support to Disarm Black Panthers Armed Patrols
 importance: 7
 actors:
-- Governor Ronald Reagan
+- Ronald Reagan
 - Don Mulford
 - National Rifle Association
 - Black Panther Party

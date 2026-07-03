@@ -6,17 +6,17 @@ importance: 10
 title: 'Supreme Court Grants Broad Presidential Immunity in Trump v. United States, Creating King-Like Powers'
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
-- Justice Clarence Thomas
-- Justice Samuel Alito
-- Justice Neil Gorsuch
-- Justice Brett Kavanaugh
-- Justice Amy Coney Barrett
+- John Roberts
+- Clarence Thomas
+- Samuel Alito
+- Neil Gorsuch
+- Brett Kavanaugh
+- Amy Coney Barrett
 - Donald Trump
 - Special Counsel Jack Smith
-- Justice Sonia Sotomayor
-- Justice Elena Kagan
-- Justice Ketanji Brown Jackson
+- Sonia Sotomayor
+- Elena Kagan
+- Ketanji Brown Jackson
 - Leonard Leo
 - Federalist Society
 tags:

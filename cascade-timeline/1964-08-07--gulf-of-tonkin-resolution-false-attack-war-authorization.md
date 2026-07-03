@@ -5,7 +5,7 @@ date: 1964-08-07
 title: Gulf of Tonkin Resolution Passes Based on Fabricated Second Attack Authorizing Vietnam War Escalation
 importance: 9
 actors:
-- President Lyndon B. Johnson
+- Lyndon B. Johnson
 - Secretary of Defense Robert McNamara
 - National Security Agency
 - U.S. Congress

@@ -5,7 +5,7 @@ title: 'JD Vance Writes Foreword for Project 2025 Architect''s Book'
 importance: 8
 status: confirmed
 actors:
-- JD Vance
+- J.D. Vance
 - Kevin Roberts
 - Heritage Foundation
 - Paul Dans

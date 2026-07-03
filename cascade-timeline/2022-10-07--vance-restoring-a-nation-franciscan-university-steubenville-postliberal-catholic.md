@@ -17,7 +17,7 @@ tags:
   - pre-vp-era
   - deliberate-synthesis
 actors:
-  - JD Vance
+  - J.D. Vance
   - Sohrab Ahmari
   - Patrick Deneen
   - Adrian Vermeule

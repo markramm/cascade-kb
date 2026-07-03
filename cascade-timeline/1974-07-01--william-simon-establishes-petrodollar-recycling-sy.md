@@ -9,7 +9,7 @@ actors:
 - Richard Nixon
 - King Faisal
 - Henry Kissinger
-- US Treasury
+- U.S. Treasury
 - Saudi Arabia
 tags:
 - petrodollar-system

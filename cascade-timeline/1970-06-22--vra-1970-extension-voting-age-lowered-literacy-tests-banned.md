@@ -8,7 +8,7 @@ actors:
 - Richard Nixon
 - U.S. Congress
 - Emanuel Celler
-- Attorney General John Mitchell
+- John Mitchell
 tags:
 - voting-rights
 - federal-legislation

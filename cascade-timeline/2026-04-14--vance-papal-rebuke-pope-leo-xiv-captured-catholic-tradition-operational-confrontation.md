@@ -20,7 +20,7 @@ tags:
   - religious-capture
   - turning-point-usa
 actors:
-  - JD Vance
+  - J.D. Vance
   - Pope Leo XIV
   - Bishop James Massa
   - Tom Homan

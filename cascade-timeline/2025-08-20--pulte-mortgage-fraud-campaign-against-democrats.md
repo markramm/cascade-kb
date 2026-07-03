@@ -20,7 +20,7 @@ actors:
 - William Pulte
 - Adam Schiff
 - Letitia James
-- fhfa
+- FHFA
 - Fannie Mae
 - Freddie Mac
 capture_lane: political

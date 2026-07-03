@@ -6,9 +6,9 @@ title: Multi-Organizational Civil Rights Litigation Coordination Summit
 actors:
 - Lawyers for Civil Rights
 - Brennan Center
-- EarthJustice
+- Earthjustice
 - American Civil Liberties Union
-- The Leadership Conference on Civil and Human Rights
+- Leadership Conference on Civil and Human Rights
 - Legal Defense Fund
 - Asian Americans Advancing Justice
 - LatinoJustice

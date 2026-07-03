@@ -7,7 +7,7 @@ title: Federal Election Commission Begins Operations, Institutionalizing Corpora
 location: Washington, D.C.
 actors:
 - Federal Election Commission
-- President Gerald Ford
+- Gerald Ford
 tags:
 - fec
 - corporate-pacs

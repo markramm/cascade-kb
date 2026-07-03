@@ -10,8 +10,8 @@ actors:
 - JPMorgan Chase
 - Bank of America
 - Citigroup
-- Senator Chuck Grassley
-- Senator Sherrod Brown
+- Chuck Grassley
+- Sherrod Brown
 tags:
 - institutional-capture
 - regulatory-capture

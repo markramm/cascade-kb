@@ -20,12 +20,12 @@ tags:
 actors:
   - Donald Trump
   - Masoud Pezeshkian
-  - JD Vance
+  - J.D. Vance
   - Mohammad Bagher Ghalibaf
   - Steve Witkoff
   - Jared Kushner
   - Iran
-  - US Military
+  - U.S. Military
 sources:
   - title: "Trump formally signs U.S.-Iran deal as questions linger about nuclear program, missiles"
     url: https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-israel/

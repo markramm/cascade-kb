@@ -6,8 +6,8 @@ title: Supreme Court Rejects King v. Burwell Challenge to ACA Subsidies in Feder
 importance: 8
 actors:
 - U.S. Supreme Court
-- Chief Justice John Roberts
-- Justice Antonin Scalia
+- John Roberts
+- Antonin Scalia
 - King (Plaintiff)
 - Sylvia Burwell (HHS Secretary)
 tags:

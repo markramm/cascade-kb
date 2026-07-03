@@ -7,7 +7,7 @@ importance: 9
 status: confirmed
 actors:
 - Kilmar Abrego Garcia
-- Judge Waverly Crenshaw
+- Waverly Crenshaw
 - Todd Blanche
 - Aakash Singh
 - Rob McGuire

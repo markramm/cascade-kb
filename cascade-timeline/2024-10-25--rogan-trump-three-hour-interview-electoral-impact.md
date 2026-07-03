@@ -16,7 +16,7 @@ actors:
 - Joe Rogan
 - Donald Trump
 - Elon Musk
-- JD Vance
+- J.D. Vance
 sources:
 - title: Trump's interview with Joe Rogan had over 50 million views
   url: https://www.cnn.com/2024/10/26/media/trump-rogan-interview-50-million-views/index.html

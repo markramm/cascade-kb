@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Jay Gould
 - James Fisk
-- President Ulysses S. Grant
+- Ulysses S. Grant
 - Abel Corbin
 - U.S. Treasury
 tags:

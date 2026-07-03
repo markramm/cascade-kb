@@ -5,7 +5,7 @@ date: 1801-02-13
 title: Midnight Judges Act Enables Lame-Duck Court Packing by Defeated Federalists
 importance: 8
 actors:
-- President John Adams
+- John Adams
 - Federalist Party
 - U.S. Senate
 - William Marbury

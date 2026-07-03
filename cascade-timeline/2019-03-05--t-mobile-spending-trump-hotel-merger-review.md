@@ -12,8 +12,8 @@ actors:
 - Trump International Hotel Washington
 - Federal Communications Commission
 - DOJ Antitrust Division
-- Senator Elizabeth Warren
-- Representative Pramila Jayapal
+- Elizabeth Warren
+- Pramila Jayapal
 tags:
 - merger-review
 - lobbying

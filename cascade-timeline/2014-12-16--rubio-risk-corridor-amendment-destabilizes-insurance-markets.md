@@ -5,7 +5,7 @@ date: 2014-12-16
 title: Marco Rubio's Risk Corridor Amendment Triggers ACA Insurance Market Destabilization
 importance: 8
 actors:
-- Senator Marco Rubio
+- Marco Rubio
 - U.S. Congress
 - U.S. Department of Health and Human Services
 - Insurance Companies

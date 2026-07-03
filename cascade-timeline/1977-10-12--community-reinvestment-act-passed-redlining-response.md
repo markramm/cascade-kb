@@ -5,8 +5,8 @@ date: 1977-10-12
 title: Community Reinvestment Act Passed to Combat Redlining, Banking Industry Resists
 importance: 7
 actors:
-- President Jimmy Carter
-- Senator William Proxmire
+- Jimmy Carter
+- William Proxmire
 - American Bankers Association
 - Federal Reserve
 - FDIC

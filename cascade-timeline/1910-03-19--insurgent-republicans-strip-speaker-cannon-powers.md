@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Joseph Cannon
 - George William Norris
-- President William Howard Taft
+- William Howard Taft
 - Progressive Republicans
 tags:
 - progressive-era

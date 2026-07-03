@@ -15,7 +15,7 @@ actors:
 - James Comey
 - Letitia James
 - Lindsey Halligan
-- Judge Cameron McGowan Currie
+- Cameron McGowan Currie
 - Erik Siebert
 - Department of Justice
 sources:

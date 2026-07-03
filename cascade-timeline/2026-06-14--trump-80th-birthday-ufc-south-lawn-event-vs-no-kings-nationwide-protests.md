@@ -15,7 +15,7 @@ tags:
 actors:
   - Donald Trump
   - UFC / TKO Group
-  - No Kings coalition
+  - No Kings Coalition
   - Committee for the First Amendment
   - Jane Fonda
   - Bette Midler

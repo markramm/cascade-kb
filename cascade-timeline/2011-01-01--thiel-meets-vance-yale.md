@@ -38,7 +38,7 @@ sources:
   tier: 1
 status: confirmed
 tags:
-- j.d.-vance
+- jd-vance
 - peter-thiel
 - yale-law-school
 - political-pipeline
