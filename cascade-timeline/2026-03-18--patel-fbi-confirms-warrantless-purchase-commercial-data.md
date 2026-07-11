@@ -34,6 +34,8 @@ coverage:
     title: "Make Yourself Expensive: A Field Guide to Shrinking Your Data Footprint"
   - url: https://theramm.transparencycascade.org/p/harden-your-android-the-settings
     title: "Harden Your Android: The Settings That Make You Expensive"
+  - url: https://theramm.transparencycascade.org/p/harden-your-iphone-the-settings-that
+    title: "Harden Your iPhone: The Settings That Make You More Expensive"
 sources:
   - title: "ICE surveillance, data brokers, and Congress (FBI Director Patel confirms warrantless purchase of commercially-available data)"
     url: https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic
