@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2026-07-06--prince-georges-county-md-2-year-datacenter-moratorium-vote
 date: '2026-07-06'
-title: "Prince George's County MD Council Prepares Vote on 2-Year Data Center Moratorium"
+title: "Prince George's County MD Council Passes 2-Year Data Center Moratorium"
 importance: 7
-status: reported
+status: confirmed
 tags:
   - datacenter-buildout
   - local-resistance
@@ -20,6 +20,8 @@ sources:
     tier: 1
 ---
 
-Prince George's County, MD Council Chair Krystal Oriadha said she has the votes — though not unanimously — for a two-year moratorium on new data-center operations, with a vote expected this week (week of July 6). The county's previous AI data-center moratorium expired July 1; County Executive Aisha Braveboy issued an executive pause in September 2025 to bridge the gap between the two moratoriums. The county already hosts five data centers.
+Prince George's County, MD Council Chair Krystal Oriadha said she had the votes — though not unanimously — for a two-year moratorium on new data-center operations. The county's previous AI data-center moratorium expired July 1; County Executive Aisha Braveboy issued an executive pause in September 2025 to bridge the gap between the two moratoriums. The county already hosts five data centers.
 
-This is the second time in roughly a year the county has imposed this kind of restriction, signaling persistent political resistance to further expansion despite the county's position in the DC-metro datacenter corridor — the same corridor generating moratorium fights in Loudoun-adjacent jurisdictions and now Washington County, MD ([[2026-07-02--washington-county-md-datacenter-moratorium]]).
+This is the second time in roughly a year the county has imposed this kind of restriction, signaling persistent political resistance to further expansion despite the county's position in the DC-metro datacenter corridor — the same corridor generating moratorium fights in Loudoun-adjacent jurisdictions and Washington County, MD ([[2026-07-02--washington-county-md-datacenter-moratorium]]).
+
+**Update (2026-07-08):** WTOP, Maryland Matters, and WJLA confirm the Council passed the moratorium approximately 7-1-3 (one no, three abstentions). Commissioner Tim Adams cast the sole no vote, citing the two-year length as excessive. The measure can be lifted early if the county adopts a formal zoning framework for data-center siting; it follows an earlier interim pause the county had already extended.
