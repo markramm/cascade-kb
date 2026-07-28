@@ -65,10 +65,12 @@ Socorro City Council raised objections to the conversion, citing the 8,500-bed c
 
 Flint had also negotiated an OKC ICE deal (2800 S. Council Road, Oklahoma City) but withdrew on January 29, 2026 after public pressure and city council opposition — making Flint unique in the WEXMAC-TITUS cohort as the only firm to complete one acquisition and withdraw from a second.
 
+**Update (2026-07-27):** The planned 8,500-bed facility was quietly scaled back to a smaller ICE training campus and offices between February and June 2026, following talks Rep. Veronica Escobar brokered with acting ICE director David Venturella on June 12. Three Catholic parishes, coordinated by 82-year-old organizer Maria Estella Padilla — who won running water for the area in the 1980s — are the resistance infrastructure opposing the facility. On May 18, water pressure dropped enough to force a local dialysis center to close for the day, an early sign of the infrastructure strain the buildout imposes on the surrounding community. Venturella, who spent 10+ years at GEO Group before becoming acting ICE director, was unable to give Escobar a detainee count when pressed. Source: [Religion News Service — Inside the parish-led fight against a $123M ICE facility in Texas](https://religionnews.com/?p=4270170).
+
 ## Research Gaps
 
 - [ ] Flint's land acquisition cost and Harvey Cleary construction cost for Eastwind Logistics Center — requires El Paso County deed records (interactive portal)
-- [ ] Whether DHS conversion of the 8,500-bed facility proceeded on schedule
+- [ ] FOIA ICE for the revised program of requirements and detainee capacity plans behind the scale-back
 - [ ] Status of adjacent plot off Gateway Boulevard East
 
 ## Related Entries
